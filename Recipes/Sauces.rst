@@ -1,0 +1,764 @@
+.. raw:: pdf
+
+   OddPageBreak tocPage
+
+Sauces and Dips
+***************
+
+.. contents:: Sauces and Dips
+   :local:
+   :depth: 1
+
+.. raw:: pdf
+
+   OddPageBreak recipePage
+
+All-Purpose Gravy
+=================
+
+Ingredients
+-----------
+
+-  1 small carrot, peeled and chopped into rough 1/2-inch pieces (about
+   1/2 cup)
+-  1 small rib celery, chopped into rough 1/2-inch pieces (about 1/2
+   cup)
+-  1 small onion, chopped into rough 1/2-inch pieces (about 3/4 cup)
+-  3 tablespoons unsalted butter
+-  1/4 cup unbleached all-purpose flour
+-  2 cups low-sodium chicken broth
+-  2 cups low-sodium beef broth
+-  1 bay leaf
+-  1/4 teaspoon dried thyme
+-  5 whole black peppercorns
+-  Salt and ground black pepper
+
+
+Directions
+----------
+
+1. In food processor, pulse carrot until broken into rough 1/4-inch
+   pieces, about five 1-second pulses. Add celery and onion; pulse until
+   all vegetables are broken into 1/8-inch pieces, about five 1-second
+   pulses.
+2. Heat butter in large heavy-bottomed saucepan over medium-high heat;
+   when foaming subsides, add vegetables and cook, stirring frequently,
+   until softened and well browned, about 7 minutes. Reduce heat to
+   medium; stir in flour and cook, stirring constantly, until thoroughly
+   browned and fragrant, about 5 minutes. Whisking constantly, gradually
+   add broths; bring to boil, skimming off any foam that forms on
+   surface. Reduce heat to medium-low and add bay leaf, thyme, and
+   peppercorns; simmer, stirring occasionally, until thickened and
+   reduced to 3 cups, 20 to 25 minutes.
+3. Strain gravy through fine-mesh strainer into clean saucepan, pressing
+   on solids to extract as much liquid as possible; discard solids.
+   Adjust seasonings with salt and pepper. Serve hot.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+Turkey Gravy
+============
+
+
+Ingredients
+-----------
+
+-  1 tablespoon vegetable oil
+-  Reserved turkey giblets and neck
+-  1 onion, unpeeled and chopped
+-  4 cups low-sodium chicken broth
+-  2 cups water
+-  2 sprigs fresh thyme
+-  8 parsley stems
+-  3 tablespoons unsalted butter
+-  1/4 cup all-purpose flour
+-  1 cup dry white wine
+
+
+Directions
+----------
+
+1.  Make the Broth: Heat oil in large saucepan over medium-high heat.
+    Brown turkey giblets and neck for 5 minutes. Cook onion for 3
+    minutes. Cover and cook over low heat for 20 minutes.
+2.  Add chicken broth and water, scrape pan bottom, and bring to boil.
+    Add herbs and simmer, skimming foam from surface, for 30 minutes.
+3.  Pour broth through fine-mesh strainer. Reserve and dice heart and
+    gizzard. Refrigerate broth and diced giblets until ready to use.
+4.  Make the Roux and Thicken the Broth: Melt butter in large saucepan
+    over medium-low heat. Whisk in flour. Cook, stirring constantly,
+    until nutty brown and fragrant, 10 to 15 minutes. Bring reserved
+    turkey broth to simmer.
+5.  Gradually add hot turkey broth to roux. Vigorous and constant
+    whisking at this point is key to avoiding lumps. Reserve 1 cup of
+    broth for deglazing roasting pan (see #9).
+6.  Simmer gravy, stirring occasionally and skimming scum from surface
+    with spoon, until thickened, about 30 minutes. Set aside, covered,
+    until turkey is done.
+7.  Deglaze the Pan and Add the Drippings To the Gravy: Pour drippings
+    through mesh strainer set over measuring cup. Let liquid settle
+    until fat rises to top. Return vegetables in strainer to roasting
+    pan.
+8.  Tilt measuring cup and use wide, shallow soup spoon to skim fat off
+    surface. Reserve defatted drippings. Return gravy in saucepan to
+    simmer.
+9.  Place roasting pan over two burners at medium-high heat. Add wine
+    and reserved 1 cup broth and scrape up browned bits in pan. Boil
+    until liquid reduces by half, 5 minutes.
+10. Strain roasting pan liquid into gravy, pressing on solids to extract
+    all liquid. Add defatted drippings to taste. Stir in giblets and
+    serve.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+Sauce Base
+==========
+
+-  Source: `Cooks
+   Illustrated <https://www.cooksillustrated.com/recipes/6965-sauce-base?incode=MCSCD00L0&ref=new_search_experience_5>`__
+   In our Sauce Base recipe for Pan-Seared Steaks, roughly chopping the
+   aromatics increased their surface area, which offered more
+   opportunity for flavorful browning when we sauteed them. Mushrooms
+   ramped up the savory flavor, and browning ground beef with tomato
+   paste gave our demi-glace meatiness. And to mimic the glossiness that
+   real demi-glace gets from collagen-rich bones, we used powdered
+   gelatin.
+
+
+Ingredients
+-----------
+
+-  1 small onion, peeled and cut into rough 1/2-inch pieces
+-  1 small carrot, peeled and cut into rough 1/2-inch pieces
+-  8 ounces cremini mushrooms, stems trimmed and caps wipes clean and
+   halved
+-  2 medium garlic cloves, peeled
+-  1 tablespoon vegetable oil
+-  8 ounces 85 percent lean ground beef
+-  1 tablespoon tomato paste
+-  2 cups dry red wine
+-  4 cups low-sodium beef broth (see note)
+-  4 sprigs fresh thyme
+-  2 bay leaves
+-  2 teaspoons whole black peppercorns
+-  2 packages (5 teaspoons) unflavored powdered gelatin
+
+
+Directions
+----------
+
+1. Process onion, carrot, mushrooms, and garlic in food processor into
+   1/8-inch pieces, 10 to 12 one-second pulses, scraping down sides of
+   bowl as needed.
+2. Heat oil in Dutch oven over medium-high heat until shimmering; add
+   beef and tomato paste and cook, stirring frequently, until beef is
+   well browned, 8 to 10 minutes. Add vegetable mixture and cook,
+   stirring occasionally, until any exuded moisture has evaporated,
+   about 8 minutes. Add wine and bring to simmer, scraping bottom of pan
+   with wooden spoon to loosen browned bits. Add beef broth, thyme, bay
+   leaves, and peppercorns; bring to boil. Reduce heat and gently boil,
+   occasionally scraping bottom and sides of pot and skimming fat from
+   surface, until reduced to 2 cups, 20 to 25 minutes.
+3. Strain mixture through fine-mesh strainer set over small saucepan,
+   pressing on solids with rubber spatula to extract as much liquid as
+   possible (you should have about 1 cup stock). Sprinkle gelatin over
+   stock and stir to dissolve. Place saucepan over medium-high heat and
+   bring stock to boil. Gently boil, stirring occasionally, until
+   reduced to 1/2 cup, 5 to 7 minutes. Remove from heat and cover to
+   keep warm.
+
+
+Make Ahead
+----------
+
+Sauce Base can be refrigerated for up to 3 days or frozen for up to one
+month.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+Red Wine-Mushroom Pan Sauce
+===========================
+
+Source: `Cooks
+Illustrated <https://www.cooksillustrated.com/recipes/3565-red-wine-mushroom-pan-sauce>`__
+
+
+Ingredients
+-----------
+
+-  1 tablespoon vegetable oil
+-  8 ounces button mushrooms, trimmed and sliced thin (about 3 cups)
+-  1 small shallot, minced (about 1 1/2 tablespoons)
+-  1 cup dry red wine
+-  1/2 cup low-sodium chicken broth
+-  1 tablespoon balsamic vinegar
+-  1 teaspoon Dijon mustard
+-  2 tablespoons cold unsalted butter, cut into 4 pieces
+-  1 teaspoon minced fresh thyme leaves
+-  Salt and ground black pepper
+
+
+Directions
+----------
+
+Pour off any fat from skillet in which steaks were cooked. Heat oil over
+medium-high heat until just smoking. Add mushrooms and cook, stirring
+occasionally, until beginning to brown and liquid has evaporated, about
+5 minutes. Add shallot and cook, stirring frequently, until beginning to
+soften, about 1 minute. Increase heat to high; add red wine and broth,
+scraping bottom of skillet with wooden spoon to loosen any browned bits.
+Simmer rapidly until liquid and mushrooms are reduced to 1 cup, about 6
+minutes. Add vinegar, mustard, and any juices from resting steaks; cook
+until thickened, about 1 minute. Off heat, whisk in butter and thyme;
+season with salt and pepper to taste. Spoon sauce over steaks and serve
+immediately.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+Mustard-Creme Fraiche Sauce
+===========================
+
+-  Source: `Cooks
+   Illustrated <https://www.cooksillustrated.com/recipes/8059-mustard-creme-fraiche-sauce-for-two>`__
+
+
+Ingredients
+-----------
+
+-  1/4 cup creme fraiche
+-  1 1/2 tablespoons Dijon mustard
+-  1 1/2 tablespoons chopped fresh flat leaf parsley
+-  Salt and pepper
+
+
+Directions
+----------
+
+1. Whisk creme fraîche, mustard, and parsley together in bowl. Season
+   with salt and pepper to taste.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+Hollandaise Sauce
+=================
+
+
+Ingredients
+-----------
+
+-  1 egg yolk
+-  1 teaspoon water
+-  1 teaspoon lemon juice from 1 lemon
+-  Kosher salt
+-  8 tablespoons butter (1 stick)
+-  Pinch cayenne pepper or 1 dash hot sauce (if desired)
+-  1 dash worcestershire sauce (if desired)
+
+
+Directions
+----------
+
+1. Combine egg yolk, water, lemon juice, and a pinch of salt in the
+   bottom of a cup that barely fits the head of an immersion blender.
+   Melt butter in a small saucepan over high heat, swirling constantly,
+   until foaming subsides. Transfer butter to a 1 cup liquid measuring
+   cup.
+2. Place head of immersion blender into the bottom of the cup and turn
+   it on. With the blender constantly running, slowly pour hot butter
+   into cup. It should emulsify with the egg yolk and lemon juice.
+   Continue pouring until all butter is added. Sauce should be thick and
+   creamy. Season to taste with salt and a pinch of cayenne pepper or
+   hot sauce (if desired) and worcestershire sauce (if desired). Serve
+   immediately, or transfer to a small lidded pot and keep in a warm
+   place for up to 1 hour before serving.
+   Hollandaise cannot be cooled and reheated.
+
+Variation
+---------
+For a simple Bearnaise Sauce, add 1 tbsp. chopped tarragon, and 1 tbsp. chopped parsley
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+Bearnaise Sauce
+===============
+
+
+Ingredients
+-----------
+
+-  1/4 cup white wine vinegar
+-  1/2 cup dry white wine
+-  4 sprigs tarragon, leaves finely minced, stems reserved separately
+-  1 small shallot, roughly chopped
+-  1/2 teaspoon whole black peppercorns
+-  2 egg yolks
+-  Kosher salt
+-  1 1/2 sticks (12 tablespoons) unsalted butter
+
+
+Directions
+----------
+
+1. Combine vinegar, wine, herb stems, shallots, and black peppercorns in
+   a small saucepan. Bring to a simmer over medium-high heat and lower
+   heat to maintain a gently simmer. Cook until reduced to about 1 1/2
+   tablespoons of liquid, about 15 minutes. Carefully strain liquid
+   through a fine mesh strainer into a small bowl, pressing on the
+   solids with the back of a spoon to extract as much liquid as
+   possible.
+2. Combine vinegar reduction, egg yolk, and a pinch of salt in the
+   bottom of a cup that barely fits the head of an immersion blender.
+   Melt butter in a small saucepan over high heat, swirling constantly,
+   until foaming subsides. Transfer butter to a 1-cup liquid measuring
+   cup.
+3. Place head of immersion blender into the bottom of the cup and turn
+   it on. With the blender constantly running, slowly pour hot butter
+   into cup. It should emulsify with the egg yolk and vinegar reduction.
+   Continue pouring until all butter is added. Sauce should be thick and
+   creamy. If it is thin and runny, transfer to a large bowl set over a
+   pot of barely simmering water. Whisk constantly and vigorously until
+   sauce is thickened. Season to taste with salt. Whisk in chopped
+   tarragon. Serve immediately, or transfer to a small lidded pot and
+   keep in a warm place for up to 1 hour before serving. Bearnaise
+   cannot be cooled and reheated.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+Asian Dipping Sauce
+===================
+
+Ingredients
+-----------
+
+-  2 tablespoons soy sauce
+-  1 scallion, sliced thin
+-  1 tablespoon water
+-  2 teaspoons rice vinegar
+-  1 teaspoon honey
+-  1 teaspoon toasted sesame oil
+-  Pinch red pepper flakes
+
+Directions
+----------
+
+1. Whisk all ingredients together in small bowl.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+Teriyaki Sauce
+==============
+
+Ingredients
+-----------
+
+-  1/2 cup soy sauce
+-  1/2 cup sugar
+-  1/2 teaspoon grated fresh ginger
+-  1 clove garlic, minced or pressed through garlic press (about 1
+   teaspoon)
+-  2 tablespoons mirin
+-  1/2 teaspoon cornstarch
+
+
+Directions
+----------
+
+1. Combine soy sauce, sugar, ginger, and garlic in small saucepan
+2. Stir together mirin and cornstarch in small bowl until no lumps
+   remain, then stir mirin mixture into saucepan.
+3. Bring sauce to boil over medium-high heat, stirring occasionally;
+   reduce heat to medium-low and simmer, stirring occasionally, until
+   sauce is reduced to 3/4 cup and forms syrupy glaze, about 4 minutes.
+   Cover to keep warm.
+
+.. raw:: pdf
+
+   OddPageBreak recipePage
+
+Ssam Sauce
+==========
+
+Ingredients
+-----------
+
+- 1/4 cup doenjang (korean soybean paste)
+- 2 tablespoons gochujang (korean chili paste)
+- 2 tablespoons sesame oil
+- 1/2 tablespoons honey
+- 2 teaspoons toasted sesame seeds
+- 1/2 tsp minced garlic
+- 1 tablespoon onion, chopped
+- 2 tablespoons walnuts or your choice of nuts – this will add more nutty flavor and creamier texture (optional)
+
+Directions
+----------
+
+1. Place all ingredients, except for the green onion, in a food processor and
+   blend until well combined. Garnish with the green onion.
+
+Notes
+-----
+Ssam sauce will keep in the fridge for weeks.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+Simple Tomato Sauce
+===================
+
+*Makes enough to dress 3/4 pound pasta; Serves 3*
+
+Ingredients
+-----------
+
+-  1 (28-ounce) can diced tomatoes or whole tomatoes (1 can), not packed
+   in puree or sauce
+-  2 medium cloves garlic, peeled and chopped coarse
+-  3 tablespoons extra-virgin olive oil
+-  2 tablespoons coarsely chopped fresh basil leaves, (about 8 leaves)
+-  1/4 teaspoon granulated sugar
+-  1 1/2 teaspoons table salt
+
+Directions
+----------
+
+1. If using diced tomatoes, go to step 2. If using whole tomatoes, drain
+   and reserve liquid. Dice tomatoes either by hand or in work bowl of
+   food processor fitted with metal blade (three or four pulses at 1/2
+   second). Tomatoes should be coarse, with 1/4-inch pieces visible. If
+   necessary, add enough reserved liquid to tomatoes to total 2 cups.
+2. Process garlic through garlic press into small bowl; stir in 1
+   teaspoon water. Heat oil and garlic in 10-inch saute pan over medium
+   heat until fragrant but not brown, about 2 minutes. Stir in tomatoes;
+   simmer until thickened slightly, about 10 minutes. Stir in basil,
+   sugar, and salt, and cook, stirring constantly, for 1 minute. Serve
+   over pasta.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+Jalapeno and Cilantro Sauce
+===========================
+
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/8713-jalape-o-and-cilantro-sauce>`__
+
+Pairs great with roast chicken or pork.
+
+Ingredients
+-----------
+
+-  1 cup fresh cilantro leaves and stems, trimmed and chopped coarse
+-  3 jalapeño chiles, stemmed, seeded, and minced
+-  1/2 cup mayonnaise
+-  1 tablespoon lime juice
+-  2 garlic cloves, minced
+-  1/2 teaspoon kosher salt
+-  2 tablespoons extra-virgin olive oil
+
+Directions
+----------
+
+- Process cilantro, jalapeños, mayonnaise, lime juice, garlic, and salt
+  in blender for 1 minute. Scrape down sides of blender jar and
+  continue to process until smooth, about 1 minute longer. With blender
+  running, slowly add oil until incorporated. Transfer to bowl.
+
+----
+
+Feta-Mint Dip with Yogurt
+=========================
+
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/359-feta-mint-dip-with-yogurt>`__
+
+Ingredients
+-----------
+- 1 cup plain whole-milk yogurt
+- 1/2 cup mayonnaise
+- 2 1/2 ounces feta cheese, crumbled (1/2 cup)
+- 1/4 cup chopped fresh mint leaves
+- 2 medium scallions, roughly chopped
+- 2 teaspoons lemon juice from 1 lemon
+
+Directions
+----------
+1. Place yogurt in fine-mesh strainer or cheesecloth-lined colander set over
+   bowl. Cover with plastic wrap and refrigerate 8 to 24 hours; discard
+   liquid in bowl.
+2. Process all ingredients in food processor until smooth and creamy, about
+   30 seconds. Transfer dip to serving bowl, cover with plastic wrap, and
+   refrigerate until flavors are blended, at least 1 hour; serve cold with
+   crudités. (Can be refrigerated in airtight container for up to 2 days.)
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+Mint Yogurt Sauce
+=================
+
++-----------------------+-------------------+
+| Prep Time: 10 minutes | Yield: 4 servings |
++-----------------------+-------------------+
+
+Source: `Fire Escape Griller <https://www.youtube.com/watch?v=SPO9yN4bg20>`__
+
+Ingredients
+-----------
+- 1/2 cup plain whole milk yogurt
+- 1 tablespoon extra virgin olive oil
+- 1 tablespoon fresh squeezed lime juice
+- 2 tablespoons chopped mint
+- 2 tablespoons chopped red onion
+- salt and pepper to taste
+
+Directions
+----------
+Mix all ingredients together.
+
+----
+
+Sriracha-Lime Yogurt Sauce
+==========================
+Makes 2/3 cup
+
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/9720-sriracha-lime-yogurt-sauce>`__
+
+Ingredients
+-----------
+- 1/2 cup plain whole milk yogurt
+- 1 tablespoon extra virgin olive oil
+- 1 tablespoon fresh squeezed lime juice
+- 2 tablespoons chopped mint
+- 2 tablespoons chopped red onion
+- salt and pepper to taste
+
+Directions
+----------
+Mix all ingredients together.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+Red Pepper Mayonnaise
+=====================
+
+Ingredients
+-----------
+- 1 1/2 teaspoons lemon juice
+- 1 garlic clove, minced
+- 3/4 cup jarred roasted red pepper, rinsed and patted dry
+- 1/2 cup mayonnaise
+- 2 teaspoons tomato paste
+
+Directions
+----------
+1. Combine lemon juice and garlic in small bowl and let stand for 15 minutes.
+2. Process red peppers, mayonnaise, tomato paste, and lemon juice mixture in
+   food processor until smooth, about 15 seconds, scraping down sides of bowl
+   as needed. Season with salt to taste.
+3. Refrigerate until thickened, about 2 hours.
+
+----
+
+Maple-Chipotle Mayonnaise
+=========================
+
+Ingredients
+-----------
+- 1/2 cup mayonnaise
+- 1 tablespoon maple syrup
+- 1 tablespoon minced canned chipotle chile in adobo sauce
+- 1/2 teaspoon Dijon mustard
+
+Directions
+----------
+- Combine all ingredients in small bowl.
+
+----
+
+Basil Mayonnaise
+================
+
+Ingredients
+-----------
+- 1/2 cup mayonnaise
+- 1/2 cup fresh basil leaves
+- 1 tablespoon water
+- 1 teaspoon lemon juice
+
+Directions
+----------
+- Combine all ingredients in small bowl.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+Spicy Butter Sauce
+==================
+
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/8724-spicy-butter-sauce>`__
+
+Pairs great with roast chicken or as a spread on a burger.
+
+Ingredients
+-----------
+
+-  3 tablespoons hot sauce
+-  1 teaspoon cornstarch
+-  3 tablespoons cold butter, cut into 3 pieces
+
+Directions
+----------
+
+1. Whisk hot sauce and cornstarch together in small saucepan. Cook over
+   medium-low heat, whisking constantly, until mixture is bubbly and
+   thick, about 2 minutes. Off heat, whisk in butter, 1 piece at a time,
+   until melted. Serve warm.
+
+----
+
+Jalapeño and Cilantro Sauce
+===========================
+
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/8713-jalape-o-and-cilantro-sauce>`__
+
+Ingredients
+-----------
+- 1 cup fresh cilantro leaves and stems, trimmed and chopped coarse
+- 3 jalapeño chiles, stemmed, seeded, and minced
+- 1/2 cup mayonnaise
+- 1 tablespoon lime juice
+- 2 garlic cloves, minced
+- 1/2 teaspoon kosher salt
+- 2 tablespoons extra-virgin olive oil
+
+Directions
+----------
+- Process cilantro, jalapeños, mayonnaise, lime juice, garlic, and salt in
+  blender for 1 minute. Scrape down sides of blender jar and continue to
+  process until smooth, about 1 minute longer. With blender running, slowly
+  add oil until incorporated. Transfer to bowl.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+Sriracha Dipping Sauce
+======================
+
+Ingredients
+-----------
+- 1/2 cup mayonnaise
+- 1 1/2 tablespoons Sriracha sauce
+- 2 teaspoons lime juice
+- 1/4 teaspoon garlic powder
+
+Directions
+----------
+- Whisk all ingredients together in bowl. Cover and refrigerate until ready
+  to serve.
+
+----
+
+Lemon-Chive Dipping Sauce
+=========================
+
+Ingredients
+-----------
+- 1/2 cup mayonnaise
+- 2	tablespoons minced fresh chives
+- 1 teaspoon grated lemon zest plus 1 tablespoon juice
+- 1 teaspoon Worcestershire sauce
+- 1 teaspoon Dijon mustard
+- 1/4 teaspoon garlic powder
+
+Directions
+----------
+- Whisk all ingredients together in bowl. Cover and refrigerate until ready
+  to serve.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+Dips for Crudités
+=================
+
+Each combination makes 1 1/2 cups
+
+- Combine all ingredients in medium bowl until smooth and creamy. Transfer
+  dip to serving bowl, cover with plastic wrap, and refrigerate until flavors
+  are blended, at least 1 hour; serve cold with crudités. (Can be
+  refrigerated in airtight container for up to 2 days.)
+
+----
+
+Caesar Dip with Parmesan and Anchovies
+======================================
+
+- 1 cup mayonnaise
+- 1/2 cup sour cream
+- 1/2 ounce grated Parmesan cheese, (1/2 cup)
+- 1 tablespoon lemon juice from 1 lemon
+- 1 tablespoon minced fresh parsley leaves
+- 2 medium cloves garlic, pressed through garlic press or minced (about 2 teaspoons)
+- 2 anchovy fillets, minced to paste (about 1 teaspoon)
+- 1/8 teaspoon ground black pepper
+
+
+Creamy Horseradish Dip
+======================
+
+- 3/4 cup mayonnaise
+- 3/4 cup sour cream
+- 2 scallions, sliced thin
+- 1/4 cup prepared horseradish, squeezed of excess liquid
+- 1 tablespoon minced fresh parsley leaves
+- 1/8 teaspoon ground black pepper
+
+
+Green Goddess Dip
+=================
+
+- 3/4 cup mayonnaise
+- 3/4 cup sour cream
+- 2 medium cloves garlic, pressed through garlic press or minced (about 2 teaspoons)
+- 1/4 cup minced fresh parsley leaves
+- 1/4 cup minced fresh chives
+- 2 tablespoons minced fresh tarragon leaves
+- 1 tablespoon lemon juice from 1 lemon
+- 1/8 teaspoon table salt
+- 1/8 teaspoon ground black pepper
+
+
+Chipotle-Lime Dip with Scallions
+================================
+
+- 1 cup mayonnaise
+- 1/2 cup sour cream
+- 3 scallions, sliced thin
+- 2 medium cloves garlic, pressed through garlic press or minced (about 2 teaspoons)
+- 3 chipotle chiles en adobo (small), minced to paste (about 1 tablespoon)
+- 1/4 teaspoon adobo sauce, from chipotle peppers
+- 1 teaspoon grated lime zest
+- 1 tablespoon lime juice

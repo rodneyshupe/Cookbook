@@ -1,0 +1,156 @@
+  pageSetup:
+    size: Letter
+    width: null
+    height: null
+    margin-top: 10mm
+    margin-bottom: 5mm
+    margin-left: 20mm
+    margin-right: 20mm
+    margin-gutter: 0mm
+    spacing-header: 3mm
+    spacing-footer: 3mm
+    fontSize: 10
+    firstTemplate: coverPage
+
+  pageTemplates:
+    coverPage:
+      frames: []
+        [ 0cm, 33.34%, 100%, 33.34% ]
+      showHeader : false
+      showFooter : false
+      headerSeparator : false
+      footerSeparator : false
+
+    emptyPage:
+      frames: []
+        [ 0cm, 0cm, 100%, 100% ]
+      showHeader : true
+      showFooter : true
+      headerSeparator : false
+      footerSeparator : false
+
+    tocPage:
+      frames: []
+        [ 0%, 0%, 100%, 100% ]
+      showHeader : true
+      showFooter : true
+      headerSeparator : false
+      footerSeparator : false
+
+    recipePage:
+      frames: []
+        [ 0%, 0%, 100%, 100% ]
+      showHeader : true
+      showFooter : true
+
+    cutePage:
+      frames: []
+        [ 0%, 0%, 100%, 100% ]
+      showHeader : true
+      showFooter : true
+
+  linkColor: #2874A6
+
+  styles:
+    title:
+      fontSize: 200%
+      textColor: #2874A6
+
+    sidebar-ul:
+      padding-left: 0px
+
+    headertable:
+      borderWidth: 0
+      commands: []
+        [TEXTCOLOR, [ 0, 0 ], [ -1, -1 ], #1B4F72 ]
+        [LINEBELOW, [ 0, 0 ], [ -1, 0 ], 0.5, #1B4F72 ]
+
+    headertitleleft:
+      textColor: #1B4F72
+
+    headertitleright:
+      alignment: right
+      textColor: #1B4F72
+
+    footertable1:
+      borderPadding: 0
+      borderWidth: 0
+      colWidths: [90%, 10%]
+      commands: []
+        [LINEABOVE, [0, 0], [-1, 0], 0.5, #1B4F72 ]
+
+    footertable2:
+      borderPadding: 0
+      borderWidth: 0
+      colWidths: [10%, 90%]
+      commands: []
+        [LINEABOVE, [0, 0], [-1, 0], 0.5, #1B4F72 ]
+
+    ftrsection:
+      textColor: #1B4F72
+      fontSize: 10
+
+    ftrpage:
+      alignment: TA_CENTER
+      backColor: #2874A6
+      textColor: white
+      fontSize: 10
+      borderPadding: [3, 6]
+
+    ftrpageright:
+      alignment: TA_CENTER
+      backColor: #2874A6
+      textColor: white
+      fontSize: 10
+      borderPadding: [3, 6]
+
+    table:
+      commands: []
+        [VALIGN, [ 0, 0 ], [ -1, -1 ], TOP ]
+        [INNERGRID, [ 0, 0 ], [ -1, -1 ], 0.25, black ]
+        [ROWBACKGROUNDS, [0, 0], [-1, -1], [ white, #e0e0e0 ]]
+        [BOX, [ 0, 0 ], [ -1, -1 ], 0.25, black ]
+
+    table-heading:
+      parent: heading
+      fontName: stdBold
+      textColor: white
+      backColor:  #2874A6
+      alignment: TA_CENTER
+      valign: BOTTOM
+      borderPadding: 0
+
+    temptable:
+      parent: table
+      commands: []
+        [VALIGN, [ 0, 0 ], [ -1, -1 ], TOP ]
+        [INNERGRID, [ 0, 0 ], [ -1, -1 ], 0.25, black ]
+        [ROWBACKGROUNDS, [0, 0], [-1, -1], [ white, white ] ]
+        [BOX, [ 0, 0 ], [ -1, -1 ], 0.25, black ]
+
+    tblsubhead:
+      parent: heading
+      fontName: stdBold
+      backColor: #e0e0e0
+      borderPadding: [3, 6]
+
+    heading1:
+      textColor: #1B4F72
+
+    heading2:
+      textColor: #21618C
+
+    heading3:
+      textColor: #2874A6
+
+    bullet-list:
+      parent: bodytext
+      spaceBefore: 1
+      commands: []
+             [VALIGN, [ 0, 0 ], [ -1, -1 ], TOP ]
+             [RIGHTPADDING, [ 0, 0 ], [ 1, -1 ], 0 ]
+      colWidths: ["20", null]
+
+    bullet-list-item:
+      parent: bodytext
+      spaceBefore: 1

@@ -1,0 +1,156 @@
+{
+  "pageSetup": {
+    "size": "Letter",
+    "width": null,
+    "height": null,
+    "margin-top": "3mm",
+    "margin-bottom": "3mm",
+    "margin-left": "20mm",
+    "margin-right": "20mm",
+    "margin-gutter": "0mm",
+    "spacing-header": "1mm",
+    "spacing-footer": "1mm",
+    "fontSize": 10,
+    "showHeader" : true,
+    "showFooter" : true,
+    "headerSeparator" : true,
+    "footerSeparator" : true,
+    "firstTemplate": "coverPage"
+  },
+  "pageTemplates" : {
+    "coverPage": {
+      "frames": [
+        ["0cm", "33.34%", "100%", "33.34%"]
+      ],
+      "showHeader" : false,
+      "showFooter" : false,
+      "headerSeparator" : false,
+      "footerSeparator" : false
+    },
+    "emptyPage": {
+      "frames": [
+        ["0cm", "0cm", "100%", "100%"]
+      ],
+      "styles": [
+        ["ftrsection",
+          {
+            "textColor": "white"
+          }
+        ],
+        ["ftrpage",
+          {
+            "textColor": "white"
+          }
+        ]
+      ],
+      "showHeader" : true,
+      "showFooter" : true,
+      "headerSeparator" : true,
+      "footerSeparator" : true
+    },
+    "tocPage": {
+      "frames": [
+        ["0%", "0%", "100%", "100%"]
+      ],
+      "showHeader" : true,
+      "showFooter" : true,
+      "headerSeparator" : true,
+      "footerSeparator" : true
+    },
+    "recipePage": {
+      "frames": [
+        ["0%", "0%", "100%", "100%"]
+      ],
+      "showHeader" : true,
+      "showFooter" : true,
+      "headerSeparator" : true,
+      "footerSeparator" : true
+    },
+    "cutePage": {
+      "frames": [
+        ["0%", "0%", "100%", "100%"]
+      ],
+      "showHeader" : true,
+      "showFooter" : true,
+      "headerSeparator" : true,
+      "footerSeparator" : true
+    }
+  },
+  "linkColor": "#4682b4",
+  "styles": [
+    ["title",
+      {
+        "fontSize": "200%",
+        "textColor": "#4682b4"
+      }
+    ],
+    ["sidebar-ul",
+      {
+        "padding-left": "0px"
+      }
+    ],
+    ["ftrsection",
+      {
+        "textColor": "#4682b4",
+        "fontSize": 8
+      }
+    ],
+    ["ftrpage",
+      {
+        "textColor": "#4682b4",
+        "fontSize": 8
+      }
+    ],
+    ["headertable",
+      {
+        "borderWidth": 0
+      }
+    ],
+    ["footertable",
+      {
+        "borderPadding": 0,
+        "borderWidth": 0
+      }
+    ],
+    ["table",
+      {
+        "commands": [
+          ["VALIGN", [ 0, 0 ], [ -1, -1 ], "TOP"],
+          ["INNERGRID", [ 0, 0 ], [ -1, -1 ], 0.25, "black"],
+          ["ROWBACKGROUNDS", [0, 0], [-1, -1], ["white", "#e0e0e0"]],
+          ["BOX", [ 0, 0 ], [ -1, -1 ], 0.25, "black"]
+        ]
+      }
+    ],
+    ["table-heading",
+      {
+        "parent": "heading",
+        "fontName": "stdBold",
+        "textColor": "white",
+        "backColor":  "#4682b4",
+        "alignment": "TA_CENTER",
+        "valign": "BOTTOM",
+        "borderPadding": 0
+      }
+    ],
+    ["temptable",
+      {
+        "parent": "table",
+        "commands": [
+          ["VALIGN", [ 0, 0 ], [ -1, -1 ], "TOP"],
+          ["INNERGRID", [ 0, 0 ], [ -1, -1 ], 0.25, "black"],
+          ["ROWBACKGROUNDS", [0, 0], [-1, -1], ["white", "white"]],
+          ["BOX", [ 0, 0 ], [ -1, -1 ], 0.25, "black"]
+        ]
+      }
+    ],
+    ["tblsubhead",
+      {
+        "parent": "heading",
+        "fontName": "stdBold",
+        "backColor": "#e0e0e0",
+        "borderPadding": [3, 6]
+      }
+    ]
+  ]
+}
