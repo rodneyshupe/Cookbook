@@ -12,7 +12,7 @@ TEMP_SUBSTITUTION_FILE = temp_substitutions.rst
 REVISION_NUMBER_FILE = revision-number.txt
 
 # default target: build the PDF file if the rst file, a style file or an image changes
-$(pdf): $(wildcard *.rst) $(wildcard */*.rst) $(wildcard *.style) RodneyFavoriteRecipes.style.json
+$(pdf): $(wildcard *.rst) $(wildcard */?*.rst) $(wildcard *.style) RodneyFavoriteRecipes.style.json
 	rm -fR *.build_temp
 	rm -f $(TEMP_SUBSTITUTION_FILE)
 
