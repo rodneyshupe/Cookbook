@@ -12,7 +12,7 @@ TEMP_SUBSTITUTION_FILE = temp_substitutions.rst
 REVISION_NUMBER_FILE = revision-number.txt
 
 # default target: build the PDF file if the rst file, a style file or an image changes
-$(pdf): $(wildcard *.rst) $(wildcard Appendix/*.rst) $(wildcard Recipes/*.rst) $(wildcard *.style) RodneyFavoriteRecipes.style.json
+$(pdf): $(wildcard *.rst) $(wildcard */*.rst) $(wildcard *.style) RodneyFavoriteRecipes.style.json
 	rm -fR *.build_temp
 	rm -f $(TEMP_SUBSTITUTION_FILE)
 
@@ -22,8 +22,8 @@ $(pdf): $(wildcard *.rst) $(wildcard Appendix/*.rst) $(wildcard Recipes/*.rst) $
 	if ! test -f $(REVISION_NUMBER_FILE); then echo 0 > $(REVISION_NUMBER_FILE); fi
 	echo $$(($$(cat $(REVISION_NUMBER_FILE)) + 1)) > $(REVISION_NUMBER_FILE)
 
-	echo ".. |Revision| replace:: $$(cat $(REVISION_NUMBER_FILE))"  >> $(TEMP_SUBSTITUTION_FILE)
-	echo "  "  >> $(TEMP_SUBSTITUTION_FILE)
+	echo ".. |Revision| replace:: $$(cat $(REVISION_NUMBER_FILE))" >> $(TEMP_SUBSTITUTION_FILE)
+	echo "  " >> $(TEMP_SUBSTITUTION_FILE)
 
 	rst2pdf $(input_rst_file) \
 		-b1 \
