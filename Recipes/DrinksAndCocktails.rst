@@ -43,6 +43,7 @@ Directions
 
 Variations
 ----------
+
 -  Replace the hot sauce with horseradish.
 -  Replace vodka with Tequila.
 
