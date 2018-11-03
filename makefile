@@ -26,10 +26,10 @@ $(pdf): $(wildcard *.rst) $(wildcard */?*.rst) $(wildcard *.style) RodneyFavorit
 	echo ".. |Date| replace:: $$(date +%B\ %d\,\ %Y)"  > $(TEMP_SUBSTITUTION_FILE)
 	echo "  "  >> $(TEMP_SUBSTITUTION_FILE)
 
-	if ! test -f $(REVISION_MAJOR_NUMBER_FILE); then echo 0 > $(REVISION_MAJOR_NUMBER_FILE); fi
-	echo $$(($$(cat $(REVISION_MAJOR_NUMBER_FILE)) + 1)) > $(REVISION_MAJOR_NUMBER_FILE)
+	if ! test -f $(REVISION_MINOR_NUMBER_FILE); then echo 0 > $(REVISION_MINOR_NUMBER_FILE); fi
+	echo $$(($$(cat $(REVISION_MINOR_NUMBER_FILE)) + 1)) > $(REVISION_MINOR_NUMBER_FILE)
 
-	echo ".. |Revision| replace:: $$(cat $(REVISION_MAJOR_NUMBER_FILE))" >> $(TEMP_SUBSTITUTION_FILE)
+	echo ".. |Revision| replace:: $$(cat $(REVISION_MAJOR_NUMBER_FILE)).$$(cat $(REVISION_MINOR_NUMBER_FILE))" >> $(TEMP_SUBSTITUTION_FILE)
 	echo "  " >> $(TEMP_SUBSTITUTION_FILE)
 
 	rst2pdf $(input_rst_file) \
@@ -47,7 +47,7 @@ $(pdf): $(wildcard *.rst) $(wildcard */?*.rst) $(wildcard *.style) RodneyFavorit
 	&& rm -f $(TEMP_SUBSTITUTION_FILE)
 
 	git add -A .
-	git commit -m 'Automatic commit of successful build $(REVISION_MAJOR_NUMBER_FILE).$(REVISION_MINOR_NUMBER_FILE)'
+	git commit -m 'Automatic commit of successful build $$(cat $(REVISION_MAJOR_NUMBER_FILE)).$$(cat $(REVISION_MINOR_NUMBER_FILE))'
 	git push origin master
 
 # make clean: deletes the pdf, keynote and build_temp files
