@@ -46,8 +46,8 @@ $(pdf): $(wildcard *.rst) $(wildcard */?*.rst) $(wildcard *.style) RodneyFavorit
 	&& rm -fR *.build_temp \
 	&& rm -f $(TEMP_SUBSTITUTION_FILE)
 
-	git add -A .
-	git commit -m "Automatic commit of successful build $$(cat $(REVISION_MAJOR_NUMBER_FILE)).$$(cat $(REVISION_MINOR_NUMBER_FILE))"
+	git add --all
+	git commit --message="Automatic commit of successful build $$(cat $(REVISION_MAJOR_NUMBER_FILE)).$$(cat $(REVISION_MINOR_NUMBER_FILE))"
 	git push origin master
 
 # make clean: deletes the pdf, keynote and build_temp files
