@@ -19,7 +19,6 @@ REVISION_MINOR_NUMBER_FILE = revision-number-minor.txt
 
 # default target: build the PDF file if the rst file, a style file or an image changes
 $(pdf): $(wildcard *.rst) $(wildcard */?*.rst) $(wildcard *.style) RodneyFavoriteRecipes.style.json
-
 	rm -fR *.build_temp
 	rm -f $(TEMP_SUBSTITUTION_FILE)
 

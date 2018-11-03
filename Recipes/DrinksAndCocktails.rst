@@ -32,7 +32,6 @@ Ingredients
 
 Directions
 ----------
-
 1. Rim a pint glass with celery salt
 2. Combine vodka, pickle juice, lime juice, tabasco and hot sauce in a
    glass.
