@@ -18,7 +18,6 @@ Ceasar
 
 Ingredients
 -----------
-
 -  1 1/2 ozs of `Bacon Infused Vodka <#bacon-infused-vodka>`__ or your
    favorite vodka
 -  3/4 oz pickle juice

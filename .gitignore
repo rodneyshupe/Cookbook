@@ -1,0 +1,3 @@
+rst2pdf_default_styles.style
+*.md
+*.build_temp
