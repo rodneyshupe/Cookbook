@@ -18,6 +18,7 @@ Ceasar
 
 Ingredients
 -----------
+
 -  1 1/2 ozs of `Bacon Infused Vodka <#bacon-infused-vodka>`__ or your
    favorite vodka
 -  3/4 oz pickle juice
@@ -32,6 +33,7 @@ Ingredients
 
 Directions
 ----------
+
 1. Rim a pint glass with celery salt
 2. Combine vodka, pickle juice, lime juice, tabasco and hot sauce in a
    glass.
