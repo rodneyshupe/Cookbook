@@ -12,6 +12,9 @@ TEMP_SUBSTITUTION_FILE = temp_substitutions.rst
 REVISION_MAJOR_NUMBER_FILE = revision-number-major.txt
 REVISION_MINOR_NUMBER_FILE = revision-number-minor.txt
 
+# Checking Message File
+CHECKIN_MSG_FILE = checkin_msg.temp
+
 #git:
 #	if ! test -f $(REVISION_MAJOR_NUMBER_FILE); then echo 0 > $(REVISION_MAJOR_NUMBER_FILE); fi
 #	echo $$(($$(cat $(REVISION_MAJOR_NUMBER_FILE)) + 1)) > $(REVISION_MAJOR_NUMBER_FILE)
@@ -45,8 +48,11 @@ $(pdf): $(wildcard *.rst) $(wildcard */?*.rst) $(wildcard *.style) RodneyFavorit
 	&& rm -fR *.build_temp \
 	&& rm -f $(TEMP_SUBSTITUTION_FILE)
 
+	echo "$(m)" > $(CHECKIN_MSG_FILE)
+	@if [ "$(m)" = "" ]; then echo "Automatic commit of successful build $$(cat $(REVISION_MAJOR_NUMBER_FILE)).$$(cat $(REVISION_MINOR_NUMBER_FILE))" > $(CHECKIN_MSG_FILE); fi
+	#echo "$$(cat $(CHECKIN_MSG_FILE))"
 	git add --all
-	git commit --message="Automatic commit of successful build $$(cat $(REVISION_MAJOR_NUMBER_FILE)).$$(cat $(REVISION_MINOR_NUMBER_FILE))"
+	git commit --message="$$(cat $(CHECKIN_MSG_FILE))"
 	git push origin master
 
 # make clean: deletes the pdf, keynote and build_temp files
@@ -54,3 +60,4 @@ clean:
 	rm -f $(pdf)
 	rm -fR *.build_temp
 	rm -f $(TEMP_SUBSTITUTION_FILE)
+	rm -f $(CHECKIN_MSG_FILE)
