@@ -872,3 +872,128 @@ Directions
    longer.
 8. Transfer skillet to wire rack and let cool for at least 20 minutes. Serve
    with ice cream, drizzling extra sauce over top.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+Quick Beef and Bean Chili
+=========================
+
++-----------------------+--------------------------+---------------------+
+| Prep Time: 10 minutes | Cooking Time: 20 minutes | Yield: 4-6 servings |
++-----------------------+--------------------------+---------------------+
+
+Source: `Cooks Country <https://www.cookscountry.com/recipes/4479-quick-beef-and-bean-chili>`__
+
+Ingredients
+-----------
+
+- 2 (16-ounce) cans red kidney beans, drained and rinsed
+- 2 (14.5-ounce) cans diced tomatoes
+- 1 1/2 pounds 85 percent lean ground beef
+- 1 onion, chopped fine
+- 4 garlic cloves, minced
+- 3 tablespoons chili powder
+- 2 teaspoons ground cumin
+- 2 teaspoons sugar
+- 1/4 cup chopped fresh cilantro leaves
+- Salt and pepper
+
+Directions
+----------
+
+1. Process half of the beans and half of tomatoes in food processor to coarse
+   paste; set aside. Cook beef and onion in Dutch oven over medium heat until
+   meat is no longer pink, about 5 minutes. Stir in garlic, chili powder,
+   cumin, and sugar and cook until fragrant, about 1 minute. Stir in pureed
+   bean-tomato mixture and remaining beans and tomatoes.
+2. Bring chili to boil, then reduce heat to low, and simmer, covered and
+   stirring occasionally, until thickened, about 15 minutes. Off heat, stir
+   in cilantro and season with salt and pepper. Serve.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+Fast All-American Beef Chili
+============================
+
++-----------------------+--------------------------+---------------------+
+| Prep Time: 10 minutes | Cooking Time: 40 minutes | Yield: 4-6 servings |
++-----------------------+--------------------------+---------------------+
+
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/5259-fast-all-american-beef-chili>`__
+
+Ingredients
+-----------
+
+- 1 (28-ounce) can diced tomatoes
+- 1 (15-ounce) can dark red kidney beans, rinsed
+- 2 - 3 teaspoons minced chipotle chiles in adobo sauce
+- 2 teaspoons sugar
+- Salt and ground black pepper
+- 2 tablespoons vegetable oil
+- 1 onion, minced
+- 3 tablespoons chili powder
+- 2 teaspoons ground cumin
+- 3 garlic cloves, minced
+- 1 1/2 pounds 85 percent lean ground beef
+
+Directions
+----------
+
+1. PUREE TOMATOES: Pulse tomatoes and their juice in food processor until
+   slightly chunky, about 5 pulses.
+2. HEAT TOMATOES WITH BEANS: Bring tomatoes, beans, chipotle chile, sugar,
+   and 1/2 teaspoon salt to boil, covered, in large saucepan. Reduce to
+   simmer and continue to cook until needed in step 5.
+3. SAUTÉ AROMATICS: Heat oil in large Dutch oven over medium heat until
+   shimmering. Add onion, chili powder, cumin, and 1/4 teaspoon salt and
+   cook until softened, about 5 minutes. Stir in garlic and cook until
+   fragrant, about 30 seconds.
+4. ADD BEEF: Increase heat to medium-high and add beef. Cook, breaking up
+   beef with spoon, until no longer pink, about 3 minutes.
+5. ADD TOMATOES AND SIMMER: Stir in tomato-bean mixture, scraping up any
+   browned bits. Bring to simmer and cook until slightly thickened, about
+   15 minutes. Season with salt and pepper to taste before serving.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+Spiced Pork Lettuce Wraps
+=========================
+
++-----------------------+--------------------------+-------------------+
+| Prep Time: 15 minutes | Cooking Time: 10 minutes | Yield: 4 servings |
++-----------------------+--------------------------+-------------------+
+
+Source: `Cooks Country <https://www.cookscountry.com/recipes/9802-spiced-pork-lettuce-wraps>`__
+
+Ingredients
+-----------
+
+- 1/2 cup sour cream
+- 2 tablespoons chopped fresh mint
+- 2 tablespoons water
+- 1 teaspoon ground cumin
+- Salt and pepper
+- 1 pound ground pork
+- 1 tablespoon Sriracha sauce
+- 2 garlic cloves, minced
+- 1 head Bibb lettuce (8 ounces), leaves separated
+- 1 avocado, halved, pitted, and sliced thin
+- 1 mango, peeled, pitted, and chopped fine
+
+Directions
+----------
+
+1. Whisk sour cream, mint, water, and 1/4 teaspoon cumin together in bowl;
+   season with salt and pepper to taste. Set aside.
+2. Cook pork in 12-inch nonstick skillet over medium-high heat until no
+   longer pink, about 4 minutes, breaking up meat with spoon. Stir in
+   Sriracha, garlic, remaining 3/4 teaspoon cumin, 1 teaspoon salt, and
+   1/2 teaspoon pepper and cook until fragrant, about 2 minutes. Transfer
+   to 1 side of large serving platter. Arrange lettuce, avocado, and mango
+   on empty side of platter. Serve, passing sour cream mixture separately.

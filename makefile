@@ -15,8 +15,8 @@ REVISION_MINOR_NUMBER_FILE = revision-number-minor.txt
 # Checking Message File
 CHECKIN_MSG_FILE = checkin_msg.temp
 
-#git:
-#	if ! test -f $(REVISION_MAJOR_NUMBER_FILE); then echo 0 > $(REVISION_MAJOR_NUMBER_FILE); fi
+#if ! test -f $(REVISION_MAJOR_NUMBER_FILE); then echo 0 > $(REVISION_MAJOR_NUMBER_FILE); fi
+# TODO: Figure out when to add generate the next major revision number
 #	echo $$(($$(cat $(REVISION_MAJOR_NUMBER_FILE)) + 1)) > $(REVISION_MAJOR_NUMBER_FILE)
 #	echo 0 > $(REVISION_MINOR_NUMBER_FILE)
 
@@ -50,7 +50,7 @@ $(pdf): $(wildcard *.rst) $(wildcard */?*.rst) $(wildcard *.style) RodneyFavorit
 
 	echo "$(m)" > $(CHECKIN_MSG_FILE)
 	@if [ "$(m)" = "" ]; then echo "Automatic commit of successful build $$(cat $(REVISION_MAJOR_NUMBER_FILE)).$$(cat $(REVISION_MINOR_NUMBER_FILE))" > $(CHECKIN_MSG_FILE); fi
-	#echo "$$(cat $(CHECKIN_MSG_FILE))"
+
 	git add --all
 	git commit --message="$$(cat $(CHECKIN_MSG_FILE))"
 	git push origin master
