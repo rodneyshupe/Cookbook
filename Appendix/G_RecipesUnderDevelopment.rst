@@ -875,6 +875,112 @@ Directions
 
 .. raw:: pdf
 
+   OddPageBreak recipePage
+
+Sous Vide Pulled Pork
+=====================
+
++------------------+-------------------+-----------------+---------------+------------+
+| Prep: 15 minutes | Cook: 20-24 hours | Total: 24 hours | Servings: 6-8 | Temp 165°F |
++------------------+-------------------+-----------------+---------------+------------+
+
+Ingredients
+-----------
+
+Pork
+^^^^
+- 1/4 cup vegetable oil
+- 2 teaspoons salt
+- 2 tablespoons sugar
+- 2 tablespoons pepper
+- 2 tablespoons smoked paprika
+- 1 tablespoon garlic powder
+- 1 teaspoon cayenne pepper
+- 1/4 cup yellow mustard
+- 1 tablespoon liquid smoke
+- 1 5-pound boneless pork butt roast, trimmed and halved
+
+Lexington Vinegar Barbecue Sauce
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- 1 cup cider vinegar
+- 1/2 cup ketchup
+- 1/2 cup water
+- 1 tablespoon sugar
+- 3/4 teaspoon red pepper flakes
+- Salt and pepper
+
+Directions
+----------
+
+1. FOR THE PORK: Using sous vide circulator, bring water to 165°F/74°C in
+   12-quart container.
+2. Whisk oil, salt, sugar, pepper, paprika, garlic powder, and cayenne
+   together in medium bowl. Microwave until bubbling and fragrant, about
+   3 minutes, stirring halfway through microwaving. Stir in mustard and
+   liquid smoke.
+3. Divide pork and spice mixture between two 2-gallon zipper-lock freezer
+   bags and toss to coat. Seal bags, pressing out as much air as possible.
+   Place bags in second 2-gallon zipper-lock freezer bag and seal bag. Gently
+   lower bags into prepared water bath until pork is fully submerged, and
+   then clip top corner of each bag to side of water bath container, allowing
+   remaining air bubbles to rise to top of bag. Reopen 1 corner of zipper,
+   release remaining air bubbles, and reseal bag. Cover and cook for at least
+   20 hours or up to 24 hours.
+4. Transfer pork to cutting board and reserve cooking liquid. Let pork cool
+   slightly, and then shred into bite-size pieces using 2 forks; discard
+   excess fat.
+5. FOR THE BARBECUE SAUCE: Pour cooking liquid into fat separator, let settle
+   for 5 minutes, and then transfer ¾ cup defatted liquid to medium bowl;
+   discard remaining liquid. Whisk in vinegar, ketchup, water, sugar, pepper
+   flakes, 3/4 teaspoon salt, and 1/2 teaspoon pepper. Toss pork with 1 cup
+   sauce and season with salt and pepper to taste. Serve, passing remaining
+   sauce separately.
+
+Make Ahead
+----------
+
+Pork can be rapidly chilled in ice bath and then refrigerated in zipper-lock
+bags after step 3 for up to 3 days. To reheat, return sealed bags to water
+bath set to 165°F/74°C for 1 hour and then proceed with step 4.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+Boneless Pork Chops with Mango-Mint Salsa
+=========================================
+
++-----------------------+--------------------------+-------------------+
+| Prep Time: 10 minutes | Cooking Time: 20 minutes | Yield: 4 servings |
++-----------------------+--------------------------+-------------------+
+
+Source: `Cooks Country <https://www.cookscountry.com/recipes/7372-boneless-pork-chops-with-mango-mint-salsa>`__
+
+Ingredients
+-----------
+
+- 10 ounces (1 1/2 cups) frozen mango, thawed and chopped fine
+- 1/4 cup olive oil
+- 3 tablespoons lime juice (2 limes)
+- 1 jalapeno chile, stemmed, seeded, and minced
+- 2 tablespoons chopped fresh mint
+- Salt and pepper
+- 4 (8-ounce) boneless pork chops, 3/4 to 1 inch thick, trimmed
+
+Directions
+----------
+
+1. Combine mango, 3 tablespoons oil, lime juice, jalapeño, and mint in bowl.
+   Season with salt and pepper to taste.
+2. Pat chops dry with paper towels and season with salt and pepper. Heat
+   remaining 1 tablespoon oil in 12-inch nonstick skillet over medium-high
+   heat until just smoking. Cook chops until well browned and meat registers
+   145 degrees, about 5 minutes per side. Transfer to platter, tent loosely
+   with aluminum foil, and let rest for 5 minutes. Serve chops with
+   mango-mint salsa.
+
+.. raw:: pdf
+
    PageBreak recipePage
 
 Quick Beef and Bean Chili
@@ -957,43 +1063,3 @@ Directions
 5. ADD TOMATOES AND SIMMER: Stir in tomato-bean mixture, scraping up any
    browned bits. Bring to simmer and cook until slightly thickened, about
    15 minutes. Season with salt and pepper to taste before serving.
-
-.. raw:: pdf
-
-   PageBreak recipePage
-
-Spiced Pork Lettuce Wraps
-=========================
-
-+-----------------------+--------------------------+-------------------+
-| Prep Time: 15 minutes | Cooking Time: 10 minutes | Yield: 4 servings |
-+-----------------------+--------------------------+-------------------+
-
-Source: `Cooks Country <https://www.cookscountry.com/recipes/9802-spiced-pork-lettuce-wraps>`__
-
-Ingredients
------------
-
-- 1/2 cup sour cream
-- 2 tablespoons chopped fresh mint
-- 2 tablespoons water
-- 1 teaspoon ground cumin
-- Salt and pepper
-- 1 pound ground pork
-- 1 tablespoon Sriracha sauce
-- 2 garlic cloves, minced
-- 1 head Bibb lettuce (8 ounces), leaves separated
-- 1 avocado, halved, pitted, and sliced thin
-- 1 mango, peeled, pitted, and chopped fine
-
-Directions
-----------
-
-1. Whisk sour cream, mint, water, and 1/4 teaspoon cumin together in bowl;
-   season with salt and pepper to taste. Set aside.
-2. Cook pork in 12-inch nonstick skillet over medium-high heat until no
-   longer pink, about 4 minutes, breaking up meat with spoon. Stir in
-   Sriracha, garlic, remaining 3/4 teaspoon cumin, 1 teaspoon salt, and
-   1/2 teaspoon pepper and cook until fragrant, about 2 minutes. Transfer
-   to 1 side of large serving platter. Arrange lettuce, avocado, and mango
-   on empty side of platter. Serve, passing sour cream mixture separately.
