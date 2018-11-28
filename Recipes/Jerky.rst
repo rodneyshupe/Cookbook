@@ -21,6 +21,10 @@ Spanish word ‘charqui’ which means dried meat.
 Homemade Jerky
 ==============
 
++-----------------------+----------------------+-------------------------+
+| Prep Time: 20 minutes | Marinade: 8-24 hours |  Drying Time: 6-8 hours |
++-----------------------+----------------------+-------------------------+
+
 Ingredients
 -----------
 

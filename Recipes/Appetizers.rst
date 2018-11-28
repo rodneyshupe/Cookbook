@@ -15,6 +15,10 @@ Appetizers
 Baked Brie
 ==========
 
++-----------------------+--------------------------+---------------------+
+| Prep Time: 10 minutes | Cooking Time: 10 minutes | Yield: 6-8 servings |
++-----------------------+--------------------------+---------------------+
+
 Ingredients
 ------------
 
@@ -42,6 +46,10 @@ Directions
 
 Guacamole
 =========
+
++----------------------+--------------------------+---------------+
+| Prep Time: 5 minutes | Cooking Time: 10 minutes | Yield: 2 cups |
++----------------------+--------------------------+---------------+
 
 I got this recipe from my friend Scott. According to him:
     This recipe is the best guacamole ever.
@@ -82,6 +90,10 @@ Directions
 Spinach Dip
 ===========
 
++-----------------------+--------------------------+---------------------+
+| Prep Time: 10 minutes | Cooking Time: 10 minutes | Yield: 6-8 servings |
++-----------------------+--------------------------+---------------------+
+
 Ingredients
 -----------
 - 1 cup Mayonnaise
@@ -107,6 +119,10 @@ Directions
 
 Sun-Dried Tomato and Basil Salsa
 ================================
+
++-----------------------+-------------------------+----------------+
+| Prep Time: 10 minutes | Cooking Time: 5 minutes | Yield: 1/2 cup |
++-----------------------+-------------------------+----------------+
 
 Source: `Cooks
 Illustrated <https://www.cooksillustrated.com/recipes/8060-sun-dried-tomato-and-basil-salsa-for-two>`__
@@ -140,6 +156,10 @@ Directions
 Mango Salsa
 ===========
 
++-----------------------+--------------------------+---------------+
+| Prep Time: 15 minutes | Cooking Time: 10 minutes | Yield: 3 cups |
++-----------------------+--------------------------+---------------+
+
 Ingredients
 -----------
 
@@ -171,6 +191,10 @@ Directions
 
 Mango Mint Salsa
 ================
+
++-----------------------+--------------------------+---------------+
+| Prep Time: 10 minutes | Cooking Time: 10 minutes | Yield: 2 cups |
++-----------------------+--------------------------+---------------+
 
 Ingredients
 -----------
@@ -340,6 +364,10 @@ Roasted Garlic Hummus
 Cilantro-Mint Chutney
 =====================
 
++-----------------------+-------------------------+---------------+
+| Prep Time: 10 minutes | Cooking Time: 2 minutes | Yield: 2 cups |
++-----------------------+-------------------------+---------------+
+
 Ingredients
 -----------
 
@@ -366,6 +394,10 @@ Directions
 
 Tequila Garlic Prawns
 =====================
+
++-----------------------+--------------------------+----------------------+
+| Prep Time: 10 minutes | Cooking Time: 15 minutes | Yield: 8-10 servings |
++-----------------------+--------------------------+----------------------+
 
 Ingredients
 -----------
@@ -396,6 +428,10 @@ Directions
 
 Shrimp Scampi
 =============
+
++-----------------------+--------------------------+---------------------+
+| Prep Time: 10 minutes | Cooking Time: 30 minutes | Yield: 6-8 servings |
++-----------------------+--------------------------+---------------------+
 
 Ingredients
 -----------
