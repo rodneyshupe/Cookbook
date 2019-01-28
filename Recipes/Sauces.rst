@@ -455,6 +455,34 @@ Directions
 
    PageBreak recipePage
 
+Simple Cream Sauce
+==================
+
++-----------------------+----------------------+----------------------+
+| Prep Time: 30 minutes | Cooking Time: 1 hour | Yield: 8-12 servings |
++-----------------------+----------------------+----------------------+
+
+1 tbsp butter
+1-2 cloves garlic minced
+Freshly ground pepper
+1/4 tsp nutmeg
+1 cup heavy creamy
+2 tbsp parmesan cheese grated
+
+mushroons = Alfrado
+
+mushrooms & Ham = Carbonara
+ Hotsauce, Cajun Spice & Scallops = Cajon Seafood dish
+1 tbsp fresh dill finely chopped
+
+
+1. Add butter to a hotpan.  Once the butter is melted add the Galic, pepper, nutmeg.
+2. Once galic begins to brown add cream and dill. Bring to a simmer and shake pan.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
 Jalapeno and Cilantro Sauce
 ===========================
 
