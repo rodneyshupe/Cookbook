@@ -1061,3 +1061,66 @@ Directions
 5. ADD TOMATOES AND SIMMER: Stir in tomato-bean mixture, scraping up any
    browned bits. Bring to simmer and cook until slightly thickened, about
    15 minutes. Season with salt and pepper to taste before serving.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+Chicken, Herb, and Sweet Corn Pie
+=================================
+
++-----------------------+-----------------------------+-------------------+
+| Prep Time: 15 minutes | Cooking Time: 25-45 minutes | Yield: 4 servings |
++-----------------------+-----------------------------+-------------------+
+
+Source: `Five Dollar Foodie <http://thefivedollarfoodie.com/recipes/view/chicken-herb-and-sweet-corn-pie>`__
+
+Ingredients
+-----------
+
+- 1/2 pound boneless, skinless chicken thighs, drumsticks,
+  or one whole chicken breast (or pre-cooked leftover chicken pieces)
+- 1/2 onions (small), diced
+- 3 tablespoons oil (or butter)
+- 2 1/2 tablespoons flour
+- 1 cup milk
+- salt and pepper to taste
+- 3/4 teaspoon thyme, tarragon, or dill
+- 3/4 cup corn, frozen or freshly cut off the cob (if frozen, defrosted and well-drained)
+- 1 prepared pie crust, thawed according to package instructions (or homemade)
+- 1 scallion, thinly sliced (optional)
+
+Directions
+----------
+
+1. Preheat oven to 425 degrees. If you're using pre-cooked chicken, remove
+   meat from bones, cut into bite-size pieces, set aside, and skip to step 2.
+   (Refrigerate or freeze bones along with any meat clinging to them for a
+   third meal of chicken soup.) If you're using fresh chicken, place the
+   chicken and about a half cup of water in a tightly-lidded saucepan or
+   frying pan and cook for about 8-15 minutes, depending on size of the
+   chicken pieces. Test for doneness by cutting into the thickest part.
+   Place chicken on a plate to cool, then remove any bones, shred the meat to
+   bite-size pieces and set aside.
+2. In a medium-size saucepan (you can use the same pan that you cooked the
+   chicken in), sauté diced onion in oil (or butter) until softened, about
+   3 minutes. Remove from heat and add flour, stirring to blend flour and oil.
+   Slowly pour in the milk, while stirring—a whisk is helpful to break up any
+   lumps.
+3. Cook the white sauce over medium heat, stirring now and then until it
+   simmers, and scraping the bottom of the pan to prevent sticking. Continue
+   cooking and stirring a few more minutes until the sauce has thickened
+   enough to coat a spoon. Remove from heat and stir in the seasonings:
+   about 1/4 teaspoon of salt (or more to taste), along with the pepper
+   and thyme, tarragon, or dill.
+4. Place the chicken and corn in the white sauce, stir, and taste again for
+   seasoning. Pour the creamed chicken and corn into a small baking dish. An
+   8- to 10-inch cast iron skillet is perfect for this. Turn the pie crust
+   upside down out of its foil plate onto the creamed chicken and pierce the
+   crust a few times with a fork to allow steam to escape while baking.
+   Sprinkle salt and pepper over the crust—coarsely ground salt and pepper
+   from a mill are especially good—and press lightly.
+5. Bake 25-30 minutes, or until the crust is golden brown and the sauce
+   bubbles around the edges. Garnish with thyme or sliced scallion and serve
+   right away, or relax first with a glass of wine and admire your handiwork.
+   The cast-iron pan will keep it warm for you!
