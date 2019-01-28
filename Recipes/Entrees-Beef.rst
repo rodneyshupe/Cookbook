@@ -239,8 +239,8 @@ Directions
    and bring to boil. Simmer over medium-low heat until sauce is slightly
    thickened, about 10 minutes. Off heat, stir in remaining 1 tbsp. mustard
    and pickle juice. Season with pepper. Remove twine from beef.
-5. Serve immediately with potatoes or `Buttered Spaetzle<#buttered-spaetzle>`__
-   and `Braised Red Cabbage<#braised-red-cabbage>`__
+5. Serve immediately with potatoes or `Buttered Spaetzle <#buttered-spaetzle>`__
+   and `Braised Red Cabbage <#braised-red-cabbage>`__
 
 .. raw:: pdf
 
