@@ -132,9 +132,9 @@ Ingredients
 
 - 1 lb ground Beef
 - 1 medium onion, diced
-- 1 can tomato soup
-- 1 can stewed tomatoes
-- 1 can kidney beans
+- 1 12oz can tomato soup
+- 1 14oz can stewed tomatoes
+- 1 19oz can kidney beans
 - 2 tbsp chili powder
 - 4oz mushrooms, sliced
 - 1 tsp chili flakes
