@@ -633,6 +633,35 @@ crosswise against grain into 1/4-inch-thick slices.
 
    PageBreak recipePage
 
+Nasi Goreng
+===========
+
+Ingredients
+-----------
+- 2 tbsp butter
+- 2 medium onions chopped
+- 2 garlic cloves
+- 1lb sirloin steak cubed OR 1lb chicken breast cubed
+- salt & pepper
+- 1/4 cup soy sauce
+- 1 tbsp sugar
+- 1/4 tsp chili powder
+- 6-8 cups cooked long grain rice
+
+Directions
+----------
+
+1. In large saucepan, melt butter at med high heat until starting to brown.
+   Add onion and garlic and cook until starting to brown.
+2. Season meat with salt and pepper and add to onions.  Cook until meat is
+   browned on all sides.
+3. Lower to heat to medium and add soy sauce, sugar, and chili powder.  Add
+   cooked rice and stir until soy sauce is absorbed.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
 Old-Fashioned Stuffed Turkey
 ============================
 
