@@ -85,7 +85,7 @@ a collection of recipes containing the favorites of Rodney Shupe and family
 
 .. include:: Recipes/Sides.rst
 
-.. include:: Recipes/Sous-Vide.rst
+.. include:: Recipes/Sous-Vide/Recipes.rst
 
 .. include:: Recipes/SmokedAndCured.rst
 

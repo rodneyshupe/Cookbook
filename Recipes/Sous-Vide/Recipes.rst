@@ -1,0 +1,26 @@
+.. raw:: pdf
+
+   OddPageBreak tocPage
+
+Sous-Vide
+*********
+
+.. contents:: Sous-Vide
+   :local:
+   :depth: 1
+
+.. include:: Brisket.rst
+
+.. include:: Eye-of-Round-Roast.rst
+
+.. include:: French-Beef-Dip.rst
+
+.. include:: Glazed-Carrots.rst
+
+.. include:: Green-Beans-with-Lemon.rst
+
+.. include:: Garlic-Smashed-Potatoes.rst
+
+.. include:: Self-Buttering-Corn-on-the-Cob.rst
+
+.. include:: Creme-Brulee.rst

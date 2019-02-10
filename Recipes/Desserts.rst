@@ -64,6 +64,8 @@ Variations
 
 Substitute brandy for rum (and even banana liqueur.)
 
+.. include:: Sous-Vide/Creme-Brulee.rst
+
 .. raw:: pdf
 
    PageBreak recipePage
