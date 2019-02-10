@@ -9,9 +9,6 @@ Entrees - Beef
    :local:
    :depth: 1
 
--  `Sous Vide Eye of Round Roast <#sous-vide-eye-of-round-roast>`__
--  `Sous Vide French Beef Dip <#sous-vide-eye-of-round-roast>`__
-
 .. raw:: pdf
 
    OddPageBreak recipePage
@@ -303,6 +300,8 @@ Note
   to 4 cups.
 - Serve with `Mashed Potatoes <#mashed-potatoes>`__. or `Pop Overs <#pop-overs>`__.
 
+.. include:: Sous-Vide/Eye-of-Round-Roast.rst
+
 .. raw:: pdf
 
    PageBreak recipePage
@@ -560,6 +559,11 @@ Directions
    thick.
 3. Meanwhile, prepare grill for high heat; oil grate. Grill brisket
    until lightly charred, about 1 minute per side for medium-rare.
+
+
+.. include:: Sous-Vide/Brisket.rst
+
+.. include:: Sous-Vide/French-Beef-Dip.rst
 
 .. raw:: pdf
 

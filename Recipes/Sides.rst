@@ -12,8 +12,7 @@ Sides
 -  `Sous Vide Glazed Carrots <#glazed-carrots>`__
 -  `Sous Vide Green Beans with Lemon <#green-beans-with-lemon>`__
 -  `Sous Vide Garlic Smashed Potatoes <#garlic-smashed-potatoes>`__
--  `Sous Vide Self-Buttering Corn on the
-   Cob <#self-buttering-corn-on-the-cob>`__
+-  `Sous Vide Self-Buttering Corn on the Cob <#self-buttering-corn-on-the-cob>`__
 
 .. raw:: pdf
 
@@ -1793,3 +1792,11 @@ Note
 ----
 Garlic bread is best served piping hot, so time it to arrive at the table last,
 once all the other dishes are finished and ready to serve.
+
+.. include:: Sous-Vide/Glazed-Carrots.rst
+
+.. include:: Sous-Vide/Green-Beans-with-Lemon.rst
+
+.. include:: Sous-Vide/Garlic-Smashed-Potatoes.rst
+
+.. include:: Sous-Vide/Self-Buttering-Corn-on-the-Cob.rst
