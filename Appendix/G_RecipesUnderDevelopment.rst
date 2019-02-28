@@ -1124,3 +1124,57 @@ Directions
    bubbles around the edges. Garnish with thyme or sliced scallion and serve
    right away, or relax first with a glass of wine and admire your handiwork.
    The cast-iron pan will keep it warm for you!
+
+
+---
+.. raw:: pdf
+
+   PageBreak recipePage
+
+Sweet Potato Sausage Spread
+===========================
+
++-----------------------+----------------------+-------------------+
+| Prep Time: 15 minutes | Cooking Time: 1 hour | Yield: 8 servings |
++-----------------------+----------------------+-------------------+
+
+Source: `Carolina Country <https://www.carolinacountry.com/carolina-kitchen/appetizers/sweet-potato-sausage-spread>`__
+
+Ingredients
+-----------
+- 2 cups of diced sweet potatoes (about a 1/4 of an inch cubed)
+- 3 tablespoons olive oil
+- 1/2 teaspoon cayenne pepper
+- 1 pound breakfast sausage
+- 1/4 small onion, chopped (1/4 cup)
+- 1 small sweet red bell pepper (1/4 cup)
+- 2 garlic cloves
+- 8 ounces cream cheese
+- 4 ounces Colby jack cheese, shredded
+- 1 (14.5-ounce) can Italian diced tomatoes (slightly drained)
+- 1 French loaf baguette
+- 1 teaspoon of Italian seasoning
+- 1/2 cup of olive oil
+- 1–2 ounces of parmesan cheese
+
+Directions
+----------
+
+1. Preheat oven to 350 degrees.
+2. Combine olive oil and cayenne pepper. Toss sweet potatoes gently to coat.
+   Spread evenly on a baking pan and bake 350 degrees for 35–40 minutes or
+   until tender, stirring if needed.
+3. In a medium frying pan, add sausage, chopped onion and chopped red bell
+   pepper. Cook until brown. Drain grease and press garlic into sausage
+   mixture. Cook for 2–3 minutes.
+4. Add cream cheese, 1/4 cup of Colby Jack cheese, roasted sweet potatoes and
+   canned tomatoes. Stir until well blended. Add sausage mixture to a small
+   baking dish.
+5. Top with the remaining Colby jack cheese, and bake until cheese is melted,
+   approximately 5 minutes.
+6. For toasted baguettes, preheat oven to 375 degrees. Cut loaf in
+   quarter-inch slices. In a small bowl, add Italian seasoning to olive oil
+   and mix well.
+7. Brush olive oil mixture onto each slice of bread and place on baking
+   sheet. Sprinkle finely shredded parmesan cheese to cover bread pieces.
+   Toast for 7 minutes.

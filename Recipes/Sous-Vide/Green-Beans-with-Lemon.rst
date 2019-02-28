@@ -6,7 +6,7 @@ Green Beans with Lemon
 ======================
 
 +-----------------+--------------+--------------+-----------+---------+
-| Prep Time: 5    | Cook: 90     | Total: 95    | Servings: | Temp    |
+| Prep Time: 5    | Cook: 90     | Total: 95    | Servings: | Temp:   |
 | minutes         | minutes      | minutes      | 4-6       | 180°F   |
 +-----------------+--------------+--------------+-----------+---------+
 

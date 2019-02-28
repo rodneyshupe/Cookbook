@@ -1,6 +1,6 @@
 .. raw:: pdf
 
-   EvenPageBreak tocPage
+   OddPageBreak tocPage
 
 Soups and Stews
 ***************

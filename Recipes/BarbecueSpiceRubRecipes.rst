@@ -18,7 +18,7 @@ specified.*
 
 .. raw:: pdf
 
-   PageBreak recipePage
+   OddPageBreak recipePage
 
 Basic Barbecue Rub
 ==================

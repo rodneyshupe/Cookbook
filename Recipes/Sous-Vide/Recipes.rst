@@ -23,4 +23,10 @@ Sous-Vide
 
 .. include:: Self-Buttering-Corn-on-the-Cob.rst
 
+.. include:: Butternut-Squash-Puree.rst
+
 .. include:: Creme-Brulee.rst
+
+.. raw:: pdf
+
+   PageBreak recipePage

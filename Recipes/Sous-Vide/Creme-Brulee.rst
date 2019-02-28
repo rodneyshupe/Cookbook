@@ -5,9 +5,9 @@
 Creme Brulee
 ============
 
-+-----------------------+--------------+--------------------+------------+
-| Prep Time: 15 minutes | Cook: 1 hour | Total: 5 1/2 hours | Temp 183°F |
-+-----------------------+--------------+--------------------+------------+
++-----------------------+--------------+--------------------+-------------+
+| Prep Time: 15 minutes | Cook: 1 hour | Total: 5 1/2 hours | Temp: 183°F |
++-----------------------+--------------+--------------------+-------------+
 
 Source: `Avona
 Culinary <https://recipes.anovaculinary.com/recipe/sous-vide-ultimate-creme-brulee-with-variations>`__

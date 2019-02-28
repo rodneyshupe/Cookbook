@@ -1,6 +1,6 @@
 .. raw:: pdf
 
-   EvenPageBreak tocPage
+   OddPageBreak tocPage
 
 Sides
 *****
@@ -9,14 +9,9 @@ Sides
    :local:
    :depth: 1
 
--  `Sous Vide Glazed Carrots <#glazed-carrots>`__
--  `Sous Vide Green Beans with Lemon <#green-beans-with-lemon>`__
--  `Sous Vide Garlic Smashed Potatoes <#garlic-smashed-potatoes>`__
--  `Sous Vide Self-Buttering Corn on the Cob <#self-buttering-corn-on-the-cob>`__
-
 .. raw:: pdf
 
-   PageBreak recipePage
+   OddPageBreak recipePage
 
 Roasted Potatoes (on the Grill)
 ===============================
@@ -99,6 +94,8 @@ Directions
    excess fat, then tuck in! I’d be happy with any of these flavour
    combos, but this year I’ll be going for butter, but maybe with the
    rosemary and garlic. So you really can mix it up however you like.
+
+.. include:: Sous-Vide/Garlic-Smashed-Potatoes.rst
 
 .. raw:: pdf
 
@@ -751,6 +748,8 @@ Directions
    vermouth, and bring to simmer. Whisk in remaining 2 tablespoons
    butter, 1 tablespoon at a time; season with salt and pepper to taste.
    Top beans with shallots and sauce and serve immediately.
+
+.. include:: Sous-Vide/Butternut-Squash-Puree.rst
 
 .. raw:: pdf
 
@@ -1797,6 +1796,5 @@ once all the other dishes are finished and ready to serve.
 
 .. include:: Sous-Vide/Green-Beans-with-Lemon.rst
 
-.. include:: Sous-Vide/Garlic-Smashed-Potatoes.rst
 
 .. include:: Sous-Vide/Self-Buttering-Corn-on-the-Cob.rst

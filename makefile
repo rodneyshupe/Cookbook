@@ -48,6 +48,8 @@ $(pdf): $(wildcard *.rst) $(wildcard */?*.rst) $(wildcard *.style) RodneyFavorit
 	&& rm -fR *.build_temp \
 	&& rm -f $(TEMP_SUBSTITUTION_FILE)
 
+  #rm -fR *.build_temp
+
 	echo "$(m)" > $(CHECKIN_MSG_FILE)
 	@if [ "$(m)" = "" ]; then echo "Automatic commit of successful build $$(cat $(REVISION_MAJOR_NUMBER_FILE)).$$(cat $(REVISION_MINOR_NUMBER_FILE))" > $(CHECKIN_MSG_FILE); fi
 
