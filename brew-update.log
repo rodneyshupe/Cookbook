@@ -1,0 +1,740 @@
+Updating Homebrew...
+==> Auto-updated Homebrew!
+Updated 3 taps (homebrew/cask-versions, homebrew/core and homebrew/cask).
+==> New Formulae
+zydis
+==> Updated Formulae
+glib ✔              apktool             erlang              firebase-cli        ispc                libcerf             mpd                 parallelstl         pulumi              skopeo              tile38              
+wartremover
+unzip ✔             bazel               eslint              fn                  jadx                lmod                opentracing-cpp     passenger           rke                 solr@5.5            tomcat-native       
+wireguard-tools
+akamai              dmd                 exploitdb           ghc                 jruby               lxc                 packer              precomp             roswell             syncthing           ucloud
+
+==> Upgrading 29 outdated packages:
+vim 8.1.0850 -> 8.1.0950, libtiff 4.0.10 -> 4.0.10_1, wget 1.20.1_3 -> 1.20.1_4, ffmpeg 4.1_3 -> 4.1.1, libidn2 2.1.0 -> 2.1.1a, libmagic 5.35 -> 5.36, pandoc 2.6 -> 2.7, python@2 2.7.15_2 -> 2.7.16, pixman 0.36.0 -> 0.38.0, 
+rclone 1.45 -> 1.46, python 3.7.2_1 -> 3.7.2_2, gnu-tar 1.31 -> 1.32, unzip 6.0_3 -> 6.0_4, harfbuzz 2.3.0 -> 2.3.1, glib 2.58.3 -> 2.60.0, binutils 2.31.1_2 -> 2.32, sqlite 3.26.0_1 -> 3.27.1, libvpx 1.7.0 -> 1.8.0, mysql 8.0.13 
+-> 8.0.15, sphinx-doc 1.8.3_1 -> 1.8.4, unrar 5.7.1 -> 5.7.3, youtube-dl 2019.01.30.1 -> 2019.03.01, openssl@1.1 1.1.1a -> 1.1.1b, pcre 8.42 -> 8.43, groovy 2.5.5 -> 2.5.6, zsh 5.7_1 -> 5.7.1, file-formula 5.35 -> 5.36, 
+imagemagick 7.0.8-25 -> 7.0.8-29, git 2.20.1 -> 2.21.0
+==> Upgrading binutils 
+==> Downloading https://homebrew.bintray.com/bottles/binutils-2.32.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring binutils-2.32.mojave.bottle.tar.gz
+==> Caveats
+binutils is keg-only, which means it was not symlinked into /usr/local,
+because because Apple provides the same tools and binutils is poorly supported on macOS.
+
+If you need to have binutils first in your PATH run:
+  echo 'export PATH="/usr/local/opt/binutils/bin:$PATH"' >> ~/.bash_profile
+
+For compilers to find binutils you may need to set:
+  export LDFLAGS="-L/usr/local/opt/binutils/lib"
+  export CPPFLAGS="-I/usr/local/opt/binutils/include"
+
+==> Summary
+🍺  /usr/local/Cellar/binutils/2.32: 134 files, 167.5MB
+==> `brew cleanup` has not been run in 30 days, running now...
+Removing: /usr/local/Cellar/binutils/2.31.1_2... (133 files, 170.8MB)
+Removing: /Users/rshupe/Library/Caches/Homebrew/binutils--2.31.1_2.mojave.bottle.tar.gz... (38.9MB)
+Removing: /Users/rshupe/Library/Caches/Homebrew/ffmpeg--4.1.tar.xz... (8.5MB)
+Removing: /Users/rshupe/Library/Caches/Homebrew/ffmpeg--4.1_3.mojave.bottle.2.tar.gz... (22.5MB)
+Removing: /Users/rshupe/Library/Caches/Homebrew/file-formula--5.35.mojave.bottle.tar.gz... (37.5KB)
+Removing: /Users/rshupe/Library/Caches/Homebrew/git--2.20.1.mojave.bottle.3.tar.gz... (15.7MB)
+Removing: /Users/rshupe/Library/Caches/Homebrew/glib--2.58.3.mojave.bottle.tar.gz... (5.6MB)
+Removing: /Users/rshupe/Library/Caches/Homebrew/gnu-tar--1.31.mojave.bottle.2.tar.gz... (615KB)
+Removing: /Users/rshupe/Library/Caches/Homebrew/gnutls--3.6.6.mojave.bottle.tar.gz... (2.7MB)
+Removing: /Users/rshupe/Library/Caches/Homebrew/groovy--2.5.5.zip... (28.5MB)
+Removing: /Users/rshupe/Library/Caches/Homebrew/harfbuzz--2.3.0.mojave.bottle.tar.gz... (2.2MB)
+Removing: /Users/rshupe/Library/Caches/Homebrew/imagemagick--7.0.8-25.mojave.bottle.tar.gz... (9.3MB)
+Removing: /Users/rshupe/Library/Caches/Homebrew/jpeg--9c.high_sierra.bottle.tar.gz... (297.6KB)
+Removing: /Users/rshupe/Library/Caches/Homebrew/libidn2--2.1.0.mojave.bottle.tar.gz... (219.4KB)
+Removing: /Users/rshupe/Library/Caches/Homebrew/libtool--2.4.6_1.high_sierra.bottle.tar.gz... (1009.5KB)
+Removing: /Users/rshupe/Library/Caches/Homebrew/mysql--8.0.13.mojave.bottle.tar.gz... (61.7MB)
+Removing: /Users/rshupe/Library/Caches/Homebrew/openssl@1.1--1.1.1a.mojave.bottle.tar.gz... (5.2MB)
+Removing: /Users/rshupe/Library/Caches/Homebrew/pandoc--2.6.mojave.bottle.tar.gz... (13MB)
+Removing: /Users/rshupe/Library/Caches/Homebrew/pixman--0.36.0.mojave.bottle.tar.gz... (514.2KB)
+Removing: /Users/rshupe/Library/Caches/Homebrew/python--pip--18.1.tar.gz... (1.2MB)
+Removing: /Users/rshupe/Library/Caches/Homebrew/python--wheel--0.32.3.tar.gz... (18.1KB)
+Removing: /Users/rshupe/Library/Caches/Homebrew/python--setuptools--40.6.3.zip... (819.7KB)
+Removing: /Users/rshupe/Library/Caches/Homebrew/python@2--setuptools--40.6.3.zip... (819.7KB)
+Removing: /Users/rshupe/Library/Caches/Homebrew/python@2--wheel--0.32.3.tar.gz... (18.1KB)
+Removing: /Users/rshupe/Library/Caches/Homebrew/python@2--2.7.15.tar.xz... (12MB)
+Removing: /Users/rshupe/Library/Caches/Homebrew/python@2--pip--18.1.tar.gz... (1.2MB)
+Removing: /Users/rshupe/Library/Caches/Homebrew/rclone--1.45.mojave.bottle.tar.gz... (13.4MB)
+Removing: /Users/rshupe/Library/Caches/Homebrew/sphinx-doc--1.8.3.mojave.bottle.tar.gz... (12.9MB)
+Removing: /Users/rshupe/Library/Caches/Homebrew/sphinx-doc--1.8.3_1.mojave.bottle.tar.gz... (14MB)
+Removing: /Users/rshupe/Library/Caches/Homebrew/unrar--5.7.1.mojave.bottle.tar.gz... (246.7KB)
+Removing: /Users/rshupe/Library/Caches/Homebrew/vim--8.1.0850.mojave.bottle.tar.gz... (10.8MB)
+Removing: /Users/rshupe/Library/Caches/Homebrew/youtube-dl--2019.01.30.1.tar.gz... (3.0MB)
+Removing: /Users/rshupe/Library/Logs/Homebrew/vim... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/coreutils... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/gnu-indent... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/ffmpeg... (7 files, 10.6MB)
+Removing: /Users/rshupe/Library/Logs/Homebrew/pandoc... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/gdb... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/python@2... (13 files, 4.0MB)
+Removing: /Users/rshupe/Library/Logs/Homebrew/little-cms2... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/perl@5.18... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/ncurses... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/frei0r... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/mpfr... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/rtmpdump... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/python... (12 files, 4.8MB)
+Removing: /Users/rshupe/Library/Logs/Homebrew/less... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/gpatch... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/gnu-tar... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/openjpeg... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/ldns... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/nano... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/apr-util... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/speex... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/unzip... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/openssh... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/glib... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/ed... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/aom... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/utf8proc... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/lz4... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/rsync... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/binutils... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/gzip... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/webp... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/grep... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/lua... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/bash... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/diffutils... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/gnu-sed... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/snappy... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/gawk... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/make... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/screen... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/sphinx-doc... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/unrar... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/apr... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/opencore-amr... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/m4... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/watch... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/pcre2... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/youtube-dl... (106B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/rename... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/openssl@1.1... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/x264... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/groovy... (102B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/x265... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/libomp... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/zsh... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/theora... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/sdl2... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/file-formula... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/imagemagick... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/findutils... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/wdiff... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/subversion... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/p11-kit... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/gnu-which... (64B)
+Removing: /Users/rshupe/Library/Logs/Homebrew/gnutls... (64B)
+]==> Upgrading sphinx-doc 
+==> Installing dependencies for sphinx-doc: sqlite and python
+==> Installing sphinx-doc dependency: sqlite
+==> Downloading https://homebrew.bintray.com/bottles/sqlite-3.27.1.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring sqlite-3.27.1.mojave.bottle.tar.gz
+==> Caveats
+sqlite is keg-only, which means it was not symlinked into /usr/local,
+because macOS provides an older sqlite3.
+
+If you need to have sqlite first in your PATH run:
+  echo 'export PATH="/usr/local/opt/sqlite/bin:$PATH"' >> ~/.bash_profile
+
+For compilers to find sqlite you may need to set:
+  export LDFLAGS="-L/usr/local/opt/sqlite/lib"
+  export CPPFLAGS="-I/usr/local/opt/sqlite/include"
+
+For pkg-config to find sqlite you may need to set:
+  export PKG_CONFIG_PATH="/usr/local/opt/sqlite/lib/pkgconfig"
+
+==> Summary
+🍺  /usr/local/Cellar/sqlite/3.27.1: 11 files, 3.7MB
+==> Installing sphinx-doc dependency: python
+Warning: Building python from source:
+  The bottle needs the Apple Command Line Tools to be installed.
+  You can install them, if desired, with:
+    xcode-select --install
+
+==> Downloading https://www.python.org/ftp/python/3.7.2/Python-3.7.2.tgz
+Already downloaded: /Users/rshupe/Library/Caches/Homebrew/downloads/c0a14628b5078ca696f1e18227df67d9c5fbe04462c041d9252709c120ea3e1a--Python-3.7.2.tgz
+==> ./configure --prefix=/usr/local/Cellar/python/3.7.2_2 --enable-ipv6 --datarootdir=/usr/local/Cellar/python/3.7.2_2/share --datadir=/usr/local/Cellar/python/3.7.2_2/share 
+--enable-framework=/usr/local/Cellar/python/3.7.2_2/Frameworks -
+==> make
+==> make install PYTHONAPPSDIR=/usr/local/Cellar/python/3.7.2_2
+==> make frameworkinstallextras PYTHONAPPSDIR=/usr/local/Cellar/python/3.7.2_2/share/python
+==> Downloading https://files.pythonhosted.org/packages/c2/f7/c7b501b783e5a74cf1768bc174ee4fb0a8a6ee5af6afa92274ff964703e0/setuptools-40.8.0.zip
+######################################################################## 100.0%
+==> Downloading https://files.pythonhosted.org/packages/4c/4d/88bc9413da11702cbbace3ccc51350ae099bb351febae8acc85fec34f9af/pip-19.0.2.tar.gz
+######################################################################## 100.0%
+==> Downloading https://files.pythonhosted.org/packages/d9/7d/86df15e317027f6e87aa68ea854abf8437e796b4c0fadd3ae5ee67b77cb2/wheel-0.33.0.tar.gz
+######################################################################## 100.0%
+==> /usr/local/Cellar/python/3.7.2_2/bin/python3 -s setup.py --no-user-cfg install --force --verbose --install-scripts=/usr/local/Cellar/python/3.7.2_2/bin --install-lib=/usr/local/lib/python3.7/site-packages 
+--single-version-externally-m
+==> /usr/local/Cellar/python/3.7.2_2/bin/python3 -s setup.py --no-user-cfg install --force --verbose --install-scripts=/usr/local/Cellar/python/3.7.2_2/bin --install-lib=/usr/local/lib/python3.7/site-packages 
+--single-version-externally-m
+==> /usr/local/Cellar/python/3.7.2_2/bin/python3 -s setup.py --no-user-cfg install --force --verbose --install-scripts=/usr/local/Cellar/python/3.7.2_2/bin --install-lib=/usr/local/lib/python3.7/site-packages 
+--single-version-externally-m
+==> Caveats
+Python has been installed as
+  /usr/local/bin/python3
+
+Unversioned symlinks `python`, `python-config`, `pip` etc. pointing to
+`python3`, `python3-config`, `pip3` etc., respectively, have been installed into
+  /usr/local/opt/python/libexec/bin
+
+If you need Homebrew's Python 2.7 run
+  brew install python@2
+
+You can install Python packages with
+  pip3 install <package>
+They will install into the site-package directory
+  /usr/local/lib/python3.7/site-packages
+
+See: https://docs.brew.sh/Homebrew-and-Python
+==> Summary
+🍺  /usr/local/Cellar/python/3.7.2_2: 8,464 files, 118.4MB, built in 3 minutes 46 seconds
+==> Installing sphinx-doc
+==> Downloading https://homebrew.bintray.com/bottles/sphinx-doc-1.8.4.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring sphinx-doc-1.8.4.mojave.bottle.tar.gz
+==> Caveats
+sphinx-doc is keg-only, which means it was not symlinked into /usr/local,
+because this formula is mainly used internally by other formulae.
+Users are advised to use `pip` to install sphinx-doc.
+
+If you need to have sphinx-doc first in your PATH run:
+  echo 'export PATH="/usr/local/opt/sphinx-doc/bin:$PATH"' >> ~/.bash_profile
+
+==> Summary
+🍺  /usr/local/Cellar/sphinx-doc/1.8.4: 3,122 files, 50.7MB
+Removing: /usr/local/Cellar/sphinx-doc/1.8.3_1... (3,118 files, 50.6MB)
+Removing: /usr/local/Cellar/sqlite/3.26.0_1... (11 files, 3.7MB)
+==> Upgrading file-formula 
+==> Installing dependencies for file-formula: libmagic
+==> Installing file-formula dependency: libmagic
+==> Downloading https://homebrew.bintray.com/bottles/libmagic-5.36.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring libmagic-5.36.mojave.bottle.tar.gz
+🍺  /usr/local/Cellar/libmagic/5.36: 312 files, 6.5MB
+==> Installing file-formula
+==> Downloading https://homebrew.bintray.com/bottles/file-formula-5.36.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring file-formula-5.36.mojave.bottle.tar.gz
+==> Caveats
+file-formula is keg-only, which means it was not symlinked into /usr/local,
+because macOS already provides this software and installing another version in
+parallel can cause all kinds of trouble.
+
+If you need to have file-formula first in your PATH run:
+  echo 'export PATH="/usr/local/opt/file-formula/bin:$PATH"' >> ~/.bash_profile
+
+==> Summary
+🍺  /usr/local/Cellar/file-formula/5.36: 10 files, 108.6KB
+Removing: /usr/local/Cellar/file-formula/5.35... (10 files, 108.1KB)
+==> Upgrading unzip 
+==> Downloading https://homebrew.bintray.com/bottles/unzip-6.0_4.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring unzip-6.0_4.mojave.bottle.tar.gz
+==> Caveats
+unzip is keg-only, which means it was not symlinked into /usr/local,
+because macOS already provides this software and installing another version in
+parallel can cause all kinds of trouble.
+
+If you need to have unzip first in your PATH run:
+  echo 'export PATH="/usr/local/opt/unzip/bin:$PATH"' >> ~/.bash_profile
+
+==> Summary
+🍺  /usr/local/Cellar/unzip/6.0_4: 15 files, 490.1KB
+Removing: /usr/local/Cellar/unzip/6.0_3... (15 files, 490.2KB)
+==> Upgrading openssl@1.1 
+==> Downloading https://homebrew.bintray.com/bottles/openssl@1.1-1.1.1b.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring openssl@1.1-1.1.1b.mojave.bottle.tar.gz
+==> Caveats
+A CA file has been bootstrapped using certificates from the system
+keychain. To add additional certificates, place .pem files in
+  /usr/local/etc/openssl@1.1/certs
+
+and run
+  /usr/local/opt/openssl@1.1/bin/c_rehash
+
+openssl@1.1 is keg-only, which means it was not symlinked into /usr/local,
+because openssl/libressl is provided by macOS so don't link an incompatible version.
+
+If you need to have openssl@1.1 first in your PATH run:
+  echo 'export PATH="/usr/local/opt/openssl@1.1/bin:$PATH"' >> ~/.bash_profile
+
+For compilers to find openssl@1.1 you may need to set:
+  export LDFLAGS="-L/usr/local/opt/openssl@1.1/lib"
+  export CPPFLAGS="-I/usr/local/opt/openssl@1.1/include"
+
+For pkg-config to find openssl@1.1 you may need to set:
+  export PKG_CONFIG_PATH="/usr/local/opt/openssl@1.1/lib/pkgconfig"
+
+==> Summary
+🍺  /usr/local/Cellar/openssl@1.1/1.1.1b: 7,957 files, 17.9MB
+Removing: /usr/local/Cellar/openssl@1.1/1.1.1a... (7,953 files, 17.9MB)
+==> Upgrading pandoc 
+==> Downloading https://homebrew.bintray.com/bottles/pandoc-2.7.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring pandoc-2.7.mojave.bottle.tar.gz
+==> Caveats
+Bash completion has been installed to:
+  /usr/local/etc/bash_completion.d
+==> Summary
+🍺  /usr/local/Cellar/pandoc/2.7: 172 files, 73.4MB
+Removing: /usr/local/Cellar/pandoc/2.6... (171 files, 71.2MB)
+==> Upgrading python@2 
+Warning: Building python@2 from source:
+  The bottle needs the Apple Command Line Tools to be installed.
+  You can install them, if desired, with:
+    xcode-select --install
+
+==> Downloading https://www.python.org/ftp/python/2.7.16/Python-2.7.16.tar.xz
+######################################################################## 100.0%
+==> ./configure --prefix=/usr/local/Cellar/python@2/2.7.16 --enable-ipv6 --datarootdir=/usr/local/Cellar/python@2/2.7.16/share --datadir=/usr/local/Cellar/python@2/2.7.16/share 
+--enable-framework=/usr/local/Cellar/python@2/2.7.16/Framewor
+==> make
+==> make install PYTHONAPPSDIR=/usr/local/Cellar/python@2/2.7.16
+==> make frameworkinstallextras PYTHONAPPSDIR=/usr/local/Cellar/python@2/2.7.16/share/python@2
+==> Downloading https://files.pythonhosted.org/packages/c2/f7/c7b501b783e5a74cf1768bc174ee4fb0a8a6ee5af6afa92274ff964703e0/setuptools-40.8.0.zip
+Already downloaded: /Users/rshupe/Library/Caches/Homebrew/downloads/6969a0201d69d0d7d7b40b24e8d0398bb05ba0864eaea9bc8a5c6c083188d9af--setuptools-40.8.0.zip
+==> Downloading https://files.pythonhosted.org/packages/36/fa/51ca4d57392e2f69397cd6e5af23da2a8d37884a605f9e3f2d3bfdc48397/pip-19.0.3.tar.gz
+######################################################################## 100.0%
+==> Downloading https://files.pythonhosted.org/packages/b7/cf/1ea0f5b3ce55cacde1e84cdde6cee1ebaff51bd9a3e6c7ba4082199af6f6/wheel-0.33.1.tar.gz
+######################################################################## 100.0%
+==> make html
+==> /usr/local/Cellar/python@2/2.7.16/bin/python -s setup.py --no-user-cfg install --force --verbose --single-version-externally-managed --record=installed.txt --install-scripts=/usr/local/Cellar/python@2/2.7.16/bin 
+--install-lib=/usr/loc
+==> /usr/local/Cellar/python@2/2.7.16/bin/python -s setup.py --no-user-cfg install --force --verbose --single-version-externally-managed --record=installed.txt --install-scripts=/usr/local/Cellar/python@2/2.7.16/bin 
+--install-lib=/usr/loc
+==> /usr/local/Cellar/python@2/2.7.16/bin/python -s setup.py --no-user-cfg install --force --verbose --single-version-externally-managed --record=installed.txt --install-scripts=/usr/local/Cellar/python@2/2.7.16/bin 
+--install-lib=/usr/loc
+==> Caveats
+Pip and setuptools have been installed. To update them
+  pip install --upgrade pip setuptools
+
+You can install Python packages with
+  pip install <package>
+
+They will install into the site-package directory
+  /usr/local/lib/python2.7/site-packages
+
+See: https://docs.brew.sh/Homebrew-and-Python
+==> Summary
+🍺  /usr/local/Cellar/python@2/2.7.16: 7,568 files, 122.9MB, built in 4 minutes 51 seconds
+Removing: /usr/local/Cellar/python@2/2.7.15_2... (7,536 files, 122.4MB)
+==> Upgrading pixman 
+==> Downloading https://homebrew.bintray.com/bottles/pixman-0.38.0.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring pixman-0.38.0.mojave.bottle.tar.gz
+🍺  /usr/local/Cellar/pixman/0.38.0: 13 files, 1.3MB
+Removing: /usr/local/Cellar/pixman/0.36.0... (13 files, 1.3MB)
+==> Upgrading rclone 
+==> Downloading https://homebrew.bintray.com/bottles/rclone-1.46.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring rclone-1.46.mojave.bottle.tar.gz
+==> Caveats
+Bash completion has been installed to:
+  /usr/local/etc/bash_completion.d
+
+zsh completions have been installed to:
+  /usr/local/share/zsh/site-functions
+==> Summary
+🍺  /usr/local/Cellar/rclone/1.46: 9 files, 34MB
+Removing: /usr/local/Cellar/rclone/1.45... (9 files, 33MB)
+Removing: /usr/local/Cellar/python/3.7.2_1... (8,437 files, 118MB)
+==> Upgrading gnu-tar 
+==> Downloading https://homebrew.bintray.com/bottles/gnu-tar-1.32.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring gnu-tar-1.32.mojave.bottle.tar.gz
+==> Caveats
+GNU "tar" has been installed as "gtar".
+If you need to use it as "tar", you can add a "gnubin" directory
+to your PATH from your bashrc like:
+
+    PATH="/usr/local/opt/gnu-tar/libexec/gnubin:$PATH"
+==> Summary
+🍺  /usr/local/Cellar/gnu-tar/1.32: 15 files, 1.7MB
+Removing: /usr/local/Cellar/gnu-tar/1.31... (15 files, 1.7MB)
+==> Upgrading harfbuzz 
+==> Installing dependencies for harfbuzz: pcre and glib
+==> Installing harfbuzz dependency: pcre
+==> Downloading https://homebrew.bintray.com/bottles/pcre-8.43.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring pcre-8.43.mojave.bottle.tar.gz
+🍺  /usr/local/Cellar/pcre/8.43: 204 files, 5.5MB
+==> Installing harfbuzz dependency: glib
+==> Downloading https://homebrew.bintray.com/bottles/glib-2.60.0.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring glib-2.60.0.mojave.bottle.tar.gz
+🍺  /usr/local/Cellar/glib/2.60.0: 432 files, 15.3MB
+==> Installing harfbuzz
+==> Downloading https://homebrew.bintray.com/bottles/harfbuzz-2.3.1.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring harfbuzz-2.3.1.mojave.bottle.tar.gz
+🍺  /usr/local/Cellar/harfbuzz/2.3.1: 180 files, 9.5MB
+Removing: /usr/local/Cellar/harfbuzz/2.3.0... (179 files, 9.5MB)
+Removing: /usr/local/Cellar/glib/2.58.3... (435 files, 18.5MB)
+==> Upgrading libvpx 
+==> Downloading https://homebrew.bintray.com/bottles/libvpx-1.8.0.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring libvpx-1.8.0.mojave.bottle.tar.gz
+🍺  /usr/local/Cellar/libvpx/1.8.0: 17 files, 1.5MB
+Removing: /usr/local/Cellar/libvpx/1.7.0... (17 files, 1.4MB)
+==> Upgrading mysql 
+==> Downloading https://homebrew.bintray.com/bottles/mysql-8.0.15.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring mysql-8.0.15.mojave.bottle.tar.gz
+==> Caveats
+We've installed your MySQL database without a root password. To secure it run:
+    mysql_secure_installation
+
+MySQL is configured to only allow connections from localhost by default
+
+To connect run:
+    mysql -uroot
+
+To have launchd start mysql now and restart at login:
+  brew services start mysql
+Or, if you don't want/need a background service you can just run:
+  mysql.server start
+==> Summary
+🍺  /usr/local/Cellar/mysql/8.0.15: 267 files, 234.6MB
+Removing: /usr/local/Cellar/mysql/8.0.13... (267 files, 236.6MB)
+==> Upgrading unrar 
+==> Downloading https://homebrew.bintray.com/bottles/unrar-5.7.3.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring unrar-5.7.3.mojave.bottle.tar.gz
+🍺  /usr/local/Cellar/unrar/5.7.3: 6 files, 520.4KB
+Removing: /usr/local/Cellar/unrar/5.7.1... (7 files, 520.7KB)
+==> Upgrading youtube-dl 
+==> Downloading https://github.com/rg3/youtube-dl/releases/download/2019.03.01/youtube-dl-2019.03.01.tar.gz
+==> Downloading from 
+https://github-production-release-asset-2e65be.s3.amazonaws.com/1039520/1c87d600-3bbe-11e9-9bbf-4ad6805650bf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20190307%2Fus-east-1%2Fs3%2Faws4_re
+######################################################################## 100.0%
+==> Caveats
+Bash completion has been installed to:
+  /usr/local/etc/bash_completion.d
+
+zsh completions have been installed to:
+  /usr/local/share/zsh/site-functions
+==> Summary
+🍺  /usr/local/Cellar/youtube-dl/2019.03.01: 12 files, 2MB, built in 7 seconds
+Removing: /usr/local/Cellar/youtube-dl/2019.01.30.1... (12 files, 2MB)
+Removing: /usr/local/Cellar/pcre/8.42... (204 files, 5.3MB)
+==> Upgrading groovy 
+==> Downloading https://dl.bintray.com/groovy/maven/apache-groovy-binary-2.5.6.zip
+######################################################################## 100.0%
+==> Caveats
+You should set GROOVY_HOME:
+  export GROOVY_HOME=/usr/local/opt/groovy/libexec
+==> Summary
+🍺  /usr/local/Cellar/groovy/2.5.6: 94 files, 18.4MB, built in 15 seconds
+Removing: /usr/local/Cellar/groovy/2.5.5... (94 files, 18.3MB)
+==> Upgrading zsh 
+==> Downloading https://homebrew.bintray.com/bottles/zsh-5.7.1.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring zsh-5.7.1.mojave.bottle.tar.gz
+🍺  /usr/local/Cellar/zsh/5.7.1: 1,515 files, 13.3MB
+Removing: /usr/local/Cellar/zsh/5.7_1... (1,513 files, 13.2MB)
+==> Upgrading imagemagick 
+==> Installing dependencies for imagemagick: libde265, libheif, libtiff, ilmbase and openexr
+==> Installing imagemagick dependency: libde265
+==> Downloading https://homebrew.bintray.com/bottles/libde265-1.0.3.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring libde265-1.0.3.mojave.bottle.tar.gz
+🍺  /usr/local/Cellar/libde265/1.0.3: 22 files, 2MB
+==> Installing imagemagick dependency: libheif
+==> Downloading https://homebrew.bintray.com/bottles/libheif-1.4.0.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring libheif-1.4.0.mojave.bottle.tar.gz
+🍺  /usr/local/Cellar/libheif/1.4.0: 19 files, 2.2MB
+==> Installing imagemagick dependency: libtiff
+==> Downloading https://homebrew.bintray.com/bottles/libtiff-4.0.10_1.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring libtiff-4.0.10_1.mojave.bottle.tar.gz
+🍺  /usr/local/Cellar/libtiff/4.0.10_1: 246 files, 3.5MB
+==> Installing imagemagick dependency: ilmbase
+==> Downloading https://homebrew.bintray.com/bottles/ilmbase-2.2.1.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring ilmbase-2.2.1.mojave.bottle.tar.gz
+🍺  /usr/local/Cellar/ilmbase/2.2.1: 353 files, 5.6MB
+==> Installing imagemagick dependency: openexr
+==> Downloading https://homebrew.bintray.com/bottles/openexr-2.2.0_1.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring openexr-2.2.0_1.mojave.bottle.tar.gz
+🍺  /usr/local/Cellar/openexr/2.2.0_1: 132 files, 11.0MB
+==> Installing imagemagick
+==> Downloading https://homebrew.bintray.com/bottles/imagemagick-7.0.8-29.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring imagemagick-7.0.8-29.mojave.bottle.tar.gz
+🍺  /usr/local/Cellar/imagemagick/7.0.8-29: 1,477 files, 23.6MB
+Removing: /usr/local/Cellar/imagemagick/7.0.8-25... (1,474 files, 23.5MB)
+==> Upgrading vim 
+==> Downloading https://homebrew.bintray.com/bottles/vim-8.1.0950.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring vim-8.1.0950.mojave.bottle.tar.gz
+🍺  /usr/local/Cellar/vim/8.1.0950: 1,845 files, 30.9MB
+Removing: /usr/local/Cellar/vim/8.1.0850... (1,842 files, 30.8MB)
+==> Upgrading git 
+==> Downloading https://homebrew.bintray.com/bottles/git-2.21.0.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring git-2.21.0.mojave.bottle.tar.gz
+==> Caveats
+Bash completion has been installed to:
+  /usr/local/etc/bash_completion.d
+
+zsh completions and functions have been installed to:
+  /usr/local/share/zsh/site-functions
+
+Emacs Lisp files have been installed to:
+  /usr/local/share/emacs/site-lisp/git
+==> Summary
+🍺  /usr/local/Cellar/git/2.21.0: 1,530 files, 42MB
+Removing: /usr/local/Cellar/git/2.20.1... (1,528 files, 41.3MB)
+Removing: /usr/local/Cellar/libtiff/4.0.10... (246 files, 3.5MB)
+==> Upgrading wget 
+==> Installing dependencies for wget: libidn2
+==> Installing wget dependency: libidn2
+==> Downloading https://homebrew.bintray.com/bottles/libidn2-2.1.1a.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring libidn2-2.1.1a.mojave.bottle.tar.gz
+🍺  /usr/local/Cellar/libidn2/2.1.1a: 69 files, 691.8KB
+==> Installing wget
+==> Downloading https://homebrew.bintray.com/bottles/wget-1.20.1_4.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring wget-1.20.1_4.mojave.bottle.tar.gz
+🍺  /usr/local/Cellar/wget/1.20.1_4: 49 files, 3.9MB
+Removing: /usr/local/Cellar/wget/1.20.1_3... (50 files, 3.9MB)
+==> Upgrading ffmpeg 
+==> Installing dependencies for ffmpeg: libevent, unbound, libbluray, libsoxr, libsndfile, libsamplerate, rubberband, giflib, leptonica and tesseract
+==> Installing ffmpeg dependency: libevent
+==> Downloading https://homebrew.bintray.com/bottles/libevent-2.1.8.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring libevent-2.1.8.mojave.bottle.tar.gz
+🍺  /usr/local/Cellar/libevent/2.1.8: 846 files, 2.2MB
+==> Installing ffmpeg dependency: unbound
+==> Downloading https://homebrew.bintray.com/bottles/unbound-1.9.0.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring unbound-1.9.0.mojave.bottle.tar.gz
+Error: The `brew link` step did not complete successfully
+The formula built, but is not symlinked into /usr/local
+Could not symlink sbin/unbound
+/usr/local/sbin is not writable.
+
+You can try again using:
+  brew link unbound
+==> Caveats
+To have launchd start unbound now and restart at startup:
+  sudo brew services start unbound
+==> Summary
+🍺  /usr/local/Cellar/unbound/1.9.0: 55 files, 4.9MB
+==> Installing ffmpeg dependency: libbluray
+==> Downloading https://homebrew.bintray.com/bottles/libbluray-1.0.2.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring libbluray-1.0.2.mojave.bottle.tar.gz
+🍺  /usr/local/Cellar/libbluray/1.0.2: 20 files, 1.5MB
+==> Installing ffmpeg dependency: libsoxr
+==> Downloading https://homebrew.bintray.com/bottles/libsoxr-0.1.3.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring libsoxr-0.1.3.mojave.bottle.tar.gz
+🍺  /usr/local/Cellar/libsoxr/0.1.3: 28 files, 242.4KB
+==> Installing ffmpeg dependency: libsndfile
+==> Downloading https://homebrew.bintray.com/bottles/libsndfile-1.0.28.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring libsndfile-1.0.28.mojave.bottle.tar.gz
+🍺  /usr/local/Cellar/libsndfile/1.0.28: 48 files, 1.8MB
+==> Installing ffmpeg dependency: libsamplerate
+==> Downloading https://homebrew.bintray.com/bottles/libsamplerate-0.1.9_1.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring libsamplerate-0.1.9_1.mojave.bottle.tar.gz
+🍺  /usr/local/Cellar/libsamplerate/0.1.9_1: 28 files, 3.0MB
+==> Installing ffmpeg dependency: rubberband
+==> Downloading https://homebrew.bintray.com/bottles/rubberband-1.8.2_1.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring rubberband-1.8.2_1.mojave.bottle.tar.gz
+🍺  /usr/local/Cellar/rubberband/1.8.2_1: 12 files, 634.0KB
+==> Installing ffmpeg dependency: giflib
+==> Downloading https://homebrew.bintray.com/bottles/giflib-5.1.4_1.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring giflib-5.1.4_1.mojave.bottle.tar.gz
+🍺  /usr/local/Cellar/giflib/5.1.4_1: 21 files, 312.6KB
+==> Installing ffmpeg dependency: leptonica
+==> Downloading https://homebrew.bintray.com/bottles/leptonica-1.77.0_1.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring leptonica-1.77.0_1.mojave.bottle.tar.gz
+🍺  /usr/local/Cellar/leptonica/1.77.0_1: 48 files, 5.8MB
+==> Installing ffmpeg dependency: tesseract
+==> Downloading https://homebrew.bintray.com/bottles/tesseract-4.0.0_1.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring tesseract-4.0.0_1.mojave.bottle.tar.gz
+==> Caveats
+This formula containes only the "eng", "osd", and "snum" language data files.
+If you need all the other supported languages, `brew install tesseract-lang`.
+==> Summary
+🍺  /usr/local/Cellar/tesseract/4.0.0_1: 63 files, 30.0MB
+==> Installing ffmpeg
+==> Downloading https://homebrew.bintray.com/bottles/ffmpeg-4.1.1.mojave.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring ffmpeg-4.1.1.mojave.bottle.tar.gz
+🍺  /usr/local/Cellar/ffmpeg/4.1.1: 282 files, 58.6MB
+Removing: /usr/local/Cellar/ffmpeg/4.1_3... (282 files, 58.4MB)
+Removing: /usr/local/Cellar/libidn2/2.1.0... (68 files, 679.6KB)
+Removing: /usr/local/Cellar/libmagic/5.35... (310 files, 6.4MB)
+==> Caveats
+==> binutils
+binutils is keg-only, which means it was not symlinked into /usr/local,
+because because Apple provides the same tools and binutils is poorly supported on macOS.
+
+If you need to have binutils first in your PATH run:
+  echo 'export PATH="/usr/local/opt/binutils/bin:$PATH"' >> ~/.bash_profile
+
+For compilers to find binutils you may need to set:
+  export LDFLAGS="-L/usr/local/opt/binutils/lib"
+  export CPPFLAGS="-I/usr/local/opt/binutils/include"
+
+==> sqlite
+sqlite is keg-only, which means it was not symlinked into /usr/local,
+because macOS provides an older sqlite3.
+
+If you need to have sqlite first in your PATH run:
+  echo 'export PATH="/usr/local/opt/sqlite/bin:$PATH"' >> ~/.bash_profile
+
+For compilers to find sqlite you may need to set:
+  export LDFLAGS="-L/usr/local/opt/sqlite/lib"
+  export CPPFLAGS="-I/usr/local/opt/sqlite/include"
+
+For pkg-config to find sqlite you may need to set:
+  export PKG_CONFIG_PATH="/usr/local/opt/sqlite/lib/pkgconfig"
+
+==> python
+Python has been installed as
+  /usr/local/bin/python3
+
+Unversioned symlinks `python`, `python-config`, `pip` etc. pointing to
+`python3`, `python3-config`, `pip3` etc., respectively, have been installed into
+  /usr/local/opt/python/libexec/bin
+
+If you need Homebrew's Python 2.7 run
+  brew install python@2
+
+You can install Python packages with
+  pip3 install <package>
+They will install into the site-package directory
+  /usr/local/lib/python3.7/site-packages
+
+See: https://docs.brew.sh/Homebrew-and-Python
+==> sphinx-doc
+sphinx-doc is keg-only, which means it was not symlinked into /usr/local,
+because this formula is mainly used internally by other formulae.
+Users are advised to use `pip` to install sphinx-doc.
+
+If you need to have sphinx-doc first in your PATH run:
+  echo 'export PATH="/usr/local/opt/sphinx-doc/bin:$PATH"' >> ~/.bash_profile
+
+==> file-formula
+file-formula is keg-only, which means it was not symlinked into /usr/local,
+because macOS already provides this software and installing another version in
+parallel can cause all kinds of trouble.
+
+If you need to have file-formula first in your PATH run:
+  echo 'export PATH="/usr/local/opt/file-formula/bin:$PATH"' >> ~/.bash_profile
+
+==> unzip
+unzip is keg-only, which means it was not symlinked into /usr/local,
+because macOS already provides this software and installing another version in
+parallel can cause all kinds of trouble.
+
+If you need to have unzip first in your PATH run:
+  echo 'export PATH="/usr/local/opt/unzip/bin:$PATH"' >> ~/.bash_profile
+
+==> openssl@1.1
+A CA file has been bootstrapped using certificates from the system
+keychain. To add additional certificates, place .pem files in
+  /usr/local/etc/openssl@1.1/certs
+
+and run
+  /usr/local/opt/openssl@1.1/bin/c_rehash
+
+openssl@1.1 is keg-only, which means it was not symlinked into /usr/local,
+because openssl/libressl is provided by macOS so don't link an incompatible version.
+
+If you need to have openssl@1.1 first in your PATH run:
+  echo 'export PATH="/usr/local/opt/openssl@1.1/bin:$PATH"' >> ~/.bash_profile
+
+For compilers to find openssl@1.1 you may need to set:
+  export LDFLAGS="-L/usr/local/opt/openssl@1.1/lib"
+  export CPPFLAGS="-I/usr/local/opt/openssl@1.1/include"
+
+For pkg-config to find openssl@1.1 you may need to set:
+  export PKG_CONFIG_PATH="/usr/local/opt/openssl@1.1/lib/pkgconfig"
+
+==> pandoc
+Bash completion has been installed to:
+  /usr/local/etc/bash_completion.d
+==> python@2
+Pip and setuptools have been installed. To update them
+  pip install --upgrade pip setuptools
+
+You can install Python packages with
+  pip install <package>
+
+They will install into the site-package directory
+  /usr/local/lib/python2.7/site-packages
+
+See: https://docs.brew.sh/Homebrew-and-Python
+==> rclone
+Bash completion has been installed to:
+  /usr/local/etc/bash_completion.d
+
+zsh completions have been installed to:
+  /usr/local/share/zsh/site-functions
+==> gnu-tar
+GNU "tar" has been installed as "gtar".
+If you need to use it as "tar", you can add a "gnubin" directory
+to your PATH from your bashrc like:
+
+    PATH="/usr/local/opt/gnu-tar/libexec/gnubin:$PATH"
+==> mysql
+We've installed your MySQL database without a root password. To secure it run:
+    mysql_secure_installation
+
+MySQL is configured to only allow connections from localhost by default
+
+To connect run:
+    mysql -uroot
+
+To have launchd start mysql now and restart at login:
+  brew services start mysql
+Or, if you don't want/need a background service you can just run:
+  mysql.server start
+==> youtube-dl
+Bash completion has been installed to:
+  /usr/local/etc/bash_completion.d
+
+zsh completions have been installed to:
+  /usr/local/share/zsh/site-functions
+==> groovy
+You should set GROOVY_HOME:
+  export GROOVY_HOME=/usr/local/opt/groovy/libexec
+==> git
+Bash completion has been installed to:
+  /usr/local/etc/bash_completion.d
+
+zsh completions and functions have been installed to:
+  /usr/local/share/zsh/site-functions
+
+Emacs Lisp files have been installed to:
+  /usr/local/share/emacs/site-lisp/git
+==> unbound
+To have launchd start unbound now and restart at startup:
+  sudo brew services start unbound
+==> tesseract
+This formula containes only the "eng", "osd", and "snum" language data files.
+If you need all the other supported languages, `brew install tesseract-lang`.
