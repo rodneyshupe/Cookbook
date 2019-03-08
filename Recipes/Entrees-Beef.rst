@@ -780,19 +780,19 @@ Slow Cooker Sloppy Joes
 
 Ingredients
 -----------
-2 slices high-quality white sandwich bread, torn into quarters
-1/4 cup whole milk
-2 pounds 85 percent lean ground beef
-Salt and pepper
-2 tablespoons vegetable oil
-2 onions, minced
-4 garlic cloves, minced
-1 teaspoon chili powder
-1 (15-ounce) can tomato sauce
-1 cup ketchup
-2 teaspoons brown sugar
-1/2 teaspoon hot sauce
-8 hamburger buns
+- 2 slices high-quality white sandwich bread, torn into quarters
+- 1/4 cup whole milk
+- 2 pounds 85 percent lean ground beef
+- Salt and pepper
+- 2 tablespoons vegetable oil
+- 2 onions, minced
+- 4 garlic cloves, minced
+- 1 teaspoon chili powder
+- 1 (15-ounce) can tomato sauce
+- 1 cup ketchup
+- 2 teaspoons brown sugar
+- 1/2 teaspoon hot sauce
+- 8 hamburger buns
 
 Directions
 ----------
