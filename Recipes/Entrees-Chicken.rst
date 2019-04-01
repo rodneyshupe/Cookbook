@@ -170,6 +170,174 @@ Notes
 
    PageBreak recipePage
 
+Cast Iron Crisp Roast Butterflied Chicken with Rosemary and Garlic
+==================================================================
+
++-----------------------+----------------------+-------------------+
+| Prep Time: 15 minutes | Cooking Time: 1 hour | Yield: 4 servings |
++-----------------------+----------------------+-------------------+
+
+Source: `Americas Test Kitchen <https://www.americastestkitchen.com/recipes/9459-cast-iron-crisp-roast-butterflied-chicken-with-rosemary-and-garlic>`__
+
+Ingredients
+-----------
+- 2 tablespoons extra-virgin olive oil
+- 1 teaspoon minced fresh rosemary
+- 1 garlic clove, minced
+- 1 (3 1/2- to 4-pound) whole chicken, giblets discarded
+- Salt and pepper
+
+Directions
+----------
+1. Adjust oven rack to lowest position, place 12-inch cast-iron skillet on
+   rack, and heat oven to 500°F. Meanwhile, combine 1 tablespoon oil,
+   rosemary, and garlic in bowl; set aside.
+2. With chicken breast side down, use kitchen shears to cut through bones on
+   either side of backbone; discard backbone. Flip chicken over, tuck wingtips
+   behind back, and press firmly on breastbone to flatten. Pat chicken dry
+   with paper towels, then rub with remaining 1 tablespoon oil and season with
+   salt and pepper.
+3. When oven reaches 500°F, place chicken breast side down in hot
+   skillet. Reduce oven temperature to 450°F and roast chicken until
+   well browned, about 30 minutes.
+4. Using potholders, remove skillet from oven. Being careful of hot skillet
+   handle, gently flip chicken breast side up. Brush chicken with oil mixture,
+   return skillet to oven, and continue to roast chicken until breast
+   registers 160°F and thighs register 175°F, about 10 minutes.
+   Transfer chicken to carving board, tent loosely with aluminum foil, and
+   let rest for 15 minutes. Carve chicken and serve.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+Roast Chicken with Lemon and Garlic
+===================================
+
++----------------------+--------------------------+-------------------+
+| Prep Time: 5 minutes | Cooking Time: 45 minutes | Yield: 4 servings |
++----------------------+--------------------------+-------------------+
+
+This recipe eliminates one of the most common complaints about whole roast
+chickens—that it’s hard to know when they’re cooked all the way through. This
+recipe makes it easy to check for doneness with lots of visual cues that anyone
+can follow, but if you have an instant-read thermometer, go ahead and use it.
+Remove chicken from the oven when thickest part of thigh hits 160°F, and
+carryover cooking will bring it up to 165°F.
+
+Ingedients
+----------
+- 1 lemon
+- 1 head of garlic
+- 1/4 cup (1/2 stick) unsalted butter or extra-virgin olive oil
+- 1 3–4 lb. whole chicken
+- Kosher salt
+- Freshly ground black pepper
+
+Directions
+----------
+1. Arrange a rack in center of oven; preheat to 425°F. Cut 1 lemon in half
+   crosswise and remove any visible seeds. Cut 1 head of garlic in half
+   crosswise. Melt ½ stick butter in a small saucepan or microwave in a small
+   bowl.
+2. Place 1 3–4-lb. whole chicken on a cutting board (best to use a plastic
+   one you can sterilize) and pat dry with paper towels.  With chicken breast
+   facing up and legs pointing toward you, use a sharp knife to slice through
+   loose area of skin draped between leg and breast, making about a 3"-long
+   incision. Continue cutting downward until you hit the joint that connects
+   the thigh to the body, then stop (once you get through the skin, there’s
+   not much there; if you are cutting through flesh, you’re too close to the
+   breast). This exposes the leg joint, making it easy to tell if chicken is
+   cooked. Repeat on second side.
+3. Season every surface of chicken, including skin along backbone, inside
+   cavity, under wings, and inside part of the leg you just exposed, with
+   lots of salt and pepper. If you’re using kosher salt, it should take you
+   4–5 generous pinches.
+4. Transfer chicken breast side up to a large skillet. Arrange lemon and
+   garlic cut sides down in skillet around chicken. Drizzle chicken all over
+   with melted butter and transfer to oven.
+5. Roast until chicken is nicely browned and cooked through, checking for
+   doneness after 45 minutes. To check, carefully remove skillet from oven
+   (the handle is hot!), poke a knife into leg joints, and pierce the meat.
+   If juices run clear, chicken is done. If you see a rosy pink color, it
+   needs more time. Continue to roast, checking every 5 minutes, until juices
+   run clear. (If you’re not sure, you can also use the knife to lightly
+   shred some of the meat along the thigh bone—the meat should look opaque
+   and the fibers should separate easily.)
+6. Let chicken rest in skillet at least 15 minutes before carving. Transfer
+   chicken to a platter. Top with pan juices and serve with roasted lemon and
+   garlic alongside.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+Roast Chicken Tarragon-Lemon Pan Sauce
+======================================
+
++----------------------+---------------------------+-------------------+
+| Prep Time: 5 minutes | Cooking Time: 1 1/2 hours | Yield: 4 servings |
++----------------------+---------------------------+-------------------+
+
+Ingredients
+-----------
+
+Chicken
+^^^^^^^
+
+-  1 tablespoon kosher salt
+-  1/2 teaspoon pepper
+-  1 (3 1/2- to 4-pound) whole chicken, giblets discarded
+-  1 tablespoon olive oil
+
+Pan Sauce
+^^^^^^^^^
+-  1 shallot, minced
+-  1 cup low-sodium chicken broth
+-  2 teaspoons Dijon mustard
+-  2 tablespoons unsalted butter
+-  2 teaspoons minced fresh tarragon
+-  2 teaspoons lemon juice
+-  Pepper
+
+Directions
+----------
+
+1. Adjust oven rack to middle position, place 12-inch ovensafe skillet
+   on rack, and heat oven to 450°F. Combine salt and pepper in bowl. Pat
+   chicken dry with paper towels. Rub entire surface with oil. Sprinkle
+   evenly all over with salt mixture and rub in mixture with hands to
+   coat evenly. Tie legs together with twine and tuck wing tips behind
+   back.
+2. Transfer chicken, breast side up, to preheated skillet in oven. Roast
+   chicken until breasts register 120°F and thighs register 135°F,
+   25 to 35 minutes. Turn off oven and leave chicken in oven until
+   breasts register 160°F and thighs register 175°F, 25 to 35 minutes.
+3. Transfer chicken to carving board and let rest, uncovered, for 20
+   minutes before carving.
+4. While chicken rests, remove all but 1 tablespoon of fat from
+   now-empty skillet using large kitchen spoon, leaving any fond and jus
+   in skillet. Place skillet over medium-high heat, add shallot, and
+   cook until softened, about 2 minutes.
+5. Stir in broth and mustard, scraping skillet bottom with wooden spoon
+   to loosen fond. Simmer until reduced to 3/4 cup, about 3 minutes.
+6. Off heat, whisk in butter, tarragon, and lemon juice. Season with
+   pepper to taste; cover and keep warm.
+
+Variation
+---------
+
+Thyme-Sherry Vinegar Pan Sauce
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+-  In step 4 add 2 minced garlic cloves and 2 teaspoons chopped fresh
+   thyme to pan with shallot. In step 6 replace lemon juice with sherry
+   vinegar and leave out the tarragon.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
 Buttermilk Roast Chicken with Potatoes and Cornichon Butter
 ===========================================================
 
@@ -217,6 +385,8 @@ Directions
    cutting board for 10 to 15 minutes before carving. Add the cornichon butter
    and parsley to the hot potatoes. Once it starts to melt, toss to evenly
    integrate.
+
+---
 
 .. raw:: pdf
 
@@ -425,47 +595,6 @@ Alternate brine: Substitute sugar with 1/4 cup Worcestershire sauce.
 
    PageBreak recipePage
 
-Cast Iron Crisp Roast Butterflied Chicken with Rosemary and Garlic
-==================================================================
-
-+-----------------------+----------------------+-------------------+
-| Prep Time: 15 minutes | Cooking Time: 1 hour | Yield: 4 servings |
-+-----------------------+----------------------+-------------------+
-
-Source: `Americas Test Kitchen <https://www.americastestkitchen.com/recipes/9459-cast-iron-crisp-roast-butterflied-chicken-with-rosemary-and-garlic>`__
-
-Ingredients
------------
-- 2 tablespoons extra-virgin olive oil
-- 1 teaspoon minced fresh rosemary
-- 1 garlic clove, minced
-- 1 (3 1/2- to 4-pound) whole chicken, giblets discarded
-- Salt and pepper
-
-Directions
-----------
-1. Adjust oven rack to lowest position, place 12-inch cast-iron skillet on
-   rack, and heat oven to 500°F. Meanwhile, combine 1 tablespoon oil,
-   rosemary, and garlic in bowl; set aside.
-2. With chicken breast side down, use kitchen shears to cut through bones on
-   either side of backbone; discard backbone. Flip chicken over, tuck wingtips
-   behind back, and press firmly on breastbone to flatten. Pat chicken dry
-   with paper towels, then rub with remaining 1 tablespoon oil and season with
-   salt and pepper.
-3. When oven reaches 500°F, place chicken breast side down in hot
-   skillet. Reduce oven temperature to 450°F and roast chicken until
-   well browned, about 30 minutes.
-4. Using potholders, remove skillet from oven. Being careful of hot skillet
-   handle, gently flip chicken breast side up. Brush chicken with oil mixture,
-   return skillet to oven, and continue to roast chicken until breast
-   registers 160°F and thighs register 175°F, about 10 minutes.
-   Transfer chicken to carving board, tent loosely with aluminum foil, and
-   let rest for 15 minutes. Carve chicken and serve.
-
-.. raw:: pdf
-
-   PageBreak recipePage
-
 Butter Milk Fried Chicken
 =========================
 
@@ -586,133 +715,6 @@ Variation
 To create a spicier version adjust the breading by leaving out salt and
 increasing cayenne pepper to 1/4 teaspoon and adding 1/2 teaspoon chili
 powder.
-
-.. raw:: pdf
-
-   PageBreak recipePage
-
-Roast Chicken with Lemon and Garlic
-===================================
-
-+----------------------+--------------------------+-------------------+
-| Prep Time: 5 minutes | Cooking Time: 45 minutes | Yield: 4 servings |
-+----------------------+--------------------------+-------------------+
-
-This recipe eliminates one of the most common complaints about whole roast
-chickens—that it’s hard to know when they’re cooked all the way through. This
-recipe makes it easy to check for doneness with lots of visual cues that anyone
-can follow, but if you have an instant-read thermometer, go ahead and use it.
-Remove chicken from the oven when thickest part of thigh hits 160°F, and
-carryover cooking will bring it up to 165°F.
-
-Ingedients
-----------
-- 1 lemon
-- 1 head of garlic
-- 1/4 cup (1/2 stick) unsalted butter or extra-virgin olive oil
-- 1 3–4 lb. whole chicken
-- Kosher salt
-- Freshly ground black pepper
-
-Directions
-----------
-1. Arrange a rack in center of oven; preheat to 425°F. Cut 1 lemon in half
-   crosswise and remove any visible seeds. Cut 1 head of garlic in half
-   crosswise. Melt ½ stick butter in a small saucepan or microwave in a small
-   bowl.
-2. Place 1 3–4-lb. whole chicken on a cutting board (best to use a plastic
-   one you can sterilize) and pat dry with paper towels.  With chicken breast
-   facing up and legs pointing toward you, use a sharp knife to slice through
-   loose area of skin draped between leg and breast, making about a 3"-long
-   incision. Continue cutting downward until you hit the joint that connects
-   the thigh to the body, then stop (once you get through the skin, there’s
-   not much there; if you are cutting through flesh, you’re too close to the
-   breast). This exposes the leg joint, making it easy to tell if chicken is
-   cooked. Repeat on second side.
-3. Season every surface of chicken, including skin along backbone, inside
-   cavity, under wings, and inside part of the leg you just exposed, with
-   lots of salt and pepper. If you’re using kosher salt, it should take you
-   4–5 generous pinches.
-4. Transfer chicken breast side up to a large skillet. Arrange lemon and
-   garlic cut sides down in skillet around chicken. Drizzle chicken all over
-   with melted butter and transfer to oven.
-5. Roast until chicken is nicely browned and cooked through, checking for
-   doneness after 45 minutes. To check, carefully remove skillet from oven
-   (the handle is hot!), poke a knife into leg joints, and pierce the meat.
-   If juices run clear, chicken is done. If you see a rosy pink color, it
-   needs more time. Continue to roast, checking every 5 minutes, until juices
-   run clear. (If you’re not sure, you can also use the knife to lightly
-   shred some of the meat along the thigh bone—the meat should look opaque
-   and the fibers should separate easily.)
-6. Let chicken rest in skillet at least 15 minutes before carving. Transfer
-   chicken to a platter. Top with pan juices and serve with roasted lemon and
-   garlic alongside.
-
-.. raw:: pdf
-
-   PageBreak recipePage
-
-Roast Chicken Tarragon-Lemon Pan Sauce
-======================================
-
-+----------------------+---------------------------+-------------------+
-| Prep Time: 5 minutes | Cooking Time: 1 1/2 hours | Yield: 4 servings |
-+----------------------+---------------------------+-------------------+
-
-Ingredients
------------
-
-Chicken
-^^^^^^^
-
--  1 tablespoon kosher salt
--  1/2 teaspoon pepper
--  1 (3 1/2- to 4-pound) whole chicken, giblets discarded
--  1 tablespoon olive oil
-
-Pan Sauce
-^^^^^^^^^
--  1 shallot, minced
--  1 cup low-sodium chicken broth
--  2 teaspoons Dijon mustard
--  2 tablespoons unsalted butter
--  2 teaspoons minced fresh tarragon
--  2 teaspoons lemon juice
--  Pepper
-
-Directions
-----------
-
-1. Adjust oven rack to middle position, place 12-inch ovensafe skillet
-   on rack, and heat oven to 450°F. Combine salt and pepper in bowl. Pat
-   chicken dry with paper towels. Rub entire surface with oil. Sprinkle
-   evenly all over with salt mixture and rub in mixture with hands to
-   coat evenly. Tie legs together with twine and tuck wing tips behind
-   back.
-2. Transfer chicken, breast side up, to preheated skillet in oven. Roast
-   chicken until breasts register 120°F and thighs register 135°F,
-   25 to 35 minutes. Turn off oven and leave chicken in oven until
-   breasts register 160°F and thighs register 175°F, 25 to 35 minutes.
-3. Transfer chicken to carving board and let rest, uncovered, for 20
-   minutes before carving.
-4. While chicken rests, remove all but 1 tablespoon of fat from
-   now-empty skillet using large kitchen spoon, leaving any fond and jus
-   in skillet. Place skillet over medium-high heat, add shallot, and
-   cook until softened, about 2 minutes.
-5. Stir in broth and mustard, scraping skillet bottom with wooden spoon
-   to loosen fond. Simmer until reduced to 3/4 cup, about 3 minutes.
-6. Off heat, whisk in butter, tarragon, and lemon juice. Season with
-   pepper to taste; cover and keep warm.
-
-Variation
----------
-
-Thyme-Sherry Vinegar Pan Sauce
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
--  In step 4 add 2 minced garlic cloves and 2 teaspoons chopped fresh
-   thyme to pan with shallot. In step 6 replace lemon juice with sherry
-   vinegar and leave out the tarragon.
 
 .. raw:: pdf
 
