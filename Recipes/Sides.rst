@@ -792,11 +792,10 @@ Skillet-Roasted Brussels Sprouts with Mustard and Brown Sugar
 =============================================================
 
 +-----------------------+--------------------------+-------------+
-| Prep Time: 15 minutes | Cooking Time: 10 minutes | Servings: 4 |
+| Prep Time: 10 minutes | Cooking Time: 10 minutes | Servings: 4 |
 +-----------------------+--------------------------+-------------+
 
 Yield: Serves 4
-
 
 Ingredients
 -----------
@@ -809,7 +808,6 @@ Ingredients
 -  2 teaspoons white wine vinegar
 -  1/8 teaspoon cayenne pepper
 -  Salt
-
 
 Directions
 ----------

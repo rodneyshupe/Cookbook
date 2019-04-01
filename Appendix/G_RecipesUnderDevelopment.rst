@@ -1126,7 +1126,6 @@ Directions
    The cast-iron pan will keep it warm for you!
 
 
----
 .. raw:: pdf
 
    PageBreak recipePage
