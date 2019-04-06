@@ -4,27 +4,35 @@
 
 Sous Vide French Beef Dip
 =========================
-
 +----------------------+----------------+---------------+-------------+
 | Prep Time: 5 minutes | Cook: 18 hours | Servings: 4-6 | Temp: 140°F |
 +----------------------+----------------+---------------+-------------+
 
-
 Ingredients
 -----------
+**Beef**
+- 1 eye of Round Roast 1-2 pounds
+- 2 tbsp kosher salt
+- 2 tsp fresh ground black pepper
+- 1 tsp smoker paprika
+- 1 tsp onion powder
+- 1 tsp garlic powder
 
-**Beef** \* 1 eye of Round Roast 1-2 pounds \* 2 tbsp kosher salt \* 2
-tsp fresh ground black pepper \* 1 tsp smoker paprika \* 1 tsp onion
-powder \* 1 tsp garlic powder
+**Horseradish Sauce**
+- 1 cup sour cream
+- 1 1/2 teaspoon prepared horseradish
+- 2 teaspoon salt
+- 1/4 teaspoon freshly cracked black pepper
 
-**Horseradish Sauce** \* 1 cup sour cream \* 1 1/2 teaspoon prepared
-horseradish \* 2 teaspoon salt \* 1/4 teaspoon freshly cracked black
-pepper
-
-**Au Jus** \* 1 tsp Onion Powder \* 3 cups beef broth \* 1/2 teaspoon
-granulated sugar \* 2 teaspoons Worcestershire sauce, plus more to taste
-\* 1 1/2 teaspoons dijon mustard \* 1 tablespoon sherry \* 1/8 teaspoon
-salt, plus more to taste \* Freshly cracked black pepper
+**Au Jus**
+- 1 tsp Onion Powder
+- 3 cups beef broth
+- 1/2 teaspoon granulated sugar
+- 2 teaspoons Worcestershire sauce, plus more to taste
+- 1 1/2 teaspoons dijon mustard
+- 1 tablespoon sherry
+- 1/8 teaspoon salt, plus more to taste
+- Freshly cracked black pepper
 
 
 Directions
