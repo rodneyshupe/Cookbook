@@ -120,4 +120,5 @@ a collection of recipes containing the favorites of Rodney Shupe and family
 .. include:: Appendix/G_RecipesUnderDevelopment.rst
 .. include:: Appendix/G_RecipesToTry.rst
 
-.. include:: Appendix/H_UrbanFareRecipes.rst
+.. This is commented out for now.
+   include:: Appendix/H_UrbanFareRecipes.rst
