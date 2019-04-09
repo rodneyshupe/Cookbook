@@ -1177,3 +1177,80 @@ Directions
 7. Brush olive oil mixture onto each slice of bread and place on baking
    sheet. Sprinkle finely shredded parmesan cheese to cover bread pieces.
    Toast for 7 minutes.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+Halibut Baked in Foil with Leeks and Carrots
+============================================
+
++-----------------------+--------------------------+-------------------+
+| Prep Time: 15 minutes | Cooking Time: 15 minutes | Yield: 4 servings |
++-----------------------+--------------------------+-------------------+
+
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/4659-cod-baked-in-foil-with-leeks-and-carrots>`__
+
+Ingredients
+-----------
+- 4 tablespoons unsalted butter, softened
+- 1 1/4 teaspoons finely grated zest from 1 lemon ; lemon cut into wedges
+- 2 medium garlic cloves, minced or pressed through a garlic press (about 2 teaspoons)
+- 1 teaspoon minced fresh thyme leaves
+- Salt and ground black pepper
+- 2 tablespoons minced fresh parsley leaves
+- 2 medium carrots, peeled and cut into matchsticks (about 1 1/2 cups)
+- 2 medium leeks, white and light green parts halved lengthwise, washed, and cut into matchsticks (about 2 cups) (see note)
+- 4 tablespoons vermouth or dry white wine
+- 4 skinless halibut fillets, 1 to 1 1/4 inches thick (about 6 ounces each)
+
+Directions
+----------
+1. Combine butter, 1/4 teaspoon zest, 1 teaspoon garlic, thyme,
+   1/4 teaspoon salt, and 1/8 teaspoon pepper in small bowl. Combine parsley,
+   remaining teaspoon zest, and remaining teaspoon garlic in another small
+   bowl; set aside. Place carrots and leeks in medium bowl, season with salt
+   and pepper, and toss together.
+2. Adjust oven rack to lower-middle position and heat oven to 450 degrees.
+   Cut eight 12-inch sheets of foil; arrange four flat on counter. Divide
+   carrot and leek mixture among foil sheets, mounding in center of each.
+   Pour 1 tablespoon vermouth over each mound of vegetables. Pat fish dry
+   with paper towels; season with salt and pepper and place one fillet on
+   top of each vegetable mound. Spread quarter of butter mixture on top of
+   each fillet. Place second square of foil on top of fish; crimp edges
+   together in 1/2-inch fold, then fold over three more times to create a
+   packet about 7 inches square (see illustrations, above). Place packets
+   on rimmed baking sheet (overlapping slightly if necessary).
+3. Bake packets 15 minutes. Open each packet promptly after baking to prevent
+   overcooking. Carefully open foil, allowing steam to escape away from you.
+   Using thin metal spatula, gently slide fish and vegetables onto plate with
+   any accumulated juices; sprinkle with parsley mixture. Serve immediately,
+   passing lemon wedges separately.
+
+Notes
+-----
+Haddock, red snapper, cod, and sea bass also work well in this recipe and
+those that follow as long as the fillets are 1 to 1 1/4 inches thick.
+
+Variations
+----------
+Fennel and Shallots
+^^^^^^^^^^^^^^^^^^^
+* Replace carrots and leaks with:
+  - 1 large fennel bulb (about 1 pound), trimmed, halved, cored, and sliced into 1/4-inch strips (about 4 cups)
+  - 2 medium shallots, sliced thin (about 1/2 cup)
+* Combine fennel and shallots in large microwave-safe bowl; cover tightly with
+  plastic wrap. Microwave on high power until fennel has started to wilt,
+  3 to 4 minutes, stirring once halfway through cooking.
+* For the compound butter replace lemon zest and thyme with  1/4 teaspoon
+  finely grated orange zest, 1 garlic clove, minced and 1 teaspoon minced
+  fresh tarragon leaves.
+* For topping replace  lemon zest, garlic and parsley with 2 medium oranges
+  (peeled, quartered, and cut crosswise into 1/4-inch-thick pieces) and
+  1 teaspoon minced fresh tarragon leaves.
+
+Make Ahead
+----------
+The packets may be assembled several hours ahead of time and refrigerated
+until ready to cook. If the packets have been refrigerated for more than
+30 minutes, increase the cooking time by 2 minutes.
