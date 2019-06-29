@@ -361,6 +361,28 @@ Directions
 
    PageBreak recipePage
 
+Thai Seafood Dipping Sauce
+==========================
+
+Ingredients
+-----------
+
+- 2-5 Thai chilies (seeds removed and roughly chopped)
+- 4 cloves garlic (minced)
+- 5-6 cilantro stems, chopped
+- 2 Tbsp fish sauce
+- 3 Tbsp lime juice
+- 2 tsp finely chopped palm sugar (can substitute brown sugar)
+
+Directions
+----------
+
+1. Combine all ingredients in a blender and puree for 30 seconds.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
 Teriyaki Sauce
 ==============
 

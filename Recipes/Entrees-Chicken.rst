@@ -342,7 +342,7 @@ Buttermilk Roast Chicken with Potatoes and Cornichon Butter
 ===========================================================
 
 +--------------------------------------+----------------------+-----------------------+
-| Prep Time: 15 minutes + 6 - 24 hours | Cooking Time: 1 hour | Yield: 6 - 8 servings |
+| Prep Time: 15 minutes + 6 - 24 hours | Cooking Time: 1 hour | Yield: 3 - 4 servings |
 +--------------------------------------+----------------------+-----------------------+
 
 Source: `Food52.com <https://food52.com/recipes/75666-buttermilk-roast-chicken-with-potatoes-and-cornichon-butter>`__
