@@ -93,6 +93,8 @@ a collection of recipes containing the favorites of Rodney Shupe and family
 
 .. include:: Recipes/Sauces.rst
 
+.. include:: Recipes/Baking.rst
+
 .. include:: Recipes/Desserts.rst
 
 .. include:: Recipes/PicklesAndPreserves.rst

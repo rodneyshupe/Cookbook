@@ -350,7 +350,7 @@ Source: `Food52.com <https://food52.com/recipes/75666-buttermilk-roast-chicken-w
 Ingredients
 -----------
 - 1 whole chicken, about 4 pounds
-- 1 cup buttermilk
+- 1 cup buttermilk (substitute 1 1/2 teaspoons of cream of tartar and 1 cup regular milk)
 - 1 cup pickle juice, from any type of pickles (dill, bread and butter, spicy garlic, etc.)
 - 1 pinch kosher salt, to taste
 - 1 1/2 pounds baby potatoes, halved, or small golden potatoes, peeled and sliced 1/4-inch thick (up to 2 pounds of potatoes)
@@ -673,7 +673,7 @@ Marinade
 -  1/4 tsp cayenne
 -  1/2 tsp white pepper
 -  1 tsp ground dried herbs (oregano, thyme, rosemary, sage)
--  2 cups buttermilk
+-  2 cups buttermilk  (substitute 1 tablespoon of cream of tartar and 2 cups regular milk)
 
 Seasoned flour
 ^^^^^^^^^^^^^^
@@ -704,7 +704,6 @@ Directions
    paper towel lined baking sheet. Let sit for 10 minutes before
    serving. Goes well with homemade `French Fries <#french-fries>`__.
 
-
 .. raw:: pdf
 
    PageBreak recipePage
@@ -725,7 +724,7 @@ Ingredients
 Marinade
 ^^^^^^^^
 
--  2 cups buttermilk
+-  2 cups buttermilk  (substitute 1 tablespoon of cream of tartar and 2 cups regular milk)
 -  2 tablespoons Dijon mustard
 -  2 teaspoons table salt
 -  1 1/2 teaspoons garlic powder
