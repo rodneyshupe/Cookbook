@@ -174,14 +174,14 @@ Ingredients
 Directions
 ----------
 
-1. Fine Dice a whole jalapeno and a little less than 1/2 an onion.
+1. Fine dice a whole jalapeno and a little less than 1/2 an onion.
 2. For the mangos, cut off the mango cheeks and cut the mango while it’s
    still in the skin. Get as close to the skin as possible with the tip
    of the knife! Then use a spoon to scoop out the cut mango. If the
    mango is coming out still attached at the base, don’t go as deep with
    the spoon.
 3. Put all the diced ingredients into a bowl.
-4. Add a handful of chopped cilantro leafs (no stems!) and a good pinch
+4. Add a handful of chopped cilantro leaves (no stems!) and a good pinch
    of salt. Then squeeze the juice of half a lemon on top.
 5. Mix this all together.
 

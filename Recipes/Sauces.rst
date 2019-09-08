@@ -118,15 +118,15 @@ Directions
 Sauce Base
 ==========
 
--  Source: `Cooks
-   Illustrated <https://www.cooksillustrated.com/recipes/6965-sauce-base?incode=MCSCD00L0&ref=new_search_experience_5>`__
-   In our Sauce Base recipe for Pan-Seared Steaks, roughly chopping the
-   aromatics increased their surface area, which offered more
-   opportunity for flavorful browning when we sauteed them. Mushrooms
-   ramped up the savory flavor, and browning ground beef with tomato
-   paste gave our demi-glace meatiness. And to mimic the glossiness that
-   real demi-glace gets from collagen-rich bones, we used powdered
-   gelatin.
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/6965-sauce-base?incode=MCSCD00L0&ref=new_search_experience_5>`__
+
+In our Sauce Base recipe for Pan-Seared Steaks, roughly chopping the
+aromatics increased their surface area, which offered more
+opportunity for flavorful browning when we sauteed them. Mushrooms
+ramped up the savory flavor, and browning ground beef with tomato
+paste gave our demi-glace meatiness. And to mimic the glossiness that
+real demi-glace gets from collagen-rich bones, we used powdered
+gelatin.
 
 
 Ingredients
@@ -223,11 +223,57 @@ immediately.
 
    PageBreak recipePage
 
+Quick Tartar Sauce
+==================
+
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/11526-quick-tartar-sauce>`__
+
+Ingredients
+-----------
+
+3/4 cup mayonnaise
+3 tablespoons minced cornichons plus 1 tablespoon brine
+1 scallion, minced
+1 small shallot, minced
+1 tablespoon capers, rinsed and minced
+1/2 teaspoon pepper
+
+Directions
+----------
+
+Combine all ingredients in small bowl. Cover with plastic wrap and refrigerate
+until flavors meld, about 15 minutes.
+
+
+Tartar Sauce with Dill
+======================
+
+Source:  `Skipper Otto <https://skipperotto.com/wp-content/uploads/2019/04/SO-Recipe-Chipped-Lingcod-back-1024x585.jpg>`__
+
+Ingredients
+-----------
+
+1/4 cup mayonnaise
+1/4 plain yogurt
+1 tablespoon capers, chopped
+2 tablespoons minced cornichons
+1/2 tablespoon lemon juice
+1 tablespoon fresh dill, chopped
+
+Directions
+----------
+
+Combine all ingredients in small bowl. Cover with plastic wrap and refrigerate
+until flavors meld, about 15 minutes.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
 Mustard-Creme Fraiche Sauce
 ===========================
 
--  Source: `Cooks
-   Illustrated <https://www.cooksillustrated.com/recipes/8059-mustard-creme-fraiche-sauce-for-two>`__
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/8059-mustard-creme-fraiche-sauce-for-two>`__
 
 
 Ingredients
@@ -252,7 +298,6 @@ Directions
 Hollandaise Sauce
 =================
 
-
 Ingredients
 -----------
 
@@ -263,7 +308,6 @@ Ingredients
 -  8 tablespoons butter (1 stick)
 -  Pinch cayenne pepper or 1 dash hot sauce (if desired)
 -  1 dash worcestershire sauce (if desired)
-
 
 Directions
 ----------
@@ -293,7 +337,6 @@ For a simple Bearnaise Sauce, add 1 tbsp. chopped tarragon, and 1 tbsp. chopped 
 
 Bearnaise Sauce
 ===============
-
 
 Ingredients
 -----------
