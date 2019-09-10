@@ -9,5 +9,5 @@ This is a collection of recipes containing the favorites of Rodney Shupe and fam
 ### Setup make on OSX
 ```
 brew install python@2
-sudo pip install rst2pdf
+sudo pip2 install rst2pdf
 ```
