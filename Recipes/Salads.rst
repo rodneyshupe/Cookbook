@@ -368,6 +368,8 @@ Directions
 Mexican Corn Salad (Esquites)
 =============================
 
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/11067-mexican-corn-salad-esquites>`__
+
 Yield:  Serves 3-4
 
 Ingredients
