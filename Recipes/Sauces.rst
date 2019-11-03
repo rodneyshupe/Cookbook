@@ -485,6 +485,75 @@ Ssam sauce will keep in the fridge for weeks.
 
    PageBreak recipePage
 
+Simple Apple Sauce
+==================
+
+Ingredients
+-----------
+- 4 pounds apples (8 to 12 medium), unpeeled, cored, and cut into rough
+  1 1/2-inch pieces (McIntosh or Pink Lady apples are best but any variety
+  but Red or Golden Delicious should work fine.)
+- 1/4 cup granulated sugar
+- Pinch table salt
+- 1 cup water
+
+Optional Flavorings
+--------------------
+- 2 tablespoons unsalted butter - stir into finished sauce
+- 3 inch cinnamon sticks (2) -- cook with apples and remove prior to pureeing
+- 1/4 teaspoon ground cinnamon - stir into finished sauce
+- 1 cup cranberries (fresh or frozen) - cook and puree with apples
+- 4 whole cloves - cook with apples and remove prior to serving
+- 1 1/2 inch piece fresh ginger, sliced into three pieces and smashed - cook
+  with apples and remove prior to pureeing
+- 1 teaspoon lemon zest - cook and puree with apples
+- 2 tablespoons lemon juice - stir into finished sauce
+- 2/3 cup Red Hot candy - cook and puree with apples
+- 2 pieces star anise (whole) - cook with apples and remove prior to serving
+
+Directions
+----------
+1. Toss apples, sugar, salt, and water in large, heavy-bottomed nonreactive
+   Dutch oven. Cover pot and cook apples over medium-high heat until they
+   begin to break down, 15 to 20 minutes, checking and stirring occasionally
+   with wooden spoon to break up any large chunks.
+2. Process cooked apples through food mill fitted with medium disk. Season
+   with extra sugar or add water to adjust consistency as desired. Serve hot,
+   warm, at room temperature, or chilled. (Can be covered and refrigerated
+   for up to 5 days.)
+
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+Peach Sauce
+===========
+
+Ingredients
+-----------
+
+- 20 ounces frozen peaches, cut into 1/2-inch pieces (3 cups)
+- 1 cup dry white wine
+- 1/2 cup sugar
+- 1/3 cup cider vinegar
+- 4 sprigs fresh thyme
+- 1/2 teaspoon kosher salt
+- 2 tablespoons whole-grain mustard
+
+Directions
+----------
+1. Bring peaches, wine, sugar, vinegar, thyme sprigs, and salt to simmer in
+   medium saucepan over medium-high heat. Reduce heat to medium and cook at
+   strong simmer, stirring occasionally, until reduced to about 2 cups and
+   spatula leaves trail when dragged through sauce, about 30 minutes.
+   Remove from heat and discard thyme sprigs.
+2. When ready to serve, stir mustard into sauce and rewarm over low heat.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
 Simple Tomato Sauce
 ===================
 
@@ -515,6 +584,48 @@ Directions
    simmer until thickened slightly, about 10 minutes. Stir in basil,
    sugar, and salt, and cook, stirring constantly, for 1 minute. Serve
    over pasta.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+Simple Tomato Meat Sauce
+========================
+
++----------------------+-----------------------------+---------------------+
+| Prep Time: 5 minutes | Cooking Time: 40-70 minutes | Yield: 6-8 servings |
++----------------------+-----------------------------+---------------------+
+
+Ingredients
+-----------
+- 1/2 pound lean ground beef
+- 1/2 pound italian sausage
+- 1/2 onion, diced
+- 3 garlic cloves minced
+- 2 teaspoons dried oregano
+- 1/8 teaspoon red pepper flakes (optional)
+- 1/2 cup red wine
+- 1 28oz can crushed tomatoes
+
+Directions
+----------
+1. Bring large sauce pan (or dutch oven) to temperature over medium high heat.
+   Add ground beef and italian sausage, using a wooden spoon break it apart
+   until meat is in small pieces. Once meat is browned, remove using slotted
+   spoon and set aside.
+2. Remove all but 1 tablespoon of fat from the pan and add onion.  Cook until
+   softened (2 - 3 minutes) then add garlic, oregano and red pepper flakes,
+   cook for 30 seconds.
+3. Add red wine to pan and scrape up any brown bits from the bottom of the pan.
+4. Add crushed tomatoes and bring to a boil. Reduce heat and let simmer for at
+   least 30 minutes but preferably 1 hour.
+5. Serve over freshly cooked pasta.
+
+Notes
+-----
+* Recipe can be doubled.  Increase simmer time to at least 1 hour but preferably
+  90+ minutes.
+* Leftovers can be refrigerated for 4-5 days or frozen for up to 3 months.
 
 .. raw:: pdf
 

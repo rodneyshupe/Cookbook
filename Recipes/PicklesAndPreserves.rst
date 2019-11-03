@@ -453,8 +453,8 @@ Jalapeno Slaw
 | Prep: 10 minutes | Time: 40 minutes | Yield: ?? | Ferment: 10-15 Days |
 +------------------+------------------+-----------+---------------------+
 
-Ingedients
-----------
+Ingredients
+-----------
 
 -  1/2 white cabbage- sliced and shredded
 -  1/4 napa cabbage - sliced and shredded
@@ -490,8 +490,8 @@ Fermented Sweet Pepper Salsa
 | Prep: 10 minutes | Time: 20 minutes | Yield: ?? | Ferment: 14-21 Days |
 +------------------+------------------+-----------+---------------------+
 
-Ingedients
-----------
+Ingredients
+-----------
 
 -  5 Medium sweet red peppers
 -  5 Jalapenos - Seeds removed

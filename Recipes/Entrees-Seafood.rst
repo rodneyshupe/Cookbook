@@ -384,7 +384,7 @@ Directions
 Note
 ----
 For 1-2 servicng reduce clams to 1 lb per person and half the other
-ingedients.  Use a sauce pan instead of the dutch oven.
+ingredients.  Use a sauce pan instead of the dutch oven.
 
 
 .. raw:: pdf

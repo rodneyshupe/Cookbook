@@ -429,6 +429,56 @@ Directions
 
    PageBreak recipePage
 
+Bacon-Wrapped Pork Roast with Peach Sauce
+=========================================
+
++--------------------------------------+---------------------------------+-------------------+
+| Prep Time: 15 minutes + 1 - 24 hours | Cooking Time: 1 hour 15 minutes | Yield: 8 servings |
++--------------------------------------+---------------------------------+-------------------+
+
+Source: `Cooks Country <https://www.cookscountry.com/recipes/8704-bacon-wrapped-pork-roast-with-peach-sauce>`__
+
+Ingredients
+-----------
+- Kosher salt and pepper
+- 1 tablespoon sugar
+- 1 (3 1/2-pound) boneless center-cut pork loin roast
+- 1 recipe of `Peach Sauce <#peach-sauce>`__
+- 2 teaspoons herbes de Provence
+- 10 slices bacon
+
+Directions
+----------
+
+1. Combine 4 teaspoons salt and sugar in bowl. Remove fat cap and silverskin
+   from roast. Rub roast with salt-sugar mixture, wrap in plastic wrap, and
+   refrigerate for at least 1 hour or up to 24 hours.
+2. After making sauce, reserve 2 tablespoons of liquid portion of sauce
+   (without peach segments) in small bowl for glazing. Cover and set aside
+   remaining sauce.
+3. Meanwhile, adjust oven rack to upper-middle position and heat oven to
+   250 degrees. Line rimmed baking sheet with aluminum foil and spray with
+   vegetable oil spray. Unwrap roast and pat dry with paper towels. Sprinkle
+   with herbes de Provence and 1 teaspoon pepper.
+4. Arrange bacon slices on cutting board parallel to counter’s edge,
+   overlapping them slightly to match length of roast. Place roast in center
+   of bacon, perpendicular to slices. Bring ends of bacon up and around sides
+   of roast, overlapping ends of slices as needed.
+5. Place bacon-wrapped roast, seam side down, in center of prepared sheet.
+   Roast until center of pork registers 90 degrees, 30 to 40 minutes. Remove
+   roast from oven and increase oven temperature to 475 degrees.
+6. Brush top and sides of roast with reserved 2 tablespoons sauce. Once oven
+   reaches temperature, return pork to oven and roast until bacon is well
+   browned and meat registers 130 degrees, 15 to 20 minutes longer. Transfer
+   roast to wire rack and let rest for 15 minutes.
+7. Transfer roast to carving board and cut into 1/2-inch-thick slices.
+   Serve with peach sauce.
+
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
 Grilled Pork Loin Roast
 =======================
 
@@ -749,3 +799,42 @@ Directions
    until cooked to desired doneness, 8–10 minutes for medium-rare.
 3. Transfer pork to a cutting board and let rest 5 minutes before thinly
    slicing against the grain.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+Cubanos (Cuban Sandwiches)
+==========================
+
+Source: `Cook's Country <https://www.cookscountry.com/recipes/2924-cuban-sandwiches>`__
+
+Makes 4 sandwiches.
+
+Ingredients
+-----------
+- 1/3 cup diced dill pickles
+- 1/3 cup diced jarred banana peppers
+- 4 potato sandwich rolls (Kaiser rolls can be substituted)
+- 2 tablespoons mayonnaise
+- 1 1/2 tablespoons yellow mustard, such as French's
+- 1/4 pound thinly sliced baked ham, preferably Virginia or Black Forest
+- 1/2 pound cold roast pork, sliced thin
+- 1/4 pound thinly sliced Swiss cheese
+- 3 tablespoons unsalted butter, melted
+
+Directions
+----------
+1. Combine pickles and peppers in small bowl. Split rolls in half; spread top
+   half with mayonnaise and bottom half with mustard. Layer ham, roast pork,
+   pickle mixture, and cheese onto bottom half, finishing with cheese on top.
+   Set tops of rolls in place and press down to flatten sandwiches.
+2. Heat large nonstick skillet over medium-low heat for 4 minutes. Meanwhile,
+   heat large pot or Dutch oven over medium-low heat for 4 minutes. Brush
+   tops of sandwiches with melted butter and place in skillet buttered side
+   down. Brush bottoms of rolls with remaining butter and use preheated pot
+   to compress sandwiches for 15 to 20 seconds. Cook (keeping pot on
+   sandwiches but not pressing down) until first side is golden brown, 3 to
+   5 minutes. Remove pot, flip sandwiches over, replace pot on top of
+   sandwiches, and cook until golden brown, 3 to 4 minutes.
+   Serve immediately.

@@ -13,6 +13,8 @@ Sous-Vide
 
 .. include:: Eye-of-Round-Roast.rst
 
+.. include:: Prime-Rib.rst
+
 .. include:: French-Beef-Dip.rst
 
 .. include:: Glazed-Carrots.rst

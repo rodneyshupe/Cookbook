@@ -77,10 +77,12 @@ a collection of recipes containing the favorites of Rodney Shupe and family
 
 .. include:: Recipes/SoupsAndStews.rst
 
+.. include:: Recipes/Entrees-Poultry.rst
 .. include:: Recipes/Entrees-Beef.rst
-.. include:: Recipes/Entrees-Chicken.rst
+.. include:: Recipes/Entrees-Lamb.rst
 .. include:: Recipes/Entrees-Pork.rst
 .. include:: Recipes/Entrees-Seafood.rst
+.. include:: Recipes/Entrees-Pasta.rst
 .. include:: Recipes/Entrees-Misc.rst
 
 .. include:: Recipes/Sides.rst

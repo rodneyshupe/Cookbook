@@ -73,8 +73,8 @@ Grilled Ceaser Salad
 
 Yield: 12 Servings
 
-Ingedients
-----------
+Ingredients
+-----------
 - 3 cups cubed French bread, about 1 ½-inch cubes
 - 1 tablespoon unsalted butter
 - 2 tablespoons olive oil, divided

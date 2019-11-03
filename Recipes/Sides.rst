@@ -955,8 +955,8 @@ Fresh Corn and Zucchini Saute
 | Prep Time: 15 minutes | Cooking Time: 15 minutes | Yield: 4 servings |
 +-----------------------+--------------------------+-------------------+
 
-Ingedients
-----------
+Ingredients
+-----------
 - 1/4 cup butter
 - 1/2 small white onion, finely diced
 - 3 small zucchinis, diced
@@ -1245,8 +1245,8 @@ Sauteed Fiddleheads
 | Prep Time: 15 minutes | Cooking Time: 15 minutes | Yield: 4 servings |
 +-----------------------+--------------------------+-------------------+
 
-Ingedients
-----------
+Ingredients
+-----------
 - 2 cups fresh fiddlehead ferns, ends trimmed
 - 2 tablespoons unfiltered extra-virgin olive oil
 - 1 clove garlic, minced
