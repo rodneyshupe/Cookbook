@@ -661,8 +661,8 @@ Directions
 
    PageBreak recipePage
 
-Charbroiled Ahi Tuna with a Sweet Indonesian Soy, Lemongrass, and coconut milk, and Red Curry sauce on a bed of steamed Jasmine rice. Served with crispy double smoked Bacon, caramelized Onions, and panseared Asparagus
-=========================================================================================================================================================================================================================
+Charbroiled Ahi Tuna with a Coconut milk Red Curry sauce
+========================================================
 
 Yield: 4 servings
 
