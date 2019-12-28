@@ -53,7 +53,7 @@ $(pdf): $(wildcard *.rst) $(wildcard */?*.rst) $(wildcard *.style) $(wildcard *.
 			 --strip-comments \
 			 $(input_rst_file:%.rst=%.html.rst) \
 			 "$(html)" \
-	&& ebook-convert "$(html)" "$(epub)" > /dev/null \
+	&& ebook-convert "$(html)" "$(epub)" \
 	&& rm -fR *.build_temp \
 	&& rm -f $(TEMP_SUBSTITUTION_FILE)
 

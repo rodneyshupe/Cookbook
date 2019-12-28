@@ -28,6 +28,7 @@ table {
 table, th, td {
   vertical-align: top;
   border: 1px solid black;
+  width: 90%;
 }
 
 th {
@@ -65,9 +66,9 @@ h5 {
 }
 
 ulx, olx {
-  padding-top: 1;
+  padding-top: .25;
 }
 
-lix {
-  padding-top: 1;
+li {
+  padding-top: .25;
 }
