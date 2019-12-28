@@ -6,7 +6,7 @@
 Smoked and Cured
 ****************
 
-.. contents:: Smoked and Cured
+.. contents::
    :local:
    :depth: 1
 

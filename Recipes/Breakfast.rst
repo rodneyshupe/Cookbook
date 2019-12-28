@@ -6,7 +6,7 @@
 Breakfast
 *********
 
-.. contents:: Breakfast
+.. contents::
    :local:
    :depth: 1
 

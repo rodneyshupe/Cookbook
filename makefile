@@ -3,7 +3,7 @@
 # name of the PDF to create
 pdf = ../RodneyFavoriteRecipes.pdf
 html = ../RodneyFavoriteRecipes.html
-epub = ../RodneyFavoriteRecipes.html
+epub = ../RodneyFavoriteRecipes.epub
 
 # name of the rst file to build
 input_rst_file = RodneyFavoriteRecipes.rst
@@ -54,6 +54,7 @@ $(pdf): $(wildcard *.rst) $(wildcard */?*.rst) $(wildcard *.style) RodneyFavorit
 			 --report=4 \
 			 $(input_rst_file) \
 			 "$(html)" \
+	&& ebook-convert "$(html)" "$(epub)" > /dev/null \
 	&& rm -fR *.build_temp \
 	&& rm -f $(TEMP_SUBSTITUTION_FILE)
 

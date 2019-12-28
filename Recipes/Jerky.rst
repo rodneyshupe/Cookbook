@@ -11,7 +11,7 @@ refrigeration. True jerking is drying meat, that was previously brined
 in a heavy salt solution. In fact the word ‘jerk’ comes from the old
 Spanish word ‘charqui’ which means dried meat.
 
-.. contents:: Jerky Recipes
+.. contents::
    :local:
    :depth: 1
 

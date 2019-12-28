@@ -6,7 +6,7 @@
 *************************************
 Appendix G: Recipes Under Development
 *************************************
-.. contents:: Recipes Under Development
+.. contents::
    :local:
    :depth: 1
 

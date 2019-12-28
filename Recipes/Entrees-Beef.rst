@@ -6,7 +6,7 @@
 Entrees - Beef
 **************
 
-.. contents:: Entrees
+.. contents::
    :local:
    :depth: 1
 

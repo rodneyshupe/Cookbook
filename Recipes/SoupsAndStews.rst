@@ -6,7 +6,7 @@
 Soups and Stews
 ***************
 
-.. contents:: Soups and Stews
+.. contents::
    :local:
    :depth: 1
 

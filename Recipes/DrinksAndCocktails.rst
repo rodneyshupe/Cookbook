@@ -6,7 +6,7 @@
 Drinks and Cocktails
 ********************
 
-.. contents:: Drinks and Cocktails
+.. contents::
    :local:
    :depth: 1
 

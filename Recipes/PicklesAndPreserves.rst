@@ -6,7 +6,7 @@
 Pickles and Preserves
 *********************
 
-.. contents:: Pickles and Preserves
+.. contents::
    :local:
    :depth: 1
 

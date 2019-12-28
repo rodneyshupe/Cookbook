@@ -6,7 +6,7 @@
 Sous-Vide
 *********
 
-.. contents:: Sous-Vide
+.. contents::
    :local:
    :depth: 1
 

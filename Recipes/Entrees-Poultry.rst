@@ -6,7 +6,7 @@
 Entrees - Poultry
 *****************
 
-.. contents:: Entrees
+.. contents::
    :local:
    :depth: 1
 

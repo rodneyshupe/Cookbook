@@ -6,7 +6,7 @@
 Entrees - Lamb
 **************
 
-.. contents:: Entrees
+.. contents::
    :local:
    :depth: 1
 

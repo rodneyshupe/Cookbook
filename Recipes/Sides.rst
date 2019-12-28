@@ -6,7 +6,7 @@
 Sides
 *****
 
-.. contents:: Sides
+.. contents::
    :local:
    :depth: 1
 

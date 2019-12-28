@@ -6,7 +6,7 @@
 Sauces and Dips
 ***************
 
-.. contents:: Sauces and Dips
+.. contents::
    :local:
    :depth: 1
 

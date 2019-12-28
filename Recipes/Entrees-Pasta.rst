@@ -6,7 +6,7 @@
 Entrees - Pasta
 ***************
 
-.. contents:: Entrees
+.. contents::
    :local:
    :depth: 1
 

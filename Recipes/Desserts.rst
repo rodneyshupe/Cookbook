@@ -6,7 +6,7 @@
 Desserts
 ********
 
-.. contents:: Desserts
+.. contents::
    :local:
    :depth: 1
 

@@ -5,7 +5,7 @@
 **********************
 Appendix A: Meal Plans
 **********************
-.. contents:: Meal Plans
+.. contents::
    :local:
    :depth: 1
 

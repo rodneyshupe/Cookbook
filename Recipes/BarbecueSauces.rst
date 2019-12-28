@@ -6,7 +6,7 @@
 Barbecue Sauces
 ***************
 
-.. contents:: Barbecue Sauces
+.. contents::
    :local:
    :depth: 1
 

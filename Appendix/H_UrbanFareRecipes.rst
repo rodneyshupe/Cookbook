@@ -6,7 +6,7 @@
 Appendix H: UrbanFare Recipes
 *****************************
 
-.. contents:: Entrees
+.. contents::
    :local:
    :depth: 1
 

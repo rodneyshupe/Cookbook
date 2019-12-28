@@ -6,7 +6,7 @@
 Barbecue Spice Rub Recipes
 **************************
 
-.. contents:: Barbecue Spice Rub Recipes
+.. contents::
    :local:
    :depth: 1
 

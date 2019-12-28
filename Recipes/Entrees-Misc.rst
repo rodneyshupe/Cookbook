@@ -6,7 +6,7 @@
 Entrees - Misc
 **************
 
-.. contents:: Entrees
+.. contents::
    :local:
    :depth: 1
 

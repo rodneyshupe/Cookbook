@@ -6,7 +6,7 @@
 Salads
 ******
 
-.. contents:: Salads
+.. contents::
    :local:
    :depth: 1
 
