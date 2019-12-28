@@ -6,7 +6,7 @@
 Baking
 ******
 
-.. contents:: 
+.. contents::
    :local:
    :depth: 1
 
