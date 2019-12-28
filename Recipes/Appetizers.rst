@@ -6,12 +6,16 @@
 Appetizers
 **********
 
-.. contents:: 
+.. contents::
    :local:
    :depth: 1
 .. raw:: pdf
 
    OddPageBreak recipePage
+
+.. raw:: html
+
+   <P style="page-break-before: always"/>
 
 Baked Brie
 ==========
