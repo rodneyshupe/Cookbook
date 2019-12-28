@@ -6,7 +6,7 @@
 Baking
 ******
 
-.. contents:: Breakfast
+.. contents:: 
    :local:
    :depth: 1
 

@@ -12,50 +12,56 @@ a collection of recipes containing the favorites of Rodney Shupe and family
 
 .. include:: temp_substitutions.rst
 
-.. header::
+.. raw:: pdf
+   .. header::
 
-   .. oddeven::
+      .. oddeven::
 
-      .. class:: headertable
+         .. class:: headertable
 
-      +--------------------------+---------------------------+
-      |.. class:: headertitleleft|.. class:: headertitleright|
-      |                          |                           |
-      | |Date|                   |###Title###                |
-      +--------------------------+---------------------------+
+         +--------------------------+---------------------------+
+         |.. class:: headertitleleft|.. class:: headertitleright|
+         |                          |                           |
+         | |Date|                   |###Title###                |
+         +--------------------------+---------------------------+
 
-      .. class:: headertable
+         .. class:: headertable
 
-      +--------------------------+---------------------------+
-      |.. class:: headertitleleft|.. class:: headertitleright|
-      |                          |                           |
-      |###Title###               | |Date|                    |
-      +--------------------------+---------------------------+
+         +--------------------------+---------------------------+
+         |.. class:: headertitleleft|.. class:: headertitleright|
+         |                          |                           |
+         |###Title###               | |Date|                    |
+         +--------------------------+---------------------------+
 
-.. footer::
+.. raw:: pdf
+   .. footer::
 
-  .. oddeven::
-    .. class:: footertable1
+      .. oddeven::
+         .. class:: footertable1
 
-    +---------------------------+------------------+
-    |.. class:: right           |.. class:: ftrpage|
-    |.. role:: ftrsection       |                  |
-    |                           |                  |
-    |:ftrsection:`###Section###`|###Page###        |
-    +---------------------------+------------------+
+         +---------------------------+------------------+
+         |.. class:: right           |.. class:: ftrpage|
+         |.. role:: ftrsection       |                  |
+         |                           |                  |
+         |:ftrsection:`###Section###`|###Page###        |
+         +---------------------------+------------------+
 
-    .. class:: footertable2
+         .. class:: footertable2
 
-    +------------------+---------------------------+
-    |.. class:: ftrpage|.. class:: left            |
-    |                  |.. role:: ftrsection       |
-    |                  |                           |
-    |###Page###        |:ftrsection:`###Section###`|
-    +------------------+---------------------------+
+         +------------------+---------------------------+
+         |.. class:: ftrpage|.. class:: left            |
+         |                  |.. role:: ftrsection       |
+         |                  |                           |
+         |###Page###        |:ftrsection:`###Section###`|
+         +------------------+---------------------------+
 
 .. raw:: pdf
 
    PageBreak cutePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 :Author: Rodney Shupe <rodney@shupe.ca>
 :Revision: |Revision|
@@ -64,6 +70,10 @@ a collection of recipes containing the favorites of Rodney Shupe and family
 .. raw:: pdf
 
    OddPageBreak tocPage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 .. contents:: Table of Contents
    :depth: 1
