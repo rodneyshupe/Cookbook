@@ -51,7 +51,7 @@ $(pdf): $(wildcard *.rst) $(wildcard */?*.rst) $(wildcard *.style) RodneyFavorit
 	     --stylesheet-inline=RodneyFavoriteRecipes.style \
 			 --strip-elements-with-class=handout \
 			 --strip-comments \
-			 $(input_rst_file) \
+			 $(input_rst_file:%.rst=%.html.rst) \
 			 "$(html)" \
 	&& ebook-convert "$(html)" "$(epub)" > /dev/null \
 	&& rm -fR *.build_temp \

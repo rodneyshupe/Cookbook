@@ -2,15 +2,15 @@
 Recipes from the Messy Chef
 ###########################
 
+.. raw:: pdf
+
+    SetPageCounter 0 lowerroman
+
 .. class:: center
 
 a collection of recipes containing the favorites of Rodney Shupe and family
 
 .. include:: temp_substitutions.rst
-
-.. raw:: pdf
-
-   PageBreak cutePage
 
 .. raw:: html
 
@@ -20,48 +20,69 @@ a collection of recipes containing the favorites of Rodney Shupe and family
 :Revision: |Revision|
 :Date: |Date|
 
-.. raw:: pdf
-
-   OddPageBreak tocPage
-
 .. raw:: html
 
    <p style="page-break-before: always"/>
 
-.. toctree::
-   :caption: Table of Contents
-   :maxdepth: 2
+.. contents:: Table of Contents
+   :depth: 1
 
-   Recipes/Appetizers.rst
-   Recipes/Salads.rst
-   Recipes/SoupsAndStews.rst
-   Recipes/Entrees-Poultry.rst
-   Recipes/Entrees-Beef.rst
-   Recipes/Entrees-Lamb.rst
-   Recipes/Entrees-Pork.rst
-   Recipes/Entrees-Seafood.rst
-   Recipes/Entrees-Pasta.rst
-   Recipes/Entrees-Misc.rst
-   Recipes/Sides.rst
-   Recipes/Sous-Vide/Recipes.rst
-   Recipes/SmokedAndCured.rst
-   Recipes/Breakfast.rst
-   Recipes/Sauces.rst
-   Recipes/Baking.rst
-   Recipes/Desserts.rst
-   Recipes/PicklesAndPreserves.rst
-   Recipes/BarbecueSpiceRubRecipes.rst
-   Recipes/BarbecueSauces.rst
-   Recipes/Jerky.rst
-   Recipes/DrinksAndCocktails.rst
-   Appendix/A_MealPlans.rst
-   Appendix/B_Conversions-Substitutions.rst
-   Appendix/C_Maintenance.rst
-   Appendix/D_MeatAndPoultryTemperatureGuide.rst
-   Appendix/E_MeatCuringSalts.rst
-   Appendix/F_PantryItems.rst
-   Appendix/G_RecipesUnderDevelopment.rst
-   Appendix/G_RecipesToTry.rst
+.. raw:: html
+
+   SetPageCounter 1 arabic
+
+.. include:: Recipes/Appetizers.rst
+
+.. include:: Recipes/Salads.rst
+
+.. include:: Recipes/SoupsAndStews.rst
+
+.. include:: Recipes/Entrees-Poultry.rst
+.. include:: Recipes/Entrees-Beef.rst
+.. include:: Recipes/Entrees-Lamb.rst
+.. include:: Recipes/Entrees-Pork.rst
+.. include:: Recipes/Entrees-Seafood.rst
+.. include:: Recipes/Entrees-Pasta.rst
+.. include:: Recipes/Entrees-Misc.rst
+
+.. include:: Recipes/Sides.rst
+
+.. include:: Recipes/Sous-Vide/Recipes.rst
+
+.. include:: Recipes/SmokedAndCured.rst
+
+.. include:: Recipes/Breakfast.rst
+
+.. include:: Recipes/Sauces.rst
+
+.. include:: Recipes/Baking.rst
+
+.. include:: Recipes/Desserts.rst
+
+.. include:: Recipes/PicklesAndPreserves.rst
+
+.. include:: Recipes/BarbecueSpiceRubRecipes.rst
+
+.. include:: Recipes/BarbecueSauces.rst
+
+.. include:: Recipes/Jerky.rst
+
+.. include:: Recipes/DrinksAndCocktails.rst
+
+.. include:: Appendix/A_MealPlans.rst
+
+.. include:: Appendix/B_Conversions-Substitutions.rst
+
+.. include:: Appendix/C_Maintenance.rst
+
+.. include:: Appendix/D_MeatAndPoultryTemperatureGuide.rst
+
+.. include:: Appendix/E_MeatCuringSalts.rst
+
+.. include:: Appendix/F_PantryItems.rst
+
+.. include:: Appendix/G_RecipesUnderDevelopment.rst
+.. include:: Appendix/G_RecipesToTry.rst
 
 .. This is commented out for now.
-   Appendix/H_UrbanFareRecipes.rst
+   include:: Appendix/H_UrbanFareRecipes.rst

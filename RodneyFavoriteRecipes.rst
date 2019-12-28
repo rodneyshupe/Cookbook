@@ -12,48 +12,46 @@ a collection of recipes containing the favorites of Rodney Shupe and family
 
 .. include:: temp_substitutions.rst
 
-.. raw:: pdf
-   .. header::
+.. header::
 
-      .. oddeven::
+   .. oddeven::
 
-         .. class:: headertable
+      .. class:: headertable
 
-         +--------------------------+---------------------------+
-         |.. class:: headertitleleft|.. class:: headertitleright|
-         |                          |                           |
-         | |Date|                   |###Title###                |
-         +--------------------------+---------------------------+
+      +--------------------------+---------------------------+
+      |.. class:: headertitleleft|.. class:: headertitleright|
+      |                          |                           |
+      | |Date|                   |###Title###                |
+      +--------------------------+---------------------------+
 
-         .. class:: headertable
+      .. class:: headertable
 
-         +--------------------------+---------------------------+
-         |.. class:: headertitleleft|.. class:: headertitleright|
-         |                          |                           |
-         |###Title###               | |Date|                    |
-         +--------------------------+---------------------------+
+      +--------------------------+---------------------------+
+      |.. class:: headertitleleft|.. class:: headertitleright|
+      |                          |                           |
+      |###Title###               | |Date|                    |
+      +--------------------------+---------------------------+
 
-.. raw:: pdf
-   .. footer::
+.. footer::
 
-      .. oddeven::
-         .. class:: footertable1
+   .. oddeven::
+      .. class:: footertable1
 
-         +---------------------------+------------------+
-         |.. class:: right           |.. class:: ftrpage|
-         |.. role:: ftrsection       |                  |
-         |                           |                  |
-         |:ftrsection:`###Section###`|###Page###        |
-         +---------------------------+------------------+
+      +---------------------------+------------------+
+      |.. class:: right           |.. class:: ftrpage|
+      |.. role:: ftrsection       |                  |
+      |                           |                  |
+      |:ftrsection:`###Section###`|###Page###        |
+      +---------------------------+------------------+
 
-         .. class:: footertable2
+      .. class:: footertable2
 
-         +------------------+---------------------------+
-         |.. class:: ftrpage|.. class:: left            |
-         |                  |.. role:: ftrsection       |
-         |                  |                           |
-         |###Page###        |:ftrsection:`###Section###`|
-         +------------------+---------------------------+
+      +------------------+---------------------------+
+      |.. class:: ftrpage|.. class:: left            |
+      |                  |.. role:: ftrsection       |
+      |                  |                           |
+      |###Page###        |:ftrsection:`###Section###`|
+      +------------------+---------------------------+
 
 .. raw:: pdf
 
