@@ -23,7 +23,7 @@ CHECKIN_MSG_FILE = checkin_msg.temp
 #	echo 0 > $(REVISION_MINOR_NUMBER_FILE)
 
 # default target: build the PDF file if the rst file, a style file or an image changes
-$(pdf): $(wildcard *.rst) $(wildcard */?*.rst) $(wildcard *.style) RodneyFavoriteRecipes.style.json
+$(pdf): $(wildcard *.rst) $(wildcard */?*.rst) $(wildcard *.style) $(wildcard *.css) RodneyFavoriteRecipes.style.json
 	rm -fR *.build_temp
 	rm -f $(TEMP_SUBSTITUTION_FILE)
 
