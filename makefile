@@ -60,7 +60,7 @@ $(pdf): $(wildcard *.rst) $(wildcard */?*.rst) $(wildcard *.style) $(wildcard *.
 			 --language English \
 			 --comments "A collection of recipes containing the favorites of Rodney Shupe and family." \
 			 --tags Cookbook,Cooking,Recipes \
-			 --cover Cover.jpg
+			 --cover Cover.jpg \
 			 --embed-all-fonts \
 	&& rm -fR *.build_temp \
 	&& rm -f $(TEMP_SUBSTITUTION_FILE)
