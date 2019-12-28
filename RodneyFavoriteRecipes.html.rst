@@ -27,7 +27,7 @@ a collection of recipes containing the favorites of Rodney Shupe and family
 .. contents:: Table of Contents
    :depth: 1
 
-.. raw:: html
+.. raw:: pdf
 
    SetPageCounter 1 arabic
 

@@ -48,7 +48,7 @@ $(pdf): $(wildcard *.rst) $(wildcard */?*.rst) $(wildcard *.style) RodneyFavorit
 		--strip-elements-with-class=handout \
 		--extension-module=preprocess \
 	&& rst2html5 \
-	     --stylesheet-inline=RodneyFavoriteRecipes.style \
+	     --stylesheet-inline=RodneyFavoriteRecipes.css \
 			 --strip-elements-with-class=handout \
 			 --strip-comments \
 			 $(input_rst_file:%.rst=%.html.rst) \
