@@ -3,7 +3,8 @@
 
    OddPageBreak tocPage
 
-Appendix F: Recipes Under Development
+*************************************
+Appendix G: Recipes Under Development
 *************************************
 .. contents:: Recipes Under Development
    :local:

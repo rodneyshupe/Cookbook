@@ -2,6 +2,7 @@
 
    OddPageBreak cutePage
 
+*****************************
 Appendix E: Meat Curing Salts
 *****************************
 

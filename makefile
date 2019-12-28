@@ -2,6 +2,8 @@
 
 # name of the PDF to create
 pdf = ../RodneyFavoriteRecipes.pdf
+html = ../RodneyFavoriteRecipes.html
+epub = ../RodneyFavoriteRecipes.html
 
 # name of the rst file to build
 input_rst_file = RodneyFavoriteRecipes.rst
@@ -35,18 +37,26 @@ $(pdf): $(wildcard *.rst) $(wildcard */?*.rst) $(wildcard *.style) RodneyFavorit
 	echo "  " >> $(TEMP_SUBSTITUTION_FILE)
 
 	rst2pdf $(input_rst_file) \
-		-b1 \
+		--break-level=1 \
 		--section-header-depth=1 \
 		--fit-background-mode=scale \
 		--smart-quotes=0 \
 		--fit-literal-mode=shrink \
 		--repeat-table-rows \
-		-s RodneyFavoriteRecipes.style \
+		--stylesheets=RodneyFavoriteRecipes.style \
 		--output="$(pdf)" \
 		--strip-elements-with-class=handout \
-		-e preprocess \
+		--extension-module=preprocess \
+	&& rst2html5 \
+	     --stylesheet-inline=RodneyFavoriteRecipes.style \
+			 --strip-elements-with-class=handout \
+			 --strip-comments \
+			 --report=4 \
+			 $(input_rst_file) \
+			 "$(html)" \
 	&& rm -fR *.build_temp \
 	&& rm -f $(TEMP_SUBSTITUTION_FILE)
+
 
   #rm -fR *.build_temp
 

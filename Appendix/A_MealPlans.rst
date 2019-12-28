@@ -2,6 +2,7 @@
 
    OddPageBreak tocPage
 
+**********************
 Appendix A: Meal Plans
 **********************
 .. contents:: Meal Plans

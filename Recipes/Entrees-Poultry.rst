@@ -2,6 +2,7 @@
 
    OddPageBreak tocPage
 
+*****************
 Entrees - Poultry
 *****************
 
@@ -682,7 +683,7 @@ Ingredients
 -  6 tablespoons sugar
 -  12 whole chicken wings
 -  `Basic Barbecue Rub <#basic-barbecue-rub>`__
--  `Cajun Spice Mix <#cajun-spice-mix>`__
+-  `Cajun Spice Mix <#louisiana-cajun-or-creole-seasoning-spice-mix>`__
 -  Bacon Fat
 
 Directions
@@ -1154,7 +1155,7 @@ Ingredients
 - 1/4 cup monterey jack Cheese, (or Jalapeno Jack) grated
 - 1 cup salsa
 - Hot Sauce, to taste
-- 1 teaspoon cajun spice
+- 1 teaspoon `Cajun Spice Mix <#louisiana-cajun-or-creole-seasoning-spice-mix>`__
 
 
 Marinade

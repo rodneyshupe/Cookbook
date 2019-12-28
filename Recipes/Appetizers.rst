@@ -2,10 +2,11 @@
 
   OddPageBreak tocPage
 
+**********
 Appetizers
-***********
+**********
 
-.. contents:: Appetizers
+.. contents:: 
    :local:
    :depth: 1
 .. raw:: pdf
@@ -18,7 +19,7 @@ Baked Brie
 +-----------------------+--------------------------+---------------------+
 | Prep Time: 10 minutes | Cooking Time: 10 minutes | Yield: 6-8 servings |
 +-----------------------+--------------------------+---------------------+
- 
+
 Ingredients
 ------------
 
