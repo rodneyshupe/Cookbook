@@ -14,6 +14,10 @@ Entrees - Pasta
 
    OddPageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Macaroni and Cheese
 ===================
 
@@ -55,6 +59,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Creamy Penne with Asparagus and Peas
 ====================================
@@ -106,6 +114,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Hearty Beef Lasagna
 ===================
@@ -196,6 +208,10 @@ increasing covered baking time to 55 minutes.
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Skillet Baked Ziti
 ==================
 
@@ -238,6 +254,10 @@ If your skillet is not ovensafe, transfer the pasta mixture into a shallow
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Baked Gnocchi with Tomato and Basil
 ===================================
@@ -284,6 +304,10 @@ casserole dish for baking.
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Tagliatelle with Bolognese Sauce
 ================================

@@ -2,6 +2,10 @@
 
    OddPageBreak tocPage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 *********
 Sous-Vide
 *********
@@ -33,3 +37,7 @@ Sous-Vide
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>

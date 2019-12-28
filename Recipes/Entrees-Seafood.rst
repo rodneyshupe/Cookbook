@@ -14,6 +14,10 @@ Entrees - Seafood
 
    OddPageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Pan Seared Salmon
 =================
 
@@ -47,6 +51,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Thai Green Curry with Prawns and Salmon
 =======================================
@@ -92,6 +100,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Tuscan Shrimp and Beans
 =======================
@@ -146,6 +158,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Prawn and Scallop Stir Fry
 ==========================
 
@@ -189,6 +205,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Stir-Fried Shrimp and Asparagus in Garlic Sauce
 ===============================================
@@ -241,6 +261,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Indoor Clam Bake
 ================
@@ -300,6 +324,10 @@ Notes
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Clam/Shrimp Bake Foil Packets
 =============================
 
@@ -347,9 +375,17 @@ mussles and shimp.  What ever is your fancy.
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Clams Steamed in White Wine
 ===========================
@@ -391,6 +427,10 @@ ingredients.  Use a sauce pan instead of the dutch oven.
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Mussels Steamed in White Wine
 =============================
@@ -442,6 +482,10 @@ juice.
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Oven-Steamed Mussels
 ====================
@@ -509,6 +553,10 @@ parsley with 2 tablespoons minced fresh chives.
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Lemon-Herb Cod Fillets with Crispy Garlic Potatoes
 ==================================================
 
@@ -550,6 +598,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Ahi Tuna Steak with a Light Tomato, Ginger, Herb Sauce
 ======================================================
@@ -599,6 +651,10 @@ Carb count; 8 g. per serving
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Chipped Ling Cod (Fish and Chips)
 =================================
 Source:  `Skipper Otto <https://skipperotto.com/wp-content/uploads/2019/04/SO-Recipe-Chipped-Lingcod-back-1024x585.jpg>`__
@@ -627,6 +683,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Lingcod Cheeks with Asparagus, Chickpeas, and Kale Chips
 ========================================================
@@ -661,6 +721,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Charbroiled Ahi Tuna with a Coconut milk Red Curry sauce
 ========================================================

@@ -2,6 +2,10 @@
 
    OddPageBreak tocPage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 ****************
 Smoked and Cured
 ****************
@@ -13,6 +17,10 @@ Smoked and Cured
 .. raw:: pdf
 
    OddPageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Smoked Chicken Cordon Bleu wrapped in Bacon
 ===========================================
@@ -55,6 +63,10 @@ sandwich.
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Smoked Competition Ribs
 =======================
@@ -114,6 +126,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Smoked Salmon
 =============
 
@@ -143,6 +159,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Smoked Indian Candy
 ===================
@@ -190,6 +210,10 @@ smoking.
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Homemade Bacon
 ==============

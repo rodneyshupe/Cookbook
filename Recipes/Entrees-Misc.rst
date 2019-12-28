@@ -14,6 +14,10 @@ Entrees - Misc
 
    OddPageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Paella on the Grill
 ===================
 
@@ -101,6 +105,10 @@ Yield:
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Cast Iron Paella
 ================
 
@@ -165,6 +173,10 @@ Yield:
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Paella Party Packs
 ==================
 
@@ -202,6 +214,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Classic Risotto
 ===============
@@ -257,6 +273,10 @@ Variations
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Stir Fry with Ginger Sauce
 ==========================
 
@@ -303,6 +323,10 @@ Ginger Sauce
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Directions
 ----------
 
@@ -340,6 +364,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Variations
 ----------
 
@@ -376,6 +404,10 @@ scorching.
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Beef Stir Fry with Bell Peppers and Black Pepper Sauce
 ======================================================
@@ -446,6 +478,10 @@ crosswise against grain into 1/4-inch-thick slices.
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Nasi Goreng
 ===========
 
@@ -474,6 +510,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Homemade Pizza Dough
 ====================
@@ -513,6 +553,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Stuffed Peppers
 ===============
@@ -569,6 +613,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Cam's Hot Dish
 ==============

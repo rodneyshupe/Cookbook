@@ -2,6 +2,10 @@
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Green Beans with Lemon
 ======================
 

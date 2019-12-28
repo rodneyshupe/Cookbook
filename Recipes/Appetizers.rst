@@ -15,7 +15,7 @@ Appetizers
 
 .. raw:: html
 
-   <P style="page-break-before: always"/>
+   <p style="page-break-before: always"/>
 
 Baked Brie
 ==========
@@ -48,6 +48,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Guacamole
 =========
@@ -92,6 +96,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Spinach Dip
 ===========
 
@@ -121,6 +129,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Sun-Dried Tomato and Basil Salsa
 ================================
@@ -158,6 +170,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Mango Salsa
 ===========
 
@@ -194,6 +210,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Mango Mint Salsa
 ================
 
@@ -221,6 +241,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Hummus
 ======
@@ -270,6 +294,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Variations
 ----------
@@ -366,6 +394,10 @@ Roasted Garlic Hummus
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Cilantro-Mint Chutney
 =====================
 
@@ -396,6 +428,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Tequila Garlic Prawns
 =====================
@@ -430,6 +466,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Shrimp Scampi
 =============
@@ -488,6 +528,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Crispy Salt and Pepper Shrimp
 =============================
@@ -548,6 +592,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Prosciutto-Wrapped Shrimp with Smoked Paprika
 =============================================
 
@@ -601,6 +649,10 @@ in saltiness.
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Gingered Shrimp Toasts
 ======================
 
@@ -648,6 +700,10 @@ seasoned shrimp can be refrigerated for up to 1 day.
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Baked Brie Cups
 ===============
@@ -702,6 +758,10 @@ using 6°Frozen phyllo sheets and 1/8 cup melted butter.
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Roast Beef Canapes
 ==================
 
@@ -736,6 +796,10 @@ temperature before serving.
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Coquilles St-Jacques
 ====================
@@ -805,6 +869,10 @@ broil, and broil on high as described.
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Cheese and Onion Bruschetta
 ===========================
 
@@ -829,6 +897,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Shrimp Pakoras (Shrimp And Vegetable Dumplings)
 ===============================================
@@ -863,6 +935,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Baked Jalapeno Poppers
 ======================
@@ -910,6 +986,10 @@ refrigerated for up to 1 day. Add 3 minutes to the baking time.
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Beer Cheese Dip
 ===============
 
@@ -933,6 +1013,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Spicy Cheese Dip
 ================
@@ -983,6 +1067,10 @@ Variations
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Seared Mushrooms with egg Yolk
 ==============================
 
@@ -1024,6 +1112,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Scallion Pancakes
 =================
@@ -1088,6 +1180,10 @@ cooking.
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Aloo Tikki ( Stuffed Mash Potato Cakes)
 =======================================
 
@@ -1122,6 +1218,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Antipasti Insalata Caprese
 ==========================
@@ -1160,6 +1260,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Fried Brussels Sprouts
 ======================
 
@@ -1184,6 +1288,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Proscuitto Wrapped Asparagus and Roasted Red Pepper Coulis
 ==========================================================
@@ -1233,6 +1341,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Oven Baked Portabello Mushrooms and Duck Breast
 ===============================================
@@ -1285,6 +1397,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Baked Yams with Lime and Honey
 ==============================
 
@@ -1318,6 +1434,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Brioche Bread
 =============
@@ -1359,6 +1479,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Chutney
 =======
 
@@ -1381,6 +1505,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Duchesse Potatoes
 =================
@@ -1412,6 +1540,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Eggplant Stuffed With Goats Cheese
 ==================================
@@ -1459,6 +1591,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Poached Figs Served with Greek Manouri Cheese
 =============================================
 
@@ -1486,6 +1622,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Lobster Salmagundi with mixed Wild Greens
 =========================================
@@ -1524,6 +1664,10 @@ Salad
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Breaded Oysters
 ===============
@@ -1566,6 +1710,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Fresh Oysters on the Half Shell
 ===============================
 
@@ -1595,6 +1743,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Pesce e Fruitti de Mare (Fruits of the Sea) with Dry Vermouth
 =============================================================
@@ -1636,6 +1788,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Potato Mint Chaat
 =================
 
@@ -1670,6 +1826,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Alligator Jambalaya
 ===================
 
@@ -1697,6 +1857,10 @@ Ingredients
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Chicken Breast with Herb Provencale and Baby Vegetable Stir Fry
 ===============================================================
 
@@ -1722,6 +1886,10 @@ Ingredients
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Baked Tomatoes Provencal
 ========================
@@ -1749,6 +1917,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Ceviche on a bed of Crisp Wild Greens
 =====================================
@@ -1787,6 +1959,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Chanterelle Mushrooms With Seared Baby Spinach
 ==============================================
 
@@ -1822,6 +1998,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Cinco De Mayo Authentic Guacamole
 =================================
 
@@ -1845,6 +2025,10 @@ Peel and mash avocados roughly.place in a bowl.blend the rest of the ingredients
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Fiesta Frittata Mexicana
 ========================
@@ -1887,6 +2071,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Marsala Infused Figs with Double Cream Brie, and Seasonal Fruits
 ================================================================
 
@@ -1919,6 +2107,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Crab Cakes with Fresh Herb Provencale and Roasted Pepper Coulis
 ===============================================================
@@ -1960,6 +2152,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Ginger Prawns with Sweet Chilli Sauce and Shredded Daikon
 =========================================================
 
@@ -1994,6 +2190,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Pomme William/ Pear Shaped Potatoes
 ===================================
@@ -2035,6 +2235,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Prawns Hara (Green Prawns)
 ==========================
 
@@ -2069,6 +2273,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Prawns Provencal
 ================
 
@@ -2101,6 +2309,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Snails in Red Wine and Mushrooms
 ================================
@@ -2141,6 +2353,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Basilico Bruschetta
 ===================
 
@@ -2177,6 +2393,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Zucchini Frittata, Fresh Mint, And Fig Balsamico
 ================================================
@@ -2215,6 +2435,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Shrimp Pakoras (Shrimp And Vegetable Dumplings)
 ===============================================
 
@@ -2246,6 +2470,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Norwegian Potato Lefsa
 ======================

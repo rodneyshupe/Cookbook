@@ -3,6 +3,10 @@
 
    OddPageBreak tocPage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 *************************************
 Appendix G: Recipes Under Development
 *************************************
@@ -13,6 +17,10 @@ Appendix G: Recipes Under Development
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Homemade Pizza
 ==============
@@ -88,6 +96,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Pasta e Ceci (Pasta with Chickpeas)
 ===================================
 
@@ -137,6 +149,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Penne Arrabbiata
 ================
 
@@ -176,6 +192,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Beef Wellington
 ===============
@@ -257,6 +277,10 @@ Wellington Timeline
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Snails in a Red Wine Sauce with Fine Herbs
 ==========================================
 
@@ -293,6 +317,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Pizza Dough
 ===========
 
@@ -312,6 +340,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Slow-Cooker Pulled Chicken
 ==========================
@@ -364,6 +396,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Foil Pack Butter Garlic Shrimp
 ==============================
 
@@ -398,6 +434,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Surf 'n Turf Foil Pack
 ======================
@@ -435,6 +475,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Sausage and Peppers Foil Pack
 =============================
 
@@ -471,6 +515,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Campfire Potatoes
 =================
@@ -512,6 +560,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Foil Pack S'mores Roll-Up
 =========================
 
@@ -544,6 +596,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Fermented Pickles
 =================
@@ -590,6 +646,10 @@ Pickle Relish is made from finely chopped pickled cucumbers and is a good way to
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Cast Iron Oven-Fried Chicken
 ============================
@@ -641,6 +701,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 North Carolina Dipped Fried Chicken
 ===================================
@@ -706,6 +770,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Apple Pandowdy (Skillet Apple Pie)
 ==================================
@@ -784,6 +852,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Sous Vide Pulled Pork
 =====================
 
@@ -854,6 +926,10 @@ bath set to 165°F/74°C for 1 hour and then proceed with step 4.
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Boneless Pork Chops with Mango-Mint Salsa
 =========================================
 
@@ -889,6 +965,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Quick Beef and Bean Chili
 =========================
@@ -928,6 +1008,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Fast All-American Beef Chili
 ============================
@@ -974,6 +1058,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Chicken, Herb, and Sweet Corn Pie
 =================================
@@ -1039,6 +1127,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Sweet Potato Sausage Spread
 ===========================
 
@@ -1090,6 +1182,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Halibut Baked in Foil with Leeks and Carrots
 ============================================

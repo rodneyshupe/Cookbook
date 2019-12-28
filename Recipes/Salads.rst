@@ -14,6 +14,10 @@ Salads
 
    OddPageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Ceaser Salad
 ============
 
@@ -69,6 +73,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Grilled Ceaser Salad
 ====================
 
@@ -122,6 +130,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Austrian Potato Salad
 =====================
@@ -185,6 +197,10 @@ served within 4 hours of preparation.
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Creamy Potato Salad with Jalapeno
 =================================
 
@@ -226,6 +242,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Sweet and Tangy Coleslaw
 ========================
@@ -296,6 +316,10 @@ seeded and minced jalapeno chiles, 1 scallion, thinly sliced.
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Creamy Buttermilk Coleslaw
 ==========================
 
@@ -336,6 +360,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Tennessee-Style Mustard Coleslaw
 ================================
 
@@ -365,6 +393,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Mexican Corn Salad (Esquites)
 =============================
@@ -420,6 +452,10 @@ feta cheese.
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Mango, Orange, and Jicama Salad
 ===============================
 
@@ -471,6 +507,10 @@ and cut into 1/2-inch dice (4 cups) instead of the Mango.
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Avocado and Lobster Salad with Lime and Passion Fruit Dressing
 ==============================================================
@@ -525,6 +565,10 @@ Carb count 4.7g. per serving
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Warm Baby Spinach Salad with Bacon, Mushrooms and Pine Nuts
 ===========================================================
 
@@ -566,6 +610,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Grilled Chicken Salad
 =====================
@@ -609,6 +657,10 @@ Carb count 9g per serving
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Corn Salad And Honey Yogurt With Orange Habanero Peppers
 ========================================================
 
@@ -651,6 +703,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Cucumber Avocado Ole Salad
 ==========================
 
@@ -689,6 +745,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Dungeness Crab and Avocado Salad on a bed of arugula
 ====================================================
@@ -730,6 +790,10 @@ Carb count 7g per serving
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Fresh Mango and Mache Macadamia Nut Salad with Chilli Prawns and Thai Basil
 ===========================================================================
 
@@ -769,6 +833,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Moroccan Chicken, Crispy Romaine Salad
 ======================================
@@ -825,6 +893,10 @@ Carb count 5g. per serving
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Grilled Pear and Fresh Mozzarella with a Red Oak Leaf Asparagus Salad
 ======================================================================
 
@@ -863,6 +935,10 @@ Carb count 7g. per serving
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Seared Ahi Tuna with a Shredded Daikon Salad
 ============================================
@@ -905,6 +981,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Grapefruit, Avocado, Raspberries and Watercress Salad
 =====================================================
 
@@ -933,6 +1013,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Lemon-Basil Fava Salad and Curly Endive with Raspberry Vinaigrette
 ==================================================================
@@ -979,6 +1063,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Shrimp, Avocado, And Artichoke Salad
 ====================================
@@ -1035,6 +1123,10 @@ Carb count 8g. per serving
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Spinach, Wild Greens, Mango, Strawberry Salad
 =============================================
 
@@ -1076,6 +1168,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Grilled Jumbo Tiger Prawns on a bed of Crisp Greens
 ===================================================
@@ -1120,6 +1216,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Sea Scallop Salad with Avacado Dressing
 =======================================

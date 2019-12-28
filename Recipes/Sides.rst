@@ -14,6 +14,10 @@ Sides
 
    OddPageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Roasted Potatoes (on the Grill)
 ===============================
 
@@ -22,6 +26,10 @@ TODO
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Roasted Potatoes
 ================
@@ -101,6 +109,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Scalloped Potatoes
 ==================
@@ -196,6 +208,10 @@ minutes before serving.
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Potato Galette
 ==============
 
@@ -254,6 +270,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Mashed Potatoes
 ===============
 
@@ -298,6 +318,10 @@ Serves 4 - 6
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Best Baked potatoes
 ===================
 
@@ -341,6 +365,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 French Fries
 ============
 
@@ -379,6 +407,10 @@ oil can be substituted.
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Crispy Oven Fries
 =================
@@ -421,6 +453,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Oven-Fried Onion Rings
 ======================
@@ -482,6 +518,10 @@ properly and will remain crunchy.
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Potato Latkes
 =============
@@ -577,6 +617,10 @@ frozen latkes.
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Buttered Spaetzle
 =================
 
@@ -627,6 +671,10 @@ Instead for a spaetzle machine you can use a ricer or metal colander.
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Braised Red Cabbage
 ===================
 
@@ -673,6 +721,10 @@ recipe.
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Braised Cabbage with Bacon and Apples
 =====================================
 
@@ -710,6 +762,10 @@ Yield
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Green Beans with Sauteed Shallots and Vermouth
 ==============================================
@@ -756,6 +812,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Honey Glazed Roasted Sweet Potatoes
 ===================================
 
@@ -788,6 +848,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Skillet-Roasted Brussels Sprouts with Mustard and Brown Sugar
 =============================================================
@@ -851,6 +915,10 @@ Pecorino Romano cheese.
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Roasted Brussels Sprouts
 ========================
 
@@ -908,6 +976,10 @@ pecans.
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Flour Tortillas
 ===============
@@ -977,6 +1049,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Grilled Vegetables
 ==================
 
@@ -1008,6 +1084,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Grilled Asparagus
 =================
@@ -1045,6 +1125,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Roasted Beets and Carrots
 =========================
 
@@ -1077,6 +1161,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Persian-Style Rice with Golden Crust - Chelow
 =============================================
@@ -1144,6 +1232,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Cuban Black Beans
 =================
 
@@ -1190,6 +1282,10 @@ the water. Still simmer with the green onion to infuse the flavour.
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Barbecued Baked Beans
 =====================
@@ -1239,6 +1335,10 @@ over medium-low heat before serving.
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Sauteed Fiddleheads
 ===================
 
@@ -1268,6 +1368,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Cabbage Kimchi
 ==============
@@ -1326,6 +1430,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Cucumber Kimchi
 ===============
 
@@ -1356,6 +1464,10 @@ Ingredients
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Sesame bean sprouts
 ===================
@@ -1388,6 +1500,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Sesame-Pepper Bean Sprouts
 ==========================
@@ -1422,6 +1538,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Quick pickled radish and pear
 =============================
 
@@ -1453,6 +1573,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Pickled Carrots with Tarragon
 =============================
@@ -1495,6 +1619,10 @@ Carrots can be pickled 5 days ahead. Keep chilled.
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Sauteed Zucchini
 ================
 Source: `Bon Appetit <https://www.bonappetit.com/recipe/sesame-pepper-bean-sprouts>`__
@@ -1523,6 +1651,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Peppery Edamame
 ===============
 Source: `Bon Appetit <https://www.bonappetit.com/recipe/peppery-edamame>`__
@@ -1548,6 +1680,10 @@ coat. Serve immediately.
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Fennel-Tangerine Slaw
 =====================
@@ -1582,6 +1718,10 @@ days).
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Korean cheese corn
 ==================
@@ -1623,6 +1763,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Honey Glazed Roasted Sweet Potatoes
 ===================================
 
@@ -1650,6 +1794,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Jackson Potatoes
 ================
@@ -1685,6 +1833,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Garlic Bread
 ============

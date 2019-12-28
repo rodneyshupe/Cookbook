@@ -14,6 +14,10 @@ Entrees - Lamb
 
    OddPageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Grilled Rack of Lamb
 ====================
 
@@ -54,6 +58,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Macadamia Nut Crusted Rack of Lamb with a Merlot Demi-glace
 ===========================================================
@@ -101,6 +109,10 @@ Merlot demi-glace sauce
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Lamb Curry
 ==========

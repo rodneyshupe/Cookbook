@@ -21,6 +21,10 @@ specified.*
 
    OddPageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Basic Barbecue Rub
 ==================
 
@@ -45,6 +49,10 @@ Ingredients
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Louisiana (Cajun or Creole) Seasoning Spice Mix
 ===============================================
 
@@ -65,6 +73,10 @@ Ingredients
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Dave's Cajun Spice Mix
 ======================
@@ -88,6 +100,10 @@ Ingredients
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Taco Seasoning Mix
 ==================
 
@@ -110,6 +126,10 @@ Ingredients
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Basic Pork Rub
 ==============
 
@@ -128,6 +148,10 @@ Ingredients
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Bone Dust
 =========
@@ -159,6 +183,10 @@ Makes about 2 1/4 cups.
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Award Winning Dry Rub
 =====================
@@ -202,6 +230,10 @@ tablespoons of seasoning salt.
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Pulled Pork Rub
 ===============
 
@@ -229,6 +261,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Brown Sugar Rub
 ===============
 
@@ -254,6 +290,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Simple Sweet Rub
 ================
 
@@ -275,6 +315,10 @@ Ingredients
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Mr. Brown Smoke and Spice
 =========================
@@ -305,6 +349,10 @@ Cut back on the black pepper and cayenne pepper for less heat.
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Brisket Rub
 ===========
 
@@ -330,6 +378,10 @@ Ingredients
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Willingham’s Rub
 ================
@@ -362,6 +414,10 @@ Notes
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Brown Sugar and Spice Rib Rub Recipe
 ====================================
 
@@ -389,6 +445,10 @@ Combine ingredients. Rub into both sides of ribs.
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Spicy Cumin Rib Rub Recipe
 ==========================
@@ -419,6 +479,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Sugar-Cayenne Rib Rub Recipe
 ============================
 
@@ -448,6 +512,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Memphis Style Rib Rub Recipe
 ============================
 
@@ -474,6 +542,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Rub Recipe for Babyback Ribs
 ============================

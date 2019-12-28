@@ -14,6 +14,10 @@ Entrees - Poultry
 
    OddPageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Barbecued Chicken Balls
 =======================
 
@@ -59,6 +63,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Grilled Barbecued Chicken Kebabs
 ================================
@@ -128,6 +136,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Beer Can Chicken
 ================
 
@@ -192,6 +204,10 @@ Wet Rub Variation
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Gourmet BBQ Brined Spatchcock Chicken
 =====================================
 
@@ -240,6 +256,10 @@ Notes
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Cast Iron Crisp Roast Butterflied Chicken with Rosemary and Garlic
 ==================================================================
 
@@ -280,6 +300,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Roast Chicken with Lemon and Garlic
 ===================================
@@ -341,6 +365,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Roast Chicken Tarragon-Lemon Pan Sauce
 ======================================
@@ -408,6 +436,10 @@ Thyme-Sherry Vinegar Pan Sauce
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Buttermilk Roast Chicken with Potatoes and Cornichon Butter
 ===========================================================
 
@@ -459,6 +491,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Roast Chicken with Warm Bread Salad
 ===================================
@@ -520,6 +556,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Peri Peri BBQ Chicken
 =====================
 
@@ -555,6 +595,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Thai-Style Grilled Chicken (Gai Yang)
 =====================================
@@ -630,6 +674,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Buffalo Style Chicken Wings
 ===========================
 
@@ -672,6 +720,10 @@ two brush with your favorite BBQ Sauce.
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Dave’s BBQ Chicken Wings
 ========================
@@ -722,6 +774,10 @@ Alternate brine: Substitute sugar with 1/4 cup Worcestershire sauce.
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Butter Milk Fried Chicken
 =========================
@@ -777,6 +833,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Oven-Fried Chicken
 ==================
@@ -846,6 +906,10 @@ powder.
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Indoor Pulled Chicken
 =====================
@@ -933,6 +997,10 @@ South Carolina Mustard Barbecue Sauce
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Chicken and Sausage Gumbo
 =========================
 
@@ -994,6 +1062,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Pesto Chicken Garlic Knot Sliders
 =================================
 
@@ -1042,6 +1114,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Nasi Goreng
 ===========
 
@@ -1073,6 +1149,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Chicken Yakiudon
 ================
@@ -1142,6 +1222,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Fajita Quesadillas
 ==================
 
@@ -1181,6 +1265,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Old-Fashioned Stuffed Turkey
 ============================

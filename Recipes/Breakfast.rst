@@ -14,6 +14,10 @@ Breakfast
 
    OddPageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Almond Granola with Dried Fruit
 ===============================
 
@@ -52,6 +56,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Classic Waffles
 ===============
@@ -94,6 +102,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Poached eggs
 ============

@@ -14,6 +14,10 @@ Baking
 
    OddPageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 60-Minute Bread
 ===============
 
@@ -45,6 +49,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Southern-Style Cornbread
 ========================
@@ -88,6 +96,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Pop Overs
 =========

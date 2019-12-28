@@ -14,6 +14,10 @@ Pickles and Preserves
 
    OddPageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Antipasto
 =========
 
@@ -52,6 +56,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Preserved Lemons
 ================
 
@@ -87,6 +95,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Pickled Carrots
 ===============
@@ -136,6 +148,10 @@ Notes
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Pickled Asparagus
 =================
@@ -188,6 +204,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Grandmas Dill Pickles
 =====================
@@ -252,6 +272,10 @@ Day2
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Mustard Pickles
 ===============
 
@@ -291,6 +315,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Chunky Mustard Pickles
 ======================
@@ -345,6 +373,10 @@ Variation
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Sauerkraut
 ==========
@@ -447,6 +479,10 @@ Notes
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Jalapeno Slaw
 =============
 
@@ -483,6 +519,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Fermented Sweet Pepper Salsa
 ============================
@@ -522,6 +562,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Homemade Pickling Spice
 =======================
 
@@ -553,6 +597,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Pectin (from Green Apples)
 ==========================

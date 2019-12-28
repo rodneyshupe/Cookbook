@@ -14,6 +14,10 @@ Desserts
 
    OddPageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Bananas Foster
 ==============
 
@@ -70,6 +74,10 @@ Substitute brandy for rum (and even banana liqueur.)
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Chocolate Truffle Cheese Cake
 =============================
@@ -148,6 +156,10 @@ Chocolate Ganache Topping
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Lemon Curd
 ==========
 
@@ -181,6 +193,10 @@ May be stored in the refrigerator in a sealed container for 1-2 weeks.
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Semifreddo
 ==========
@@ -220,6 +236,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Chewy Chocolate Chip Cookies
 ============================
@@ -267,6 +287,10 @@ slice of sandwich bread.
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Six Minute Brownies
 ===================
 
@@ -310,6 +334,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 One Ingredient Chocolate Mouse
 ==============================
 
@@ -339,6 +367,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Best Lemon Bars
 ===============
@@ -397,6 +429,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 North Carolina Lemon Pie
 ========================
 
@@ -452,6 +488,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Skillet Apple Crisp
 ===================
@@ -514,6 +554,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Campfire Cobbler
 ================
 
@@ -553,6 +597,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Spiced Apples On A Bed Of Vodka Infused Wild Berries
 ====================================================
 
@@ -588,6 +636,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Fresh Apricot Brioche with Chocolate Gelato
 ===========================================
 
@@ -619,6 +671,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Banana Fritters with Caramel and Baileys Chocolate Cream Sauce
 ==============================================================
@@ -671,6 +727,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Canadian Maple Mousse and Wild Berries
 ======================================
 
@@ -699,6 +759,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Caramel and Fresh Mango Mousse
 ==============================
@@ -734,6 +798,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Chocolate Obsession
 ===================
 
@@ -761,6 +829,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Cranberry and White Chocolate Chip Muffins
 ==========================================
@@ -799,6 +871,10 @@ Variation: Substitute cranberries and white chocolate chips with blueberries.
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Peanut Butter Icebox Cookies
 ============================
 
@@ -830,6 +906,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Oatmeal Cookies
 ===============
@@ -882,6 +962,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Pecan Bars
 ==========
@@ -954,6 +1038,10 @@ halfway through.*
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Chocolate Whipping Cream
 ========================

@@ -2,6 +2,10 @@
 
    OddPageBreak tocPage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 **********************
 Appendix A: Meal Plans
 **********************
@@ -12,6 +16,10 @@ Appendix A: Meal Plans
 .. raw:: pdf
 
    OddPageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Korean BBQ Dinner
 =================
@@ -87,6 +95,10 @@ Dinner
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 One Grocery Bag 3 Dinners - Two
 ===============================

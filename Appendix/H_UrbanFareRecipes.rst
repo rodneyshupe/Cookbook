@@ -2,6 +2,10 @@
 
    OddPageBreak tocPage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 *****************************
 Appendix H: UrbanFare Recipes
 *****************************
@@ -13,6 +17,10 @@ Appendix H: UrbanFare Recipes
 .. raw:: pdf
 
    OddPageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Lamb Chops with Merlot demi-glace over Grilled Vegetables
 =========================================================
@@ -94,6 +102,10 @@ Carb count 9g. per serving
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Roasted Australian Crusted Lamb Loin With Grilled Wild Mushrooms, Asparagus, And Butternut Squash In A Brazilian BBQ Sauce
 ==========================================================================================================================
 
@@ -126,6 +138,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Barbequed Smoked Chinese Pork on a bed of Mizuna and Baby Spinach Greens with a Sweet Sesame oil and Chilli Vinaigrette
 =======================================================================================================================
@@ -168,6 +184,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Fresh Butternut Squash Ravioli with Grilled Japanese Eggplant, Shitake Mushrooms, Red Peppers, and Asparagus in a Light Fresh Herb Rose' Sauce, Topped with Pecorino Cheese and Served with Baked Garlic, Basil Bruschetta
 ==========================================================================================================================================================================================================================
 
@@ -208,6 +228,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Cajun Rubbed Pork Tenderloin with Chanterelle Mushroom and Sage Chasseur Sauce
 ==============================================================================
@@ -259,6 +283,10 @@ Carb count 5g per serving
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Charbroiled Filet Mignon bound in a Chasseur Sauce with Pomme William
 =====================================================================
 
@@ -293,6 +321,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Chateaubriand for Two with Jackson Potatoes and Grilled Seasonal Vegetables with Fresh Herbs
 ============================================================================================
@@ -353,6 +385,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Chicken Breast with Double Cream Brie Cheese and Apricots, wrapped and Baked in Phyllo Pastry, topped with a Light Rose Baby Shrimp Sauce
 =========================================================================================================================================
 
@@ -401,6 +437,10 @@ Carb count 11 g per serving
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Chicken Ragout Supreme' au Vol-au-vent
 ======================================
 
@@ -444,6 +484,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Cote de Veau Milanese (Veal Chops)
 ==================================
 
@@ -485,6 +529,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Crumbed Eggplant, With Roasted Basil Tomato, Grilled Minted Zucchini, On A Bed Of Caramelized Onions, Topped With Shaved Pecorino Cheese
 ========================================================================================================================================
 
@@ -521,6 +569,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Crusted Veal Chops With Charbroiled Corn On The Cob And Panseared Minted Local Nugget Potatoes
 ==============================================================================================
@@ -560,6 +612,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Steamed Filet of Halibut, Embossed in a Light, Chardonnay, Fresh Lime Beurre Blanc Sauce on a bed of Red Himalayan Rice
 =======================================================================================================================
 
@@ -593,6 +649,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Charbroiled Flank Steak, Bound In Fresh Mint, With Arugala Salad And Canellini Beans In A Light Cabernet Vinaigrette
 ====================================================================================================================
@@ -649,6 +709,10 @@ Carb count 8g per serving
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Grilled Vegetarian Nut Burgers
 ==============================
 
@@ -685,6 +749,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Charbroiled Halibut Filet With A Sweet Indonesian Soy, Lemongrass, Coconut Milk, And Red Curry Sauce On A Bed Of Steamed Jasmine Rice
 =====================================================================================================================================
@@ -723,6 +791,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Baked Maple, Honey Glazed Smoked Ham with Brussel Sprouts Almondine and Roasted Garlic Mashed Red Potatoes
 ==========================================================================================================
@@ -764,6 +836,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Kashmiri Chicken With Panseared Medley Of Sweet Bell Peppers And Fresh Mint
 ===========================================================================
@@ -807,6 +883,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Grilled Lime Chicken with roasted Rosemary Autumn Vegetables
 ============================================================
@@ -854,6 +934,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Ling Cod Filets in a Asiago Crust with a Fresh Lime, Basil, Beurre Blanc Sauce
 ==============================================================================
 
@@ -893,6 +977,10 @@ Carb count 4 g. per serving
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Crispy Magret Duck Breast With A Port Wine, Fresh Orange Juice, And Currant Jelly Barbeque Sauce.
 =================================================================================================
 
@@ -931,6 +1019,10 @@ Carb count 8g. per serving
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Mussel Hot Pot in Red Curry Coconut Milk Broth
 ==============================================
@@ -972,6 +1064,10 @@ Carb count 4g. per serving
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Osso Bucco Vino Rosso
 =====================
 
@@ -1010,6 +1106,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Double- Cut Pork Loin Rib- End with Steamed Baby Bok Choy, Ginger, Caramelized Onions and Sweet Indonesian Soy Sauce, Topped with a Smokey Bacon, Grainy Dijon, Bordelaise Sauce
 ================================================================================================================================================================================
@@ -1054,6 +1154,10 @@ Carb count 5g. per serving
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 "Portabello Pizzas". Caramelized Spanish Onions, Grilled Artichokes and Japanese Eggplant, Crisp Asparagus, Kalamata Olives, and Roasted Red Peppers, Topped with Fresh Boconccini Mozzarella
 =============================================================================================================================================================================================
 
@@ -1089,6 +1193,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Roasted Rack Of Lamb With A Cabernet, Rosemary Jus
 ==================================================
@@ -1151,6 +1259,10 @@ Sauce
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Baked Halibut in individual parcels, with Tequila, Lime, and fresh herbs.
 =========================================================================
 
@@ -1192,6 +1304,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Bouillabaisse Provencal
 =======================
 
@@ -1229,6 +1345,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Bow tie pasta with crisp pancetta, and scallops in a fresh sage rose sauce
 ==========================================================================
 
@@ -1253,6 +1373,10 @@ Ingredients
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Bow tie pasta primavera salad
 =============================
 
@@ -1275,6 +1399,10 @@ Ingredients
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Breaded Turkey Cutlets
 ======================
@@ -1304,6 +1432,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Caribou rack with chanterelle mushrooms, and a white wine, fresh tarragon, cream sauce.
 =======================================================================================
 
@@ -1326,6 +1458,10 @@ Ingredients
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Chicken Breast Wrapped In Pancetta And Raclette Cheese
 ======================================================
@@ -1366,6 +1502,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Chicken, Camenbert, and Apricot Phyllo, with a Rose Sauce
 =========================================================
 
@@ -1404,6 +1544,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Chicken Marsala
 ===============
 
@@ -1441,6 +1585,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Seared Baby Vegetables With Spicy chorizo sausage, Prawns, Fresh Herbs And Pasta
 ================================================================================
 
@@ -1467,6 +1615,10 @@ Ingredients
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Pasta with Spit Roasted Peppers, Seared Chicken Breast, Fennel, Shitake Mushrooms and Reggiano Cheese
 =====================================================================================================
@@ -1508,6 +1660,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Pasta, Scallops, Pomodoro, Pancetta, asparagus,
 ===============================================
 
@@ -1547,6 +1703,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Charbroiled Flank Steak, Bound In Fresh Savoury, With Tender Mache Salad And A Light Cabernet Vinaigrette
 =========================================================================================================
@@ -1599,6 +1759,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Garganelli Pasta with crisp pancetta, rock shrimp, and fresh sage alla olio.
 ============================================================================
 
@@ -1634,6 +1798,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Grilled Chicken Breast in a Grapefruit Citrus, Walnut Broth, on a bed of Jasmine Rice
 =====================================================================================
@@ -1678,6 +1846,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Grilled Cuban Plantains, Mango, And Jamaican Rum Soaked Pears
 =============================================================
 
@@ -1711,6 +1883,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Grilled Medallions of Pork Tenderloin topped with a Mediterranean Greek salad
 =============================================================================
@@ -1750,6 +1926,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Lamb and Fresh Mint Enchiladas
 ==============================
@@ -1806,6 +1986,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Lamb Tikka With A Sweet Mango Chutney, Panseared Anaheim Peppers, And Crispy, Minted Potatoes
 =============================================================================================
 
@@ -1860,6 +2044,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Orecchiette Pasta with Rapa and Barese Sausage
 ==============================================
 
@@ -1904,6 +2092,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Osso Bucco Alla Milanese
 ========================
 
@@ -1940,6 +2132,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Pan Seared Ostrich Steaks In A Lemon, Ginger And cilantro Jus, On A Bed Of Wild Crisp Greens
 =============================================================================================
@@ -1993,6 +2189,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Poached Red Snapper in a White Wine Fennel Broth
 ================================================
 
@@ -2040,6 +2240,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Poached sole paupiettes, stuffed with shrimp, scallops and chanterelle mushrooms
 ================================================================================
 
@@ -2077,6 +2281,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Porcini Risotto
 ===============
 
@@ -2112,6 +2320,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Pork Chops Pizzaiola
 ====================
 
@@ -2144,6 +2356,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Poulet Bonne Femme
 ==================
@@ -2185,6 +2401,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Primavera, Portabello, Antipasto Stack, with Grand Riserva Balsamico
 ====================================================================
 
@@ -2224,6 +2444,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Grilled rattlesnake with Salsa Cubano.
 ======================================
 
@@ -2242,6 +2466,10 @@ Ingredients
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Rigatoni With Grilled Chicken, Baby Peas, and Seared Shitake Mushrooms
 ======================================================================
@@ -2280,6 +2508,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Rose' Rice
 ==========
 
@@ -2310,6 +2542,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Pan Seared Wild Pacific Salmon on a bed of Lime, ginger, and garlic infused arugula with steamed green rice and poblano peppers
 ===============================================================================================================================
@@ -2348,6 +2584,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Seafood Medley In A White Wine And Pernod Broth With Grilled Crostini
 =====================================================================
@@ -2389,6 +2629,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Lamb Loin in a Roasted Poblano and Bell Pepper Coulis
 =====================================================
@@ -2434,6 +2678,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Sea Bass Paka (Sea Bass In Coconut Sauce)
 =========================================
 
@@ -2475,6 +2723,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Sirloin Beef Palak
 ==================
@@ -2520,6 +2772,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Smoked Salmon Roses
 ===================
 
@@ -2551,6 +2807,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Tangy ginger, chicken breast, prawn and vegetable stir-fry.
 ===========================================================
 
@@ -2579,6 +2839,10 @@ China blue tangy ginger dressing
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Thai Lemongrass Chicken With Basmati Rice
 =========================================
@@ -2623,6 +2887,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Tomato Provencale
 =================
 
@@ -2648,6 +2916,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Tournedos in a Morel, Cabernet, Glace De Viande, with a Melange of Vegetables.
 ==============================================================================
@@ -2686,6 +2958,10 @@ Chefs pick of seasonal veggies
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Vittello Parmigiano
 ===================
 
@@ -2717,6 +2993,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Zabaglione Sicilian Style
 =========================
 
@@ -2741,6 +3021,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Baked Red Snapper Filet Dijonnaisse
 ===================================
@@ -2778,6 +3062,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Rib-Eye Steaks With A Chasseur Sauce
 ====================================
@@ -2819,6 +3107,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Rib-Eye Steak with Fresh Sauteed Porcini Mushrooms and Demi-glace sauce
 =======================================================================
 
@@ -2855,6 +3147,10 @@ Carb count 4g. per serving
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Rice Pilaf
 ==========
 
@@ -2880,6 +3176,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Rigatoni Pasta with Crisp Pancetta, and Asparagus, in a White Wine, Cream Sauce Bound with Fresh Reggiano Cheese
 ================================================================================================================
@@ -2912,6 +3212,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Roast Boneless Leg Of Lamb With Fresh Ginger And Mango Chutney
 ==============================================================
@@ -2954,6 +3258,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Panseared Sablefish in a fresh Morel, Saffron, Cream Sauce with Crispy Nugget Potatoes and steamed Asparagus drizzled with Truffle Oil
 ======================================================================================================================================
 
@@ -2991,6 +3299,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Panseared Sablefish In A Light Fresh Herb, Ginger, Lime Jus
 ===========================================================
@@ -3053,6 +3365,10 @@ Carb count 6g. per serving
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Saffron And Asparagus Risotto
 =============================
 
@@ -3086,6 +3402,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 San Francisco Style Cioppino (Italian Fish Stew) and Oven Baked Calabrese Crostini with a Fresh Sage, Butter
 ============================================================================================================
@@ -3146,6 +3466,10 @@ Carb count 4g. per serving
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Santa Fe Grilled Chicken Breast with an Exotic Mushroom, Sage, Cream Sauce
 ==========================================================================
 
@@ -3183,6 +3507,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Fresh Scallops, Prawns, and Seafood Hot Pot with a Lemongrass, Coconut Milk, and Red Curry Sauce. Served with crispy, toasted, Garlic, Basil Bread
 ==================================================================================================================================================
@@ -3235,6 +3563,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Seared Moscovy Duck Breast, Double Smoked Bacon, Wild Mushrooms & Juniper Berries
 =================================================================================
 
@@ -3259,6 +3591,10 @@ Ingredients
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Pork Loin Rib End (rack of pork) and Grainy Mustard Sauce
 =========================================================
@@ -3300,6 +3636,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Seared Turkey Breast Cutlets, Topped With Asparagus, Crab, And Hollandaise Sauce
 ================================================================================
 
@@ -3338,6 +3678,10 @@ Carb count 7g. per serving
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Sea Bass With Japanese Ginger, Dry Vermouth, And Julienne Of Vegetables Wrapped In Foil Parcels With Fresh Mint Leaves
 ======================================================================================================================
@@ -3385,6 +3729,10 @@ Carb count 8g. per serving
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Slab of Baby Back Pork Ribs with a Smoky Mesquite BBQ. Sauce, and Crispy ,Turned, Barrel Shaped Potatoes
 ========================================================================================================
@@ -3436,6 +3784,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Spanish Omelette- Frittata
 ==========================
 
@@ -3472,6 +3824,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Roast Chicken with Seared Asparagus
 ===================================
@@ -3512,6 +3868,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Supreme Pheasant Breast Bound In a Rich Pine Mushroom and demi-glace Brandy sauce with Roasted Yams
 ===================================================================================================
 
@@ -3550,6 +3910,10 @@ Carb count 15g. per serving
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Texas Style Spanish Rice
 ========================
 
@@ -3583,6 +3947,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Thai Beef Satay, And Peanut Sauce, On A Bed Of Crisp Salad Greens
 =================================================================
@@ -3623,6 +3991,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Charbroiled Turkey Breast Cutlets on a bed of Pappardelle Pasta bound in a Rich cream sauce with Lobster, Rock Shrimp, and fresh chanterelle mushrooms
 ======================================================================================================================================================
 
@@ -3662,6 +4034,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Roast Turkey Breast With Fresh Herb Gravy, Grilled Seasonal Vegetables And Sweet Oven Baked Red Potatoes With Roasted Garlic In A Light Cream Sauce
 ===================================================================================================================================================
@@ -3708,6 +4084,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Crusted Veal Chops with Steamed Baby Vegetables and Panseared Minted Local Nugget Potatoes
 ==========================================================================================
 
@@ -3747,6 +4127,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Charbroiled Vegetable Medley Quesadillas With Fresh Morel Mushrooms, And Chevre Cheese (Goat Cheese)
 ====================================================================================================
 
@@ -3785,6 +4169,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Panseared Venison Steak over a bed of Roasted Ratatouille
 =========================================================
@@ -3833,6 +4221,10 @@ Carb count 1g. per serving
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Vittello Parmigiano
 ===================
@@ -3888,6 +4280,10 @@ Quick 20 minute tomato sauce
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Ahi Tuna and Andalusian Rice Salad
 ==================================
 
@@ -3927,6 +4323,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Andalusian Rice Salad with fresh Ahi Tuna
 =========================================
 
@@ -3965,6 +4365,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Francos Greek Salad with Roasted Chickpeas
 ==========================================
@@ -4026,6 +4430,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Lemon-Basil Fava Salad
 ======================
 
@@ -4073,6 +4481,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Lobster Salad 1
 ===============
 
@@ -4110,6 +4522,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Lobster Salad 2
 ===============
@@ -4159,6 +4575,10 @@ Carb count 6g per serving
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Avocat Salade au Cabernet Sauvignon vinaigrette
 ===============================================
 
@@ -4182,6 +4602,10 @@ Ingredients
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Beetroot And Potato Salad With Seared Red Chilies
 =================================================
@@ -4217,6 +4641,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Southwestern cactus and exotic greens salad
 ===========================================
 
@@ -4251,6 +4679,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Chickpeas Curry Salad qith Crisp Greens and Sweet Bell Pepper
 =============================================================
@@ -4296,6 +4728,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Crab and Papaya Salad with Lime Dressing
 ========================================
 
@@ -4333,6 +4769,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Three Bean And Fresh Oregano Salad On A Bed Of Mache
 ====================================================
@@ -4380,6 +4820,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Salade Nicoise - Salad From Nice
 ================================
@@ -4434,6 +4878,10 @@ Carb count 6g. per serving
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Thai Beef Salad with Chilli Dressing
 ====================================
 
@@ -4481,6 +4929,10 @@ Carb count 6g. per serving
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Thai Seared Sirloin Beef Salad with Spicy, Citrus Dressing
 ==========================================================
@@ -4533,6 +4985,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Tomates Farcies Aux Crevettes with Dungeness Crab
 =================================================
 
@@ -4570,6 +5026,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Affogato
 ========
 
@@ -4602,6 +5062,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Biscuit Tortoni
 ===============
@@ -4639,6 +5103,10 @@ Carb count; 9 g. per serving.
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Swiss, Chocolate, Brandy, Decadence Cake
 ========================================
@@ -4684,6 +5152,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Chocolate Silken Decadence
 ==========================
 
@@ -4719,6 +5191,10 @@ Carb count 7g per serving
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Coconut and Passion Fruit Chocolate Lined Tarts
 ===============================================
 
@@ -4751,6 +5227,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Custard Fruit Galette
 =====================
 
@@ -4778,6 +5258,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Espresso Mocha Velvet Pie
 =========================
@@ -4832,6 +5316,10 @@ Filling
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Frangelico Ricotta Cream
 ========================
 
@@ -4855,6 +5343,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Grappa soaked Sponge Cake with Wild Berries
 ===========================================
@@ -4890,6 +5382,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Hazelnut Chocolate and Sweet Cherry Mousse
 ==========================================
 
@@ -4919,6 +5415,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Indian Rice Pudding with Grilled Caramelized Bananas and Fresh Fruit
 ====================================================================
@@ -4954,6 +5454,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Laddoo
 ======
 
@@ -4984,6 +5488,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Macadamia Vanilla Cheese Pie
 ============================
@@ -5023,6 +5531,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Fresh Mango, Toasted Coconut, Chocolate Mousse with Macadamia Nut Brittle
 =========================================================================
 
@@ -5059,6 +5571,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Mango Rabri
 ===========
 
@@ -5081,6 +5597,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Amaretto Infused Melon with Chocolate Gelato
 ============================================
@@ -5108,6 +5628,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Papaya Lime Fool
 ================
@@ -5139,6 +5663,10 @@ Carb count 7g. per serving
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Passion Fruit Lemon Cream Chocolate Lined Tarts with a Pomegranate Coulis
 =========================================================================
@@ -5180,6 +5708,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Pears Belle Helene
 ==================
 
@@ -5209,6 +5741,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Pecan Pie
 =========
@@ -5246,6 +5782,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Poche` Poires Au Chocolat, Bourbon Sauce
 ========================================
@@ -5291,6 +5831,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Pumpkin Mousse Pie With Hazelnut Crust
 ======================================
@@ -5346,6 +5890,10 @@ Filling
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Pumpkin Pie With Devonshire Cream
 =================================
 
@@ -5391,6 +5939,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Apple Brandy Flambe' With Melted Raclette Cheese
 ================================================
 
@@ -5420,6 +5972,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Banana Chimichangas
 ===================
 
@@ -5448,6 +6004,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Canadian Maple Mousse
 =====================
 
@@ -5473,6 +6033,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Chocolate and Cherry Trifle
 ===========================
@@ -5508,6 +6072,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Coconut Barfi With Fresh Mango And Vanilla Ice Cream
 ====================================================
 
@@ -5538,6 +6106,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Fresh Mango Mousse
 ==================
 
@@ -5561,6 +6133,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Fruit Flan
 ==========
@@ -5589,6 +6165,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Fruit poached in Red Wine
 =========================
@@ -5620,6 +6200,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Sweet Banana and Fresh Fruit Topped With Saffron Yogurt
 =======================================================
 
@@ -5650,6 +6234,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Fresh Fruit with Tequila Soaked Raisins and Cinnamon Chips
 ==========================================================
@@ -5694,6 +6282,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Fresh Fruit with Yogurt Dressing
 ================================
 
@@ -5718,6 +6310,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Broiled Grapefruit with Port Wine
 =================================
@@ -5744,6 +6340,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Grilled Fruit Kebobs with Honey cardamom Syrup
 ==============================================
@@ -5781,6 +6381,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Grilled fresh fruit sundaes
 ===========================
 
@@ -5812,6 +6416,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Exotic Kalakand With Fresh Fruit Medley
 =======================================
 
@@ -5840,6 +6448,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Sugar- free Low Carb Lemon Mousse with Low Carb Chocolate Kisses
 ================================================================
 
@@ -5866,6 +6478,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Luxury Fresh Pineapple Trifle With Blueberries and Macadamia Nuts
 =================================================================
@@ -5897,6 +6513,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Heavenly Macadamia Nut Mousse
 =============================
 
@@ -5922,6 +6542,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Melange of Fresh Fruit Topped with a Honey Infused Chevre
 =========================================================
@@ -5949,6 +6573,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Mela al Forno (baked apples)
 ============================
@@ -5979,6 +6607,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Meringues au Chocolat
 =====================
 
@@ -6008,6 +6640,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Pamplemousse au Vin Port aux creme Chantilly d'amandes
 ======================================================
@@ -6044,6 +6680,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Pastry Cream
 ============
 
@@ -6076,6 +6716,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Pommes Genre Bourdelot
 ======================
@@ -6110,6 +6754,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Quick Chocolate Mousse
 ======================
 
@@ -6139,6 +6787,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Rasmalia
 ========
@@ -6172,6 +6824,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Fresh Apple and Peach Sambucca Enchilada Dessert
 ================================================
@@ -6207,6 +6863,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Strawberries Romanoff
 =====================
 
@@ -6234,6 +6894,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Tia Maria , Hazelnut Chocolate , Ricotta Cheesecake
 ===================================================
@@ -6266,6 +6930,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Tres Leches (Three Milk)
 ========================
@@ -6302,6 +6970,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Valentines Maple Mousse
 =======================
 
@@ -6330,6 +7002,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Rich Chocolate Truffles
 =======================
@@ -6375,6 +7051,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Peaches and Blueberries Topped with a Marsala Sabayon
 =====================================================
@@ -6422,6 +7102,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Soft Vanilla Custard with Cherries and Almonds
 ==============================================
 
@@ -6457,6 +7141,10 @@ Carb count 1g. per serving
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Spicy Coconut Custard
 =====================
@@ -6496,6 +7184,10 @@ Carb count 11g. per serving
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Strawberries Cointreau Romanoff
 ===============================
 
@@ -6531,6 +7223,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Sweet Cherry Amaretto Mousse with Caramelized Pecans
 ====================================================
@@ -6573,6 +7269,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Tart Apple with Wild Berries and Fresh Peach Crepes
 ===================================================
@@ -6618,6 +7318,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Tiramisu
 ========
 
@@ -6649,6 +7353,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Tofu Pumpkin Pie
 ================
@@ -6701,6 +7409,10 @@ Carb count 1g. per serving
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Vodka infused Watermelon with an Exotic Fresh Fruit salsa
 =========================================================
 
@@ -6729,6 +7441,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Warm Apple Pie Topped with Rocky Road Ice Cream
 ===============================================
@@ -6767,6 +7483,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Warm Chocolate- Coconut Cake
 ============================

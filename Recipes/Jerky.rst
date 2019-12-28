@@ -19,6 +19,10 @@ Spanish word ‘charqui’ which means dried meat.
 
    OddPageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Homemade Jerky
 ==============
 
@@ -74,6 +78,10 @@ Dehydration
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Old West Jerky Marinade
 =======================
 
@@ -101,6 +109,10 @@ Ingredients
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Hot and Spicy Marinade
 ======================
 
@@ -120,6 +132,10 @@ Ingredients
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Spicy Ole Jerky
 ===============
@@ -141,6 +157,10 @@ Ingredients
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Sweet Chipotle Beef Jerky Marinade
 ==================================
 
@@ -158,6 +178,10 @@ Ingredients
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Tequila Beef Jerky
 ==================
@@ -177,6 +201,10 @@ Ingredients
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Jalapeno Lime Beef Jerky
 ========================
@@ -204,6 +232,10 @@ honey is evenly mixed. Add to a bowl or ziplock bag.
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Teriyaki Beef Jerky
 ===================
 
@@ -229,6 +261,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Sweet and Spicy Beef Jerky Marinade
 ===================================
@@ -262,6 +298,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Cranberry Turkey Jerky
 ======================
@@ -301,6 +341,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Ground Beef Jerky
 =================
@@ -344,6 +388,10 @@ thick Slice the pan of beef into jerky strips 4-5" long and 1" thick.
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Midwest Ground Beef Jerky
 =========================
 
@@ -379,6 +427,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Ground Teriyaki Venison Jerky
 =============================
 
@@ -407,6 +459,10 @@ Substitute any ground red meat, such as beef or buffalo for the venison.
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Slim Jim Clone
 ==============

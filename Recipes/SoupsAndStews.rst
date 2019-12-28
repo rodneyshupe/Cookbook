@@ -13,6 +13,10 @@ Soups and Stews
 .. raw:: pdf
 
    OddPageBreak recipePage
+   
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Chili
 =====
@@ -121,6 +125,10 @@ Notes
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Slow Cooker Chili
 =================
 
@@ -151,6 +159,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Beef Stew
 =========
@@ -214,6 +226,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Beef Barley Soup
 ================
 
@@ -259,6 +275,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Chicken Stew
 ============
@@ -324,6 +344,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Coq Au Vin
 ==========
@@ -410,6 +434,10 @@ pearl onions, which will turn mushy and disintegrate into the sauce.)
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Chicken Bouillabaisse
 =====================
@@ -522,6 +550,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Carrot Ginger Soup
 ==================
 
@@ -566,6 +598,10 @@ water for 10-12 minutes, then shred with 2°Forks.
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Sweet Potato Soup
 =================
@@ -612,6 +648,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Candied Bacon
 -------------
 
@@ -631,6 +671,10 @@ Combine 1/3 cup sour cream and 1 tablespoon maple syrup in bowl.
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Rustic Potato-Leek Soup with Kielbasa and Garlic Toast
 ======================================================
@@ -680,6 +724,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Split Pea and Ham Soup
 ======================
 
@@ -719,6 +767,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Slow Cooker Bacon and Corn Chowder
 ==================================
@@ -765,6 +817,10 @@ recipe*
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Quick Bacon and Corn Chowder
 ============================
@@ -816,6 +872,10 @@ knife to cut the kernels off the husked and silked ears.
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Leftover Seafood Chowder
 ========================
 
@@ -858,6 +918,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Turkey Noodle Soup
 ==================
 
@@ -891,6 +955,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Turkey Barley Soup
 ==================
@@ -936,6 +1004,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Turkey Rice Soup with Mushrooms and Swiss Chard
 ===============================================
 
@@ -980,6 +1052,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Turkey Orzo Soup with Kale and Chickpeas
 ========================================
 
@@ -1023,6 +1099,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Smoked Paprika and Rutabaga Bisque
 ==================================
 
@@ -1061,6 +1141,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 French Onion Soup
 =================
@@ -1155,6 +1239,10 @@ float them on top of the soup.
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Shrimp Bisque
 =============
 
@@ -1227,6 +1315,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Mushroom Bisque
 ===============
 
@@ -1289,6 +1381,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Cream of Asparagus Soup
 =======================
 
@@ -1334,6 +1430,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Red Lentil Soup with North African Spices
 =========================================
@@ -1391,6 +1491,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Creamy Green Pea Soup
 =====================
 
@@ -1441,6 +1545,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Creamy Leek-Potato Soup
 =======================
@@ -1499,6 +1607,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Butternut Squash Soup
 =====================
 
@@ -1551,6 +1663,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Silky Butternut Squash Soup
 ===========================
@@ -1632,6 +1748,10 @@ Cinnamon-Sugar Croutons
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Creamy Mushroom Soup
 ====================
 
@@ -1704,6 +1824,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Wild Rice and Mushroom Soup
 ===========================
 
@@ -1769,6 +1893,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Beef Barley Soup with Mushrooms and Thyme
 =========================================
@@ -1850,6 +1978,10 @@ Soup
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Farmhouse Vegetable and Barley Soup
 ===================================
 
@@ -1910,6 +2042,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Broccoli-Cheese Soup
 ====================
 
@@ -1964,6 +2100,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Cauliflower Soup
 ================
@@ -2024,6 +2164,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 That Fcking Soup
 ================
 
@@ -2068,6 +2212,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Quick Asian-Style Dumpling Soup
 ===============================
 
@@ -2108,6 +2256,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Thai Hot and Sour Noodle Soup with Shrimp (Guay Tiew Tom Yum Goong)
 ===================================================================
@@ -2164,6 +2316,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Asian Beef and Noodle Soup
 ==========================
 
@@ -2203,6 +2359,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Left Over Chicken Ramen
 =======================
@@ -2246,6 +2406,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Jar Lunch Soup: Thai Coconut Curry With Shrimp Instant Noodles
 ==============================================================
@@ -2306,6 +2470,10 @@ coated, then proceed with step 1.
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Jar Lunch Soup: Chicken and Dill Instant Noodles
 ================================================
 
@@ -2349,6 +2517,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Basic Turkey Stock
 ==================
 
@@ -2391,6 +2563,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Simple Turkey Stock
 ===================
@@ -2442,6 +2618,10 @@ stock. Lay the bag flat to freeze. Use for soups, stews, or gravy.
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Spicy Chicken Breast, Chilli, Chard and Egg Noodle Soup
 =======================================================
 
@@ -2472,6 +2652,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Creamy Asparagus Soup with Smoky Pancetta and Grilled Scallops
 ==============================================================
@@ -2512,6 +2696,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Madrid Gazpacho soup (cold soup)
 ================================
@@ -2567,6 +2755,10 @@ Directions
 
    PageBreak recipePage
 
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Smoky Pancetta, Sweet Onion, And Green Lentil Soup
 ==================================================
 
@@ -2594,6 +2786,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Straciatella Soup with Butternut Squash Ravioli
 ===============================================
@@ -2626,6 +2822,10 @@ Directions
 .. raw:: pdf
 
    PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Tuscan Minestra Soup
 ====================
