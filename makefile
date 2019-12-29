@@ -60,7 +60,7 @@ $(pdf): $(wildcard *.rst) $(wildcard */?*.rst) $(wildcard *.style) $(wildcard *.
 $(html): $(wildcard *.rst) $(wildcard */?*.rst) $(wildcard *.css)
 	$(call generate_temp_sub)
 	@echo "Creating HTML..."
-	rst2html5 \
+	@rst2html5 \
 	     --stylesheet-inline=RodneyFavoriteRecipes.css \
 			 --strip-elements-with-class=handout \
 			 --strip-comments \
@@ -70,7 +70,7 @@ $(html): $(wildcard *.rst) $(wildcard */?*.rst) $(wildcard *.css)
 $(epub): $(html) RecipesCover.png
 	$(call generate_temp_sub)
 	@echo "Creating EPUB..."
-	ebook-convert "$(html)" "$(epub)" \
+	@ebook-convert "$(html)" "$(epub)" \
 	     --title "Recipes From the Messy Chef" \
 	     --authors "Rodney Shupe" \
 	     --author-sort "Shupe Rodney" \
@@ -78,6 +78,7 @@ $(epub): $(html) RecipesCover.png
 			 --comments "A collection of recipes containing the favorites of Rodney Shupe and family." \
 			 --tags Cookbook,Cooking,Recipes \
 			 --cover RecipesCover.png \
+			 --max-toc-links 29 \
 			 --embed-all-fonts
 
 tidy:
