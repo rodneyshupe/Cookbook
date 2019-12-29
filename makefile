@@ -54,13 +54,13 @@ $(pdf): $(wildcard *.rst) $(wildcard */?*.rst) $(wildcard *.style) $(wildcard *.
 			 $(input_rst_file:%.rst=%.html.rst) \
 			 "$(html)" \
 	&& ebook-convert "$(html)" "$(epub)" \
-	     --title "Recipes from the Messy Chef" \
+	     --title "Recipes From the Messy Chef" \
 	     --authors "Rodney Shupe" \
 	     --author-sort "Shupe Rodney" \
 			 --language English \
 			 --comments "A collection of recipes containing the favorites of Rodney Shupe and family." \
 			 --tags Cookbook,Cooking,Recipes \
-			 --cover Cover.jpg \
+			 --cover RecipesCover.png \
 			 --embed-all-fonts \
 	&& rm -fR *.build_temp \
 	&& rm -f $(TEMP_SUBSTITUTION_FILE)
