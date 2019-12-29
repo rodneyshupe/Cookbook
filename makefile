@@ -42,7 +42,8 @@ epub: $(epub)
 $(pdf): $(wildcard *.rst) $(wildcard */?*.rst) $(wildcard *.style) $(wildcard *.style.json)
 	@rm -fR *.build_temp
 	$(call generate_temp_sub)
-	rst2pdf $(input_rst_file) \
+	@echo "Creating PDF..."
+	@rst2pdf $(input_rst_file) \
 		--break-level=1 \
 		--section-header-depth=1 \
 		--fit-background-mode=scale \
@@ -58,6 +59,7 @@ $(pdf): $(wildcard *.rst) $(wildcard */?*.rst) $(wildcard *.style) $(wildcard *.
 
 $(html): $(wildcard *.rst) $(wildcard */?*.rst) $(wildcard *.css)
 	$(call generate_temp_sub)
+	@echo "Creating HTML..."
 	rst2html5 \
 	     --stylesheet-inline=RodneyFavoriteRecipes.css \
 			 --strip-elements-with-class=handout \
@@ -67,6 +69,7 @@ $(html): $(wildcard *.rst) $(wildcard */?*.rst) $(wildcard *.css)
 
 $(epub): $(html) RecipesCover.png
 	$(call generate_temp_sub)
+	@echo "Creating EPUB..."
 	ebook-convert "$(html)" "$(epub)" \
 	     --title "Recipes From the Messy Chef" \
 	     --authors "Rodney Shupe" \
