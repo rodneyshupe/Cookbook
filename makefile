@@ -18,14 +18,10 @@ REVISION_MINOR_NUMBER_FILE = revision-number-minor.txt
 CHECKIN_MSG_FILE = checkin_msg.temp
 
 define generate_temp_sub
-	@rm -f $(TEMP_SUBSTITUTION_FILE)
-
+	@if ! test -f $(REVISION_MINOR_NUMBER_FILE); then echo 0 > $(REVISION_MINOR_NUMBER_FILE); fi
+	@if ! test -f $(TEMP_SUBSTITUTION_FILE); then echo $$(($$(cat $(REVISION_MINOR_NUMBER_FILE)) + 1)) > $(REVISION_MINOR_NUMBER_FILE); fi
 	@echo ".. |Date| replace:: $$(date +%B\ %d\,\ %Y)"  > $(TEMP_SUBSTITUTION_FILE)
 	@echo "  "  >> $(TEMP_SUBSTITUTION_FILE)
-
-	@if ! test -f $(REVISION_MINOR_NUMBER_FILE); then @echo 0 > $(REVISION_MINOR_NUMBER_FILE); fi
-	@echo $$(($$(cat $(REVISION_MINOR_NUMBER_FILE)) + 1)) > $(REVISION_MINOR_NUMBER_FILE)
-
 	@echo ".. |Revision| replace:: $$(cat $(REVISION_MAJOR_NUMBER_FILE)).$$(cat $(REVISION_MINOR_NUMBER_FILE))" >> $(TEMP_SUBSTITUTION_FILE)
 	@echo "  " >> $(TEMP_SUBSTITUTION_FILE)
 endef
@@ -54,9 +50,10 @@ $(pdf): $(wildcard *.rst) $(wildcard */?*.rst) $(wildcard *.style) $(wildcard *.
 		--strip-elements-with-class=handout \
 		--extension-module=preprocess
 	@rm -fR *.build_temp
-	@rm -f $(TEMP_SUBSTITUTION_FILE)
+
 
 $(html): $(wildcard *.rst) $(wildcard */?*.rst) $(wildcard *.css)
+	$(call generate_temp_sub)
 	rst2html5 \
 	     --stylesheet-inline=RodneyFavoriteRecipes.css \
 			 --strip-elements-with-class=handout \
@@ -65,6 +62,7 @@ $(html): $(wildcard *.rst) $(wildcard */?*.rst) $(wildcard *.css)
 			 "$(html)"
 
 $(epub): $(html)
+	$(call generate_temp_sub)
 	ebook-convert "$(html)" "$(epub)" \
 	     --title "Recipes From the Messy Chef" \
 	     --authors "Rodney Shupe" \
