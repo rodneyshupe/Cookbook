@@ -1,4 +1,4 @@
-.PHONY: all tidy commit clean
+.PHONY: all pdf html epub tidy commit clean
 
 # name of the PDF to create
 pdf = ../RodneyFavoriteRecipes.pdf
@@ -18,6 +18,10 @@ REVISION_MINOR_NUMBER_FILE = revision-number-minor.txt
 CHECKIN_MSG_FILE = checkin_msg.temp
 
 define generate_temp_sub
+	@#if ! test -f $(REVISION_MAJOR_NUMBER_FILE); then echo 0 > $(REVISION_MAJOR_NUMBER_FILE); fi
+	@# TODO: Figure out when to add generate the next major revision number
+	@#	echo $$(($$(cat $(REVISION_MAJOR_NUMBER_FILE)) + 1)) > $(REVISION_MAJOR_NUMBER_FILE) \
+	@#	 && echo 0 > $(REVISION_MINOR_NUMBER_FILE)
 	@if ! test -f $(REVISION_MINOR_NUMBER_FILE); then echo 0 > $(REVISION_MINOR_NUMBER_FILE); fi
 	@if ! test -f $(TEMP_SUBSTITUTION_FILE); then echo $$(($$(cat $(REVISION_MINOR_NUMBER_FILE)) + 1)) > $(REVISION_MINOR_NUMBER_FILE); fi
 	@echo ".. |Date| replace:: $$(date +%B\ %d\,\ %Y)"  > $(TEMP_SUBSTITUTION_FILE)
@@ -26,14 +30,14 @@ define generate_temp_sub
 	@echo "  " >> $(TEMP_SUBSTITUTION_FILE)
 endef
 
-#if ! test -f $(REVISION_MAJOR_NUMBER_FILE); then echo 0 > $(REVISION_MAJOR_NUMBER_FILE); fi
-# TODO: Figure out when to add generate the next major revision number
-#	echo $$(($$(cat $(REVISION_MAJOR_NUMBER_FILE)) + 1)) > $(REVISION_MAJOR_NUMBER_FILE)
-#	echo 0 > $(REVISION_MINOR_NUMBER_FILE)
-
-
 # default target: build the PDF file if the rst file, a style file
-all: $(pdf) $(html) $(epub) tidy commit
+all:pdf html epub tidy commit
+
+pdf: $(pdf)
+
+html: $(pdf)
+
+epub: $(epub)
 
 $(pdf): $(wildcard *.rst) $(wildcard */?*.rst) $(wildcard *.style) $(wildcard *.style.json)
 	@rm -fR *.build_temp
@@ -61,7 +65,7 @@ $(html): $(wildcard *.rst) $(wildcard */?*.rst) $(wildcard *.css)
 			 $(input_rst_file:%.rst=%.html.rst) \
 			 "$(html)"
 
-$(epub): $(html)
+$(epub): $(html) RecipesCover.png
 	$(call generate_temp_sub)
 	ebook-convert "$(html)" "$(epub)" \
 	     --title "Recipes From the Messy Chef" \
