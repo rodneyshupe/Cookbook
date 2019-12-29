@@ -85,6 +85,7 @@ commit:
 	@git add --all
 	@git commit --message="$$(cat $(CHECKIN_MSG_FILE))"
 	@git push origin master
+	@rm -f $(CHECKIN_MSG_FILE)
 
 clean:
 	@rm -f $(pdf)
