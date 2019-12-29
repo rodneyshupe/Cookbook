@@ -1,10 +1,11 @@
-body {
+body, section, aside {
   font-size: 10;
   font-family: 'Verdana', 'Arial', 'San Francisco', 'Helvetica', sans-serif;
 }
 
 a {
   color: #2874A6;
+  font-family: 'Verdana', 'Arial', 'San Francisco', 'Helvetica', sans-serif;
 }
 
 title, h1 {
@@ -13,38 +14,10 @@ title, h1 {
   color: #2874A6;
 }
 
-sidebar-ul {
-  padding-left: 0px;
-}
-
-section, h2 {
+h2 {
   font-family: 'Arial', 'Helvetica', sans-serif;
   font-size: 10;
   color: #1B4F72;
-}
-
-table {
-  border-collapse: collapse;
-  width: 95%;
-  align: center;
-}
-
-table, th, td {
-  vertical-align: top;
-  border: 1px solid black;
-}
-
-th {
-  font-weight: bold;
-  color: white;
-  background-color:  #2874A6;
-  text-align: left;
-  vertical-align: bottom;
-  padding: 0;
-}
-
-tr:nth-child(even) {
-  background-color: #e0e0e0;
 }
 
 h2 {
@@ -72,10 +45,43 @@ h5 {
   font-style: italic;
 }
 
+sidebar-ul {
+  padding-left: 0px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 95%;
+  align: center;
+  font-family: 'Verdana', 'Arial', 'San Francisco', 'Helvetica', sans-serif;
+}
+
+table, th, td {
+  vertical-align: top;
+  border: 1px solid black;
+}
+
+th {
+  font-weight: bold;
+  color: white;
+  background-color:  #2874A6;
+  text-align: left;
+  vertical-align: bottom;
+  padding: 0;
+}
+
+tr:nth-child(even) {
+  background-color: #e0e0e0;
+}
+
 ulx, olx {
   padding-top: .25;
 }
 
 li {
   padding-top: .25;
+  font-family: 'Verdana', 'Arial', 'San Francisco', 'Helvetica', sans-serif;
+}
+p {
+  font-family: 'Verdana', 'Arial', 'San Francisco', 'Helvetica', sans-serif;
 }
