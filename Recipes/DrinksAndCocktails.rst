@@ -350,7 +350,7 @@ Directions
 
    <p style="page-break-before: always"/>
 
-emerald City Martini
+Emerald City Martini
 ====================
 
 Ingredients
@@ -886,6 +886,57 @@ Directions
    sweetness, try making the simple syrup using brown sugar or demerara
    sugar). Stir to combine, and gently spoon between 1/2-inch and an
    inch of cream atop the coffee mixture, to taste.
+
+---
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Aperol Spritz
+=================
+
+Ingredients
+-----------
+
+- 3 oz Prosecco
+- 2 oz Aperol
+- 2 oz Soda water
+
+Directions
+----------
+
+1. Add all ingredients into a wine glass with ice and stir.
+2. Garnish with an orange wheel.
+
+---
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Americano
+=========
+
+Ingredients
+-----------
+
+- 1 1/2 oz Campari
+- 1 1/2 oz Sweet vermouth
+- 3 oz Club soda
+
+Directions
+----------
+
+1. Pour the Campari and vermouth into a rocks or highball glass filled with ice.
+2. Add the club soda.
+3. Garnish with an orange twist.
 
 .. raw:: pdf
 
