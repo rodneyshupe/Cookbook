@@ -912,7 +912,6 @@ Directions
 1. Add all ingredients into a wine glass with ice and stir.
 2. Garnish with an orange wheel.
 
----
 .. raw:: pdf
 
    PageBreak recipePage
