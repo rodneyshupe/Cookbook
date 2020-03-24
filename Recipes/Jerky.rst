@@ -129,13 +129,7 @@ Ingredients
 -  1 tsp Tabasco
 -  1/2 tsp Cayenne pepper
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Spicy Ole Jerky
 ===============
