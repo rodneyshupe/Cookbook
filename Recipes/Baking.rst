@@ -210,19 +210,19 @@ Directions
    (If baking, use starter once it has doubled in size during 8-to-12-hour
    window. Use starter within 1 hour after it starts to deflate once reaching
    its peak.)
-4A. TO STORE AND MAINTAIN MATURE STARTER: Measure out 1/4 cup (2 ounces)
-    starter and transfer to clean bowl; discard remaining starter. Stir
-    1/2 cup (2 1/2 ounces) all-purpose flour and 1/4 cup (2 ounces)
-    room-temperature water into starter until no dry flour remains. Transfer
-    to clean container that can be loosely covered (plastic container or mason
-    jar with its lid inverted) and let sit at room temperature for 5 hours.
-    Cover and transfer to refrigerator. If not baking regularly, repeat
-    process weekly.
-4B. TO PREPARE FOR BAKING: Eighteen to 24 hours before baking, measure out
-    1/2 cup (4 ounces) starter and transfer to clean bowl; discard remaining
-    starter. Stir 1 cup (5 ounces) all-purpose flour and 1/2 cup (4 ounces)
-    room-temperature water into starter until no dry flour remains. Cover and
-    let sit at room temperature for 5 hours. Measure out amount of starter
-    called for in bread recipe and transfer to second bowl. Cover and
-    refrigerate for at least 12 hours or up to 18 hours. Remaining starter
-    should be refrigerated and maintained as directed.
+4. TO STORE AND MAINTAIN MATURE STARTER: Measure out 1/4 cup (2 ounces)
+   starter and transfer to clean bowl; discard remaining starter. Stir
+   1/2 cup (2 1/2 ounces) all-purpose flour and 1/4 cup (2 ounces)
+   room-temperature water into starter until no dry flour remains. Transfer
+   to clean container that can be loosely covered (plastic container or mason
+   jar with its lid inverted) and let sit at room temperature for 5 hours.
+   Cover and transfer to refrigerator. If not baking regularly, repeat
+   process weekly.
+5. TO PREPARE FOR BAKING: Eighteen to 24 hours before baking, measure out
+   1/2 cup (4 ounces) starter and transfer to clean bowl; discard remaining
+   starter. Stir 1 cup (5 ounces) all-purpose flour and 1/2 cup (4 ounces)
+   room-temperature water into starter until no dry flour remains. Cover and
+   let sit at room temperature for 5 hours. Measure out amount of starter
+   called for in bread recipe and transfer to second bowl. Cover and
+   refrigerate for at least 12 hours or up to 18 hours. Remaining starter
+   should be refrigerated and maintained as directed.

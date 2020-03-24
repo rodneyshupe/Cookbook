@@ -706,7 +706,7 @@ Directions
 3. Season bell peppers and onion with with salt and pepper, to taste. Add bell
    peppers and onion to pan (add oil if required), and cook, tossing
    occasionally, until charred and tender, about 6-8 minutes.
-5. Thinly slice steak against the grain and toss back into the pan to reheat
+4. Thinly slice steak against the grain and toss back into the pan to reheat
    slightly. Serve immediately from the pan with tortillas and sides of salsa
    and crema.
 
