@@ -114,7 +114,7 @@ Source: `Americas Test Kitchen <https://www.americastestkitchen.com/recipes/9249
 
 Ingredients
 -----------
-- 2 (1-pound) boneless strip steaks, 1 1/2 inches thick, trimmed
+- 2 boneless strip steaks 1 pound (450g) ea, 1 1/2 inches thick, trimmed
 - Kosher salt and pepper
 - 4 tablespoons unsalted butter, softened
 - 2 tablespoons minced shallots
@@ -143,7 +143,6 @@ Directions
    aluminum foil, and let rest for 5 to 10 minutes. Slice steaks 1/2 inch
    thick and serve.
 
-
 .. raw:: pdf
 
    PageBreak recipePage
@@ -159,14 +158,12 @@ Pan-Seared Thick-Cut Strip Steaks
 | Prep Time: 5 minutes | Cooking Time: 35 minutes | Yield: 4 servings |
 +----------------------+--------------------------+-------------------+
 
-Source: `Cooks
-Illustrated <https://www.cooksillustrated.com/recipes/3564-pan-seared-thick-cut-strip-steaks>`__
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/3564-pan-seared-thick-cut-strip-steaks>`__
 
 Ingredients
 -----------
 
--  2 boneless strip steaks (1 1/2 to 1 3/4 inches thick (about 1 pound
-   each) (see note above)
+-  2 boneless strip steaks 1 pound (450g) and 1 1/2 to 1 3/4 inches thick (see note above)
 -  Kosher salt and ground black pepper
 -  1 tablespoon vegetable oil
 
@@ -200,8 +197,8 @@ Notes
 -----
 
 -  Rib-eye or filet mignon of similar thickness can be substituted for
-   strip steaks. If using filet mignon, buying a 2-pound center-cut
-   tenderloin roast and portioning it into four 8-ounce steaks yourself
+   strip steaks. If using filet mignon, buying a 2 pound center-cut
+   tenderloin roast and portioning it into four 8 ounce steaks yourself
    will produce more consistent results. If using filet mignon, increase
    the oven time by about 5 minutes.
 -  When cooking lean strip steaks (without an external fat cap) or filet
@@ -236,7 +233,7 @@ Ingredients
 - Salt
 - 1/2 teaspoon grated orange zest plus ½ cup juice
 - 1/4 teaspoon red pepper flakes
-- 2 pounds skirt steak, trimmed and cut with grain into 6- to 8-inch-long steaks
+- 2 pounds (900g) skirt steak, trimmed and cut with grain into 6- to 8-inch-long steaks
 - 2 tablespoons extra-virgin olive oil
 - 1 teaspoon baking soda
 
@@ -285,7 +282,7 @@ Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/8892-grille
 
 Ingredients
 -----------
-- 2 (1-pound) frozen boneless strip or rib-eye steaks, 1 1/2 inches thick, trimmed
+- 2 frozen boneless strip or rib-eye steaks, 1 1/2 inches thick, 1 pound (450g) ea trimmed
 - Kosher salt and pepper
 - 6 tablespoons extra-virgin olive oil
 - 2 tablespoons lemon juice, plus lemon wedges for serving
@@ -341,7 +338,7 @@ Ingredients
 
 - 1 onion, chopped fine
 - 6-8 slices of bacon, chopped fine
-- 2-3 pickles diced (about 5 tbsp) and 2 tbsp pickle juice
+- 2-3 pickles diced (about 5 tablespoons) and 2 tablespoons pickle juice
 - 6 pieces Rouladen inside round steak (about 500g)
 - 4	tablespoons Dijon mustard
 - Salt and pepper
@@ -363,11 +360,11 @@ Directions
 3. Heat 1 tablespoon reserved fat in now-empty skillet over medium-high heat
    until just smoking. Brown rolls on all sides, about 5-8 minutes.  Pour
    broth into pan, cover dish tightly, and roast 45 minutes.
-4. Transfer rolls to plate and reserve pan juices. Heat remaining 2 tbsps.
+4. Transfer rolls to plate and reserve pan juices. Heat remaining 2 tablespoons.
    fat in now empty skillet over medium heat until shimmering. Stir in flour
    and cook until golden and fragrant, about 2 minutes. Whisk in pan juices
    and bring to boil. Simmer over medium-low heat until sauce is slightly
-   thickened, about 10 minutes. Off heat, stir in remaining 1 tbsp. mustard
+   thickened, about 10 minutes. Off heat, stir in remaining 1 tablespoon. mustard
    and pickle juice. Season with pepper. Remove twine from beef.
 5. Serve immediately with potatoes or `Buttered Spaetzle <#buttered-spaetzle>`__
    and `Braised Red Cabbage <#braised-red-cabbage>`__
@@ -392,7 +389,7 @@ Source: `Cooks Country <https://www.cookscountry.com/recipes/6291-grandmas-roast
 Ingredients
 -----------
 
-- 1 (4- to 5-pound) boneless top round roast, tied (see note)
+- 4 to 5 pound (1.8kg to 2.25kg) boneless top round roast, tied (see note)
 - Salt and pepper
 - 1 tablespoon vegetable oil
 - 4 tablespoons unsalted butter
@@ -401,7 +398,7 @@ Ingredients
 - 1 celery rib, cut into 2-inch pieces
 - 1/2 cup all-purpose flour
 - 1 teaspoon tomato paste
-- 2 (10.5-ounce) cans beef consomme (see note)
+- 2 cans 10.5 ounce (310ml) beef consomme (see note)
 - 1 1/2 cups water
 
 Directions
@@ -477,7 +474,7 @@ Directions
    occasionally, until instant-read thermometer inserted in centre reads
    140°F for medium-rare, about 1 hour. Transfer to cutting board; tent with
    foil. Let rest for 15 minutes before thinly slicing across the grain.
-2. While roast is resting, drain all but 2 tbsp fat from pan. Sprinkle in
+2. While roast is resting, drain all but 2 tablespoons fat from pan. Sprinkle in
    flour; cook over medium-high heat, stirring, until golden, about 3 minutes.
    Stir in wine, scraping up browned bits with wooden spoon. Whisk in broth
    and remaining pepper; bring to boil over medium heat. Cook, whisking
@@ -508,7 +505,7 @@ Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/6843-best-p
 Ingredients
 -----------
 
-- 1 (7-pound) first-cut beef standing rib roast (3 bones), meat removed from
+- 1 first-cut beef standing rib roast 7 pound (3.2kg) aprox. 3 bones, meat removed from
   bones, bones reserved
 - Kosher salt and ground black pepper
 - 2 teaspoons vegetable oil
@@ -574,7 +571,7 @@ Equipment
 
 Ingredients
 -----------
--  3 lbs beef chuck beef short ribs
+-  3 pounds (1.4 kg) beef chuck beef short ribs
 -  1 tablespoon light olive oil
 -  1 3/4 cups beef broth
 -  1/4 cup red wine
@@ -587,7 +584,7 @@ Ingredients
 
 Directions
 ----------
-1. Heat oil inpressure cooker then brown short ribs (cut up) in the oil.
+1. Heat oil in pressure cooker then brown short ribs (cut up) in the oil.
    Remove ribs, pour off oil and put short ribs back in pressure cooker.
 2. Add red wine, beef broth, onion, garlic, honey, brown sugar, salt and
    pepper. Bring to high pressure, then reduce heat to low. Cook at high
@@ -614,7 +611,7 @@ Source: `Salt Fat Acid Heat <https://www.saltfatacidheat.com/salt/soy-braised-sh
 
 Ingredients
 -----------
-- 5 pounds meaty short ribs on the bone, 2-3 inches thick
+- 5 pounds (2.26 kg) meaty short ribs on the bone, 2-3 inches thick
 - Salt
 - Neutral tasting oil, such as canola or grapeseed
 - 1/4 cup (60 grams) soy sauce
@@ -678,6 +675,49 @@ Making Dashi
 
    <p style="page-break-before: always"/>
 
+Steak Fajitas
+=============
+
+Ingredients
+-----------
+
+- 2 teaspoons chili powder
+- 1 teaspoon ground cumin
+- 1 teaspoon smoked paprika
+- 1 teaspoon garlic powder
+- Kosher salt and freshly ground black pepper, to taste
+- 1 1/2 pounds (680g) flat iron, skirt, flank, sirloin, or hanger steak
+- 1 red bell pepper, cut into strips
+- 1 yellow or green bell pepper, cut into strips
+- 1 red onion, cut into thick slices
+- 12-14 small `Flour Tortillas <#flour-tortillas>`__.
+- `Salsa <#salsa>`__ or `Salsa Roja <#salsa-roja>`__
+- `Mexican Crema <#mexican-crema>`__ (may sub sour cream)
+
+Directions
+----------
+1. In a small bowl, combine chili powder, cumin, paprika, garlic powder,
+   1 teaspoon salt and 1/2 teaspoon pepper.
+   Season steak with chili powder mixture.
+2. Heat cask iron pan over medium high heat with 1 tablespoon of oil until
+   starting to smoke. Add steak to pan, and cook, flipping once, until
+   desired doneness, about 4-5 minutes per side for medium rare. Remove from
+   pan and let rest 5 minutes.
+3. Season bell peppers and onion with with salt and pepper, to taste. Add bell
+   peppers and onion to pan (add oil if required), and cook, tossing
+   occasionally, until charred and tender, about 6-8 minutes.
+5. Thinly slice steak against the grain and toss back into the pan to reheat
+   slightly. Serve immediately from the pan with tortillas and sides of salsa
+   and crema.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Grilled Spanish Mustard Beef
 ============================
 
@@ -697,7 +737,7 @@ Marinade
 Steak
 ^^^^^
 
--  2 pounds thin sliced beef (any thin flap meat, skirt steak, flank
+-  2 pounds (900g) thin sliced beef (any thin flap meat, skirt steak, flank
    steak, round steak, etc.)
 -  8 `Flour Tortillas <#flour-tortillas>`__
 -  1/4 cup chopped cilantro
@@ -732,7 +772,7 @@ Illustrated <https://www.cooksillustrated.com/recipes/8495-pan-seared-flank-stea
 Ingredients
 -----------
 
--  1 (1 1/2- to 1 3/4-pound) flank steak, trimmed
+-  1 1/2 to 1 3/4 pound (680g to 800g) flank steak, trimmed
 -  2 teaspoons kosher salt
 -  1 teaspoon sugar
 -  1/2 teaspoon pepper
@@ -783,10 +823,9 @@ Sirloin Steak with Boursin Mashed Potatoes
 Ingredients
 -----------
 
--  2 pounds russet potatoes, peeled and sliced 3/4 inch thick
+-  2 pounds (900g) russet potatoes, peeled and sliced 3/4 inch thick
 -  Salt and pepper
--  1 (2-pound) boneless shell sirloin steak, 1 to 1 1/4 inches thick,
-   trimmed and halved widthwise
+-  1 boneless shell sirloin steak, 1 to 1 1/4 inches thick, 2 pounds (900g), trimmed and halved widthwise
 -  1 tablespoon vegetable oil
 -  3/4 cup heavy cream
 -  1/2 (5.2-ounce) package Boursin Garlic and Fine Herbs cheese
@@ -828,7 +867,7 @@ Source: `Bon Appetit <https://www.bonappetit.com/recipe/grilled-sliced-brisket>`
 Ingredients
 -----------
 
--  1 1/2 pound brisket (from point or flat end)
+-  1 1/2 pound (680g) brisket (from point or flat end)
 -  Vegetable oil (for grilling)
 
 Directions
@@ -862,7 +901,7 @@ Serves: 4 as main dish, or 8 as appitizer
 
 Ingredients
 -----------
-- 1 (2-pound) flank steak, trimmed
+- 2 pound (900g) flank steak, trimmed
 - 1/2 cup soy sauce
 - 1/4 cup sugar
 - 3 tablespoons mirin
@@ -940,7 +979,7 @@ Ingredients
 -  2 teaspoons gochugaru (Korean red pepper powder)
 -  1 1/2 teaspoon freshly ground black pepper
 -  1/2 cup soy sauce
--  2 pounds 1/4“-thick cross-cut bone-in beef short ribs (flanken style)
+-  2 pounds (900g ) 1/4“-thick cross-cut bone-in beef short ribs (flanken style)
 -  Vegetable oil (for grilling)
 
 Directions
@@ -979,8 +1018,7 @@ Ingredients
 -  1 teaspoon grated peeled fresh ginger
 -  1/2 teaspoon freshly ground black pepper
 -  1/2 cup chopped scallions + some thinly sliced for garnish
--  2 pounds cross-cut short ribs, each sliced lengthwise about 1/3 inch
-   thick
+-  2 pounds (900g) cross-cut short ribs, each sliced lengthwise about 1/3 inch thick
 
 Directions
 ----------
@@ -1023,7 +1061,7 @@ Ingredients
 -  6 tablespoons sugar
 -  1 tablespoon rice vinegar
 -  3 scallions, green and white parts sliced thin
--  2 1/2 pounds Korean-style beef short ribs that are trimmed of excess
+-  2 1/2 pounds (1.13kg)  Korean-style beef short ribs that are trimmed of excess
    fat and cut no more than 1/4 inch thick.
 
 Directions
@@ -1072,7 +1110,7 @@ Ingredients
 -  1/4 cup soy sauce
 -  1 tablespoon sesame oil
 -  Freshly ground black pepper, to taste (I like 8-10 grinds)
--  3 pounds skirt steak, sliced across the grain and on a diagonal into
+-  3 pounds (1.5 kg) skirt steak, sliced across the grain and on a diagonal into
    1/4-inch slices
 
 Directions
@@ -1102,8 +1140,8 @@ Ingredients
 
 - 2 slices white sandwich bread (crusts discarded), torn into small cubes
 - 1/2 cup buttermilk or 6 tablespoons plain yogurt thinned with 2 tablespoons sweet milk
-- 3/4 pound ground beef chuck ( or 1 pound if omitting ground pork below)
-- 1/4 pound ground pork (to be mixed with ground chuck)
+- 3/4 pound (340g) ground beef chuck ( or 1 pound (450g) if omitting ground pork below)
+- 1/4 pound (110g) ground pork (to be mixed with ground chuck)
 - 1/4 cup grated Parmesan cheese
 - 2 tablespoons minced fresh parsley leaves
 - 1 large egg yolk
@@ -1157,7 +1195,7 @@ Source: `Americas Test Kitchen <https://www.americastestkitchen.com/recipes/3543
 
 Ingredients
 -----------
-- 1 1/2 pounds sirloin steak tips
+- 1 1/2 pounds (680g) sirloin steak tips
 - Salt and pepper
 - 4 tablespoons vegetable oil
 - 10 ounces white mushrooms, sliced thin
@@ -1166,7 +1204,7 @@ Ingredients
 - 1 1/2 cups low-sodium chicken broth
 - 1 1/2 cups low-sodium beef broth
 - 1/3 cup brandy
-- 1/3 pound wide egg noodles (3 cups)
+- 1/3 pound (150g) wide egg noodles (3 cups)
 - 2/3 cup sour cream
 - 2 teaspoons lemon juice
 
@@ -1207,7 +1245,7 @@ Ingredients
 -----------
 - 2 slices high-quality white sandwich bread, torn into quarters
 - 1/4 cup whole milk
-- 2 pounds 85 percent lean ground beef
+- 2 pounds (900g) 85 percent lean ground beef
 - Salt and pepper
 - 2 tablespoons vegetable oil
 - 2 onions, minced

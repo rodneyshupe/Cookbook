@@ -26,11 +26,11 @@ Ingredients
 
 -  1 1/2 cups water
 -  1 cup milk
--  8 ounces elbow macaroni
--  4 ounces velveeta, shredded *(to shred put in freezer for 30 min)*
+-  8 ounces (225g) elbow macaroni
+-  4 ounces (113g) velveeta, shredded *(to shred put in freezer for 30 min)*
 -  1/2 teaspoon Dijon mustard
 -  Small pinch cayenne pepper
--  4 ounces extra-sharp cheddar cheese, shredded (1 cup)
+-  4 ounces (113g) extra-sharp cheddar cheese, shredded (1 cup)
 -  1/3 cup panko bread crumbs
 -  1 tablespoon extra-virgin olive oil
 -  Salt and pepper
@@ -79,13 +79,12 @@ Ingredients
 -  3 garlic cloves, minced
 -  1 1/2 tablespoons all-purpose flour
 -  1 1/2 cups chicken broth
--  1/2 (5.2-ounce) package Boursin Garlic and Fine Herbs cheese,
-   crumbled
--  1 ounce Parmesan cheese, grated (1/2 cup), plus extra for serving
+-  1/2 package, 5.2 ounce (150g) Boursin Garlic and Fine Herbs cheese, crumbled
+-  1 ounce (28g) Parmesan cheese, grated (1/2 cup), plus extra for serving
 -  1 cup frozen peas, thawed
--  1 pound asparagus, trimmed and cut on bias into 1-inch lengths
+-  1 pound (450g) asparagus, trimmed and cut on bias into 1-inch lengths
 -  Salt and pepper
--  1 pound penne
+-  1 pound (450g) penne
 -  2 tablespoons minced fresh chives
 -  1 tablespoon lemon zest
 
@@ -136,15 +135,15 @@ Lasagna
 - Vegetable oil spray
 - 17 curly-edged lasagna noodles
 - 1 tablespoon salt
-- 12 ounces mozzarella cheese, shredded (3 cups)
+- 12 ounces (340g) mozzarella cheese, shredded (3 cups)
 - 1/4 cup grated grated Pecorino Romano cheese (Can substitute Parmesan)
 
 Meat Sauce
 ^^^^^^^^^^
 - 2	slices hearty white sandwich bread, torn into small pieces
 - 1/4	cup milk
-- 1 lb 90 percent lean ground beef
-- 1/2 lb hot italian sasage removed from casing
+- 1 pound (450g) 90 percent lean ground beef
+- 1/2 pound (225g) hot italian sasage removed from casing
 - 3/4 teaspoon salt
 - 1/2 teaspoon pepper
 - 1 tablespoon extra-virgin olive oil
@@ -152,12 +151,12 @@ Meat Sauce
 - 6 garlic cloves, minced
 - 1 teaspoon dried oregano
 - 1/4 teaspoon red pepper flakes
-- 1 (28-ounce) can crushed tomatoes
+- 1 can, 28 ounce (828ml), crushed tomatoes
 
 Cream Sauce
 ^^^^^^^^^^^
-- 8 ounces (1 cup) cottage cheese
-- 4 ounces Pecorino Romano cheese, grated (2 cups) (Can substitute Parmesan)
+- 8 ounces (225g), approx 1 cup, cottage cheese
+- 4 ounces (113g) Pecorino Romano cheese, grated (2 cups) (Can substitute Parmesan)
 - 1 cup heavy cream
 - 2 garlic cloves, minced
 - 1 teaspoon cornstarch
@@ -212,6 +211,83 @@ increasing covered baking time to 55 minutes.
 
    <p style="page-break-before: always"/>
 
+From the Freezer Meaty Lasagna
+==============================
+
++----------------------------+----------------------+---------------------+
+| Prep Time: 15 + 65 minutes | Cooking Time: 1 hour | Yield: 4-6 servings |
++----------------------------+----------------------+---------------------+
+
+Source: `Cooks Country <https://www.cookscountry.com/recipes/3195-from-the-freezer-meaty-lasagna>`__
+
+Ingredients
+-----------
+
+Tomato Meat Sauce
+^^^^^^^^^^^^^^^^^
+
+- 1 1/2 tablespoons olive oil
+- 1 onion, chopped fine
+- 6 cloves garlic, minced
+- 1/4 teaspoon red pepper flakes
+- 1/2 pound (225g) ground beef chuck (85 percent lean)
+- 1/2 pound (225g) ground pork
+- 1 teaspoon salt
+- 1/2 teaspoon ground black pepper
+- 1/4 cup heavy cream
+- 1 can tomato puree, 28 ounces (828ml)
+- 1 can diced tomatoes, 28 ounces (828ml)
+- 1/4 cup chopped fresh basil
+
+Ricotta, Mozzarella, and Pasta Layers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- 1 3/4 cups whole-milk ricotta
+- 1 1/4 cups Grated Parmesan cheese
+- 1/4 cup chopped fresh basil
+- 2 large eggs, lightly beaten
+- 1/4 teaspoon salt
+- 1/4 teaspoon ground black pepper
+- 5 cups shredded whole milk mozzarella cheese
+- 12 no-boil lasagna noodles, from one 8 or 9 ounce (225g or 255g) package
+
+Directions
+----------
+1. For the sauce: Heat oil in large Dutch oven over medium heat until
+   shimmering, about 2 minutes. Add onion and cook until softened, about
+   2 minutes. Add garlic and pepper flakes and cook until fragrant, about
+   30 seconds. Increase heat to medium-high, add ground meats, salt, and
+   pepper, and cook, breaking meat into small pieces, until meat is no longer
+   pink but not browned, about 4 minutes. Add cream and simmer until liquid
+   evaporates and only fat remains, about 4 minutes. Stir in tomato puree,
+   diced tomatoes, and basil and bring to simmer. Reduce heat to low and
+   simmer until flavors blend, about 3 minutes. Remove pot from heat, cool
+   sauce for 20 minutes, then refrigerate until cool, at least 20 minutes.
+2. For the pasta layers: Mix ricotta, 1 cup Parmesan, basil, eggs, salt, and
+   pepper in bowl. Spread 1/4 cup meat sauce over bottom of 13 by 9-inch
+   baking dish. Place 3 noodles crosswise on top of sauce, evenly space
+   9 tablespoons ricotta mixture over noodles, and sprinkle evenly with
+   1 1/4 cups mozzarella; spoon 1 1/2 cups sauce over cheese. Repeat layering
+   of noodles, ricotta mixture, mozzarella, and sauce two more times. Place
+   3 remaining noodles on top and spread with remaining sauce. Cover with
+   remaining 1 1/4 cups mozzarella and remaining 1/4 cup Parmesan.
+3. Spray large sheet of aluminum foil with nonstick cooking spray and tightly
+   cover lasagna. Wrap with plastic wrap several times and cover with another
+   layer of foil. Freeze.
+4. When ready to serve: Adjust oven rack to middle position and heat oven to
+   375 degrees. Remove all wrapping except foil layer that is flush against
+   lasagna. Bake 1 hour and 15 minutes, then remove foil. Continue baking
+   until cheese is spotty brown and sauce is bubbling, about 30 minutes. Let
+   lasagna cool for 15 minutes. Serve.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Skillet Baked Ziti
 ==================
 
@@ -226,9 +302,9 @@ Ingredients
 - 1 tablespoon olive oil
 - 6 garlic cloves, minced
 - 1/4 teaspoon red pepper flakes
-- 1 (28-ounce) can crushed tomatoes
+- 1 can, 28 ounce (828ml), can crushed tomatoes
 - 3 cups water
-- 12 ounces ziti (3 3/4 cups) (You can substutue Penne)
+- 12 ounces (340g) ziti (3 3/4 cups) (You can substutue Penne)
 - 1/2 cup heavy cream
 - 1/2 cup grated Parmesan cheese
 - 1/4 cup minced fresh basil leaves
@@ -271,11 +347,11 @@ Source: `Cooks Country <https://www.cookscountry.com/recipes/4480-baked-gnocchi-
 Ingredients
 -----------
 - 3 tablespoons extra virgin olive oil
-- 1 pound vacuum-packet gnocchi (see note)
+- 1 pound (450g) vacuum-packet gnocchi (see note)
 - 1 onion, chopped fine
 - 6 garlic cloves, minced
 - 1/8 teaspoon red pepper flakes
-- 1 (28-ounce) can crushed tomatoes
+- 1 can crushed tomatoes, 28 ounce (828ml)
 - 1 cup water
 - 1/2 cup chopped fresh basil
 - 2 cups shredded mozzarella cheese
@@ -320,12 +396,12 @@ Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/9383-weekni
 
 Ingredients
 -----------
-- 1 pound 93 percent lean ground beef
+- 1 pound (450g) 93 percent lean ground beef
 - 2 tablespoons water
 - 1/4 teaspoon baking soda
 - Salt and pepper
 - 4 cups beef broth
-- 6 ounces pancetta, chopped coarse
+- 6 ounces (170g) pancetta, chopped coarse
 - 1 onion, chopped coarse
 - 1 large carrot, peeled and chopped coarse
 - 1 celery rib, chopped coarse
@@ -333,8 +409,8 @@ Ingredients
 - 1 tablespoon extra-virgin olive oil
 - 3 tablespoons tomato paste
 - 1 cup dry red wine
-- 1 ounce Parmesan cheese, grated (1/2 cup), plus extra for serving
-- 1 pound tagliatelle (can substitute papardelle or fettuccine)
+- 1 ounce (28g) Parmesan cheese, grated (1/2 cup), plus extra for serving
+- 1 pound (450g) tagliatelle (can substitute papardelle or fettuccine)
 
 Directions
 ----------

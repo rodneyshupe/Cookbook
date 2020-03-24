@@ -177,8 +177,7 @@ Ingredients
 -  2 teaspoons five-spice powder
 -  1 teaspoon red food coloring (optional)
 -  1 teaspoon ground white pepper
--  2 (2 1/2- to 3-pound) racks St. Louis-style spareribs, cut into
-   individual ribs
+-  2 racks St. Louis-style spareribs, 2 1/2 to 3 pound (1.1 to 1.4 kg), cut into individual ribs
 -  2 tablespoons toasted sesame oil
 
 Directions
@@ -253,10 +252,10 @@ Ingredients
 - 2 tablespoons water
 - 1 teaspoon ground cumin
 - Salt and pepper
-- 1 pound ground pork
+- 1 pound (450g) ground pork
 - 1 tablespoon Sriracha sauce
 - 2 garlic cloves, minced
-- 1 head Bibb lettuce (8 ounces), leaves separated
+- 1 head Bibb lettuce, 8 ounces (225g), leaves separated
 - 1 avocado, halved, pitted, and sliced thin
 - 1 mango, peeled, pitted, and chopped fine
 
@@ -296,8 +295,7 @@ Pork
 -  1 cup plus 2 teaspoons table salt
 -  1/2 cup plus 2 tablespoons sugar
 -  3 tablespoons plus 2 teaspoons liquid smoke
--  1 boneless pork butt (about 5 pounds), cut in half horizontally (see
-   step by step below)
+-  1 boneless pork butt, about 5 pounds (2.3kg), cut in half horizontally (see step by step below)
 -  1/4 cup yellow mustard
 -  2 tablespoons ground black pepper
 -  2 tablespoons smoked paprika (see note)
@@ -377,8 +375,8 @@ Bacon explosion
 Ingredients
 -----------
 
--  2 pounds thick-cut sliced bacon
--  1 1/2 pounds Italian sausage, casings removed
+-  2 pounds (900g) thick-cut sliced bacon
+-  1 1/2 pounds (680g) Italian sausage, casings removed
 -  3 tablespoons barbecue rub
 -  3/4 cup barbecue sauce.
 
@@ -440,7 +438,7 @@ Ingredients
 - 1 1/2 teaspoons dry mustard
 - 1/2 teaspoon garlic, minced to paste
 - 1/4 teaspoon cayenne pepper
-- 4 (6- to 8-ounce) boneless pork chops, 3/4 to 1 inch thick
+- 4 boneless pork chops 3/4 to 1 inch thick, 6 to 8 ounce (170g to 225g), trimmed
 
 Directions
 ----------
@@ -466,6 +464,48 @@ Directions
 
    <p style="page-break-before: always"/>
 
+Mustardy Apple Butter-Glazed Pork Chops
+=======================================
+
++----------------------+----------------------+-------------------+
+| Prep Time: 5 minutes | Cooking Time: 1 hour | Yield: 4 servings |
++----------------------+----------------------+-------------------+
+
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/12212-mustardy-apple-butter-glazed-pork-chops>`__
+
+Ingredients
+-----------
+- 3 tablespoons apple butter
+- 2 tablespoons maple syrup
+- 1 tablespoon Dijon mustard
+- 1 teaspoon soy sauce
+- 1/2 teaspoon cider vinegar
+- 1 teaspoon kosher salt
+- 4 boneless pork chops 3/4 to 1 inch thick, 6 to 8 ounce (170g to 225g), trimmed
+- 2 teaspoons minced fresh parsley
+
+Directions
+----------
+1. Adjust oven rack to middle position and heat oven to 275 degrees. Line
+   rimmed baking sheet with aluminum foil and set wire rack in sheet. Spray
+   rack with vegetable oil spray. Stir apple butter, maple syrup, mustard,
+   soy sauce, and vinegar together in small bowl.
+2. Sprinkle salt evenly over both sides of chops. Place chops on prepared
+   wire rack and brush 1 teaspoon glaze on top and sides of each chop. Roast
+   until meat registers 135 to 137 degrees, 40 to 45 minutes.
+3. Remove sheet from oven and heat broiler. Brush 1 tablespoon glaze on top
+   and sides of each chop. Return sheet to oven and broil until glaze is
+   bubbly and slightly charred in spots, 3 to 6 minutes. Let rest for
+   5 minutes. Sprinkle with parsley and serve.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Bacon-Wrapped Pork Roast with Peach Sauce
 =========================================
 
@@ -479,14 +519,13 @@ Ingredients
 -----------
 - Kosher salt and pepper
 - 1 tablespoon sugar
-- 1 (3 1/2-pound) boneless center-cut pork loin roast
+- 1 boneless center-cut pork loin roast, about 3 1/2 pounds (1.6kg)
 - 1 recipe of `Peach Sauce <#peach-sauce>`__
 - 2 teaspoons herbes de Provence
 - 10 slices bacon
 
 Directions
 ----------
-
 1. Combine 4 teaspoons salt and sugar in bowl. Remove fat cap and silverskin
    from roast. Rub roast with salt-sugar mixture, wrap in plastic wrap, and
    refrigerate for at least 1 hour or up to 24 hours.
@@ -574,7 +613,7 @@ Broiled Pork Tenderloin for Two
 Ingredients
 -----------
 
--  1 (pound) pork tenderloin, trimmed
+-  1 pound (450g) pork tenderloin, trimmed
 -  1 teaspoon kosher salt
 -  3/4 teaspoon vegetable oil
 -  1/4 teaspoon pepper
@@ -614,7 +653,7 @@ Ssam Sauce Grilled Pork Tenderloin
 Ingredients
 -----------
 
-- 1 (pound) pork tenderloin, trimmed
+- 1 pound (450g) pork tenderloin, trimmed
 - salt and ground black pepper
 - onion powder
 - 1/4 cup `Ssam Sauce <#ssam-sauce>`__
@@ -717,7 +756,7 @@ Ingredients
 Roast
 ^^^^^
 
--  1 ham bone-in with skin, 6 to 8 pounds, preferably shank end, rinsed
+-  1 ham bone-in with skin, 6 to 8 pounds (2.7 to 3.6 kg), preferably shank end, rinsed
 
 Brine
 -----
@@ -844,7 +883,7 @@ Ingredients
 -  1/2 cup gochujang (Korean hot pepper paste)
 -  1/2 cup mirin (sweet Japanese rice wine)
 -  1/4 cup vegetable oil, plus more for grilling
--  1 1/2 pound skinless, boneless pork shoulder (Boston butt), sliced 3/4" thick
+-  1 1/2 pound (680g) skinless, boneless pork shoulder (Boston butt), sliced 3/4" thick
 
 Directions
 ----------
@@ -883,9 +922,9 @@ Ingredients
 - 4 potato sandwich rolls (Kaiser rolls can be substituted)
 - 2 tablespoons mayonnaise
 - 1 1/2 tablespoons yellow mustard, such as French's
-- 1/4 pound thinly sliced baked ham, preferably Virginia or Black Forest
-- 1/2 pound cold roast pork, sliced thin
-- 1/4 pound thinly sliced Swiss cheese
+- 1/4 pound (113g) thinly sliced baked ham, preferably Virginia or Black Forest
+- 1/2 pound (225g) cold roast pork, sliced thin
+- 1/4 pound (113g) thinly sliced Swiss cheese
 - 3 tablespoons unsalted butter, melted
 
 Directions

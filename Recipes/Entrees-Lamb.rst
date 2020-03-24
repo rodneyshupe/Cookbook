@@ -75,8 +75,8 @@ Ingredients
 - 2 clove garlic, minced
 - kosher salt
 - fresh cracked pepper
-- 5 1/4 (150g) oz bread crumbs
-- 3.5 oz (100g) macadamia nuts, roughly chopped
+- 5 1/4 ounce (150g) bread crumbs
+- 3.5 ounce (100g) macadamia nuts, roughly chopped
 
 Directions
 ----------
@@ -120,7 +120,7 @@ Lamb Curry
 Ingredients
 -----------
 
--  2 1/2 pounds boneless lamb roast, trimmed and cut into 3/4 inch
+-  2 1/2 pounds (1.1 kg) boneless lamb roast, trimmed and cut into 3/4 inch
    pieces
 -  salt and ground black pepper
 -  3 tablespoons vegetable oil
@@ -138,8 +138,7 @@ Ingredients
 Directions
 ----------
 
-1. Adjust an oven rack to the lower-middle position and heat the oven to
-   325°F.
+1. Adjust an oven rack to the lower-middle position and heat the oven to 325°F.
 2. Pat the lamb dry with paper towels and season with salt and pepper.
    Heat 1 tablespoon of the oil in a large Dutch oven over medium-high
    heat until just smoking. Add half of the meat and cook, stirring
@@ -164,6 +163,5 @@ Directions
 
 Variations
 ----------
-
 Add 1 can of chickpeas and 1 additional cup of water 1 1/2 hours into
 cooking process.

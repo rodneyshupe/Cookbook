@@ -122,9 +122,84 @@ Directions
 ----------
 1. Boil and pat dry spinach leaves.
 2. Combine mayonnaise and cream in a bowl. Fold in dried items into mixture.
-3. Hollow out loaf leaving 1/2 inch aound edge and bottom, reserving removed
+3. Hollow out loaf leaving 1/2 inch around edge and bottom, reserving removed
    bread. dice breading into bite size pieces.
 4. Fill hollowed out loaf with mixture and serve with bread pieces.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Salsa
+=====
+
+Source: `Cooks Country <https://www.cookscountry.com/recipes/6722-five-minute-fresh-tomato-salsa>`__
+
+Yield: about 3 cups
+
+Ingredients
+-----------
+- 1/2 small red onion, peeled and quartered
+- 1/2 cup fresh cilantro leaves
+- 1/4 cup drained jarred pickled jalapeños
+- 2 tablespoons lime juice
+- 2 garlic cloves, peeled
+- 1/2 teaspoon salt
+- 2 pounds fresh tomatoes, cored, seeded, and chopped OR 2 (15oz) cans diced tomatoes
+
+Directions
+----------
+1. Pulse onion, cilantro, jalapeños, lime juice, garlic, and salt in
+   food processor until coarsely chopped.
+2. Add tomatoes and pulse until combined, about three 1-second pulses.
+   Place salsa in fine-mesh strainer and drain briefly. Transfer to bowl.
+   Serve. (Salsa can be refrigerated in airtight container for 2 days.)
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Salsa Roja
+==========
+
+Source: `Cooks Country <https://www.cookscountry.com/recipes/9411-salsa-roja>`__
+
+Yield: about 1 1/2 cups
+
+Ingredients
+-----------
+- 1 pound plum tomatoes, cored and chopped
+- 2 garlic cloves, chopped
+- 1 jalapeño chile, stemmed, seeded, and chopped
+- 2 tablespoons chopped fresh cilantro
+- 1 tablespoon lime juice
+- 1 teaspoon Salt
+- 1/4 teaspoon red pepper flakes
+
+Directions
+----------
+1. Combine tomatoes and garlic in bowl and microwave, uncovered, until
+   steaming and liquid begins to pool in bottom of bowl, about 4 minutes.
+   Transfer tomato mixture to fine-mesh strainer set over bowl and let drain
+   for 5 minutes.
+
+2. Combine jalapeño, cilantro, lime juice, 1 teaspoon salt, pepper flakes,
+   and drained tomato mixture in blender. Process until smooth, about
+   45 seconds. Season with salt to taste. Serve warm. (Salsa can be
+   refrigerated for up to 3 days. Cover and microwave briefly to rewarm
+   before serving.)
+
+Note
+----
+To make this salsa spicier, reserve and add the jalapeño seeds to the blender before processing
 
 .. raw:: pdf
 

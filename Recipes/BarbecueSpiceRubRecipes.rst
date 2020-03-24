@@ -2,16 +2,16 @@
 
    OddPageBreak tocPage
 
-**************************
-Barbecue Spice Rub Recipes
-**************************
+******************************************
+Spice Mixes and Barbecue Spice Rub Recipes
+******************************************
 
 .. contents::
    :local:
    :depth: 1
 
-*The directions for all these Rub recipes is as follows unless otherwise
-specified.*
+*The directions for all these mixes and rub recipes is as follows unless
+otherwise specified.*
 
 1. Combine all ingredients in a bowl and mix.
 2. Transfer to a jar, cover. Use immediately or store in a cool, dark
@@ -45,6 +45,23 @@ Ingredients
 -  1/2 to 1 teaspoon cayenne pepper
 -  1/2 teaspoon celery seeds
 
+
+
+Basic Pork Rub
+==============
+
+This is a very simple basic rub for pork.
+
+Ingredients
+-----------
+
+-  1/4 cup brown sugar
+-  1/4 cup paprika
+-  2 tablespoons black pepper
+-  2 tablespoons salt
+-  1 tablespoon cayenne
+-  2 teaspoons dry mustard
+
 .. raw:: pdf
 
    PageBreak recipePage
@@ -70,19 +87,11 @@ Ingredients
 - 1 teaspoons salt
 - 1 teaspoons pepper
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
 
 Dave's Cajun Spice Mix
 ======================
 
-This recipe is from my friend David. It is a really good Cajun spice
-mix.
+This recipe is from my friend David. It is a really good Cajun spice mix.
 
 Yield: ~1 cup
 
@@ -121,29 +130,6 @@ Ingredients
 -  2 tablespoons ground cumin
 -  4 teaspoons kosher salt
 -  4 teaspoons black pepper
-
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
-
-Basic Pork Rub
-==============
-
-This is a very simple basic rub for pork.
-
-Ingredients
------------
-
--  1/4 cup brown sugar
--  1/4 cup paprika
--  2 tablespoons black pepper
--  2 tablespoons salt
--  1 tablespoon cayenne
--  2 teaspoons dry mustard
 
 .. raw:: pdf
 
@@ -248,14 +234,8 @@ Ingredients
 -  4 teaspoons chili powder
 -  4 teaspoons black pepper
 -  4 teaspoons paprika
--  1/2 teaspoon heated and ground cumin
+-  1/2 teaspoon ground cumin
 -  1/2 teaspoon cayenne
-
-Directions
-----------
-
-1. Heat ground cumin.
-2. Mix all items together.
 
 .. raw:: pdf
 
@@ -286,13 +266,6 @@ Directions
 1. Combine ingredients and pack firmly around brisket 12-24 hours before
    smoking. Wrap in plastic wrap or place in a large plastic bag.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
 
 Simple Sweet Rub
 ================
@@ -437,11 +410,6 @@ Ingredients
 -  1 teaspoon dried thyme
 -  1 teaspoon dried basil
 
-Directions
-----------
-
-Combine ingredients. Rub into both sides of ribs.
-
 .. raw:: pdf
 
    PageBreak recipePage
@@ -533,12 +501,6 @@ Ingredients
 -  1 tablespoon garlic powder
 -  1 tablespoon onion powder
 
-Directions
-----------
-
-1. Combine ingredients and rub into ribs. Store any remaining rub in a
-   cool, dry place.
-
 .. raw:: pdf
 
    PageBreak recipePage
@@ -564,8 +526,6 @@ Ingredients
 -  1/2 teaspoon cayenne pepper
 -  1 1/2 teaspoons garlic powder
 
-Directions
-----------
-
-Mix all ingredients. Apply spice mix to ribs on both sides. Use
-liberally– none should be left over.
+Note
+----
+Enough for one rack of ribs on both sides. Use liberally, none should be left over.

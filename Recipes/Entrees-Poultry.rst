@@ -88,7 +88,7 @@ Sauce
 
 Kebabs
 ^^^^^^
-- 2 pounds boneless, skinless chicken thighs or breasts, trimmed of excess
+- 2 pounds (900g) boneless, skinless chicken thighs or breasts, trimmed of excess
   fat and cut into 1-inch cubes (see note)
 - 2 teaspoons kosher salt
 - 2 tablespoons sweet paprika
@@ -146,9 +146,9 @@ Beer Can Chicken
 Ingredients
 -----------
 
--  1 large whole chicken (3 to 5 pounds)
+-  3 to 5 pound (1.4 to 2.3kg) large whole chicken
 -  3 tablespoons `Basic Barbecue Rub <#basic-barbecue-rub>`__
--  1 can (12 ounces) beer
+-  1 can beer, 12 ounces (354ml)
 
 Directions
 ----------
@@ -219,7 +219,7 @@ Source: `Aussie BBQ Forum - Captain Cook <https://www.aussiebbq.info/forum/viewt
 
 Ingredients
 -----------
-- 1 3-4lb Chicken
+- 3 to 4 pound (1.4 to 1.8kg) Chicken
 - 1/4 cup salt
 - 1/4 cup brown sugar
 - 1 teaspoon ground garlic powder
@@ -240,7 +240,7 @@ Directions
 4. Spread olive oil over chicken and then sprinkle liberally with lemon peppers
    and and herbs de provence.
 5. Preheat the grill on high for 10 minutes. Roast the chicken indirectly on
-   a roasting rack for about 15 minutes per lb until the internal meat
+   a roasting rack for about 15 minutes per pound until the internal meat
    temperature is 165°F.
 6. Serve with fresh buttered rolls, salad and a bottle of bubbly.
 
@@ -274,7 +274,7 @@ Ingredients
 - 2 tablespoons extra-virgin olive oil
 - 1 teaspoon minced fresh rosemary
 - 1 garlic clove, minced
-- 1 (3 1/2- to 4-pound) whole chicken, giblets discarded
+- 3 1/2 to 4 pound (1.6kg to 1.8kg) whole chicken, giblets discarded
 - Salt and pepper
 
 Directions
@@ -324,7 +324,7 @@ Ingredients
 - 1 lemon
 - 1 head of garlic
 - 1/4 cup (1/2 stick) unsalted butter or extra-virgin olive oil
-- 1 3–4 lb. whole chicken
+- 3 to 4 pound (1.4 to 1.8kg) whole chicken
 - Kosher salt
 - Freshly ground black pepper
 
@@ -334,7 +334,7 @@ Directions
    crosswise and remove any visible seeds. Cut 1 head of garlic in half
    crosswise. Melt ½ stick butter in a small saucepan or microwave in a small
    bowl.
-2. Place 1 3–4-lb. whole chicken on a cutting board (best to use a plastic
+2. Place whole chicken on a cutting board (best to use a plastic
    one you can sterilize) and pat dry with paper towels.  With chicken breast
    facing up and legs pointing toward you, use a sharp knife to slice through
    loose area of skin draped between leg and breast, making about a 3"-long
@@ -385,7 +385,7 @@ Chicken
 
 -  1 tablespoon kosher salt
 -  1/2 teaspoon pepper
--  1 (3 1/2- to 4-pound) whole chicken, giblets discarded
+-  3 1/2 to 4 pound (1.6 to 1.8kg) whole chicken, giblets discarded
 -  1 tablespoon olive oil
 
 Pan Sauce
@@ -451,11 +451,11 @@ Source: `Food52.com <https://food52.com/recipes/75666-buttermilk-roast-chicken-w
 
 Ingredients
 -----------
-- 1 whole chicken, about 4 pounds
+- 1 whole chicken, about 4 pounds (1.8 kg)
 - 1 cup buttermilk (substitute 1 1/2 teaspoons of cream of tartar and 1 cup regular milk)
 - 1 cup pickle juice, from any type of pickles (dill, bread and butter, spicy garlic, etc.)
 - 1 pinch kosher salt, to taste
-- 1 1/2 pounds baby potatoes, halved, or small golden potatoes, peeled and sliced 1/4-inch thick (up to 2 pounds of potatoes)
+- 1 1/2 pounds (680g) baby potatoes, halved, or small golden potatoes, peeled and sliced 1/4-inch thick (up to 2 pounds of potatoes)
 - 1 splash olive oil
 - 1 tablespoon butter, softened
 - 4 cornichons, finely chopped
@@ -507,16 +507,16 @@ Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/10920-roast
 
 Ingredients
 -----------
-- 1 (4-pound) whole chickens, giblets discarded
+- 4 pound (1.8kg) whole chickens, giblets discarded
 - Kosher salt and pepper
-- 4 (1-inch-thick) slices country-style bread (8 ounces), bottom crust removed, cut into ¾- to 1-inch pieces (5 cups)
+- 4 (1-inch-thick) slices country-style bread, 8 ounces (225g), bottom crust removed, cut into 3/4 to 1 inch pieces (5 cups)
 - 1/4 cup chicken broth
 - 6 tablespoons plus 2 teaspoons extra-virgin olive oil
 - 2 tablespoons champagne vinegar
 - 1 teaspoon Dijon mustard
 - 3 scallions, sliced thin
 - 2 tablespoons dried currants
-- 5 ounces (5 cups) baby arugula
+- 5 ounces (140g) approx. 5 cups baby arugula
 
 Directions
 ----------
@@ -578,7 +578,7 @@ Ingredients
 - 1/4 cup olive oil
 - 2 tbsp kosher salt
 - 1 tsp dried oregano
-- 4-6 1/4 Chickens (Legs and Thighs) OR 1 3-4lb Chicken, butterflied
+- 4-6 1/4 Chickens (Legs and Thighs) OR 3 to 4 pound (1.4 to 18kg) Chicken, butterflied
 
 Directions
 ----------
@@ -614,7 +614,7 @@ Ingredients
 
 Hens
 ^^^^
-- 4 Cornish game hens (1 1/4 to 1 1/2 pounds each), giblets discarded
+- 4 Cornish game hens, 1 1/4 to 1 1/2 pounds (570g to 680g) each, giblets discarded
 - 1 cup fresh cilantro leaves and stems, chopped coarse
 - 12 garlic cloves, peeled
 - 1/4 cup packed light brown sugar
@@ -686,7 +686,7 @@ Ingredients
 
 -  6 tablespoons table salt (or 12 tablespoons kosher salt)
 -  6 tablespoons sugar
--  12 whole chicken wings (about 2 1/2 pounds) separated into sections
+-  12 whole chicken wings, about 2 1/2 pounds (1.1kg), separated into sections
    wingtips discarded
 -  Ground black pepper
 -  1 1/2 tablespoons unsalted butter
@@ -792,7 +792,7 @@ Ingredients
 Marinade
 ^^^^^^^^
 
--  3 1/2 pound chicken, cut in 8 pieces
+-  3 1/2 pound (1.6kg) chicken, cut in 8 pieces
 -  1 tsp salt
 -  1 tsp black pepper
 -  1 tsp paprika
@@ -860,8 +860,7 @@ Marinade
 -  1 1/2 teaspoons garlic powder
 -  1 1/2 teaspoons ground black pepper
 -  1 teaspoon hot pepper sauce
--  8 split bone-in chicken breasts (10 to 12 ounces each), skin removed
-   and ribs trimmed with kitchen shears
+-  8 split bone-in chicken breasts, 10 to 12 ounces (280g to 340g) each, skin removed and ribs trimmed with kitchen shears
 
 Seasoned flour
 ^^^^^^^^^^^^^^
@@ -943,7 +942,7 @@ Chicken
 -  1 tablespoon liquid smoke
 -  1 teaspoon unflavored gelatin (ClearJel)
 -  Salt and pepper
--  2 pounds boneless, skinless chicken thighs, halved crosswise
+-  2 pounds (900g) boneless, skinless chicken thighs, halved crosswise
 -  Hot sauce
 
 Directions
@@ -1010,7 +1009,7 @@ Illustrated <https://www.cooksillustrated.com/recipes/9384-chicken-and-sausage-g
 Ingredients
 -----------
 
--  1 cup (5 ounces) all-purpose flour
+-  1 cup (5 ounces or 145g) all-purpose flour
 -  1 tablespoon vegetable oil
 -  1 onion, chopped fine
 -  1 green bell pepper, chopped fine
@@ -1022,8 +1021,8 @@ Ingredients
 -  1/2 teaspoon cayenne pepper
 -  Salt and pepper
 -  4 cups chicken broth, room temperature
--  2 pounds boneless, skinless chicken thighs, trimmed
--  8 ounces andouille sausage, halved and sliced 1/4 inch thick
+-  2 pounds (900g) boneless, skinless chicken thighs, trimmed
+-  8 ounces (225g) andouille sausage, halved and sliced 1/4 inch thick
 -  6 scallions, sliced thin
 -  1 teaspoon distilled white vinegar
 -  Hot sauce
@@ -1073,10 +1072,10 @@ Source: `Tasty <https://tasty.co/recipe/pesto-chicken-garlic-knot-sliders>`__
 
 Ingredients
 -----------
-- 1 1/2 lb pizza dough
+- 1 1/2 pounds (680g) pizza dough
 - 3 cups rotisserie chicken, shredded
-- 8 oz pesto, 1 jar
-- 2 cups (200 g) shredded mozzarella cheese
+- 8 ounces (237ml) pesto, 1 jar
+- 2 cups (200g) shredded mozzarella cheese
 - 3 tablespoons salted butter
 - 3 cloves garlic, minced
 - 2 tablespoons fresh parsley, finely chopped
@@ -1125,7 +1124,7 @@ Ingredients
 -----------
 
 - 6-8 cups cooked Jasmin Rice
-- 2 chicken breasts, cut into 1 inch cubes. (may substitute 1lb. sirloin streak cubed or 1 lb. lean pork chop cubed)
+- 2 chicken breasts, cut into 1 inch cubes. (may substitute 1 pound (450g) sirloin streak cubed or 1 pound lean pork chop cubed)
 - 2 tablespoons butter (can substitute olive oil)
 - 2 medium onion, chopped fine
 - 2 cloves garlic minced
@@ -1160,7 +1159,7 @@ Chicken Yakiudon
 Ingredients
 -----------
 
--  1 pound boneless, skinless chicken breasts, patted dry with paper
+-  1 pound (450g) boneless, skinless chicken breasts, patted dry with paper
    towels, trimmed, and cut into 1-inch squares
 -  2 tablespoons toasted sesame oil
 -  1 tablespoon cornstarch
@@ -1172,9 +1171,9 @@ Ingredients
 -  3 garlic cloves, minced
 -  3 anchovy fillets, rinsed, patted dry, and minced
 -  1 teaspoon rice vinegar
--  1 pound fresh or 8 ounces dried udon noodles
+-  1 pound (450g) fresh or 8 ounces (225g) dried udon noodles
 -  2 tablespoon vegetable oil
--  6 ounces shiitake mushrooms, stemmed and sliced 1/4 inch thick
+-  6 ounces (170g) shiitake mushrooms, stemmed and sliced 1/4 inch thick
 -  1 carrot, peeled and sliced 1/8 inch thick on bias
 -  3/4 cup chicken broth
 -  6 cups napa cabbage, sliced crosswise into 1/2-inch strips
@@ -1279,16 +1278,15 @@ Ingredients
 Turkey
 ^^^^^^
 
--  1 turkey (12 to 15 pounds), giblets and neck reserved for gravy, if
-   making
+-  1 turkey, 12 to 15 pounds (5.4 to 6.8kg), giblets and neck reserved for gravy, if making
 -  3 tablespoons plus 2 teaspoons kosher salt
 -  2 teaspoons baking powder
--  12 ounces salt pork, cut into 1/4-inch-thick slices and rinsed
+-  12 ounces (340g) salt pork, cut into 1/4-inch-thick slices and rinsed
 
 Stuffing
 ^^^^^^^^
 
--  1 1/2 pounds white sandwich bread (about 15 slices), cut into
+-  1 1/2 pounds (680g) white sandwich bread (about 15 slices), cut into
    1/2-inch cubes (about 12 cups)
 -  4 tablespoons unsalted butter, plus extra for baking dish
 -  1 medium onion, chopped fine (about 1 cup)

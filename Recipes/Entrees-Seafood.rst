@@ -25,7 +25,7 @@ Ingredients
 -----------
 
 -  Kosher salt and pepper
--  4 (6- to 8-ounce) skin-on salmon fillets
+-  4 skin-on salmon fillets 6 to 8 ounce (170g to 225g)
 -  Lemon wedges Or `Mango Mint Salsa <#mango-mint-salsa>`__ Or
    `Cilantro-Mint Chutney <#cilantro-mint-chutney>`__
 
@@ -73,9 +73,9 @@ Ingredients
 -  2-3 teaspoons Thai green curry paste (or to taste)
 -  2 tablespoons Fish Sauce
 -  1 tablespoon Lime Juice
--  1/2 lb Salmon fillet, cubed
--  1/2 lb Prawns (or large shrimp) shelled and de-veined
--  4 oz snow peas (small) cut in half on the diagonal
+-  1/2 pound (225g) Salmon fillet, cubed
+-  1/2 pound (225g) Prawns (or large shrimp) shelled and de-veined
+-  4 ounces (113g) snow peas (small) cut in half on the diagonal
 -  2 tablespoons Cilantro fresh chopped
 -  2 tablespoons Basil chopped
 -  4 cups jasmine rice cooked
@@ -117,14 +117,14 @@ Ingredients
 
 - 2 tablespoons sugar
 - Salt and pepper
-- 1 pound large shell-on shrimp (26 to 30 per pound), peeled, deveined, and tails removed, shells reserved
+- 1 pound (450g) large shell-on shrimp (26 to 30 per pound), peeled, deveined, and tails removed, shells reserved
 - 1/4 cup extra-virgin olive oil
 - 1 onion, chopped fine
 - 4 garlic cloves, peeled, halved lengthwise, and sliced thin
 - 2 anchovy fillets, rinsed, patted dry, and minced
 - 1/4 teaspoon red pepper flakes
-- 2 (15-ounce) cans cannellini beans (1 can drained and rinsed, 1 can left undrained)
-- 1 (14.5-ounce) can diced tomatoes, drained
+- 2 cans cannellini beans,  15 ounce (444ml), (1 can drained and rinsed, 1 can left undrained)
+- 1 can diced tomatoes, 14.5 ounce (428ml), drained
 - 1/4 cup shredded fresh basil
 - 1/2 teaspoon grated lemon zest plus 1 tablespoon juice
 
@@ -177,14 +177,14 @@ Ingredients
 - 1 italian sausage, removed from casing
 - 1 carrot, 1/4 inch chop
 - 2 stalks celery, 1/4 inch chop
-- 2oz mushrooms, sliced, optional
+- 2 ounces (57g) mushrooms, sliced, optional
 - 1 red pepper, 1/2 inch chop
-- 1 tsp ginger, minced
+- 1 teaspoon ginger, minced
 - salt & pepper
-- 1/2 tsp smoked paprika
-- 1/4 tsp turmeric (not too much)
-- 1/4 tsp cayenne pepper
-- 1 tsp fresh thyme
+- 1/2 teaspoon smoked paprika
+- 1/4 teaspoon turmeric (not too much)
+- 1/4 teaspoon cayenne pepper
+- 1 teaspoon fresh thyme
 - 1/2 cup orange juice
 - 1/2 cup peanuts
 
@@ -219,7 +219,7 @@ Stir-Fried Shrimp and Asparagus in Garlic Sauce
 
 Ingredients
 -----------
-- 1 pound extra-large (21-25) shrimp, peeled, deveined, and tails removed
+- 1 pound (450g) extra-large (21-25) shrimp, peeled, deveined, and tails removed
 - 1 teaspoon sugar
 - 1/2 teaspoon salt
 - 1/3 cup plus 2 tablespoons dry sherry
@@ -231,7 +231,7 @@ Ingredients
 - 6 garlic cloves, sliced thin
 - 3 large scallions, white parts chopped fine, green parts cut into 1-inch pieces
 - 2 tablespoons grated fresh ginger
-- 1 1/2 pounds asparagus, trimmed and cut on bias into 2-inch lengths
+- 1 1/2 pounds (680g) asparagus, trimmed and cut on bias into 2-inch lengths
 
 Directions
 ----------
@@ -276,11 +276,11 @@ Indoor Clam Bake
 Ingredients
 -----------
 
--  2 pounds live spot prawns or 2 dungeness crabs (1 pound each) (or 1 two pound)
--  2 pounds small littleneck or cherry stone clams, scrubbed
--  2 pounds mussels, scrubbed and beards removed
--  1 pound chorizo or kielbasa, sliced into 1/2 inch-thick rounds
--  1 pound small new or red potatoes, cut into 1-inch pieces
+-  2 pounds (900g) live spot prawns or 2 dungeness crabs (1 pound each) (or 1 two pound)
+-  2 pounds (900g) small littleneck or cherry stone clams, scrubbed
+-  2 pounds (900g) mussels, scrubbed and beards removed
+-  1 pound (450g) chorizo or kielbasa, sliced into 1/2 inch-thick rounds
+-  1 pound (450g) small new or red potatoes, cut into 1-inch pieces
 -  4 medium ears corn, silk and all but the last layer of husk removed
 -  8 tablespoons (1 stick) salted butter, melted
 
@@ -339,18 +339,18 @@ Source: `Delish <https://www.delish.com/cooking/recipe-ideas/recipes/a47430/gril
 
 Ingredients
 -----------
-- 1 1/2 lb. Seafood. (large peeled and deveined shrimp, little neck clams, mussles)
+- 1 1/2 pounds (680g) Seafood. (large peeled and deveined shrimp, little neck clams, mussles)
 - 2 cloves garlic, minced
 - 2 smoked andouille sausages, thinly sliced (chorizo can be substituted)
 - 2 ears corn, each cut crosswise into 4 pieces
-- 1 lb. red bliss potatoes, chopped into 1-in pieces
-- 2 tbsp. extra-virgin olive oil
-- 1 tbsp. Old Bay seasoning
+- 1 pound (450g) red bliss potatoes, chopped into 1-in pieces
+- 2 tablespoon extra-virgin olive oil
+- 1 tablespoon Old Bay seasoning
 - 1 lemon, sliced into thin wedges
-- 4 tbsp. butter
+- 4 tablespoon butter
 - kosher salt
 - Freshly ground black pepper
-- 2 tbsp. chopped fresh parsley leaves
+- 2 tablespoon chopped fresh parsley leaves
 
 Directions
 ----------
@@ -368,7 +368,7 @@ Directions
 
 Notes
 -----
-Use 1 1/2 lbs. of seafood.  This can be all shrimp, call clams, mix of clams,
+Use 1 1/2 pounds of seafood.  This can be all shrimp, call clams, mix of clams,
 mussles and shimp.  What ever is your fancy.
 
 .. raw:: pdf
@@ -402,7 +402,7 @@ Ingredients
 - 3 shallots, chopped fine
 - 4 garlic cloves, minced
 - 1 bay leaf
-- 4 pounds littleneck clams, scrubbed
+- 4 pounds (1.8kg) littleneck clams, scrubbed
 - 3 tablespoons unsalted butter
 - 2 tablespoons minced fresh parsley
 - Lemon wedges
@@ -420,7 +420,7 @@ Directions
 
 Note
 ----
-For 1-2 servicng reduce clams to 1 lb per person and half the other
+For 1-2 servicng reduce clams to 1 pound per person and half the other
 ingredients.  Use a sauce pan instead of the dutch oven.
 
 
@@ -443,7 +443,7 @@ Ingredients
 -  4 medium cloves garlic, minced
 -  1/2 cup chopped fresh flat leaf parsley leaves
 -  1 bay leaf
--  4 pounds mussels, cleaned and debearded
+-  4 pounds (1.8kg) mussels, cleaned and debearded
 -  4 tablespoons unsalted butter
 
 Directions
@@ -499,7 +499,7 @@ Ingredients
 -  1 cup dry white wine
 -  3 sprigs fresh thyme
 -  2 bay leaves
--  4 pounds mussels, scrubbed and de-bearded
+-  4 pounds (1.8kg) mussels, scrubbed and de-bearded
 -  1/4 teaspoon salt
 -  2 tablespoons unsalted butter, cut into 4 pieces
 -  2 tablespoons minced fresh flat leaf parsley
@@ -567,14 +567,13 @@ Lemon-Herb Cod Fillets with Crispy Garlic Potatoes
 Ingredients
 -----------
 
--  1 1/2 pounds russet potatoes, unpeeled, sliced into 1/4-inch-thick
-   rounds
+-  1 1/2 pounds (680g) russet potatoes, unpeeled, sliced into 1/4-inch-thick rounds
 -  2 tablespoons unsalted butter, melted, plus 3 tablespoons cut into
    1/4-inch pieces
 -  3 garlic cloves, minced
 -  4 sprigs fresh thyme, plus 1 teaspoon minced
 -  Salt and pepper
--  4 (6- to 8-ounce) skinless cod fillets, 1 to 1 1/2 inches thick
+-  4 skinless cod fillets, 6 to 8 ounce (170g to 225g), 1 to 1 1/2 inches thick
 -  1 lemon, thinly sliced
 
 Directions
@@ -611,7 +610,7 @@ Ingredients
 
 Tuna
 ^^^^
-- 4 6 oz Ahi tuna, steaks
+- 4 Ahi tuna steaks 6 ounces (170g) each
 - 3 clove garlic, cut into slivers
 - Kosher salt
 - fresh cracked pepper
@@ -697,7 +696,7 @@ Ingredients
 - 1 cup diced asparagus
 - 1 cup chickpeas
 - 1/2 cup quartered red radishes
-- 1 tbsp diced shallots
+- 1 tablespoon diced shallots
 - 2-3 cheeks per person
 - olive oil
 - butter (optional)
@@ -733,14 +732,14 @@ Yield: 4 servings
 
 Ingredients
 -----------
-- 4 6 oz ahi tuna, filets
+- 4 ahi tuna filets, 6 ounces (170g)
 - 1-2 tablespoon soy sauce, (kecap manis)
 - 1 stalk lemongrass
 - 1 onion, sliced finely
-- 7 oz double smoked bacon, diced
+- 7 ounces (200g) double smoked bacon, diced
 - 1 bunch asparagus
-- 10 1/2 oz jasmine rice
-- 340 ml coconut milk
+- 10 1/2 ounces (300g) jasmine rice
+- 11.5 ounces (1.5 cups or 340 ml) coconut milk
 - 1 tablespoon Ginger, chopped
 - 1 kaffir lime leaf, sliced
 - 2 clove garlic
@@ -755,8 +754,8 @@ Ingredients
 Directions
 ----------
 
-#. Place ahi tuna filets in a bowl; season, add 2 tbsp olive oil, parsley, toss. Place onto a preheated grill. Make criss- cross markings on top side of the fish (about 1minute on each side). Place onto a baking sheet and refrigerate. If cooking fish from start to finish on grill cook later to time dish with rice and asparagus.
-#. Meanwhile prepare the sauce; pound lemongrass with a mallet, cut in half. In a sauce pan add 2 tbsp. olive oil, heat. Add shallots, season, and saute until golden. Add ginger, garlic, lemongrass, season, and saute an additional 2 minutes. Add white wine, and reduce until most of the liquid is gone. Stir in red curry paste, add fish sauce, soy sauce, and coconut milk, season. Let cook on low- medium for 15 minutes. Add lime leaf 5 minutes before serving. Remove the lemongrass.
+#. Place ahi tuna filets in a bowl; season, add 2 tablespoon olive oil, parsley, toss. Place onto a preheated grill. Make criss- cross markings on top side of the fish (about 1minute on each side). Place onto a baking sheet and refrigerate. If cooking fish from start to finish on grill cook later to time dish with rice and asparagus.
+#. Meanwhile prepare the sauce; pound lemongrass with a mallet, cut in half. In a sauce pan add 2 tablespoon olive oil, heat. Add shallots, season, and saute until golden. Add ginger, garlic, lemongrass, season, and saute an additional 2 minutes. Add white wine, and reduce until most of the liquid is gone. Stir in red curry paste, add fish sauce, soy sauce, and coconut milk, season. Let cook on low- medium for 15 minutes. Add lime leaf 5 minutes before serving. Remove the lemongrass.
 #. Place rice in rice cooker, season, and add chicken stock. The ratio is 1.5 parts liquid to 1 part rice. The rice should take approx. 15- 18 minutes.
 #. Prepare the vegetables; in a skillet add bacon, saute until golden. Add onions, season, and saute until golden. Add asparagus, 1/4 cup water, and cover 7 minutes before the dish is ready to assemble.
 #. Place tuna in a preheat oven at 350°F and cook until desired temp. If you like your tuna rare you will only cook for 4-5 minutes. For medium approx. 7-8 minutes.

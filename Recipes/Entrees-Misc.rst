@@ -32,24 +32,22 @@ liquid reduced, the steam kept them warm.
 
 Ingredients
 -----------
-
--  1 1/2 pounds boneless, skinless chicken thighs, trimmed and halved
-   crosswise
+-  1 1/2 pounds (680g) boneless, skinless chicken thighs, trimmed and halved crosswise
 -  Salt and pepper
--  12 ounces jumbo shrimp (16 to 20 per pound), peeled and deveined
+-  12 ounces (340g) jumbo shrimp (16 to 20 per pound), peeled and deveined
 -  6 tablespoons extra-virgin olive oil
 -  6 garlic cloves, minced
 -  1 3/4 teaspoons hot smoked paprika
 -  3 tablespoons tomato paste
 -  4 cups chicken broth
--  1 (8-ounce) bottle clam juice
+-  1 bottle, 8 ounce (236ml) clam juice
 -  2/3 cup dry sherry
 -  Pinch saffron threads (optional)
 -  1 onion, chopped fine
 -  1/2 cup jarred roasted red peppers, chopped fine
 -  3 cups Arborio rice
--  1 pound littleneck clams, scrubbed
--  1 pound Spanish-style chorizo sausage, cut into 1/2-inch pieces
+-  1 pound (450g) littleneck clams, scrubbed
+-  1 pound (450g) Spanish-style chorizo sausage, cut into 1/2-inch pieces
 -  1 cup frozen peas, thawed
 -  Lemon wedges
 
@@ -121,17 +119,17 @@ during the course of cooking the recipe without any extra steps.
 Ingredients
 -----------
 
--  12 oz extra large shrimp (21 to 25 per pound), peeled and deveined
+-  12 ounce (340g) extra large shrimp (21 to 25 per pound), peeled and deveined
 -  9 garlic cloves, minced
 -  3 tablespoons vegetable oil
 -  Salt and pepper
--  12 oz boneless, skinless chicken thighs, trimmed and halved crosswise
--  8 oz Spanish-style chorizo sausage, cut into 1/2-inch pieces
+-  12 ounce (340g) boneless, skinless chicken thighs, trimmed and halved crosswise
+-  8 ounce (225g) Spanish-style chorizo sausage, cut into 1/2-inch pieces
 -  1 red bell pepper, stemmed, seeded and chopped fine
 -  1 onion, chopped fine
 -  2 1/4 cups Arborio rice
 -  1/2 teaspoon saffron threads
--  1 (14.5 oz) can diced tomatoes, drained
+-  1 can, 14.5 ounce (428ml) diced tomatoes, drained
 -  2 1/4 cups chicken broth
 -  1/4 cup dry white wine
 -  12 mussels, scrubbed and debearded
@@ -192,7 +190,7 @@ Ingredients
 - 1 cup chicken broth, divided
 - 1/4 cup white wine, divided
 - 4 boneless, skinless chicken thighs
-- 4 oz. thinly sliced chorizo
+- 4 ounce (113g) thinly sliced chorizo
 - 1/4 cup frozen peas
 - 1/2 cup thinly sliced roasted red pepper
 
@@ -286,7 +284,7 @@ Ingredients
 Meat
 ^^^^
 
--  3/4 pound boneless, skinless chicken breast, other meat, seafood, or
+-  3/4 pound (340g) boneless, skinless chicken breast, other meat, seafood, or
    tofu, cut into small, even-sized pieces and drained
 -  1 tablespoon soy sauce
 -  1 tablespoon dry sherry
@@ -417,9 +415,8 @@ Ingredients
 
 -  1 tablespoon plus 1/4 cup water
 -  1/4 teaspoon baking soda
--  1 pound flank steak, trimmed, cut into 2 to 2 1/2-inch strips with
-   grain, each strip cut ­crosswise against grain into 1/4-inch-thick
-   slices
+-  1 pound (450g) flank steak, trimmed, cut into 2 to 2 1/2-inch strips with
+   grain, each strip cut ­crosswise against grain into 1/4-inch-thick slices
 -  3 tablespoons soy sauce
 -  3 tablespoons dry sherry or Chinese rice wine
 -  3 teaspoons cornstarch
@@ -430,10 +427,8 @@ Ingredients
 -  2 teaspoons coarsely ground pepper
 -  3 tablespoons plus 1 teaspoon vegetable oil
 -  1 red bell pepper, stemmed, seeded, and cut into 1/4-inch-wide strips
--  1 green bell pepper, stemmed, seeded, and cut into 1/4-inch-wide
-   strips
--  6 scallions, white parts sliced thin on bias, green parts cut into
-   2-inch pieces
+-  1 green bell pepper, stemmed, seeded, and cut into 1/4-inch-wide strips
+-  6 scallions, white parts sliced thin on bias, green parts cut into 2-inch pieces
 -  3 garlic cloves, minced
 -  1 tablespoon grated fresh ginger
 
@@ -525,7 +520,7 @@ Homemade Pizza Dough
 Ingredients
 -----------
 
--  2 cups (11 oz) bread flour, plus extra for work surface
+-  2 cups (11 ounce or 311g) bread flour, plus extra for work surface
 -  1 teaspoon instant or rapid rise yeast
 -  3/4 teaspoon salt
 -  2 tablespoons olive oil, plus extra for bowl
@@ -573,14 +568,14 @@ Ingredients
 - 4 red, yellow, or orange bell peppers
 - 1 1/2 cups low-sodium chicken broth
 - 3/4 cup Arborio rice
-- 8 ounces hot Italian sausage, casings removed
+- 8 ounces (225g) hot Italian sausage, casings removed
 - 1	medium onion, chopped fine (about 1 cup)
 - 3 garlic cloves, minced
 - 1/4 teaspoon dried oregano
 - Salt and pepper
 - 1/8 teaspoon red pepper flakes
-- 1 (14 1/2-ounce) can crushed tomatoes
-- 2 1/2 ounces Parmesan cheese, grated (1 1/4 cups)
+- 1 can, 14 1/2 ounce (428ml), crushed tomatoes
+- 2 1/2 ounces (70g) Parmesan cheese, grated (1 1/4 cups)
 - 2 tablespoons chopped fresh basil
 
 Directions
@@ -609,6 +604,77 @@ Directions
    over each filled pepper and sprinkle each with 1 tablespoon of remaining
    cheese. Bake until cheese is browned and filling is heated through,
    25 to 30 minutes. Serve immediately.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+From the Freezer Stuffed Peppers
+================================
+
++----------------------------+--------------------------+---------------------+
+| Prep Time: 20 + 45 minutes | Cooking Time: 45 minutes | Yield: 4-6 servings |
++----------------------------+--------------------------+---------------------+
+
+Source: `Cooks Country <https://www.cookscountry.com/recipes/3111-from-the-freezer-stuffed-peppers>`__
+
+Ingredients
+-----------
+Peppers and Stuffing
+- 1 tablespoon olive oil
+- 1 medium onion, chopped fine
+- 8 ounces (225g) ground beef, preferably 85 percent lean
+- 4 ounces (113g) hot or mild Italian sausage, casings removed
+- Salt and pepper
+- 4 cloves garlic, minced
+- 2 cups cooked long-grain rice
+- 1 can, 14.5 ounce (428ml), diced tomatoes, drained
+- 1 cup shredded mozzarella cheese
+- 1/2 cup grated Parmesan cheese
+- 3 tablespoons chopped fresh parsley leaves
+- 4 medium red bell peppers, cut in half through stem end (stem left intact), cored, and seeded
+
+For Serving
+- 2 tablespoons olive oil
+- Salt and pepper
+- 1 cup shredded mozzarella cheese
+
+Directions
+----------
+1. For the peppers: Heat oil in large skillet over medium heat until
+   shimmering. Cook onion until softened and beginning to brown, about
+   5 minutes. Increase heat to medium-high and add beef, sausage,
+   1/2 teaspoon salt, and 1/4 teaspoon pepper; cook, breaking meat into
+   small pieces with wooden spoon, until meat begins to brown,
+   6 to 8 minutes. Add garlic and cook until fragrant, about 30 seconds.
+   Drain mixture in colander for 1 minute.
+2. Transfer meat mixture to large bowl and mix with rice, tomatoes,
+   mozzarella, Parmesan, parsley, 1/2 teaspoon salt, and 1/4 teaspoon pepper.
+   Refrigerate until well chilled, at least 20 minutes.
+3. Spoon filling evenly into bell peppers. Wrap each pepper with 2 layers of
+   plastic wrap and 1 layer of foil. Place in baking dish and freeze until
+   firm. Transfer to zipper-lock plastic bag and freeze up to 2 months.
+4. When ready to serve: Adjust oven rack to middle position and heat oven to
+   450 degrees. Cut 8 pieces foil large enough to just cover stuffing in
+   peppers, and spray with cooking spray. Unwrap peppers and cover filling
+   sides with new foil squares. Using skewer, poke several holes through foil.
+   Place peppers, foil side down, over vents of slotted broiler-pan top set
+   over broiler-pan bottom. Brush peppers with oil and season with salt and
+   pepper to taste. Bake until peppers are spotty brown, 30 to 35 minutes.
+   Flip peppers filling side up, remove foil, and sprinkle with mozzarella.
+   Bake until cheese is melted, about 5 minutes. Let rest 5 minutes before
+   serving.
+
+Variation
+---------
+For a vegetarian version replace beef and pork with 1 can, 15 ounce (443ml),
+cannellini beans, drained and rinsed.  In step 1 add garlic to onions and
+cook as instructed then stir in beans.
+
 
 .. raw:: pdf
 

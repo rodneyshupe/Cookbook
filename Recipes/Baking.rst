@@ -125,3 +125,104 @@ Directions
    for 40 minutes, taking care not to open the oven door. Remove the
    popovers to a cooling rack and pierce each one in the top with a
    knife to allow steam to escape. Serve warm.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Almost No-Knead Sourdough Bread
+===============================
+
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/9075-sourdough-starter>`__
+
+Ingredients
+-----------
+- 3 2/3 cups (18 1/3 ounces) all-purpose flour or bread flour
+- 1 3/4 teaspoons salt
+- 1 1/2 cups plus 4 teaspoons (12 2/3 ounces) water, room temperature
+- 1/3 cup (3 ounces) mature Sourdough Starter
+
+Directions
+----------
+1. Whisk flour and salt together in medium bowl. Whisk room-temperature water
+   and starter in large bowl until smooth. Add flour mixture to water mixture
+   and stir using wooden spoon, scraping up dry flour from bottom of bowl
+   until dough comes together, then knead by hand in bowl until shaggy ball
+   forms and no dry flour remains. Cover bowl with plastic wrap and let sit at
+   room temperature for at least 12 hours or up to 18 hours.
+2. Lay 12 by 12-inch sheet of parchment paper on counter and spray generously
+   with vegetable oil spray. Transfer dough to lightly floured counter and
+   knead 10 to 15 times. Shape dough into ball by pulling edges into middle.
+   Transfer dough, seam side down, to center of parchment. Pick up dough by
+   lifting parchment edges and lower into heavy-bottomed Dutch oven. Cover
+   with plastic wrap.
+3. Adjust oven rack to middle position and place loaf or cake pan in bottom of
+   oven. Place pot on middle rack and pour 3 cups of boiling water into pan
+   below. Close oven door and let dough rise until doubled in size and does
+   not readily spring back when poked with your floured finger, 2 to 3 hours.
+4. Remove pot and water pan from oven; discard plastic from pot. Lightly flour
+   top of dough and, using razor blade or sharp knife, make one 7-inch-long,
+   1/2-inch-deep slit along top of dough. Cover pot and place on middle rack
+   in oven. Heat oven to 425 degrees. Bake bread for 30 minutes (starting
+   timing as soon as you turn on oven).
+5. Remove lid and continue to bake until loaf is deep brown and registers
+   210 degrees, 20 to 30 minutes longer. Carefully remove bread from pot;
+   transfer to wire rack and let cool completely before serving.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Sourdough Starter
+=================
+
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/9075-sourdough-starter>`__
+
+Ingredients
+-----------
+- 4 1/2 cups (24 3/4 ounces) whole-wheat flour
+- 5 cups (25 ounces) all-purpose flour, plus extra for maintaining starter
+- Water, room temperature
+
+Directions
+----------
+1. Combine whole-wheat flour and all-purpose flour in large container. Using
+   wooden spoon, mix 1 cup (5 ounces) flour mixture and 2/3 cup (5 1/3 ounces)
+   room-temperature water in glass bowl until no dry flour remains (reserve
+   remaining flour mixture). Cover with plastic wrap and let sit at room
+   temperature until bubbly and fragrant, 48 to 72 hours.
+2. FEED STARTER: Measure out 1/4 cup (2 ounces) starter and transfer to clean
+   bowl or jar; discard remaining starter. Stir 1/2 cup (2 1/2 ounces) flour
+   mixture and 1/4 cup (2 ounces) room-temperature water into starter until
+   no dry flour remains. Cover with plastic wrap and let sit at room
+   temperature for 24 hours.
+3. Repeat step 2 every 24 hours until starter is pleasantly aromatic and
+   doubles in size 8 to 12 hours after being fed, 10 to 14 days. At this point
+   starter is mature and ready to be baked with, or it can be moved to storage.
+   (If baking, use starter once it has doubled in size during 8-to-12-hour
+   window. Use starter within 1 hour after it starts to deflate once reaching
+   its peak.)
+4A. TO STORE AND MAINTAIN MATURE STARTER: Measure out 1/4 cup (2 ounces)
+    starter and transfer to clean bowl; discard remaining starter. Stir
+    1/2 cup (2 1/2 ounces) all-purpose flour and 1/4 cup (2 ounces)
+    room-temperature water into starter until no dry flour remains. Transfer
+    to clean container that can be loosely covered (plastic container or mason
+    jar with its lid inverted) and let sit at room temperature for 5 hours.
+    Cover and transfer to refrigerator. If not baking regularly, repeat
+    process weekly.
+4B. TO PREPARE FOR BAKING: Eighteen to 24 hours before baking, measure out
+    1/2 cup (4 ounces) starter and transfer to clean bowl; discard remaining
+    starter. Stir 1 cup (5 ounces) all-purpose flour and 1/2 cup (4 ounces)
+    room-temperature water into starter until no dry flour remains. Cover and
+    let sit at room temperature for 5 hours. Measure out amount of starter
+    called for in bread recipe and transfer to second bowl. Cover and
+    refrigerate for at least 12 hours or up to 18 hours. Remaining starter
+    should be refrigerated and maintained as directed.
