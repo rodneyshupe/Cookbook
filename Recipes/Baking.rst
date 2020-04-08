@@ -12,42 +12,6 @@ Baking
 
 .. raw:: pdf
 
-   OddPageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
-
-60-Minute Bread
-===============
-
-Source: The Minimalist Cooks Dinner by Mark Bittman
-
-Ingredients
------------
-
-- 3 cups all-purpose flour, plus more as needed
-- 2 teaspoons instant yeast, such as SAF
-- 2 teaspoons salt
-
-Directions
-----------
-
-1. Combine the flour, yeast, and salt in a bowl or food processor. Add
-   1 1/4 cups warm water all at once, stirring with a wooden spoon or
-   mixing with the machine on. Continue to mix, for a minute or two longer
-   by hand, about 30 seconds total with the food processor. Add additional
-   water by the tablespoon if necessary, until a ball forms.
-2. Shape the dough into a flat round or long loaf, adding only enough flour
-   to allow you to handle the dough. Place the dough on a baking sheet or a
-   well-floured pizza peel. Let it rise in the warmest place in your
-   kitchen, covered, while you preheat the oven to 425°F. (If you have time,
-   let it rise for an hour or so.)
-3. Bake the bread on a sheet, or slide it onto a baking stone. Bake until
-   done, 30 to 45 minutes; the crust will be golden-brown, crisp, and firm.
-
-.. raw:: pdf
-
    PageBreak recipePage
 
 .. raw:: html
@@ -128,6 +92,188 @@ Directions
 
 .. raw:: pdf
 
+   OddPageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+60-Minute Bread
+===============
+
+Source: The Minimalist Cooks Dinner by Mark Bittman
+
+Ingredients
+-----------
+
+- 3 cups all-purpose flour, plus more as needed
+- 2 teaspoons instant yeast, such as SAF
+- 2 teaspoons salt
+
+Directions
+----------
+
+1. Combine the flour, yeast, and salt in a bowl or food processor. Add
+   1 1/4 cups warm water all at once, stirring with a wooden spoon or
+   mixing with the machine on. Continue to mix, for a minute or two longer
+   by hand, about 30 seconds total with the food processor. Add additional
+   water by the tablespoon if necessary, until a ball forms.
+2. Shape the dough into a flat round or long loaf, adding only enough flour
+   to allow you to handle the dough. Place the dough on a baking sheet or a
+   well-floured pizza peel. Let it rise in the warmest place in your
+   kitchen, covered, while you preheat the oven to 425°F. (If you have time,
+   let it rise for an hour or so.)
+3. Bake the bread on a sheet, or slide it onto a baking stone. Bake until
+   done, 30 to 45 minutes; the crust will be golden-brown, crisp, and firm.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Easy No-Knead Focaccia
+======================
+
+Source: `Bon Appetit <https://www.bonappetit.com/recipe/easy-no-knead-focaccia>`__
+
+Ingredients
+-----------
+- 1 1/4-oz. (8g) envelope active dry yeast (about 2 1/4 tsp.)
+- 2 tsp. honey
+- 5 cups (625 g) all-purpose flour
+- 5 tsp. Diamond Crystal or 1 Tbsp. Morton kosher salt
+- 6 Tbsp. extra-virgin olive oil, divided, plus more for hands
+- 4 Tbsp. unsalted butter, plus more for pan
+- Flaky sea salt
+- 2 garlic cloves
+
+Directions
+----------
+1. Whisk one envelope active dry yeast, honey, and 2 1/2 cups lukewarm water
+   in a medium bowl and let sit 5 minutes (it should foam or at least get
+   creamy; if it doesn’t your yeast is dead and you should start again—check
+   the expiration date!).
+2. Add 5 cups (625 g) all-purpose flour and salt and mix with a rubber
+   spatula until a shaggy dough forms and no dry streaks remain.
+3. Pour 4 Tbsp. extra-virgin olive oil into a big bowl that will fit in your
+   refrigerator. This puppy is going to rise! Transfer dough to bowl and
+   turn to coat in oil. Cover with a silicone lid or plastic wrap and chill
+   until dough is doubled in size (it should look very bubbly and alive), at
+   least 8 hours and up to 1 day. If you're in a rush, you can also let it
+   rise at room temperature until doubled in size, 3–4 hours.
+4. Generously butter a 13x9" baking pan, for thicker focaccia that’s perfect
+   for sandwiches, or an 18x13" rimmed baking sheet, for focaccia that's
+   thinner, crispier, and great for snacking. The butter may seem
+   superfluous, but it’ll ensure that your focaccia doesn’t stick. Pour
+   1 Tbsp. extra-virgin olive oil into center of pan. Keeping the dough in
+   the bowl and using a fork in each hand, gather up edges of dough farthest
+   from you and lift up and over into center of bowl. Give the bowl a
+   quarter turn and repeat process. Do this 2 more times; you want to
+   deflate dough while you form it into a rough ball. (We learned this
+   technique from Alexandra Stafford, who uses it to shape her no-knead
+   bread.) Transfer dough to prepared pan. Pour any oil left in bowl over
+   and turn dough to coat it in oil. Let rise, uncovered, in a dry, warm
+   spot (like near a radiator or on top of the fridge or a preheating oven)
+   until doubled in size, at least 1 1/2 hours and up to 4 hours.
+5. Place a rack in middle of oven; preheat to 450°. To see if the dough is
+   ready, poke it with your finger. It should spring back slowly, leaving a
+   small visible indentation. If it springs back quickly, the dough isn’t
+   ready. (If at this point the dough is ready to bake but you aren’t, you
+   can chill it up to 1 hour.) Lightly oil your hands. If using a rimmed
+   baking sheet, gently stretch out dough to fill (you probably won't need
+   to do this if using a baking pan). Dimple focaccia all over with your
+   fingers, like you’re aggressively playing the piano, creating very deep
+   depressions in the dough (reach your fingers all the way to the bottom
+   of the pan). Drizzle with remaining 1 Tbsp. extra-virgin olive oil and
+   sprinkle with flaky sea salt. Bake focaccia until puffed and golden
+   brown all over, 20–30 minutes.
+6. Hold off on this last step until you're ready to serve the focaccia:
+   Melt 4 Tbsp. unsalted butter in a small saucepan over medium heat.
+   Remove from heat. Peel and grate in garlic cloves with a Microplane.
+   Return to medium heat and cook, stirring often, until garlic is just
+   lightly toasted, 30–45 seconds. (Or, if you prefer raw garlic to
+   toasted garlic, you can grate the garlic into the hot butter, off
+   heat, then brush right away.)
+7. Brush garlic-butter all over focaccia and slice into squares or
+   rectangles.
+
+Note
+----
+Make Ahead: Focaccia is best eaten the day it's made, but keeps well in the
+freezer. Slice it into pieces, store it in a freezer-safe container, then
+reheat it on a baking sheet in a 300° F oven.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+No-Knead Bread
+==============
+
+Source: `NY Times <https://cooking.nytimes.com/recipes/11376-no-knead-bread>`__
+
+Ingredients
+-----------
+- 430 grams flour
+- 1 gram yeast
+- 8-12 grams salt (I use 10 grams)
+- 345 grams water
+
+Directions
+----------
+1. In a large bowl combine flour, yeast and salt. Add water, and stir until
+   blended; dough will be shaggy and sticky. Cover bowl with plastic wrap.
+   Let dough rest at least 12 hours, preferably about 18, at warm room
+   temperature, about 70 degrees.
+2. Dough is ready when its surface is dotted with bubbles. Lightly flour a
+   work surface and place dough on it; sprinkle it with a little more flour
+   and fold it over on itself once or twice. Cover loosely with plastic
+   wrap and let rest about 15 minutes.
+3. Using just enough flour to keep dough from sticking to work surface or
+   to your fingers, gently and quickly shape dough into a ball. Generously
+   coat a cotton towel (not terry cloth) with flour, wheat bran or cornmeal;
+   put dough seam side down on towel and dust with more flour, bran or
+   cornmeal. Cover with another cotton towel and let rise for about 2 hours.
+   When it is ready, dough will be more than double in size and will not
+   readily spring back when poked with a finger.
+4. At least a half-hour before dough is ready, heat oven to 450 degrees. Put
+   a 6- to 8-quart heavy covered pot (cast iron, enamel, Pyrex or ceramic)
+   in oven as it heats. When dough is ready, carefully remove pot from oven.
+   Slide your hand under towel and turn dough over into pot, seam side up;
+   it may look like a mess, but that is O.K. Shake pan once or twice if
+   dough is unevenly distributed; it will straighten out as it bakes. Cover
+   with lid and bake 30 minutes, then remove lid and bake another
+   15 to 30 minutes, until loaf is beautifully browned. Cool on a rack.
+
+Variation
+---------
+Use 400 grams flour and 300 grams water
+Add 8g yeast and 1 tsp honey for quicker loaf.
+
+- 425g flour (or 285 white and 140g whole wheat and add tbsp honey)
+- 1 gram (1/4 teaspoon) yeast
+- 8-12 grams salt (I use 10 grams)
+- 15g (1 tbsp) distilled white vinegar
+- 200g water
+- 90g beer
+
+1 teaspoon dry Mustard
+1 table sponnes hotsauce
+2 tablespoons butter move_completed
+1 sleave saltines
+
+combine
+350 oven for 10 minutes 
+
+.. raw:: pdf
+
    PageBreak recipePage
 
 .. raw:: html
@@ -144,7 +290,7 @@ Ingredients
 - 3 2/3 cups (18 1/3 ounces) all-purpose flour or bread flour
 - 1 3/4 teaspoons salt
 - 1 1/2 cups plus 4 teaspoons (12 2/3 ounces) water, room temperature
-- 1/3 cup (3 ounces) mature Sourdough Starter
+- 1/3 cup (3 ounces) mature `Sourdough Starter <#sourdough-starter>`__
 
 Directions
 ----------

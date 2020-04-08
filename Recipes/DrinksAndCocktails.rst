@@ -122,13 +122,7 @@ Directions
    muddler or the back end of a spoon. Pour in bourbon, fill with ice
    cubes, and stir.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Manhattan
 =========
@@ -235,10 +229,10 @@ chilled cocktail glass.
 Tequila and Sangrita
 ====================
 
-1. Sangrita is the traditional accompaniment to a shot of tequila and
-   originated in the Lake Chapala region or Jalisco, Mexico. It is
-   usually made with Seville oranges, pomegranate and lime juice as well
-   as chile powder or hot cause for a bit of a kick.
+Sangrita is the traditional accompaniment to a shot of tequila and
+originated in the Lake Chapala region or Jalisco, Mexico. It is
+usually made with Seville oranges, pomegranate and lime juice as well
+as chile powder or hot cause for a bit of a kick.
 
 Ingredients
 -----------

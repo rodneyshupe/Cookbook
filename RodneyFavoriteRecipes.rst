@@ -118,6 +118,8 @@ a collection of recipes containing the favorites of Rodney Shupe and family
 
 .. include:: Recipes/DrinksAndCocktails.rst
 
+.. include:: Recipes/Brewing.rst
+
 .. include:: Appendix/A_MealPlans.rst
 
 .. include:: Appendix/B_Conversions-Substitutions.rst

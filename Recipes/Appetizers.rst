@@ -145,7 +145,7 @@ Ingredients
 -----------
 - 1/2 small red onion, peeled and quartered
 - 1/2 cup fresh cilantro leaves
-- 1/4 cup drained jarred pickled jalapeños
+- 1/4 cup drained jarred pickled jalapenos
 - 2 tablespoons lime juice
 - 2 garlic cloves, peeled
 - 1/2 teaspoon salt
@@ -153,7 +153,7 @@ Ingredients
 
 Directions
 ----------
-1. Pulse onion, cilantro, jalapeños, lime juice, garlic, and salt in
+1. Pulse onion, cilantro, jalapenos, lime juice, garlic, and salt in
    food processor until coarsely chopped.
 2. Add tomatoes and pulse until combined, about three 1-second pulses.
    Place salsa in fine-mesh strainer and drain briefly. Transfer to bowl.
@@ -178,7 +178,7 @@ Ingredients
 -----------
 - 1 pound plum tomatoes, cored and chopped
 - 2 garlic cloves, chopped
-- 1 jalapeño chile, stemmed, seeded, and chopped
+- 1 jalapeno chile, stemmed, seeded, and chopped
 - 2 tablespoons chopped fresh cilantro
 - 1 tablespoon lime juice
 - 1 teaspoon Salt
@@ -191,7 +191,7 @@ Directions
    Transfer tomato mixture to fine-mesh strainer set over bowl and let drain
    for 5 minutes.
 
-2. Combine jalapeño, cilantro, lime juice, 1 teaspoon salt, pepper flakes,
+2. Combine jalapeno, cilantro, lime juice, 1 teaspoon salt, pepper flakes,
    and drained tomato mixture in blender. Process until smooth, about
    45 seconds. Season with salt to taste. Serve warm. (Salsa can be
    refrigerated for up to 3 days. Cover and microwave briefly to rewarm
@@ -199,7 +199,7 @@ Directions
 
 Note
 ----
-To make this salsa spicier, reserve and add the jalapeño seeds to the blender before processing
+To make this salsa spicier, reserve and add the jalapeno seeds to the blender before processing
 
 .. raw:: pdf
 
@@ -965,6 +965,28 @@ Directions
 2. Spread on baguette slices
 3. Broil in oven until mixture begins to melt (approx 5-10 min.)
 
+----
+
+Beer Cheese Dip
+===============
+
+Ingredients
+-----------
+
+-  1/2 bottle of beer (lager)
+-  8oz of cream cheese
+-  8oz cheddar cheese shredded
+-  green onion, sliced for garnish (optional)
+
+Directions
+----------
+
+1. Pour half a bottle of beer into a saucepan and simmer for 2-3
+   minutes.
+2. Add cream cheese and stir until combined. Add shredded cheese and
+   stir until combined.
+3. Garnish with sliced green onions if desired.
+
 .. raw:: pdf
 
    PageBreak recipePage
@@ -1020,7 +1042,7 @@ Ingredients
 -----------
 
 - 6 slices bacon
-- 12 jalapeño chiles, halved lengthwise with stems left intact, seeds and ribs removed
+- 12 jalapeno chiles, halved lengthwise with stems left intact, seeds and ribs removed
 - 4 ounces mild cheddar cheese, shredded (1 cup)
 - 4 ounces Monterey Jack cheese, shredded (1 cup)
 - 4 ounces cream cheese, softened
@@ -1052,34 +1074,6 @@ Notes
 -----
 TO MAKE AHEAD: The filled and unbaked jalapeños can be covered and
 refrigerated for up to 1 day. Add 3 minutes to the baking time.
-
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
-
-Beer Cheese Dip
-===============
-
-Ingredients
------------
-
--  1/2 bottle of beer (lager)
--  8oz of cream cheese
--  8oz cheddar cheese shredded
--  green onion, sliced for garnish (optional)
-
-Directions
-----------
-
-1. Pour half a bottle of beer into a saucepan and simmer for 2-3
-   minutes.
-2. Add cream cheese and stir until combined. Add shredded cheese and
-   stir until combined.
-3. Garnish with sliced green onions if desired.
 
 .. raw:: pdf
 

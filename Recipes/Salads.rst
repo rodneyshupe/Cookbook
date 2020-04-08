@@ -441,7 +441,7 @@ Directions
 Notes
 -----
 If desired, substitute plain Greek yogurt for the sour cream. I like serrano
-chiles here, but you can substitute a jalapeño chile that has been halved
+chiles here, but you can substitute a jalapeno chile that has been halved
 lengthwise and sliced into 1/8-inch-thick half-moons. Adjust the amount of
 chiles to suit your taste. If cotija cheese is unavailable, substitute
 feta cheese.

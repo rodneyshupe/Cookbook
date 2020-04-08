@@ -45,7 +45,7 @@ Ingredients
 -  1/2 to 1 teaspoon cayenne pepper
 -  1/2 teaspoon celery seeds
 
-
+----
 
 Basic Pork Rub
 ==============
@@ -87,6 +87,7 @@ Ingredients
 - 1 teaspoons salt
 - 1 teaspoons pepper
 
+----
 
 Dave's Cajun Spice Mix
 ======================
@@ -266,6 +267,7 @@ Directions
 1. Combine ingredients and pack firmly around brisket 12-24 hours before
    smoking. Wrap in plastic wrap or place in a large plastic bag.
 
+----
 
 Simple Sweet Rub
 ================
