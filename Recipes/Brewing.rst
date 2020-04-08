@@ -12,7 +12,7 @@ Kombucha
 
 .. raw:: pdf
 
-   OddPageBreak recipePage
+   PageBreak recipePage
 
 .. raw:: html
 
@@ -26,14 +26,6 @@ for a 1-gallon batch, which happens to be a size that works well for
 homebrewers. Unlike some ferments that are ready in just a couple of days,
 kombucha requires time to mature. So making at least a gallon at a time
 ensures there is enough (maybe!) to drink while waiting for the next batch.
-
-When prepping the vessel, utensils, and counter, avoid antibacterial soaps,
-which may have a negative effect on the culture. Instead, opt for very hot
-water or a 1:1 dilution of distilled/pasteurized vinegar (never use raw
-vinegar, as it will alter and potentially contaminate the brew). You may
-also choose to “cure” the inside of the vessel by rinsing with distilled
-vinegar or kombucha vinegar immediately prior to adding the sweet tea, but
-this is optional.
 
 Brewing a full gallon of kombucha requires a fermenting vessel that holds
 at least 1.25 gallons to accommodate the SCOBY and starter liquid and give
@@ -120,9 +112,17 @@ However, there’s nothing wrong with preparing the sweet tea in the brew
 vessel and adding the water afterward. Just make sure the glass is not so
 cold as to crack when hot water is added.
 
+When prepping the vessel, utensils, and counter, avoid antibacterial soaps,
+which may have a negative effect on the culture. Instead, opt for very hot
+water or a 1:1 dilution of distilled/pasteurized vinegar (never use raw
+vinegar, as it will alter and potentially contaminate the brew). You may
+also choose to “cure” the inside of the vessel by rinsing with distilled
+vinegar or kombucha vinegar immediately prior to adding the sweet tea, but
+this is optional.
+
 .. raw:: pdf
 
-   OddPageBreak recipePage
+   PageBreak recipePage
 
 .. raw:: html
 
@@ -176,7 +176,7 @@ Don'ts
 
 .. raw:: pdf
 
-   OddPageBreak recipePage
+   PageBreak recipePage
 
 .. raw:: html
 
@@ -188,12 +188,14 @@ Measurements, Brew Times
 
 Excerpt From: The Big Book of Kombucha by Hannah Crum
 
+
 Always brew in a vessel that is slightly larger than the desired amount of
 kombucha. For example, a 1-gallon vessel holds about 3⁄4 gallon of sweet
 tea plus the SCOBY and starter liquid. Small batches can be brewed in large
 vessels if desired; the extra space is not an issue. The amount of sweet
 tea roughly equals the batch size, as the starter liquid plus a little more
 usually evaporates during the process.
+
 
 +---------------+----------------+------------------+------------+---------+-------------+------------+
 | Vessel        | Max Batch Size | Tea Bags         | Sugar      | SCOBYs  | Starer      | Brew Cycle |
