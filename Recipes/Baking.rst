@@ -217,23 +217,22 @@ reheat it on a baking sheet in a 300° F oven.
 Rodney's No-Knead Bread
 =======================
 
-Based on: `NY Times <https://cooking.nytimes.com/recipes/11376-no-knead-bread>`__
+Based on: `Jim Lahey and Mark Bittman <https://cooking.nytimes.com/recipes/11376-no-knead-bread>`__
 
 Ingredients
 -----------
-- 425g flour (or 285 white and 140g whole wheat and add tbsp honey)
-- 1 gram (1/4 teaspoon) yeast
+- 425 grams all purpose or bread flour
+- 1 gram (1/4 teaspoon) instant yeast
 - 8-12 grams salt (I use 10 grams)
-- 15g (1 tablespoons) distilled white vinegar
-- 200g water
-- 90g beer
-
+- 15 grams (1 tablespoons) distilled white vinegar
+- 200 grams water (room temperature)
+- 90 grams beer (allowed to warm to room temperature)
 
 Directions
 ----------
-1. In a large bowl combine flour, yeast and salt. Add liquids, and stir until
-   blended; dough will be shaggy and sticky. Cover bowl with plastic wrap.
-   Let dough rest at least 12 hours, preferably about 18, at warm room
+1. In a large bowl whisk together flour, yeast and salt. Add liquids, and
+   stir until blended; dough will be shaggy and sticky. Cover bowl with
+   plastic wrap. Let dough rest at least 12 - 18 hours, at warm room
    temperature, about 70 degrees.
 2. Dough is ready when its surface is dotted with bubbles. Lightly flour a
    work surface and place dough on it; sprinkle it with a little more flour
@@ -241,24 +240,37 @@ Directions
    wrap and let rest about 15 minutes.
 3. Using just enough flour to keep dough from sticking to work surface or
    to your fingers, gently and quickly shape dough into a ball. Generously
-   coat a cotton towel (not terry cloth) with flour, wheat bran or cornmeal;
-   put dough seam side down on towel and dust with more flour, bran or
-   cornmeal. Cover with another cotton towel and let rise for about 2 hours.
-   When it is ready, dough will be more than double in size and will not
-   readily spring back when poked with a finger.
+   coat a square of parchment paper with flour, wheat bran or cornmeal;
+   transfer dough to parchment and dust with more flour, bran or cornmeal.
+   Cover with cotton towel and let rise for about 2 hours. When it is ready,
+   dough will be more than double in size and will not readily spring back
+   when poked with a finger.
 4. At least a half-hour before dough is ready, heat oven to 450 degrees. Put
-   a 6- to 8-quart heavy covered pot (cast iron, enamel, Pyrex or ceramic)
+   a 6 to 8 quart heavy covered pot (cast iron, enamel, Pyrex or ceramic)
    in oven as it heats. When dough is ready, carefully remove pot from oven.
-   Slide your hand under towel and turn dough over into pot, seam side up;
-   it may look like a mess, but that is O.K. Shake pan once or twice if
-   dough is unevenly distributed; it will straighten out as it bakes. Cover
-   with lid and bake 30 minutes, then remove lid and bake another
-   15 to 30 minutes, until loaf is beautifully browned. Cool on a rack.
+   Pick up parchment and dough and lower into the pot.  Using a sharp knife
+   or razor, create a slit across the top.  Cover with lid and bake
+   30 minutes, then remove lid and bake another 15 to 30 minutes, until loaf
+   is beautifully browned. Cool on a rack.
 
-Variation
----------
-* Use 400 grams flour and 300 grams water
-* Add 8g yeast and 1 teaspoons honey for quicker loaf.
+Variations
+----------
+
+Whole Wheat
+^^^^^^^^^^^
+Change Flour to 285 grams all purpose and 140 grams whole wheat.
+Add 1 tablespoon honey to wet ingredients)
+
+Simple 4 ingredient version
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- 400 grams flour
+- 1 gram (1/4 teaspoon) instant yeast
+- 8-12 grams salt (I use 10 grams)
+- 300 grams water (room temperature)
+
+Quick loaf
+^^^^^^^^^^
+Use 8 grams yeast and 1 teaspoons honey and shorten the first rise to 1-2 hours.
 
 
 .. raw:: pdf
