@@ -214,21 +214,24 @@ reheat it on a baking sheet in a 300° F oven.
 
    <p style="page-break-before: always"/>
 
-No-Knead Bread
-==============
+Rodney's No-Knead Bread
+=======================
 
-Source: `NY Times <https://cooking.nytimes.com/recipes/11376-no-knead-bread>`__
+Based on: `NY Times <https://cooking.nytimes.com/recipes/11376-no-knead-bread>`__
 
 Ingredients
 -----------
-- 430 grams flour
-- 1 gram yeast
+- 425g flour (or 285 white and 140g whole wheat and add tbsp honey)
+- 1 gram (1/4 teaspoon) yeast
 - 8-12 grams salt (I use 10 grams)
-- 345 grams water
+- 15g (1 tablespoons) distilled white vinegar
+- 200g water
+- 90g beer
+
 
 Directions
 ----------
-1. In a large bowl combine flour, yeast and salt. Add water, and stir until
+1. In a large bowl combine flour, yeast and salt. Add liquids, and stir until
    blended; dough will be shaggy and sticky. Cover bowl with plastic wrap.
    Let dough rest at least 12 hours, preferably about 18, at warm room
    temperature, about 70 degrees.
@@ -254,23 +257,9 @@ Directions
 
 Variation
 ---------
-Use 400 grams flour and 300 grams water
-Add 8g yeast and 1 tsp honey for quicker loaf.
+* Use 400 grams flour and 300 grams water
+* Add 8g yeast and 1 teaspoons honey for quicker loaf.
 
-- 425g flour (or 285 white and 140g whole wheat and add tbsp honey)
-- 1 gram (1/4 teaspoon) yeast
-- 8-12 grams salt (I use 10 grams)
-- 15g (1 tbsp) distilled white vinegar
-- 200g water
-- 90g beer
-
-1 teaspoon dry Mustard
-1 table sponnes hotsauce
-2 tablespoons butter move_completed
-1 sleave saltines
-
-combine
-350 oven for 10 minutes 
 
 .. raw:: pdf
 
