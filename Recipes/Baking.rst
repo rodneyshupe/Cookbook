@@ -98,6 +98,56 @@ Directions
 
    <p style="page-break-before: always"/>
 
+Pretzels
+========
+
+Ingredients
+-----------
+
+Dipping Sauce
+^^^^^^^^^^^^^
+- 1/4 cup mayonnaise
+- 1/4 cup dijon mustard
+- 3 tablespoons packed light brown sugar
+- 1/2 teaspoon cider vinegar
+
+Pretzels
+^^^^^^^^
+- 1 1/2 cups water (360 grams), warm
+- 1 tablespoon salt
+- 1 tablespoon sugar
+- 1 packet (8 grams) active dry yeast
+- 565 grams (4 1/2 cups) all purpose flour
+- 3 tablespoons oil, divided
+- 2/3 cup baking soda (120 g)
+- 2 eggs, beaten
+- coarse salt
+
+Directions
+----------
+1. Prepare the sauce: Combine the mayonnaise, mustard, brown sugar and
+   vinegar in a bowl. Cover and refrigerate.
+2. In a bowl, mix water, salt, and sugar until combined. Add yeast, and let
+   rest 5 minutes until yeast starts to foam.
+3. Add flour and 2 tablespoons of oil, and mix thoroughly until a dough forms.
+4. Remove the dough and use the remaining oil to cover the bowl.
+5. Cover bowl with plastic wrap, and leave in a warm place for 1 hour.
+6. Preheat oven to 450°F (230°C).
+7. Cut dough into 8 pieces and roll them out into thin ropes, twisting the
+   two ends to form a pretzel shape.
+8. Dissolve baking soda in 4 cups water in Dutch oven and bring to boil over
+   medium-high heat. Boil each pretzel for 30 seconds per side.
+9. Transfer pretzels to a baking sheet, brush with egg wash, and sprinkle
+   with salt. Bake for 10-15 minutes, until golden brown.
+
+.. raw:: pdf
+
+   OddPageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 60-Minute Bread
 ===============
 
@@ -237,15 +287,14 @@ Directions
 2. Dough is ready when its surface is dotted with bubbles. Lightly flour a
    work surface and place dough on it; sprinkle it with a little more flour
    and fold it over on itself once or twice. Cover loosely with plastic
-   wrap and let rest about 15 minutes.
-3. Using just enough flour to keep dough from sticking to work surface or
-   to your fingers, gently and quickly shape dough into a ball. Generously
-   coat a square of parchment paper with flour, wheat bran or cornmeal;
-   transfer dough to parchment and dust with more flour, bran or cornmeal.
-   Cover with cotton towel and let rise for about 2 hours. When it is ready,
-   dough will be more than double in size and will not readily spring back
-   when poked with a finger.
-4. At least a half-hour before dough is ready, heat oven to 450 degrees. Put
+   wrap and let rest about 15 minutes. Using just enough flour to keep dough
+   from sticking to work surface or to your fingers, gently and quickly
+   shape dough into a ball. Generously coat a square of parchment paper with
+   flour, wheat bran or cornmeal; transfer dough to parchment and dust with
+   more flour, bran or cornmeal. Cover with cotton towel and let rise for
+   about 2 hours. When it is ready, dough will be more than double in size
+   and will not readily spring back when poked with a finger.
+3. At least a half-hour before dough is ready, heat oven to 450 degrees. Put
    a 6 to 8 quart heavy covered pot (cast iron, enamel, Pyrex or ceramic)
    in oven as it heats. When dough is ready, carefully remove pot from oven.
    Pick up parchment and dough and lower into the pot.  Using a sharp knife
@@ -272,6 +321,8 @@ Quick loaf
 ^^^^^^^^^^
 Use 8 grams yeast and 1 teaspoons honey and shorten the first rise to 1-2 hours.
 
+Baguettes
+^^^^^^^^^
 
 .. raw:: pdf
 

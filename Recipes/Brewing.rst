@@ -18,8 +18,8 @@ Kombucha
 
    <p style="page-break-before: always"/>
 
-How to Brew 1 Gallon of Kombucha
-================================
+How to Brew 1 1/2 Gallons of Kombucha
+=====================================
 
 Recipes for batch brewing most commonly provide measurements and directions
 for a 1-gallon batch, which happens to be a size that works well for
@@ -28,7 +28,7 @@ kombucha requires time to mature. So making at least a gallon at a time
 ensures there is enough (maybe!) to drink while waiting for the next batch.
 
 Brewing a full gallon of kombucha requires a fermenting vessel that holds
-at least 1.25 gallons to accommodate the SCOBY and starter liquid and give
+at least 2 gallons to accommodate the SCOBY and starter liquid and give
 adequate headroom for air circulation. If all that is available is a
 1-gallon vessel, never fear — simply reduce the tea, sugar, and water by
 25 percent. (See `Measurements, Brew Times <#measurements-brew-times>`__
@@ -39,11 +39,11 @@ experiments and research by brewers of all types from around the world.
 
 Ingredients
 -----------
-- 1 gallon cool, chlorine-free water
-- 4–6 tea bags or 1–2 tablespoons loose-leaf tea
-- 1 cup sugar
-- 1 full-size kombucha SCOBY (4–5 ounces)
-- 1–2 cups mature kombucha for starter liquid
+- 1 1/2 gallon cool, chlorine-free water
+- 6-9 tea bags or 2–3 tablespoons loose-leaf tea
+- 1 1/2 cup sugar
+- 2 large-size kombucha SCOBY (4–5 ounces)
+- 2 cups mature kombucha for starter liquid
 
 Directions
 ----------
@@ -51,7 +51,7 @@ Directions
    water in the pot, a separate bowl, or in the brewing vessel. Let steep
    for 5 to 15 minutes, then remove the tea leaves.
 2. Add the sugar to the hot tea, and stir until completely dissolved.
-3. Pour the remaining 3 quarts of cool water into the brewing vessel. If
+3. Pour the remaining 5 quarts of cool water into the brewing vessel. If
    prepared separately, add the sweet tea. Dip a clean finger into the
    mixture to gauge its temperature. If warmer than body temperature (about
    100°F [38°C]), cover with a clean cloth and set aside until lukewarm.
@@ -71,8 +71,8 @@ Directions
    a sip. Or dip a shot glass or other small cup past the new layer of SCOBY
    into the brew.
 7. Once the brew reaches the flavor you prefer, it is ready to harvest.
-   Before bottling or flavoring, collect at least 1 cup of starter liquid
-   for the next batch from the top of the brew (2 cups if you can spare it
+   Before bottling or flavoring, collect at least 2 cup of starter liquid
+   for the next batch from the top of the brew (3 cups if you can spare it
    or if the brew is young) and pour it into a clean bowl. Then remove the
    SCOBYs to the bowl, cover with a clean towel, and set aside. (We take the
    liquid first because removing the cultures can kick the yeast off the
