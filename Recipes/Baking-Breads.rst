@@ -18,254 +18,6 @@ Baking: Breads
 
    <p style="page-break-before: always"/>
 
-Southern-Style Cornbread
-========================
-
-Ingredients
------------
--  1 1/2 cups stone-ground cornmeal
--  1 cup all-purpose flour
--  2 tablespoons sugar
--  1 1/2 teaspoons baking powder
--  1/4 teaspoon baking soda
--  1 1/4 teaspoons salt
--  3 ears corn, kernels cut from cobs (2 1/4 cups) (can substitute 14oz
-   can of corn niblets)
--  6 tablespoons unsalted butter, cut into 6 pieces
--  1 cup buttermilk (substitute 1 1/2 teaspoons of cream of tartar and 1 cup regular milk)
--  2 large eggs plus 1 large yolk
-
-
-Directions
-----------
-1. Adjust oven rack to middle position and heat oven to 400°F. Whisk
-   cornmeal, flour, sugar, baking powder, baking soda, and salt together
-   in large bowl.
-2. Process corn kernels in blender until very smooth, about 2 minutes.
-   Transfer puree to medium saucepan (you should have about 1 1/2 cups).
-   Cook puree over medium heat, stirring constantly, until very thick
-   and deep yellow and it measures 3/4 cup, 5 to 8 minutes.
-3. Remove pan from heat. Add 5 tablespoons butter and whisk until melted
-   and incorporated. Add buttermilk and whisk until incorporated. Add
-   eggs and yolk and whisk until incorporated. Transfer corn mixture to
-   bowl with cornmeal mixture and, using rubber spatula, fold together
-   until just combined.
-4. Melt remaining 1 tablespoon butter in 10-inch cast-iron skillet over
-   medium heat. Scrape batter into skillet and spread into even layer.
-   Bake until top is golden brown and toothpick inserted in center comes
-   out clean, 23 to 28 minutes. Let cool on wire rack for 5 minutes.
-   Remove cornbread from skillet and let cool for 20 minutes before
-   cutting into wedges and serving.
-
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
-
-Pop Overs
-=========
-
-Ingredients
------------
--  1 tablespoon unsalted butter, melted and cooled, plus 1 teaspoon for
-   the pan
--  4 3/4 ounces all-purpose flour
--  1 1/2 teaspoons kosher salt
--  2 large eggs, at room temperature
--  1 cup whole milk, at room temperature
-
-
-Directions
-----------
-1. Heat the oven to 400°F.
-2. Grease a 6-cup popover pan with the 1 teaspoon of butter.
-3. Combine the 1 tablespoon of butter, the flour, salt, eggs and milk in
-   a food processor or blender and process for 30 seconds.
-4. Divide the batter evenly among the cups of the popover pan, filling
-   each one-third to one-half full. Bake on the middle rack of the oven
-   for 40 minutes, taking care not to open the oven door. Remove the
-   popovers to a cooling rack and pierce each one in the top with a
-   knife to allow steam to escape. Serve warm.
-
-.. raw:: pdf
-
-   OddPageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
-
-Pretzels
-========
-
-Source: `Tasty <https://tasty.co/recipe/homemade-soft-pretzels>`__
-
-Ingredients
------------
-
-Dipping Sauce
-^^^^^^^^^^^^^
-- 1/4 cup mayonnaise
-- 1/4 cup dijon mustard
-- 3 tablespoons packed light brown sugar
-- 1/2 teaspoon cider vinegar
-
-Pretzels
-^^^^^^^^
-- 1 1/2 cups water (360 grams), warm
-- 1 tablespoon salt
-- 1 tablespoon sugar
-- 1 packet (8 grams) active dry yeast
-- 565 grams (4 1/2 cups) all purpose flour
-- 3 tablespoons oil, divided
-- 2/3 cup baking soda (120 g)
-- 2 eggs, beaten
-- coarse salt
-
-Directions
-----------
-1. Prepare the sauce: Combine the mayonnaise, mustard, brown sugar and
-   vinegar in a bowl. Cover and refrigerate.
-2. In a bowl, mix water, salt, and sugar until combined. Add yeast, and let
-   rest 5 minutes until yeast starts to foam.
-3. Add flour and 2 tablespoons of oil, and mix thoroughly until a dough forms.
-4. Remove the dough and use the remaining oil to cover the bowl.
-5. Cover bowl with plastic wrap, and leave in a warm place for 1 hour.
-6. Preheat oven to 450°F (230°C).
-7. Cut dough into 8 pieces and roll them out into thin ropes, twisting the
-   two ends to form a pretzel shape.
-8. Dissolve baking soda in 4 cups water in Dutch oven and bring to boil over
-   medium-high heat. Boil each pretzel for 30 seconds per side.
-9. Transfer pretzels to a baking sheet, brush with egg wash, and sprinkle
-   with salt. Bake for 10-15 minutes, until golden brown.
-
-.. raw:: pdf
-
-   OddPageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
-
-60-Minute Bread
-===============
-
-Source: The Minimalist Cooks Dinner by Mark Bittman
-
-Ingredients
------------
-
-- 3 cups all-purpose flour, plus more as needed
-- 2 teaspoons instant yeast, such as SAF
-- 2 teaspoons salt
-
-Directions
-----------
-
-1. Combine the flour, yeast, and salt in a bowl or food processor. Add
-   1 1/4 cups warm water all at once, stirring with a wooden spoon or
-   mixing with the machine on. Continue to mix, for a minute or two longer
-   by hand, about 30 seconds total with the food processor. Add additional
-   water by the tablespoon if necessary, until a ball forms.
-2. Shape the dough into a flat round or long loaf, adding only enough flour
-   to allow you to handle the dough. Place the dough on a baking sheet or a
-   well-floured pizza peel. Let it rise in the warmest place in your
-   kitchen, covered, while you preheat the oven to 425°F. (If you have time,
-   let it rise for an hour or so.)
-3. Bake the bread on a sheet, or slide it onto a baking stone. Bake until
-   done, 30 to 45 minutes; the crust will be golden-brown, crisp, and firm.
-
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
-
-Easy No-Knead Focaccia
-======================
-
-Source: `Bon Appetit <https://www.bonappetit.com/recipe/easy-no-knead-focaccia>`__
-
-Ingredients
------------
-- 1 1/4-oz. (8g) envelope active dry yeast (about 2 1/4 tsp.)
-- 2 tsp. honey
-- 5 cups (625 g) all-purpose flour
-- 5 tsp. Diamond Crystal or 1 Tbsp. Morton kosher salt
-- 6 Tbsp. extra-virgin olive oil, divided, plus more for hands
-- 4 Tbsp. unsalted butter, plus more for pan
-- Flaky sea salt
-- 2 garlic cloves
-
-Directions
-----------
-1. Whisk one envelope active dry yeast, honey, and 2 1/2 cups lukewarm water
-   in a medium bowl and let sit 5 minutes (it should foam or at least get
-   creamy; if it doesn’t your yeast is dead and you should start again—check
-   the expiration date!).
-2. Add 5 cups (625 g) all-purpose flour and salt and mix with a rubber
-   spatula until a shaggy dough forms and no dry streaks remain.
-3. Pour 4 Tbsp. extra-virgin olive oil into a big bowl that will fit in your
-   refrigerator. This puppy is going to rise! Transfer dough to bowl and
-   turn to coat in oil. Cover with a silicone lid or plastic wrap and chill
-   until dough is doubled in size (it should look very bubbly and alive), at
-   least 8 hours and up to 1 day. If you're in a rush, you can also let it
-   rise at room temperature until doubled in size, 3–4 hours.
-4. Generously butter a 13x9" baking pan, for thicker focaccia that’s perfect
-   for sandwiches, or an 18x13" rimmed baking sheet, for focaccia that's
-   thinner, crispier, and great for snacking. The butter may seem
-   superfluous, but it’ll ensure that your focaccia doesn’t stick. Pour
-   1 Tbsp. extra-virgin olive oil into center of pan. Keeping the dough in
-   the bowl and using a fork in each hand, gather up edges of dough farthest
-   from you and lift up and over into center of bowl. Give the bowl a
-   quarter turn and repeat process. Do this 2 more times; you want to
-   deflate dough while you form it into a rough ball. (We learned this
-   technique from Alexandra Stafford, who uses it to shape her no-knead
-   bread.) Transfer dough to prepared pan. Pour any oil left in bowl over
-   and turn dough to coat it in oil. Let rise, uncovered, in a dry, warm
-   spot (like near a radiator or on top of the fridge or a preheating oven)
-   until doubled in size, at least 1 1/2 hours and up to 4 hours.
-5. Place a rack in middle of oven; preheat to 450°. To see if the dough is
-   ready, poke it with your finger. It should spring back slowly, leaving a
-   small visible indentation. If it springs back quickly, the dough isn’t
-   ready. (If at this point the dough is ready to bake but you aren’t, you
-   can chill it up to 1 hour.) Lightly oil your hands. If using a rimmed
-   baking sheet, gently stretch out dough to fill (you probably won't need
-   to do this if using a baking pan). Dimple focaccia all over with your
-   fingers, like you’re aggressively playing the piano, creating very deep
-   depressions in the dough (reach your fingers all the way to the bottom
-   of the pan). Drizzle with remaining 1 Tbsp. extra-virgin olive oil and
-   sprinkle with flaky sea salt. Bake focaccia until puffed and golden
-   brown all over, 20–30 minutes.
-6. Hold off on this last step until you're ready to serve the focaccia:
-   Melt 4 Tbsp. unsalted butter in a small saucepan over medium heat.
-   Remove from heat. Peel and grate in garlic cloves with a Microplane.
-   Return to medium heat and cook, stirring often, until garlic is just
-   lightly toasted, 30–45 seconds. (Or, if you prefer raw garlic to
-   toasted garlic, you can grate the garlic into the hot butter, off
-   heat, then brush right away.)
-7. Brush garlic-butter all over focaccia and slice into squares or
-   rectangles.
-
-Note
-----
-Make Ahead: Focaccia is best eaten the day it's made, but keeps well in the
-freezer. Slice it into pieces, store it in a freezer-safe container, then
-reheat it on a baking sheet in a 300° F oven.
-
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
-
 Rodney's No-Knead Bread
 =======================
 
@@ -432,6 +184,122 @@ Directions
 
    <p style="page-break-before: always"/>
 
+60-Minute Bread
+===============
+
+Source: The Minimalist Cooks Dinner by Mark Bittman
+
+Ingredients
+-----------
+
+- 3 cups all-purpose flour, plus more as needed
+- 2 teaspoons instant yeast, such as SAF
+- 2 teaspoons salt
+
+Directions
+----------
+
+1. Combine the flour, yeast, and salt in a bowl or food processor. Add
+   1 1/4 cups warm water all at once, stirring with a wooden spoon or
+   mixing with the machine on. Continue to mix, for a minute or two longer
+   by hand, about 30 seconds total with the food processor. Add additional
+   water by the tablespoon if necessary, until a ball forms.
+2. Shape the dough into a flat round or long loaf, adding only enough flour
+   to allow you to handle the dough. Place the dough on a baking sheet or a
+   well-floured pizza peel. Let it rise in the warmest place in your
+   kitchen, covered, while you preheat the oven to 425°F. (If you have time,
+   let it rise for an hour or so.)
+3. Bake the bread on a sheet, or slide it onto a baking stone. Bake until
+   done, 30 to 45 minutes; the crust will be golden-brown, crisp, and firm.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Easy No-Knead Focaccia
+======================
+
+Source: `Bon Appetit <https://www.bonappetit.com/recipe/easy-no-knead-focaccia>`__
+
+Ingredients
+-----------
+- 1 1/4-oz. (8g) envelope active dry yeast (about 2 1/4 tsp.)
+- 2 tsp. honey
+- 5 cups (625 g) all-purpose flour
+- 5 tsp. Diamond Crystal or 1 Tbsp. Morton kosher salt
+- 6 Tbsp. extra-virgin olive oil, divided, plus more for hands
+- 4 Tbsp. unsalted butter, plus more for pan
+- Flaky sea salt
+- 2 garlic cloves
+
+Directions
+----------
+1. Whisk one envelope active dry yeast, honey, and 2 1/2 cups lukewarm water
+   in a medium bowl and let sit 5 minutes (it should foam or at least get
+   creamy; if it doesn’t your yeast is dead and you should start again—check
+   the expiration date!).
+2. Add 5 cups (625 g) all-purpose flour and salt and mix with a rubber
+   spatula until a shaggy dough forms and no dry streaks remain.
+3. Pour 4 Tbsp. extra-virgin olive oil into a big bowl that will fit in your
+   refrigerator. This puppy is going to rise! Transfer dough to bowl and
+   turn to coat in oil. Cover with a silicone lid or plastic wrap and chill
+   until dough is doubled in size (it should look very bubbly and alive), at
+   least 8 hours and up to 1 day. If you're in a rush, you can also let it
+   rise at room temperature until doubled in size, 3–4 hours.
+4. Generously butter a 13x9" baking pan, for thicker focaccia that’s perfect
+   for sandwiches, or an 18x13" rimmed baking sheet, for focaccia that's
+   thinner, crispier, and great for snacking. The butter may seem
+   superfluous, but it’ll ensure that your focaccia doesn’t stick. Pour
+   1 Tbsp. extra-virgin olive oil into center of pan. Keeping the dough in
+   the bowl and using a fork in each hand, gather up edges of dough farthest
+   from you and lift up and over into center of bowl. Give the bowl a
+   quarter turn and repeat process. Do this 2 more times; you want to
+   deflate dough while you form it into a rough ball. (We learned this
+   technique from Alexandra Stafford, who uses it to shape her no-knead
+   bread.) Transfer dough to prepared pan. Pour any oil left in bowl over
+   and turn dough to coat it in oil. Let rise, uncovered, in a dry, warm
+   spot (like near a radiator or on top of the fridge or a preheating oven)
+   until doubled in size, at least 1 1/2 hours and up to 4 hours.
+5. Place a rack in middle of oven; preheat to 450°. To see if the dough is
+   ready, poke it with your finger. It should spring back slowly, leaving a
+   small visible indentation. If it springs back quickly, the dough isn’t
+   ready. (If at this point the dough is ready to bake but you aren’t, you
+   can chill it up to 1 hour.) Lightly oil your hands. If using a rimmed
+   baking sheet, gently stretch out dough to fill (you probably won't need
+   to do this if using a baking pan). Dimple focaccia all over with your
+   fingers, like you’re aggressively playing the piano, creating very deep
+   depressions in the dough (reach your fingers all the way to the bottom
+   of the pan). Drizzle with remaining 1 Tbsp. extra-virgin olive oil and
+   sprinkle with flaky sea salt. Bake focaccia until puffed and golden
+   brown all over, 20–30 minutes.
+6. Hold off on this last step until you're ready to serve the focaccia:
+   Melt 4 Tbsp. unsalted butter in a small saucepan over medium heat.
+   Remove from heat. Peel and grate in garlic cloves with a Microplane.
+   Return to medium heat and cook, stirring often, until garlic is just
+   lightly toasted, 30–45 seconds. (Or, if you prefer raw garlic to
+   toasted garlic, you can grate the garlic into the hot butter, off
+   heat, then brush right away.)
+7. Brush garlic-butter all over focaccia and slice into squares or
+   rectangles.
+
+Note
+----
+Make Ahead: Focaccia is best eaten the day it's made, but keeps well in the
+freezer. Slice it into pieces, store it in a freezer-safe container, then
+reheat it on a baking sheet in a 300° F oven.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Cranberry and White Chocolate Chip Muffins
 ==========================================
 
@@ -463,3 +331,123 @@ Directions
 Note
 ----
 Variation: Substitute cranberries and white chocolate chips with blueberries.
+Southern-Style Cornbread
+========================
+
+Ingredients
+-----------
+-  1 1/2 cups stone-ground cornmeal
+-  1 cup all-purpose flour
+-  2 tablespoons sugar
+-  1 1/2 teaspoons baking powder
+-  1/4 teaspoon baking soda
+-  1 1/4 teaspoons salt
+-  3 ears corn, kernels cut from cobs (2 1/4 cups) (can substitute 14oz
+   can of corn niblets)
+-  6 tablespoons unsalted butter, cut into 6 pieces
+-  1 cup buttermilk (substitute 1 1/2 teaspoons of cream of tartar and 1 cup regular milk)
+-  2 large eggs plus 1 large yolk
+
+
+Directions
+----------
+1. Adjust oven rack to middle position and heat oven to 400°F. Whisk
+   cornmeal, flour, sugar, baking powder, baking soda, and salt together
+   in large bowl.
+2. Process corn kernels in blender until very smooth, about 2 minutes.
+   Transfer puree to medium saucepan (you should have about 1 1/2 cups).
+   Cook puree over medium heat, stirring constantly, until very thick
+   and deep yellow and it measures 3/4 cup, 5 to 8 minutes.
+3. Remove pan from heat. Add 5 tablespoons butter and whisk until melted
+   and incorporated. Add buttermilk and whisk until incorporated. Add
+   eggs and yolk and whisk until incorporated. Transfer corn mixture to
+   bowl with cornmeal mixture and, using rubber spatula, fold together
+   until just combined.
+4. Melt remaining 1 tablespoon butter in 10-inch cast-iron skillet over
+   medium heat. Scrape batter into skillet and spread into even layer.
+   Bake until top is golden brown and toothpick inserted in center comes
+   out clean, 23 to 28 minutes. Let cool on wire rack for 5 minutes.
+   Remove cornbread from skillet and let cool for 20 minutes before
+   cutting into wedges and serving.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Pop Overs
+=========
+
+Ingredients
+-----------
+-  1 tablespoon unsalted butter, melted and cooled, plus 1 teaspoon for
+   the pan
+-  4 3/4 ounces all-purpose flour
+-  1 1/2 teaspoons kosher salt
+-  2 large eggs, at room temperature
+-  1 cup whole milk, at room temperature
+
+
+Directions
+----------
+1. Heat the oven to 400°F.
+2. Grease a 6-cup popover pan with the 1 teaspoon of butter.
+3. Combine the 1 tablespoon of butter, the flour, salt, eggs and milk in
+   a food processor or blender and process for 30 seconds.
+4. Divide the batter evenly among the cups of the popover pan, filling
+   each one-third to one-half full. Bake on the middle rack of the oven
+   for 40 minutes, taking care not to open the oven door. Remove the
+   popovers to a cooling rack and pierce each one in the top with a
+   knife to allow steam to escape. Serve warm.
+
+.. raw:: pdf
+
+   OddPageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Pretzels
+========
+
+Source: `Tasty <https://tasty.co/recipe/homemade-soft-pretzels>`__
+
+Ingredients
+-----------
+- 1 1/2 cups water (360 grams), warm
+- 1 tablespoon salt
+- 1 tablespoon sugar
+- 1 packet (8 grams) active dry yeast
+- 565 grams (4 1/2 cups) all purpose flour
+- 3 tablespoons oil, divided
+- 2/3 cup baking soda (120 g)
+- 2 eggs, beaten
+- coarse salt
+
+Directions
+----------
+1. In a bowl, mix water, salt, and sugar until combined. Add yeast, and let
+   rest 5 minutes until yeast starts to foam.
+2. Add flour and 2 tablespoons of oil, and mix thoroughly until a dough forms.
+3. Remove the dough and use the remaining oil to cover the bowl.
+4. Cover bowl with plastic wrap, and leave in a warm place for 1 hour.
+5. Preheat oven to 450°F (230°C).
+6. Cut dough into 8 pieces and roll them out into thin ropes, twisting the
+   two ends to form a pretzel shape.
+7. Dissolve baking soda in 4 cups water in Dutch oven and bring to boil over
+   medium-high heat. Boil each pretzel for 30 seconds per side.
+8. Transfer pretzels to a baking sheet, brush with egg wash, and sprinkle
+   with salt. Bake for 10-15 minutes, until golden brown.
+9. Serve with `Mustard Dipping Sauce <#mustard-dipping-sauce>`__
+
+.. raw:: pdf
+
+   OddPageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
