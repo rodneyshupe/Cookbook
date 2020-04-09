@@ -104,7 +104,8 @@ a collection of recipes containing the favorites of Rodney Shupe and family
 
 .. include:: Recipes/Sauces.rst
 
-.. include:: Recipes/Baking.rst
+.. include:: Recipes/Baking-Breads.rst
+.. include:: Recipes/Baking-Cookies.rst
 
 .. include:: Recipes/Desserts.rst
 
