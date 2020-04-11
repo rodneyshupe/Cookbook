@@ -666,36 +666,6 @@ Directions
 
    <p style="page-break-before: always"/>
 
-Planter’s Punch
-===============
-
-Ingredients
------------
-
--  3 oz Coruba dark Jamaican rum (if you can’t find Coruba, substitute
-   another dark, heavy rum)
--  1 ounce simple syrup (equal parts sugar and water, mixed until
-   dissolved)
--  3/4 ounce fresh lime juice
--  3 dashes Angostura bitters
-
-Directions
-----------
-
-1. Combine ingredients in a tall glass and fill with crushed ice.
-   Swizzle with a bar spoon until a frost forms on the outside of the
-   glass. The ice will settle as you do this; add more crushed ice to
-   fill, garnish with a mint sprig.
-
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
-
-
 Red Wine Picante
 ================
 
@@ -777,6 +747,30 @@ Directions
 2. Fill each glass with ice and top with soda. Thread a blackberry,
    raspberry and blueberry onto 8 cocktail skewers to garnish each
    glass.
+
+----
+
+Planter’s Punch
+===============
+
+Ingredients
+-----------
+
+-  3 oz Coruba dark Jamaican rum (if you can’t find Coruba, substitute
+   another dark, heavy rum)
+-  1 ounce simple syrup (equal parts sugar and water, mixed until
+   dissolved)
+-  3/4 ounce fresh lime juice
+-  3 dashes Angostura bitters
+
+Directions
+----------
+
+1. Combine ingredients in a tall glass and fill with crushed ice.
+   Swizzle with a bar spoon until a frost forms on the outside of the
+   glass. The ice will settle as you do this; add more crushed ice to
+   fill, garnish with a mint sprig.
+
 
 .. raw:: pdf
 
@@ -937,13 +931,7 @@ Directions
 3. To serve, add a shot of rum to each heatproof glass or mug then top
    with the hot lemonade. Bottoms up!
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Irish Coffee
 ============
@@ -966,22 +954,7 @@ Directions
    sugar). Stir to combine, and gently spoon between 1/2-inch and an
    inch of cream atop the coffee mixture, to taste.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
-
-
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Spiked London Fog
 =================
@@ -1037,13 +1010,7 @@ Directions
    with 1 cup of milk (any kind will work) and microwave stiring
    ocationally until mixture is smooth, approx. 2 min.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Hot Chocolate Mix
 =================
@@ -1154,6 +1121,8 @@ Directions
    (any bacon drippings should remain in cheesecloth). Use funnel to
    pour strained vodka back into original bottle. Store in cool, dark
    location for up to 6 months.
+
+----
 
 Sous-Vide Bacon Infused Vodka
 =============================
