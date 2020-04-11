@@ -141,6 +141,33 @@ Directions
 1. Pour the ingredients into a mixing glass with ice cubes. Stir well.
    Strain into a chilled cocktail glass. Garnish with the cherry.
 
+----
+
+Tequila and Sangrita
+====================
+
+Sangrita is the traditional accompaniment to a shot of tequila and
+originated in the Lake Chapala region or Jalisco, Mexico. It is
+usually made with Seville oranges, pomegranate and lime juice as well
+as chile powder or hot cause for a bit of a kick.
+
+Ingredients
+-----------
+
+-  1 ounce of freshly squeezed orange juice
+-  3/4th to 1 ounce of freshly squeezed lime juice
+-  1/2 an ounce of pomegranate-based grenadine
+-  1/4 tablespoon of ancho chili powder (or 3 dashes of hot sauce of
+   your choice)
+
+Directions
+----------
+
+1. Combine all ingredients . Stir to combine.
+2. Pour equal amounts of the Sangrita mixture and Tequila Reposado or
+   Blanco into separate shot glasses.
+3. Take alternate sips from each glass.
+
 .. raw:: pdf
 
    PageBreak recipePage
@@ -299,63 +326,27 @@ Garden Party
 
    <p style="page-break-before: always"/>
 
-The Brooklyn Cocktail
-=====================
+Marjarita
+=========
 
 Ingredients
 -----------
 
--  2 ounces rye or other whiskey
--  1 ounce dry vermouth
--  1/4 ounce maraschino liqueur
--  1/4 ounce Amer Picon, or a few dashes Angostura or orange bitters
+-  1 1/2 ounces tequila
+-  1/2 ounce triple sec (Cointreau is recommended)
+-  1 ounce fresh lime juice
+-  Lime wedge for garnish
+-  Salt or sugar to rim the glass (optional)
 
 Directions
 ----------
 
-Combine ingredients with ice and stir until well-chilled. Strain into a
-chilled cocktail glass.
+1. Pour the ingredients into a cocktail shaker with ice cubes. Shake
+   well.
+2. If desired, salt the rim of a chilled margarita glass. Pour contents,
+   with ice, into the glass. Garnish with the lime wedge.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
-
-Tequila and Sangrita
-====================
-
-Sangrita is the traditional accompaniment to a shot of tequila and
-originated in the Lake Chapala region or Jalisco, Mexico. It is
-usually made with Seville oranges, pomegranate and lime juice as well
-as chile powder or hot cause for a bit of a kick.
-
-Ingredients
------------
-
--  1 ounce of freshly squeezed orange juice
--  3/4th to 1 ounce of freshly squeezed lime juice
--  1/2 an ounce of pomegranate-based grenadine
--  1/4 tablespoon of ancho chili powder (or 3 dashes of hot sauce of
-   your choice)
-
-Directions
-----------
-
-1. Combine all ingredients . Stir to combine.
-2. Pour equal amounts of the Sangrita mixture and Tequila Reposado or
-   Blanco into separate shot glasses.
-3. Take alternate sips from each glass.
-
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Beergarita
 ==========
@@ -378,34 +369,6 @@ Directions
    until combined.
 2. Add beer and mix.
 3. Pour into Margarita glasses.
-
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
-
-Marjarita
-=========
-
-Ingredients
------------
-
--  1 1/2 ounces tequila
--  1/2 ounce triple sec (Cointreau is recommended)
--  1 ounce fresh lime juice
--  Lime wedge for garnish
--  Salt or sugar to rim the glass (optional)
-
-Directions
-----------
-
-1. Pour the ingredients into a cocktail shaker with ice cubes. Shake
-   well.
-2. If desired, salt the rim of a chilled margarita glass. Pour contents,
-   with ice, into the glass. Garnish with the lime wedge.
 
 .. raw:: pdf
 
@@ -565,6 +528,33 @@ Directions
 .. raw:: html
 
    <p style="page-break-before: always"/>
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+The Brooklyn Cocktail
+=====================
+
+Ingredients
+-----------
+
+-  2 ounces rye or other whiskey
+-  1 ounce dry vermouth
+-  1/4 ounce maraschino liqueur
+-  1/4 ounce Amer Picon, or a few dashes Angostura or orange bitters
+
+Directions
+----------
+
+Combine ingredients with ice and stir until well-chilled. Strain into a
+chilled cocktail glass.
+
+----
 
 Sidecar
 =======
