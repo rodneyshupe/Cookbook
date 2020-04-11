@@ -384,33 +384,6 @@ Directions
 
    <p style="page-break-before: always"/>
 
-Daiquiri
-========
-
-Ingredients
------------
-
--  2 ounces light rum (you can also use gold rum, but dark rum can be
-   too heavy)
--  3/4 ounce fresh-squeezed lime juice (about 1/2 of a lime)
--  1 teaspoon sugar
-
-Directions
-----------
-
--  Pour sugar and lime juice into a cocktail shaker and stir until sugar
-   is dissolved. Add the rum and fill shaker with ice; shake well for 10
-   seconds and strain into a chilled cocktail glass. Garnish with a
-   wedge of lime.
-
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
-
 Emerald City Martini
 ====================
 
@@ -436,6 +409,27 @@ Directions
 .. raw:: html
 
    <p style="page-break-before: always"/>
+
+Daiquiri
+========
+
+Ingredients
+-----------
+
+-  2 ounces light rum (you can also use gold rum, but dark rum can be
+   too heavy)
+-  3/4 ounce fresh-squeezed lime juice (about 1/2 of a lime)
+-  1 teaspoon sugar
+
+Directions
+----------
+
+-  Pour sugar and lime juice into a cocktail shaker and stir until sugar
+   is dissolved. Add the rum and fill shaker with ice; shake well for 10
+   seconds and strain into a chilled cocktail glass. Garnish with a
+   wedge of lime.
+
+----
 
 Mai Tai
 =======
@@ -491,13 +485,7 @@ Directions
 2. Fill glass with ice. Add rum and lime juice. Stir to combine.
 3. Top with club soda and add mint sprigs and lime twist for garnish.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Mint Julep
 ==========
@@ -526,14 +514,6 @@ Directions
    adorn the drink with sprigs of fresh mint. Serve with a short straw,
    so the fragrance of the mint bouquet will greet the drinker with each
    sip.
-
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
 
 .. raw:: pdf
 
@@ -614,13 +594,7 @@ Directions
    an ice-filled Old Fashioned glass. Garnish with a cherry, a slice of
    orange, or everything or nothing at all.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Tom Collins
 ===========
