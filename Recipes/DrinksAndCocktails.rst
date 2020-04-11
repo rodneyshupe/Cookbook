@@ -615,13 +615,7 @@ Directions
    Fill glass with large chunks of ice and top with chilled club soda.
    Insert straw and do what comes natural.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Cosmopolitan
 ============
@@ -680,6 +674,7 @@ Directions
 
    <p style="page-break-before: always"/>
 
+
 Red Wine Picante
 ================
 
@@ -702,13 +697,7 @@ Directions
 1. In pitcher, combine orange, lemon, star anise, cinnamon sticks and
    peppercorns. Pour in red wine; steep 1 hr. in fridge. Serve over ice.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Fresh Cherry and Strawberry Sparkling Sangria
 =============================================
@@ -885,6 +874,25 @@ Directions
    chilled cocktail glass. Twist a piece of orange peel over the drink,
    and use the twist as garnish.
 
+----
+
+Americano
+=========
+
+Ingredients
+-----------
+
+- 1 1/2 oz Campari
+- 1 1/2 oz Sweet vermouth
+- 3 oz Club soda
+
+Directions
+----------
+
+1. Pour the Campari and vermouth into a rocks or highball glass filled with ice.
+2. Add the club soda.
+3. Garnish with an orange twist.
+
 .. raw:: pdf
 
    PageBreak recipePage
@@ -984,22 +992,6 @@ Directions
 
    <p style="page-break-before: always"/>
 
-Americano
-=========
-
-Ingredients
------------
-
-- 1 1/2 oz Campari
-- 1 1/2 oz Sweet vermouth
-- 3 oz Club soda
-
-Directions
-----------
-
-1. Pour the Campari and vermouth into a rocks or highball glass filled with ice.
-2. Add the club soda.
-3. Garnish with an orange twist.
 
 .. raw:: pdf
 
