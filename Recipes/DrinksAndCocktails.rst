@@ -299,39 +299,6 @@ Garden Party
 
    <p style="page-break-before: always"/>
 
-Tequila and Sangrita
-====================
-
-Sangrita is the traditional accompaniment to a shot of tequila and
-originated in the Lake Chapala region or Jalisco, Mexico. It is
-usually made with Seville oranges, pomegranate and lime juice as well
-as chile powder or hot cause for a bit of a kick.
-
-Ingredients
------------
-
--  1 ounce of freshly squeezed orange juice
--  3/4th to 1 ounce of freshly squeezed lime juice
--  1/2 an ounce of pomegranate-based grenadine
--  1/4 tablespoon of ancho chili powder (or 3 dashes of hot sauce of
-   your choice)
-
-Directions
-----------
-
-1. Combine all ingredients . Stir to combine.
-2. Pour equal amounts of the Sangrita mixture and Tequila Reposado or
-   Blanco into separate shot glasses.
-3. Take alternate sips from each glass.
-
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
-
 Marjarita
 =========
 
@@ -384,23 +351,57 @@ Directions
 
    <p style="page-break-before: always"/>
 
-Emerald City Martini
+Tequila and Sangrita
 ====================
+
+Sangrita is the traditional accompaniment to a shot of tequila and
+originated in the Lake Chapala region or Jalisco, Mexico. It is
+usually made with Seville oranges, pomegranate and lime juice as well
+as chile powder or hot cause for a bit of a kick.
 
 Ingredients
 -----------
 
--  2 oz vodka
--  1oz melon liquor
--  1 splash lime
--  1 melon ball
+-  1 ounce of freshly squeezed orange juice
+-  3/4th to 1 ounce of freshly squeezed lime juice
+-  1/2 an ounce of pomegranate-based grenadine
+-  1/4 tablespoon of ancho chili powder (or 3 dashes of hot sauce of
+   your choice)
 
 Directions
 ----------
 
-1. Pour the liquid ingredients into a mixing glass with ice cubes.
-   Shake. Strain into a chilled cocktail glass. Garnish with the melon
-   balls.
+1. Combine all ingredients . Stir to combine.
+2. Pour equal amounts of the Sangrita mixture and Tequila Reposado or
+   Blanco into separate shot glasses.
+3. Take alternate sips from each glass.
+
+----
+
+Smokey Tequila Sour
+===================
+
+Source: `Alton Brown <https://www.youtube.com/watch?v=yRNRd58zBBU>`__
+
+Ingredients
+-----------
+
+- 1 lime
+- 1/2 orange
+- 1 1/2 oz tequila
+- 1/2 oz amaro
+- 1 teaspoon agave syrup
+- liquid smoke
+
+Directions
+----------
+
+1. slice lime in half and save thin slice of the line from the middle for
+   garnish. Juice the lime halves and 1/2 orange into a measuring cup.
+   Measure out 2 oz of combined juice and add to a shaker filled with ice.
+2. Add tequila, amaro, agave syrup, and 2 dashes liquid smoke to shaker and
+   shake.
+3. Strain and serve into coupe glasses.
 
 .. raw:: pdf
 
@@ -522,6 +523,26 @@ Directions
 .. raw:: html
 
    <p style="page-break-before: always"/>
+
+Emerald City Martini
+====================
+
+Ingredients
+-----------
+
+-  2 oz vodka
+-  1oz melon liquor
+-  1 splash lime
+-  1 melon ball
+
+Directions
+----------
+
+1. Pour the liquid ingredients into a mixing glass with ice cubes.
+   Shake. Strain into a chilled cocktail glass. Garnish with the melon
+   balls.
+
+----
 
 The Brooklyn Cocktail
 =====================
@@ -788,39 +809,6 @@ Directions
 
 ----
 
-Smokey Tequila Sour
-===================
-
-Source: `Alton Brown <https://www.youtube.com/watch?v=yRNRd58zBBU>`__
-
-Ingredients
------------
-
-- 1 lime
-- 1/2 orange
-- 1 1/2 oz tequila
-- 1/2 oz amaro
-- 1 teaspoon agave syrup
-- liquid smoke
-
-Directions
-----------
-
-1. slice lime in half and save thin slice of the line from the middle for
-   garnish. Juice the lime halves and 1/2 orange into a measuring cup.
-   Measure out 2 oz of combined juice and add to a shaker filled with ice.
-2. Add tequila, amaro, agave syrup, and 2 dashes liquid smoke to shaker and
-   shake.
-3. Strain and serve into coupe glasses.
-
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
-
 French 75
 =========
 
@@ -893,13 +881,7 @@ Directions
 2. Add the club soda.
 3. Garnish with an orange twist.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Boulevardier
 ============
