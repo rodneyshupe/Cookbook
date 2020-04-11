@@ -201,6 +201,104 @@ Substitute vodka with dark rum, and use a collins glass.
 
    <p style="page-break-before: always"/>
 
+Aperol Spritz
+=============
+
+Ingredients
+-----------
+
+- 3 oz Prosecco
+- 2 oz Aperol
+- 2 oz Soda water
+
+Directions
+----------
+
+1. Add all ingredients into a wine glass with ice and stir.
+2. Garnish with an orange wheel.
+
+Variation
+---------
+- 1 1/2 ounces of Aperol
+- 4 ounces of Prosecco
+
+----
+
+Fruit Rollup
+============
+
+Source: Unknown
+
+Ingredients
+-----------
+
+- 1 oz Aperol
+- 4 oz lager beer (cheaper the better)
+- 2 dashes grapefruit bitters (can substitute orange bitters )
+
+Directions
+----------
+
+1. Combine all ingredients over ice and stir. Strain and serve into a large
+   martini glass.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Amber Road
+==========
+
+Ingredients
+-----------
+
+- 1 1/2oz bourbon
+- 1 oz Aperol
+- 1/2 oz fresh lemon juice
+- 1/4 oz maple syrup
+- a dash of Angostura bitters
+- 2 ounces of soda
+- lemon wheel and mint for garnish
+
+Directions
+----------
+1. Combine bourbon, Aperol, lemon juice, syrup and bitters in a cocktail shaker
+   with ice. Shake that all up hard, then strain it into a tall glass with ice.
+   Add 2 ounces of soda, and garnish with a lemon wheel and mint sprig.
+
+Pro tip: Gently slap that mint on your hand a few times to release its
+aromatic oils before using it to garnish.
+
+----
+
+Garden Party
+============
+
+- 1 1/2 oz gin
+- 1 1/2 oz Aperol
+- 3/4 oz fresh lemon juice
+- 1/4 oz simple syrup
+- five fresh basil leaves (more for garnish)
+- 1/2 oz Prosecco
+
+1. Add gin, Aperol, lemon juice, simple syrup and basil leaves to a cocktail
+   shaker with ice. Shake that all up; the basil will break up and flavor the
+   rest of the cocktail.
+2. Double-strain it into a glass and top with about Prosecco. Garnish with a
+   basil sprig.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 The Brooklyn Cocktail
 =====================
 
@@ -729,6 +827,33 @@ Directions
    well-chilled, about 10 seconds. Strain into chilled cocktail glass;
    dash bitters atop the egg-white foam.
 
+----
+
+Smokey Tequila Sour
+===================
+
+Source: `Alton Brown <https://www.youtube.com/watch?v=yRNRd58zBBU>`__
+
+Ingredients
+-----------
+
+- 1 lime
+- 1/2 orange
+- 1 1/2 oz tequila
+- 1/2 oz amaro
+- 1 teaspoon agave syrup
+- liquid smoke
+
+Directions
+----------
+
+1. slice lime in half and save thin slice of the line from the middle for
+   garnish. Juice the lime halves and 1/2 orange into a measuring cup.
+   Measure out 2 oz of combined juice and add to a shaker filled with ice.
+2. Add tequila, amaro, agave syrup, and 2 dashes liquid smoke to shaker and
+   shake.
+3. Strain and serve into coupe glasses.
+
 .. raw:: pdf
 
    PageBreak recipePage
@@ -880,31 +1005,6 @@ Directions
    sweetness, try making the simple syrup using brown sugar or demerara
    sugar). Stir to combine, and gently spoon between 1/2-inch and an
    inch of cream atop the coffee mixture, to taste.
-
----
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
-
-Aperol Spritz
-=================
-
-Ingredients
------------
-
-- 3 oz Prosecco
-- 2 oz Aperol
-- 2 oz Soda water
-
-Directions
-----------
-
-1. Add all ingredients into a wine glass with ice and stir.
-2. Garnish with an orange wheel.
 
 .. raw:: pdf
 
@@ -1170,6 +1270,8 @@ Directions
 5. Pour through a fine mesh (such as a nut bag) and transfer to a clean
    bottle
 6. Syrup will keep for about a month in the refrigerator
+
+----
 
 Club Soda
 =========

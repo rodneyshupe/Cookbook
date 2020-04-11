@@ -443,11 +443,3 @@ Directions
 8. Transfer pretzels to a baking sheet, brush with egg wash, and sprinkle
    with salt. Bake for 10-15 minutes, until golden brown.
 9. Serve with `Mustard Dipping Sauce <#mustard-dipping-sauce>`__
-
-.. raw:: pdf
-
-   OddPageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
