@@ -931,7 +931,13 @@ Directions
 3. To serve, add a shot of rum to each heatproof glass or mug then top
    with the hot lemonade. Bottoms up!
 
-----
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Irish Coffee
 ============

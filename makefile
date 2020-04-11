@@ -79,7 +79,7 @@ $(epub): $(html) RecipesCover.png
 			 --tags Cookbook,Cooking,Recipes \
 			 --cover RecipesCover.png \
 			 --max-toc-links 29 \
-			 --embed-all-fonts
+			 --embed-all-fonts > /dev/null
 
 tidy:
 	@rm -fR *.build_temp
