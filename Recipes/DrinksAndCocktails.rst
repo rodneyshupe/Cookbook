@@ -141,33 +141,6 @@ Directions
 1. Pour the ingredients into a mixing glass with ice cubes. Stir well.
    Strain into a chilled cocktail glass. Garnish with the cherry.
 
-----
-
-Tequila and Sangrita
-====================
-
-Sangrita is the traditional accompaniment to a shot of tequila and
-originated in the Lake Chapala region or Jalisco, Mexico. It is
-usually made with Seville oranges, pomegranate and lime juice as well
-as chile powder or hot cause for a bit of a kick.
-
-Ingredients
------------
-
--  1 ounce of freshly squeezed orange juice
--  3/4th to 1 ounce of freshly squeezed lime juice
--  1/2 an ounce of pomegranate-based grenadine
--  1/4 tablespoon of ancho chili powder (or 3 dashes of hot sauce of
-   your choice)
-
-Directions
-----------
-
-1. Combine all ingredients . Stir to combine.
-2. Pour equal amounts of the Sangrita mixture and Tequila Reposado or
-   Blanco into separate shot glasses.
-3. Take alternate sips from each glass.
-
 .. raw:: pdf
 
    PageBreak recipePage
@@ -326,6 +299,39 @@ Garden Party
 
    <p style="page-break-before: always"/>
 
+Tequila and Sangrita
+====================
+
+Sangrita is the traditional accompaniment to a shot of tequila and
+originated in the Lake Chapala region or Jalisco, Mexico. It is
+usually made with Seville oranges, pomegranate and lime juice as well
+as chile powder or hot cause for a bit of a kick.
+
+Ingredients
+-----------
+
+-  1 ounce of freshly squeezed orange juice
+-  3/4th to 1 ounce of freshly squeezed lime juice
+-  1/2 an ounce of pomegranate-based grenadine
+-  1/4 tablespoon of ancho chili powder (or 3 dashes of hot sauce of
+   your choice)
+
+Directions
+----------
+
+1. Combine all ingredients . Stir to combine.
+2. Pour equal amounts of the Sangrita mixture and Tequila Reposado or
+   Blanco into separate shot glasses.
+3. Take alternate sips from each glass.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Marjarita
 =========
 
@@ -359,7 +365,7 @@ Ingredients
 
 -  3oz. Tequila
 -  1 can frozen concentrated lime aid
--  3 cans (or bottles) of lager beer (I use Molson Canadian) chilled as
+-  3 cans (or bottles) of lager beer (cheaper is better) chilled as
    cold as possible.
 
 Directions
