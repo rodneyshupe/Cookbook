@@ -176,6 +176,56 @@ Directions
    refrigerate for at least 12 hours or up to 18 hours. Remaining starter
    should be refrigerated and maintained as directed.
 
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Simple Crusty Bread
+===================
+
+Source: `NY Times <https://cooking.nytimes.com/recipes/1018203-simple-crusty-bread>`_
+
+Ingredients
+-----------
+
+- 1 1/2 tablespoons yeast
+- 1 1/2 tablespoons kosher salt
+- 6 1/2 cups unbleached, all-purpose flour, more for dusting dough
+- Cornmeal
+
+Directions
+----------
+
+1. In a large bowl or plastic container, mix yeast and salt into 3 cups
+   lukewarm water (about 100 degrees). Stir in flour, mixing until there are
+   no dry patches. Dough will be quite loose. Cover, but not with an airtight
+   lid. Let dough rise at room temperature 2 hours (or up to 5 hours).
+2. Bake at this point or refrigerate, covered, for as long as two weeks. When
+   ready to bake, sprinkle a little flour on dough and cut off a
+   grapefruit-size piece with serrated knife. Turn dough in hands to lightly
+   stretch surface, creating a rounded top and a lumpy bottom. Put dough on
+   pizza peel sprinkled with cornmeal; let rest 40 minutes. Repeat with
+   remaining dough or refrigerate it.
+3. Place broiler pan on bottom of oven. Place baking stone on middle rack and
+   turn oven to 450 degrees; heat stone at that temperature for 20 minutes.
+4. Dust dough with flour, slash top with serrated or very sharp knife three
+   times. Slide onto stone. Pour one cup hot water into broiler pan and shut
+   oven quickly to trap steam. Bake until well browned, about 30 minutes.
+   Cool completely.
+
+Variation
+---------
+
+If not using stone, stretch rounded dough into oval and place in a greased,
+nonstick loaf pan. Let rest 40 minutes if fresh, an extra hour if
+refrigerated. Heat oven to 450 degrees for 5 minutes. Place pan on middle
+rack.
+
 .. raw:: pdf
 
    PageBreak recipePage
@@ -291,6 +341,129 @@ Note
 Make Ahead: Focaccia is best eaten the day it's made, but keeps well in the
 freezer. Slice it into pieces, store it in a freezer-safe container, then
 reheat it on a baking sheet in a 300° F oven.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Basic Flatbread
+===============
+
+Ingredients
+-----------
+
+- 300 grams flour, any wheat sort (white, wholemeal even SR or plain/all-purpose)
+- 3/4 teaspoon baking powder
+- 1/2 teaspoon salt
+- 3 tablespoons vegetable oil
+- 180 grams cold water.
+
+Directions
+----------
+
+1. Add flour, baking powder, and salt to food processor and lock lid into
+   place. Turn on processor and process until combined, about 5 seconds. Stop
+   processor and remove lid. Add oil and lock lid back into place. Process
+   until no visible streaks of oil remain, about 10 seconds.
+2. With processor running, slowly pour water through feed tube and process
+   until dough forms soft ball that clears sides of processor bowl, 30 to 60
+   seconds. Stop processor, remove lid, and carefully remove processor blade.
+3. Sprinkle clean counter with extra flour and coat your hands in flour.
+   Transfer dough to counter, knead for 30 seconds, then form dough into
+   smooth ball.
+4. Use bench scraper to divide dough into 4 equal pieces. Working with
+   1 piece of dough at a time, shape dough into ball (click here to learn
+   how to shape dough into balls). Repeat with remaining pieces of dough.
+   Cover dough balls loosely with plastic wrap. Let sit for 30 minutes.
+5. When dough is ready, sprinkle extra flour on clean counter. Use your
+   fingertips to gently pat 1 dough ball into 5-inch circle (keep remaining
+   dough balls covered). Use rolling pin to roll dough into 9-inch circle,
+   flouring counter as needed to prevent sticking. Repeat rolling with
+   remaining dough balls.
+6. Heat 12-inch cast-iron skillet over medium heat for 3 minutes (skillet
+   should be hot but not smoking).
+7. Gently prick 1 dough round all over with fork, then carefully place in
+   skillet (ask an adult for help). Cook until underside is spotty brown,
+   1 to 2 minutes. Use spatula to carefully flip dough round and cook until
+   second side is spotty brown, 1 to 2 minutes.
+8. Use spatula to carefully transfer flatbread to plate and cover with clean
+   dish towel to keep warm. Repeat with remaining dough rounds, stacking
+   flatbreads and re-covering with towel as they finish. Serve warm.
+
+Variations
+----------
+* Naan: substitute 340 grams greek yogurt for the oil and water.
+* Garlic Naan: Substitute yogurt as above. Then when cooking, once the first
+  side of the naan is cooked, flip the naan over and brush the cooked side
+  with olive oil, sprinkle with about 1/4 teaspoon of cilantro and
+  1/4 teaspoon of garlic. When the second side is cooked, flip the garlic
+  side onto the griddle surface for just a few seconds. The hot surface will
+  help seal the garlic to the naan.
+* Sesame Nann: Substitute yogurt as above. Then when cooking, brush with a
+  little olive oil when the naan is done cooking and sprinkle 1 side with
+  sesame seeds. Place the sesame seed side of the naan onto the cooking
+  surface for just a few seconds to seal the sesame seeds into the surface
+  of the naan.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Pita Bread
+==========
+
+Ingredients
+-----------
+
+- 2 1/4 teaspoons active dry yeast (1 packet or 8 grams)
+- 1/2 teaspoon sugar
+- 35 grams whole-wheat flour (1/4 cup), preferably freshly milled
+- 310 grams unbleached all-purposed flour (2 1/2 cups)
+- 1 teaspoon kosher salt
+- 2 tablespoons olive oil
+
+Directions
+----------
+
+1. Make sponge: Put 1 cup lukewarm water in a large mixing bowl. Add yeast
+   and sugar. Stir to dissolve. Add the whole-wheat flour and
+   1/4 cup all-purpose flour and whisk together. Put bowl in a warm (not hot)
+   place, uncovered, until mixture is frothy and bubbling, about 15 minutes.
+2. Add salt, olive oil and nearly all remaining all-purpose flour (reserve
+   1/2 cup). With a wooden spoon or a pair of chopsticks, stir until mixture
+   forms a shaggy mass. Dust with a little reserved flour, then knead in bowl
+   for 1 minute, incorporating any stray bits of dry dough.
+3. Turn dough onto work surface. Knead lightly for 2 minutes, until smooth.
+   Cover and let rest 10 minutes, then knead again for 2 minutes. Try not to
+   add too much reserved flour; the dough should be soft and a bit moist. (At
+   this point, dough may refrigerated in a large zippered plastic bag for
+   several hours or overnight. Bring dough back to room temperature, knead
+   into a ball and proceed with recipe.)
+4. Clean the mixing bowl and put dough back in it. Cover bowl tightly with
+   plastic wrap, then cover with a towel. Put bowl in a warm (not hot) place.
+   Leave until dough has doubled in size, about 1 hour.
+5. Heat oven to 475 degrees. On bottom shelf of oven, place a heavy-duty
+   baking sheet, large cast-iron pan or ceramic baking tile. Punch down dough
+   and divide into 8 pieces of equal size. Form each piece into a little
+   ball. Place dough balls on work surface, cover with a damp towel and leave
+   for 10 minutes.
+6. Remove 1 ball (keeping others covered) and press into a flat diskc with
+   rolling pin. Roll to a 6-inch circle, then to an 8-inch diameter, about
+   1/8 inch thick, dusting with flour if necessary. (The dough will shrink
+   a bit while baking.)
+7. Carefully lift the dough circle and place quickly on hot baking sheet.
+   After 2 minutes the dough should be nicely puffed. Turn over with tongs
+   or spatula and bake 1 minute more. The pita should be pale, with only a
+   few brown speckles. Transfer warm pita to a napkin-lined basket and cover
+   so bread stays soft. Repeat with the rest of the dough balls.
 
 .. raw:: pdf
 
@@ -424,7 +597,7 @@ Ingredients
 - 1 packet (8 grams) active dry yeast
 - 565 grams (4 1/2 cups) all purpose flour
 - 3 tablespoons oil, divided
-- 2/3 cup baking soda (120 g)
+- 1/4 cup baking soda
 - 2 eggs, beaten
 - coarse salt
 

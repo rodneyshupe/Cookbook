@@ -18,11 +18,63 @@ Barbecue Sauces
 
    <p style="page-break-before: always"/>
 
+Kansas City Style Sweet and Smoky Barbecue Sauce
+================================================
+
++----------------------+--------------------------+---------------+
+| Prep Time: 5 minutes | Cooking Time: 20 minutes | Yield: 3 cups |
++----------------------+--------------------------+---------------+
+
+Source: Raichlen’s Indoor Grilling by Steven Raichlen
+
+This is one of the simplest and best barbecue sauces you can make. This
+sauce follows in the traditions of sauces created in the kitchens of
+Kansas City for decades. It has a thick sweet, smoky flavor that goes
+great with ribs.
+
+Ingredients
+-----------
+
+-  2 cups ketchup
+-  1/4 cup molasses
+-  1/4 cup cider vinegar
+-  1/4 cup Worcestershire sauce
+-  3 tablespoons brown sugar
+-  2 tablespoons prepared mustard
+-  1 tablespoon dry mustard
+-  2 teaspoons liquid smoke
+-  1 teaspoon garlic powder
+-  1 teaspoon onion powder
+-  1/2 teaspoon freshly ground pepper
+
+Directions
+----------
+
+1. Place the all the ingredients in a heavy nonreactive saucepan and
+   whisk to mix.
+2. Slowly bring sauce to a boil over medium heat. Let the sauce simmer
+   gently until thick and richly flavoured, about 10-20 minutes,
+   whisking several times.
+3. Taste for seasoning, adding more of any of the ingredients you may
+   desire.
+4. Transfer the hot sauce to glass jars. Tightly cover the jar and let
+   the sauce cool to room temperature.
+5. Once the jar is opened, refrigerate the sauce; it will keep for
+   several months.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 South Carolina Style Mustard Barbecue Sauce
 ===========================================
 
 +----------------------+--------------------------+---------------+
-| Prep Time: 5 minutes | Cooking Time: 30 minutes | Yield: 4 cups |
+| Prep Time: 5 minutes | Cooking Time: 30 minutes | Yield: 3 cups |
 +----------------------+--------------------------+---------------+
 
 In the central and southern regions of South Carolina, Mustard is king.
@@ -36,13 +88,13 @@ anything, but is particularly excellent for pork.
 Ingredients
 -----------
 
--  2 cup mustard
--  1 cup cider vinegar
--  2/3 cup brown sugar
--  4 tablespoons butter
--  4 tablespoons Worcestershire sauce
--  2 tablespoon lemon juice
--  2 teaspoon cyanne pepper
+-  1 1/2 cups prepared mustard
+-  3/4 cups cider vinegar
+-  1/2 cup brown sugar
+-  3 tablespoons butter
+-  3 tablespoons Worcestershire sauce
+-  1 1/2 tablespoon lemon juice
+-  1 1/2 teaspoon cyanne pepper
 
 Directions
 ----------
@@ -86,58 +138,6 @@ Directions
    often. Thin sauce if necessary with additional water.
 3. Add more red pepper flakes if you want it spicier.
 4. Cool then refrigerate.
-
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
-
-Kansas City Style Sweet and Smoky Barbecue Sauce
-================================================
-
-This is one of the simplest and best barbecue sauces you can make. This
-sauce follows in the traditions of sauces created in the kitchens of
-Kansas City for decades. It has a thick sweet, smoky flavor that goes
-great with ribs. This is a recipe from Steven Raichlen’s book Raichlen’s
-Indoor Grilling.
-
-Ingredients
------------
-
--  2 cups ketchup
--  1/4 cup molasses
--  1/4 cup cider vinegar
--  1/4 cup Worcestershire sauce
--  3 tablespoons brown sugar
--  2 tablespoons prepared mustard
--  1 tablespoon dry mustard
--  2 teaspoons liquid smoke
--  1 teaspoon garlic powder
--  1 teaspoon onion powder
--  1/2 teaspoon freshly ground pepper
-
-Directions
-----------
-
-1. Place the all the ingredients in a heavy nonreactive saucepan and
-   whisk to mix.
-2. Slowly bring sauce to a boil over medium heat. Let the sauce simmer
-   gently until thick and richly flavoured, about 10-20 minutes,
-   whisking several times.
-3. Taste for seasoning, adding more of any of the ingredients you may
-   desire.
-4. Transfer the hot sauce to glass jars. Tightly cover the jar and let
-   the sauce cool to room temperature.
-5. Once the jar is opened, refrigerate the sauce; it will keep for
-   several months.
-
-Yield:
-------
-
-Makes 3 cups
 
 .. raw:: pdf
 

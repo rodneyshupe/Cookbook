@@ -266,6 +266,7 @@ Ingredients
 
 Directions
 ----------
+
 1. Combine bourbon, Aperol, lemon juice, syrup and bitters in a cocktail shaker
    with ice. Shake that all up hard, then strain it into a tall glass with ice.
    Add 2 ounces of soda, and garnish with a lemon wheel and mint sprig.
@@ -278,12 +279,18 @@ aromatic oils before using it to garnish.
 Garden Party
 ============
 
+Ingredients
+-----------
+
 - 1 1/2 oz gin
 - 1 1/2 oz Aperol
 - 3/4 oz fresh lemon juice
 - 1/4 oz simple syrup
 - five fresh basil leaves (more for garnish)
 - 1/2 oz Prosecco
+
+Directions
+----------
 
 1. Add gin, Aperol, lemon juice, simple syrup and basil leaves to a cocktail
    shaker with ice. Shake that all up; the basil will break up and flavor the
