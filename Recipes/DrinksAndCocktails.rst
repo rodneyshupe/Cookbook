@@ -201,9 +201,9 @@ Gin and Tonic
 Ingredients
 -----------
 
-1 1/2 oz gin
-4 oz tonic
-slice of lime or lemon as garnish
+- 1 1/2 oz gin
+- 4 oz tonic
+- slice of lime or lemon as garnish
 
 Directions
 ----------
@@ -212,8 +212,10 @@ Directions
 
 Notes
 -----
-The quality of the gin can effect the dring but more importantly get a good
-tonic. The ratio of gin to tonic can change depending on gin.
+The quality of the gin can effect the taste but more importantly get a good
+tonic as this will make the biggest difference. The ratio of gin to tonic
+can change depending on gin.
+
 .. raw:: pdf
 
    PageBreak recipePage
