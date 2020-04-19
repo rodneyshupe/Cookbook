@@ -193,6 +193,27 @@ Dark and Stormy
 
 Substitute vodka with dark rum, and use a collins glass.
 
+----
+
+Gin and Tonic
+=============
+
+Ingredients
+-----------
+
+1 1/2 oz gin
+4 oz tonic
+slice of lime or lemon as garnish
+
+Directions
+----------
+
+1. In a Tom Collins glass, combine gin and tonic over ice and stir. Garnish.
+
+Notes
+-----
+The quality of the gin can effect the dring but more importantly get a good
+tonic. The ratio of gin to tonic can change depending on gin.
 .. raw:: pdf
 
    PageBreak recipePage
