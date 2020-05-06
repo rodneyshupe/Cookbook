@@ -602,58 +602,6 @@ Directions
 
    <p style="page-break-before: always"/>
 
-Ahi Tuna Steak with a Light Tomato, Ginger, Herb Sauce
-======================================================
-
-Ingredients
------------
-
-Tuna
-^^^^
-- 4 Ahi tuna steaks 6 ounces (170g) each
-- 3 clove garlic, cut into slivers
-- Kosher salt
-- fresh cracked pepper
-- 2 tablespoon cilantro, leaves
-- 2 tablespoon mint, leaves
-- extra virgin olive oil
-
-
-Tomato herb sauce
-^^^^^^^^^^^^^^^^^
-- 4 tablespoon extra virgin olive oil
-- kosher salt
-- fresh cracked pepper
-- 2 clove garlic, minced
-- 1 small onion, sliced finely
-- red chili flakes
-- 1/2 cup  white wine
-- 4 tomato, peeled, seeded, chopped
-- 2 tablespoon Ginger, sliced finely
-- 1 lemon, juiced
-- 2 tablespoon flat leaf parsley, chopped
-
-Directions
-----------
-#. Preheat oven to 375°F. Make little incisions in the tuna and insert, garlic, mint, and cilantro. Season both sides of the steak.
-#. Prepare the sauce; remove the cores of the tomatoes, and make a criss-cross incision on the bottom of the tomato. Place tomatoes in salted, boiling water for approx. 1 minute. Remove and place in ice water. Peel the skin off and cut around the tomato discarding the seeds and centre part. Dice the tomatoes.
-#. Heat a skillet, add olive oil, add onions, season, and saute for 1 minute. Add the garlic and ginger, season, and saute for 1 minute. Add the wine, and reduce for 1 minute. Add the tomatoes, lemon juice, chillies, and season, cook an additional minute. Put aside.
-#. Heat a skillet, add olive oil. Add the tuna steaks and sear each side for 1-2 minutes.
-#. Transfer into a casserole dish and top with tomato sauce. Bake in oven for approx. 10- 15 minutes depending on desired temp.
-#. Top with fresh chopped parsley, and serve with seasonal veggies.
-
-Note
-----
-Carb count; 8 g. per serving
-
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
-
 Chipped Ling Cod (Fish and Chips)
 =================================
 Source:  `Skipper Otto <https://skipperotto.com/wp-content/uploads/2019/04/SO-Recipe-Chipped-Lingcod-back-1024x585.jpg>`__
@@ -678,6 +626,36 @@ Directions
    crumb mix, before placing on backing sheet.
 6. Bake for 10 min until golden brown.
 7. Serve with `Tartar Sauce <#quick-tartar-sauce>`__
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Prosciutto Wrapped Lingcod
+==========================
+
+Source: `Global Group <https://www.glowbalgroup.com/blog/2016/01/21/prosciutto-wrapped-lingcod-a-dine-out-recipe/>`__
+
+Ingredients
+-----------
+
+- 2 x 6 oz ling cod
+- 4 thin slices of prosciutto
+
+Directions
+----------
+
+1. Pre-heat oven to 350. Pat dry ling cod with paper towel. Lay one slice of
+   prosciutto down, place lingcod on top, and place other slice of prosciutto
+   on top of cod. Wrap and roll tightly. Place on baking sheet and place in
+   oven for 8 minutes.
+2. Once baked, turn on the broil function and broil until top prosciutto
+   becomes slightly crispy.
+
 
 .. raw:: pdf
 
@@ -725,6 +703,50 @@ Directions
 
    <p style="page-break-before: always"/>
 
+Fish Tacos
+==========
+
+Ingredients
+-----------
+
+- 3 cloves garlic
+- 1 cup packed cilantro leaves
+- Zest from 2 limes
+- 2 teaspoons ground cumin
+- 1 1/2 teaspoons kosher salt
+- 1 teaspoon freshly ground black pepper
+- 1/4 cup tequila
+- 1 pound tilapia fillets
+- 1 tablespoon olive oil
+- 8 7-inch round flour tortillas
+- `Mexican Crema <#mexican-crema>`__
+- Shredded red cabbage
+- Lime wedges
+
+Directions
+----------
+
+1. Pulse the garlic, cilantro, lime zest, cumin, salt and pepper in a small
+   food processor for 20 seconds. Then, with the processor running, add the
+   tequila.
+2. Place the tilapia fillets into a 1 gallon zip-top bag, add the paste and
+   move around to coat each fillet. Work as much air out of the bag as
+   possible, seal and aside at room temperature for 20 minutes.
+3. Heat an electric non-stick griddle to 375 degrees F. (if not using an
+   electric griddle you can do this in a cast iron pan heated over medium
+   heat for 10 minutes.)
+4. Brush the griddle with the olive oil and cook the fillets 3 minutes per
+   side or until just cooked through and opaque. Cut into strips and serve
+   in warm tortillas with crema, shredded red cabbage and lime juice.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Charbroiled Ahi Tuna with a Coconut milk Red Curry sauce
 ========================================================
 
@@ -759,3 +781,55 @@ Directions
 #. Place rice in rice cooker, season, and add chicken stock. The ratio is 1.5 parts liquid to 1 part rice. The rice should take approx. 15- 18 minutes.
 #. Prepare the vegetables; in a skillet add bacon, saute until golden. Add onions, season, and saute until golden. Add asparagus, 1/4 cup water, and cover 7 minutes before the dish is ready to assemble.
 #. Place tuna in a preheat oven at 350°F and cook until desired temp. If you like your tuna rare you will only cook for 4-5 minutes. For medium approx. 7-8 minutes.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Ahi Tuna Steak with a Light Tomato, Ginger, Herb Sauce
+======================================================
+
+Ingredients
+-----------
+
+Tuna
+^^^^
+- 4 Ahi tuna steaks 6 ounces (170g) each
+- 3 clove garlic, cut into slivers
+- Kosher salt
+- fresh cracked pepper
+- 2 tablespoon cilantro, leaves
+- 2 tablespoon mint, leaves
+- extra virgin olive oil
+
+
+Tomato herb sauce
+^^^^^^^^^^^^^^^^^
+- 4 tablespoon extra virgin olive oil
+- kosher salt
+- fresh cracked pepper
+- 2 clove garlic, minced
+- 1 small onion, sliced finely
+- red chili flakes
+- 1/2 cup  white wine
+- 4 tomato, peeled, seeded, chopped
+- 2 tablespoon Ginger, sliced finely
+- 1 lemon, juiced
+- 2 tablespoon flat leaf parsley, chopped
+
+Directions
+----------
+#. Preheat oven to 375°F. Make little incisions in the tuna and insert, garlic, mint, and cilantro. Season both sides of the steak.
+#. Prepare the sauce; remove the cores of the tomatoes, and make a criss-cross incision on the bottom of the tomato. Place tomatoes in salted, boiling water for approx. 1 minute. Remove and place in ice water. Peel the skin off and cut around the tomato discarding the seeds and centre part. Dice the tomatoes.
+#. Heat a skillet, add olive oil, add onions, season, and saute for 1 minute. Add the garlic and ginger, season, and saute for 1 minute. Add the wine, and reduce for 1 minute. Add the tomatoes, lemon juice, chillies, and season, cook an additional minute. Put aside.
+#. Heat a skillet, add olive oil. Add the tuna steaks and sear each side for 1-2 minutes.
+#. Transfer into a casserole dish and top with tomato sauce. Bake in oven for approx. 10- 15 minutes depending on desired temp.
+#. Top with fresh chopped parsley, and serve with seasonal veggies.
+
+Note
+----
+Carb count; 8 g. per serving

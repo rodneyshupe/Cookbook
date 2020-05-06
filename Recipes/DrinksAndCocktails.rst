@@ -329,8 +329,30 @@ Directions
 
    <p style="page-break-before: always"/>
 
-Marjarita
-=========
+Margarita (my favorite)
+=======================
+
+Ingredients
+-----------
+
+- 2 ounces blanco tequila
+- 1 ounce fresh lime juice
+- 2/3 ounce agave syrup
+- 1 tonic water
+- Lime wedge for garnish
+- Salt or sugar to rim the glass (optional)
+
+Directions
+----------
+
+1. Pour the ingredients into a cocktail shaker with ice cubes. Shake well.
+2. If desired, salt the rim of a chilled margarita glass. Pour contents,
+   with ice, into the glass. Garnish with the lime wedge.
+
+----
+
+Margarita (traditional)
+=======================
 
 Ingredients
 -----------
@@ -344,8 +366,7 @@ Ingredients
 Directions
 ----------
 
-1. Pour the ingredients into a cocktail shaker with ice cubes. Shake
-   well.
+1. Pour the ingredients into a cocktail shaker with ice cubes. Shake well.
 2. If desired, salt the rim of a chilled margarita glass. Pour contents,
    with ice, into the glass. Garnish with the lime wedge.
 
@@ -369,9 +390,8 @@ Directions
 ----------
 
 1. Add Tequila and frozen lime aid to a 2 litre container / jug and stir
-   until combined.
-2. Add beer and mix.
-3. Pour into Margarita glasses.
+   until combined. Add beer and stir.
+2. Pour into Margarita glasses.
 
 .. raw:: pdf
 

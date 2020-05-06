@@ -335,6 +335,159 @@ If your skillet is not ovensafe, transfer the pasta mixture into a shallow
 
    <p style="page-break-before: always"/>
 
+Baked Manicotti with Spinach
+============================
+
++----------------------+-----------------------+---------------------+
+| Prep Time: 5 minutes | Cooking Time: 2 hours | Yield: 6-8 servings |
++----------------------+-----------------------+---------------------+
+
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/4250-baked-manicotti-with-spinach>`__
+
+
+Ingredients
+-----------
+
+Tomato Sauce
+^^^^^^^^^^^^
+- 2 28-ounce cans diced tomatoes (in juice)
+- 2 tablespoons extra-virgin olive oil
+- 3 medium cloves garlic, minced or pressed through garlic press (about 1 tablespoon)
+- 1/2 teaspoon hot red pepper flakes, optional
+- Table salt
+- 2 tablespoons chopped fresh basil
+
+Filling and Pasta
+^^^^^^^^^^^^^^^^^
+- 3 cups part-skim ricotta cheese
+- 4 ounces grated Parmesan cheese (about 2 cups)
+- 8 ounces shredded mozzarella cheese (about 2 cups)
+- 2 large eggs, lightly beaten
+- 1 (10-ounce) package frozen chopped spinach, thawed, squeezed dry, and chopped fine
+- 2 tablespoons chopped fresh basil
+- Pinch ground nutmeg
+- 16 Barilla no-boil lasagna noodles
+
+Directions
+----------
+
+1. For the sauce Adjust oven rack to middle position and heat oven to
+   375 degrees. Pulse 1 can tomatoes with their juice in food processor until
+   coarsely chopped, 3 or 4 pulses. Transfer to bowl. Repeat with remaining
+   can tomatoes.
+2. Heat oil, garlic, and pepper flakes (if using) in large saucepan over
+   medium heat until fragrant but not brown, 1 to 2 minutes. Stir in tomatoes
+   and 1/2 teaspoon salt and simmer until thickened slightly, about
+   15 minutes. Stir in basil; adjust seasoning with salt.
+3. For the filling: Combine ricotta, 1 cup Parmesan, mozzarella, eggs,
+   spinach, 1 teaspoon salt, 1/2 teaspoon pepper, basil, and nutmeg in medium
+   bowl; set aside.
+4. To assemble: Pour 1 inch boiling water into 13 by 9-inch broilersafe
+   baking dish, then add noodles one at a time. Let noodles soak until
+   pliable, about 5 minutes, separating noodles with tip of sharp knife to
+   prevent sticking. Remove noodles from water and place in single layer on
+   clean kitchen towels; discard water in baking dish and dry baking dish.
+5. Spread bottom of baking dish evenly with 1 1/2 cups sauce. Using
+   soupspoon, spread generous 1/4 cup cheese-spinach mixture evenly onto
+   bottom three-quarters of each noodle (with short side facing you),
+   leaving top quarter of noodle exposed. Roll into tube shape and arrange
+   in baking dish seam side down. Top evenly with remaining sauce, making
+   certain that pasta is completely covered.
+6. Cover manicotti with aluminum foil. Bake until bubbling, about 40 minutes,
+   then remove foil. Remove baking dish, adjust oven rack to uppermost
+   position (about 6 inches from heating element), and heat broiler. Sprinkle
+   manicotti evenly with remaining 1 cup Parmesan. Broil until cheese is
+   spotty brown, 4 to 6 minutes. Cool 15 minutes, then serve.
+
+Note
+----
+
+The manicotti can be prepared through step 5, covered with a sheet of
+parchment paper, wrapped in aluminum foil, and refrigerated for up to 3 days
+or frozen for up to 1 month. (If frozen, thaw the manicotti in the
+refrigerator for 1 to 2 days.) To bake, remove the parchment, replace the
+aluminum foil, and increase baking time to 1 to 1 1/4 hours.
+
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Flying Pig Spaghetti and Meat Balls
+===================================
+
+Source: `https://bc.ctvnews.ca/recipe-flying-pig-tomato-sauce-and-meatballs-1.4915566`__
+
+Ingredients
+-----------
+
+Tomato Sauce
+^^^^^^^^^^^^
+- 2 tablespoons extra virgin olive oil
+- 3/4 cup yellow onion, medium dice
+- 3/4 cup peeled carrot, medium dice
+- 1/4 cup celery, medium dice
+- 3 cloves garlic, minced
+- 1/4 cup parsley, chopped
+- 1/4 cup basil, chopped
+- 1 teaspoons chili flakes
+- 1/2 cup red wine
+- 1.5 L canned tomatoes
+- 1 tablespoons honey
+- 1 tablespoons cornstarch
+- 3 tablespoons water
+- salt and pepper to taste
+
+Meatballs
+^^^^^^^^^
+- 1 1/2 lb. thick grind ground beef
+- 1/2 cup yellow onion, finely diced
+- 3 cloves garlic, minced
+- 1/2 tsp. paprika
+- 1/4 tsp. caynne
+- 1/2 tsp. chili flakes
+- 1/2 cup panko bread crumbs
+- 1 whole egg
+- 1/2 cup Italian flat-leaf parsley, chopped
+- 3 tbsp. olive oil
+- 1/2 cup parmesan cheese, grated
+- 1 tbsp. honey
+- 1/4 cup chicken stock (but can use water, or beef or vegetable stock)
+- 1/2 tsp. salt
+- 1/4 tsp. pepper
+
+Directions
+----------
+1. TOMATO SAUCE: Pre heat a large pot on medium heat. Add one fluid ounce
+   of olive oil to the pot. Ensure its not too hot or it will burn the oil.
+2. Saute the onion until soft and add the carrots. Continue to stir the
+   vegetables so they cook evenly. Add celery and continue to saute for two
+   more minutes. Add garlic and chili flakes and saute for one minute, then
+   deglaze with the wine. Reduce wine by 50 per cent.
+3. Add canned tomatoes, basil and parsley and stew for 45 minutes on medium
+   heat.
+4. MEATBALLS: Preheat oven to 420 degrees. Line a baking tray with
+   parchment paper. Mix all the ingredients by hand in a large mixing bowl
+   until well mixed.
+5. Roll the meatball mix into 3 tablespoon balls and place on the baking
+   sheet. Do not crowd the meatballs. Bake the meatballs for 12 minutes.
+6. Add honey to the sauce. Puree the mixture using a hand blender or
+   blender. Mix the water and cornstarch together, add to your tomato sauce
+   and return to the heat for two minutes. This will stop the sauce from
+   separating. Season to taste with salt and pepper.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Baked Gnocchi with Tomato and Basil
 ===================================
 
