@@ -315,13 +315,7 @@ Directions
 1. Whisk creme fraîche, mustard, and parsley together in bowl. Season
    with salt and pepper to taste.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Mexican Crema
 =============

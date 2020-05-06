@@ -420,7 +420,7 @@ aluminum foil, and increase baking time to 1 to 1 1/4 hours.
 Flying Pig Spaghetti and Meat Balls
 ===================================
 
-Source: `https://bc.ctvnews.ca/recipe-flying-pig-tomato-sauce-and-meatballs-1.4915566`__
+Source: `Flying Pigs <https://bc.ctvnews.ca/recipe-flying-pig-tomato-sauce-and-meatballs-1.4915566>`__
 
 Ingredients
 -----------
