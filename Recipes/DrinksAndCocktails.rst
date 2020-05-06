@@ -347,7 +347,7 @@ Directions
 
 1. Pour the ingredients into a cocktail shaker with ice cubes. Shake well.
 2. If desired, salt the rim of a chilled margarita glass. Pour contents,
-   with ice, into the glass. Garnish with the lime wedge.
+   with ice, into the glass. Garnish.
 
 ----
 
@@ -368,7 +368,7 @@ Directions
 
 1. Pour the ingredients into a cocktail shaker with ice cubes. Shake well.
 2. If desired, salt the rim of a chilled margarita glass. Pour contents,
-   with ice, into the glass. Garnish with the lime wedge.
+   with ice, into the glass. Garnish.
 
 ----
 
