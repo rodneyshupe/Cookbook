@@ -298,21 +298,10 @@ Ingredients
 -  1 tablespoon onion powder
 -  1 teaspoon cayenne
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Mr. Brown Smoke and Spice
 =========================
-
-When it comes to brisket and pork, because they have to cook so long,
-I’ve never had sugar make it sweet. The more sugar the greater the bark,
-but I would not describe it as sweet the bark as sweet. But you can
-always add more sugar, and you may pick up a sweet taste.
 
 Ingredients
 -----------
@@ -329,7 +318,8 @@ Ingredients
 Notes
 -----
 
-Cut back on the black pepper and cayenne pepper for less heat.
+Cut back on the black pepper and cayenne pepper for less heat.  This does not
+make a sweet bark. But you can always add more sugar.
 
 .. raw:: pdf
 
