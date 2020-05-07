@@ -152,8 +152,7 @@ Directions
 Oatmeal Cookies
 ===============
 
-Source: `Cooks
-Illustrated <https://www.cooksillustrated.com/recipes/9077-classic-chewy-oatmeal-cookies>`__
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/9077-classic-chewy-oatmeal-cookies>`__
 
 Ingredients
 -----------

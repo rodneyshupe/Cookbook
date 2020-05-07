@@ -627,13 +627,7 @@ Directions
 6. Bake for 10 min until golden brown.
 7. Serve with `Tartar Sauce <#quick-tartar-sauce>`__
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Prosciutto Wrapped Lingcod
 ==========================

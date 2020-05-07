@@ -297,18 +297,16 @@ Peri Peri Sauce
 ===============
 
 This is a sauce with some history: Its primary ingredient, a particular
-hot chile, comes from the New World via the Portuguese, who brought it
+hot chili, comes from the New World via the Portuguese, who brought it
 to their colonies of Mozambique and Angola. This fiery, fragrant sauce
 is equally common in Portugal and Africa these days, and goes
-wonderfully with grilled
-
-fish or shrimp. Try piri piri with fried foods, too. This recipe makes
-about 1 cup.
+wonderfully with grilled fish or shrimp. Try piri piri with fried foods,
+too. This recipe makes about 1 cup.
 
 Ingredients
 -----------
 
--  2 tablespoons red hot chile paste or 10 red hot chiles, such as Thai
+-  2 tablespoons red hot chili paste or 10 red hot chiles, such as Thai
 -  1/2 cup fresh lemon juice (4-5 lemons)
 -  2 tablespoons finely chopped cilantro (optional)
 -  1 tablespoon chopped flat leaf parsley (optional)
