@@ -106,13 +106,7 @@ Ingredients
 -  4 tablespoons garlic powder
 -  6 teaspoons kosher salt
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Taco Seasoning Mix
 ==================
@@ -236,13 +230,7 @@ Notes
 For Ribs - mix 1/2 cup + 2 tablespoons dark brown sugar and only 6
 tablespoons of seasoning salt.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Pulled Pork Rub
 ===============
@@ -373,13 +361,7 @@ Ingredients
 -  1/2 teaspoon ground Corriander
 -  1/2 teaspoon ground Cloves
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Willingham’s Rub
 ================
@@ -479,10 +461,7 @@ Directions
 Sugar-Cayenne Rib Rub Recipe
 ============================
 
-This recipe is the perfect balance between sweet and spicy. It makes a
-lot– either save the rest in an airtight container or use it on lots of
-ribs. Or try it on popcorn for wonderful sweet-spicy BBQ popcorn. SO
-good.
+This recipe is the perfect balance between sweet and spicy.
 
 Ingredients
 -----------
@@ -501,13 +480,7 @@ Directions
 1. Combine ingredients in a small bowl or jar. Rub into both sides of
    ribs.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Memphis Style Rib Rub Recipe
 ============================
@@ -563,10 +536,10 @@ Montreal Seasoning
 Ingredients
 -----------
 
-2 teaspoons paprika
-2 teaspoons crushed black pepper
-2 teaspoons kosher salt
-1 teaspoon granulated garlic
-1 teaspoon crushed coriander
-1 teaspoon dill
-1 teaspoon crushed red pepper flakes
+- 2 teaspoons paprika
+- 2 teaspoons crushed black pepper
+- 2 teaspoons kosher salt
+- 1 teaspoon granulated garlic
+- 1 teaspoon crushed coriander
+- 1 teaspoon dill
+- 1 teaspoon crushed red pepper flakes
