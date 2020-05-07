@@ -163,14 +163,14 @@ Ingredients
 -----------
 
 -  1 cup Soy sauce
--  1 tbsp Molasses
--  2 tsp Liquid smoke
--  2 tsp Black pepper
--  2 tsp Garlic powder
--  2 tsp Onion powder
--  1 tsp Red pepper flakes
--  1 tsp Tabasco
--  1/2 tsp Cayenne pepper
+-  1 tablespoons Molasses
+-  2 teaspoons Liquid smoke
+-  2 teaspoons Black pepper
+-  2 teaspoons Garlic powder
+-  2 teaspoons Onion powder
+-  1 teaspoons Red pepper flakes
+-  1 teaspoons Tabasco
+-  1/2 teaspoons Cayenne pepper
 
 ----
 
@@ -180,15 +180,15 @@ Spicy Ole Jerky
 Ingredients
 -----------
 
--  4 tbsp water
--  4 tbsp Worcestershire sauce
--  2 tsp salt
--  2 tsp sugar
+-  4 tablespoons water
+-  4 tablespoons Worcestershire sauce
+-  2 teaspoons salt
+-  2 teaspoons sugar
 -  4 garlic cloves, pressed
--  1/2 tsp hot sauce
--  2 tsp ground cumin
--  2 tsp ground coriander
--  1 tbsp chili powder
+-  1/2 teaspoons hot sauce
+-  2 teaspoons ground cumin
+-  2 teaspoons ground coriander
+-  1 tablespoons chili powder
 
 .. raw:: pdf
 
@@ -205,7 +205,7 @@ Ingredients
 -----------
 
 -  2 canned chipotle peppers with a bit of the sauce from the can (1-2
-   Tbsp)
+   tablespoons)
 -  1/4 cup white vinegar
 -  1 cup Brown Sugar
 -  1 tablespoon chili powder
@@ -220,13 +220,13 @@ Tequila Beef Jerky
 Ingredients
 -----------
 
--  4 tbsp Tequila
--  2 tbsp lime juice (freshly squeezed)
--  1 tsp cayenne pepper
--  1 tsp garlic powder
--  1 tsp onion powder
--  1 tsp kosher salt
--  2 tsp cracked black pepper
+-  4 tablespoons Tequila
+-  2 tablespoons lime juice (freshly squeezed)
+-  1 teaspoons cayenne pepper
+-  1 teaspoons garlic powder
+-  1 teaspoons onion powder
+-  1 teaspoons kosher salt
+-  2 teaspoons cracked black pepper
 -  1/2 cup cold water
 
 ----
@@ -239,12 +239,12 @@ Ingredients
 
 -  1 1/3 cup orange juice
 -  1/2 cup lime juice (freshly squeezed)
--  4 tbsp honey
--  2 tsp ground cumin
--  1 tsp salt
--  1 tsp garlic
+-  4 tablespoons honey
+-  2 teaspoons ground cumin
+-  1 teaspoons salt
+-  1 teaspoons garlic
 -  4 diced jalapenos (seeds removed)
--  3/8 tsp Curing Salt (Prague Powder #1)(optional)
+-  3/8 teaspoons Curing Salt (Prague Powder #1)(optional)
 
 Directions
 ----------
@@ -328,14 +328,14 @@ Cranberry Turkey Jerky
 Ingredients
 -----------
 
--  1lb Turkey Breast
+-  1 lb. Turkey Breast
 -  1 cup cranberry sauce
 -  1/4 cup orange juice
 -  10 juniper berries (crushed into very small pieces)
 -  1/4 cup honey
--  1 tbsp brown sugar
--  1/2 tsp allspice
--  1/4 tsp curing salt (prague powder #1) (optional)
+-  1 tablespoons brown sugar
+-  1/2 teaspoons allspice
+-  1/4 teaspoons curing salt (prague powder #1) (optional)
 
 Directions
 ----------
@@ -372,16 +372,16 @@ Ingredients
 -----------
 
 -  2 lb Lean ground beef (10% fat or less)
--  2 tbsp soy sauce
--  2 tbsp worcestershire sauce
--  3/8 tsp curing salt (prague powder #1)
--  2 tsp ground black pepper
--  2 tsp ground lemon pepper
--  2 tsp curry powder (red)
--  2 tsp ginger powder
--  1/2 tsp coriander
--  1 tsp garlic powder
--  1 tsp onion powder
+-  2 tablespoons soy sauce
+-  2 tablespoons worcestershire sauce
+-  3/8 teaspoons curing salt (prague powder #1)
+-  2 teaspoons ground black pepper
+-  2 teaspoons ground lemon pepper
+-  2 teaspoons curry powder (red)
+-  2 teaspoons ginger powder
+-  1/2 teaspoons coriander
+-  1 teaspoons garlic powder
+-  1 teaspoons onion powder
 
 Directions
 ----------
@@ -418,16 +418,16 @@ Ingredients
 -----------
 
 -  2lb extra Lean ground beef (10% fat or less)
--  2 tbsp cold water
--  4 tsp liquid smoke (hickory)
--  2 tbsp brown sugar
--  1 tsp kosher salt
--  2 tsp garlic powder
--  2 tsp onion powder
--  2 tsp ground black pepper
--  2 tsp cayenne pepper
--  3/8 tsp curing salt (prague powder #1)
--  1 tsp corn syrup solids (optional)
+-  2 tablespoons cold water
+-  4 teaspoons liquid smoke (hickory)
+-  2 tablespoons brown sugar
+-  1 teaspoons kosher salt
+-  2 teaspoons garlic powder
+-  2 teaspoons onion powder
+-  2 teaspoons ground black pepper
+-  2 teaspoons cayenne pepper
+-  3/8 teaspoons curing salt (prague powder #1)
+-  1 teaspoons corn syrup solids (optional)
 
 Directions
 ----------
@@ -475,13 +475,7 @@ Notes
 
 Substitute any ground red meat, such as beef or buffalo for the venison.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Slim Jim Clone
 ==============
@@ -490,16 +484,16 @@ Ingredients
 -----------
 
 -  2 pounds of ground lean meat
--  2 tbsp cold water
--  1 tbsp liquid smoke (hickory)
+-  2 tablespoons cold water
+-  1 tablespoon liquid smoke (hickory)
 -  3/8 teaspoons curing salt (prague powder #1)
--  2 1/2 Tbs. paprika
--  1 3/4 Tbs. ground mustard
+-  2 1/2 tablespoons paprika
+-  1 3/4 tablespoons ground mustard
 -  1/4 teaspoons celery seed
 -  1/4 teaspoons black pepper
 -  1/4 teaspoons white pepper
 -  1/4 teaspoons red pepper
--  1 Tbs. corn syrup
+-  1 tablespoons corn syrup
 
 Directions
 ----------
