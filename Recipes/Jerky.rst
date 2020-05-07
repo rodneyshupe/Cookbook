@@ -253,7 +253,13 @@ Combine the orange juice, lime juice, honey, ground cumin, salt, garlic,
 and diced jalapenos in a blender until jalapenos are cut small and the
 honey is evenly mixed. Add to a bowl or ziplock bag.
 
-----
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Teriyaki Beef Jerky
 ===================
@@ -277,13 +283,7 @@ Directions
    dissolve the sugar completely. Allow the mixture to cool to room
    temperature.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Sweet and Spicy Beef Jerky Marinade
 ===================================
