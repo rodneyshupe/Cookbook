@@ -212,13 +212,7 @@ Ingredients
 -  1/2 cup water
 -  1 teaspoon salt
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Tequila Beef Jerky
 ==================
@@ -235,13 +229,7 @@ Ingredients
 -  2 tsp cracked black pepper
 -  1/2 cup cold water
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Jalapeno Lime Beef Jerky
 ========================
@@ -265,13 +253,7 @@ Combine the orange juice, lime juice, honey, ground cumin, salt, garlic,
 and diced jalapenos in a blender until jalapenos are cut small and the
 honey is evenly mixed. Add to a bowl or ziplock bag.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Teriyaki Beef Jerky
 ===================
