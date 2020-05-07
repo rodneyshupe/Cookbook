@@ -526,13 +526,7 @@ Ingredients
 -  1 tablespoon garlic powder
 -  1 tablespoon onion powder
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Rub Recipe for Babyback Ribs
 ============================
@@ -554,3 +548,25 @@ Ingredients
 Note
 ----
 Enough for one rack of ribs on both sides. Use liberally, none should be left over.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Montreal Seasoning
+==================
+
+Ingredients
+-----------
+
+2 teaspoons paprika
+2 teaspoons crushed black pepper
+2 teaspoons kosher salt
+1 teaspoon granulated garlic
+1 teaspoon crushed coriander
+1 teaspoon dill
+1 teaspoon crushed red pepper flakes

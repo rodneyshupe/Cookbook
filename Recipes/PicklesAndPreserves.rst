@@ -163,17 +163,17 @@ Ingredients
 
 -  7 lbs asparagus
 -  Ice water
--  4 tbsp red bell pepper, seeded and finely chopped
--  2 tbsp green bell pepper, seeded and finely chopped
--  2 tbsp hot chili pepper, such as jalapeno or cayenne, seeded and
+-  4 tablespoons red bell pepper, seeded and finely chopped
+-  2 tablespoons green bell pepper, seeded and finely chopped
+-  2 tablespoons hot chili pepper, such as jalapeno or cayenne, seeded and
    finely chopped
--  3 tbsp garlic, finely chopped
+-  3 tablespoons garlic, finely chopped
 -  5 cups white vinegar
 -  1 2/3 cups water
 -  1 2/3 cups granulated sugar
 -  4 tsp pickling or canning salt
--  2 tbsp dill seeds
--  2 tbsp mustard seeds
+-  2 tablespoons dill seeds
+-  2 tablespoons mustard seeds
 
 Directions
 ----------
@@ -189,7 +189,7 @@ Directions
    and salt. Stir well and bring to a boil over medium-high heat. Reduce
    heat and boil gently for 5 minutes. Add asparagus and return to a
    boil. Boil for 2 minutes or until asparagus is heated through.
-5. Place 2 tbsp (30 mL) chopped pepper mixture, 1 tsp (5 mL) dill seeds
+5. Place 2 tablespoons (30 mL) chopped pepper mixture, 1 tsp (5 mL) dill seeds
    and 1 tsp (5 mL) mustard seeds into each hot jar. Pack asparagus,
    tips down, into hot jars to within a generous 1/2 inch (1 cm) of top
    of jar. Ladle hot pickling liquid into jar to cover asparagus,
@@ -221,11 +221,11 @@ Ingredients
 -  16 cups ice cubes or chipped ice
 -  1 1/4 cups pickling or canning salt, divided
 -  12 cups water, divided
--  2 tbsp `pickling spice <#homemade-pickling-spice>`__
+-  2 tablespoons `pickling spice <#homemade-pickling-spice>`__
 -  6 cups white vinegar
 -  1/4 cup granulated sugar
 -  7 tsp mustard seeds
--  10 1/2 fresh dill heads (or 7 tbsp dill seeds or finely chopped
+-  10 1/2 fresh dill heads (or 7 tablespoons dill seeds or finely chopped
    dillweed), divided
 -  7 cloves garlic, divided (optional)
 
@@ -258,7 +258,7 @@ Day2
 4. Transfer cucumbers to a colander placed over a sink and drain. Rinse
    with cool running water and drain thoroughly. Pack cucumbers into
    jars to within a generous 1/2 inch of top of jar. Add 1 tsp mustard
-   seeds, 1 1/2 fresh dill heads (or 1 tbsp dill seeds or finely chopped
+   seeds, 1 1/2 fresh dill heads (or 1 tablespoons dill seeds or finely chopped
    dillweed) and 1 clove garlic, if using, to each hot jar. Ladle hot
    pickling liquid into hot jar to cover cucumbers, leaving 1/2 inch
    headspace. Remove air bubbles and adjust headspace, if necessary, by
@@ -333,9 +333,9 @@ Ingredients
 -  6 cups onions finely chopped
 -  1/4 cup pickling or canning salt
 -  3 cups granulated sugar
--  4 tbsp ClearJel
+-  4 tablespoons ClearJel
 -  1/4 cup dry mustard
--  1 tbsp ground ginger
+-  1 tablespoons ground ginger
 -  1 tsp ground turmeric
 -  1/2 cup water
 -  2 cups white vinegar
@@ -369,6 +369,39 @@ Variation
 
 -  Chunky Zucchini Pickles: Substitute unpeeled, seeded zucchini for the
    cucumber.
+
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Fermented Mustard
+=================
+
++-----------------+-----------------+-------------------+-------------------+
+| Prep: 5 minutes | Time: 5 minutes | Yield: 1 3/4 cups | Ferment: 2-7 Days |
++-----------------+-----------------+-------------------+-------------------+
+
+Ingredients
+-----------
+
+- 6 tablespoons Brown mustard seeds
+- 5 tablespoons yellow mustard seeds
+- 1 tablespoon yellow mustard powder
+- 1/4 cup apple cider vinegar
+- 1/4 cup white verjus (substitution white wine, sugar and a bit of lemon juice combined, or alligote wine)
+- 5 tablespoons Sauerkraut juice
+- 1 tablespoon Diamond Crystal Kosher salt (optional could use less as well)
+
+Directions
+----------
+1. Mix seeds together, blend all dry ingredients in a 1/2 pint (8oz) jar.
+   Add salt, if using.
+2. Cover and ferment up to a week.
 
 .. raw:: pdf
 
@@ -576,14 +609,14 @@ Ingredients
 
 -  1 cinnamon stick (about 4 inches), broken into pieces
 -  5 bay leaves, crushed
--  2 tbsp mustard seeds
--  1 tbsp whole allspice seeds
--  1 tbsp whole black peppercorns
--  1 tbsp ground ginger
--  1 tbsp dill seeds
+-  2 tablespoons mustard seeds
+-  1 tablespoons whole allspice seeds
+-  1 tablespoons whole black peppercorns
+-  1 tablespoons ground ginger
+-  1 tablespoons dill seeds
 -  1 tsp cardamom seeds
 -  1 to 2 tsp hot pepper flakes
--  1 tbsp whole clove
+-  1 tablespoons whole clove
 
 Directions
 ----------

@@ -329,8 +329,8 @@ Directions
 
    <p style="page-break-before: always"/>
 
-Margarita (my favorite)
-=======================
+Margarita (my version)
+======================
 
 Ingredients
 -----------
@@ -357,7 +357,7 @@ Margarita (traditional)
 Ingredients
 -----------
 
--  1 1/2 ounces tequila
+-  1 1/2 ounces tequila (blanco or reposado)
 -  1/2 ounce triple sec (Cointreau is recommended)
 -  1 ounce fresh lime juice
 -  Lime wedge for garnish

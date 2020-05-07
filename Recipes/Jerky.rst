@@ -99,11 +99,54 @@ Ingredients
 -  1 tablespoon Onion Powder
 -  1 tablespoon Garlic Powder
 -  1 tablespoons Fresh Ground Pepper
--  1 teaspoons Paprika
+-  1 teaspoon Paprika
 -  1 teaspoon Dry Mustard
 -  1/2 teaspoon Red Pepper Flakes
 -  A pinch - Ground Cayenne Pepper (Unless you like it really hot, don’t
    use more!)
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+The Old Timer
+=============
+
+Ingredients
+-----------
+- 6 tablespoons pure maple syrup
+- 1/2 cup Worcestershire sauce
+- 2 teaspoons garlic powder
+- 2 teaspoons onion powder
+- 2 teaspoons kosher salt
+- 2 tablespoons drained capers
+- 2 tablespoons caper liquid
+- 2 teaspoons chili powder
+- 1/2 teaspoon cayenne pepper
+- 1 teaspoon dried oregano
+- 1 tablespoon ground Tellicherry pepper (substitute gound black pepper)
+
+----
+
+Bringin’ the Funk
+=================
+
+Ingredients
+-----------
+
+- 2 1/2 teaspoons fish sauce
+- 4 tablespoons honey
+- 6 tablespoons soy sauce
+- 6 garlic cloves crushed
+- 2 Fresno chile top chopped off and chrushed
+- 2 1 inch piece ginger, peeled and chrushed
+- 1/4 cup gochujang
+- 1/2 teaspoon Chinese five–spice powder
+- Sesame seeds (for topping)
 
 .. raw:: pdf
 
@@ -467,13 +510,13 @@ Ingredients
 -  2 pounds of ground lean meat
 -  2 tbsp cold water
 -  1 tbsp liquid smoke (hickory)
--  3/8 tsp. curing salt (prague powder #1)
+-  3/8 teaspoons curing salt (prague powder #1)
 -  2 1/2 Tbs. paprika
 -  1 3/4 Tbs. ground mustard
--  1/4 tsp. celery seed
--  1/4 tsp. black pepper
--  1/4 tsp. white pepper
--  1/4 tsp. red pepper
+-  1/4 teaspoons celery seed
+-  1/4 teaspoons black pepper
+-  1/4 teaspoons white pepper
+-  1/4 teaspoons red pepper
 -  1 Tbs. corn syrup
 
 Directions

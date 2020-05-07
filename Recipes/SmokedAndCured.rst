@@ -215,9 +215,52 @@ smoking.
 
    <p style="page-break-before: always"/>
 
+"Cold Smoked" Salmon à la Montreal
+==================================
+
+Source: `UMAi Charcuterie <https://www.drybagsteak.com/recipe-charcuterie-cold-smoked-salmon-montreal.php>`__
+
+Ingredients
+-----------
+
+Salmon
+^^^^^^
+- 1-1 1/2kg (appox. 2-3 lb fresh skin on salmon
+- Paprika to coat
+- Liquid smoke, 5ml per 500g of fish
+
+Curing Micture
+^^^^^^^^^^^^^^
+
+- 500g Turbinado sugar
+- 500g Kosher salt
+- 20g `Montreal seasoning <#montreal-seasoning>`__
+- 10g Freshly ground black pepper
+
+Directions
+----------
+
+1. Mix all of these together and keep in a Ziploc bag or Mason jar.
+2. Remove bones from salmon fillet, sprinkle on paprika, rub into surface to
+   provide deep red color. Place fillet into a resealable bag or container
+   so that it can rest flat. You can cut into two or four parts, as you wish.
+3. Add to fish 50% the weight of fish in curing mixture and the appropriate
+   amount of liquid smoke. Toss to coat surface of fish well.
+4. Place in fridge for 7 days, and turn to redistribute cure each day.
+5. After 7 days, remove fish and lightly rinse under fresh cold water. Pat
+   dry with clean paper towel. Vacuum seal fish into UMAi Dry bag of the
+   appropriate size. Refrigerate for about 12 days. Slice and serve.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Homemade Bacon
 ==============
-
 
 Ingredients
 -----------
@@ -228,7 +271,6 @@ Ingredients
 -  1/4 cup brown sugar (possible substitutions maple syrup, honey, white
    sugar or molasses)
 -  2 tablespoons bourbon (possible substitution apple cider)
-
 
 Directions
 ----------
@@ -252,9 +294,214 @@ Directions
    placed in a Ziploc bag, the bacon will keep for three weeks in the
    refrigerator and three months in the freezer.
 
-
 Note
 ----
 
 If not using a smoker perform step 3 in a oven and add 1/2 tablespoon of
 liquid smoke to cure.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Pancetta
+========
+
+This traditional pork belly preparation can be made either as a slab (stesa)
+or roll (arrotolata), as you prefer.
+
+Source: `UMAi Charcuterie <https://www.drybagsteak.com/recipe-homemade-pancetta-charcuterie.php>`__
+
+Ingredients
+-----------
+
+- 4.5kg (approx 10 lb) pork belly
+- Garlic, minced 4 cloves
+- 11g (0.25% of meat weight) InstaCure #2
+- 120g (3% of meat weight) Kosher salt
+- 2 tablespoons dark brown sugar
+- 4 tablespoons Black pepper, coarsely ground
+- 2 tablespoons Juniper berries, crushed
+- 4 Bay leaves, crumbled
+- 1 teaspoon nutmeg, freshly grated
+- 4 or 5 sprigs Fresh thyme
+
+Directions
+----------
+
+1. Mix Dry Cure Ingredients well and rub onto meat, making sure to cover all
+   nooks and crannies.
+2. Transfer meat into a Ziplock and place in your refrigerator for two weeks
+   to cure.
+3. After the curing process, remove meat from bag, and rinse off cure under
+   running water.
+4. Transfer to UMAi Dry bag and vacuum seal, then place place on an open
+   wire rack to dry in your refrigerator four to eight weeks, or until
+   35-40% reduction in weight.
+5. After drying is complete, slice thin and enjoy!
+
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Lomo/Lonzino
+============
+
+This Italian / Spanish cured pork loin either has a paprika coating (lomo)
+or not (lonzino)
+
+Source: `UMAi Charcuterie <https://www.drybagsteak.com/recipe-charcuterie-lomo-lonzino.php>`__
+
+Ingredients
+-----------
+
+- 1 lb (454g) Pork loin, trimmed, 2-3 in / 4-5cm diameter
+- Kosher salt 1 1/2 tbsp (15g)
+- 1g (0.25% of meat weight) InstaCure #2
+- 1 teaspoon Sugar
+- 2 /14 teaspoons Black pepper, coarsely ground
+- 1 teaspoon Garlic powder
+- 1 teaspoon Dried thyme
+- 1/2 teaspoon Ground cloves
+- 2 teaspoon Onion powder
+- paprika (if making lomo)
+
+Directions
+----------
+
+1. Mix Dry Cure Ingredients well and rub onto meat, making sure to cover all
+   nooks and crannies.
+2. Transfer meat into a Ziplock and place in your refrigerator for two weeks
+   to cure.
+3. After the curing process, remove meat from bag, and rinse off cure under
+   running water.
+4. Transfer to UMAi Dry bag and vacuum seal, then place place on an open
+   wire rack to dry in your refrigerator four to eight weeks, or until
+   35-40% reduction in weight.
+5. After drying is complete, slice thin and enjoy!
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Prosciuttini (Little Prosciutto)
+================================
+
+Delicious "Little Prosciutto" that's easy to make with no need to age for years in a cave!
+
+Source: `UMAi Charcuterie <https://www.drybagsteak.com/recipe-charcuterie-prosciutto-prosciuttini.php>`__
+
+Ingredients
+-----------
+
+- 3kg (approx. 7 lb) Boneless "green" ham
+- 90g (3% of meat weight) Kosher salt
+- 8g (0.25% of meat weight) Instacure #2
+- 1 tablespoon Black pepper
+
+Directions
+----------
+
+1. Mix Dry Cure Ingredients well and rub onto meat, making sure to cover all
+   nooks and crannies.
+2. Transfer meat into a Ziplock and place in your refrigerator for two weeks
+   to cure.
+3. After the curing process, remove meat from bag, and rinse off cure under
+   running water.
+4. Transfer to UMAi Dry bag and vacuum seal, then place place on an open
+   wire rack to dry in your refrigerator four to eight weeks, or until
+   35-40% reduction in weight.
+5. After drying is complete, slice thin and enjoy!
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Duck Prosciutto
+===============
+
+Source: `UMAi Charcuterie <https://www.drybagsteak.com/recipe-charcuterie-duck-prosciutto.php>`__
+
+Ingredients
+-----------
+
+- 2 200g duck breasts (magret de canard)
+- 2 teaspoons Kosher salt
+- 2 teaspoons brown sugar
+- 2 juniper berries
+- 1 bay leaf
+- 1/2 teaspoon black pepper
+- 1/8 teaspoon smoked paprika
+
+Directions
+----------
+
+1. Mix Dry Cure Ingredients well and rub onto meat, making sure to cover all
+   nooks and crannies.
+2. Transfer meat into a Ziplock and place in your refrigerator for one week
+   to cure.
+3. After the curing process, remove meat from bag, and rinse off cure under
+   running water.
+4. Transfer to UMAi Dry bag and vacuum seal, then place place on an open
+   wire rack to dry in your refrigerator four to eight weeks, or until
+   35-40% reduction in weight.
+5. After drying is complete, slice thin and enjoy!
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Bresaola
+========
+
+Northern Italian specialty air-dried beef, also known as Viande des Grisons
+in Switzerland.
+
+Source: `UMAi Charcuterie <https://www.drybagsteak.com/recipe-charcuterie-bresaola.php>`__
+
+Ingredients
+-----------
+
+- 1 kg (approx. 2 1/4 lb) Beef eye of round
+- 30g (3% of meat weight) Kosher salt
+- 3g (0.25% of meat weight) Instacure #2
+- 2 tablespoons Sugar
+- 2 teaspoons Black pepper
+- 2 teaspoons Dried rosemary
+- 2 teaspoons Dried thyme
+- 4 Juniper berries
+
+Directions
+----------
+
+1. Mix Dry Cure Ingredients well and rub onto meat, making sure to cover all
+   nooks and crannies.
+2. Transfer meat into a Ziplock and place in your refrigerator for two weeks
+   to cure.
+3. After the curing process, remove meat from bag, and rinse off cure under
+   running water.
+4. Transfer to UMAi Dry bag and vacuum seal, then place place on an open
+   wire rack to dry in your refrigerator four to eight weeks, or until
+   35-40% reduction in weight.
+5. After drying is complete, slice thin and enjoy!
