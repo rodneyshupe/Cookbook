@@ -69,7 +69,7 @@ Ingredients
 -----------
 
 - 2 whole slabs pork baby back ribs
-- `Alton Brown's Dry Rub <#alton-brown-dry-rub>`__
+- 1/2 recipe `Alton Brown's Dry Rub <#alton-brown-dry-rub>`__
 - 1 cup white wine
 - 2 tablespoons white wine vinegar
 - 2 tablespoons Worcestershire sauce
