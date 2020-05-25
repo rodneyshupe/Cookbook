@@ -116,6 +116,8 @@ Ingredients
 The Old Timer
 =============
 
+Source: Bon Appetit
+
 Ingredients
 -----------
 - 6 tablespoons pure maple syrup
@@ -134,6 +136,8 @@ Ingredients
 
 Bringin’ the Funk
 =================
+
+Source: Bon Appetit
 
 Ingredients
 -----------
@@ -155,6 +159,19 @@ Ingredients
 .. raw:: html
 
    <p style="page-break-before: always"/>
+
+Alton Brown Beef Jerky
+======================
+
+Source: `Alton Brown <https://altonbrown.com/beef-jerky-recipe/>`__
+
+- 2/3 cup Worcestershire sauce
+- 2/3 cup soy sauce
+- 1 tablespoon honey
+- 2 teaspoons freshly ground black pepper
+- 2 teaspoons onion powder
+- 1 teaspoon liquid smoke
+- 1 teaspoon red pepper flakes
 
 Hot and Spicy Marinade
 ======================

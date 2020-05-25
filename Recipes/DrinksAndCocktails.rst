@@ -1257,3 +1257,69 @@ Directions
 
 1. Add baking soda and salt to water and combine.
 2. Carbonate using favorite method (SodaStream, whipping siphon, etc.)
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Shrubs
+======
+
+Shrubs are drinking Vinegar and are made with a 1:1:1 combination of
+fruit/vegetable, sugar, and vinegar.
+
+Directions
+----------
+
+Hot Process (Simple Syrup Method)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+1. Add equal parts of sugar and water to a saucepan, and heat and stir until
+   the sugar dissolves.
+2. Add berries or fruit and simmer until the fruit's juice blends well into
+   the syrup.
+3. Let that mixture cool. Strain out the solids.
+4. Add vinegar to the syrup, bottle it all up, and store in the fridge.
+
+Cold Process
+^^^^^^^^^^^^
+1. Wash and prepare the fruit. Most berries can be lightly crushed, even with
+   your hands, if you prefer. Strawberries should be hulled and quartered.
+   Stone fruit needs to be quartered and pitted.
+2. Cover the fruit with sugar. A ratio of one part each of fruit, sugar, and
+   vinegar, and that's a great place to start. So to, say, one cup of fruit,
+   add one cup sugar. Stir to combine, cover, and stash in the fridge.
+3. After several hours, or a day or two, your fruit should be surrounded by
+   juice and syrup.
+4. Strain the syrup away from the solids, pressing lightly on the solids to
+   expel any stubborn juice. If any sugar is clinging to the bowl, scrape it
+   into the syrup. It should settle to the bottom, underneath the syrup.
+5. Add the vinegar, and whisk to combine, until sugar is dissolved.
+6. Pour through a funnel into a clean bottle. Cap, shake well, and
+   refrigerate.
+7. Check the shrub periodically. Some sugar may settle out onto the bottom
+   of the bottle. If so, shake well to combine. Eventually, the acids in
+   the juice and vinegar will dissolve the sugar.
+
+Hybrid Process
+^^^^^^^^^^^^^^
+1. Chop or slightly crush the fruit/vegetable and then combine with sugar in
+   a large mason jar.  Set out at room temp for approx. 1-2 hours until the
+   fruit/vegetables start to release their juices.
+2. Place in the refrigerator for 24 hours.  Add vinegar and stir to combine
+   then put back in the refrigerator for at least 1 to 2 days.  Pour through
+   a fine mesh strainer and bottle.
+
+Ingredient Combinations
+-----------------------
+* 2 cups rubarb (cut into 1 inch pieces), 1 1/2 cups sugar, 1/2 cups red wine vinegar
+* 1 cups each of strawberries, white sugar, red wine vinegar and a splash of balsamic vinegar
+* 1 cups each of blueberries, thinly sliced ginger, cider vinegar
+* nectarine + peppercorn + brown sugar + white wine vinegar
+* peach + cardamom pods + honey + cider vinegar
+* pomegranate + peppercorn + white sugar + red wine vinegar
+* pear + star anise + brown sugar + white wine vinegar
+* red plum + cardamom + brown sugar + white wine vinegar (which is what I made here)
