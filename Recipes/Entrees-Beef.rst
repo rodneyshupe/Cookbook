@@ -267,6 +267,8 @@ Directions
 Asian Marinated Short Ribs
 ==========================
 
+Source: `Rodney Bowers <https://beta.theloop.ca/food/recipes/marinated-short-ribs-with-peanut-salsa.html>`_
+
 Ingredients
 -----------
 

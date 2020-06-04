@@ -604,7 +604,7 @@ Ssam Sauce
 Ingredients
 -----------
 
-- 1/4 cup doenjang (korean soybean paste)
+- 1/4 cup doenjang (korean soybean paste) possible substitute (miso)
 - 2 tablespoons gochujang (korean chili paste)
 - 2 tablespoons sesame oil
 - 1/2 tablespoons honey
