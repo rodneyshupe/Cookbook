@@ -328,6 +328,90 @@ Notes
 
    <p style="page-break-before: always"/>
 
+Cajun Shrimp Boil
+=================
+
++-------------------------+--------------------------+
+| Time: 1 Hour 15 minutes | Yield: 10 to 12 servings |
++-------------------------+--------------------------+
+
+Source: `New York Times Samin Nosrat <https://cooking.nytimes.com/recipes/1019530-cajun-shrimp-boil>`__
+
+Ingredients
+-----------
+
+- 1/4 cup Cajun or Louisiana Spice
+- 1/4 old bay
+- 1 tablespoons cayenne-pepper powder
+- 2 tablespoons kosher salt
+- 1 onion, peeled and halved through root
+- 2 celery ribs, cut into 3-inch pieces
+- 1 lemon, quartered
+- 1 head garlic
+- 3 ears corn, shucked and cut into 1-inch pieces
+- 1 pounds small (2-inch) red potatoes
+- 1 12-ounce kielbasi, cut into 1-inch pieces
+- 3 pounds live spot prawns shrimp, preferably with shells on
+
+Directions
+----------
+
+1. Fill a very large (12-quart) pot with 4 quarts of water set over high
+   heat. Cajun and Old bay spices, cayenne, salt, onions and celery. Squeeze
+   lemon juice, then add wedges. Break garlic into cloves, and discard
+   excess skin, then add unpeeled cloves. Cover the pot, and bring to a
+   rolling boil.
+2. Lay corn on a baking sheet in a single layer, then place in freezer.
+3. Taste the water after it comes to a boil. It should be very heavily
+   salted and spiced, with a bright orange foam (when standing near the
+   boiling pot causes you to cough, it’s spicy enough).
+4. Add potatoes and sausage to the pot, and let the water return to a
+   boil. Turn off heat, and allow to soak for 10 minutes or until
+   potatoes are barely tender when pierced with a knife. Bring the water
+   to a boil, and add prawns. Cook for 3 minutes, then turn off heat, add
+   corn and allow to soak for 7 minutes. Drain, and serve immediately
+   with `remoulade <#quick-remoulade>`__ (preferably on a newspaper-lined table).
+
+----
+
+Two-Step Boiled Viet-Cajun Spot Prawns
+======================================
+
+Ingredients
+-----------
+- 3/4 cup softened butter to spread
+- 2 tablespoons minced garlic
+- 2 tablespoons Cajun Seasoning Blend
+- 1 tablespoon black pepper
+- 1 teaspoon ground ginger
+- 4 slices orange
+- 4 slices lemon
+- 1/2 cup sliced yellow onion
+- 1/2 cup roughly chopped green onion
+- 3 pounds seasoned and cooked Cajun Prawns (see below)
+- 1 cup reserved prawn boil cooking liquid or water
+
+Directions
+----------
+1. In a large wok or Dutch oven over medium-high heat, add the butter, garlic,
+   Cajun seasoning, pepper, ginger, orange, lemon, and onions. Stirring
+   constantly, cook the ingredients until the onions begin to wilt and the
+   citrus fruit softens, about 5 minutes.
+2. Add the whole boiled prawns along with 1/2 cup of the cooking liquid. Stir to
+   coat the crawfish with the sauce and heat through. Add more cooking liquid to
+   thin out the sauce and add more spice, if needed.
+3. To serve, mound the prawns on a platter or large bowl and pour over the
+   sauce.
+
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Clam/Shrimp Bake Foil Packets
 =============================
 

@@ -157,6 +157,24 @@ Makes about 3/4 cup.
 
 ----
 
+Mary's Rib Rub
+==============
+
+Ingredients
+-----------
+- 1/4 cup dark brown sugar
+- 4 teaspoons dry mustard powder
+- 4 teaspoons smoked paprika
+- 2 teaspoon ground cumin
+- 2 teaspoon kosher salt
+- 2 teaspoon freshly ground black pepper
+- 1 teaspoon garlic powder
+
+Yield:
+------
+
+Makes about 1/2 cup.
+
 Bone Dust
 =========
 
@@ -557,3 +575,34 @@ Directions
    peppercorns, ginger, dill seeds, cardamom seeds, hot pepper flakes
    and cloves. Stir well. Store in 4-ounce (125 mL) jars or an 8-ounce
    (250 mL) jar, or another airtight container, for up to 1year.
+
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Herb Mustard Rub
+================
+
+This works well on pork or lamb roasts.
+
+Ingredients
+-----------
+- 1/2 cup lightly packed flat-leaf parsley or basil leaves
+- 2 Tbs. fresh rosemary leaves
+- Grated zest of 1 lemon
+- 4 cloves garlic
+- 2 Tbs. cracked or crushed black peppercorns
+- 2 Tbs. lightly crushed mustard seeds
+- 2 Tbs. olive oil
+- 2 tsp. salt
+
+Directions
+----------
+1. Combine the parsley or basil, rosemary, lemon zest, garlic,
+   peppercorns, mustard seeds, olive oil and salt in a small food
+   processor (or mortar and pestle) and process to a smooth paste.

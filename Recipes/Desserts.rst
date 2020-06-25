@@ -42,12 +42,11 @@ each year at Brennan’s in the preparation of its world-famous dessert.
 Ingredients
 -----------
 
--  1/4 cup (1/2 stick) butter
+-  1/2 cup (1/2 stick) butter
 -  1 cup brown sugar
 -  1/2 teaspoon cinnamon
--  1/4 cup banana liqueur
+-  1/4 cup brandy
 -  4 bananas, cut in half lengthwise, then halved
--  1/4 cup dark rum
 -  4 scoops vanilla ice cream
 
 Directions
@@ -341,7 +340,6 @@ Directions
    remaining chocolate bar over the top, and place the Semifreddo into
    the freezer for around two hours to set.
 
-
 .. raw:: pdf
 
    PageBreak recipePage
@@ -349,6 +347,190 @@ Directions
 .. raw:: html
 
    <p style="page-break-before: always"/>
+
+No-Churn Ice Cream
+==================
+
++----------------+---------------------------+-----------------------------------+
+| Prep: 5 hours  | Total: 5 hours 15 minutes | Yield: 12 servings (6 cups total) |
++----------------+---------------------------+-----------------------------------+
+
+Source: `Food Network Kitchen <https://www.foodnetwork.com/recipes/food-network-kitchen/no-churn-vanilla-ice-cream-3364776>`__
+
+No special equipment is needed to make this ultra-creamy ice cream. Eat
+it plain or add some of our fun suggested stir-ins.
+
+Ingredients
+-----------
+
+- One 14-ounce can sweetened condensed milk
+- 2 teaspoons pure vanilla extract or vanilla bean paste
+- Pinch fine salt
+- 2 cups heavy cream, cold
+
+Directions
+----------
+
+1. For the ice cream: Whisk together the condensed milk, vanilla and
+   salt in a large bowl; set aside.
+2. Whip the cream with a mixer on medium-high speed until firm peaks
+   form, about 2 minutes. Fold about 1 cup of the whipped cream into
+   the condensed milk mixture with a rubber spatula until combined,
+   then fold the lightened mixture into the whipped cream until well
+   blended. Pour into a chilled 9-by-5-by-3-inch metal loaf pan, and
+   freeze for at least 5 hours.
+
+Variations
+----------
+
+For these variations stir in these mix-ins at the 2 hour mark of
+freezing:
+- Cookies and Cream: 12 Oreo cookies, crushed
+- Crunchy Cereal: 1 1/2 cups cinnamon crunch cereal, crushed
+- Cookies and Lemon: 1/2 cup lemon curd and 1 cup shortbread cookies, crushed
+
+For these variations fold in these combinations before freezing:
+- Strawberry Shortcake: Add 1 cup pound cake and 2 cups strawberries (either pureed or just chopped) to mixture prior to freezing.
+- Nutella Swirl: 1 cup Nutella
+- Peach Pecan: 1 cup pureed frozen peaches and 1 cup pecans
+- Hot Cocoa Ice Cream: 3 hot cocoa packets and 2/3 cup mini marshmallows, plus more for garnish
+- Sparkling Ice Cream: Mix in 2 tablespoons honey then when combined 2 tablespoons Prosecco, ganish with gold and silver sprinkles
+- Mudslide: 1 cup Chopped Chocolate, 1/4 cup hot fudge sauce (plus more for serving), 2 tablespoon Kahlua, 2 tablespoon Baileys Irish Cream
+- Oreogasm: 20 Oreos, 3 tablespoons caramel, 3 tablespoons chocolate sauce
+- Robin's Egg: 2 cups Robin's Egg malted milk ball candies
+- Thin Mint: Replace vanilla with 1 teaspoon peppermint extract and 3 cups crushed Thin Mints, plus more for garnish
+
+.. raw:: pdf
+
+ PageBreak recipePage
+
+.. raw:: html
+
+ <p style="page-break-before: always"/>
+
+Ice Cream in a Bag
+==================
+
++-----------------+-------------------+------------------+
+| Prep: 5 minutes | Total: 15 minutes | Yield: 1 serving |
++-----------------+-------------------+------------------+
+
+Source: `Delish (Lena Abraham) <https://www.delish.com/cooking/recipe-ideas/recipes/a54721/ice-cream-in-a-bag-recipe/>`__
+
+This hack from Delish.com is the most fun you'll have making ice cream
+this summer.
+
+Ingredients
+-----------
+
+- 1 cup half-and-half
+- 2 tablespoon granulated sugar
+- 1/2 teaspoon pure vanilla extract
+- 3 cups ice
+- 1/3 cup kosher salt
+- Toppings of your choice
+
+Directions
+----------
+
+1. In a small resealable plastic bag, combine half-and-half, sugar, and
+   vanilla. Push out excess air and seal.
+2. In a large resealable plastic bag, combine ice and salt. Place small
+   bag inside the bigger bag and shake vigorously, 7 to 10 minutes,
+   until ice cream has hardened.
+3. Remove from bag and enjoy with your favorite ice cream toppings.
+
+.. raw:: pdf
+
+ PageBreak recipePage
+
+.. raw:: html
+
+ <p style="page-break-before: always"/>
+
+Mason Jar Ice Cream
+===================
+
++------------------+---------------------------+----------+
+| Prep: 10 minutes | Total: 3 hours 10 minutes | Yield: 1 |
++------------------+---------------------------+----------+
+
+Source: `Delish (Lena Abraham) <https://www.delish.com/cooking/recipe-ideas/recipes/a53547/mason-jar-ice-cream-recipe/>`__
+
+All you need to make this mason jar ice cream from Delish.com is a little
+elbow grease.
+
+Ingredients
+-----------
+
+- 1 cup heavy cream
+- 1 1/2 tablespoons granulated sugar
+- 1/2 teaspoon pure vanilla extract
+- pinch of salt
+
+Directions
+----------
+
+1. Pour cream, sugar, vanilla and salt into a 16 ounce mason jar and
+   secure tightly with a lid. Shake the mason jar until the cream
+   thickens and almost doubles in size, 4 to 5 minutes. It should
+   be opaque and easily coat the back of a wooden spoon.
+2. Freeze for 3 hours, or until hardened. Scoop out ice cream with a
+   spoon and serve with your favorite ice cream toppings.
+
+.. raw:: pdf
+
+ PageBreak recipePage
+
+.. raw:: html
+
+ <p style="page-break-before: always"/>
+
+"Fried" Ice Cream
+=================
+
++-----------------+-------------------+-------------------+
+| Prep: 5 minutes | Total: 45 minutes | Yield: 4 servings |
++-----------------+-------------------+-------------------+
+
+Source: `Delish (Lena Abraham) <https://www.delish.com/cooking/recipe-ideas/a22075262/fried-ice-cream-recipe/>`__
+
+Fried Ice Cream is shockingly simple and let's you use any of your
+favorite cereal or ice cream!
+
+Ingredients
+-----------
+
+- 1 pint ice cream (such as Breyers Delights Vanilla Cupcake Ice Cream)
+- 1 1/2 tbsp. butter
+- 1 1/4 c. corn cereal, crushed
+- 1/2 tsp. ground cinnamon
+- 2 tsp. granulated sugar
+- Whipped cream, for garnish
+- Sprinkles, for garnish
+- 4 maraschino cherries, for garnish
+
+Directions
+----------
+
+1. Line a small sheet tray with parchment paper and place in freezer. Scoop
+   ice cream into 4 balls and place on prepared sheet tray. Keep in freezer
+   while making cereal mixture, at least 30 minutes.
+2. In a medium skillet over medium heat, melt butter. Add corn cereal and
+   cinnamon and cook, stirring occasionally, until the cereal turns golden,
+   5 to 7 minutes. Remove from heat and stir in sugar. Place on a shallow
+   bowl and let cool.
+3. Remove ice cream balls from freezer and roll in cereal mixture. Top with
+   whipped cream, sprinkles, and a cherry, and serve immediately.
+
+.. raw:: pdf
+
+ PageBreak recipePage
+
+.. raw:: html
+
+ <p style="page-break-before: always"/>
+
 
 Six Minute Brownies
 ===================
@@ -422,6 +604,66 @@ Directions
    appearance of mousse). If the mixture does not thicken, add a bit
    more chopped chocolate and remelt over the heat. Spoon into serving
    bowls and garnish with fleur de sel.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Gourmet Rice Krispy Squares
+===========================
+
++------------------+-------------------+------------------------+
+| Prep: 15 minutes | Total: 20 minutes | Yield: 9 (one 8x8 pan) |
++------------------+-------------------+------------------------+
+
+Ingredients
+-----------
+
+- 4 tbsp butter
+- 3 cups mini marshmallows
+- 4 cups rice krispys cereal
+
+Directions
+----------
+
+1. In a wide saucepan or skillet, toast rice crispy cereal over medium-low
+   stirring constantly until nutty, about 5 minutes.  Remove from skillet
+   and set aside in bowl medium bowl. In the now empty skillet melt
+   4 tablespoons butter over low heat, until starting to brown. Add the
+   marshmallows, and stir for about 5 minutes, until the marshmallows
+   have completely melted. Stir in the toasted cereal, and stir to coat.
+2. Scrape the marshmallow cereal out into an 8x8 square pan, and press it
+   down with a spatula to really compact the marshmallow squares.
+3. Let cool before cutting into 9 squares.
+
+----
+
+Chocolate Peanut Butter Marshmallow Squares
+===========================================
+
+Ingredients
+-----------
+
+- one batch of `Rice Krispy Squares <#gourmet-rice-krispy-squares>`__ uncut
+- 4 oz milk chocolate
+- 1/2 cup creamy peanut butter
+- 4 tbsp butter
+- 3 oz bittersweet chocolate (about a 1/2 cup, measured)
+
+
+1. While the Rice Krispy Squares cool while you start on the peanut butter
+   chocolate layer. Melt the milk chocolate and peanut butter in a double
+   boiler, then spread the mixture evenly over the top of the Rice Krispy
+   Squares cereal. Refrigerate for about 2 hours until firm to the touch.
+2. For the final layer, melt the remaining 4 tablespoons of butter and
+   the bittersweet chocolate in a double boiler or in the microwave.
+   Spread the mixture over the milk chocolate peanut butter layer.
+3. Refrigerate for another half hour or so, until firm to the touch. Cut
+   into squares.
 
 .. raw:: pdf
 
@@ -747,7 +989,6 @@ Caramel Sauce
 - 5 cup whipping cream
 - 3 1/2 oz butter, (unsalted) chopped
 
-
 Banana Fritters
 ^^^^^^^^^^^^^^^
 - 1 cup Self Raising Flour
@@ -756,7 +997,6 @@ Banana Fritters
 - 4 Bananas, cut into quarters
 - Canola oil
 - Vanila gelato
-
 
 Chocolate Cream Sauce
 ^^^^^^^^^^^^^^^^^^^^^

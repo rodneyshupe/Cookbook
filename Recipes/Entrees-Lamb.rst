@@ -165,3 +165,89 @@ Variations
 ----------
 Add 1 can of chickpeas and 1 additional cup of water 1 1/2 hours into
 cooking process.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Herbed Grill-Roasted Lamb
+=========================
+
++---------------+-------------------+
+| Total: 1 hour | Yield: 4 servings |
++---------------+-------------------+
+
+Based on: `Molly Stevens <https://www.finecooking.com/recipe/herbed-grill-roasted-lamb>`__
+
+Ingredients
+-----------
+
+- `Herb Mustard Rub <#herb-mustard-rub>`__
+- 1 2-lb. boneless butterflied leg of lamb
+
+Directions
+----------
+
+1. Lay the lamb flat on your work surface (it should be roughly
+   rectangular) and trim any visible sinew, but don't trim anything
+   that's holding together sections of the leg. Spread about a
+   third of the rub on the surface of the lamb meat. Roll up the lamb
+   tightly, from one short end to the other, and tie the roast snugly at
+   1-inch intervals with kitchen twine. Spread the remaining herb rub all
+   over the rolled, tied roast.
+2. Heat grill with medium heat and setup for indirect grilling.  It should
+   be between 325° and 375°F. Adjust if necessary.  Add roast and grill for
+   about 20 minutes, use tongs or a meat fork to turn and rotate
+   the roast to help it cook evenly. Turn the roast so the side that was
+   farthest from the fire is now closest to it, but keep it on the cool
+   side of the grill.
+3. Check the roast with an instant-read thermometer to determine when
+   it’s done; the middle of the thickest section, should read 125°F for
+   medium rare (about 20 minutes after turning the roast). When the lamb
+   has reached the desired doneness, use tongs or a meat fork to roll it
+   briefly over the hot side of the fire to sear the outside, turning it
+   until all sides are seared, about 2 minutes per side. Cover the lamb
+   with foil and let it rest for 10 to 15 minutes before carving.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Yogurt-Marinated Grilled Boneless Leg of Lamb
+=============================================
+
+Source: `West of the Loop <https://www.westoftheloop.com/2015/12/15/grilled-boneless-leg-of-lamb/>`__
+
+Ingredients
+-----------
+- 5 lb. boneless leg of lamb
+- 1 cup Greek yogurt
+- Zest and juice of one lemon
+- 1/4 cup extra virgin olive oil
+- 3 cloves garlic, minced
+- 2 tsp oregano, preferably Greek
+- Salt and pepper
+
+Directions
+----------
+1. Lay the lamb flat on a cutting board and trim the visible pockets of
+   interior fat, leaving the fat cap on the exterior. Season the lamb well
+   with salt and pepper.
+2. In a small bowl, whisk together the yogurt, lemon zest and juice,
+   olive oil, garlic and oregano. Rub the marinade all over the lamb and
+   place lamb in a gallon-sized plastic big. Refrigerate the lamb for at
+   least one hour and up to 3 hours.
+3. Remove lamb prior to cooking and allow to come to room temperature. Heat
+   grill to medium heat. Cook lamb, turning once, until it reaches an
+   internal temperature of 125 degrees for medium-rare, about 20 minutes.
+4. Allow lamb to rest, loosely tented with foil, for at least twenty minutes
+   prior to carving. Slice against the grain into thin slices and serve.
+   (Tzatziki sauce, harissa or mint jelly all make nice accompaniments.)
