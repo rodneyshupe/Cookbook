@@ -1125,7 +1125,7 @@ Marinade
 - 1 tablespoon lemon juice
 - 1 teaspoon turmeric powder
 - 2 teaspoon garam masala
-- 1/2 teaspoon cayenne pepper powder
+- 1/4 teaspoon cayenne pepper powder
 - 1 teaspoon ground cumin
 - 1 tablespoon ginger, freshly grated
 - 2 cloves garlic, crushed

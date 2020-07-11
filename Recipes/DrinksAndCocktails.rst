@@ -501,10 +501,10 @@ Ingredients
 Directions
 ----------
 
-1. Pour all ingredients into a cocktail shaker and fill with ice. Shake
-   well for 10 seconds and strain into a double old-fashioned glass
-   filled with crushed ice. Garnish with lime shell and a sprig of fresh
-   mint.
+Pour all ingredients into a cocktail shaker and fill with ice. Shake
+well for 10 seconds and strain into a double old-fashioned glass
+filled with crushed ice. Garnish with lime shell and a sprig of fresh
+mint.
 
 .. raw:: pdf
 
@@ -545,8 +545,7 @@ Ingredients
 -----------
 
 -  2 to 3 ounces bourbon, to taste
--  1 teaspoon sugar, to taste, dissolved in 1 teaspoon water (or use 2
-   tsp. simple syrup)
+-  1 teaspoon sugar, to taste, dissolved in 1 teaspoon water (or use 2 tsp. simple syrup)
 -  8 to 10 leaves fresh mint
 -  Mint sprigs, for garnish
 -  Crushed ice
@@ -554,17 +553,19 @@ Ingredients
 Directions
 ----------
 
-1. Place the sugar and water at the bottom of a julep cup or tall glass
-   and stir until sugar is dissolved (or speed the process by using
-   simple syrup). Add the mint leaves and gently bruise with a wooden
-   muddler or a wooden spoon. Take care not to overwork the mint, but
-   swab the sides of the glass with the mint’s aromatic oils. Half-fill
-   the glass with crushed ice and add the bourbon, stirring to combine.
-   Fill the glass with crushed ice and stir until the outside of the
-   glass frosts. Add more crushed ice if needed to fill, and generously
-   adorn the drink with sprigs of fresh mint. Serve with a short straw,
-   so the fragrance of the mint bouquet will greet the drinker with each
-   sip.
+Place the sugar and water at the bottom of a glass and stir until sugar
+is dissolved (or speed the process by using simple syrup). Add the mint
+leaves and muddle. Take care not to overwork the mint, but swab the
+sides of the glass with the mint’s aromatic oils. Half-fill the glass
+with crushed ice and add the bourbon, stirring to combine. Fill the
+glass with crushed ice and stir until the outside of the glass frosts.
+
+Alternate Method
+----------------
+
+Use 1/2 ounce `mint syrup <#mint-syrup>`__ with 2 ounces bourbon in a
+rocks glass filled with crushed ice. Stir then garnish with additional
+mint if desired.
 
 .. raw:: pdf
 
@@ -1292,6 +1293,46 @@ Directions
 5. Pour through a fine mesh (such as a nut bag) and transfer to a clean
    bottle
 6. Syrup will keep for about a month in the refrigerator
+
+----
+
+Mint Syrup
+==========
+
++-------------------------+--------------------------+-------------------+
+| Prep: 1 hour 10 minutes | Total: 1 hour 30 minutes | Yield: 1 3/4 cups |
++-------------------------+--------------------------+-------------------+
+
+Source: `Alton Brown <https://www.cookingchanneltv.com/recipes/alton-brown/mint-syrup-reloaded-8806464>`__
+
+
+Ingredients
+-----------
+
+- 2 cups (440 grams) sugar
+- 10 sprigs (40 grams) fresh mint
+
+Directions
+----------
+
+1. Combine the sugar with 1 cup of the water in a small saucepan and place
+   over high heat. Bring to a boil then reduce the heat to medium low and
+   simmer, stirring occasionally, until the sugar has dissolved — 3 to 5
+   minutes. Remove from the heat, cool for 10 minutes, then transfer to
+   your blender. Allow the syrup to cool to around 80 degrees F. Clean the
+   saucepan.
+2. Meanwhile, combine the 2 cups of ice and 2 more cups of water in a large bowl and
+   have it standing by near the cooktop.
+3. In the same saucepan, bring 5 cups of water to a boil over
+   high heat and tie the mint into a bunch with cotton butcher's twine.
+   When the water reaches a hard boil, dunk the mint bouquet and count to
+   15, then immediately plunge the mint into the ice water to stop the
+   cooking and set the color. (This is called "blanching" and "shocking.")
+4. Once thoroughly cooled, pat the mint dry, pluck as many leaves off as
+   possible, and add them to the cooled syrup. Then blend on medium speed
+   until the mint is reduced to very fine pieces. Strain through a fine
+   sieve set over a 2-cup liquid measuring cup then transfer to a bottle
+   and refrigerate for up to 2 months or freeze forever.
 
 ----
 

@@ -240,8 +240,6 @@ Yield
 -----
 Makes 4 cups
 
-
-
 .. raw:: pdf
 
    OddPageBreak recipePage
@@ -275,12 +273,15 @@ Ingredients
 Directions
 ----------
 
-#. In a medium saucepan, melt the butter over medium heat.
-#. Add the onion and cook for 5 minutes until softened.
-#. Add the garlic and cook for another minute.
-#. Add in the ketchup, molasses, worcestershire, liquid smoke, chipotle chile pepper, cayenne (if using), honey, and vinegar.
-#. Simmer for 15 minutes, then taste and make any necessary seasoning adjustments.
-#. If the BBQ sauce gets too thick, dilute with water until you get the desired consistency.
+1. In a medium saucepan, melt the butter over medium heat.
+2. Add the onion and cook for 5 minutes until softened.
+3. Add the garlic and cook for another minute.
+4. Add in the ketchup, molasses, worcestershire, liquid smoke, chipotle
+   chile pepper, cayenne (if using), honey, and vinegar.
+5. Simmer for 15 minutes, then taste and make any necessary seasoning
+   adjustments.
+6. If the BBQ sauce gets too thick, dilute with water until you get the
+   desired consistency.
 
 .. raw:: pdf
 
@@ -323,6 +324,115 @@ Directions
 Yield
 -----
 Makes 1 1/2 cups.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Sriracha Bourbon Barbecue Sauce
+===============================
+
++----------------------+--------------------------+-------------------+
+| Prep Time: 5 minutes | Cooking Time: 15 minutes | Yield: 2 1/2 cups |
++----------------------+--------------------------+-------------------+
+
+Based on: `Epicurious (Steve Raichlen) <https://www.epicurious.com/recipes/food/views/Bourbon-Barbecue-Sauce-103642>`__
+
+Ingredients
+-----------
+
+- 2 cups ketchup
+- 1/2 cup mild-flavored (light) molasses
+- 1/3 cup bourbon
+- 1/4 cup Dijon mustard
+- 2 - 4 tablespoons Sriracha sauce or the hot sauce of your choice
+- 2 tablespoons Worcestershire sauce
+- 2 teaspoons paprika
+- 1 teaspoon garlic powder
+- 1 teaspoon onion powder
+
+Directions
+----------
+
+1. Combine all ingredients in heavy large saucepan. Bring to boil over
+   medium heat, stirring occasionally. Reduce heat to medium-low; simmer
+   uncovered until sauce thickens and flavors blend, stirring frequently,
+   about 15 minutes. (Can be made 1 week ahead. Cover; chill.)
+
+----
+
+Gochujang Barbecue Sauce
+========================
+
++------------------------+---------------+
+| Total Time: 15 minutes | Yield: 2 cups |
++------------------------+---------------+
+
+Ingredients
+-----------
+
+- 2/3 cup apple cider vinegar
+- 1/2 cup (packed) dark brown sugar
+- 6 Tbsp. gochujang (Korean hot pepper paste)
+- 1/4 cup adobo (from 1 can chipotle chiles in adobo)
+
+Directions
+-----------
+
+1. Whisk vinegar, brown sugar, gochujang, and adobo in a medium bowl until
+   sugar is dissolved.
+
+----
+
+KB Sauce (Korean Barbecue Sauce)
+================================
+
++-------------------+-------------------------------------+
+| Total: 10 minutes | Yield: 3 cups (enough to serve 4-5) |
++-------------------+-------------------------------------+
+
+Source: Steven Raichlen
+
+Ingredients
+-----------
+
+- 1/2 cups cold water
+- 1/2 cup Sprite (or other lemon-lime soda)
+- 6 tablespoons granulated sugar
+- 1/4 cup packed dark brown sugar
+- 2 tablespoons cup soy sauce
+- 1/2 tablespoon Asian (dark) sesame oil
+- 1 cups (about 1/2 pound) gochujang
+- 1/2 tablespoon rice vinegar (or to taste (optional)
+
+Directions
+----------
+
+1. Place the water, Sprite, sugars, and soy sauce in a heavy saucepan and
+   bring to a boil over high heat. Boil until the sugars are dissolved, 3
+   minutes, whisking well. Remove the pan from the heat and let cool
+   slightly, then whisk in the sesame oil, gochujang, and rice vinegar, if
+   using. Transfer the sauce to clean jars. Covered and kept refrigerated,
+   the sauce will keep for at least 1 month.
+
+----
+
+Spicy Korean Fire BBQ Sauce
+===========================
+
+Ingredients
+-----------
+
+- gochujang - korean chili paste
+- soy paste
+- garlic
+- lime
+- spicy 'fire' sauce (from ramen packet)
+- honey
 
 .. raw:: pdf
 
