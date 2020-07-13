@@ -226,9 +226,21 @@ can change depending on gin.
 
 Rosemary Gimlet
 ===============
-2 ounces gin
-3/4 ounce fresh lime juice
-3/4 ounce `rosemary simple syrup <#rosemary-simple-syrup>`__
+
+Ingredients
+-----------
+
+- 2 ounces gin
+- 3/4 ounce fresh lime juice
+- 3/4 ounce `rosemary simple syrup <#rosemary-simple-syrup>`__
+
+Directions
+----------
+
+1. In a cocktail shaker filled halfway with ice, combine gin, lime juice
+   and rosemary simple syrup. Shake vigorously for 30 seconds or so.
+2. Pour in to a cocktail glass. Garnish with a fresh sprig of rosemary,
+   a slice of lime or both!
 
 ----
 
