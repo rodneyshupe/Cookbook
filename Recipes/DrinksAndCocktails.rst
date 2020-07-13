@@ -224,6 +224,14 @@ can change depending on gin.
 
    <p style="page-break-before: always"/>
 
+Rosemary Gimlet
+===============
+2 ounces gin
+3/4 ounce fresh lime juice
+3/4 ounce `rosemary simple syrup <#rosemary-simple-syrup>`__
+
+----
+
 Aperol Spritz
 =============
 
@@ -308,7 +316,7 @@ Ingredients
 - 1 1/2 oz gin
 - 1 1/2 oz Aperol
 - 3/4 oz fresh lemon juice
-- 1/4 oz simple syrup
+- 1/4 oz `simple syrup <#simple-syrup>`__
 - five fresh basil leaves (more for garnish)
 - 1/2 oz Prosecco
 
@@ -545,7 +553,7 @@ Ingredients
 -----------
 
 -  2 to 3 ounces bourbon, to taste
--  1 teaspoon sugar, to taste, dissolved in 1 teaspoon water (or use 2 tsp. simple syrup)
+-  1 teaspoon sugar, to taste, dissolved in 1 teaspoon water (or use 2 tsp. `simple syrup <#simple-syrup>`__)
 -  8 to 10 leaves fresh mint
 -  Mint sprigs, for garnish
 -  Crushed ice
@@ -862,8 +870,7 @@ Ingredients
 
 -  3 oz Coruba dark Jamaican rum (if you can’t find Coruba, substitute
    another dark, heavy rum)
--  1 ounce simple syrup (equal parts sugar and water, mixed until
-   dissolved)
+-  1 ounce `simple syrup <#simple-syrup>`__
 -  3/4 ounce fresh lime juice
 -  3 dashes Angostura bitters
 
@@ -892,7 +899,7 @@ Ingredients
 
 -  3 ounces pisco
 -  1 ounce fresh-squeezed lime juice
--  3/4 ounce simple syrup (see note)
+-  3/4 ounce `simple syrup <#simple-syrup>`__
 -  1 fresh egg white
 -  1 dash Angostura or Amargo bitters
 
@@ -1051,7 +1058,7 @@ Ingredients
 
 -  1 1/2 to 2 ounces Irish whiskey, to taste
 -  4 ounces fresh-brewed coffee
--  1/2 to 1 ounce simple syrup
+-  1/2 to 1 ounce `simple syrup <#simple-syrup>`__
 -  Heavy cream
 
 Directions
@@ -1272,39 +1279,51 @@ Directions
 
    <p style="page-break-before: always"/>
 
-Ginger Syrup
+Simple Syrup
 ============
+
+Yield: 1 cup
 
 Ingredients
 -----------
 
--  1 cup light agave nectar
--  1 cup filtered water
--  1/3 lb fresh ginger, peeled and chopped
--  2 tsp coarsely ground black peppercorns
+- 3/4 cup sugar
 
 Directions
 ----------
 
-1. Combine agave mix and ginger in a blender and puree
-2. Lightly toast the peppercorns in a saucepan
-3. Add blended ginger mix to saucepan and bring to a light boil
-4. Remove from heat, cover, let stand for 30 minutes
-5. Pour through a fine mesh (such as a nut bag) and transfer to a clean
-   bottle
-6. Syrup will keep for about a month in the refrigerator
+1. Combine the sugar with 3/4 cup of the water in a small saucepan and place
+   over high heat. Bring to a boil then reduce the heat to medium low and
+   simmer, stirring occasionally, until the sugar has dissolved — 3 to 5
+   minutes. Remove from the heat, cool for 20 minutes, then transfer to
+   transfer to a bottle and refrigerate.
+
+----
+
+Rosemary Simple Syrup
+=====================
+
+Yield: 1 cup
+
+Ingredients
+-----------
+
+- 3/4 cup sugar
+- 2 tablespoons fresh rosemary leaves
+
+Directions
+----------
+
+1. In a small saucepan, bring 3/4 cup water, sugar, and rosemary to a boil,
+   stirring until sugar dissolves. Let stand 30 minutes, then strain;
+   discard solids. Transfer to transfer to a bottle and refrigerate.
 
 ----
 
 Mint Syrup
 ==========
 
-+-------------------------+--------------------------+-------------------+
-| Prep: 1 hour 10 minutes | Total: 1 hour 30 minutes | Yield: 1 3/4 cups |
-+-------------------------+--------------------------+-------------------+
-
 Source: `Alton Brown <https://www.cookingchanneltv.com/recipes/alton-brown/mint-syrup-reloaded-8806464>`__
-
 
 Ingredients
 -----------
@@ -1333,6 +1352,36 @@ Directions
    until the mint is reduced to very fine pieces. Strain through a fine
    sieve set over a 2-cup liquid measuring cup then transfer to a bottle
    and refrigerate for up to 2 months or freeze forever.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Ginger Syrup
+============
+
+Ingredients
+-----------
+
+-  1 cup light agave nectar
+-  1 cup filtered water
+-  1/3 lb fresh ginger, peeled and chopped
+-  2 tsp coarsely ground black peppercorns
+
+Directions
+----------
+
+1. Combine agave mix and ginger in a blender and puree
+2. Lightly toast the peppercorns in a saucepan
+3. Add blended ginger mix to saucepan and bring to a light boil
+4. Remove from heat, cover, let stand for 30 minutes
+5. Pour through a fine mesh (such as a nut bag) and transfer to a clean
+   bottle
+6. Syrup will keep for about a month in the refrigerator
 
 ----
 
