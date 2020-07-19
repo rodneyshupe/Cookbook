@@ -1,5 +1,5 @@
-Instant Pot Soy-Ginger Salmon
-=============================
+Soy-Ginger Salmon
+=================
 
 +-----------------+-------------------+-------------------+
 | Prep: 5 minutes | Total: 15 minutes | Yield: 4 servings |
