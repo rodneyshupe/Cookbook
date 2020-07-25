@@ -837,6 +837,101 @@ Variations
 
    <p style="page-break-before: always"/>
 
+Basil Pesto
+===========
+
++-------------------+---------------------------------------------------+
+| Total: 30 minutes | Yield: Makes 3/4 cup, enough for 1 pound of pasta |
++-------------------+---------------------------------------------------+
+
+Source: `www.cooksillustrated.com <https://www.cooksillustrated.com/recipes/1567-basil-pesto?incode=MCSCD00L0>`__
+
+Ingredients
+-----------
+
+- 1/4 cup pine nut, toasted (or substitute almonds or walnuts)
+- 3 garlic clove, unpeeled
+- 2 cups packed fresh basil leafNone
+- 2 tablespoons fresh parsley leaves(optional)
+- 1/4 cup plus 3 tablespoons extra-virgin olive oilNone
+- 1/2 teaspoon saltNone
+- 1/4 cup finely grated Parmesan cheese or Pecorino Romano
+
+Directions
+----------
+
+1. Toast the nuts in a small, heavy skillet over medium heat, stirring
+   frequently, until just golden and fragrant, about 5 minutes; set aside.
+   Add the garlic to the empty skillet and toast over medium heat, shaking
+   the pan occasionally, until fragrant and the color of the cloves deepens
+   slightly, about 7 minutes. Let the garlic cool slightly, then peel, and
+   chop.
+2. Place the basil and parsley (if using) in a heavy-duty 1-gallon zipper-
+   lock plastic bag. Pound the bag with the flat side of a meat pounder or
+   rolling pin until all the leaves are bruised.
+3. Process the nuts, garlic, herbs, oil, and 1⁄2 teaspoon salt in a food
+   processor until smooth, stopping as necessary to scrape down the sides
+   of the bowl, about 1 minute. Stir in the Parmesan and season with salt
+   and pepper to taste.
+
+Notes
+-----
+
+Pounding the basil releases its flavorful oils into the pesto more readily.
+Basil usually darkens in homemade pesto, but you can boost the green color
+a little by adding the optional parsley. For sharper flavor, substitute one
+tablespoon finely grated pecorino Romano cheese for one tablespoon of the
+Parmesan. The pesto can be kept in an airtight container, covered with a
+thin layer of oil (1 to 2 tablespoons), and refrigerated for up to four
+days or frozen for up to one month.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Garlic Scape Pesto
+==================
+
++------------------+--------------------+
+| Total: 3 minutes | Yield: About 1 cup |
++------------------+--------------------+
+
+Source: `New York Times (Jeff Schwarz And Greg Kessler) <https://cooking.nytimes.com/recipes/1015301-garlic-scape-pesto>`__
+
+Ingredients
+-----------
+
+- 1 cup garlic scapes, sliced crosswise (about 10 to 12 scapes)
+- 1/4 cup raw sunflower seeds
+- 1/2 cup extra virgin olive oil
+- 1/4 cup Parmesan cheese
+- 1/2 cup basil leaves
+- Juice of one lemon
+
+Directions
+----------
+
+1. Place the garlic scapes in a food processor and pulse for 30 seconds.
+2. Add the sunflower seeds and pulse for 30 seconds. Scrape down the sides
+   of the bowl.
+3. Add the olive oil and process on high for 15 seconds.
+4. Add the Parmesan cheese and pulse until the ingredients are combined.
+5. Add the basil and lemon juice, and process until reaching the desired
+   consistency.
+6. Add salt to taste and serve immediately.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Jalapeno and Cilantro Sauce
 ===========================
 
