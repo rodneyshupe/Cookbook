@@ -25,12 +25,10 @@ Based on: `Jim Lahey and Mark Bittman <https://cooking.nytimes.com/recipes/11376
 
 Ingredients
 -----------
-- 425 grams all purpose or bread flour
+- 400 grams (2 1/2 cups + 3 tablespoons) bread flour (can sub all purpose)
 - 1 gram (1/4 teaspoon) instant yeast
-- 8-12 grams salt (I use 10 grams)
-- 15 grams (1 tablespoons) distilled white vinegar
-- 200 grams water (room temperature)
-- 90 grams beer (allowed to warm to room temperature)
+- 10 grams salt
+- 300 grams water (room temperature)
 
 Directions
 ----------
@@ -61,15 +59,8 @@ Variations
 
 Whole Wheat
 ^^^^^^^^^^^
-Change Flour to 285 grams all purpose and 140 grams whole wheat.
+Change Flour to 250 grams all purpose and 150 grams whole wheat.
 Add 1 tablespoon honey to wet ingredients)
-
-Simple 4 ingredient version
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- 400 grams flour
-- 1 gram (1/4 teaspoon) instant yeast
-- 8-12 grams salt (I use 10 grams)
-- 300 grams water (room temperature)
 
 Quick loaf
 ^^^^^^^^^^
