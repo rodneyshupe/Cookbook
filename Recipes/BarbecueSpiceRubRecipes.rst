@@ -64,6 +64,97 @@ Ingredients
 
 .. raw:: pdf
 
+   OddPageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Alton Brown Dry Rub
+===================
+
+Yield: Makes about 3/4 cup.
+
+Ingredients
+-----------
+
+- 1/2 cup light brown sugar, tightly packed
+- 3 tablespoons kosher salt
+- 1 tablespoon chili powder
+- 1/2 teaspoon ground black pepper
+- 1/2 teaspoon cayenne pepper
+- 1/2 teaspoon jalapeno seasoning (substitute chipotle chili powder)
+- 1/2 teaspoon Old Bay Seasoning
+- 1/2 teaspoon rubbed thyme
+- 1/2 teaspoon onion powder
+
+----
+
+Buffettfan's BBQ Dry Rub
+========================
+
+Source: `BuffettFan @ BBQ Brethren <https://www.bbq-brethren.com/forum/showthread.php?t=275551>`__
+
+Great on pork, chicken and seafood.
+
+Ingredients
+-----------
+
+- 3 tablespoons smoked paprika
+- 1 1/2 tablespoons coarse black pepper
+- 3 1/2 tablespoons dark brown sugar
+- 2 tablespoons white sugar
+- 1 1/2 tablespoons kosher salt (more or less to taste)
+- 1 1/2 tablespoons celery seed
+- 1 tablespoons garlic powder
+- 1 tablespoons dry mustard
+- 1 tablespoons onion powder
+- 3/4 teaspoons cumin
+- 1/2 teaspoons cayenne pepper (More or less to taste)
+
+----
+
+Jans BBQ Rub
+============
+
+Source: `Smokin Pete BBQ <https://www.smokinpetebbq.com/wordpress/jans-original-dry-rub/>`__
+
+Ingredients
+-----------
+
+- 1 1/4 cup sugar
+- 1/4 cup Lawry’s seasoned salt
+- 1/4 cup garlic salt
+- 1/4 cup + 1 1/2 teaspoon celery salt
+- 1/4 cup onion salt
+- 1/2 cup paprika
+- 3 tablespoons chili powder
+- 2 tablespoons black pepper
+- 1 tablespoon lemon pepper
+- 2 teaspoon celery seed
+- 2 teaspoon dry ground sage
+- 1 teaspoon dry mustard
+- 1/2 teaspoon dry ground thyme
+- 1/2 teaspoon cayenne
+
+----
+
+Lawry's Substitute
+==================
+
+Ingredients
+-----------
+
+- 2 tablespoons salt
+- 2 teaspoons granulated sugar
+- 1/2 teaspoon paprika
+- 1/4 teaspoon turmeric
+- 1/4 teaspoon onion powder
+- 1/4 teaspoon garlic powder
+- 1/4 teaspoon cornstarch
+
+.. raw:: pdf
+
    PageBreak recipePage
 
 .. raw:: html
@@ -134,31 +225,10 @@ Ingredients
 
    <p style="page-break-before: always"/>
 
-Alton Brown Dry Rub
-===================
-
-Ingredients
------------
-
-- 1/2 cup light brown sugar, tightly packed
-- 3 tablespoons kosher salt
-- 1 tablespoon chili powder
-- 1/2 teaspoon ground black pepper
-- 1/2 teaspoon cayenne pepper
-- 1/2 teaspoon jalapeno seasoning (substitute chipotle chili powder)
-- 1/2 teaspoon Old Bay Seasoning
-- 1/2 teaspoon rubbed thyme
-- 1/2 teaspoon onion powder
-
-Yield:
-------
-
-Makes about 3/4 cup.
-
-----
-
 Mary's Rib Rub
 ==============
+
+Yield: Makes about 1/2 cup.
 
 Ingredients
 -----------
@@ -170,15 +240,14 @@ Ingredients
 - 2 teaspoon freshly ground black pepper
 - 1 teaspoon garlic powder
 
-Yield:
-------
-
-Makes about 1/2 cup.
+----
 
 Bone Dust
 =========
 
 Really this is a Ted Reader signature seasoning.
+
+Yield: Makes about 2 1/4 cups.
 
 Ingredients
 -----------
@@ -189,7 +258,7 @@ Ingredients
 -  2 tablespoons ground coriander
 -  2 tablespoons garlic powder
 -  2 tablespoons granulated white sugar
--  2 tablespoons mild Indian curry powder
+-  2 tablespoons mild indian curry powder
 -  2 tablespoons dry hot mustard powder (Keen’s or Coleman’s)
 -  1 tablespoons freshly ground black pepper
 -  1 tablespoons dried basil
@@ -197,10 +266,24 @@ Ingredients
 -  1 tablespoons ground cumin
 -  1 tablespoons cayenne
 
-Yield:
-------
+----
 
-Makes about 2 1/4 cups.
+Mike Mills Magic Dust
+=====================
+
+Ingredients
+-----------
+
+- 1/2 cup paprika
+- 1/4 cup kosher salt
+- 1/4 cup sugar
+- 2 Tbsps. mustard powder
+- 1/4 cup chili powder
+- 1/4 cup ground cumin
+- 2 Tbsps. ground black pepper
+- 1/4 cup granulated garlic
+- 2 Tbsps. cayenne
+
 
 .. raw:: pdf
 
@@ -217,7 +300,8 @@ Jim’s Rub Mix for Brisket and Beer Can Chicken can be modified for Ribs.
 This rub has won first place 3 times for Brisket, Ribs and Chicken at
 local Texas BBQ cookoffs. And 2nd place Ribs at the Houston Rodeo BBQ
 cook off. enjoy!
-`*http://www.susanminor.org/forums/showthread.php?90-Award-Winning-Dry-Rub* <http://www.susanminor.org/forums/showthread.php?90-Award-Winning-Dry-Rub>`__
+
+Yield: Makes about 2 1/2 cups.
 
 Ingredients
 -----------
@@ -236,11 +320,6 @@ Ingredients
 -  3 1/4 teaspoons ground white peppers
 -  1 1/4 teaspoons ground cumin
 -  1/2 cup seasoned salt
-
-Yield:
-------
-
-Makes about 2 1/2 cups.
 
 Notes
 -----
@@ -301,8 +380,7 @@ Directions
 Simple Sweet Rub
 ================
 
-1. A sweet dry rub that’s excellent on pork, especially pork butt that
-   will be shredded.
+A sweet dry rub that’s excellent on pork, especially pork butt that will be shredded.
 
 Ingredients
 -----------
@@ -479,8 +557,7 @@ Ingredients
 Directions
 ----------
 
-1. Combine ingredients in a small bowl or jar. Rub into both sides of
-   ribs.
+1. Combine ingredients in a small bowl or jar. Rub into both sides of ribs.
 
 ----
 
