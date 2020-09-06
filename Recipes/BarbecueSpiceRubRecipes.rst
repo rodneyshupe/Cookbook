@@ -62,13 +62,7 @@ Ingredients
 -  1 tablespoon cayenne
 -  2 teaspoons dry mustard
 
-.. raw:: pdf
-
-   OddPageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Alton Brown Dry Rub
 ===================
@@ -88,7 +82,13 @@ Ingredients
 - 1/2 teaspoon rubbed thyme
 - 1/2 teaspoon onion powder
 
-----
+.. raw:: pdf
+
+   OddPageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Buffettfan's BBQ Dry Rub
 ========================
