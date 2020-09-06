@@ -797,11 +797,12 @@ Notes
   crunchy crust. Bake this cornbread in a 9-inch or 10-inch oven safe greased
   skillet at the same temperature for the same amount of time.
 - Cornbread Muffins:
-  - Preheat oven to 425°F (218°C). Line a 12-count muffin pan with liners or
+
+  * Preheat oven to 425°F (218°C). Line a 12-count muffin pan with liners or
     spray with nonstick spray. This recipe makes about 14 muffins, so there
     will be a 2nd batch. Set pan aside.
-  - Make batter same as above.
-  - Spoon batter into muffin liners, filling all the way to the top. Bake for
+  * Make batter same as above.
+  * Spoon batter into muffin liners, filling all the way to the top. Bake for
     5 minutes 425°F (218°C) then, keeping the muffins in the oven, reduce heat
     to 350°F (177°C) and continue baking for another 16-17 minutes. The total
     time these muffins should be in the oven is around 21-23 minutes. Use a
