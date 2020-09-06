@@ -84,7 +84,7 @@ Ingredients
 
 .. raw:: pdf
 
-   OddPageBreak recipePage
+   PageBreak recipePage
 
 .. raw:: html
 
@@ -137,13 +137,8 @@ Ingredients
 - 1/2 teaspoon dry ground thyme
 - 1/2 teaspoon cayenne
 
-----
-
 Lawry's Substitute
-==================
-
-Ingredients
------------
+------------------
 
 - 2 tablespoons salt
 - 2 teaspoons granulated sugar
