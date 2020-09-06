@@ -18,25 +18,32 @@ Baking: Breads
 
    <p style="page-break-before: always"/>
 
-Rodney's No-Knead Bread
-=======================
+Rodney's No-Knead Artisan Bread
+===============================
 
-Based on: `Jim Lahey and Mark Bittman <https://cooking.nytimes.com/recipes/11376-no-knead-bread>`__
++------------------+----------------------------------+------------------------------------------+-------------------------------------------------------+
+| Prep: 15 minutes | Resting Time: 2 hours - 12 hours | Baking: 2 hours proofing + 1 hour baking | Yield: 1 round loaf or 2 8-inch loaves or 3 baguettes |
++------------------+----------------------------------+------------------------------------------+-------------------------------------------------------+
 
 Ingredients
 -----------
 - 400 grams (2 1/2 cups + 3 tablespoons) bread flour (can sub all purpose)
 - 1 gram (1/4 teaspoon) instant yeast
 - 10 grams salt
-- 300 grams water (room temperature)
+- 300 grams/ml water (room temperature) (for more flavour use 205g water + 85g beer + 10g vinegar)
 
 Directions
 ----------
 1. In a large bowl whisk together flour, yeast and salt. Add liquids, and
    stir until blended; dough will be shaggy and sticky. Cover bowl with
-   plastic wrap. Let dough rest at least 12 - 18 hours, at warm room
+   plastic wrap. Let dough rest at least 10 - 12 hours, at warm room
    temperature, about 70 degrees.
-2. Dough is ready when its surface is dotted with bubbles. Lightly flour a
+2. You can continue with step 3 immediately, but for a better flavour
+   and texture, I strongly recommend letting this risen dough rest in the
+   refrigerator for at least 12 hours and up to 3 days. Then getting ready
+   to back take out of the refrigerator and let warm at room temperature
+   for 1 1/2 - 2 hours.
+3. Dough is ready when its surface is dotted with bubbles. Lightly flour a
    work surface and place dough on it; sprinkle it with a little more flour
    and fold it over on itself once or twice. Cover loosely with plastic
    wrap and let rest about 15 minutes. Using just enough flour to keep dough
@@ -46,8 +53,8 @@ Directions
    more flour, bran or cornmeal. Cover with cotton towel and let rise for
    about 2 hours. When it is ready, dough will be more than double in size
    and will not readily spring back when poked with a finger.
-3. At least a half-hour before dough is ready, heat oven to 450 degrees. Put
-   a 6 to 8 quart heavy covered pot (cast iron, enamel, Pyrex or ceramic)
+4. At least a half-hour before dough is ready, heat oven to 450 degrees. Put
+   a 6 to 8 quart dutch oven (or heavy covered pot, enamel, Pyrex or ceramic)
    in oven as it heats. When dough is ready, carefully remove pot from oven.
    Pick up parchment and dough and lower into the pot.  Using a sharp knife
    or razor, create a slit across the top.  Cover with lid and bake
@@ -65,6 +72,54 @@ Add 1 tablespoon honey to wet ingredients)
 Quick loaf
 ^^^^^^^^^^
 Use 8 grams yeast and 1 teaspoons honey and shorten the first rise to 1-2 hours.
+
+Longer loaves or baguettes
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+Adjust ingredients as follows: 425g flour + 315ml water (or 210g water + 90g beer + 15g vinegar)
+In step 3, turn the cold dough out onto a floured work surface. Using a
+sharp knife or bench scraper, cut dough in half or into thirds. Using
+floured hands, shape into 2 or 3 long loaves about 9×3 (or 9 x 2) inches each.
+Prepare a baking sheet by lining with parchment and sprinkled with cornmeal.
+Place loafs on prepared sheet spaced about 3 inches apart. Loosely cover and
+allow to rest for 2 hours. You can bake the dough on this prepared baking
+sheet or see note if you want to use a pizza stone.
+
+Additional Flavours
+^^^^^^^^^^^^^^^^^^^
+Before pouring in the water in step 1, add any of the following
+ingredients/combination of ingredients to the dry ingredients in the bowl:
+- 4 cloves minced garlic + 3 Tablespoons chopped rosemary
+- 3 Tablespoons your favourite fresh herb (chopped)
+- 1 cup your favourite shredded cheese
+- a diced jalapeño
+- 3/4 – 1 cup dried cranberries and/or chopped nuts
+- 2 teaspoons garlic powder, etc.
+
+Notes
+-----
+* Make Ahead & Freezing Instructions: The dough can sit in the refrigerator
+  for up to 3 days, so this is a wonderful recipe to begin ahead of time. You
+  can also bake the bread, allow it to cool, and freeze for up to 3 months.
+  Thaw in the refrigerator and allow to come to room temperature before
+  serving. You can also freeze the dough. Complete the recipe through step 2.
+  Wrap in plastic wrap and place in a freezer-friendly container. To bake,
+  allow dough to thaw overnight in the refrigerator, or for 2-3 hours at room
+  temperature. Continue with step 3 and the rest of the recipe instructions.
+* Using a pizza stone: If you want to bake your bread loaves on a pizza stone,
+  place pizza stone in the preheating oven. Transfer shaped and scored loaf
+  to hot pizza stone and bake as directed.
+* If not using a dutch oven with a lid you can use a sheet pan or pizza stone.
+  If you still want a crispy crust, after the oven is preheated and bread is
+  scored, place a shallow metal or cast iron baking pan or skillet (I usually
+  use a metal 9×13 baking pan) on the bottom oven rack. Carefully and quickly
+  pour 3-4 cups of boiling water into it. Place the scored dough/baking pan on
+  a higher rack and quickly shut the oven, trapping the steam inside. The
+  team helps create a crispier crust.
+
+References
+----------
+* `Jim Lahey and Mark Bittman <https://cooking.nytimes.com/recipes/11376-no-knead-bread>`__
+* `Sally's Baking Addiction <https://sallysbakingaddiction.com/homemade-artisan-bread/>`__
 
 .. raw:: pdf
 
@@ -167,6 +222,92 @@ Directions
    refrigerate for at least 12 hours or up to 18 hours. Remaining starter
    should be refrigerated and maintained as directed.
 
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Prosciutto Bread with Provolone
+===============================
+
++------------+-----------------------+
+| Total: TBD | Yield: Makes 2 loaves |
++------------+-----------------------+
+
+Source: `Cook's Country <https://www.cookscountry.com/recipes/10561-prosciutto-bread-with-provolone>`__
+
+
+Ingredients
+-----------
+
+- 3 cups (16 1/2 ounces) bread flour
+- 1 1/2 teaspoons instant or rapid-rise yeast
+- 1 teaspoon salt
+- 1 cup mild lager, room temperature
+- 6 tablespoons water, room temperature
+- 3 tablespoons extra-virgin olive oil
+- 5 ounces (1/4-inch-thick) provolone cheese, cut into 1/2-inch pieces
+- 3 ounces (1/4-inch-thick) sliced prosciutto, cut into 1/2-inch pieces
+- 3 ounces (1/4-inch-thick) sliced pepperoni, cut into 1/2-inch pieces
+- 3 ounces (1/4-inch-thick) sliced capicola, cut into 1/2-inch pieces
+- 1 1/2 teaspoons coarsely ground pepper
+- Cornmeal
+
+Directions
+----------
+
+1. Whisk flour, yeast, and salt together in bowl of stand mixer. Whisk
+   beer, room-temperature water, and oil together in 2-cup liquid measuring
+   cup.
+2. Fit mixer with dough hook. Mix flour mixture on low speed while slowly
+   adding beer mixture until cohesive dough starts to form and no dry flour
+   remains, about 2 minutes, scraping down bowl as needed. Increase speed
+   to medium and knead until dough is smooth and elastic and clears sides
+   of bowl, about 8 minutes.
+3. Reduce speed to low and add provolone, prosciutto, pepperoni, capicola,
+   and pepper. Continue to knead until combined, about 2 minutes longer
+   (some meats and cheese may not be fully incorporated into dough at this
+   point; this is OK). Transfer dough and any errant pieces of meats and
+   cheese to lightly floured counter and knead by hand to evenly
+   incorporate meats and cheese into dough, about 1 minute.
+4. Form dough into smooth, round ball and place seam side down in lightly
+   greased large bowl. Cover tightly with plastic wrap and let dough rise
+   at room temperature until doubled in size, about 1 1/2 hours.
+5. Line baking sheet with parchment paper and lightly dust with cornmeal.
+   Turn out dough onto counter and gently press down to deflate any large
+   air pockets. Cut dough into 2 even pieces. Press each piece of dough
+   into 8 by 5-inch rectangle with long side parallel to counter's edge.
+6. Working with 1 piece of dough at a time, fold top edge of rectangle down
+   to midline, pressing to seal. Fold bottom edge of rectangle up to
+   midline and pinch to seal. Flip dough seam side down and gently roll
+   into 12-inch loaf with tapered ends. Transfer loaf to 1 side of prepared
+   sheet. Repeat shaping with second piece of dough and place loaf about 3
+   inches from first loaf on sheet. Cover with greased plastic and let rise
+   at room temperature until puffy and dough springs back slowly when
+   pressed lightly with your finger, about 45 minutes.
+7. Adjust oven rack to middle position and heat oven to 450 degrees. Using
+   sharp paring knife in swift, fluid motion, make 1/2-inch-deep lengthwise
+   slash along top of each loaf, starting and stopping about 1 1/2 inches
+   from ends. Bake until loaves register 205 to 210 degrees, 22 to 25
+   minutes. Transfer loaves to wire rack and let cool completely, about 3
+   hours. Serve.
+8. TO MAKE AHEAD: Make dough through step 3, form into ball, and place seam
+   side down in lightly greased large bowl. Cover tightly with plastic wrap
+   and refrigerate for at least 16 hours or up to 24 hours. Let dough come
+   to room temperature, about 3 hours, before proceeding with step five.
+
+Notes
+-----
+
+We love the combination of prosciutto, pepperoni, and capicola in this
+bread, but you can use 9 ounces of any combination of your favorite cured
+meats; just be sure to have each sliced 1/4 inch thick at the deli counter.
+Do not use thinly sliced deli meats and cheese, as they will adversely
+affect the bread's texture. Use a mild lager, such as Budweiser; strongly
+flavored beers will make this bread taste bitter.
 
 .. raw:: pdf
 
@@ -566,8 +707,7 @@ Ingredients
 -  1 1/2 teaspoons baking powder
 -  1/4 teaspoon baking soda
 -  1 1/4 teaspoons salt
--  3 ears corn, kernels cut from cobs (2 1/4 cups) (can substitute 14oz
-   can of corn niblets)
+-  3 ears corn, kernels cut from cobs (2 1/4 cups) (can substitute 14oz can of corn niblets)
 -  6 tablespoons unsalted butter, cut into 6 pieces
 -  1 cup buttermilk (substitute 1 1/2 teaspoons of cream of tartar and 1 cup regular milk)
 -  2 large eggs plus 1 large yolk
@@ -593,6 +733,79 @@ Directions
    out clean, 23 to 28 minutes. Let cool on wire rack for 5 minutes.
    Remove cornbread from skillet and let cool for 20 minutes before
    cutting into wedges and serving.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Simple Cornbread Recipe
+=======================
+
++------------------+---------------+-------------------+
+| Prep: 10 minutes | Total: 1 hour | Yield: 9 servings |
++------------------+---------------+-------------------+
+
+Source: `Sally <https://sallysbakingaddiction.com/my-favorite-cornbread/>`__
+
+Ingredients
+-----------
+
+- 1 cup (120g) cornmeal
+- 1 cup (125g) all-purpose flour (spoon &amp; leveled)
+- 1 teaspoon baking powder
+- 1/2 teaspoon baking soda
+- 1/8 teaspoon salt
+- 1/2 cup (115g) unsalted butter, melted and slightly cooled
+- 1/3 cup (67g) packed light or dark brown sugar
+- 2 tablespoons (30ml) honey
+- 1 large egg, at room temperature
+- 1 cup (240ml) buttermilk, at room temperature*
+
+Directions
+----------
+
+1. Preheat oven to 400°F (204°C). Grease and lightly flour an 8 or 9-inch
+   square baking pan. Set aside.
+2. Whisk the cornmeal, flour, baking powder, baking soda, and salt together
+   in a large bowl. Set aside. In a medium bowl, whisk the melted butter,
+   brown sugar, and honey together until completely smooth and thick. Then,
+   whisk in the egg until combined. Finally, whisk in the buttermilk. Pour
+   the wet ingredients into the dry ingredients and whisk until combined.
+   Avoid over-mixing.
+3. Pour batter into prepared baking pan. Bake for 20 minutes or until
+   golden brown on top and the center is cooked through. Use a toothpick to
+   test. Edges should be crispy at this point. Allow to slightly cool
+   before slicing and serving. Serve cornbread with butter, honey, jam, or
+   whatever you like.
+4. Wrap leftovers up tightly and store at room temperature for up to 1 week.
+
+Notes
+-----
+
+- Freezing Instructions: For longer storage, freeze baked cornbread for up to
+  3 months. Allow to thaw overnight in the refrigerator and heat up in the
+  microwave or bake in a 300°F (149°C) oven for 10 minutes.
+- Optional add-ins: 1-2 chopped jalapeño peppers, 1 cup blueberries,
+  1 cup total dried cranberries and walnuts, 1 cup shredded cheddar cheese,
+  or 1/2 cup bacon crumbles. Fold into batter after all other ingredients are
+  combined.
+- Skillet Cornbread: Baking cornbread in a skillet gives it an even heartier,
+  crunchy crust. Bake this cornbread in a 9-inch or 10-inch oven safe greased
+  skillet at the same temperature for the same amount of time.
+- Cornbread Muffins:
+  - Preheat oven to 425°F (218°C). Line a 12-count muffin pan with liners or
+    spray with nonstick spray. This recipe makes about 14 muffins, so there
+    will be a 2nd batch. Set pan aside.
+  - Make batter same as above.
+  - Spoon batter into muffin liners, filling all the way to the top. Bake for
+    5 minutes 425°F (218°C) then, keeping the muffins in the oven, reduce heat
+    to 350°F (177°C) and continue baking for another 16-17 minutes. The total
+    time these muffins should be in the oven is around 21-23 minutes. Use a
+    toothpick to test. If it comes out clean, the muffins are done.
 
 .. raw:: pdf
 

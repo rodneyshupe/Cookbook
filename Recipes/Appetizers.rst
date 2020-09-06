@@ -2105,34 +2105,6 @@ Directions
 
    <p style="page-break-before: always"/>
 
-Cinco De Mayo Authentic Guacamole
-=================================
-
-Ingredients
------------
-
-- 4 avocado
-- 1 medium spanish onion, diced
-- 3 small serano peppers, chopped
-- 1 bunch cilantro, chopped
-- 2-3 lime, juiced
-- kosher salt
-- fresh cracked pepper
-- 2 roma tomatoes, 1/2 inch dice (optional)
-
-Directions
-----------
-
-Peel and mash avocados roughly.place in a bowl.blend the rest of the ingredients together and refridgerate for 1 hour.serve with traditional tortillas chips.Guacamole can be used for many applicationsTortillas chipsSeafood dishesPitasChicken dishesBurritosAnd many more, let your imagination go wild! Enjoy.
-
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
-
 Fiesta Frittata Mexicana
 ========================
 

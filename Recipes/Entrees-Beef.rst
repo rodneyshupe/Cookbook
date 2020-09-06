@@ -1015,7 +1015,7 @@ Ingredients
 - 1/2 cup soy sauce
 - 1/4 cup sugar
 - 3 tablespoons mirin
-- 3 tablespoons sake
+- 3 tablespoons sake (or substitute chinese rice wine)
 - 16 green onions, trimmed and halved crosswise
 - 1 tablespoon sesame seeds, toasted
 
