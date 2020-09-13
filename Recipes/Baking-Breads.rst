@@ -230,26 +230,25 @@ Directions
 
    <p style="page-break-before: always"/>
 
-Prosciutto Bread with Provolone
-===============================
+Prosciutto Bread
+================
 
-+------------+-----------------------+
-| Total: TBD | Yield: Makes 2 loaves |
-+------------+-----------------------+
++----------------+-----------------------+
+| Total: 3 hours | Yield: Makes 2 loaves |
++----------------+-----------------------+
 
-Source: `Cook's Country <https://www.cookscountry.com/recipes/10561-prosciutto-bread-with-provolone>`__
-
+Source: `Cook's Country <https://www.cookscountry.com/recipes/10560-prosciutto-bread>`__
 
 Ingredients
 -----------
 
-- 3 cups (16 1/2 ounces) bread flour
+- 3 cups (16 1/2 ounces) bread flour (468g)
 - 1 1/2 teaspoons instant or rapid-rise yeast
 - 1 teaspoon salt
-- 1 cup mild lager, room temperature
-- 6 tablespoons water, room temperature
+- 1 cup mild lager, room temperature (236g)
+- 6 tablespoons water, room temperature (89g)
 - 3 tablespoons extra-virgin olive oil
-- 5 ounces (1/4-inch-thick) provolone cheese, cut into 1/2-inch pieces
+- 5 ounces (1/4-inch-thick) provolone cheese, cut into 1/2-inch pieces (optional)
 - 3 ounces (1/4-inch-thick) sliced prosciutto, cut into 1/2-inch pieces
 - 3 ounces (1/4-inch-thick) sliced pepperoni, cut into 1/2-inch pieces
 - 3 ounces (1/4-inch-thick) sliced capicola, cut into 1/2-inch pieces
@@ -267,12 +266,12 @@ Directions
    remains, about 2 minutes, scraping down bowl as needed. Increase speed
    to medium and knead until dough is smooth and elastic and clears sides
    of bowl, about 8 minutes.
-3. Reduce speed to low and add provolone, prosciutto, pepperoni, capicola,
-   and pepper. Continue to knead until combined, about 2 minutes longer
-   (some meats and cheese may not be fully incorporated into dough at this
-   point; this is OK). Transfer dough and any errant pieces of meats and
-   cheese to lightly floured counter and knead by hand to evenly
-   incorporate meats and cheese into dough, about 1 minute.
+3. Reduce speed to low and add provolone (if using), prosciutto, pepperoni,
+   capicola, and pepper. Continue to knead until combined, about 2 minutes
+   longer (some meats and cheese may not be fully incorporated into dough at
+   this point; this is OK). Transfer dough and any errant pieces of meats and
+   cheese to lightly floured counter and knead by hand to evenly incorporate
+   meats and cheese into dough, about 1 minute.
 4. Form dough into smooth, round ball and place seam side down in lightly
    greased large bowl. Cover tightly with plastic wrap and let dough rise
    at room temperature until doubled in size, about 1 1/2 hours.
@@ -303,11 +302,11 @@ Notes
 -----
 
 We love the combination of prosciutto, pepperoni, and capicola in this
-bread, but you can use 9 ounces of any combination of your favorite cured
+bread, but you can use 9 ounces of any combination of your favourite cured
 meats; just be sure to have each sliced 1/4 inch thick at the deli counter.
 Do not use thinly sliced deli meats and cheese, as they will adversely
 affect the bread's texture. Use a mild lager, such as Budweiser; strongly
-flavored beers will make this bread taste bitter.
+flavoured beers will make this bread taste bitter.
 
 .. raw:: pdf
 
