@@ -382,26 +382,57 @@ Variation
 Fermented Mustard
 =================
 
-+-----------------+-----------------+-------------------+-------------------+
-| Prep: 5 minutes | Time: 5 minutes | Yield: 1 3/4 cups | Ferment: 2-7 Days |
-+-----------------+-----------------+-------------------+-------------------+
++-----------------+-----------------+--------------+-------------------+
+| Prep: 5 minutes | Time: 5 minutes | Yield: 1 cup | Ferment: 2-7 Days |
++-----------------+-----------------+--------------+-------------------+
 
 Ingredients
 -----------
 
-- 6 tablespoons Brown mustard seeds
-- 5 tablespoons yellow mustard seeds
-- 1 tablespoon yellow mustard powder
-- 1/4 cup apple cider vinegar
-- 1/4 cup white verjus (substitution white wine, sugar and a bit of lemon juice combined, or alligote wine)
-- 5 tablespoons Sauerkraut juice
-- 1 tablespoon Diamond Crystal Kosher salt (optional could use less as well)
+- 3 tablespoons Brown mustard seeds
+- 2 1/2 tablespoons yellow mustard seeds
+- 1/2 tablespoon yellow mustard powder
+- 2 tablesponns apple cider vinegar
+- 2 tablesponns verjus (substitution white wine, sugar and a bit of lemon juice combined, or alligote wine)
+- 2 1/2 tablespoons Sauerkraut juice
+- 1/2 tablespoon Diamond Crystal Kosher salt (optional could use less as well)
 
 Directions
 ----------
-1. Mix seeds together, blend all dry ingredients in a 1/2 pint (8oz) jar.
-   Add salt, if using.
-2. Cover and ferment up to a week.
+1. Mix seeds together, and pulse in a spice grinder to break apart
+   the seeds. Blend remaining ingredients in a 1 pint (16oz) jar.
+2. Cover and ferment for 1 day and up to a week.
+
+----
+
+Source: https://www.davidlebovitz.com/homemade-mustard-recipe-joe-beef/
+
+- 1/2 cup (75g) mustard seeds
+- 1/2 cup (120ml) white wine vinegar
+- 1/2 cup (120ml) dry white wine, or water
+- 1 1/2 tablespoon maple syrup
+- 1 1/2 teaspoon ground turmeric
+- 3/4 teaspoon salt
+- pinch bigof cayenne
+- 3-6 tablespoons warm water, if necessary
+- optional: 1-4 teaspoons prepared horseradish, to taste
+
+1. Combine all the ingredients, except the horseradish, in a stainless-steel bowl. Cover, and let stand for 2-3 days.
+2. Put the ingredients in a blender and whiz until as smooth as possible. Add 2 to 4 tablespoons of water if the mustard is too thick. Blend in the horseradish, if using.
+
+----
+
+Source: https://foodwishes.blogspot.com/2015/01/hello-its-chef-dijon-from-foodwishescom.html
+- 3/4 cup white wine
+- 1/3 cup white wine vinegar (original recipe calls for 1/4 cup)
+- 1/2 cup water, plus more as needed
+- 1/2 yellow onion, chopped
+- 1 garlic cloves, minced
+- 1/2 cup yellow mustard seeds
+- 2 tablespoons mustard
+- 1/2 tablespoon garlic powder
+- 1/2 teaspoon salt
+
 
 .. raw:: pdf
 

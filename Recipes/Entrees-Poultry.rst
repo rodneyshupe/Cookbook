@@ -208,6 +208,70 @@ Wet Rub Variation
 
    <p style="page-break-before: always"/>
 
+Easy Grill-Roasted Whole Chicken
+================================
+
++----------------+-----------------+
+| Total: 2 hours | Yield: Serves 4 |
++----------------+-----------------+
+
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/11725-easy-grill-roasted-whole-chicken>`__
+
+
+Ingredients
+-----------
+
+- 1 tablespoon kosher salt
+- 1/2 teaspoon pepper
+- 1 (3 1/2- to 4 1/2-pound) whole chicken, giblets discarded
+- 1 tablespoon vegetable oil
+- 1/2 - 1/4 cup wood chip
+
+Directions
+----------
+
+1. Combine salt and pepper in bowl. Pat chicken dry with paper towels, then
+   rub entire surface of chicken with oil. Sprinkle salt mixture all over
+   chicken and rub in mixture with your hands to evenly coat. Tie legs
+   together with kitchen twine and tuck wingtips behind back.
+2. Using large piece of heavy-duty aluminum foil, wrap chips ( 1/4 cup if
+   using charcoal; 1/2 cup if using gas) in 8 by 4 1/2-inch foil packet.
+   (Make sure chips do not poke holes in sides or bottom of packet.) Cut 2
+   evenly spaced 2-inch slits in top of packet.
+3. Remove cooking grate and place wood chip packet directly on 1 primary
+   burner. Set grate in place, turn all burners to high, cover, and heat
+   grill until hot and wood chips are smoking, about 15 minutes. Turn
+   primary burners (two outside burners) to medium-high and turn off
+   secondary (center) burner. (Adjust primary burners as needed to maintain
+   grill temperature between 400 and 425 degrees.)
+4. Clean and oil cooking grate. Place chicken, breast side up with cavity
+   facing toward you, in center of grill, making sure chicken is centered
+   between hotter sides of grill. Cover (position lid vent over chicken if
+   using charcoal) and cook until breast registers 130 degrees, 45 to 55
+   minutes.
+5. Using long grill tongs, reach into cavity and carefully lift chicken by
+   breast. Holding chicken over bowl or container, tilt chicken toward you
+   to allow fat and juices to drain from cavity. Transfer chicken, breast
+   side up, to hotter side of grill (without wood chip packet) and cook,
+   covered, until back is deep golden brown, about 5 minutes. Using tongs,
+   flip chicken breast side down; cover and continue to cook over hotter
+   side of grill until breast is deep golden brown, about 5 minutes longer.
+   Using tongs, flip chicken breast side up and return it to center of
+   grill; take internal temperature of breast. If breast registers 155
+   degrees, transfer chicken to carving board. If breast registers less
+   than 155 degrees, cover and continue to cook in center of grill,
+   checking temperature every 2 minutes, until it registers 155 degrees, 2
+   to 10 minutes longer. Let chicken rest, uncovered, for 20 minutes. Carve
+   chicken and serve.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Gourmet BBQ Brined Spatchcock Chicken
 =====================================
 
@@ -361,6 +425,77 @@ Directions
 6. Let chicken rest in skillet at least 15 minutes before carving. Transfer
    chicken to a platter. Top with pan juices and serve with roasted lemon and
    garlic alongside.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Jennifer Lawrence's Roast Chicken with Shallot Fried Rice
+=========================================================
+
++--------------+--------------------------+-------------------------+
+| Prep: 1 hour | Total: 1 hour 30 minutes | Yield: about 4 servings |
++--------------+--------------------------+-------------------------+
+
+Source: `Food Network <https://www.foodnetwork.com/recipes/jennifer-lawrences-roast-chicken-with-shallot-fried-rice-8708252>`__
+
+
+Ingredients
+-----------
+
+Chicken
+^^^^^^^
+
+- 1 whole chicken (about 3 pounds)
+- 1/4 cups olive oil
+- 4 tablespoons unsalted butter, softened and cut into pieces
+- Kosher salt
+- 1 onion, halved
+- 1 lemon, halved
+- 12 sprigs thyme
+- 2 cups dry white wine
+- 6 ounces baby arugula
+
+Shallot Fried Rice
+^^^^^^^^^^^^^^^^^^
+
+- 1 cup white rice
+- Olive oil, for the pan
+- 5 shallots, minced
+- Kosher salt
+- 1 pound shiitake mushrooms, coarsely chopped
+
+Directions
+----------
+
+1. For the chicken: Preheat the oven to 400 degrees F.
+2. Dry off the chicken well with paper towels. Put it in a roasting pan and
+   massage with some of the oil, some of the butter and 2 tablespoons salt.
+3. Add the onion halves to the pan, drizzle in the remaining oil and
+   sprinkle with some salt. Add the remaining butter to the pan. Squeeze
+   the juice from the lemon halves over the chicken and into the pan, then
+   place the lemon halves in the cavity of the chicken along with the thyme
+   sprigs. Add the white wine to the pan.
+4. Put the chicken in the oven, reduce the temperature to 350 degrees F and
+   roast, basting halfway with the pan juices, until the thickest part of
+   the chicken measures 160 degrees F, about 1 hour. Allow to rest 20
+   minutes before carving.
+5. For the shallot fried rice: Put the rice in a medium saucepan with 2
+   cups water and bring to a simmer over medium-high heat. Cover the pan,
+   reduce the heat to low and cook until the water is absorbed and the rice
+   is tender, about 20 minutes. Let stand, covered, for 10 minutes.
+6. Meanwhile, heat some oil in a saute pan over medium heat until it begins
+   to shimmer. Add the shallots and cook, stirring, until browned, about 7
+   minutes. Transfer the shallots to a plate or bowl using a slotted spoon
+   and sprinkle with a generous amount of salt (use a lot because the
+   shallots will be the "salt" for your rice). Add the mushrooms to the
+   remaining oil in the pan and cook, stirring occasionally, until browned.
+7. Mix together the rice, mushrooms and shallots in a serving bowl. Serve
+   the chicken tossed with the arugula along with the shallot fried rice.
 
 .. raw:: pdf
 

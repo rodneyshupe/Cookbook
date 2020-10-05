@@ -30,6 +30,7 @@ Instant Pot
 
 .. include:: DanDanNoodles.rst
 
+.. include:: ChickenAndDumplingSoup.rst
 .. raw:: pdf
 
    PageBreak recipePage

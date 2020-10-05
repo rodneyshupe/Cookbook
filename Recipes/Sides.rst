@@ -1370,10 +1370,10 @@ Ingredients
 - 1/4 teaspoon chilli flakes
 - 1/2 teaspoon turmeric
 - 1/2 teaspoon smoked paprika
-- 1 garlic clove, minced (can substitue 1/2 teaspoon garlic powder)
+- 1 garlic clove, minced (can substitute 1/2 teaspoon garlic powder)
 - 1/2 cup onion, diced small (optional)
 - 1/2 cup red pepper, diced small (optional)
-- cilantro or parsley, for color
+- cilantro or parsley, for colour
 
 Directions
 ----------

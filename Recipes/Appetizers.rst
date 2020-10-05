@@ -126,6 +126,39 @@ Directions
    bread. dice breading into bite size pieces.
 4. Fill hollowed out loaf with mixture and serve with bread pieces.
 
+----
+
+Warm Crab and Artichoke Dip
+===========================
+
++-----------------+-------------------+-----------------+
+| Prep: 5 minutes | Total: 25 minutes | Yield: Serves 8 |
++-----------------+-------------------+-----------------+
+
+Source: `Patrick Sheridan, Monterey, CA, <https://www.sunset.com/recipe/warm-crab-artichoke-dip>`__
+
+Example of a 8 8 4 2 dip that can be put it together in 10 minutes then
+baked for 15.
+
+Ingredients
+-----------
+
+- 8 ounces frozen artichoke hearts, thawed and chopped
+- 8 ounces shelled cooked crab
+- 1/2 cup (4 ounces by volume) mayonnaise
+- 1/4 cup (2 ounces by volume) grated parmesan cheese
+- 1 tablespoon lemon juice
+- 1/2 teaspoon kosher salt
+- 1/4 cup sliced almonds
+
+Directions
+----------
+
+1. Preheat oven to 375°.
+2. In a medium bowl, combine mayonnaise, lemon juice, artichokes, crab,
+   parmesan, and salt. Pour into a greased medium gratin dish. Sprinkle with
+   almonds and bake until browned and bubbling, about 15 minutes.
+
 .. raw:: pdf
 
    PageBreak recipePage
@@ -240,6 +273,40 @@ Directions
 
 1. Combine all ingredients in bowl and season with salt and pepper to
    taste.
+
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Grilled Pineapple Avocado Salsa
+===============================
+
++----------------------+--------------------------+---------------+
+| Prep Time: 5 minutes | Cooking Time: 10 minutes | Yield: 3 cups |
++----------------------+--------------------------+---------------+
+
+Ingredients
+-----------
+
+- 4-5 pineapple spears
+- 2 roma tomatoes (chopped)
+- 1/2 red onion (chopped)
+- 2 avocados (diced)
+- 1/4 cup fresh cilantro (chopped)
+- juice of one lime
+- salt and pepper to taste
+
+Directions
+----------
+
+1. Place the pineapple spears on the grill for 1-2 minutes until they
+   slightly char. Remove from the grill and chop and add to a medium sized
+   bowl. Add the tomatoes, red onion, avocados, cilantro and lime juice.
 
 .. raw:: pdf
 
