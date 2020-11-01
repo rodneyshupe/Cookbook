@@ -50,7 +50,7 @@ $(pdf): $(wildcard *.rst) $(wildcard */?*.rst) $(wildcard *.style) $(wildcard *.
 		--smart-quotes=0 \
 		--fit-literal-mode=shrink \
 		--repeat-table-rows \
-		--stylesheets=RodneyFavoriteRecipes.style \
+		--stylesheets=Cookbook.style \
 		--output="$(pdf)" \
 		--strip-elements-with-class=handout \
 		--extension-module=preprocess
@@ -61,7 +61,7 @@ $(html): $(wildcard *.rst) $(wildcard */?*.rst) $(wildcard *.css)
 	$(call generate_temp_sub)
 	@echo "Creating HTML..."
 	@rst2html5 \
-	     --stylesheet-inline=RodneyFavoriteRecipes.css \
+	     --stylesheet-inline=Cookbook.css \
 			 --strip-elements-with-class=handout \
 			 --strip-comments \
 			 $(input_rst_file:%.rst=%.html.rst) \
