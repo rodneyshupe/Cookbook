@@ -67,7 +67,7 @@ $(html): $(wildcard *.rst) $(wildcard */?*.rst) $(wildcard *.css)
 			 $(input_rst_file:%.rst=%.html.rst) \
 			 "$(html)"
 
-$(epub): $(html) RecipesCover.png
+$(epub): $(html) Cover.png
 	$(call generate_temp_sub)
 	@echo "Creating EPUB..."
 	@ebook-convert "$(html)" "$(epub)" \
@@ -77,7 +77,7 @@ $(epub): $(html) RecipesCover.png
 			 --language English \
 			 --comments "A collection of recipes containing the favorites of Rodney Shupe and family." \
 			 --tags Cookbook,Cooking,Recipes \
-			 --cover RecipesCover.png \
+			 --cover Cover.png \
 			 --max-toc-links 29 \
 			 --embed-all-fonts > /dev/null
 

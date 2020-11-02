@@ -8,7 +8,7 @@ Recipes from the Messy Chef
 
 .. class:: center
 
-a collection of recipes containing the favorites of Rodney Shupe and family
+a collection of recipes containing the favourites of Rodney Shupe and family
 
 .. include:: temp_substitutions.rst
 

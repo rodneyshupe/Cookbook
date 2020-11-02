@@ -36,7 +36,7 @@ Ingredients
 - 2 tablespoons honey
 - 2 tablespoons dry sherry (can substitute dry vermouth or water)
 - 1 tablespoon Worcestershire sauce
-- 2 tablespoons chicken broth
+- 2 cups chicken broth
 - 8 ounces dried spaghetti
 
 Directions

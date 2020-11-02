@@ -434,6 +434,8 @@ step 3 up to 2 days in advance; bring the stew back to a simmer before
 proceeding with the recipe.
 
 
+.. include:: InstantPot/ChickenAndDumplingSoup.rst
+
 .. raw:: pdf
 
    PageBreak recipePage
