@@ -34,6 +34,8 @@ Sous-Vide
 
 .. include:: Creme-Brulee.rst
 
+.. include:: PotDeCreme.rst
+
 .. raw:: pdf
 
    PageBreak recipePage
