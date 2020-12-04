@@ -29,9 +29,11 @@ Smoked Chicken Cordon Bleu wrapped in Bacon
 Ingredients
 -----------
 
-*(per cordon blue)* \* 1 boneless/skinless chicken breast, sliced in
-half and pounded flat. \* 5 pieces of bacon \* 2 slices of ham \* 2
-slices of provolone cheese
+*(per cordon blue)*
+- 1 boneless/skinless chicken breast, sliced in half and pounded flat.
+- 5 pieces of bacon
+- 2 slices of ham
+- 2 slices of provolone cheese
 
 
 Directions
@@ -42,8 +44,8 @@ Directions
 2. Lay 1 slice of chick on the bacon. Next lay down slice of ham, then
    cheese. Finally add second slice of chicken, ham and cheese.
 3. Roll chicken, ham and cheese into a tight roll.
-4. Wrap 4 bacon slices around the roll then close off end with the
-   single bacon slice. Pin with tooth picks.
+4. Wrap 4 bacon slices around the roll then close off end with the single
+   bacon slice. Pin with tooth picks.
 5. Preheat smoker to 250°F and smoke for 2 hours with Hickory.
 
 
