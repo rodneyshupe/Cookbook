@@ -104,6 +104,32 @@ Directions
    combos, but this year I’ll be going for butter, but maybe with the
    rosemary and garlic. So you really can mix it up however you like.
 
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Smashed Fingerling Potatoes
+===========================
+
+Ingredients
+-----------
+
+- 1/4 cups oil
+- 1 lbs Fingerling potatoes
+- salt
+
+Directions
+----------
+1. Cook the potatoes in water until fork tender and let cool in the water.
+   When cool remove and let cool overnight
+2. The next day smash them flat. Get a pan on high heat, with oil. Place
+   smashed potatoes in the pan and sear. When golden brown, place in a
+   single layer on a baking sheet and place in 200F oven.
+
 .. include:: Sous-Vide/Garlic-Smashed-Potatoes.rst
 
 .. raw:: pdf
@@ -117,8 +143,8 @@ Directions
 Scalloped Potatoes
 ==================
 
-Source: `Cooks
-Illustrated <https://www.cooksillustrated.com/recipes/36-scalloped-potatoes>`__
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/36-scalloped-potatoes>`__
+
 Serves: 4 to 6
 
 
@@ -127,13 +153,11 @@ Ingredients
 
 -  2 tablespoons unsalted butter
 -  1 medium onion, minced (about 1 cup)
--  2 medium cloves garlic, minced or pressed through garlic press (about
-   2 teaspoons)
+-  2 medium cloves garlic, minced or pressed through garlic press (about 2 teaspoons)
 -  1 tablespoon chopped fresh thyme leaves
 -  1 1/4 teaspoons table salt
 -  1/4 teaspoon ground black pepper
--  2 1/2 pounds russet potatoes (about 5 medium), peeled and sliced
-   1/8-inch thick (see photos below)
+-  2 1/2 pounds russet potatoes (about 5 medium), peeled and sliced 1/8-inch thick (see photos below)
 -  1 cup low-sodium chicken broth
 -  1 cup heavy cream
 -  2 bay leaves
@@ -225,8 +249,7 @@ Illustrated <https://www.cooksillustrated.com/recipes/36-scalloped-potatoes>`__
 Ingredients
 -----------
 
--  2 1/2 pounds (5-6 large) Yukon Gold potatoes, scrubbed and sliced 1/8
-   inch thick (see note)
+-  2 1/2 pounds (5-6 large) Yukon Gold potatoes, scrubbed and sliced 1/8 inch thick (see note)
 -  5 tablespoons unsalted butter, melted
 -  1 tablespoon cornstarch
 -  1 teaspoon table salt
@@ -280,9 +303,7 @@ Mashed Potatoes
 Ingredients
 -----------
 
--  2 pounds Yukon Gold potatoes (4 to 6 medium), peeled, cut into 1-inch
-   chunks, rinsed well, and drained (may substitute Russets or White
-   potatoes, do not use red potatoes)
+-  2 pounds Yukon Gold potatoes (4 to 6 medium), peeled, cut into 1-inch chunks, rinsed well, and drained (may substitute Russets or White potatoes, do not use red potatoes)
 -  4 tablespoons unsalted butter, melted
 -  Table salt
 -  2/3 cup whole milk, warm
@@ -328,8 +349,7 @@ Best Baked potatoes
 Ingredients
 -----------
 
--  4 (7- to 9-ounce) russet potatoes, unpeeled, each lightly pricked
-   with fork in 6 places
+-  4 (7- to 9-ounce) russet potatoes, unpeeled, each lightly pricked with fork in 6 places
 -  2 tablespoons salt
 -  1 tablespoon vegetable oil
 
@@ -375,9 +395,7 @@ French Fries
 Ingredients
 -----------
 
--  2 1/2 pounds Yukon Gold potatoes (about 6 medium), scrubbed, dried,
-   sides squared off, and cut lengthwise into 1/4-inch by 1/4-inch
-   batons
+-  2 1/2 pounds Yukon Gold potatoes (about 6 medium), scrubbed, dried, sides squared off, and cut lengthwise into 1/4-inch by 1/4-inch batons
 -  6 cups peanut oil
 -  1/4 cup bacon fat, strained (optional)
 -  Kosher salt
@@ -419,15 +437,12 @@ Crispy Oven Fries
 | Prep Time: 15 minutes | Cook: 45 minutes | Servings: 4 |
 +-----------------------+------------------+-------------+
 
-Source: `Cooks
-Country <https://www.cookscountry.com/recipes/4837-crispy-oven-fries>`__
-
+Source: `Cooks Country <https://www.cookscountry.com/recipes/4837-crispy-oven-fries>`__
 
 Ingredients
 -----------
 
--  4 russet potatoes (6 to 8 ounces each), peeled and cut into
-   1/2-inch-thick fries
+-  4 russet potatoes (6 to 8 ounces each), peeled and cut into 1/2-inch-thick fries
 -  6 tablespoons vegetable oil
 -  1 tablespoon cornstarch
 -  1 teaspoon salt
@@ -458,6 +473,233 @@ Directions
 
    <p style="page-break-before: always"/>
 
+Classic Risotto
+===============
+
+Ingredients
+-----------
+
+-  2 Tbsp extra virgin olive oil
+-  1 onion, chopped
+-  4 clove garlic, minced
+-  2 cup Arborio rice
+-  1 cup Italian white wine
+-  8 cup real chicken broth, simmering hot
+-  1 cup good quality Parmigiano-Reggiano cheese, shredded
+-  1 Tbsp (or so) of butter
+-  a few sprigs of fresh thyme or any fresh herb, minced
+
+Directions
+----------
+
+1. Lightly simmer the chicken broth in one pot as you make the risotto
+   in another pot.
+2. Heat oil in a medium saucepan over medium-high heat, then add in the
+   onions and garlic. Saute until golden and fragrant, a few minutes.
+   Add the rice and continue to cook and stir over medium high heat,
+   coating the grains evenly with the oil, until the rice grains give
+   off a toasty aroma and transform from pure white to almost entirely
+   opaque.
+3. Add in the white wine and stir frequently as the rice absorbs the
+   liquid. Reduce your heat to low. Start adding the hot chicken stock
+   in several additions, stirring frequently after each one and allowing
+   the rice to absorb the broth. Continue to cook and stir the risotto
+   until the rice is just tender or al dente (soft with an ever so
+   slight bite to the center) and creamy. The Arborio rice will
+   gradually release its starch and thicken the extra liquid into
+   creaminess. Creamy is important if you’re going for authenticity!
+   This will take about 20 minutes from when you start adding the
+   liquid.
+4. To finish stir in the Parmesan, butter and minced fresh herbs. Spoon
+   into dishes piping hot and share.
+
+Variations
+----------
+
+1. Cook 1 diced chorizo before step 2 in the pan. Remove choizo and set
+   aside. In step 2 use rendered fat in place of some of the olive oil.
+   Re-add chorico when adding last batch of liquid in step 3. Add 1 cup
+   of cooked peas in step 4 instead of herbs.
+2. Add chopped meat from 1 lobster tail to risotto mixture in step 3
+   half way through adding the liquids.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Mushroom Risotto
+================
+
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/922-mushroom-risotto>`__
+
+Ingredients
+-----------
+- 2 bay leaves
+- 6 sprigs fresh thyme
+- 4 sprigs fresh parsley leaves
+- 1 ounce dried porcini mushrooms, rinsed in mesh strainer under running water
+- 3 1/2 cups low-sodium chicken broth
+- 2 teaspoons soy sauce
+- 6 tablespoons unsalted butter
+- 1 1/4 pounds cremini mushrooms, wiped clean with a paper towel, stems discarded, and caps cut into fourths if small or sixths if medium or large
+- 2 medium onions, chopped fine (2 cups)
+- Salt
+- 3 medium cloves garlic, pressed through garlic press or minced (about 1 tablespoon)
+- 1 pound Arborio rice (2 1/8 cups)
+- 1 cup dry white wine or dry vermouth
+- 2 ounces Parmesan cheese, finely grated (about 1 cup)
+- 2 tablespoons chopped fresh parsley leaves
+- Ground black pepper
+
+Directions
+----------
+1. Tie together bay leaves, thyme sprigs, and parsley sprigs with kitchen
+   twine. Bring bundled herbs, porcini mushrooms, chicken broth, soy sauce,
+   and 3 1/2 cups water to boil in medium saucepan over medium-high heat;
+   reduce to medium-low and simmer until dried mushrooms are softened and
+   fully hydrated, about 15 minutes. Remove and discard herb bundle and
+   strain broth through fine-mesh strainer set over medium bowl (you should
+   have about 6 1/2 cups strained liquid); return liquid to saucepan and
+   keep warm over low heat. Finely mince porcini and set aside.
+2. Adjust oven rack to middle position and heat oven to 200 degrees. Heat
+   2 tablespoons butter in 12-inch nonstick skillet over medium-high heat.
+   When foaming subsides, add cremini mushrooms, 1 cup onions, and
+   1/2 teaspoon salt; cook, stirring occasionally, until moisture released
+   by mushrooms evaporates and mushrooms are well browned, about 7 minutes.
+   Stir in garlic until fragrant, about 1 minute, then transfer mushrooms
+   to oven-safe bowl and keep warm in oven. Off heat, add 1/4 cup water to
+   now-empty skillet and scrape with wooden spoon to loosen any browned
+   bits; pour liquid from skillet into saucepan with broth.
+3. Heat 3 tablespoons butter in large saucepan over medium heat. When
+   foaming subsides, add remaining 1 cup onions and 1/4 teaspoon salt; cook,
+   stirring occasionally, until onions are softened and translucent, about
+   9 minutes. Add rice and cook, stirring frequently, until grains’ edges
+   are transparent, about 4 minutes. Add wine and cook, stirring frequently,
+   until rice absorbs wine. Add minced porcini and 3 1/2 cups broth and cook,
+   stirring every 2 to 3 minutes, until liquid is absorbed, 9 to 11 minutes.
+   Stir in additional 1/2 cup broth every 2 to 3 minutes until rice is
+   cooked through but grains are still somewhat firm at center,
+   10 to 12 minutes (rice may not require all of broth). Stir in remaining
+   1 tablespoon butter, then stir in mushrooms (and any accumulated juices),
+   Parmesan, and chopped parsley. Adjust seasoning with salt and pepper;
+   serve immediately in warmed bowls.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Corn and Bacon Risotto
+======================
+
+Ingredients are per person for a side and can be scaled up to double
+per person for a main.
+
+Ingredients
+-----------
+
+- 1/2 tablespoon olive oil
+- 1/4 cup Arborio rice
+- 1 cup `Corn Stock <#corn-stock>`__ (can substitute vegetable stock)
+- 2 tablespoons corn puree
+- 1/4 cup corn kernels
+- 2oz parmesan grated
+- 2 tablespoons butter
+- 1/2 to 1 tablespoon miso (the amount will be to taste)
+- 1 tablespoon crispy bacon (may substitute sauted mushrooms)
+
+Directions
+----------
+
+1. Heat a pan with olive oil, add in rice and toast till it is fragrant.
+2. Turn heat on medium add 3/4 stock and let reduce, when all the stock is gone,
+   if the rice is still hard add in extra stock or water. It should be thick
+   and clumpy.
+3. To finish add in corn and bring back to temperature.
+4. Add butter, parmesan, salt, corn puree, and miso stir till it is all
+   incorporated.
+5. Garnish with bacon.
+
+----
+
+Corn Stock
+==========
+
+Makes 4 cups.
+
+Ingredients
+-----------
+
+- 1 small onion, sliced
+- 2 cobs corn, with kernels removed
+- 5 cups water
+
+Directions
+----------
+
+1. Place all ingredients a medium sized pot and bring to a simmer for 1 hour.
+2. Strain out solids and reserve in fridge till ready to use.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Pressure-Cooker Parmesan Risotto
+================================
+
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/7535-pressure-cooker-parmesan-risotto>`__
+
+Ingredients
+-----------
+- 2 tablespoons unsalted butter
+- 1 small onion, chopped fine
+- 3 garlic cloves, minced
+- 1 1/2 cups Arborio rice
+- 1/2 cup white wine
+- 4 cups low-sodium chicken broth, warmed
+- 1 ounce Parmesan cheese, grated (1/2 cup), plus extra for serving
+- Salt and pepper
+
+Directions
+----------
+1. BUILD FLAVOR: Melt butter in pressure-cooker pot over medium-high heat.
+   Add onion and cook until softened, about 5 minutes. Stir in garlic and
+   cook until fragrant, about 30 seconds. Stir in rice and toast lightly,
+   about 3 minutes. Stir in wine and cook until almost evaporated, about
+   1 minute. Stir in 3 1/4 cups broth. Using wooden spoon, scrape up any
+   rice sticking to bottom of pot.
+2. HIGH PRESSURE FOR 6 MINUTES: Lock pressure-cooker lid in place and bring
+   to high pressure over medium-high heat. As soon as pot reaches high
+   pressure, reduce heat to medium-low and cook for 6 minutes, adjusting
+   heat as needed to maintain high pressure.
+3. QUICK RELEASE PRESSURE: Remove pot from heat. Quick release pressure,
+   then carefully remove lid, allowing steam to escape away from you.
+4. BEFORE SERVING: Continue to cook risotto over medium heat, stirring
+   constantly, until rice is tender and liquid has thickened, about
+   6 minutes. Stir in Parmesan and season with salt and pep- per to taste.
+   Before serving, add remaining 3/4 cup broth as needed to loosen risotto
+   consistency.
+
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Oven-Fried Onion Rings
 ======================
 
@@ -465,8 +707,7 @@ Oven-Fried Onion Rings
 | Prep Time: 10 minutes | Cook: 25 minutes | Servings: 4-6 |
 +-----------------------+------------------+---------------+
 
-Source: `Cooks
-Country <https://www.americastestkitchen.com/recipes/2938-oven-fried-onion-rings>`__
+Source: `Cooks Country <https://www.americastestkitchen.com/recipes/2938-oven-fried-onion-rings>`__
 
 
 Ingredients
@@ -907,8 +1148,7 @@ Yield: Serves 4
 Ingredients
 -----------
 
--  1 pound small (1 to 1 1/2 inches in diameter) Brussels sprouts,
-   trimmed and halved
+-  1 pound small (1 to 1 1/2 inches in diameter) Brussels sprouts, trimmed and halved
 -  5 tablespoons extra-virgin olive oil
 -  1 tablespoon Dijon mustard
 -  1 tablespoon packed brown sugar
@@ -1072,6 +1312,7 @@ Fresh Corn and Zucchini Saute
 
 Ingredients
 -----------
+
 - 1/4 cup butter
 - 1/2 small white onion, finely diced
 - 3 small zucchinis, diced
@@ -1140,6 +1381,7 @@ Grilled Asparagus
 
 Ingredients
 -----------
+
 -  1 pound asparagus (the stalks shouldn’t be too thin)
 -  2 tablespoons Asian (dark) sesame oil
 -  1 tablespoon soy sauce
@@ -1180,6 +1422,7 @@ Roasted Beets and Carrots
 
 Ingredients
 -----------
+
 -  6 medium beats
 -  2 1/2 pounds carrots, cut diagonally into 3/4 inch thick slices
 -  2 tablespoons olive oil
@@ -1330,6 +1573,7 @@ Source: `Food.com <https://www.food.com/recipe/rice-cooker-mexican-rice-159900>`
 
 Ingredients
 -----------
+
 - 1 cup rice (I used long grain rice)
 - 2 1/4 cups low sodium chicken broth
 - 1/2 (6 ounce) can tomato paste
@@ -1343,6 +1587,7 @@ Ingredients
 
 Directions
 ----------
+
 1. Combine all ingredients in rice cooker.
 2. Cook according to manufacturer instructions.
 3. When cooking time finished let it sit uncovered for 3 minutes or so to
@@ -1365,6 +1610,7 @@ Great to serve with `Peri Peri BBQ Chicken <#peri-peri-bbq-chicken>`__
 
 Ingredients
 -----------
+
 - 1 cup rice (I used long grain rice)
 - 2 1/4 cups low sodium chicken broth
 - 1/4 teaspoon chilli flakes
@@ -1377,6 +1623,7 @@ Ingredients
 
 Directions
 ----------
+
 1. Combine all ingredients in rice cooker.
 2. Cook according to manufacturer instructions.
 3. When cooking time finished let it sit uncovered for 3 minutes or so to
@@ -1503,6 +1750,7 @@ Sauteed Fiddleheads
 
 Ingredients
 -----------
+
 - 2 cups fresh fiddlehead ferns, ends trimmed
 - 2 tablespoons unfiltered extra-virgin olive oil
 - 1 clove garlic, minced
@@ -1513,6 +1761,7 @@ Ingredients
 
 Directions
 ----------
+
 1. Bring a large pot of salted water to a boil. Cook fiddlehead ferns in the
    boiling water until barely tender, 7 to 10 minutes; drain.
 2. Heat olive oil in a large skillet over medium-high heat. Stir in the
@@ -1533,6 +1782,7 @@ Cabbage Kimchi
 
 Ingredients
 -----------
+
 -  1 medium head (2 pounds) napa cabbage
 -  1/4 cup kosher salt (see Recipe Notes)
 -  Water (see Recipe Notes)
@@ -1546,6 +1796,7 @@ Ingredients
 
 Directions
 ----------
+
 1. Salt the cabbage: Place the cabbage and salt in a large bowl. Using
    your hands (gloves optional), massage the salt into the cabbage until
    it starts to soften a bit, then add water to cover the cabbage. Put a
@@ -1608,6 +1859,9 @@ Ingredients
 -  1 tablespoon sugar
 -  2/3 cup gochugaru chile flakes
 
+Directions
+----------
+
 1. Cut the cucumbers lengthwise twice, almost into quarters, leaving
    about 1/2 inch at one end to keep the pieces attached. Rub well,
    inside and out, with salt. Set aside for 20 minutes.
@@ -1633,6 +1887,7 @@ Sesame bean sprouts
 
 Ingredients
 -----------
+
 -  2 bags (12 ounce) soybean sprouts
 -  4 cloves garlic, chopped fine
 -  2 scallions, sliced into thin rounds
@@ -1644,6 +1899,7 @@ Ingredients
 
 Directions
 ----------
+
 1. Bring a medium saucepan of water to a boil. Blanch the bean sprouts
    for 45 seconds, then drain into a colander.
 2. In a serving bowl, combine garlic, scallions, gochugaru, soy sauce,

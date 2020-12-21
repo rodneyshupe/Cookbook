@@ -135,6 +135,89 @@ Directions
 
    <p style="page-break-before: always"/>
 
+Butternut Squash and Barrata Salad
+==================================
+
+Serves 4
+
+Ingredients
+-----------
+
+- 1 Butternut squash, cut in half
+- 2 4oz container Burratta (2 oz per person)
+- 4 cups packed mixed greens
+- `Honey Vinaigrette <#honey-vinaigrette>`__
+- Pumpkin seads or pine nuts
+
+Directions
+----------
+
+1. Preheat oven to 350F on convection or 375 if not convection. Line sheet
+   pan with parchment paper.
+2. Season butternut squash with salt and sprinkle with vegetable oil. Place
+   butternut squash cut side down on parchment and bake in preheated oven for
+   fork tender, about 30 minutes. (this can be done ahead of time)
+3. Once squash is cooked, scoop out squash and place in bowl.
+4. Assemble salad by placing burratta on plate and add squash, salad,
+   1-2 tablespoon vinaigrette and some pumpkin seeds.
+
+----
+
+Honey Vinaigrette
+=================
+
+Ingredients
+-----------
+
+- 1/4 cup white wine or red wine vinegar
+- 1/4 cup olive oil
+- 1/2 cup vegetable oil or grapeseed oil
+- 2 tablespoons Honey
+- 1 teaspoons dijon mustard
+- 1/2 teaspoon kosher salt
+
+Directions
+----------
+
+1. Place all vinaigrette ingredients in a sealed jar or container and shake
+   aggressively.
+
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Aruguala Parmesean Salad
+========================
+
+Ingredients
+-----------
+
+- 4 cups Aruguala
+- 1 Lemon
+- 1/4 cup Olive oil
+- pinch of salt
+- 2 oz Parmesean Cheese Grated (about 1/3 cup)
+
+Directions
+----------
+
+1. Place arugula in a bowl and drizzle with olive oil, season with salt and
+   squeeze a lemon over top.  Cover in parmsean.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+
 Austrian Potato Salad
 =====================
 
@@ -208,8 +291,7 @@ Creamy Potato Salad with Jalapeno
 | Prep Time: 15 minutes | Cooking Time: 30 minutes | Yield: 4 - 6 servings |
 +-----------------------+--------------------------+-----------------------+
 
-Source: `Son of a Southern
-Chef <https://www.sonofasouthernchef.com/food/creamy-potato-salad-with-jalapeno>`__
+Source: `Son of a Southern Chef <https://www.sonofasouthernchef.com/food/creamy-potato-salad-with-jalapeno>`__
 
 Ingredients
 -----------
