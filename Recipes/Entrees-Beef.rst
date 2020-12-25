@@ -602,7 +602,7 @@ Ingredients
 - 1 tablespoon freshly ground black pepper
 
 Directions
-==========
+----------
 
 1. As many days (up to 7 days) in advance wrap ribs in cheesecloth and
    place in fridge.  If you have less time salt ribs 2 days ahead and
