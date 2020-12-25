@@ -87,15 +87,15 @@ Ingredients
 - 1/4 teaspoon ground thyme
 - 2-3 teaspoons Worcestershire sauce
 - 1/4 cup cold water
-- 2-3 Tbsp cornstarch
-- 1 Tbsp cold unsalted butter (optional)
+- 2-3 tablespoons cornstarch
+- 1 tablespoons cold unsalted butter (optional)
 - salt and pepper to taste
 
 Directions
 ----------
 
 1. In a medium sauce pan bring broth to boil over medium-high heat.
-   Stir in onion powder, garlic powder, thyme, and worcestershire sauce.
+   Stir in onion powder, garlic powder, thyme, and Worcestershire sauce.
 2. In a small bowl whisk together cold water and corn starch until
    dissolved. Whisk into boiling beef broth and reduce heat to medium-lowR
    and simmer until gravy is thickened to your liking.
