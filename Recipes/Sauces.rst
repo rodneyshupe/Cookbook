@@ -1637,3 +1637,26 @@ Directions
    for 10 minutes, adjusting for altitude.
 5. Alternatively, allow the jars to cool and store in the refrigerator for
    up to three months.
+
+
+Garlic Chilli Oil
+=================
+
+Ingredients
+-----------
+
+- 4 garlic cloves, thinly sliced
+- 1/4 cup vegetable oil
+- 1 tablespoon black or white sesame seeds
+- 1 tablespoon gochugaru (coarse Korean red pepper powder) or 1 1/2 tsp. crushed red pepper flakes
+- Kosher salt
+
+Directions
+----------
+
+1. Cook garlic and 1/4 cup oil in a medium pot over
+   medium heat, stirring often, until garlic is beginning to turn golden,
+   about 3 minutes. Stir in sesame seeds and cook, stirring occasionally,
+   until garlic is golden brown and crisp, about 1 minute. Transfer mixture
+   to a small bowl and stir in gochugaru; season with salt. Set garlic oil
+   aside. Wipe out pot and set aside.
