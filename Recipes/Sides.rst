@@ -128,7 +128,7 @@ Directions
    When cool remove and let cool overnight
 2. The next day smash them flat. Get a pan on high heat, with oil. Place
    smashed potatoes in the pan and sear. When golden brown, place in a
-   single layer on a baking sheet and place in 200F oven.
+   single layer on a baking sheet and place in 200°F oven.
 
 .. include:: Sous-Vide/Garlic-Smashed-Potatoes.rst
 

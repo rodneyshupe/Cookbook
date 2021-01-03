@@ -2599,6 +2599,91 @@ Directions
 
    <p style="page-break-before: always"/>
 
+Vegetarian Ramen
+================
+
++-------------------+
+| Yield: 4 servings |
++-------------------+
+
+Source: `Bon Appetit (Andy Baraghani) <https://www.bonappetit.com/recipe/vegetarian-ramen>`__
+
+The goal here was to achieve a tonkotsu-like broth without using any meat.
+Tomato paste, dried shiitake mushrooms, kombu, and a little bit of butter
+help to get you that rich umami-like effect.
+
+Ingredients
+-----------
+
+Garlic Chilli Oil
+^^^^^^^^^^^^^^^^^
+
+- 4 garlic cloves, thinly sliced
+- 1/4 cup vegetable oil
+- 1 tablespoon black or white sesame seeds
+- 1 tablespoon gochugaru (coarse Korean red pepper powder) or 1 1/2 tsp. crushed red pepper flakes
+- Kosher salt
+
+Broth
+^^^^^
+
+- 2 tablespoons vegetable oil
+- 4 scallions
+- 1 2" piece ginger, peeled, thinly sliced
+- 2 tablespoons tomato paste
+- 5 cups `Vegetable Broth <#vegetable-broth>`__
+- 8 dried shiitake mushrooms
+- 1 4x3" piece dried kombu (if not using kombu, replace with an additional 1/2 tablespoon miso)
+- 1 tablespoon miso
+- 1 tablespoon low-sodium soy sauce
+
+Ramen
+^^^^^
+
+- 4 baby bok choy (about 12 oz. total), quartered lengthwise
+- 4 5-oz. packages fresh ramen noodles
+- toasted nori sheets, and/or cilantro (for serving; optional)
+- 1 cup corn kernels
+
+Directions
+----------
+
+1. GARLIC CHILLI OIL: Cook garlic and 1/4 cup oil in a medium pot over
+   medium heat, stirring often, until garlic is beginning to turn golden,
+   about 3 minutes. Stir in sesame seeds and cook, stirring occasionally,
+   until garlic is golden brown and crisp, about 1 minute. Transfer mixture
+   to a small bowl and stir in gochugaru; season with salt. Set garlic oil
+   aside. Wipe out pot and set aside.
+2. BROTH: Trim dark green parts from scallions and thinly slice; set aside
+   for serving. Coarsely chop white and pale green parts. Heat remaining
+   2 oil in reserved pot over medium-high. Cook chopped scallions and ginger,
+   stirring often, until scallions are charred in spots, about 4 minutes.
+   Add tomato paste and cook, stirring occasionally, until it begins to
+   stick to the bottom of pot and darkens slightly, about 2 minutes. Add
+   mushrooms and kombu, then stir in 5 cups cold water. Bring to a boil,
+   then remove from heat and let sit until mushrooms soften, about 10
+   minutes. Remove and discard kombu.
+3. Using a slotted spoon, transfer solids to a blender. Add a ladleful or 2
+   of broth to blender and purée until smooth. Stir purée back into broth
+   in pot and bring to a simmer over medium heat. Add butter a piece at a
+   time, whisking to combine after each addition before adding more. Stir
+   in soy sauce; season with salt. Reduce heat to low and keep warm until
+   ready to serve.
+4. RAMEN: Meanwhile, bring a large pot of water to a boil. Add bok choy and
+   cook until bright green and tender, about 2 minutes. Using a slotted spoon,
+   transfer bok choy to a plate. Return water to a boil and cook noodles
+   according to package directions. Drain and divide among bowls.
+5. To serve, ladle broth over noodles, then top with bok choy and reserved
+   garlic oil. Top with nori, cilantro, and corn if desired.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Jar Lunch Soup: Thai Coconut Curry With Shrimp Instant Noodles
 ==============================================================
 
@@ -2809,6 +2894,34 @@ stock. Lay the bag flat to freeze. Use for soups, stews, or gravy.
 .. raw:: html
 
    <p style="page-break-before: always"/>
+
+Vegetable Broth
+===============
+
+Ingredients
+-----------
+
+- 1 medium onion, sliced
+- 1 large carrot, chopped
+- 1 celery rib, chopped
+- 2 quarts water
+
+Directions
+----------
+
+1. Heat oil in a large sauce pan or stock pot over medium high heat.  Add
+   onion, carrot and celery and saute until onions start to brown.
+2. Add water, thyme (or other herb) bundle and bring to a boil. Reduce
+   heat and simmer for approx. 90 minutes and reduce to 5 cups.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 
 Spicy Chicken Breast, Chilli, Chard and Egg Noodle Soup
 =======================================================

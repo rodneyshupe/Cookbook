@@ -168,7 +168,7 @@ Directions
    sugar melts evenly. Once sugar is melted add cream stirring with whisk.
    Once the cream is added caramel will solidify.  Continue to stir until
    Caramel remelts and is incorporated.  Add salt and vanilla and heat
-   till 160F.
+   till 160°F.
 3. Carefully whisk the hot cream / caramel mixture into the eggs.
 4. Strain to remove any lumps. Allow to rest at room temp 20 minutes, so
    that any bubbles in the mixture can rise to the top.

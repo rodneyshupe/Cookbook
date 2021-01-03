@@ -352,7 +352,7 @@ Directions
    in mushrooms and toss until golden brown (do not over crowed the pan).
    When they are cooked, remove mushrooms and place in a bowl, add in
    butter, chopped shallot, and chives, put aside and let cool.
-2. Preheat oven to 200F. Line sheet pan and place a rack inside the pan.
+2. Preheat oven to 200°F. Line sheet pan and place a rack inside the pan.
 3. Remove all but 1-2 tablespoons of oil from the pan and reheat to smoking
    hot.  Add steaks and sear on both sides (approx. 3 - 5 minutes.)
 4. Place steaks on prepared pan and place in preheated oven for approximately
@@ -391,7 +391,7 @@ Directions
 
 1. Season steaks with salt and pepper and then grill until browned and
    charred on each side (5 to 7 minutes per side) and an internal
-   temperature of 120F for medium rare or 125F for medium. Tent with
+   temperature of 120°F for medium rare or 125°F for medium. Tent with
    foil and let rest for 5 minutes.
 2. Slice steaks thin against grain. Fan slices on either side of large
    platter. Whisk oil, lemon juice, 3/4 teaspoon salt, and 1/4 teaspoon
@@ -411,7 +411,7 @@ and cook covered if using gas until browned and charred on first side,
 browned and charred on second side, 5 to 7 minutes. Flip steaks, season with
 salt and pepper, and move to cooler side of grill, arranging so steaks are
 about 6 inches from heat source. Continue to cook until meat registers
-120F for rare or 125 degrees for medium-rare, 10 to 15 minutes longer.
+120°F for rare or 125°F degrees for medium-rare, 10 to 15 minutes longer.
 Transfer steaks to wire rack set in rimmed baking sheet and let rest for
 5 minutes before serving.
 
@@ -633,8 +633,6 @@ Directions
    your oven to run.
 6. Return the roast to the board, carve, and serve with Yorkshire pudding.
    And no, you don't need to rest it again.
-
-
 
 
 .. raw:: pdf

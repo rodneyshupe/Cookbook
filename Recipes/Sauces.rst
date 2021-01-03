@@ -1078,13 +1078,7 @@ Directions
    consistency.
 6. Add salt to taste and serve immediately.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Jalapeno and Cilantro Sauce
 ===========================
@@ -1111,6 +1105,41 @@ Directions
   in blender for 1 minute. Scrape down sides of blender jar and
   continue to process until smooth, about 1 minute longer. With blender
   running, slowly add oil until incorporated. Transfer to bowl.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Tzatziki Sauce
+==============
+
++-----------------------------------------+----------------------------------------+
+| Total: 15 minutes, plus 1 hour chilling | Yield: Serves 3-4 (Makes about 1 cups) |
++-----------------------------------------+----------------------------------------+
+
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/3853-tzatziki-sauce>`__
+
+
+Ingredients
+-----------
+
+- 1/2 medium cucumber, peeled, halved lengthwise, and seeded
+- 1/2 cup plain whole-milk yogurt, Greek or Greek-style (see note)
+- 1 tablespoons extra-virgin olive oil
+- 1 tablespoons finely chopped fresh mint leaves and/or dill leaves
+- 1 small garlic clove, minced or pressed through a garlic press (about 1/2 teaspoon)
+
+Directions
+----------
+
+1. Shred the cucumber on the large holes of a box grater. Whisk the yogurt,
+   oil, mint, and garlic together in a medium bowl. Stir in the cucumbers
+   and season with salt and pepper to taste. Cover and refrigerate until
+   chilled, about 1 hour. (The sauce can be refrigerated for up to 2 days.)
 
 ----
 
@@ -1462,3 +1491,149 @@ Chipotle-Lime Dip with Scallions
 - 1/4 teaspoon adobo sauce, from chipotle peppers
 - 1 teaspoon grated lime zest
 - 1 tablespoon lime juice
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Homemade Mustard
+================
+
+Source: `David Lebovitz <https://www.davidlebovitz.com/homemade-mustard-recipe-joe-beef/>`__
+
+Ingredients
+-----------
+
+- 1/2 cup (75g) mustard seeds
+- 1/2 cup (120ml) white wine vinegar
+- 1/2 cup (120ml) dry white wine, or water
+- 1 1/2 tablespoon maple syrup
+- 1 1/2 teaspoon ground turmeric
+- 3/4 teaspoon salt
+- pinch cayenne
+- 3-6 tablespoons warm water, if necessary
+- optional: 1-4 teaspoons prepared horseradish, to taste
+
+Directions
+----------
+
+1. Combine all the ingredients, except the horseradish, in a stainless-steel
+   bowl. Cover, and let stand for 2-3 days.
+2. Put the ingredients in a blender and whiz until as smooth as possible. Add
+   2 to 4 tablespoons of water if the mustard is too thick. Blend in the
+   horseradish, if using.
+
+----
+
+Joe Beef Mustard
+================
+
++-----------------+-----------------+--------------+
+| Prep: 5 minutes | Time: 5 minutes | Yield: 1 cup |
++-----------------+-----------------+--------------+
+
+Source: The Art of Living According to Joe Beef
+
+Ingredients
+-----------
+
+- 1/2 cup (90 g) mustard seeds
+- 5 tablespoons (75 ml) water
+- 2 tablespoons maple syrup
+- Scant 2 tablespoons neutral oil
+- 1 1/4 cups (300 ml) white wine vinegar
+- 1 tablespoon ground turmeric
+- Pinch of cayenne pepper
+- 1 teaspoon salt
+
+Directions
+----------
+
+1. In a powerful food processor, combine the mustard seeds, water,
+   maple syrup, oil, one-third of the vinegar, the turmeric, the cayenne,
+   and the salt and process on high speed. (If it is not powerful, you
+   will end up with more whole seeds, which is okay but not ideal.) Once
+   you start, the seeds will bounce around like money in a money cage.
+2. When the seeds stop bouncing around, slowly add the rest of the
+   vinegar. When the blade stops spinning well and the mustard is thick,
+   it’s ready. Transfer to a tightly capped jar and store in the fridge
+   for up to a month.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Fermented Mustard
+=================
+
++-----------------+-----------------+--------------+-------------------+
+| Prep: 5 minutes | Time: 5 minutes | Yield: 1 cup | Ferment: 2-7 Days |
++-----------------+-----------------+--------------+-------------------+
+
+Ingredients
+-----------
+
+- 3 tablespoons Brown mustard seeds
+- 2 1/2 tablespoons yellow mustard seeds
+- 1/2 tablespoon yellow mustard powder
+- 2 tablesponns apple cider vinegar
+- 2 tablesponns verjus (substitution white wine, sugar and a bit of lemon juice combined, or alligote wine)
+- 2 1/2 tablespoons Sauerkraut juice
+- 1/2 tablespoon Diamond Crystal Kosher salt (optional could use less as well)
+
+Directions
+----------
+1. Mix seeds together, and pulse in a spice grinder to break apart
+   the seeds. Blend remaining ingredients in a 1 pint (16oz) jar.
+2. Cover and ferment for 1 day and up to a week.
+
+----
+
+Homemade Dijon Mustard
+======================
+
+Source: `Food Wishes Blog <https://foodwishes.blogspot.com/2015/01/hello-its-chef-dijon-from-foodwishescom.html>`__
+
+
+Ingredients
+-----------
+
+- 3/4 cup white wine
+- 1/3 cup white wine vinegar (original recipe calls for 1/4 cup)
+- 1/2 cup water, plus more as needed
+- 1/2 yellow onion, chopped
+- 1 garlic cloves, minced
+- 1/2 cup yellow mustard seeds
+- 2 tablespoons mustard
+- 1/2 tablespoon garlic powder
+- 1/2 teaspoon salt
+
+Directions
+----------
+
+1. Combine the white wine, vinegar, water, onion, and garlic in a saucepan.
+   Bring to a boil, then reduce the heat and simmer for 10 minutes. Remove
+   from heat and allow to cool to room temperature. Strain the mixture
+   through a fine-mesh sieve, pressing on the onions and garlic to extract
+   all the juices. Discard the onion and garlic.
+2. Combine the flavored vinegar liquid, mustard seed, dry mustard, garlic
+   powder and salt in a quart-size mason jar. Cover and let stand at room
+   temperature for 24 to 48 hours.
+3. Pour the mixture into a blender and puree until it a creamy consistency.
+   Pour into a saucepan, bring to a boil and then reduce the heat and
+   simmer until the mixture is thickened but still pourable, about
+   10 minutes.
+4. If canning, have your water bath canner ready. Pour the hot mustard into
+   clean pint-size or half-pint jars, leaving 1/2" headspace. Use a clean
+   toothpick or spatula to release any trapped air in the mustard. Process
+   for 10 minutes, adjusting for altitude.
+5. Alternatively, allow the jars to cool and store in the refrigerator for
+   up to three months.
