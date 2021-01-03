@@ -53,6 +53,7 @@ $(pdf): $(wildcard *.rst) $(wildcard */?*.rst) $(wildcard *.style) $(wildcard *.
 		--stylesheets=Cookbook.style \
 		--output="$(pdf)" \
 		--strip-elements-with-class=handout \
+                --verbose \
 		--extension-module=preprocess
 	@rm -fR *.build_temp
 

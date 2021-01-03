@@ -2606,12 +2606,6 @@ Vegetarian Ramen
 | Yield: 4 servings |
 +-------------------+
 
-Source: `Bon Appetit (Andy Baraghani) <https://www.bonappetit.com/recipe/vegetarian-ramen>`__
-
-The goal here was to achieve a tonkotsu-like broth without using any meat.
-Tomato paste, dried shiitake mushrooms, kombu, and a little bit of butter
-help to get you that rich umami-like effect.
-
 Ingredients
 -----------
 
@@ -2662,7 +2656,7 @@ Directions
    stick to the bottom of pot and darkens slightly, about 2 minutes. Add
    mushrooms and kombu, then stir in 5 cups cold water. Bring to a boil,
    then remove from heat and let sit until mushrooms soften, about 10
-   minutes. Remove and discard kombu.
+   minutes. Remove and discard kombu if using.
 3. Using a slotted spoon, transfer solids to a blender. Add a ladleful or 2
    of broth to blender and purée until smooth. Stir purée back into broth
    in pot and bring to a simmer over medium heat. Add butter a piece at a

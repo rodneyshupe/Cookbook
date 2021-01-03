@@ -2,9 +2,9 @@
 
   OddPageBreak tocPage
 
-*******************
-Dips-Salsa-Chutneys
-*******************
+***********************
+Dips Salsa and Chutneys
+***********************
 
 .. contents::
    :local:
@@ -19,7 +19,7 @@ Dips-Salsa-Chutneys
 
 Guacamole
 =========
-
+ 
 +----------------------+--------------------------+---------------+
 | Prep Time: 5 minutes | Cooking Time: 10 minutes | Yield: 2 cups |
 +----------------------+--------------------------+---------------+
@@ -213,8 +213,7 @@ Sun-Dried Tomato and Basil Salsa
 | Prep Time: 10 minutes | Cooking Time: 5 minutes | Yield: 1/2 cup |
 +-----------------------+-------------------------+----------------+
 
-Source: `Cooks
-Illustrated <https://www.cooksillustrated.com/recipes/8060-sun-dried-tomato-and-basil-salsa-for-two>`__
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/8060-sun-dried-tomato-and-basil-salsa-for-two>`__
 
 For a twist on a traditional salsa made with fresh tomatoes, we use
 jarred sun-dried tomatoes. (We find that the oil-packed type have the
