@@ -45,6 +45,7 @@ a collection of recipes containing the favorites of Rodney Shupe and family
 .. include:: Recipes/Entrees-Pork.rst
 .. include:: Recipes/Entrees-Seafood.rst
 .. include:: Recipes/Entrees-Pasta.rst
+.. include:: Recipes/Entrees-Veg.rst
 .. include:: Recipes/Entrees-Misc.rst
 
 .. include:: Recipes/Sides.rst

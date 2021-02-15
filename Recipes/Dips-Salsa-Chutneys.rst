@@ -19,7 +19,7 @@ Dips Salsa and Chutneys
 
 Guacamole
 =========
- 
+
 +----------------------+--------------------------+---------------+
 | Prep Time: 5 minutes | Cooking Time: 10 minutes | Yield: 2 cups |
 +----------------------+--------------------------+---------------+
@@ -131,6 +131,47 @@ Directions
 
    <p style="page-break-before: always"/>
 
+Buffalo Chicken Dip Recipe
+==========================
+
++------------------+-------------------+-------------------+
+| Prep: 10 minutes | Total: 30 minutes | Yield: 4 servings |
++------------------+-------------------+-------------------+
+
+Source: `Alix Traeger <https://tasty.co/recipe/buffalo-chicken-dip>`__
+
+Here's what you need: shredded chicken, cream cheese, ranch dressing,
+buffalo sauce, cheddar cheese, scallion, chip
+
+Ingredients
+-----------
+
+- 1 cup shredded chicken, leftover
+- 8 oz cream cheese, softened
+- 1/2 cup ranch dressing
+- 1/2 cup buffalo sauce
+- cheddar cheese
+- scallion, to serve
+- chip, to serve
+
+Directions
+----------
+
+1. Preheat the oven to 350°F (180°C).
+2. In a bowl, mix the chicken, cream cheese, and buffalo sauce. Pour
+   mixture into a cast iron skillet and smooth with a spoon.
+3. Cover with cheddar cheese and bake for 20 minutes, or until cheese is
+   melted and bubbly.
+4. Top with scallions and serve with your favorite chips.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Salsa
 =====
 
@@ -164,6 +205,70 @@ Directions
 
    <p style="page-break-before: always"/>
 
+Canned Salsa
+============
+
++------------------+--------------------------+----------------+
+| Prep: 45 minutes | Total: 6 hours 5 minutes | Yield: 8 pints |
++------------------+--------------------------+----------------+
+
+Source: `AllRecipes (Tami) <https://www.allrecipes.com/recipe/175547/rockin-salsa/>`__
+
+This is a recipe I came up with by combining two of my favourite recipes
+into one awesome recipe. You can make this salsa as hot as you want by
+adding more peppers.
+
+Ingredients
+-----------
+
+- 1 red onion, chopped
+- 1 white onion, chopped
+- 1 yellow onion, chopped
+- 6 pounds fresh tomatoes, peeled and chopped
+- 2 banana peppers, chopped
+- 3 green bell peppers, chopped
+- 3 (6 ounce) cans tomato paste
+- 1/2 cup white vinegar
+- 2 tablespoons garlic powder
+- 1 1/2 tablespoons salt
+- 1 tablespoon cayenne pepper
+- 1 1/2 teaspoons ground cumin
+- 1/4 cup brown sugar
+- 1/4 cup white sugar
+- 8 pint canning jars with lids and rings
+
+Directions
+----------
+
+1. Combine red onion, white onion, yellow onion, tomatoes, banana peppers,
+   green peppers, tomato paste, white vinegar, garlic powder, salt, cayenne
+   pepper, cumin, brown sugar, and white sugar in a large pot. Simmer until
+   thick, about 3 hours.
+2. Sterilize the jars and lids in boiling water for at least 5 minutes.
+   Pack the salsa into the hot, sterilized jars, filling the jars to within
+   1/4 inch of the top. Run a knife or a thin spatula around the insides of
+   the jars after they have been filled to remove any air bubbles. Wipe the
+   rims of the jars with a moist paper towel to remove any food residue.
+   Top with lids, and screw on rings.
+3. Place a rack in the bottom of a large stockpot and fill halfway with
+   water. Bring to a boil over high heat, then carefully lower the jars
+   into the pot using a holder. Leave a 2 inch space between the jars. Pour
+   in more boiling water if necessary until the water level is at least 1
+   inch above the tops of the jars. Bring the water to a full boil, cover
+   the pot, and process for 10 to 15 minutes.
+4. Remove the jars from the stockpot and place onto a cloth-covered or wood
+   surface, several inches apart, until cool. Once cool, press the top of
+   each lid with a finger, ensuring that the seal is tight (lid does not
+   move up or down at all). Refrigerate after opening.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Salsa Roja
 ==========
 
@@ -173,6 +278,7 @@ Yield: about 1 1/2 cups
 
 Ingredients
 -----------
+
 - 1 pound plum tomatoes, cored and chopped
 - 2 garlic cloves, chopped
 - 1 jalapeno chile, stemmed, seeded, and chopped
@@ -183,11 +289,11 @@ Ingredients
 
 Directions
 ----------
+
 1. Combine tomatoes and garlic in bowl and microwave, uncovered, until
    steaming and liquid begins to pool in bottom of bowl, about 4 minutes.
    Transfer tomato mixture to fine-mesh strainer set over bowl and let drain
    for 5 minutes.
-
 2. Combine jalapeno, cilantro, lime juice, 1 teaspoon salt, pepper flakes,
    and drained tomato mixture in blender. Process until smooth, about
    45 seconds. Season with salt to taste. Serve warm. (Salsa can be
@@ -197,6 +303,94 @@ Directions
 Note
 ----
 To make this salsa spicier, reserve and add the jalapeno seeds to the blender before processing
+
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Avocado Tomatillo Salsa
+=======================
+
++------------------+-------------------+--------------+
+| Prep: 15 minutes | Total: 15 minutes | Yield: 1 cup |
++------------------+-------------------+--------------+
+
+Source: `AllRecipes (Chef John) <https://www.allrecipes.com/recipe/233271/avocado-tomatillo-salsa/>`__
+
+This spectacularly simple green sauce may be the perfect summer condiment.
+It requires no cooking, only takes 10 to 15 minutes to make, looks
+gorgeous, and tastes amazing with anything grilled and most things that
+aren't. Spoon over grilled pork tacos, grilled meats, or serve with chips.
+
+Ingredients
+-----------
+
+- 6 ounces fresh tomatillos - husked, rinsed, and halved
+- 1-2 serrano chile, thinly sliced (can substitute jalapenos)
+- 1 large ripe avocado - halved, seeded, and flesh scooped out of peel
+- 4 cloves garlic
+- 1/4 cup packed cilantro leaves
+- 1 lime, juiced
+- salt to taste
+
+Directions
+----------
+
+1. Place tomatillos into a food processor. Add serrano pepper, avocado,
+   cilantro, and lime juice. Season with salt to taste. Process until
+   smooth; adjust seasoning. Transfer to a serving bowl.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Chilli Tomatillo Salsa
+======================
+
++-------------------+------------------------------------------+
+| Total: 25 minutes | Yield: Serves 6 (Makes about 1 1/2 cups) |
++-------------------+------------------------------------------+
+
+Ingredients
+-----------
+
+- 1 tablespoon vegetable oil
+- 2 Dried Kashmiri red chillies
+- 2 Dried Bedgi red chillies
+- 1/2 lb tomatillos, washed
+- 3 cloves garlic
+- 1 tablespoon pepitas or pumpkin seeds
+- 1/2 teaspoon cumin seeds
+- 2 tablespoons Vinegar
+- Salt
+
+Directions
+----------
+
+1. Take a wide frying pan or a cast iron skillet and heat a tablespoon
+   of vegetable oil. Add the dried chillies and allow it to get toasty
+   and red. The chillies will expand and get aromatic. Once they are,
+   bash the garlic and add these into the frying pan/skillet along with
+   the cumin seeds, pumpkin seeds and finally the tomatillos. Cook the
+   tomatillos until they are squishy soft and start to fall apart when
+   you stir them around. At this stage, tip the contents of the frying
+   pan into a blender and whizz with 2 tbsp vinegar and salt. Taste and
+   adjust the salt as per your liking.
+
+Notes
+-----
+
+To make this salsa spicier, reserve and add the jalapeño seeds to the
+blender before processing.
 
 .. raw:: pdf
 

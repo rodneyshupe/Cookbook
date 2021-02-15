@@ -217,7 +217,6 @@ Directions
 
    <p style="page-break-before: always"/>
 
-
 Austrian Potato Salad
 =====================
 
@@ -275,6 +274,64 @@ their place.
 
 To maintain its consistency, don’t refrigerate the salad; it should be
 served within 4 hours of preparation.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+German Potato Salad
+===================
+
++------------------+-------------------+----------+
+| Prep: 20 minutes | Total: 20 minutes | Yield: 6 |
++------------------+-------------------+----------+
+
+Source: `Jaclyn <https://www.cookingclassy.com/german-potato-salad/>`__
+
+Made with creamy red or yellow potatoes, richly flavorful bacon, parsley
+that's brimming with freshness, vibrant red onions and a simple, yet
+perfectly tasty dressing.
+
+Ingredients
+-----------
+
+- 2 lbs red potatoes (or Yukon gold potatoes) each about the same size for even cooking
+- 6 slices bacon, (chopped)
+- 2 cups chopped red onion
+- 2 tsp minced garlic
+- 1/2 cup chicken broth
+- 1/4 cup apple cider vinegar
+- 1 Tbsp dijon mustard
+- 2 tsp granulated sugar
+- Salt and pepper to taste
+- 1/2 cup chopped fresh parsley
+- 2 Tbsp olive oil
+
+Directions
+----------
+
+1. Place red potatoes on a steamer basket* set in a pot with about 1
+   1/2-inches of water. Bring water to a simmer over medium-high heat.
+2. Cover pot with a snug lid and let steam until potatoes are tender, about
+   20 - 25 minutes (test for doneness by piercing potatoes through center
+   with a knife, it should glide through). Set aside to cool just until
+   warm enough to cut into chunks.
+3. While potatoes are steaming, cook bacon in a 12-inch non-stick skillet
+   over medium-high heat until crisp (about 6 - 7 minutes). Remove bacon,
+   set aside and leave drippings in skillet.
+4. Add onions to skillet with drippings and cook 5 minutes. Add garlic and
+   cook 30 seconds longer.
+5. Pour in chicken broth, vinegar, dijon mustard and sugar. Bring to liquid
+   to a simmer and let reduce by about half for a minute or two.
+6. Add chopped potatoes, bacon and olive oil and toss. Season mixture with
+   salt and pepper to taste.
+7. Remove from heat, toss in parsley. Serve warm (or see notes to serve
+   chilled). If mixture seems to be just slightly dry you can either toss
+   in a little more olive oil or chicken broth.
 
 .. raw:: pdf
 
@@ -471,6 +528,30 @@ Directions
 
 1. Whisk together mayonnaise, mustard, vinegar, sugar, salt, pepper, and
    celery seeds in a bowl. Add cabbage and toss. Chill.
+
+
+Dorido Taco Salad
+=================
+
+Ingredients
+-----------
+
+- 1 lb 95% lean ground beef
+- 1 (1.25 oz) packet reduced sodium taco seasoning
+- 1 medium-large head of iceberg lettuce, chopped into bite sized pieces
+- 1 medium-large tomato, diced
+- 4 oz sharp cheddar cheese, shredded
+- 4 oz nacho cheese Doritos, broken up a bit into bite sized pieces
+- 1 cup thousand island dressing
+
+Directions
+----------
+
+1. Brown the ground beef in a skillet over medium heat, breaking it up into
+   pieces with a wooden spoon. Add the packet of taco seasoning and stir
+   until well coated. Set aside.
+2. In a large serving bowl, combine the lettuce, tomatoes, cheese and ground
+   beef. When ready to serve, add the Doritos and dressing and toss to coat.
 
 .. raw:: pdf
 
@@ -1281,6 +1362,45 @@ Directions
 #. Whisk the olive oil and balsamic together. Drizzle into the salad, and toss well. Correct seasoning if needed.
 #. Place onto salad plates
 
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Chanterelle Mushrooms With Seared Baby Spinach
+==============================================
+
+Ingredients
+-----------
+
+- 10 1/2 oz chanterelle mushrooms
+- 4 oz baby spinach leaves
+- 2 oz Yellow pepper, julienne
+- 1 lemon, juiced
+- 1/2 red onion, sliced
+- 1 clove garlic, minced
+- Kosher salt
+- fresh cracked pepper
+- extra virgin olive oil
+- aged balsamic vinegar
+- 1 bunch basil, fresh, chopped
+- 1/4 cup  white wine
+
+Directions
+----------
+
+#. Heat a skillet and add olive oil
+#. Add onions, season and sear for 2 minutes
+#. Add garlic and saute
+#. Add mushrooms, season and saute for 3 minutes
+#. Add white wine and reduce for 2 minutes
+#. Add peppers and saute for 1 minute, season
+#. Add spinach and sear for 1 minute, add freshly squeezed lemon juice
+#. Place on a plate and drizzle a good aged balsamic vinegar over top.
 
 .. raw:: pdf
 

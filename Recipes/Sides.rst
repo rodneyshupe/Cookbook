@@ -236,6 +236,41 @@ minutes before serving.
 
    <p style="page-break-before: always"/>
 
+Duchesse Potatoes
+=================
+
+Ingredients
+-----------
+
+- 2 lb russet potatoes, peeled
+- kosher salt
+- fresh cracked pepper
+- 1 pinch nutmeg
+- 1 tablespoon Butter
+- 2 egg yolk
+- 1/4 cup heavy cream
+- 1 egg yolk, beaten
+
+Directions
+----------
+
+1. In a pot of salted boiling water place potatoes. Cook until tender.
+2. Drain the potatoes and let sit 2 minutes to assure all the water is drained
+3. Place in a large bowl and mash. Add salt, pepper, nutmeg, cream, egg yolks, and butter. Blend well.
+4. Preheat oven to 400 ‘f.
+5. Pipe potatoes onto a baking sheet into crown shape (use piping bag with star tube).
+6. Brush the piped potatoes with egg yolk (beaten)
+7. Place in oven for approx. 15 minutes or until golden brown.
+8. You can put various ingredients into the potatoes, such as, herbs, bacon (cooked), diced ham, truffles, sour cream, sliced truffle, etc
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Potato Galette
 ==============
 
@@ -464,6 +499,50 @@ Directions
    bake until deep golden brown and crisp, 25 to 35 minutes, flipping
    potatoes half-way through cooking time. Transfer to paper towel-lined
    plate and blot with additional paper towels. Serve.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Pomme William/ Pear Shaped Potatoes
+===================================
+
+Ingredients
+-----------
+
+- 1 lb potatoes, peeled
+- sea salt
+- fresh cracked pepper
+- 1 pinch ground nutmeg
+- 2 egg yolk
+- 1 tablespoon Butter
+- 1 tablespoon Sour cream
+- 8 whole cloves
+- canola oil, deep frying
+
+
+Breading
+^^^^^^^^
+
+- Flour, 3 eggs, bread crumbs.
+
+Directions
+----------
+
+#. In a small pot add canola oil and heat to 375°F
+#. Cook potatoes in boiling, salted, water until fork tender
+#. Strain potatoes, mash and add seasoning, nutmeg, sour cream, butter and egg yolks. Blend well.
+#. Prepare breading station.
+#. Shape potatoes into pear shapes.
+#. Gently roll into flour and pat excess flour off
+#. Next add to beaten egg mixture, and finally add to breading.
+#. Spike a clove on the top of the pear shaped potatoes
+#. Place gently in canola oil until golden brown
+#. Makes 8 pear shaped potatoes
 
 .. raw:: pdf
 

@@ -1357,42 +1357,6 @@ Directions
 
    <p style="page-break-before: always"/>
 
-Nasi Goreng
-===========
-
-Ingredients
------------
-
-- 6-8 cups cooked Jasmin Rice
-- 2 chicken breasts, cut into 1 inch cubes. (may substitute 1 pound (450g) sirloin streak cubed or 1 pound lean pork chop cubed)
-- 2 tablespoons butter (can substitute olive oil)
-- 2 medium onion, chopped fine
-- 2 cloves garlic minced
-- 2 tablespoons Soy Sauce
-- 2 tablespoons Fish Sauce (if missing substitute Soy Sauce)
-- 1 tablespoon dark brown sugar (can substitute white sugar)
-- 1/4 teaspoon chili powder
-- salt and pepper
-
-Directions
-----------
-
-1. In a small bowl, combine soy sauce, fish sauce, brown sugar, and
-   chili powder.   Season meat with salt and pepper
-2. In a large sauce pan over medium high heat, melt butter until stating to
-   brown.  Add onions and garlic and cook until it begins to brown.
-3. Add meat to onions and cook until meat is browned on all sides.
-4. Lower heat to medium and add soya mixture and cook for 2 minutes.
-5. Add rice and stir until soya is absorbed. Serve immediately.
-
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
-
 Chicken Yakiudon
 ================
 

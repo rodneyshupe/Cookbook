@@ -533,14 +533,14 @@ Nasi Goreng
 
 Ingredients
 -----------
-- 2 tbsp butter
-- 2 medium onions chopped
-- 2 garlic cloves
-- 1lb sirloin steak cubed OR 1lb chicken breast cubed
+- 2 tablespoons butter (can substitute olive oil)
+- 2 medium onion, chopped fine
+- 2 cloves garlic minced
+- 1 lb sirloin steak cubed OR 1 lb chicken breast cubed
 - salt & pepper
-- 1/4 cup soy sauce
-- 1 tbsp sugar
-- 1/4 tsp chili powder
+- 2 tablespoons Soy Sauce
+- 2 tablespoons Fish Sauce (if missing substitute Soy Sauce)
+- 1 tablespoon dark brown sugar (can substitute white sugar)
 - 6-8 cups cooked long grain rice
 
 Directions
@@ -550,7 +550,7 @@ Directions
    Add onion and garlic and cook until starting to brown.
 2. Season meat with salt and pepper and add to onions.  Cook until meat is
    browned on all sides.
-3. Lower to heat to medium and add soy sauce, sugar, and chili powder.  Add
+3. Lower to heat to medium and add soy sauce, fish sauce, sugar, and chili powder.  Add
    cooked rice and stir until soy sauce is absorbed.
 
 .. raw:: pdf
@@ -726,7 +726,6 @@ For a vegetarian version replace beef and pork with 1 can, 15 ounce (443ml),
 cannellini beans, drained and rinsed.  In step 1 add garlic to onions and
 cook as instructed then stir in beans.
 
-
 .. raw:: pdf
 
    PageBreak recipePage
@@ -762,3 +761,64 @@ Directions
 4. Add tomato soup, mushroom soup, molasses, and soy sauce to bowl and
    combine.  Transfer to a casserole dish, top with uncooked noodles and
    place in oven for approx. 1 hour.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+
+Red Beans and Rice
+==================
+
++-----------------------+-----------------------+-------------------+
+| Prep Time: 15 minutes | Cooking Time: 1 hours | Yield: 6 servings |
++-----------------------+-----------------------+-------------------+
+
+Ingredients
+-----------
+
+- 1 tablespoon vegetable oil
+- 1 (12.8-ounce) package smoked andouille sausage, thinly sliced
+- 1 medium sweet onion, diced
+- 1 green bell pepper, diced
+- 2 celery ribs, diced
+- 2 tablespoons tomato paste
+- 3 cloves garlic, minced
+- 1 1/2 teaspoons Cajun seasoning, salt-free
+- 3 (15-ounce) cans red beans, drained and rinsed
+- 3 cups chicken stock
+- 1 teaspoon hot sauce
+- 1 bay leaf
+- Kosher salt and freshly ground black pepper, to taste
+- 2 tablespoons chopped fresh parsley leaves
+
+Directions
+----------
+
+1. Heat vegetable oil in a large stockpot or Dutch oven over medium heat.
+   Working in batches, add sausage, and cook, stirring frequently, until
+   sausage is lightly browned, about 3-4 minutes; set aside.
+2. Add onion, bell pepper and celery. Cook, stirring occasionally, until
+   tender, about 3-4 minutes.
+3. Stir in tomato paste, garlic and Cajun seasoning until fragrant, about
+   1 minute.
+4. Stir in red beans, chicken stock, hot sauce, bay leaf and sausage;
+   season with salt and pepper, to taste. Bring to a boil; cover, reduce
+   heat and simmer for 15 minutes. Uncover; continue to simmer until
+   reduced, an additional 15-30 minutes.
+5. Using a wooden spoon, mash beans until slightly thickened, if desired;
+   season with salt and pepper, to taste.
+6. Serve immediately, topped with rice and garnished with parsley, if
+   desired.
+
+Note
+----
+
+* If substituting red bean for red kidney beans, flavour will be slightly
+  off.
+* If substituting andouille with kabasa use about 1 teaspoon liquid smoke
+  when adding broth.

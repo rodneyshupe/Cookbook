@@ -665,16 +665,66 @@ This works well on pork or lamb roasts.
 Ingredients
 -----------
 - 1/2 cup lightly packed flat-leaf parsley or basil leaves
-- 2 Tbs. fresh rosemary leaves
+- 2 tablespoons fresh rosemary leaves
 - Grated zest of 1 lemon
 - 4 cloves garlic
-- 2 Tbs. cracked or crushed black peppercorns
-- 2 Tbs. lightly crushed mustard seeds
-- 2 Tbs. olive oil
-- 2 tsp. salt
+- 2 tablespoons cracked or crushed black peppercorns
+- 2 tablespoons lightly crushed mustard seeds
+- 2 tablespoons olive oil
+- 2 teaspoon salt
 
 Directions
 ----------
 1. Combine the parsley or basil, rosemary, lemon zest, garlic,
    peppercorns, mustard seeds, olive oil and salt in a small food
    processor (or mortar and pestle) and process to a smooth paste.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Pineapple Citrus Marinade
+=========================
+
+Works well with chicken.
+
+Ingredients
+-----------
+
+- 2 garlic cloves, minced
+- 1/2 jalapeño, seeded and minced (optional)
+- 1/4 cup fresh oregano
+- 1/2 cup pineapple juice
+- 1/4 cup orange juice
+- 1/4 cup fresh lime juice
+- 1/2 teaspoon paprika
+- 1/2 teaspoon ground cumin
+- 1/4 cup olive oil
+
+Directions
+----------
+
+1. Mix all together.
+
+----
+
+Citrus Marinade
+===============
+
+Ingredients
+-----------
+
+- 1/2 cup orange juice
+- 1/4 cup fresh lime juice
+- 1/4 cup fresh lemon juice
+- 1/2 teaspoon onion powder
+- 1/2 teaspoon garlic powder
+
+Directions
+----------
+
+1. Mix all together.

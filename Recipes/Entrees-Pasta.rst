@@ -288,6 +288,78 @@ Directions
 
    <p style="page-break-before: always"/>
 
+Creamy Mushroom Linguine with Steak
+===================================
+
++------------+-------------------+
+| Total: TBD | Yield: 4 servings |
++------------+-------------------+
+
+Source: `Clodagh McKenna <https://www.clodaghmckenna.com/blog/steak-wih-creamy-mushroom-linguine>`__
+
+This simple dinner recipe is perfect for those busy days during the week.
+The charred, juicy steak wrapped in silky pasta and creamy mushrooms with
+flavours of garlic and rosemary is sure to become your new nightly
+favourite!
+
+Ingredients
+-----------
+
+- 2 stiploin steaks (10oz/300g each), cooked to medium rare
+- 400 grams of linguine
+- 1 tablespoon olive oil
+- 1 onion, diced
+- 2 cloves of garlic, crushed
+- 200 grams of chestnut mushrooms
+- 1 tablespoon fresh rosemary, chopped, plus extra to garnish
+- Juice of 1⁄2 lemon
+- 200 millilitres of double cream
+- Sea salt and freshly ground black pepper
+
+Directions
+----------
+
+1. Remove the steaks from the fridge 30 minutes before cooking to allow
+   them to come up to room temperature.
+2. To make the creamy mushroom sauce, place a frying pan over medium heat
+   and add the oil. Then stir in the onion and garlic, and cook for two
+   minutes.
+3. Add the mushrooms, season with salt and pepper, and continue to cook for
+   10 minutes, tossing every minute or so.
+4. Add the fresh rosemary and lemon juice, and cook for another minute.
+   Pour in the cream, stir, reduce the heat to low, and cook for five
+   minutes. Keep warm over low heat.
+5. Meanwhile, put a large saucepan of salted boiling water over high heat,
+   stir in the pasta and cook for 10 minutes or until al dente. Drain,
+   reserving a couple of tablespoons of the cooking water.
+6. Leave the steaks to rest for about two minutes before serving to allow
+   the juices that have been drawn to the surface to relax back into the
+   meat.
+7. Return the cooked pasta back to the large saucepan over low heat with
+   the reserved pasta cooking water and the creamy mushroom sauce. Toss
+   together and serve in warmed dishes.
+8. Thinly slice the steaks and serve on top of the creamy mushroom
+   linguine, scattered with some chopped rosemary and a twist of black
+   pepper.
+
+Variations
+----------
+
+* Prawns: Substitute 1lb prawns (peeled and deveined) for the steak, add
+  them to mushroom mixture with cream to cook.
+* Ham/Capicola: Replace mushrooms with 1/2lb ham or capicola, cubed into
+  1/2 pieces. Remove steak, but add 1/2 cup peas (thawed from frozen) to
+  sauce right before adding pasta.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+
 Skillet Baked Ziti
 ==================
 
@@ -296,7 +368,7 @@ Skillet Baked Ziti
 +----------------------+-----------------------------+---------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/3989-skillet-baked-ziti>`__
-
+T6&n@Zc#E6c2YJGzJC#m%&ht
 Ingredients
 -----------
 - 1 tablespoon olive oil
@@ -479,56 +551,6 @@ Directions
    blender. Mix the water and cornstarch together, add to your tomato sauce
    and return to the heat for two minutes. This will stop the sauce from
    separating. Season to taste with salt and pepper.
-
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
-
-Baked Gnocchi with Tomato and Basil
-===================================
-
-+-----------------------+--------------------------+-------------------+
-| Prep Time: 20 minutes | Cooking Time: 30 minutes | Yield: 4 servings |
-+-----------------------+--------------------------+-------------------+
-
-Source: `Cooks Country <https://www.cookscountry.com/recipes/4480-baked-gnocchi-with-tomato-and-basil>`__
-
-Ingredients
------------
-- 3 tablespoons extra virgin olive oil
-- 1 pound (450g) vacuum-packet gnocchi (see note)
-- 1 onion, chopped fine
-- 6 garlic cloves, minced
-- 1/8 teaspoon red pepper flakes
-- 1 can crushed tomatoes, 28 ounce (828ml)
-- 1 cup water
-- 1/2 cup chopped fresh basil
-- 2 cups shredded mozzarella cheese
-
-Directions
-----------
-
-1. Adjust oven rack to upper-middle position and heat oven to 475 degrees.
-   Heat 2 tablespoons oil in large ovensafe nonstick skillet over medium-high
-   heat until shimmering. Cook gnocchi, stirring occasionally, until lightly
-   browned, about 4 minutes; transfer to plate.
-2. Add remaining oil and onion to empty skillet and cook until onion is
-   softened, about 3 minutes. Stir in garlic and pepper flakes and cook until
-   fragrant, about 30 seconds. Stir in tomatoes and water and cook until
-   slightly thickened, about 5 minutes.
-3. Add basil and browned gnocchi to pan. Reduce heat to low and simmer,
-   stirring occasionally, until gnocchi is tender, 5 to 7 minutes. Sprinkle
-   with mozzarella and bake until cheese is well browned, about 8 minutes.
-   Serve.
-
-Note
-----
-If you do not have an ovensafe skillet, in step 3 transfer the gnocchi to a
-casserole dish for baking.
 
 .. raw:: pdf
 

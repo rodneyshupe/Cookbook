@@ -269,6 +269,71 @@ Directions
 
    <p style="page-break-before: always"/>
 
+Peach tarte tatin with orange blossom cream
+===========================================
+
++------------+-------------------+
+| Total: TBD | Yield: 6 servings |
++------------+-------------------+
+
+Source: `Clodagh McKenna <https://www.clodaghmckenna.com/blog/peach-tart-tatin-with-orange-blossom-cream>`__
+
+This dessert is the definition of low effort and high payoff. With
+caramelized peaches, a crisp pastry base and orange blossom cream, you only
+need a few simple ingredients to create this decadent and delicious dish!
+
+Ingredients
+-----------
+
+- 150 grams (5.5 oz) caster sugar
+- 70 grams (2.5 oz) unsalted butter
+- 1⁄2 vanilla pod, cut in half lengthways
+- 6 peaches, halved
+- 325 grams (11.5 oz) ready-made puff pastry
+- 250 grams (9 oz) crème fraîche
+- 2 tablespoons orange blossom water
+- 1 tablespoon orange zest
+
+Directions
+----------
+
+1. Preheat the oven to 350°F (180°C).
+2. Place a cast-iron pan or an ovenproof frying pan over low heat and add
+   the caster sugar and 100 millilitres (3.5 oz) of water. Stir until the
+   sugar has dissolved.
+3. Once the sugar has dissolved, increase the heat to high and simmer for
+   12 to 14 minutes or until the syrup is a light golden-brown colour. Stir
+   in the butter and scrape in the seeds from the vanilla pod, then cook
+   for another two to three minutes or until you reach a caramel
+   consistency.
+4. Arrange the halved peaches, cut-side up, over the caramel.
+5. Roll out the puff pastry so that it covers the peaches in the pan. Place
+   the pastry on top of the peaches and fold the edges down the sides so
+   that you're tucking in the peaches.
+6. Make three small slits in the centre of the pastry with a sharp knife
+   and bake for 45 minutes until the peaches are caramelized and the pastry
+   is golden.
+7. Meanwhile, to make the orange blossom cream, whisk the crème fraîche
+   with the orange blossom water and orange zest, and set aside.
+8. When the tarte tatin is cooked, carefully invert the tarte out onto a
+   serving dish. Slice and serve with a dollop of the orange blossom cream.
+
+Notes
+-----
+* If you don’t have orange blossom water, just use the zest of an orange
+  instead.
+* You can make this a couple of hours before serving, and leave it to rest
+  at room temperature (not in the fridge).
+* It’s also delicious made with apples, pineapple or pears.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Lemon Curd
 ==========
 
@@ -527,54 +592,6 @@ Directions
 
 .. raw:: pdf
 
- PageBreak recipePage
-
-.. raw:: html
-
- <p style="page-break-before: always"/>
-
-
-Six Minute Brownies
-===================
-
-These brownies are best served warm!
-
-Ingredients
------------
-
--  2/3 cup of melted butter
--  1/3 cup of cocoa
--  2 eggs
--  3/4 cup of sugar
--  1/2 cup of flour
--  1 teaspoon of baking powder
--  1 teaspoon of vanilla
--  1 cup of chocolate chips
--  1 cup of chopped nuts (optional)
--  Vanilla ice cream
-
-Directions
-----------
-
-1. Combine the cocoa, sugar, flour and baking powder in to one of the
-   mixing bowls.
-2. In the other mixing bowl, add the 2 eggs and beat them. Then add the
-   melted butter and whisk until light and foamy. Once the butter and
-   eggs are mixed well together add in the vanilla.
-3. Add the wet ingredients into the bowl of dry ingredients. Then mix
-   ingredients together until they make the consistency of a batter.
-   Once your bowl is rid of dry ingredients add in the chocolate chips
-   and chopped nuts (optional). Mix again until chocolate chips are
-   spread throughout the brownie batter.
-4. Spray the 9x9 glass pan with the cooking spray and add the brownie
-   batter into the pan and smooth out with the spatula.
-5. You are now ready to cook the brownies in the microwave for 6 minutes
-   on high.
-6. Remove brownies from microwave. Cut into the desired amount of pieces
-   and serve with a generous amount of vanilla ice cream.
-
-.. raw:: pdf
-
    PageBreak recipePage
 
 .. raw:: html
@@ -666,67 +683,6 @@ Ingredients
    Spread the mixture over the milk chocolate peanut butter layer.
 3. Refrigerate for another half hour or so, until firm to the touch. Cut
    into squares.
-
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
-
-Best Lemon Bars
-===============
-
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/10616-best-lemon-bars>`__
-
-Ingredients
------------
-
-Crust
-^^^^^
-- 1 cup (5 ounces) all-purpose flour
-- 1/4 cup (1 3/4 ounces) granulated sugar
-- 1/2 teaspoon salt
-- 8 tablespoons unsalted butter, melted
-
-Filling
-^^^^^^^
-- 1 cup (7 ounces) granulated sugar
-- 2 tablespoons all-purpose flour
-- 2 teaspoons cream of tartar
-- 1/4 teaspoon salt
-- 3 large eggs plus 3 large yolks
-- 2 teaspoons grated lemon zest plus 2/3 cup juice (4 lemons)
-- 4 tablespoons unsalted butter, cut into 8 pieces
-- Confectioners' sugar (optional)
-
-Directions
-----------
-1. FOR THE CRUST: Adjust oven rack to middle position and heat oven to
-   350 degrees. Make foil sling for 8-inch square baking pan by folding
-   2 long sheets of aluminum foil so each is 8 inches wide. Lay sheets of
-   foil in pan perpendicular to each other, with extra foil hanging over
-   edges of pan. Push foil into corners and up sides of pan, smoothing
-   foil flush to pan.
-2. Whisk flour, sugar, and salt together in bowl. Add melted butter and
-   stir until combined. Transfer mixture to prepared pan and press into
-   even layer over entire bottom of pan (do not wash bowl). Bake crust
-   until dark golden brown, 19 to 24 minutes, rotating pan halfway
-   through baking.
-3. FOR THE FILLING: While crust bakes, whisk sugar, flour, cream of tartar,
-   and salt together in now-empty bowl. Whisk in eggs and yolks until no
-   streaks of egg remain. Whisk in lemon zest and juice. Transfer mixture
-   to saucepan and cook over medium-low heat, stirring constantly, until
-   mixture thickens and registers 160 degrees, 5 to 8 minutes. Off heat,
-   stir in butter. Strain filling through fine-mesh strainer set over bowl.
-4. Pour filling over hot crust and tilt pan to spread evenly. Bake until
-   filling is set and barely jiggles when pan is shaken, 8 to 12 minutes.
-   (Filling around perimeter of pan may be slightly raised.) Let bars cool
-   completely, at least 1½ hours. Using foil overhang, lift bars out of pan
-   and transfer to cutting board. Cut into bars, wiping knife clean between
-   cuts as necessary. Before serving, dust bars with confectioners' sugar,
-   if using.
 
 .. raw:: pdf
 
@@ -1153,3 +1109,11 @@ Directions
    and sugar are dissolved and there are no lumps.
 2. Pour mixture into whipping siphon and use 1 NO2 cartridge. Shake
    14-16 times.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>

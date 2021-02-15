@@ -241,36 +241,38 @@ Beef Barley Soup
 Ingredients
 -----------
 
--  3 carrots, peeled and cut into 1/4-inch pieces
--  1 onion, chopped fine
--  1/4 cup olive oil
--  1 tablespoon minced fresh thyme or 1 teaspoon dried
--  1/4 ounce dried porcini mushrooms, rinsed and minced
--  2 garlic cloves, minced
--  2 teaspoons tomato paste
--  3 cups beef broth
--  3 cups chicken broth
--  2/3 cup quick-cooking barley
--  2 teaspoons soy sauce
--  1 1/2 pounds sirloin steak tips, trimmed and cut into 1/2-inch pieces
--  Salt and Pepper
+- 3 carrots, peeled and cut into 1/4-inch pieces
+- 1 onion, chopped fine
+- 1 celery rib choped into 1/4 inch pieces
+- 4oz crimini muchrooms chopped
+- 1/4 cup olive oil
+- 1 tablespoon minced fresh thyme or 1 teaspoon dried
+- 2 garlic cloves, minced
+- 2 teaspoons tomato paste
+- 3 cups beef broth
+- 3 cups chicken broth
+- 2/3 cup quick-cooking barley
+- 2 teaspoons soy sauce
+- 1 1/2 pounds sirloin steak tips, trimmed and cut into 1/2-inch pieces
+- Salt and Pepper
 
 Directions
 ----------
 
-1. Combine carrots, onion, and 2 tablespoons oil in Dutch oven and cook
-   over medium-high heat until vegetables are softened and lightly
-   browned, about 8 minutes. Stir in thyme, porcini, garlic, and tomato
-   paste and cook until fragrant, about 30 seconds. Stir in beef broth,
-   chicken broth, barley, and soy sauce, scraping up any browned bits.
-   Simmer until barley is tender, about 15 minutes.
-2. Meanwhile, heat 1 tablespoon oil in 12-inch skillet over medium-high
-   heat until just smoking. Pat beef dry with paper towels and season
-   with salt and pepper. Brown half of beef on all sides, about 8
-   minutes; transfer to bowl. Repeat with remaining 1 tablespoon oil and
-   remaining beef; transfer to bowl.
+1. Heat 1 tablespoon oil in Dutch oven over medium-high heat until just
+   smoking. Pat beef dry with paper towels and season with salt and
+   pepper. Brown half of beef on all sides, about 8 minutes; transfer to
+   bowl. Repeat with remaining 1 tablespoon oil and remaining beef;
+   transfer to bowl.
+2. Combine carrots, onion, celery, and 2 tablespoons oil in now empty
+   Dutch oven and cook over medium-high heat for approximately 4 minutes,
+   add mushrooms and continue cooking until vegetables are softened and
+   lightly browned, about another 4 minutes. Stir in thyme, garlic, and
+   tomato paste and cook until fragrant, about 30 seconds. Stir in beef
+   broth, chicken broth, barley, and soy sauce, scraping up any browned
+   bits.
 3. Add browned beef and any accumulated juices to soup and let heat
-   through, about 1 minute. Season with salt and pepper to taste. Serve.
+   through, about 1 1/2 hour. Season with salt and pepper to taste. Serve.
 
 .. raw:: pdf
 
@@ -1626,8 +1628,7 @@ Directions
 Red Lentil Soup with North African Spices
 =========================================
 
-Source: `Cooks
-Illustrated <https://www.cooksillustrated.com/recipes/8661-red-lentil-soup-with-north-african-spices>`__
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/8661-red-lentil-soup-with-north-african-spices>`__
 
 +-----------------------+----------------------+---------------+
 | Prep Time: 30 minutes | Cooking Time: 1 hour | Servings: 4-6 |
@@ -1674,6 +1675,65 @@ Directions
    heat and stir in mint and paprika. Ladle soup into individual bowls,
    drizzle each portion with 1 teaspoon spiced butter, sprinkle with
    cilantro, and serve.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Lebanese Lemon Lentil Soup
+==========================
+
++------------------+--------------------------+-------------------+
+| Prep: 30 minutes | Total: 2 hours 5 minutes | Yield: 5 servings |
++------------------+--------------------------+-------------------+
+
+Source: `AllRecipes (Debra Fox Sullivan) <https://www.allrecipes.com/recipe/223354/lebanese-lemon-lentil-soup/>`__
+
+This wonderful comfort soup is a balance of lemon, salt, heat, and savory
+herbs. Serve it on a cold day. Can be made vegan, vegetarian, or with
+chicken easily.
+
+Ingredients
+-----------
+
+- 1 tablespoons olive oil
+- 1/2 large yellow onion, diced
+- 1 stalks celery with leaves, diced
+- 1 carrots, diced
+- 3/4 teaspoons minced garlic
+- 3 cups water
+- 1 cups French green lentils
+- 1 tablespoons chopped fresh parsley
+- 1/2 tablespoon salt, or more to taste
+- 1/2 tablespoon ground coriander
+- 1/2 tablespoon ground cumin
+- 3/4 teaspoons ground black pepper
+- 1/4 teaspoon cayenne pepper
+- 2 tablespoons butter
+- 1/2 cup all-purpose flour
+- 1/2 lemon, cut into wedges
+- 1 tablespoons chopped fresh parsley
+- freshly ground black pepper
+
+Directions
+----------
+
+1. Heat olive oil in a large heavy-bottomed pot over medium heat. Cook and
+   stir onion, celery, and carrots until slightly tender, about 5 minutes.
+   Add garlic; cook and stir until fragrant, 30 seconds. Add water,
+   lentils, 2 tablespoons fresh parsley, salt, coriander, cumin, black
+   pepper, and cayenne pepper; stir to incorporate. Cover and simmer until
+   lentils are tender, stirring occasionally, 1 1/2 hours.
+2. Whisk butter and flour together in a small saucepan over medium-low
+   heat; stir constantly until thickened and paste-like, about 10 minutes.
+   Reduce heat to low, stirring every 2 to 3 minutes, until light brown,
+   about 20 more minutes. Whisk flour paste into finished soup, a spoonful
+   at a time, until smooth and creamy. Serve with lemon wedges, 2
+   tablespoons parsley, and a sprinkle of freshly ground pepper.
 
 .. raw:: pdf
 
@@ -1745,9 +1805,7 @@ Creamy Leek-Potato Soup
 | Prep Time: 15 minutes | Cooking Time: 1 hour | Yield: 4-6 servings |
 +-----------------------+----------------------+---------------------+
 
-Source: `Cooks
-Illustrated <https://www.cooksillustrated.com/recipes/5871-creamy-leek-potato-soup>`__
-
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/5871-creamy-leek-potato-soup>`__
 
 Ingredients
 -----------
@@ -2094,8 +2152,7 @@ Beef Barley Soup with Mushrooms and Thyme
 |                        | Soup Time: 1 hours     |                    |
 +------------------------+------------------------+--------------------+
 
-Source: `Cooks
-Illustrated <https://www.cooksillustrated.com/recipes/770-beef-barley-soup-with-mushrooms-and-thyme>`__
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/770-beef-barley-soup-with-mushrooms-and-thyme>`__
 
 
 Ingredients
@@ -2177,8 +2234,7 @@ Farmhouse Vegetable and Barley Soup
 | Prep Time: 30 minutes | Cooking Time: 1 hours | Yield: 6-8 servings |
 +-----------------------+-----------------------+---------------------+
 
-Source: `Cooks
-Illustrated <https://www.cooksillustrated.com/recipes/6834-farmhouse-vegetable-and-barley-soup>`__
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/6834-farmhouse-vegetable-and-barley-soup>`__
 
 
 Ingredients

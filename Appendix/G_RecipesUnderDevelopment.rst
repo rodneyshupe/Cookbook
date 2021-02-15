@@ -1259,3 +1259,85 @@ Make Ahead
 The packets may be assembled several hours ahead of time and refrigerated
 until ready to cook. If the packets have been refrigerated for more than
 30 minutes, increase the cooking time by 2 minutes.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Tacos Two Ways
+==============
+
+Ingedients
+----------
+
+Chicken
+^^^^^^^
+
+- 1/2 cup fresh navel orange juice
+- 2 teaspoons fresh orange zest
+- 2 tablespoons fresh lemon juice
+- 1 teaspoon lemon zest
+- 2 tablespoons fresh lime juice
+- 1/2 teaspoons lime zest
+- 1/4 cup olive oil
+- 3 tablespoons chopped shallot or red onion
+- 1 tablespoon minced fresh garlic
+- 1 tablespoon chopped fresh rosemary (or 1 tsp dried)
+- 2 teaspoons dijon mustard
+- 2 teaspoons honey
+- 1 1/2 teaspoon salt, or to taste
+- 1/2 teaspoon freshly ground black pepper.
+- 6 boneless skinless chicken thighs
+
+Salsa
+^^^^^
+- Raw tomatillos
+- avocado
+- 2 serrano pepper
+- garlic
+- the juice of 4 limes
+- bunch of coriander
+
+
+
+Directions
+----------
+
+1. In a mixing bowl whisk together all ingredients except chicken until
+   well combined.
+2. Place chicken in a gallon size resealable bag or dish.  Pour marinade
+   over chicken. Transfer to refrigerator and let rest at least 1 hour and
+   up to 6 hours.
+3. Preheat a grill over medium-high heat. Remove chicken from marinade and
+   cook on grill until center registers 165 degrees in center of thickest
+   portion, turning once halfway through cooking (reduce grill temperature
+   as needed if chicken is browning too quickly).
+4. Let chicken rest 5 minutes before serving. Chop into bite size pieces.
+5. For the taco, go chicken, some thinly sliced onion, coriander and douse
+   with salsa.
+
+
+Mushroom/Corn/Potatoes
+^^^^^^^^^^^^^^^^^^^^^^
+Potatoes (fingerling are best, small ones)
+Cook the corn and then the potatoes in boiling water with salt.
+Cook the mushrooms (I used oyster, it was ok - lobster are better when
+they're in season) in a pan with thyme.
+
+Mix potatoes, mushrooms and corn in a bowl with butter, mash the potatoes
+a bit so the bits fit in tacos. Put a few tablespoons of the mix in the
+tortillas (warmed up), somewhat try to close them (for best results,
+wooden clothespins soaked in water for 30+ minutes) and grill them a few
+minutes on both sides (here again, I used the broiler). Then douse with salsa.
+
+Salsa
+^^^^^
+For the salsa, I did something fancy here. Morita and Cascabel peppers
+(only a few) toasted with garlic, cumin seeds and sunflower seeds
+(pumpkin seeds are better but couldn't find any) and tomatillos, cook
+until tomatillos break apart and blend the lot with white vinegar (just
+a little bit).
