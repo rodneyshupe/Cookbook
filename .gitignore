@@ -1,4 +1,5 @@
 .DS_Store
+.vscode
 rst2pdf_default_styles.style
 *.md
 *.build_temp
