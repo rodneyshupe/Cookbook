@@ -1616,7 +1616,13 @@ Directions
    the seeds. Blend remaining ingredients in a 1 pint (16oz) jar.
 2. Cover and ferment for 1 day and up to a week.
 
-----
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Homemade Dijon Mustard
 ======================
@@ -1659,6 +1665,13 @@ Directions
 5. Alternatively, allow the jars to cool and store in the refrigerator for
    up to three months.
 
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Garlic Chilli Oil
 =================
