@@ -283,6 +283,7 @@ Source: `Aussie BBQ Forum - Captain Cook <https://www.aussiebbq.info/forum/viewt
 
 Ingredients
 -----------
+
 - 3 to 4 pound (1.4 to 1.8kg) Chicken
 - 1/4 cup salt
 - 1/4 cup brown sugar
