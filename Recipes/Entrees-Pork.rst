@@ -1238,7 +1238,7 @@ This recipe requires seasoning and refrigerating the pork belly for at
 least 12 hours before cooking. Be sure to ask for a flat, rectangular
 center-cut section of skin-on pork belly that's 1 1/2 inches thick with
 roughly equal amounts of meat and fat. Serve the meat in small portions
-with our `Spicy Mustard Sauce<#spicy-mustard-sauce>`__,
-`Sweet and Sour Chile Sauce<#sweet-and-sour-chile-sauce>`__, or
-`Tangy Hoisin Sauce<#tangy-hoisin-sauce>`__, plus white rice and steamed
+with our `Spicy Mustard Sauce <#spicy-mustard-sauce>`__,
+`Sweet and Sour Chile Sauce <#sweet-and-sour-chile-sauce>`__, or
+`Tangy Hoisin Sauce <#tangy-hoisin-sauce>`__, plus white rice and steamed
 greens or boiled potatoes and salad.
