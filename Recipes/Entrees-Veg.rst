@@ -228,3 +228,34 @@ Directions
 6. Add sweet potatoes and 2 cups of spinach if using. Mix in until spinach
    is wilted.
 7. Serve over a grain or cauliflower rice and top with cilantro.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Poblano con queso - Tacos
+=========================
+
+Ingredients
+-----------
+
+- 1 large poblano
+- Mexican Manchego Cheese (substitute: Monterey Jack)
+- Salt
+
+Directions
+----------
+
+1. Cut the top off the poblano and remove the stem and insides. Add in a
+   large block of manchego cheese (don’t skimp!).
+2. Over a charcoal grill, gas stove or under the broiler, roast the poblano 
+   until charred completely and slightly softened.
+3. Roughly dice the poblano and cheese.
+4. Heat a pan over medium heat, add the diced poblano and cheese. Cook until 
+   completely melted and you get a beautiful string pull.
+5. Add the filling to fresh tortillas. Add salsa, pickled onions, and any
+   other desired toppings.
