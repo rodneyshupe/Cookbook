@@ -905,6 +905,59 @@ Directions
 
    <p style="page-break-before: always"/>
 
+Simple Pizza Sauce
+==================
+
+Ingredients
+-----------
+
+- 28 oz can whole peeled tomatoes
+- 3 tbsp butter
+- 2 cloves garlic, peeled and smashed
+- 1/4 onion 1 piece not chopped
+- 1 teaspoon dried oregano
+- 1/4 teaspoon red pepper flakes
+- Salt to taste
+
+Directions
+----------
+
+1. Add the can of tomatoes, butter, garlic, onion, oregano, red pepper, and a small 
+   pinch of salt to a saucepan. Stir to combine. Set heat to medium-low and let cook
+   undisturbed for 15 minutes. Stir once and let cook for another 15 minutes.
+2. Blend the sauce (optional). Taste the sauce, add salt if needed.  (Sauce can be 
+   refrigerated for up to a week.)
+
+----
+
+No Cook Pizza Sauce
+===================
+
+Ingredients
+-----------
+
+- 1 cup canned crushed tomatoes
+- 1 tablespoon extra-virgin olive oil
+- 1 tablespoon chopped fresh basil
+- 1 garlic clove, minced
+- 1 teaspoon dried oregano
+- 1 teaspoon dried basil
+- 1/2 teaspoon sugar
+- 1/2 teaspoon pepper
+- 1/4 teaspoon salt
+
+Directions
+----------
+1. Combine all ingredients in bowl. (Sauce can be refrigerated for up to 24 hours.)
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Simple Tomato Sauce
 ===================
 
