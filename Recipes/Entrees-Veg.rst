@@ -259,5 +259,5 @@ Directions
    completely melted and you get a beautiful string pull.
 5. Add the filling to fresh tortillas. Add `Salsa Roja <#salsa-roja>`__ or 
    `Chilli Tomatillo Salsa <#chilli-tomatillo-salsa>`__,
-   `Pickled Onions & Habaneros <#pickled-onions---habaneros>`__, and any
+   `Pickled Onions & Habaneros <#pickled-onions-habaneros>`__, and any
    other desired toppings.
