@@ -257,5 +257,7 @@ Directions
 3. Roughly dice the poblano and cheese.
 4. Heat a pan over medium heat, add the diced poblano and cheese. Cook until 
    completely melted and you get a beautiful string pull.
-5. Add the filling to fresh tortillas. Add salsa, pickled onions, and any
+5. Add the filling to fresh tortillas. Add `Salsa Roja <#salsa-roja>`__ or 
+   `Chilli Tomatillo Salsa <#chilli-tomatillo-salsa>`__,
+   `Pickled Onions & Habaneros <#pickled-onions---habaneros>`__, and any
    other desired toppings.
