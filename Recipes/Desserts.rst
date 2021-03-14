@@ -755,8 +755,7 @@ Directions
 Skillet Apple Crisp
 ===================
 
-Source: `Cooks
-Illustrated <https://www.cooksillustrated.com/recipes/6146-skillet-apple-crisp>`__
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/6146-skillet-apple-crisp>`__
 
 Serves: 6 to 8
 

@@ -1019,8 +1019,7 @@ Quick Bacon and Corn Chowder
 | Prep Time: 10 minutes | Cooking Time: 30 minutes | Yield: 4 servings |
 +-----------------------+--------------------------+-------------------+
 
-Source: `Cooks
-Country <https://www.cookscountry.com/recipes/4297-quick-corn-chowder-with-bacon>`__
+Source: `Cooks Country <https://www.cookscountry.com/recipes/4297-quick-corn-chowder-with-bacon>`__
 
 
 Ingredients
@@ -1436,8 +1435,7 @@ float them on top of the soup.
 Shrimp Bisque
 =============
 
-Source: `Cooks
-Illustrated <https://www.cooksillustrated.com/recipes/735-rich-and-velvety-shrimp-bisque>`__
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/735-rich-and-velvety-shrimp-bisque>`__
 
 +-----------------------+----------------------+---------------+--------------+
 | Prep Time: 30 minutes | Cooking Time: 1 hour | Servings: 4-6 | Makes 6 cups |
@@ -1512,8 +1510,7 @@ Directions
 Mushroom Bisque
 ===============
 
-Source: `Cooks
-Illustrated <https://www.cooksillustrated.com/recipes/8111-mushroom-bisque>`__
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/8111-mushroom-bisque>`__
 
 +-----------------------+----------------------+----------------+
 | Prep Time: 30 minutes | Cooking Time: 1 hour | Servings: 6-10 |
@@ -1751,8 +1748,7 @@ Creamy Green Pea Soup
 | minutes           | minutes              | servings                  |
 +-------------------+----------------------+---------------------------+
 
-Source: `Cooks
-Illustrated <https://www.cooksillustrated.com/recipes/568-creamy-green-pea-soup>`__
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/568-creamy-green-pea-soup>`__
 
 
 Ingredients
@@ -1864,8 +1860,7 @@ Butternut Squash Soup
 | Prep Time: 15 minutes | Cooking Time: 1 1/4 hours | Yield: 6-8 servings |
 +-----------------------+---------------------------+---------------------+
 
-Source: `Cooks
-Illustrated <https://www.cooksillustrated.com/recipes/6686-butternut-squash-soup>`__
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/6686-butternut-squash-soup>`__
 
 
 Ingredients
@@ -1922,8 +1917,7 @@ Silky Butternut Squash Soup
 | minutes          | minutes             | servings                   |
 +------------------+---------------------+----------------------------+
 
-Source: `Cooks
-Illustrated <https://www.cooksillustrated.com/recipes/489-silky-butternut-squash-soup>`__
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/489-silky-butternut-squash-soup>`__
 
 
 Ingredients
@@ -2005,8 +1999,7 @@ Creamy Mushroom Soup
 | Prep Time: 30 minutes | Cooking Time: 1 hour | Yield: 8 cups 6-8 servings |
 +-----------------------+----------------------+----------------------------+
 
-Source: `Cooks
-Illustrated <https://www.cooksillustrated.com/recipes/315-creamy-mushroom-soup>`__
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/315-creamy-mushroom-soup>`__
 
 
 Ingredients
@@ -2081,8 +2074,7 @@ Wild Rice and Mushroom Soup
 | Prep Time: 30 minutes | Cooking Time: 2 1/4 hours | Yield: 6-8 servings |
 +-----------------------+---------------------------+---------------------+
 
-Source: `Cooks
-Illustrated <https://www.cooksillustrated.com/recipes/7283-wild-rice-and-mushroom-soup>`__
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/7283-wild-rice-and-mushroom-soup>`__
 
 
 Ingredients
@@ -2297,8 +2289,7 @@ Broccoli-Cheese Soup
 | Prep Time: 15 minutes | Cooking Time: 1 hour | Yield: 6-8 servings |
 +-----------------------+----------------------+---------------------+
 
-Source: `Cooks
-Illustrated <https://www.cooksillustrated.com/recipes/6393-broccoli-cheese-soup>`__
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/6393-broccoli-cheese-soup>`__
 
 
 Ingredients
@@ -2356,8 +2347,7 @@ Cauliflower Soup
 | Prep Time: 15 minutes | Cooking Time: 1 1/2 hours | Yield: 4-6 servings |
 +-----------------------+---------------------------+---------------------+
 
-Source: `Cooks
-Illustrated <https://www.cooksillustrated.com/recipes/7491-cauliflower-soup>`__
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/7491-cauliflower-soup>`__
 
 
 Ingredients
@@ -2467,8 +2457,7 @@ Quick Asian-Style Dumpling Soup
 | Prep Time: 15 minutes | Cooking Time: 30 minutes | Yield: 4 servings |
 +-----------------------+--------------------------+-------------------+
 
-Source: `Cooks
-Country <https://www.cookscountry.com/recipes/5833-asian-beef-and-noodle-soup>`__
+Source: `Cooks Country <https://www.cookscountry.com/recipes/5833-asian-beef-and-noodle-soup>`__
 
 Instructions
 ------------
@@ -2571,8 +2560,7 @@ Asian Beef and Noodle Soup
 | Prep Time: 15 minutes | Cooking Time: 15 minutes | Yield: 4 servings |
 +-----------------------+--------------------------+-------------------+
 
-Source: `Cooks
-Country <https://www.cookscountry.com/recipes/5833-asian-beef-and-noodle-soup>`__
+Source: `Cooks Country <https://www.cookscountry.com/recipes/5833-asian-beef-and-noodle-soup>`__
 
 
 Instructions
@@ -2611,9 +2599,7 @@ Directions
 Left Over Chicken Ramen
 =======================
 
-Source: `Food Busker / Jamie
-Oliver <https://www.youtube.com/watch?v=xqFo59YveXo>`__
-
+Source: `Food Busker / Jamie Oliver <https://www.youtube.com/watch?v=xqFo59YveXo>`__
 
 Ingredients
 -----------

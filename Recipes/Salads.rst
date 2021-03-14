@@ -1022,7 +1022,7 @@ Directions
 
 #.  Heat a skillet, add sesame oil. Season prawns in a bowl with sambel, salt, and pepper. Sear prawns for approx. 2 minutes or until the prawns have turned colour and firmed up.
 #. Add white wine, lemon juice, and reduce for 1 minute. Put aside to cool.
-#. In a large bowl place Mache` lettuce, onions, nuts, tomatoes, yellow peppers, mangoes, and Thai basil. Season.
+#. In a large bowl place Mache' lettuce, onions, nuts, tomatoes, yellow peppers, mangoes, and Thai basil. Season.
 #. In a small bowl add lime juice, olive oil, and red wine vinegar, whisk.
 #. Slowly drizzle vinaigrette into salad, toss gently.
 #. Portion onto 4 plates and arrange chilli prawns around salad.

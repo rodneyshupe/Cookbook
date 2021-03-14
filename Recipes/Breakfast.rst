@@ -21,8 +21,7 @@ Breakfast
 Almond Granola with Dried Fruit
 ===============================
 
-Source: `Cooks
-Illustrated <https://www.cooksillustrated.com/recipes/6977-almond-granola-with-dried-fruit>`__
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/6977-almond-granola-with-dried-fruit>`__
 
 Ingredients
 -----------
@@ -64,8 +63,7 @@ Directions
 Classic Waffles
 ===============
 
-Source: `Cooks
-Illustrated <https://www.cooksillustrated.com/recipes/9473-perfect-poached-eggs>`__
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/9473-perfect-poached-eggs>`__
 
 Ingredients
 -----------
@@ -110,8 +108,7 @@ Directions
 Poached eggs
 ============
 
-Source: `Cooks
-Illustrated <https://www.cooksillustrated.com/recipes/9473-perfect-poached-eggs>`__
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/9473-perfect-poached-eggs>`__
 
 Ingredients
 -----------

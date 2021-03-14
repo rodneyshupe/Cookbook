@@ -39,8 +39,7 @@ Ingredients
 -  6 chicken thighs
 -  1/4 cup `Basic Barbecue Rub <#basic-barbecue-rub>`__
 -  6 tablespoons unsalted butter
--  1/2 cup `Kansas City Style Sweet and Smoky Barbecue
-   Sauce <#kansas-city-style-sweet-and-smoky-barbecue-sauce>`__
+-  1/2 cup `Kansas City Style Sweet and Smoky Barbecue Sauce <#kansas-city-style-sweet-and-smoky-barbecue-sauce>`__
 
 Directions
 ----------
@@ -1032,8 +1031,7 @@ Oven-Fried Chicken
 | Prep Time: 15 minutes | Marinate Time: 1 hour + | Cook: 45 minutes | Servings: 8 |
 +-----------------------+-------------------------+------------------+-------------+
 
-Source: `Cooks
-Country <https://www.cookscountry.com/recipes/2320-oven-fried-chicken>`__
+Source: `Cooks Country <https://www.cookscountry.com/recipes/2320-oven-fried-chicken>`__
 
 Ingredients
 -----------
@@ -1104,8 +1102,7 @@ Indoor Pulled Chicken
 | Prep Time: 10 minutes | Cooking Time: 1 hour | Yield: 6-8 servings |
 +-----------------------+----------------------+---------------------+
 
-Source: `Cooks
-Illustrated <https://www.cooksillustrated.com/recipes/10594-indoor-pulled-chicken-with-sweet-and-tangy-barbecue-sauce#>`__
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/10594-indoor-pulled-chicken-with-sweet-and-tangy-barbecue-sauce#>`__
 
 Ingredients
 -----------
@@ -1190,8 +1187,7 @@ South Carolina Mustard Barbecue Sauce
 Chicken and Sausage Gumbo
 =========================
 
-Source: `Cook’s
-Illustrated <https://www.cooksillustrated.com/recipes/9384-chicken-and-sausage-gumbo#>`__
+Source: `Cook’s Illustrated <https://www.cooksillustrated.com/recipes/9384-chicken-and-sausage-gumbo#>`__
 
 Ingredients
 -----------

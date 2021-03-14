@@ -338,8 +338,7 @@ month.
 Red Wine-Mushroom Pan Sauce
 ===========================
 
-Source: `Cooks
-Illustrated <https://www.cooksillustrated.com/recipes/3565-red-wine-mushroom-pan-sauce>`__
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/3565-red-wine-mushroom-pan-sauce>`__
 
 
 Ingredients

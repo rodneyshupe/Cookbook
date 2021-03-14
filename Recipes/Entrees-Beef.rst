@@ -969,8 +969,7 @@ Directions
 Pan-Seared Flank Steak with Mustard-Chive Butter
 ================================================
 
-Source: `Cooks
-Illustrated <https://www.cooksillustrated.com/recipes/8495-pan-seared-flank-steak-with-mustard-chive-butter>`__
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/8495-pan-seared-flank-steak-with-mustard-chive-butter>`__
 
 Ingredients
 -----------
@@ -1250,8 +1249,7 @@ Directions
 Kalbi Korean-style short ribs (CI version)
 ============================================
 
-Source: `Cooks
-Illustrated <https://www.cooksillustrated.com/recipes/3570-korean-grilled-short-ribs-for-gas-grill-kalbi>`__
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/3570-korean-grilled-short-ribs-for-gas-grill-kalbi>`__
 
 Ingredients
 -----------

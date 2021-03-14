@@ -79,8 +79,7 @@ Ingredients
 
 -  2 racks pork ribs (I prefer to use side ribs)
 -  1 cup `Basic Barbecue Rub <#basic-barbecue-rub>`__
--  1 cup `Kansas City Style Sweet and Smoky Barbecue
-   Sauce <#kansas-city-style-sweet-and-smoky-barbecue-sauce>`__
+-  1 cup `Kansas City Style Sweet and Smoky Barbecue Sauce <#kansas-city-style-sweet-and-smoky-barbecue-sauce>`__
 -  2 cups wood chips, preferably apple wood, soaked in 2 cups apple
    cider for 1 hour then drained
 -  4 tbsp butter, softened

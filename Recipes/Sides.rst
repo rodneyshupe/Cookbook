@@ -278,8 +278,7 @@ Potato Galette
 | Prep Time: 15 minutes | Cooking Time: 50 minutes | Yield: 6-8 servings |
 +-----------------------+--------------------------+---------------------+
 
-Source: `Cooks
-Illustrated <https://www.cooksillustrated.com/recipes/36-scalloped-potatoes>`__
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/36-scalloped-potatoes>`__
 
 Ingredients
 -----------
@@ -2178,8 +2177,7 @@ coat. Serve immediately.
 Fennel-Tangerine Slaw
 =====================
 
-Source: `Cooks
-Illustrated <https://www.cooksillustrated.com/recipes/1370-fennel-tangerine-slaw>`__
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/1370-fennel-tangerine-slaw>`__
 
 
 Ingredients

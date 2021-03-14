@@ -826,23 +826,7 @@ Directions
 Broiled Pork Tenderloin for Two
 ===============================
 
--  Source: `Cooks
-   Illustrated <https://www.cooksillustrated.com/recipes/8032-broiled-pork-tenderloin-for-two>`__
-   Recipes for broiled pork tenderloin promise roasts with well-browned
-   exteriors and rosy-pink, juicy centers, but the results are more
-   likely pallid, overcooked meat or spottily browned roasts with
-   undercooked interiors. Using a disposable aluminum pan to cook the
-   pork reflected the radiant heat of the broiler toward the pork,
-   enhancing browning and ensuring that the interior didn’t overcook by
-   the time deep browning had been achieved. Since some ovens preheat
-   faster than others and are likely to cycle off if preheated at such
-   an intense heat for too long, we evened the playing field by
-   preheating the oven to 325°F before putting in the roast and turning
-   on the broiler. And finally, because of the broiler’s intense heat,
-   we found that there was a much bigger carryover cooking effect, so we
-   pulled the roast from the oven when it hit 125°F to 130°F instead of
-   our usual 140°F to ensure that it was a perfect medium-rare after its
-   10-minute rest
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/8032-broiled-pork-tenderloin-for-two>`__
 
 Ingredients
 -----------

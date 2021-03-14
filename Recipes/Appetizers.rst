@@ -420,8 +420,8 @@ Directions
    crispy, 30 to 60 seconds longer. Flip and cook until deep golden
    brown and crispy, 30 to 60 seconds. Transfer to wire rack. Repeat
    with remaining 3 tablespoons vegetable oil and remaining pancake. Cut
-   each pancake into 8 wedges and serve, passing `dipping
-   sauce <#asian-dipping-sauce>`__ separately.
+   each pancake into 8 wedges and serve, passing
+   `dipping sauce <#asian-dipping-sauce>`__ separately.
 
 Make Ahead
 ----------
