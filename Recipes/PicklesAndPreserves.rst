@@ -668,7 +668,135 @@ Directions
 1. Add the sliced red onion, habanero, and cilantro to a large bowl.
 2. Add the lime juice, salt, and sugar, if using. Mix to combine and store in
    the fridge (will last at least a week and taste better as  it sits!)
- 
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Burnt Onion Jam
+===============
+
++------------------+-------------------+-------------------+
+| Prep: 10 minutes | Total: 20 minutes | Yield: 1 1/4 cups |
++------------------+-------------------+-------------------+
+
+Source: `Team Tasting Table <https://www.tastingtable.com/cook/recipes/burnt-onion-jam-recipe>`__
+
+You need only 3 ingredients.
+
+Ingredients
+-----------
+
+- 2 pounds (4 medium) red onions, sliced into 1/4-inch rings
+- 1/4 cup balsamic vinegar
+- Kosher salt, to taste
+
+Directions
+----------
+
+1. Preheat the broiler on high. On a sheet pan, arrange the onion rings
+   in a single layer. Broil until charred completely, 9 to 11 minutes.
+2. Let cool slightly, then transfer to a food processor and pulse, slowly
+   drizzling in the vinegar until a thick but coarse jam forms. Season with
+   salt and use immediately or store in a sealable container for up to 1
+   week.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Hot Pepper Jelly
+================
+
++------------------+-------------------+---------------+
+| Prep: 10 minutes | Total: 30 minutes | Yield: 4 cups |
++------------------+-------------------+---------------+
+
+Source: `Team Tasting Table <https://www.tastingtable.com/cook/recipes/hot-pepper-jelly-recipe-summer-spicy-chile-canning>`__
+
+This sweet and spicy pepper jelly is so much better homemade.
+
+Ingredients
+-----------
+
+- 1 cup apple cider vinegar
+- 4 jalapeños, seeded and finely chopped
+- 3 poblano peppers, seeded and finely chopped
+- 1 red bell pepper, seeded and finely chopped
+- 3 cups sugar
+- 1 teaspoon kosher salt
+- 1 tablespoon pectin
+
+Directions
+----------
+
+1. In a blender, combine the vinegar and peppers, and pulse until the
+   peppers are finely chopped, speckled throughout the liquid. Transfer to
+   a medium saucepan, and add the sugar and salt. Bring to a boil over
+   medium-high heat and let cook until the sugar fully dissolves, 5
+   minutes.
+2. Sprinkle the pectin over the mixture and continue to cook until fully 
+   incorporated, 1 to 2 minutes more.
+3. Divide the jelly between 2 mason jars, pressing the mixture down until 
+   there is only about 1/2 inch of space left at the top of each jar. Wipe
+   the rim then affix the lid on each jar.
+4. Bring a stockpot filled with enough water for the jars to be completely 
+   submerged to a boil. Arrange the jars on a wire rack and lower into the
+   water. Boil for about 15 minutes.
+5. Carefully remove the jars and let them cool to room temperature on a
+   folded towel, making sure not to disturb the lids. Check the seal after
+   24 hours; it should not flex when pressed in the center. The jelly will
+   keep for up to 1 year.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Green Onion Jam
+===============
+
++------------------+-----------------+--------------+
+| Prep: 10 minutes | Total: 1 minute | Yield: 1 cup |
++------------------+-----------------+--------------+
+
+Source: `Team Tasting Table <https://www.tastingtable.com/cook/recipes/spring-onion-jam-recipe-sherry-vinegar>`__
+
+Your new favorite condiment.
+
+Ingredients
+-----------
+
+- 1/2 cup (1 stick) unsalted butter
+- 1 pound green onions, thinly sliced
+- 3 tablespoons extra-virgin olive oil, divided
+- 1 tablespoon sherry vinegar
+- 3 tablespoons sugar
+- 11/2 teaspoons flake kosher sea salt
+
+Directions
+----------
+
+1. 1. In a large skillet, melt the butter over medium heat. Add the onions
+   and 1 tablespoon of the oil, and reduce the heat to low. Cook,
+   uncovered, until the onions soften, about 10 minutes. Add the vinegar,
+   sugar, salt and remaining 2 tablespoons of oil, and stir to incorporate.
+   Cook until the onions turn deeply golden and fragrant, about 40 minutes,
+   stirring every 10 minutes. 
+2. Remove from the heat and allow to cool to room temperature before 
+   transferring the jam to a mason jar. Seal and refrigerate. Use or keep
+   in the refrigerator for up to 1 month.
 
 .. raw:: pdf
 
@@ -711,3 +839,4 @@ Variation Pectin from Oranges or Lemons
 In citrus fruits, most pectin sites in the white membrane just under the
 peel. By cooking the peel with the seeds and fruit membrane you can make
 your own pectin at home to use in recipes for jam or marmalade
+
