@@ -240,6 +240,8 @@ Directions
 Poblano con queso - Tacos
 =========================
 
+Source: `Ethan Chlebowski <https://www.ethanchlebowski.com/cooking-techniques-recipes/poblano-con-queso-tacos>`__
+
 Ingredients
 -----------
 
