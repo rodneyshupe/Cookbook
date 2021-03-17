@@ -894,7 +894,6 @@ Ingredients
 -  2 teaspoons kosher salt
 -  4 tablespoon drippings from beef roast (substitute veg oil)
 
-
 Directions
 ----------
 1. Place cast iron pan in oven and heat to 400°F.
@@ -903,14 +902,7 @@ Directions
 3. Remove pan from oven and add remaining 2 tablespoons of drippings to pan.
    Pour batter into the pan and cook for 30 minutes.
 
-
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Pop Overs
 =========
@@ -923,7 +915,6 @@ Ingredients
 -  1 1/2 teaspoons kosher salt
 -  2 large eggs, at room temperature
 -  1 cup whole milk, at room temperature
-
 
 Directions
 ----------
@@ -939,7 +930,7 @@ Directions
 
 .. raw:: pdf
 
-   OddPageBreak recipePage
+   PageBreak recipePage
 
 .. raw:: html
 
