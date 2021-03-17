@@ -1358,6 +1358,11 @@ Ingredients
 
 Low sodium soy sauce, sweet soy sauce, green onions, lime juice, ginger roots, sugar, black pepper, black beans.
 
+- 1 part base ingredients
+- 1 part acidity
+- 1 part sweetness
+- 1/4 part aromatics 
+
 Savoury Jam Notes
 -----------------
 
