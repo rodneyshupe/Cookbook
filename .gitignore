@@ -6,3 +6,4 @@ rst2pdf_default_styles.style
 *.temp
 *.tmp
 temp_substitutions.rst
+.python-version

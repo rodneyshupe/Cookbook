@@ -1358,11 +1358,12 @@ Ingredients
 
 Low sodium soy sauce, sweet soy sauce, green onions, lime juice, ginger roots, sugar, black pepper, black beans.
 
-- 1 part base ingredients
-- 1 part acidity
-- 1 part sweetness
-- 1/4 part aromatics 
-
+- 1 part base ingredients - green onions & black pepper
+- 1 part acidity - lime juice
+- 1 part sweetness - sweet soysauce & sugar
+- 1/4 part aromatics - ginger root
+- salt - soysuace, blackbean paste
+  
 Savoury Jam Notes
 -----------------
 
@@ -1386,7 +1387,7 @@ with:
 "Jam implies sweetness, so to make it savory, we have to balance the
 sweetness with sour. Any acid is good for that," Bird says.
 
-*Don't forget salt. *
+*Don't forget salt.*
 Adding salt to a jam base is necessary to round out the sweet and sour
 flavors. To avoid oversalting a jam that simmers and reduces for hours,
 Bird weighs the jam ingredients before simmering, and then adds .6 percent
