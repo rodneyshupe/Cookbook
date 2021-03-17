@@ -1363,18 +1363,23 @@ Low sodium soy sauce, sweet soy sauce, green onions, lime juice, ginger roots, s
 - 1 part sweetness - sweet soysauce & sugar
 - 1/4 part aromatics - ginger root
 - salt - soysuace, blackbean paste
-  
+
+Directions
+----------
+1. TBD
+
 Savoury Jam Notes
 -----------------
 
-*Pick two to three primary flavors.*
+**Pick two to three primary flavors.**
 
 When conceptualizing your savory jam, pick two or three ingredients to
 serve as your base flavor and build the recipe from there. "You can jam
 anything," Bird explains. "Black pepper and green onions? Jam it! Tomato
 and garlic? Jam it! Porcini and thyme? Jam it!"  
 
-*Stick to a tried-and-true ratio.*
+**Stick to a tried-and-true ratio.**
+
 There's no set-in-stone recipe for savory jams, but Bird's classic ratio
 will set you up for success. By volume, all of Bird's savory jams begin
 with:
@@ -1387,7 +1392,8 @@ with:
 "Jam implies sweetness, so to make it savory, we have to balance the
 sweetness with sour. Any acid is good for that," Bird says.
 
-*Don't forget salt.*
+**Don't forget salt.**
+
 Adding salt to a jam base is necessary to round out the sweet and sour
 flavors. To avoid oversalting a jam that simmers and reduces for hours,
 Bird weighs the jam ingredients before simmering, and then adds .6 percent
@@ -1398,7 +1404,8 @@ and acidic and sweet components weighs 1,000 grams, add 6 grams of salt to
 the mixture (1,000 x .006 = 6). Yes, math is hard. But it's a proven
 formula.
 
-*Get creative with ingredients.*
+**Get creative with ingredients.**
+
 Keeping the ratio in mind, there's no reason why you shouldn't get
 creative with your ingredients. Instead of white sugar, add honey, maple
 syrup or brown sugar for sweetness. "Try lime juice, orange juice or
@@ -1407,7 +1414,8 @@ salt," Bird recommends. "Shallots and garlic always add a good amount of
 flavor to any savory jam, but don't be afraid to finish with fresh herbs,
 or spices as well."
 
-*Reduce, reduce, reduce.*
+**Reduce, reduce, reduce.**
+
 The gelling agent for most sweet jams is pectin, a gelatinous starch
 found naturally in high concentrations in firm fruits like apples and
 quince. Since savory jams may not include high-pectin fruits, a similar
