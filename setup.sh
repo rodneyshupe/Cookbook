@@ -4,6 +4,8 @@
 #pyenv install 3.7.10
 python -m pip install --upgrade pip
 python -m pip install rst2pdf
+python -m pip install rst2html
+python -m pip install rst2html5
 
 # TODO: need to make this cross platform.
 brew install calibre
