@@ -157,15 +157,17 @@ Directions
 4. Return to medium high heat, add wine and reduce till wine is almost
    gone.
 5. Add pasta and cream.  Continue to heat until cream has reduce until 
-   sauce has thickened. Finish with lemon and herbs.  Top with arugula
-   and serve.
+   sauce has thickened. Stir in lemon and herbs.  Top with arugula and
+   serve.
 
 Notes
 -----
 
 - Make Ahead: Cook pasta and store in fridge, can be done one or two
-  days in advance. Pasta can be made through step 4, then add cream and
-  refrigerate for up to 2 days or frozen up to a month.
+  days in advance. Pasta can be made through step 4, then add cream
+  and refrigerate for up to 2 days or frozen up to a month.
+- Vegitarian: Remove bacon and replace with 2-3 tablespoons vegetable
+  oil in step 2.  Add 1 cup cooked peas with lemon and herbs.
 
 .. raw:: pdf
 
