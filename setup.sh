@@ -1,11 +1,24 @@
-#!/bin/env bash
+#!/usr/bin/env bash
 
 # TODO: check if pyenv is installed if so install latest python3
-#pyenv install 3.7.10
+get_version() {
+    if command -v pyenv 1>/dev/null 2>&1; then
+        local query=${1:-[0-9]}
+        [[ -z $query ]] && query=$DEFAULT_QUERY
+        pyenv install --list \
+            | grep -vE "(^Available versions:|-src|dev|rc|alpha|beta|(a|b)[0-9]+)" \
+            | grep -E "^\s*$query" \
+            | sed 's/^\s\+//' \
+            | tail -1
+    fi
+}
+
+if command -v pyenv 1>/dev/null 2>&1; then
+    pyenv install $(get_version)
+fi
+
 python -m pip install --upgrade pip
-python -m pip install rst2pdf
-python -m pip install rst2html
-python -m pip install rst2html5
+python -m pip install rst2pdf rst2html rst2html5
 
 # TODO: need to make this cross platform.
 brew install calibre
