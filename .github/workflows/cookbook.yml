@@ -30,7 +30,7 @@ jobs:
         export DOCUMENT_VERSION=$(cat $REVISION_MAJOR_NUMBER_FILE).$(cat $REVISION_MINOR_NUMBER_FILE)
     - name: Test version
       run: |
-        echo "VERSION: $DOCUMENT_VERSION"
+        echo "VERSION: ${{ env.DOCUMENT_VERSION }}"
         exit -1
     - name: Set up Python 3.x
       uses: actions/setup-python@v2
