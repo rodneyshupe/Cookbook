@@ -22,9 +22,9 @@ jobs:
         name: revision-numbers
     - name: The job has failed
       if: ${{ failure() }}
-        run: |
-          if ! test -f $REVISION_MAJOR_NUMBER_FILE; then echo 3 > $REVISION_MAJOR_NUMBER_FILE; fi
-          if ! test -f $REVISION_MINOR_NUMBER_FILE; then echo 0 > $REVISION_MINOR_NUMBER_FILE; fi
+      run: |
+        if ! test -f $REVISION_MAJOR_NUMBER_FILE; then echo 3 > $REVISION_MAJOR_NUMBER_FILE; fi
+        if ! test -f $REVISION_MINOR_NUMBER_FILE; then echo 0 > $REVISION_MINOR_NUMBER_FILE; fi
     - name: Debug directory
       run: ls -al
     - name: Update revision and build temp substitution file
