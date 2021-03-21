@@ -21,19 +21,6 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: '3.x'
-    - name: Update revision and build temp substitution file
-      run: |
-        echo $SHELL
-        $SHELL --version
-        cat $REVISION_MINOR_NUMBER_FILE
-        if ! test -f $REVISION_MINOR_NUMBER_FILE; then echo 0 > $REVISION_MINOR_NUMBER_FILE; fi
-        if ! test -f $TEMP_SUBSTITUTION_FILE; then echo $(($(cat $REVISION_MINOR_NUMBER_FILE) + 1)) > $REVISION_MINOR_NUMBER_FILE; fi
-        cat $REVISION_MINOR_NUMBER_FILE
-        echo ".. |Date| replace:: $(date +%B\ %d\,\ %Y)"  > $TEMP_SUBSTITUTION_FILE
-        echo "  "  >> $TEMP_SUBSTITUTION_FILE
-        echo ".. |Revision| replace:: $(cat $REVISION_MAJOR_NUMBER_FILE).$(cat $REVISION_MINOR_NUMBER_FILE)" >> $TEMP_SUBSTITUTION_FILE
-        echo "  " >> $TEMP_SUBSTITUTION_FILE
-        cat $TEMP_SUBSTITUTION_FILE
     - name: Install apt dependencies
       run: |
         sudo apt-get update && sudo apt-get -y install plantuml libxml2-dev libxslt-dev python3-dev
@@ -46,6 +33,17 @@ jobs:
     - name: Install Calabre
       run: |
         sudo apt-get update && sudo apt-get -y install calibre
+    - name: Update revision and build temp substitution file
+      run: |
+        if ! test -f $REVISION_MINOR_NUMBER_FILE; then echo 0 > $REVISION_MINOR_NUMBER_FILE; fi
+        if ! test -f $TEMP_SUBSTITUTION_FILE; then echo $(($(cat $REVISION_MINOR_NUMBER_FILE) + 1)) > $REVISION_MINOR_NUMBER_FILE; fi
+        echo ".. |Date| replace:: $(date +%B\ %d\,\ %Y)"  > $TEMP_SUBSTITUTION_FILE
+        echo "  "  >> $TEMP_SUBSTITUTION_FILE
+        echo ".. |Revision| replace:: $(cat $REVISION_MAJOR_NUMBER_FILE).$(cat $REVISION_MINOR_NUMBER_FILE)" >> $TEMP_SUBSTITUTION_FILE
+        echo "  " >> $TEMP_SUBSTITUTION_FILE
+    - name: Set new version
+      run: |
+        echo ::set-env name=DOCUMENT_VERSION::$(cat $REVISION_MAJOR_NUMBER_FILE).$(cat $REVISION_MINOR_NUMBER_FILE)
     - name: Build pdf
       run: |
         rm -fR *.build_temp
@@ -85,15 +83,22 @@ jobs:
           --cover Cover.png \
           --max-toc-links 29 \
           --embed-all-fonts > /dev/null
+    - name: Check in Revision number files
+      uses: EndBug/add-and-commit@v7
+        with:
+          message: 'Update revision files'
+          add: 'revision-number-*.txt --force'
     - name: Tidy Up
       run: |
         rm -fR *.build_temp
         rm -f $TEMP_SUBSTITUTION_FILE
-    - name: Publish to release
-      run: |
-        echo "TODO"
+    - name: Tag and Release
+      uses: jasondavis303/tag-and-release-and-upload@v1.2.0
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        version: v${{ DOCUMENT_VERSION }}
+        assets: '[ "RodneyFavoriteRecipes.pdf", "RodneyFavoriteRecipes.epub" ]'
+        overwrite: false          
     - name: Cleanup
       run: |
         echo "TODO"
-
-    
