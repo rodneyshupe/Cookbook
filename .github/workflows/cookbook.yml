@@ -28,8 +28,6 @@ jobs:
         ls -al
         if ! test -f $REVISION_MAJOR_NUMBER_FILE; then echo 3 > $REVISION_MAJOR_NUMBER_FILE; fi
         if ! test -f $REVISION_MINOR_NUMBER_FILE; then echo 0 > $REVISION_MINOR_NUMBER_FILE; fi
-    - name: Debug directory
-      run: ls -al
     - name: Update revision and build temp substitution file
       run: |
         if ! test -f $REVISION_MINOR_NUMBER_FILE; then echo 0 > $REVISION_MINOR_NUMBER_FILE; fi
@@ -39,7 +37,7 @@ jobs:
         echo "  "  >> $TEMP_SUBSTITUTION_FILE
         echo ".. |Revision| replace:: $(cat $REVISION_MAJOR_NUMBER_FILE).$(cat $REVISION_MINOR_NUMBER_FILE)" >> $TEMP_SUBSTITUTION_FILE
         echo "  " >> $TEMP_SUBSTITUTION_FILE
-    - name: Version Announcment
+    - name: Debug - Version Number
       run: echo "Building Document version ${{ env.DOCUMENT_VERSION }}"
     - name: Set up Python 3.x
       uses: actions/setup-python@v2
@@ -111,10 +109,9 @@ jobs:
     - name: Save output files
       uses: actions/upload-artifact@v2
       with:
-        name: output-files
+        name: published-files
         path: |
           ${{ env.pdf }}
-          ${{ env.html }}
           ${{ env.epub }}
     - name: Tidy Up
       run: |
@@ -126,14 +123,27 @@ jobs:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         version: v${{ env.DOCUMENT_VERSION }}
         assets: '[ "${{ env.pdf }}", "${{ env.epub }}" ]'
-        overwrite: false          
-    #- name: Upload via SSH
-    #  uses: appleboy/scp-action@master
-    #  with:
-    #    host: ${{ secrets.SSH_VPS_HOST }}
-    #    username: ${{ secrets.SSH_VPS_USERNAME }}
-    #    port: ${{ secrets.SSH_VPS_PORT }}
-    #    key: ${{ secrets.SSH_VPS_KEY }}
-    #    source: "${{ env.pdf }}, ${{ env.epub }}"
-    #    target: "Cooking"
-    #    overwrite: true
+        overwrite: false
+  upload-ssh:
+    runs-on: ubuntu-latest
+    env:
+      pdf: RodneyFavoriteRecipes.pdf
+      epub: RodneyFavoriteRecipes.epub
+    steps:
+    - name: Download latest putput files.
+      uses: actions/download-artifact@v2
+      with:
+        name: published-files
+    - name: Debug - Check files.
+      run: ls -al
+    - name: Upload via SSH
+      uses: appleboy/scp-action@master
+      with:
+        host: ${{ secrets.SSH_VPS_HOST }}
+        username: ${{ secrets.SSH_VPS_USERNAME }}
+        port: ${{ secrets.SSH_VPS_PORT }}
+        key: ${{ secrets.SSH_VPS_KEY }}
+        source: "*"
+        target: "Cooking"
+        overwrite: true
+    # TODO: Add rclone mechnism
