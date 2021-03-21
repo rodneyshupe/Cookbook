@@ -3,7 +3,6 @@ on: [push]
 jobs:
   build:
     runs-on: ubuntu-latest
-    #continue-on-error: ${{ matrix.experimental }}
     env:
       input_rst_file: RodneyFavoriteRecipes.rst
       input_html_rst_file: RodneyFavoriteRecipes.html.rst
@@ -21,11 +20,11 @@ jobs:
       run: |
         if ! test -f $REVISION_MINOR_NUMBER_FILE; then echo 0 > $REVISION_MINOR_NUMBER_FILE; fi
         if ! test -f $TEMP_SUBSTITUTION_FILE; then echo $(($(cat $REVISION_MINOR_NUMBER_FILE) + 1)) > $REVISION_MINOR_NUMBER_FILE; fi
+        echo "DOCUMENT_VERSION=$(cat $REVISION_MAJOR_NUMBER_FILE).$(cat $REVISION_MINOR_NUMBER_FILE)" >> $GITHUB_ENV
         echo ".. |Date| replace:: $(date +%B\ %d\,\ %Y)"  > $TEMP_SUBSTITUTION_FILE
         echo "  "  >> $TEMP_SUBSTITUTION_FILE
-        echo ".. |Revision| replace:: $(cat $REVISION_MAJOR_NUMBER_FILE).$(cat $REVISION_MINOR_NUMBER_FILE)" >> $TEMP_SUBSTITUTION_FILE
+        echo ".. |Revision| replace:: ${{ env.DOCUMENT_VERSION }}" >> $TEMP_SUBSTITUTION_FILE
         echo "  " >> $TEMP_SUBSTITUTION_FILE
-        echo "DOCUMENT_VERSION=$(cat $REVISION_MAJOR_NUMBER_FILE).$(cat $REVISION_MINOR_NUMBER_FILE)" >> $GITHUB_ENV
     - name: Version Announcment
       run: echo "Building Document version ${{ env.DOCUMENT_VERSION }}"
     - name: Set up Python 3.x
@@ -97,7 +96,7 @@ jobs:
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         version: v${{ env.DOCUMENT_VERSION }}
-        assets: '[ "RodneyFavoriteRecipes.pdf", "RodneyFavoriteRecipes.epub" ]'
+        assets: '[ "${{ env.pdf }}", "${{ env.epub }}" ]'
         overwrite: false          
     - name: Cleanup
       run: |
