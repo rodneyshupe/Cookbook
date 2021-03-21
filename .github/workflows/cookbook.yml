@@ -1,7 +1,7 @@
 name: build-cookbook
 on: [push]
 jobs:
-  build:
+  build_publishable:
     runs-on: ubuntu-latest
     env:
       input_rst_file: RodneyFavoriteRecipes.rst
@@ -125,6 +125,7 @@ jobs:
         assets: '[ "${{ env.pdf }}", "${{ env.epub }}" ]'
         overwrite: false
   upload-ssh:
+    needs: build_publishable
     runs-on: ubuntu-latest
     env:
       pdf: RodneyFavoriteRecipes.pdf
