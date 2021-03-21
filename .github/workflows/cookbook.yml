@@ -16,7 +16,7 @@ jobs:
         uses: abatilo/release-info-action@v1.3.0
         with:
           owner: ${{ GITHUB_REPOSITORY_OWNER }}
-          repo: Cookbook # TODO: Parsse GITHUB_REPOSITORY to remove owner/
+          repo: Cookbook
       - name: Example of consumption of the output
         env:
           LATEST: ${{ steps.latest_version.outputs.latest_tag }}
