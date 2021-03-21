@@ -60,6 +60,7 @@ jobs:
         if test -f $REVISION_MINOR_NUMBER_FILE; then mv $REVISION_MINOR_NUMBER_FILE $REVISION_MINOR_NUMBER_FILE.ori; fi
     - name: Download Revision Number File artifacts
       uses: actions/download-artifact@v2
+      with:
         name: revision-numbers
     - name: Update revision and build temp substitution file
       run: |
