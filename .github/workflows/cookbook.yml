@@ -25,9 +25,7 @@ jobs:
         echo "  "  >> $TEMP_SUBSTITUTION_FILE
         echo ".. |Revision| replace:: $(cat $REVISION_MAJOR_NUMBER_FILE).$(cat $REVISION_MINOR_NUMBER_FILE)" >> $TEMP_SUBSTITUTION_FILE
         echo "  " >> $TEMP_SUBSTITUTION_FILE
-    - name: Set new version
-      run: |
-        export DOCUMENT_VERSION=$(cat $REVISION_MAJOR_NUMBER_FILE).$(cat $REVISION_MINOR_NUMBER_FILE)
+        echo "DOCUMENT_VERSION=$(cat $REVISION_MAJOR_NUMBER_FILE).$(cat $REVISION_MINOR_NUMBER_FILE)" >> $GITHUB_ENV
     - name: Test version
       run: |
         echo "VERSION: ${{ env.DOCUMENT_VERSION }}"
