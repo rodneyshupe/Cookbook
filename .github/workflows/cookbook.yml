@@ -107,3 +107,4 @@ jobs:
         key: ${{ secrets.SSH_VPS_KEY }}
         source: "${{ env.pdf }}, ${{ env.epub }}"
         target: "Cooking"
+        overwrite: true
