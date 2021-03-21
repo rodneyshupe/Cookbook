@@ -16,8 +16,11 @@ jobs:
       CHECKIN_MSG_FILE: checkin_msg.temp
     steps:
     - uses: actions/checkout@v2
-    #- name: Retrieve Revision Number File - Major
-    #- name: Retrieve Revision Number File - Minor
+    - name: Download Revision Number File artifacts
+      uses: actions/download-artifact@v2
+        name: revision-numbers
+    - name: Debug directory
+      run: ls -al
     - name: Update revision and build temp substitution file
       run: |
         if ! test -f $REVISION_MINOR_NUMBER_FILE; then echo 0 > $REVISION_MINOR_NUMBER_FILE; fi
@@ -89,16 +92,21 @@ jobs:
     #  with:
     #    message: 'Update revision files v${{ env.DOCUMENT_VERSION }}'
     #    add: 'revision-number-*.txt --force'
-    - name: Save Revision Number File - Major
+    - name: Save Revision Number Files
       uses: actions/upload-artifact@v2
       with:
-        name: revision-number_major
-        path: ${{ env.REVISION_MAJOR_NUMBER_FILE }}
-    - name: Save Revision Number File - Minor
+        name: revision-numbers
+        path: |
+          ${{ env.REVISION_MAJOR_NUMBER_FILE }}
+          ${{ env.REVISION_MINOR_NUMBER_FILE }}
+    - name: Save output files
       uses: actions/upload-artifact@v2
       with:
-        name: revision-number_minor
-        path: ${{ env.REVISION_MINOR_NUMBER_FILE }}
+        name: output-files
+        path: |
+          ${{ env.pdf }}
+          ${{ env.html }}
+          ${{ env.epub }}
     - name: Tidy Up
       run: |
         rm -fR *.build_temp
