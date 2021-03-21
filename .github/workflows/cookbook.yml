@@ -43,7 +43,11 @@ jobs:
         echo "  " >> $TEMP_SUBSTITUTION_FILE
     - name: Set new version
       run: |
-        DOCUMENT_VERSION=$(cat $REVISION_MAJOR_NUMBER_FILE).$(cat $REVISION_MINOR_NUMBER_FILE)
+        export DOCUMENT_VERSION=$(cat $REVISION_MAJOR_NUMBER_FILE).$(cat $REVISION_MINOR_NUMBER_FILE)
+    - name: Test version
+      run: |
+        echo $DOCUMENT_VERSION
+        exit -1
     - name: Build pdf
       run: |
         rm -fR *.build_temp
