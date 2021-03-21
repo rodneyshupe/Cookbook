@@ -26,10 +26,8 @@ jobs:
         echo ".. |Revision| replace:: $(cat $REVISION_MAJOR_NUMBER_FILE).$(cat $REVISION_MINOR_NUMBER_FILE)" >> $TEMP_SUBSTITUTION_FILE
         echo "  " >> $TEMP_SUBSTITUTION_FILE
         echo "DOCUMENT_VERSION=$(cat $REVISION_MAJOR_NUMBER_FILE).$(cat $REVISION_MINOR_NUMBER_FILE)" >> $GITHUB_ENV
-    - name: Test version
-      run: |
-        echo "VERSION: ${{ env.DOCUMENT_VERSION }}"
-        exit -1
+    - name: Version Announcment
+      run: echo "Building Document version ${{ env.DOCUMENT_VERSION }}"
     - name: Set up Python 3.x
       uses: actions/setup-python@v2
       with:
