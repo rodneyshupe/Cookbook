@@ -3,11 +3,7 @@ on: [push]
 jobs:
   build:
     runs-on: ubuntu-latest
-    continue-on-error: ${{ matrix.experimental }}
-    strategy:
-      matrix:
-        python-version: [3.6, 3.7, 3.8, 3.9]
-        experimental: [false]
+    #continue-on-error: ${{ matrix.experimental }}
     env:
       input_rst_file: RodneyFavoriteRecipes.rst
       build_temp_file: RodneyFavoriteRecipes.rst.build_temp
@@ -20,10 +16,10 @@ jobs:
       CHECKIN_MSG_FILE: checkin_msg.temp
     steps:
     - uses: actions/checkout@v2
-    - name: Set up Python ${{ matrix.python-version }}
+    - name: Set up Python 3.x
       uses: actions/setup-python@v2
       with:
-        python-version: ${{ matrix.python-version }}
+        python-version: '3.x'
     - name: Install apt dependencies
       run: |
         sudo apt-get update && sudo apt-get -y install plantuml libxml2-dev libxslt-dev python3-dev
@@ -38,12 +34,12 @@ jobs:
         sudo apt-get update && sudo apt-get -y install calibre
     - name: Update revision and build temp substitution file
       run: |
-        if ! test -f $(REVISION_MINOR_NUMBER_FILE); then echo 0 > $(REVISION_MINOR_NUMBER_FILE); fi
-        if ! test -f $(TEMP_SUBSTITUTION_FILE); then echo $$(($$(cat $(REVISION_MINOR_NUMBER_FILE)) + 1)) > $(REVISION_MINOR_NUMBER_FILE); fi
-        echo ".. |Date| replace:: $$(date +%B\ %d\,\ %Y)"  > $(TEMP_SUBSTITUTION_FILE)
-        echo "  "  >> $(TEMP_SUBSTITUTION_FILE)
-        echo ".. |Revision| replace:: $$(cat $(REVISION_MAJOR_NUMBER_FILE)).$$(cat $(REVISION_MINOR_NUMBER_FILE))" >> $(TEMP_SUBSTITUTION_FILE)
-        echo "  " >> $(TEMP_SUBSTITUTION_FILE)
+        if ! test -f $REVISION_MINOR_NUMBER_FILE; then echo 0 > $REVISION_MINOR_NUMBER_FILE; fi
+        if ! test -f $TEMP_SUBSTITUTION_FILE; then echo $(($((cat $REVISION_MINOR_NUMBER_FILE)) + 1)) > $REVISION_MINOR_NUMBER_FILE; fi
+        echo ".. |Date| replace:: $(date +%B\ %d\,\ %Y)"  > $TEMP_SUBSTITUTION_FILE
+        echo "  "  >> $TEMP_SUBSTITUTION_FILE
+        echo ".. |Revision| replace:: $(cat $REVISION_MAJOR_NUMBER_FILE).$(cat $REVISION_MINOR_NUMBER_FILE)" >> $TEMP_SUBSTITUTION_FILE
+        echo "  " >> $TEMP_SUBSTITUTION_FILE
     - name: Build pdf
       run: |
         rm -fR *.build_temp
