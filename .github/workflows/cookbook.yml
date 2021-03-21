@@ -16,6 +16,8 @@ jobs:
       CHECKIN_MSG_FILE: checkin_msg.temp
     steps:
     - uses: actions/checkout@v2
+    #- name: Retrieve Revision Number File - Major
+    #- name: Retrieve Revision Number File - Minor
     - name: Update revision and build temp substitution file
       run: |
         if ! test -f $REVISION_MINOR_NUMBER_FILE; then echo 0 > $REVISION_MINOR_NUMBER_FILE; fi
@@ -82,11 +84,21 @@ jobs:
           --cover Cover.png \
           --max-toc-links 29 \
           --embed-all-fonts > /dev/null
-    - name: Check in Revision number files
-      uses: EndBug/add-and-commit@v7.0.0
+    #- name: Check in Revision number files
+    #  uses: EndBug/add-and-commit@v7.0.0
+    #  with:
+    #    message: 'Update revision files v${{ env.DOCUMENT_VERSION }}'
+    #    add: 'revision-number-*.txt --force'
+    - name: Save Revision Number File - Major
+      uses: actions/upload-artifact@v2
       with:
-        message: 'Update revision files v${{ env.DOCUMENT_VERSION }}'
-        add: 'revision-number-*.txt --force'
+        name: revision-number_major
+        path: ${{ env.REVISION_MAJOR_NUMBER_FILE }}
+    - name: Save Revision Number File - Minor
+      uses: actions/upload-artifact@v2
+      with:
+        name: revision-number_minor
+        path: ${{ env.REVISION_MINOR_NUMBER_FILE }}
     - name: Tidy Up
       run: |
         rm -fR *.build_temp
@@ -98,13 +110,13 @@ jobs:
         version: v${{ env.DOCUMENT_VERSION }}
         assets: '[ "${{ env.pdf }}", "${{ env.epub }}" ]'
         overwrite: false          
-    - name: Upload via SSH
-      uses: appleboy/scp-action@master
-      with:
-        host: ${{ secrets.SSH_VPS_HOST }}
-        username: ${{ secrets.SSH_VPS_USERNAME }}
-        port: ${{ secrets.SSH_VPS_PORT }}
-        key: ${{ secrets.SSH_VPS_KEY }}
-        source: "${{ env.pdf }}, ${{ env.epub }}"
-        target: "Cooking"
-        overwrite: true
+    #- name: Upload via SSH
+    #  uses: appleboy/scp-action@master
+    #  with:
+    #    host: ${{ secrets.SSH_VPS_HOST }}
+    #    username: ${{ secrets.SSH_VPS_USERNAME }}
+    #    port: ${{ secrets.SSH_VPS_PORT }}
+    #    key: ${{ secrets.SSH_VPS_KEY }}
+    #    source: "${{ env.pdf }}, ${{ env.epub }}"
+    #    target: "Cooking"
+    #    overwrite: true
