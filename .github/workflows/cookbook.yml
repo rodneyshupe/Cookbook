@@ -37,7 +37,7 @@ jobs:
       run: |
         cat $REVISION_MINOR_NUMBER_FILE
         if ! test -f $REVISION_MINOR_NUMBER_FILE; then echo 0 > $REVISION_MINOR_NUMBER_FILE; fi
-        if ! test -f $TEMP_SUBSTITUTION_FILE; then echo $($(cat $REVISION_MINOR_NUMBER_FILE) + 1) > $REVISION_MINOR_NUMBER_FILE; fi
+        if ! test -f $TEMP_SUBSTITUTION_FILE; then echo $(($(cat $REVISION_MINOR_NUMBER_FILE) + 1)) > $REVISION_MINOR_NUMBER_FILE; fi
         cat $REVISION_MINOR_NUMBER_FILE
         echo ".. |Date| replace:: $(date +%B\ %d\,\ %Y)"  > $TEMP_SUBSTITUTION_FILE
         echo "  "  >> $TEMP_SUBSTITUTION_FILE
