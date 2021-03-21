@@ -16,6 +16,10 @@ jobs:
       CHECKIN_MSG_FILE: checkin_msg.temp
     steps:
     - uses: actions/checkout@v2
+    - name: Set aside revisions
+      run: |
+        if test -f $REVISION_MAJOR_NUMBER_FILE; then mv $REVISION_MAJOR_NUMBER_FILE $REVISION_MAJOR_NUMBER_FILE.ori; fi
+        if test -f $REVISION_MINOR_NUMBER_FILE; then mv $REVISION_MINOR_NUMBER_FILE $REVISION_MINOR_NUMBER_FILE.ori; fi
     - name: Download Revision Number File artifacts
       id: getRevNums
       uses: actions/download-artifact@v2
@@ -30,6 +34,7 @@ jobs:
         if ! test -f $REVISION_MINOR_NUMBER_FILE; then echo 0 > $REVISION_MINOR_NUMBER_FILE; fi
     - name: Update revision and build temp substitution file
       run: |
+        ls -al
         if ! test -f $REVISION_MINOR_NUMBER_FILE; then echo 0 > $REVISION_MINOR_NUMBER_FILE; fi
         if ! test -f $TEMP_SUBSTITUTION_FILE; then echo $(($(cat $REVISION_MINOR_NUMBER_FILE) + 1)) > $REVISION_MINOR_NUMBER_FILE; fi
         echo "DOCUMENT_VERSION=$(cat $REVISION_MAJOR_NUMBER_FILE).$(cat $REVISION_MINOR_NUMBER_FILE)" >> $GITHUB_ENV
