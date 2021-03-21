@@ -98,6 +98,12 @@ jobs:
         version: v${{ env.DOCUMENT_VERSION }}
         assets: '[ "${{ env.pdf }}", "${{ env.epub }}" ]'
         overwrite: false          
-    - name: Cleanup
-      run: |
-        echo "TODO"
+    - name: Upload via SSH
+      uses: appleboy/scp-action@master
+      with:
+        host: ${{ secrets.SSH_VPS_HOST }}
+        username: ${{ secrets.SSH_VPS_USERNAME }}
+        port: ${{ secrets.SSH_VPS_PORT }}
+        key: ${{ secrets.SSH_VPS_KEY }}
+        source: "${{ env.pdf }}, ${{ env.epub }}"
+        target: "Cooking"
