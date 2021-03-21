@@ -83,11 +83,11 @@ jobs:
           --cover Cover.png \
           --max-toc-links 29 \
           --embed-all-fonts > /dev/null
-    - uses: EndBug/add-and-commit@v7
+    - uses: EndBug/add-and-commit@v7.0.0
     - name: Check in Revision number files
-        with:
-          message: 'Update revision files'
-          add: 'revision-number-*.txt --force'
+      with:
+        message: 'Update revision files'
+        add: 'revision-number-*.txt --force'
     - name: Tidy Up
       run: |
         rm -fR *.build_temp
