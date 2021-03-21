@@ -44,7 +44,7 @@ jobs:
       run: |
         rm -fR *.build_temp
         echo "Creating PDF..."
-        rst2pdf $(input_rst_file) \
+        rst2pdf $input_rst_file \
           --break-level=1 \
           --section-header-depth=1 \
           --fit-background-mode=scale \
@@ -52,7 +52,7 @@ jobs:
           --fit-literal-mode=shrink \
           --repeat-table-rows \
           --stylesheets=Cookbook.style \
-          --output="$(pdf)" \
+          --output="$pdf" \
           --strip-elements-with-class=handout \
           --extension-module=preprocess
         rm -fR *.build_temp
@@ -64,4 +64,4 @@ jobs:
             --strip-elements-with-class=handout \
             --strip-comments \
             $(input_rst_file:%.rst=%.html.rst) \
-            "$(html)"
+            "$html"
