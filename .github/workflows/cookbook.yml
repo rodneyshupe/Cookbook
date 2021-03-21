@@ -70,7 +70,7 @@ jobs:
     - name: Build epub
       run: |
         echo "Creating EPUB..."
-        ebook-convert "$(html)" "$(epub)" \
+        ebook-convert "$html" "$epub" \
           --title "Recipes From the Messy Chef" \
           --authors "Rodney Shupe" \
           --author-sort "Shupe Rodney" \
