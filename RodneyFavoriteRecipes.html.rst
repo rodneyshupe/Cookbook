@@ -52,6 +52,8 @@ a collection of recipes containing the favorites of Rodney Shupe and family
 
 .. include:: Recipes/Sous-Vide/Recipes.rst
 
+.. include:: Recipes/InstantPot/Recipes.rst
+
 .. include:: Recipes/SmokedAndCured.rst
 
 .. include:: Recipes/Breakfast.rst
