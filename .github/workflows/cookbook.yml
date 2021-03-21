@@ -5,16 +5,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - name: Debug - Dump env
+        run: env | sort
+      - name: Debug - Dump GitHub context
+        env:
+          GITHUB_CONTEXT: ${{ toJson(github) }}
+        run: echo "$GITHUB_CONTEXT"
 
-      - name: 'Get Previous tag'
-        id: previoustag
-        uses: "WyriHaximus/github-action-get-previous-tag@v1"
-      - name: 'Get next minor version'
-        id: semvers
-        uses: "WyriHaximus/github-action-next-semvers@v1"
-        with:
-          version: ${{ steps.previoustag.outputs.tag }}
-          
   build_publishable:
     runs-on: ubuntu-latest
     env:
@@ -30,22 +27,10 @@ jobs:
       CHECKIN_MSG_FILE: checkin_msg.temp
     steps:
     - uses: actions/checkout@v2
-    - name: Set aside revisions
-      run: |
-        if test -f $REVISION_MAJOR_NUMBER_FILE; then mv $REVISION_MAJOR_NUMBER_FILE $REVISION_MAJOR_NUMBER_FILE.ori; fi
-        if test -f $REVISION_MINOR_NUMBER_FILE; then mv $REVISION_MINOR_NUMBER_FILE $REVISION_MINOR_NUMBER_FILE.ori; fi
-    - name: Download Revision Number File artifacts
-      id: getRevNums
-      uses: actions/download-artifact@v2
-      with:
-        name: revision-numbers
-      continue-on-error: true
-    - name: The job has failed
-      if: steps.getRevNums.outcome != 'success'
-      run: |
-        ls -al
-        if ! test -f $REVISION_MAJOR_NUMBER_FILE; then echo 3 > $REVISION_MAJOR_NUMBER_FILE; fi
-        if ! test -f $REVISION_MINOR_NUMBER_FILE; then echo 0 > $REVISION_MINOR_NUMBER_FILE; fi
+    #- name: Set aside revisions
+    #  run: |
+    #    if test -f $REVISION_MAJOR_NUMBER_FILE; then mv $REVISION_MAJOR_NUMBER_FILE $REVISION_MAJOR_NUMBER_FILE.ori; fi
+    #    if test -f $REVISION_MINOR_NUMBER_FILE; then mv $REVISION_MINOR_NUMBER_FILE $REVISION_MINOR_NUMBER_FILE.ori; fi
     - name: Update revision and build temp substitution file
       run: |
         ls -al
@@ -118,13 +103,6 @@ jobs:
     #  with:
     #    message: 'Update revision files v${{ env.DOCUMENT_VERSION }}'
     #    add: 'revision-number-*.txt --force'
-    - name: Save Revision Number Files
-      uses: actions/upload-artifact@v2
-      with:
-        name: revision-numbers
-        path: |
-          ${{ env.REVISION_MAJOR_NUMBER_FILE }}
-          ${{ env.REVISION_MINOR_NUMBER_FILE }}
     - name: Save output files
       uses: actions/upload-artifact@v2
       with:
