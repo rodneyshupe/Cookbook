@@ -1,7 +1,7 @@
 name: build-cookbook
 on: [push]
 jobs:
-  release:
+  set_release_number:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -17,15 +17,29 @@ jobs:
         with:
           myToken: ${{ github.token }}
           view_top: 1
-      - name: "Print result"
+      - name: Debug check files 1
+          ls
+          cat revision-number-major.txt
+          cat revision-number-minor.txt
+      - name: Build Revision Number Files
         run: |
-          echo "id: ${{ steps.last_release.outputs.id }}"
-          echo "name: ${{ steps.last_release.outputs.name }}"
-          echo "tag_name: ${{ steps.last_release.outputs.tag_name }}"
-          echo "created_at: ${{ steps.last_release.outputs.created_atd }}"
-          echo "draft: ${{ steps.last_release.outputs.draft }}"
-          echo "prerelease: ${{ steps.last_release.outputs.prerelease }}"
+          RAW_TAG="${{ steps.last_release.outputs.tag_name }}"
+          VERSION_TAG="${RAW_TAG:1}"
+          IFS=';'
+          read -ra VERSION_PART <<< "$VERSION_TAG"
+          echo "$VERSION_PART[0]" > revision-number-major.txt
+          echo "$VERSION_PART[1]" > revision-number-minor.txt
+      - name: Debug check files 2
+          ls
+          cat revision-number-major.txt
+          cat revision-number-minor.txt
+      - name: Check in Revision number files
+        uses: EndBug/add-and-commit@v7.0.0
+        with:
+          message: 'Update revision files v${{ env.DOCUMENT_VERSION }}'
+          add: 'revision-number-*.txt --force'
   build_publishable:
+    needs: set_release_number
     runs-on: ubuntu-latest
     env:
       input_rst_file: RodneyFavoriteRecipes.rst
@@ -40,10 +54,13 @@ jobs:
       CHECKIN_MSG_FILE: checkin_msg.temp
     steps:
     - uses: actions/checkout@v2
-    #- name: Set aside revisions
-    #  run: |
-    #    if test -f $REVISION_MAJOR_NUMBER_FILE; then mv $REVISION_MAJOR_NUMBER_FILE $REVISION_MAJOR_NUMBER_FILE.ori; fi
-    #    if test -f $REVISION_MINOR_NUMBER_FILE; then mv $REVISION_MINOR_NUMBER_FILE $REVISION_MINOR_NUMBER_FILE.ori; fi
+    - name: Set aside revisions
+      run: |
+        if test -f $REVISION_MAJOR_NUMBER_FILE; then mv $REVISION_MAJOR_NUMBER_FILE $REVISION_MAJOR_NUMBER_FILE.ori; fi
+        if test -f $REVISION_MINOR_NUMBER_FILE; then mv $REVISION_MINOR_NUMBER_FILE $REVISION_MINOR_NUMBER_FILE.ori; fi
+    - name: Download Revision Number File artifacts
+      uses: actions/download-artifact@v2
+        name: revision-numbers
     - name: Update revision and build temp substitution file
       run: |
         ls -al
@@ -111,11 +128,6 @@ jobs:
           --cover Cover.png \
           --max-toc-links 29 \
           --embed-all-fonts > /dev/null
-    #- name: Check in Revision number files
-    #  uses: EndBug/add-and-commit@v7.0.0
-    #  with:
-    #    message: 'Update revision files v${{ env.DOCUMENT_VERSION }}'
-    #    add: 'revision-number-*.txt --force'
     - name: Save output files
       uses: actions/upload-artifact@v2
       with:
