@@ -69,7 +69,7 @@ jobs:
         rm -fR *.build_temp
     - name: Build epub
       run: |
-	      echo "Creating EPUB..."
+        echo "Creating EPUB..."
 	      ebook-convert "$(html)" "$(epub)" \
           --title "Recipes From the Messy Chef" \
           --authors "Rodney Shupe" \
@@ -90,5 +90,5 @@ jobs:
     - name: Cleanup
       run: |
         echo "TODO"
-        
+
     
