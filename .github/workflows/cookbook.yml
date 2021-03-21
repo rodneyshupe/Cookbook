@@ -17,6 +17,21 @@ jobs:
       CHECKIN_MSG_FILE: checkin_msg.temp
     steps:
     - uses: actions/checkout@v2
+    - name: Update revision and build temp substitution file
+      run: |
+        if ! test -f $REVISION_MINOR_NUMBER_FILE; then echo 0 > $REVISION_MINOR_NUMBER_FILE; fi
+        if ! test -f $TEMP_SUBSTITUTION_FILE; then echo $(($(cat $REVISION_MINOR_NUMBER_FILE) + 1)) > $REVISION_MINOR_NUMBER_FILE; fi
+        echo ".. |Date| replace:: $(date +%B\ %d\,\ %Y)"  > $TEMP_SUBSTITUTION_FILE
+        echo "  "  >> $TEMP_SUBSTITUTION_FILE
+        echo ".. |Revision| replace:: $(cat $REVISION_MAJOR_NUMBER_FILE).$(cat $REVISION_MINOR_NUMBER_FILE)" >> $TEMP_SUBSTITUTION_FILE
+        echo "  " >> $TEMP_SUBSTITUTION_FILE
+    - name: Set new version
+      run: |
+        export DOCUMENT_VERSION=$(cat $REVISION_MAJOR_NUMBER_FILE).$(cat $REVISION_MINOR_NUMBER_FILE)
+    - name: Test version
+      run: |
+        echo "VERSION: $DOCUMENT_VERSION"
+        exit -1
     - name: Set up Python 3.x
       uses: actions/setup-python@v2
       with:
@@ -33,21 +48,6 @@ jobs:
     - name: Install Calabre
       run: |
         sudo apt-get update && sudo apt-get -y install calibre
-    - name: Update revision and build temp substitution file
-      run: |
-        if ! test -f $REVISION_MINOR_NUMBER_FILE; then echo 0 > $REVISION_MINOR_NUMBER_FILE; fi
-        if ! test -f $TEMP_SUBSTITUTION_FILE; then echo $(($(cat $REVISION_MINOR_NUMBER_FILE) + 1)) > $REVISION_MINOR_NUMBER_FILE; fi
-        echo ".. |Date| replace:: $(date +%B\ %d\,\ %Y)"  > $TEMP_SUBSTITUTION_FILE
-        echo "  "  >> $TEMP_SUBSTITUTION_FILE
-        echo ".. |Revision| replace:: $(cat $REVISION_MAJOR_NUMBER_FILE).$(cat $REVISION_MINOR_NUMBER_FILE)" >> $TEMP_SUBSTITUTION_FILE
-        echo "  " >> $TEMP_SUBSTITUTION_FILE
-    - name: Set new version
-      run: |
-        export DOCUMENT_VERSION=$(cat $REVISION_MAJOR_NUMBER_FILE).$(cat $REVISION_MINOR_NUMBER_FILE)
-    - name: Test version
-      run: |
-        echo $DOCUMENT_VERSION
-        exit -1
     - name: Build pdf
       run: |
         rm -fR *.build_temp
