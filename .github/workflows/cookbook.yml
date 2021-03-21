@@ -11,12 +11,18 @@ jobs:
         env:
           GITHUB_CONTEXT: ${{ toJson(github) }}
         run: echo "$GITHUB_CONTEXT"
-      - name: Get release
-        id: get_release
-        uses: bruceadams/get-release@v1.2.2
+      - name: Get Latest Release
+        id: latest_version
+        uses: abatilo/release-info-action@v1.3.0
+        with:
+          owner: ${{ GITHUB_REPOSITORY_OWNER }}
+          repo: Cookbook # TODO: Parsse GITHUB_REPOSITORY to remove owner/
+      - name: Example of consumption of the output
         env:
-          GITHUB_TOKEN: ${{ github.token }}
-
+          LATEST: ${{ steps.latest_version.outputs.latest_tag }}
+          LATEST_DATE: ${{ steps.latest_version.outputs.latest_tag_published_at }}
+        run: |
+          echo "Version $LATEST was released at $LATEST_DATE"
   build_publishable:
     runs-on: ubuntu-latest
     env:
