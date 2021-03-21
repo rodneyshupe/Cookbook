@@ -43,7 +43,7 @@ jobs:
         echo "  " >> $TEMP_SUBSTITUTION_FILE
     - name: Set new version
       run: |
-        echo ::set-env name=DOCUMENT_VERSION::$(cat $REVISION_MAJOR_NUMBER_FILE).$(cat $REVISION_MINOR_NUMBER_FILE)
+        DOCUMENT_VERSION=$(cat $REVISION_MAJOR_NUMBER_FILE).$(cat $REVISION_MINOR_NUMBER_FILE)
     - name: Build pdf
       run: |
         rm -fR *.build_temp
