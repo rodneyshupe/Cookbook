@@ -1,0 +1,71 @@
+name: build-cookbook
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    continue-on-error: ${{ matrix.experimental }}
+    strategy:
+      matrix:
+        python-version: [3.6, 3.7, 3.8, 3.9]
+        experimental: [false]
+    env:
+      input_rst_file: RodneyFavoriteRecipes.rst
+      build_temp_file: RodneyFavoriteRecipes.rst.build_temp
+      pdf: RodneyFavoriteRecipes.pdf
+      html: RodneyFavoriteRecipes.html
+      epub: RodneyFavoriteRecipes.epub
+      TEMP_SUBSTITUTION_FILE: temp_substitutions.rst
+      REVISION_MAJOR_NUMBER_FILE: revision-number-major.txt
+      REVISION_MINOR_NUMBER_FILE: revision-number-minor.txt
+      CHECKIN_MSG_FILE: checkin_msg.temp
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v2
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Install apt dependencies
+      run: |
+        sudo apt-get update && sudo apt-get -y install plantuml libxml2-dev libxslt-dev python3-dev
+    - name: Install pip dependencies
+      run: |
+        python -m pip install --upgrade pip
+        python -m pip install --upgrade rst2pdf 
+        python -m pip install --upgrade rst2html
+        python -m pip install --upgrade rst2html5
+    - name: Install Calabre
+      run: |
+        sudo apt-get update && sudo apt-get -y install calibre
+    - name: Update revision and build temp substitution file
+      run: |
+        if ! test -f $(REVISION_MINOR_NUMBER_FILE); then echo 0 > $(REVISION_MINOR_NUMBER_FILE); fi
+        if ! test -f $(TEMP_SUBSTITUTION_FILE); then echo $$(($$(cat $(REVISION_MINOR_NUMBER_FILE)) + 1)) > $(REVISION_MINOR_NUMBER_FILE); fi
+        echo ".. |Date| replace:: $$(date +%B\ %d\,\ %Y)"  > $(TEMP_SUBSTITUTION_FILE)
+        echo "  "  >> $(TEMP_SUBSTITUTION_FILE)
+        echo ".. |Revision| replace:: $$(cat $(REVISION_MAJOR_NUMBER_FILE)).$$(cat $(REVISION_MINOR_NUMBER_FILE))" >> $(TEMP_SUBSTITUTION_FILE)
+        echo "  " >> $(TEMP_SUBSTITUTION_FILE)
+    - name: Build pdf
+      run: |
+        rm -fR *.build_temp
+        echo "Creating PDF..."
+        rst2pdf $(input_rst_file) \
+          --break-level=1 \
+          --section-header-depth=1 \
+          --fit-background-mode=scale \
+          --smart-quotes=0 \
+          --fit-literal-mode=shrink \
+          --repeat-table-rows \
+          --stylesheets=Cookbook.style \
+          --output="$(pdf)" \
+          --strip-elements-with-class=handout \
+          --extension-module=preprocess
+        rm -fR *.build_temp
+    - name: Build html
+      run: |
+        echo "Creating HTML..."
+        rst2html5 \
+            --stylesheet-inline=Cookbook.css \
+            --strip-elements-with-class=handout \
+            --strip-comments \
+            $(input_rst_file:%.rst=%.html.rst) \
+            "$(html)"
