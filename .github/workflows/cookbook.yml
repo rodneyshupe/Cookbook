@@ -23,7 +23,7 @@ jobs:
         echo "DOCUMENT_VERSION=$(cat $REVISION_MAJOR_NUMBER_FILE).$(cat $REVISION_MINOR_NUMBER_FILE)" >> $GITHUB_ENV
         echo ".. |Date| replace:: $(date +%B\ %d\,\ %Y)"  > $TEMP_SUBSTITUTION_FILE
         echo "  "  >> $TEMP_SUBSTITUTION_FILE
-        echo ".. |Revision| replace:: ${{ env.DOCUMENT_VERSION }}" >> $TEMP_SUBSTITUTION_FILE
+        echo ".. |Revision| replace:: $(cat $REVISION_MAJOR_NUMBER_FILE).$(cat $REVISION_MINOR_NUMBER_FILE)" >> $TEMP_SUBSTITUTION_FILE
         echo "  " >> $TEMP_SUBSTITUTION_FILE
     - name: Version Announcment
       run: echo "Building Document version ${{ env.DOCUMENT_VERSION }}"
