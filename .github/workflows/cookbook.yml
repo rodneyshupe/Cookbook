@@ -86,7 +86,7 @@ jobs:
     - name: Check in Revision number files
       uses: EndBug/add-and-commit@v7.0.0
       with:
-        message: 'Update revision files'
+        message: 'Update revision files v${{ env.DOCUMENT_VERSION }}'
         add: 'revision-number-*.txt --force'
     - name: Tidy Up
       run: |
@@ -96,7 +96,7 @@ jobs:
       uses: jasondavis303/tag-and-release-and-upload@v1.2.0
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
-        version: v${{ DOCUMENT_VERSION }}
+        version: v${{ env.DOCUMENT_VERSION }}
         assets: '[ "RodneyFavoriteRecipes.pdf", "RodneyFavoriteRecipes.epub" ]'
         overwrite: false          
     - name: Cleanup
