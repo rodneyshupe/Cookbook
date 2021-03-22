@@ -3,13 +3,13 @@ name: "Publish Cookbook"
 on: [push]
 
 env:
-  PARAM_PDF_SOURCE_RST: RodneyFavoriteRecipes.rst
-  PARAM_HTML_SOURCE_RST: RodneyFavoriteRecipes.html.rst
-  PARAM_PUBLISHED_PDF: RodneyFavoriteRecipes.pdf
-  PARAM_PUBLISHED_HTML: RodneyFavoriteRecipes.html
-  PARAM_PUBLISHED_EPUB: RodneyFavoriteRecipes.epub
-  REVISION_MAJOR_NUMBER_FILE: revnum_major.txt
-  REVISION_MINOR_NUMBER_FILE: revnum_minor.txt
+  WF_PARAM_PDF_SOURCE_RST: RodneyFavoriteRecipes.rst
+  WF_PARAM_HTML_SOURCE_RST: RodneyFavoriteRecipes.html.rst
+  WF_PARAM_PUBLISHED_PDF: RodneyFavoriteRecipes.pdf
+  WF_PARAM_PUBLISHED_HTML: RodneyFavoriteRecipes.html
+  WF_PARAM_PUBLISHED_EPUB: RodneyFavoriteRecipes.epub
+  WF_REVISION_MAJOR_NUMBER_FILE: revnum_major.txt
+  WF_REVISION_MINOR_NUMBER_FILE: revnum_minor.txt
 
 jobs:
   debug:
@@ -41,24 +41,30 @@ jobs:
           VERSION_TAG="${RAW_TAG:1}"
           IFS='.'
           read -ra VERSION_PART <<< "$VERSION_TAG"
-          echo "${VERSION_PART[0]}" > ${{ env.REVISION_MAJOR_NUMBER_FILE }}
-          echo "${VERSION_PART[1]}" > ${{ env.REVISION_MINOR_NUMBER_FILE }}
+          echo "${VERSION_PART[0]}" > ${{ env.WF_REVISION_MAJOR_NUMBER_FILE }}
+          echo "${VERSION_PART[1]}" > ${{ env.WF_REVISION_MINOR_NUMBER_FILE }}
+
+      - name: Debug - Previous Version Number
+        run: echo "Previous Document Version - v${{ env.WF_REVISION_MAJOR_NUMBER_FILE }}.${{ env.WF_REVISION_MINOR_NUMBER_FILE }}"
 
       - name: Increment minor revision
         run: |
-          if ! test -f ${{ env.REVISION_MINOR_NUMBER_FILE }}; then
-            echo 0 > ${{ env.REVISION_MINOR_NUMBER_FILE }}
+          if ! test -f ${{ env.WF_REVISION_MINOR_NUMBER_FILE }}; then
+            echo 0 > ${{ env.WF_REVISION_MINOR_NUMBER_FILE }}
           else
-            echo $(($(cat ${{ env.REVISION_MINOR_NUMBER_FILE }}) + 1)) > ${{ env.REVISION_MINOR_NUMBER_FILE }}
+            echo $(($(cat ${{ env.WF_REVISION_MINOR_NUMBER_FILE }}) + 1)) > ${{ env.WF_REVISION_MINOR_NUMBER_FILE }}
           fi
+
+      - name: Debug - New Version Number
+        run: echo "New Document Version - v${{ env.WF_REVISION_MAJOR_NUMBER_FILE }}.${{ env.WF_REVISION_MINOR_NUMBER_FILE }}"
 
       - name: Save revision file artifacts
         uses: actions/upload-artifact@v2
         with:
           name: revision-numbers
           path: |
-            ${{ env.REVISION_MAJOR_NUMBER_FILE }}
-            ${{ env.REVISION_MINOR_NUMBER_FILE }}
+            ${{ env.WF_REVISION_MAJOR_NUMBER_FILE }}
+            ${{ env.WF_REVISION_MINOR_NUMBER_FILE }}
             
   build_publishable:
     needs: set_release_number
@@ -78,10 +84,10 @@ jobs:
 
     - name: Update revision and build temp substitution file
       run: |
-        echo "PUBLISHED_DOCUMENT_VERSION=$(cat ${{ env.REVISION_MAJOR_NUMBER_FILE }}).$(cat ${{ env.REVISION_MINOR_NUMBER_FILE }})" >> $GITHUB_ENV
+        echo "PUBLISHED_DOCUMENT_VERSION=$(cat ${{ env.WF_REVISION_MAJOR_NUMBER_FILE }}).$(cat ${{ env.WF_REVISION_MINOR_NUMBER_FILE }})" >> $GITHUB_ENV
         echo ".. |Date| replace:: $(date +%B\ %d\,\ %Y)"  > $TEMP_SUBSTITUTION_FILE
         echo "  "  >> $TEMP_SUBSTITUTION_FILE
-        echo ".. |Revision| replace:: $(cat ${{ env.REVISION_MAJOR_NUMBER_FILE }}).$(cat ${{ env.REVISION_MINOR_NUMBER_FILE }})" >> $TEMP_SUBSTITUTION_FILE
+        echo ".. |Revision| replace:: $(cat ${{ env.WF_REVISION_MAJOR_NUMBER_FILE }}).$(cat ${{ env.WF_REVISION_MINOR_NUMBER_FILE }})" >> $TEMP_SUBSTITUTION_FILE
         echo "  " >> $TEMP_SUBSTITUTION_FILE
 
     - name: Debug - Version Number
@@ -111,7 +117,7 @@ jobs:
       run: |
         rm -fR *.build_temp
         echo "Creating PDF..."
-        rst2pdf ${{ env.PARAM_PDF_SOURCE_RST }} \
+        rst2pdf ${{ env.WF_PARAM_PDF_SOURCE_RST }} \
           --break-level=1 \
           --section-header-depth=1 \
           --fit-background-mode=scale \
@@ -119,7 +125,7 @@ jobs:
           --fit-literal-mode=shrink \
           --repeat-table-rows \
           --stylesheets=Cookbook.style \
-          --output="${{ env.PARAM_PUBLISHED_PDF }}" \
+          --output="${{ env.WF_PARAM_PUBLISHED_PDF }}" \
           --strip-elements-with-class=handout \
           --extension-module=preprocess
         rm -fR *.build_temp
@@ -131,14 +137,14 @@ jobs:
             --stylesheet-inline=Cookbook.css \
             --strip-elements-with-class=handout \
             --strip-comments \
-            ${{ env.PARAM_HTML_SOURCE_RST  }} \
-            "${{ env.PARAM_PUBLISHED_HTML }}"
+            ${{ env.WF_PARAM_HTML_SOURCE_RST  }} \
+            "${{ env.WF_PARAM_PUBLISHED_HTML }}"
         rm -fR *.build_temp
 
     - name: Build epub
       run: |
         echo "Creating EPUB..."
-        ebook-convert "${{ env.PARAM_PUBLISHED_HTML }}" "${{ env.PARAM_PUBLISHED_EPUB }}" \
+        ebook-convert "${{ env.WF_PARAM_PUBLISHED_HTML }}" "${{ env.WF_PARAM_PUBLISHED_EPUB }}" \
           --title "Recipes From the Messy Chef" \
           --authors "Rodney Shupe" \
           --author-sort "Shupe Rodney" \
@@ -154,15 +160,15 @@ jobs:
       with:
         name: published-files
         path: |
-          ${{ env.PARAM_PUBLISHED_PDF }}
-          ${{ env.PARAM_PUBLISHED_EPUB }}
+          ${{ env.WF_PARAM_PUBLISHED_PDF }}
+          ${{ env.WF_PARAM_PUBLISHED_EPUB }}
 
     - name: Tag and Release
       uses: jasondavis303/tag-and-release-and-upload@v1.2.0
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         version: v${{ env.PUBLISHED_DOCUMENT_VERSION }}
-        assets: '[ "${{ env.PARAM_PUBLISHED_PDF }}", "${{ env.PARAM_PUBLISHED_EPUB }}" ]'
+        assets: '[ "${{ env.WF_PARAM_PUBLISHED_PDF }}", "${{ env.WF_PARAM_PUBLISHED_EPUB }}" ]'
         overwrite: false
 
   publish-to_google:
