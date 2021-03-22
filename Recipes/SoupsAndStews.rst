@@ -121,13 +121,7 @@ Notes
    Monterey Jack or cheddar cheese.
 -  The chili can be made up to 3 days in advance.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Slow Cooker Chili
 =================
