@@ -18,6 +18,7 @@ jobs:
           myToken: ${{ github.token }}
           view_top: 1
       - name: Debug check files 1
+        run: |
           ls
           cat revision-number-major.txt
           cat revision-number-minor.txt
@@ -30,6 +31,7 @@ jobs:
           echo "$VERSION_PART[0]" > revision-number-major.txt
           echo "$VERSION_PART[1]" > revision-number-minor.txt
       - name: Debug check files 2
+        run: |
           ls
           cat revision-number-major.txt
           cat revision-number-minor.txt
