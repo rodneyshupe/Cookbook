@@ -1,11 +1,11 @@
 name: build-cookbook
 on: [push]
+env:
+  REVISION_MAJOR_NUMBER_FILE: revision-number-major.txt
+  REVISION_MINOR_NUMBER_FILE: revision-number-minor.txt
 jobs:
   set_release_number:
     runs-on: ubuntu-latest
-    env:
-      REVISION_MAJOR_NUMBER_FILE: revision-number-major.txt
-      REVISION_MINOR_NUMBER_FILE: revision-number-minor.txt
     steps:
       - uses: actions/checkout@v2
       - name: Debug - Dump env
@@ -53,15 +53,11 @@ jobs:
       html: RodneyFavoriteRecipes.html
       epub: RodneyFavoriteRecipes.epub
       TEMP_SUBSTITUTION_FILE: temp_substitutions.rst
-      REVISION_MAJOR_NUMBER_FILE: revision-number-major.txt
-      REVISION_MINOR_NUMBER_FILE: revision-number-minor.txt
+      #REVISION_MAJOR_NUMBER_FILE: revision-number-major.txt
+      #REVISION_MINOR_NUMBER_FILE: revision-number-minor.txt
       CHECKIN_MSG_FILE: checkin_msg.temp
     steps:
     - uses: actions/checkout@v2
-    #- name: Set aside revisions
-    #  run: |
-    #    if test -f $REVISION_MAJOR_NUMBER_FILE; then mv $REVISION_MAJOR_NUMBER_FILE $REVISION_MAJOR_NUMBER_FILE.ori; fi
-    #    if test -f $REVISION_MINOR_NUMBER_FILE; then mv $REVISION_MINOR_NUMBER_FILE $REVISION_MINOR_NUMBER_FILE.ori; fi
     - name: Download Revision Number File artifacts
       id: getRevNums
       uses: actions/download-artifact@v2
@@ -69,10 +65,10 @@ jobs:
         name: revision-numbers
     - name: Update revision and build temp substitution file
       run: |
-        echo "DOCUMENT_VERSION=$(cat $REVISION_MAJOR_NUMBER_FILE).$(cat $REVISION_MINOR_NUMBER_FILE)" >> $GITHUB_ENV
+        echo "DOCUMENT_VERSION=$(cat ${{ env.REVISION_MAJOR_NUMBER_FILE }}).$(cat ${{ env.REVISION_MINOR_NUMBER_FILE }})" >> $GITHUB_ENV
         echo ".. |Date| replace:: $(date +%B\ %d\,\ %Y)"  > $TEMP_SUBSTITUTION_FILE
         echo "  "  >> $TEMP_SUBSTITUTION_FILE
-        echo ".. |Revision| replace:: $(cat $REVISION_MAJOR_NUMBER_FILE).$(cat $REVISION_MINOR_NUMBER_FILE)" >> $TEMP_SUBSTITUTION_FILE
+        echo ".. |Revision| replace:: $(cat ${{ env.REVISION_MAJOR_NUMBER_FILE }}).$(cat ${{ env.REVISION_MINOR_NUMBER_FILE }})" >> $TEMP_SUBSTITUTION_FILE
         echo "  " >> $TEMP_SUBSTITUTION_FILE
     - name: Debug - Version Number
       run: echo "Building Document version ${{ env.DOCUMENT_VERSION }}"
