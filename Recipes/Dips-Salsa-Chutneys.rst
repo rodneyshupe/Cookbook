@@ -491,13 +491,7 @@ Directions
    of salt. Then squeeze the juice of half a lemon on top.
 5. Mix this all together.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Mango Mint Salsa
 ================
