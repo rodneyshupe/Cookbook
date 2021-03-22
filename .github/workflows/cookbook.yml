@@ -57,7 +57,8 @@ jobs:
         with:
           name: revision-numbers
           path: |
-            revision-number*.txt
+            ${{ env.REVISION_MAJOR_NUMBER_FILE }}
+            ${{ env.REVISION_MINOR_NUMBER_FILE }}
             
   build_publishable:
     needs: set_release_number
