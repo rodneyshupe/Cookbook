@@ -133,7 +133,6 @@ jobs:
     - name: Build pdf
       run: |
         rm -fR *.build_temp
-        echo "Creating PDF..."
         rst2pdf ${{ env.WF_PARAM_PDF_SOURCE_RST }} \
           --break-level=1 \
           --section-header-depth=1 \
@@ -154,7 +153,7 @@ jobs:
         path: |
           ${{ env.WF_PARAM_PUBLISHED_PDF }}
 
-  build_epub:
+  build_html:
     needs: build_substitution
 
     runs-on: ubuntu-latest
@@ -177,10 +176,6 @@ jobs:
         python -m pip install --upgrade pip
         python -m pip install --upgrade rst2html5
 
-    - name: Install Calabre
-      run: |
-        sudo apt-get update && sudo apt-get -y install calibre
-
     - name: Download Revision Number File artifacts
       id: getRevNums
       uses: actions/download-artifact@v2
@@ -189,7 +184,6 @@ jobs:
 
     - name: Build html
       run: |
-        echo "Creating HTML..."
         rst2html5 \
             --stylesheet-inline=Cookbook.css \
             --strip-elements-with-class=handout \
@@ -198,9 +192,31 @@ jobs:
             "${{ env.WF_PARAM_PUBLISHED_HTML }}"
         rm -fR *.build_temp
 
+    - name: Save Published files
+      uses: actions/upload-artifact@v2
+      with:
+        name: published-files
+        path: |
+          ${{ env.WF_PARAM_PUBLISHED_HTML }}
+
+  build_epub:
+    needs: build_html
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+    - name: Install Calabre
+      run: |
+        sudo apt-get update && sudo apt-get -y install calibre
+
+    - name: Download latest output files.
+      uses: actions/download-artifact@v2
+      with:
+        name: published-files
+
     - name: Build epub
       run: |
-        echo "Creating EPUB..."
         ebook-convert "${{ env.WF_PARAM_PUBLISHED_HTML }}" "${{ env.WF_PARAM_PUBLISHED_EPUB }}" \
           --title "Recipes From the Messy Chef" \
           --authors "Rodney Shupe" \
