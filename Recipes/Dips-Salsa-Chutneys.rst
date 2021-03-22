@@ -304,14 +304,7 @@ Note
 ----
 To make this salsa spicier, reserve and add the jalapeno seeds to the blender before processing
 
-
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Avocado Tomatillo Salsa
 =======================
@@ -431,14 +424,7 @@ Directions
 1. Combine all ingredients in bowl and season with salt and pepper to
    taste.
 
-
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Grilled Pineapple Avocado Salsa
 ===============================
