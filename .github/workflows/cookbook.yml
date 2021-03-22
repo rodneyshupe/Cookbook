@@ -59,9 +59,11 @@ jobs:
         if test -f $REVISION_MAJOR_NUMBER_FILE; then mv $REVISION_MAJOR_NUMBER_FILE $REVISION_MAJOR_NUMBER_FILE.ori; fi
         if test -f $REVISION_MINOR_NUMBER_FILE; then mv $REVISION_MINOR_NUMBER_FILE $REVISION_MINOR_NUMBER_FILE.ori; fi
     - name: Download Revision Number File artifacts
+      id: getRevNums
       uses: actions/download-artifact@v2
       with:
         name: revision-numbers
+      continue-on-error: true
     - name: Update revision and build temp substitution file
       run: |
         ls -al
