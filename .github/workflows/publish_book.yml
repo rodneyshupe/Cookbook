@@ -92,7 +92,7 @@ jobs:
         echo "  " >> $TEMP_SUBSTITUTION_FILE
 
     - name: Debug - Version Number
-      run: echo "Building Document version ${{ env.PUBLISHED_DOCUMENT_VERSION }}"
+      run: echo "New Document Version - v$(cat ${{ env.WF_REVISION_MAJOR_NUMBER_FILE }}).$(cat ${{ env.WF_REVISION_MINOR_NUMBER_FILE }})"
 
     - name: Save revision file artifacts
       uses: actions/upload-artifact@v2
@@ -219,7 +219,7 @@ jobs:
         path: |
           ${{ env.WF_PARAM_PUBLISHED_EPUB }}
 
-  publish_release:
+  upload_release:
     needs: [build_pdf, build_epub]
     runs-on: ubuntu-latest
     steps:
@@ -228,6 +228,12 @@ jobs:
       uses: actions/download-artifact@v2
       with:
         name: published-files
+
+    - name: Download Revision Number File artifacts
+      id: getRevNums
+      uses: actions/download-artifact@v2
+      with:
+        name: revision-numbers
 
     - name: Build new tag version
       run: |
