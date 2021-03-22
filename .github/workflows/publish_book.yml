@@ -219,7 +219,7 @@ jobs:
         path: |
           ${{ env.WF_PARAM_PUBLISHED_EPUB }}
 
-  publish-release:
+  publish_release:
     needs: [build_pdf, build_epub]
     runs-on: ubuntu-latest
     steps:
@@ -242,8 +242,8 @@ jobs:
         assets: '[ "${{ env.WF_PARAM_PUBLISHED_PDF }}", "${{ env.WF_PARAM_PUBLISHED_EPUB }}" ]'
         overwrite: false
 
-  publish-to_google:
-    needs: build_publishable
+  publish_to_google:
+    needs: [build_pdf, build_epub]
     runs-on: ubuntu-latest
     steps:
 
@@ -267,7 +267,7 @@ jobs:
         args: copy ${{ env.WF_PARAM_PUBLISHED_EPUB }} gdrive:Cooking
 
   #backup-via-ssh:
-  #  needs: build_publishable
+  #  needs: [build_pdf, build_epub]
   #  runs-on: ubuntu-latest
   #
   #  steps:
