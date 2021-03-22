@@ -3,6 +3,9 @@ on: [push]
 jobs:
   set_release_number:
     runs-on: ubuntu-latest
+    env:
+      REVISION_MAJOR_NUMBER_FILE: revision-number-major.txt
+      REVISION_MINOR_NUMBER_FILE: revision-number-minor.txt
     steps:
       - uses: actions/checkout@v2
       - name: Debug - Dump env
@@ -23,8 +26,8 @@ jobs:
           VERSION_TAG="${RAW_TAG:1}"
           IFS='.'
           read -ra VERSION_PART <<< "$VERSION_TAG"
-          echo "${VERSION_PART[0]}" > revision-number-major.txt
-          echo "${VERSION_PART[1]}" > revision-number-minor.txt
+          echo "${VERSION_PART[0]}" > $REVISION_MAJOR_NUMBER_FILE
+          echo "${VERSION_PART[1]}" > $REVISION_MINOR_NUMBER_FILE
       - name: Increment minor revision
         run: |
           if ! test -f $REVISION_MINOR_NUMBER_FILE; then
@@ -32,11 +35,13 @@ jobs:
           else
             echo $(($(cat $REVISION_MINOR_NUMBER_FILE) + 1)) > $REVISION_MINOR_NUMBER_FILE
           fi
-      - name: Check in Revision number files
-        uses: EndBug/add-and-commit@v7.0.0
+      - name: Save revision file artifacts
+        uses: actions/upload-artifact@v2
         with:
-          message: 'Update revision files v${{ env.DOCUMENT_VERSION }}'
-          add: 'revision-number-*.txt --force'
+          name: revision-numbers
+          path: |
+            revision-number*.txt
+            
   build_publishable:
     needs: set_release_number
     runs-on: ubuntu-latest
