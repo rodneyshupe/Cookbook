@@ -754,13 +754,7 @@ Directions
    stir until combined.
 3. Garnish with sliced green onions if desired.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Spicy Cheese Dip
 ================
