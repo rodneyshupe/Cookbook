@@ -1,7 +1,10 @@
 name: "Publish Cookbook"
 
-on: [push]
-
+on:
+  push:
+    paths:
+    - 'Recipes/**.rst'
+    - 'Appendix/**.rst'
 env:
   WF_PARAM_PDF_SOURCE_RST: RodneyFavoriteRecipes.rst
   WF_PARAM_HTML_SOURCE_RST: RodneyFavoriteRecipes.html.rst
