@@ -527,7 +527,13 @@ Directions
 
 1. Mix all ingredients together until smooth.
 
-----
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Spicy Mustard Sauce
 ===================
@@ -552,13 +558,7 @@ Directions
 
 1. Whisk all ingredients together in bowl.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Mustard-Creme Fraiche Sauce
 ===========================
@@ -726,13 +726,7 @@ Directions
 
 1. Whisk all ingredients together in small bowl.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Thai Seafood Dipping Sauce
 ==========================
@@ -786,13 +780,7 @@ Directions
    sauce is reduced to 3/4 cup and forms syrupy glaze, about 4 minutes.
    Cover to keep warm.
 
-.. raw:: pdf
-
-   OddPageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Ssam Sauce
 ==========
