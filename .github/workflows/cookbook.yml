@@ -26,7 +26,7 @@ jobs:
         run: |
           RAW_TAG="${{ steps.last_release.outputs.tag_name }}"
           VERSION_TAG="${RAW_TAG:1}"
-          IFS=';'
+          IFS='.'
           read -ra VERSION_PART <<< "$VERSION_TAG"
           echo "$VERSION_PART[0]" > revision-number-major.txt
           echo "$VERSION_PART[1]" > revision-number-minor.txt
