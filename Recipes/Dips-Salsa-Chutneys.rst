@@ -304,7 +304,13 @@ Note
 ----
 To make this salsa spicier, reserve and add the jalapeno seeds to the blender before processing
 
-----
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Avocado Tomatillo Salsa
 =======================
