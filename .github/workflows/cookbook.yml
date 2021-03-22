@@ -26,14 +26,14 @@ jobs:
           VERSION_TAG="${RAW_TAG:1}"
           IFS='.'
           read -ra VERSION_PART <<< "$VERSION_TAG"
-          echo "${VERSION_PART[0]}" > $REVISION_MAJOR_NUMBER_FILE
-          echo "${VERSION_PART[1]}" > $REVISION_MINOR_NUMBER_FILE
+          echo "${VERSION_PART[0]}" > ${{ env.REVISION_MAJOR_NUMBER_FILE }}
+          echo "${VERSION_PART[1]}" > ${{ env.REVISION_MINOR_NUMBER_FILE }}
       - name: Increment minor revision
         run: |
-          if ! test -f $REVISION_MINOR_NUMBER_FILE; then
-            echo 0 > $REVISION_MINOR_NUMBER_FILE
+          if ! test -f ${{ env.REVISION_MINOR_NUMBER_FILE }}; then
+            echo 0 > ${{ env.REVISION_MINOR_NUMBER_FILE }}
           else
-            echo $(($(cat $REVISION_MINOR_NUMBER_FILE) + 1)) > $REVISION_MINOR_NUMBER_FILE
+            echo $(($(cat ${{ env.REVISION_MINOR_NUMBER_FILE }}) + 1)) > ${{ env.REVISION_MINOR_NUMBER_FILE }}
           fi
       - name: Save revision file artifacts
         uses: actions/upload-artifact@v2
