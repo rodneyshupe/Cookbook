@@ -45,7 +45,7 @@ jobs:
           echo "${VERSION_PART[1]}" > ${{ env.WF_REVISION_MINOR_NUMBER_FILE }}
 
       - name: Debug - Previous Version Number
-        run: echo "Previous Document Version - v${{ env.WF_REVISION_MAJOR_NUMBER_FILE }}.${{ env.WF_REVISION_MINOR_NUMBER_FILE }}"
+        run: echo "Previous Document Version - v$(cat ${{ env.WF_REVISION_MAJOR_NUMBER_FILE }}).$(cat ${{ env.WF_REVISION_MINOR_NUMBER_FILE }})"
 
       - name: Increment minor revision
         run: |
@@ -56,7 +56,7 @@ jobs:
           fi
 
       - name: Debug - New Version Number
-        run: echo "New Document Version - v${{ env.WF_REVISION_MAJOR_NUMBER_FILE }}.${{ env.WF_REVISION_MINOR_NUMBER_FILE }}"
+        run: echo "New Document Version - v$(cat ${{ env.WF_REVISION_MAJOR_NUMBER_FILE }}).$(cat ${{ env.WF_REVISION_MINOR_NUMBER_FILE }})"
 
       - name: Save revision file artifacts
         uses: actions/upload-artifact@v2
@@ -181,9 +181,19 @@ jobs:
       with:
         name: published-files
 
-    - name: TODO - Setup rclone and upload
-      run: |
-        echo "TODO: Setup rclone and upload"
+    - name: Push PDF to GDrive.
+      uses: wei/rclone@v1
+      env:
+        RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
+      with:
+        args: copy ${{ env.WF_PARAM_PUBLISHED_PDF }} gdrive:Cooking
+
+    - name: Push EPUB to GDrive.
+      uses: wei/rclone@v1
+      env:
+        RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
+      with:
+        args: copy ${{ env.WF_PARAM_PUBLISHED_EPUB }} gdrive:Cooking
 
   backup-via-ssh:
     needs: build_publishable
@@ -194,12 +204,7 @@ jobs:
       uses: actions/download-artifact@v2
       with:
         name: published-files
-    - name: Push PDF to GDrive.
-      uses: wei/rclone@v1
-      env:
-        RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
-      with:
-        args: copy ./ --include "/*" gdrive:Cooking
+
     - name: Upload via SSH
       uses: appleboy/scp-action@master
       with:
@@ -210,4 +215,3 @@ jobs:
         source: "*"
         target: "Cooking"
         overwrite: true
-
