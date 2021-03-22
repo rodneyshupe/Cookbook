@@ -68,7 +68,7 @@ jobs:
           path: |
             ${{ env.WF_REVISION_MAJOR_NUMBER_FILE }}
             ${{ env.WF_REVISION_MINOR_NUMBER_FILE }}
-        if-no-files-found: error
+          if-no-files-found: error
 
   build_substitution:
     needs: set_release_number
