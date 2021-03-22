@@ -28,8 +28,8 @@ jobs:
           VERSION_TAG="${RAW_TAG:1}"
           IFS='.'
           read -ra VERSION_PART <<< "$VERSION_TAG"
-          echo "$VERSION_PART[0]" > revision-number-major.txt
-          echo "$VERSION_PART[1]" > revision-number-minor.txt
+          echo "${VERSION_PART[0]}" > revision-number-major.txt
+          echo "${VERSION_PART[1]}" > revision-number-minor.txt
       - name: Debug check files 2
         run: |
           ls
