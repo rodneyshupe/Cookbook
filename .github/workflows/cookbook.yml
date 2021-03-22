@@ -190,12 +190,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-
     - name: Download latest putput files.
       uses: actions/download-artifact@v2
       with:
         name: published-files
-
+    - name: Push PDF to GDrive.
+      uses: wei/rclone@v1
+      env:
+        RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
+      with:
+        args: copy ./ --include "/*" gdrive:Cooking
     - name: Upload via SSH
       uses: appleboy/scp-action@master
       with:
