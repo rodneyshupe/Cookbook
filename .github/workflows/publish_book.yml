@@ -68,6 +68,7 @@ jobs:
           path: |
             ${{ env.WF_REVISION_MAJOR_NUMBER_FILE }}
             ${{ env.WF_REVISION_MINOR_NUMBER_FILE }}
+        if-no-files-found: error
 
   build_substitution:
     needs: set_release_number
@@ -100,6 +101,7 @@ jobs:
         name: substitution-file
         path: |
           ${{ env.TEMP_SUBSTITUTION_FILE }}
+        if-no-files-found: error
 
   build_pdf:
     needs: build_substitution
@@ -152,6 +154,7 @@ jobs:
         name: published-files
         path: |
           ${{ env.WF_PARAM_PUBLISHED_PDF }}
+        if-no-files-found: error
 
   build_html:
     needs: build_substitution
@@ -198,6 +201,7 @@ jobs:
         name: published-files
         path: |
           ${{ env.WF_PARAM_PUBLISHED_HTML }}
+        if-no-files-found: error
 
   build_epub:
     needs: build_html
@@ -236,6 +240,7 @@ jobs:
         name: published-files
         path: |
           ${{ env.WF_PARAM_PUBLISHED_EPUB }}
+        if-no-files-found: error
 
   upload_release:
     needs: [build_pdf, build_epub]
