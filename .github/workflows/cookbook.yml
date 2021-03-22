@@ -17,11 +17,6 @@ jobs:
         with:
           myToken: ${{ github.token }}
           view_top: 1
-      - name: Debug check files 1
-        run: |
-          ls
-          cat revision-number-major.txt
-          cat revision-number-minor.txt
       - name: Build Revision Number Files
         run: |
           RAW_TAG="${{ steps.last_release.outputs.tag_name }}"
@@ -30,11 +25,13 @@ jobs:
           read -ra VERSION_PART <<< "$VERSION_TAG"
           echo "${VERSION_PART[0]}" > revision-number-major.txt
           echo "${VERSION_PART[1]}" > revision-number-minor.txt
-      - name: Debug check files 2
+      - name: Increment minor revision
         run: |
-          ls
-          cat revision-number-major.txt
-          cat revision-number-minor.txt
+          if ! test -f $REVISION_MINOR_NUMBER_FILE; then
+            echo 0 > $REVISION_MINOR_NUMBER_FILE
+          else
+            echo $(($(cat $REVISION_MINOR_NUMBER_FILE) + 1)) > $REVISION_MINOR_NUMBER_FILE
+          fi
       - name: Check in Revision number files
         uses: EndBug/add-and-commit@v7.0.0
         with:
@@ -56,21 +53,17 @@ jobs:
       CHECKIN_MSG_FILE: checkin_msg.temp
     steps:
     - uses: actions/checkout@v2
-    - name: Set aside revisions
-      run: |
-        if test -f $REVISION_MAJOR_NUMBER_FILE; then mv $REVISION_MAJOR_NUMBER_FILE $REVISION_MAJOR_NUMBER_FILE.ori; fi
-        if test -f $REVISION_MINOR_NUMBER_FILE; then mv $REVISION_MINOR_NUMBER_FILE $REVISION_MINOR_NUMBER_FILE.ori; fi
+    #- name: Set aside revisions
+    #  run: |
+    #    if test -f $REVISION_MAJOR_NUMBER_FILE; then mv $REVISION_MAJOR_NUMBER_FILE $REVISION_MAJOR_NUMBER_FILE.ori; fi
+    #    if test -f $REVISION_MINOR_NUMBER_FILE; then mv $REVISION_MINOR_NUMBER_FILE $REVISION_MINOR_NUMBER_FILE.ori; fi
     - name: Download Revision Number File artifacts
       id: getRevNums
       uses: actions/download-artifact@v2
       with:
         name: revision-numbers
-      continue-on-error: true
     - name: Update revision and build temp substitution file
       run: |
-        ls -al
-        if ! test -f $REVISION_MINOR_NUMBER_FILE; then echo 0 > $REVISION_MINOR_NUMBER_FILE; fi
-        if ! test -f $TEMP_SUBSTITUTION_FILE; then echo $(($(cat $REVISION_MINOR_NUMBER_FILE) + 1)) > $REVISION_MINOR_NUMBER_FILE; fi
         echo "DOCUMENT_VERSION=$(cat $REVISION_MAJOR_NUMBER_FILE).$(cat $REVISION_MINOR_NUMBER_FILE)" >> $GITHUB_ENV
         echo ".. |Date| replace:: $(date +%B\ %d\,\ %Y)"  > $TEMP_SUBSTITUTION_FILE
         echo "  "  >> $TEMP_SUBSTITUTION_FILE
