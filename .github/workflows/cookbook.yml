@@ -175,7 +175,8 @@ jobs:
         name: published-files
 
     - name: TODO - Setup rclone and upload
-      run: echo "TODO: Setup rclone and upload"
+      run: |
+        echo "TODO: Setup rclone and upload"
 
   backup-via-ssh:
     needs: build_publishable
