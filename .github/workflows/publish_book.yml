@@ -242,8 +242,110 @@ jobs:
           ${{ env.WF_PARAM_PUBLISHED_EPUB }}
         if-no-files-found: error
 
+  build_website:
+    needs: build_html
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Setup Environment
+      run: |
+        sudo apt-get update && sudo apt-get install html-xml-utils htmldoc
+        mkdir www
+
+    - name: Set some Environment Variables.
+      run: |
+        PUBLISHED_FILE="${{ env.WF_PARAM_PUBLISHED_HTML }}"
+        #echo "OUT_DIR=www/${PUBLISHED_FILE%.html}" >> $GITHUB_ENV
+        echo "OUT_DIR=www" >> $GITHUB_ENV
+
+    - name: Download latest output files.
+      uses: actions/download-artifact@v2
+      with:
+        name: published-files
+
+    - name: Strip TOC
+      run: |
+        cat "${{ env.WF_PARAM_PUBLISHED_HTML }}" | hxremove 'aside' > "Stripped_${{ env.WF_PARAM_PUBLISHED_HTML }}"
+
+    - name: Split Published HTML into multiple files.
+      run: |
+        rm --recursive --force "${{ env.OUT_DIR }}"
+        mkdir --parents "${{ env.OUT_DIR }}"
+        htmldoc --format htmlsep \
+            --outdir "${{ env.OUT_DIR }}" \
+            --headfootfont sans \
+            --no-title \
+            --toclevels 2 \
+            --toctitle "Contents" \
+            "Stripped_${{ env.WF_PARAM_PUBLISHED_HTML }}"
+
+    - name: Breakout individual directories.
+      run: |
+        cd "${{ env.OUT_DIR }}"
+        IFS="$"
+        for HREF in $(cat index.html | hxnormalize -x | hxselect -c -s "$" 'li a::attr(href)'); do
+            HTML_FILE=$(echo ${HREF} | cut -d'#' -f 1)
+            if test -f ${HTML_FILE}; then
+                FILE=$(basename ${HTML_FILE})
+                DIR_NAME="${FILE%.html}"
+                TITLE="$(cat ${HTML_FILE} | hxnormalize -x | hxselect -c h2 | hxselect -c a)"
+                echo "processing ${HTML_FILE} (${TITLE}) into ${DIR_NAME}"
+                cat ${HTML_FILE} \
+                    | hxnormalize -x \
+                    | hxremove -i hr \
+                    | grep --no-messages --invert-match '<p><a' \
+                    | grep --no-messages --invert-match '<p style="page-break-before: always">' \
+                    | hxnormalize -x \
+                    > temp.html
+                rm --recursive --force ${DIR_NAME}
+                mkdir --parents ${DIR_NAME}
+                htmldoc --format htmlsep \
+                    --outdir ${DIR_NAME} \
+                    --no-title \
+                    --toclevels 3 \
+                    --toctitle "${TITLE}" \
+                    temp.html
+                #rm ${DIR_NAME}/${HTML_FILE}
+                rm ${HTML_FILE}
+                sed --in-place "s/${HREF}/${DIR_NAME}\/index.html/" index.html
+            else
+                echo "Unable to process ${HTML_FILE}"
+            fi
+        done;
+        unset IFS
+        cd ../..
+
+    - name: Bundle into tar file.
+      run: |
+        tar --create --file="${{ env.WF_PARAM_PUBLISHED_WWW }}" www
+
+    - name: Save Published files
+      uses: actions/upload-artifact@v2
+      with:
+        name: published-files
+        path: |
+          ${{ env.WF_PARAM_PUBLISHED_WWW }}
+        if-no-files-found: error
+
+  upload_website:
+    needs: build_website
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Download latest output files.
+      uses: actions/download-artifact@v2
+      with:
+        name: published-files
+
+    - name: Push Website to GDrive.
+      uses: wei/rclone@v1
+      env:
+        RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
+      with:
+        args: copy ${{ env.WF_PARAM_PUBLISHED_WWW }} gdrive:Cooking
+
   upload_release:
-    needs: [build_pdf, build_epub]
+    needs: [build_pdf, build_epub, build_website]
     runs-on: ubuntu-latest
     steps:
 
@@ -268,7 +370,7 @@ jobs:
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         version: v${{ env.PUBLISHED_DOCUMENT_VERSION }}
-        assets: '[ "${{ env.WF_PARAM_PUBLISHED_PDF }}", "${{ env.WF_PARAM_PUBLISHED_EPUB }}" ]'
+        assets: '[ "${{ env.WF_PARAM_PUBLISHED_PDF }}", "${{ env.WF_PARAM_PUBLISHED_EPUB }}", "${{ env.WF_PARAM_PUBLISHED_WWW }}" ]'
         overwrite: false
 
   publish_to_google:
@@ -296,7 +398,7 @@ jobs:
         args: copy ${{ env.WF_PARAM_PUBLISHED_EPUB }} gdrive:Cooking
 
   #backup-via-ssh:
-  #  needs: [build_pdf, build_epub]
+  #  needs: [build_pdf, build_epub, build_website]
   #  runs-on: ubuntu-latest
   #
   #  steps:
