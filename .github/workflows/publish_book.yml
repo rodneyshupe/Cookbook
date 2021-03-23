@@ -11,6 +11,7 @@ env:
   WF_PARAM_PUBLISHED_PDF: RodneyFavoriteRecipes.pdf
   WF_PARAM_PUBLISHED_HTML: RodneyFavoriteRecipes.html
   WF_PARAM_PUBLISHED_EPUB: RodneyFavoriteRecipes.epub
+  WF_PARAM_PUBLISHED_WWW: RodneyFavoriteRecipes.www.tar
   WF_REVISION_MAJOR_NUMBER_FILE: revnum_major.txt
   WF_REVISION_MINOR_NUMBER_FILE: revnum_minor.txt
 
