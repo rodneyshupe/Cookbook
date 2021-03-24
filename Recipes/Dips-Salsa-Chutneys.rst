@@ -575,10 +575,6 @@ Directions
    stand until flavors meld, at least 30 minutes. Drizzle with olive oil
    and serve.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
 Variations
 ----------
 
@@ -612,6 +608,10 @@ Hummus with Smoked Paprika
 -  In step 2, replace cumin with smoked paprika.
 -  In step 3, instead of sprinkling with chickpeas and cilantro, use
    scallion greens, and pine nuts.
+
+.. raw:: pdf
+
+   PageBreak recipePage
 
 Roasted Red Pepper Hummus
 ^^^^^^^^^^^^^^^^^^^^^^^^^

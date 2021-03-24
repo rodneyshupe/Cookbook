@@ -45,13 +45,7 @@ Directions
 4. Top cheese wheel with sun-dried tomato mixture and place in oven for
    10 minutes.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Tequila Garlic Prawns
 =====================

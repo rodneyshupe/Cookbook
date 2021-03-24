@@ -37,13 +37,7 @@ Directions
 1. Layer Chorizo on top, olive in the middle, and cheese on the bottom.
 2. Drizzle with honey and sprinkle with slivered almonds.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Salmon Canapes With Horseradish Cream
 =====================================
@@ -325,13 +319,7 @@ Make Ahead
 The canapes can be refrigerated for up to 4 hours. Bring to room
 temperature before serving.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Cheese and Onion Bruschetta
 ===========================
@@ -442,7 +430,7 @@ Notes
 TO MAKE AHEAD: The filled and unbaked jalapeños can be covered and
 refrigerated for up to 1 day. Add 3 minutes to the baking time.
 
-. raw:: pdf
+.. raw:: pdf
 
    PageBreak recipePage
 
@@ -530,13 +518,7 @@ Directions
 2. Spread on baguette slices
 3. Broil in oven until mixture begins to melt (approx 5-10 min.)
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Saltine Chips
 =============

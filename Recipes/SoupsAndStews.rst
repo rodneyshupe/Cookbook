@@ -779,13 +779,7 @@ Directions
    sprinkle of chives and optionally `Candied Bacon <#candied-bacon>`__
    or `Maple Sour Cream <#maple-sour-cream>`__.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Candied Bacon
 -------------
@@ -2903,13 +2897,7 @@ couscous, or casseroles or as a braising liquid. \* **Zipper-Lock Bag:**
 Line a 4-cup measuring cup with a zipper-lock bag; pour in the cooled
 stock. Lay the bag flat to freeze. Use for soups, stews, or gravy.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Vegetable Broth
 ===============
