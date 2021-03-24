@@ -278,19 +278,32 @@ jobs:
             --no-title \
             --toclevels 2 \
             --toctitle "Contents" \
+            --quiet \
             "Stripped_${{ env.WF_PARAM_PUBLISHED_HTML }}"
 
     - name: Breakout individual directories.
       run: |
+        START_DIR="${PWD}"
         cd "${{ env.OUT_DIR }}"
-        IFS="$"
-        for HREF in $(cat index.html | hxnormalize -x | hxselect -c -s "$" 'li a::attr(href)'); do
+        HREFS="$(cat index.html \
+          | hxnormalize -x \
+          | grep --ignore-case '<a HREF="' \
+          | grep --no-messages --invert-match --ignore-case '.html#1">' \
+          | sed 's/.*<li><a href="//gi' \
+          | sed 's/".*//g' \
+          | tr '\n' ' ')"
+        for HREF in ${HREFS}; do
             HTML_FILE=$(echo ${HREF} | cut -d'#' -f 1)
             if test -f ${HTML_FILE}; then
                 FILE=$(basename ${HTML_FILE})
                 DIR_NAME="${FILE%.html}"
-                TITLE="$(cat ${HTML_FILE} | hxnormalize -x | hxselect -c h2 | hxselect -c a)"
-                echo "processing ${HTML_FILE} (${TITLE}) into ${DIR_NAME}"
+                TITLE="$(cat ${HTML_FILE} \
+                  | hxnormalize -x \
+                  | grep --ignore-case '<h2>.*<a[^>]*NAME="' \
+                  | sed 's/<h2>.*<a[^>]*>//gi' \
+                  | sed 's/<\/a>.*<\/h2>//gi' \
+                  )"
+                echo "Processing ${HTML_FILE} (${TITLE}) into ${DIR_NAME}"
                 cat ${HTML_FILE} \
                     | hxnormalize -x \
                     | hxremove -i hr \
@@ -305,6 +318,7 @@ jobs:
                     --no-title \
                     --toclevels 3 \
                     --toctitle "${TITLE}" \
+                    --quiet \
                     temp.html
                 #rm ${DIR_NAME}/${HTML_FILE}
                 rm ${HTML_FILE}
@@ -313,8 +327,7 @@ jobs:
                 echo "Unable to process ${HTML_FILE}"
             fi
         done;
-        unset IFS
-        cd ../..
+        cd "${START_DIR}"
 
     - name: Bundle into tar file.
       run: |
