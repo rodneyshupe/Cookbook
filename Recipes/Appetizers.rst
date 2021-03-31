@@ -457,9 +457,9 @@ Red pepper Coulis/ or drizzled 20 year old Balsamic Vinegar
 - 300 ml red pepper, roasted
 - sea salt
 - fresh cracked pepper
-- 100PageBreak recipePagewhipping cream
+- 100 ml whipping cream
 - 1 shallot, chopped
-- 50PageBreak recipePagewhite wine
+- 50 ml white wine
 - 1 tablespoon extra virgin olive oil
 - 1 clove garlic, chopped
 
