@@ -109,7 +109,7 @@ Chocolate Pot de Creme
 
 Source: `Glenn & Friends <https://www.youtube.com/watch?v=3udsPg7f3gk>`__
 
-Yield: 4 servings
+Yield: 6 servings
 
 Ingredients
 -----------
