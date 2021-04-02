@@ -1425,3 +1425,58 @@ his jams until they reach his desired consistency, says. "But, it would
 be appropriate to add a thickener like powdered pectin if you achieve the
 flavor you want."
 
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Chicken Tinga
+=============
+
+Ingredients
+-----------
+
+- 570 g Chicken Tenders
+- 6 Flour Tortillas, 6-inch
+- 2 clove Garlic
+- 1 Yellow Onion
+- 62 g Tomato Paste
+- Sour Cream
+- 1 Avocado
+- 9g Soy Sauce
+- 1 Lime
+- 1 Sweet Bell Pepper
+- 1 tablespoons Chili-Cumin Spice Blend
+- 1 teaspoon Chipotle Powder
+
+Directions
+----------
+
+1. Preheat the oven to 450°F. Start preparing the recipe when the oven is
+   ready. Read the entire recipe card. Prepare a parchment-lined baking
+   sheet. Pat chicken dry with paper towels, then season with salt, pepper
+   and half the Chili-Cumin Spice Blend. Arrange chicken on the baking
+   sheet. Drizzle with 2 tsp oil (double for 4 portions).Roast chicken on
+   the middle rack of oven for 10-12 min, until cooked through. With
+   2 forks, shred chicken into 1/2-inch pieces.
+2. Meanwhile, wash and dry all produce. Thinly slice pepper. Thinly slice
+   onion. Halve, pit, peel and thinly slice avocado. Mince garlic. Zest
+   lime. Juice half the lime and cut remaining lime into wedges.
+3. In a large pan, heat 1 tbsp oil (double for 4 portions) over medium
+   heat. When the pan is hot, add peppers and onions. Cook, stirring
+   occasionally, for 6-8 min, until very tender.
+4. Add tomato sauce base, half the garlic, a pinch of chipotle powder and
+   remaining Chili-Cumin Spice Blend. Cook for 30 sec, stirring to toast.
+   Add shredded chicken, soy sauce, 1 tbsp butter and 1/4 cup warm water
+   (double both for 4 portions).Cook, stirring often, for 2-3 min, until
+   well combined.
+5. Meanwhile, wrap tortillas in paper towels. Microwave until tortillas
+   are warm and flexible, 1 min.
+6. In a medium bowl, mix sour cream, lime zest, lime juice and remaining
+   garlic. Season with salt. Serve warmed tortillas with chicken tinga,
+   avocado slices and a dollop of lime crema over top. Squeeze a lime
+   wedge over tacos if desired. Enjoy!
+
