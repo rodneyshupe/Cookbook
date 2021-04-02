@@ -123,8 +123,8 @@ Notes
 
 ----
 
-Slow Cooker Chili
-=================
+Faith's Simple Chili
+====================
 
 +-----------------------+------------------------+---------------------+
 | Prep Time: 10 minutes | Cooking Time: 8+ hours | Yield: 4-6 servings |
@@ -150,6 +150,8 @@ Directions
 2. Add beef and onions to slow cooker, stir in all other ingredients and set
    slow cooker to med and cook for at least 8 hours.
 
+.. include:: InsstantPot/Chili.rst
+
 .. raw:: pdf
 
    PageBreak recipePage
@@ -157,6 +159,7 @@ Directions
 .. raw:: html
 
    <p style="page-break-before: always"/>
+
 
 Beef Stew
 =========
