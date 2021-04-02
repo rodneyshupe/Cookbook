@@ -20,6 +20,8 @@ Instant Pot
 
 .. include:: ChickenBlackBeanandRiceBurritoBowls.rst
 
+.. include:: Chili.rst
+
 .. include:: Jambalaya.rst
 
 .. include:: ShrimpandGrits.rst
