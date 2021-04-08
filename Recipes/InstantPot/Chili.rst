@@ -64,9 +64,19 @@ Directions
    toppings. If desired refrigerate the chili and warm up the next day and
    serve for even better flavor.
 
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Notes
 -----
-Slow Cooker Instructions:
+
+Slow Cooker Directions:
+
 1. Heat a pan over medium high heat. Add in the bacon and onion. Saute the
    onion in the bacon grease. Then add in the ground beef and brown for
    about 5-10 minutes. Spoon off any excess grease.
