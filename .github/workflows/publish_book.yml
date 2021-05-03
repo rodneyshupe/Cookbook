@@ -369,17 +369,11 @@ jobs:
       with:
         name: published-files
 
-    - name: Check Files
-      run: ls -alR ${{steps.download.outputs.download-path}}/
-
     - name: Download Revision Number File artifacts
       id: getRevNums
       uses: actions/download-artifact@v2
       with:
         name: revision-numbers
-
-    - name: Check Files
-      run: ls -alR ${{steps.download.outputs.download-path}}/
 
     - name: Build new tag version
       run: |
@@ -388,9 +382,6 @@ jobs:
 
     #- name: Checkout code
     #  uses: actions/checkout@v2
-
-    - name: Check Files
-      run: ls -alR ${{steps.download.outputs.download-path}}/
 
     - name: Create Release
       id: create_release
