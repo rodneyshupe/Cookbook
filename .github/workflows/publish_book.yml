@@ -386,8 +386,8 @@ jobs:
         echo "PUBLISHED_DOCUMENT_VERSION=$(cat ${{ env.WF_REVISION_MAJOR_NUMBER_FILE }}).$(cat ${{ env.WF_REVISION_MINOR_NUMBER_FILE }})" >> $GITHUB_ENV
         echo "Create Tag - ${{ env.PUBLISHED_DOCUMENT_VERSION }}"
 
-    - name: Checkout code
-      uses: actions/checkout@v2
+    #- name: Checkout code
+    #  uses: actions/checkout@v2
 
     - name: Check Files
       run: ls -alR ${{steps.download.outputs.download-path}}/
