@@ -320,7 +320,6 @@ At end of step 7, cover dish with greased aluminum foil and refrigerate for
 up to 24 hours. When ready to eat, bake lasagna as directed in step 8,
 increasing covered baking time to 55 minutes.
 
-
 .. raw:: pdf
 
    PageBreak recipePage
