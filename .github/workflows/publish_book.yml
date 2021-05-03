@@ -396,6 +396,9 @@ jobs:
         draft: false
         prerelease: false
   
+    - name: Check Files
+      run: ls -alR ${{steps.download.outputs.download-path}}/
+
     - name: Upload Release Asset PDF
       id: upload-release-asset-pdf
       uses: actions/upload-release-asset@v1
