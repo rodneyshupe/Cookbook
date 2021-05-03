@@ -363,7 +363,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-    - name: Download latest putput files.
+    - name: Download latest output files.
       id: download
       uses: actions/download-artifact@v2
       with:
@@ -445,7 +445,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-    - name: Download latest putput files.
+    - name: Download latest output files.
       uses: actions/download-artifact@v2
       with:
         name: published-files
