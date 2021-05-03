@@ -381,6 +381,7 @@ jobs:
 
     - name: Checkout code
       uses: actions/checkout@v2
+
     - name: Create Release
       id: create_release
       uses: actions/create-release@v1
@@ -393,6 +394,7 @@ jobs:
           Version: v${{ env.PUBLISHED_DOCUMENT_VERSION }}
         draft: false
         prerelease: false
+  
     - name: Upload Release Asset PDF
       id: upload-release-asset-pdf
       uses: actions/upload-release-asset@v1
@@ -403,8 +405,9 @@ jobs:
         asset_path: ./${{ env.WF_PARAM_PUBLISHED_PDF }}
         asset_name: ${{ env.WF_PARAM_PUBLISHED_PDF }}
         asset_content_type: application/pdf
-    - name: Upload Release Asset PDF
-      id: upload-release-asset-pdf
+
+    - name: Upload Release Asset WWW
+      id: upload-release-asset-www
       uses: actions/upload-release-asset@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -413,8 +416,9 @@ jobs:
         asset_path: ./${{ env.WF_PARAM_PUBLISHED_WWW }}
         asset_name: ${{ env.WF_PARAM_PUBLISHED_WWW }}
         asset_content_type: application/tar
-    - name: Upload Release Asset PDF
-      id: upload-release-asset-pdf
+  
+    - name: Upload Release Asset EPUB
+      id: upload-release-asset-epub
       uses: actions/upload-release-asset@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -423,6 +427,7 @@ jobs:
         asset_path: ./${{ env.WF_PARAM_PUBLISHED_EPUB }}
         asset_name: ${{ env.WF_PARAM_PUBLISHED_EPUB }}
         asset_content_type: application/epub
+  
     #- name: Tag and Release
     #  uses: jasondavis303/tag-and-release-and-upload@v1.2.0
     #  with:
