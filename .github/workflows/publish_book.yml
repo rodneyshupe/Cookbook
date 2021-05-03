@@ -379,13 +379,57 @@ jobs:
         echo "PUBLISHED_DOCUMENT_VERSION=$(cat ${{ env.WF_REVISION_MAJOR_NUMBER_FILE }}).$(cat ${{ env.WF_REVISION_MINOR_NUMBER_FILE }})" >> $GITHUB_ENV
         echo "Create Tag - ${{ env.PUBLISHED_DOCUMENT_VERSION }}"
 
-    - name: Tag and Release
-      uses: jasondavis303/tag-and-release-and-upload@v1.2.0
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: Create Release
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
       with:
-        github-token: ${{ secrets.GITHUB_TOKEN }}
-        version: v${{ env.PUBLISHED_DOCUMENT_VERSION }}
-        assets: '[ "${{ env.WF_PARAM_PUBLISHED_PDF }}", "${{ env.WF_PARAM_PUBLISHED_EPUB }}", "${{ env.WF_PARAM_PUBLISHED_WWW }}" ]'
-        overwrite: false
+        tag_name: v${{ env.PUBLISHED_DOCUMENT_VERSION }}
+        release_name: v${{ env.PUBLISHED_DOCUMENT_VERSION }}
+        body: |
+          Version: v${{ env.PUBLISHED_DOCUMENT_VERSION }}
+        draft: false
+        prerelease: false
+    - name: Upload Release Asset PDF
+      id: upload-release-asset-pdf
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps 
+        asset_path: ./${{ env.WF_PARAM_PUBLISHED_PDF }}
+        asset_name: ${{ env.WF_PARAM_PUBLISHED_PDF }}
+        asset_content_type: application/pdf
+    - name: Upload Release Asset PDF
+      id: upload-release-asset-pdf
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps 
+        asset_path: ./${{ env.WF_PARAM_PUBLISHED_WWW }}
+        asset_name: ${{ env.WF_PARAM_PUBLISHED_WWW }}
+        asset_content_type: application/tar
+    - name: Upload Release Asset PDF
+      id: upload-release-asset-pdf
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps 
+        asset_path: ./${{ env.WF_PARAM_PUBLISHED_EPUB }}
+        asset_name: ${{ env.WF_PARAM_PUBLISHED_EPUB }}
+        asset_content_type: application/epub
+    #- name: Tag and Release
+    #  uses: jasondavis303/tag-and-release-and-upload@v1.2.0
+    #  with:
+    #    github-token: ${{ secrets.GITHUB_TOKEN }}
+    #    version: v${{ env.PUBLISHED_DOCUMENT_VERSION }}
+    #    assets: '[ "${{ env.WF_PARAM_PUBLISHED_PDF }}", "${{ env.WF_PARAM_PUBLISHED_EPUB }}", "${{ env.WF_PARAM_PUBLISHED_WWW }}" ]'
+    #    overwrite: false
 
   publish_to_google:
     needs: [build_pdf, build_epub]
