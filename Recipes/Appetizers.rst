@@ -450,7 +450,6 @@ Ingredients
 - 7 oz goats cheese
 - 1/2 lemon, juiced
 
-
 Red pepper Coulis/ or drizzled 20 year old Balsamic Vinegar
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
