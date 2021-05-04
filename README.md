@@ -2,7 +2,7 @@
 
 This is a collection of recipes containing the favorites of Rodney Shupe and family
 
-<img src="Cover.jpg" alt="Cover" width="400"/>
+<img src="Cover.png" alt="Cover" width="400"/>
 
 Releases are created automatically via github actions.
 
