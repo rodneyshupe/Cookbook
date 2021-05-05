@@ -72,7 +72,7 @@
 
 |
 
-.. class:: center
+.. class:: title center
 
 Recipes from the Messy Chef
 
