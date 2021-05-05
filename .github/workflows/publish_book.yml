@@ -3,8 +3,16 @@ name: "Publish Cookbook"
 on:
   push:
     paths:
+    - '**.rst'
     - 'Recipes/**.rst'
     - 'Appendix/**.rst'
+    - 'Cover.png'
+    - 'Cookbook.css'
+    - 'Cookbook.style'
+    - 'Cookbook.style.json'
+
+  workflow_dispatch:
+
 env:
   WF_PARAM_PDF_SOURCE_RST: RodneyFavoriteRecipes.rst
   WF_PARAM_HTML_SOURCE_RST: RodneyFavoriteRecipes.html.rst
