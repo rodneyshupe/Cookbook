@@ -1,14 +1,9 @@
-###########################
-Recipes from the Messy Chef
-###########################
+..
+   Recipes from the Messy Chef: a collection of recipes containing the favourites of Rodney Shupe and family
 
 .. raw:: pdf
 
     SetPageCounter 0 lowerroman
-
-.. class:: center
-
-a collection of recipes containing the favourites of Rodney Shupe and family
 
 .. include:: temp_substitutions.rst
 
@@ -60,6 +55,36 @@ a collection of recipes containing the favourites of Rodney Shupe and family
 .. raw:: html
 
    <p style="page-break-before: always"/>
+
+|
+
+.. raw:: pdf
+
+   PageBreak cutePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+|
+
+|
+
+|
+
+.. class:: center
+
+Recipes from the Messy Chef
+
+.. class:: center
+
+a collection of recipes containing the favourites of Rodney Shupe and family
+
+|
+
+|
+
+|
 
 :Author: Rodney Shupe <rodney@shupe.ca>
 :Revision: |Revision|
