@@ -95,7 +95,7 @@ Ingredients
 - 1-2 Tbsp coconut sugar (or maple syrup)
 - 1/2 tsp ground turmeric (plus more to taste)
 - 1/3 cup light coconut milk (optional)
-- Cooked brown rice (I love this method)
+- Cooked brown rice
 - Pita or naan (omit if gluten free / check for vegan friendliness)
 - Pickled red onion*
 - Fresh chopped cilantro
@@ -120,10 +120,8 @@ Directions
 7. Taste and adjust seasonings as needed, adding more turmeric for depth of
    flavor, coconut sugar for sweetness/flavor balance, or a pinch of salt
    for saltiness.
-8. To serve, divide brown rice (optional) and lentils between 2-3 (amount
-   as original recipe is written / adjust if altering batch size) serving
-   bowls and garnish with cilantro, pickled onions, and pita or naan for
-   dipping (optional).
+8. To serve, divide brown rice and lentils between 2-3 serving bowls and
+   garnish with cilantro, pickled onions, and pita or naan for (optional).
 9. Store leftovers separately in the refrigerator for up to 4 days. Reheat
    on the stovetop, adding water as needed for moisture, or in the
    microwave.
