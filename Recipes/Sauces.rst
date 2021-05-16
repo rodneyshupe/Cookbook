@@ -664,9 +664,9 @@ Ingredients
 - 2-5 Thai chilies (seeds removed and roughly chopped)
 - 4 cloves garlic (minced)
 - 5-6 cilantro stems, chopped
-- 2 Tbsp fish sauce
-- 3 Tbsp lime juice
-- 2 tsp finely chopped palm sugar (can substitute brown sugar)
+- 2 tablespoons fish sauce
+- 3 tablespoons lime juice
+- 2 teaspoon finely chopped palm sugar (can substitute brown sugar)
 
 Directions
 ----------
@@ -1736,24 +1736,26 @@ Directions
 
    <p style="page-break-before: always"/>
 
-Garlic Chilli Oil
-=================
+Garlic Chili Oil
+================
 
 Ingredients
 -----------
 
-- 4 garlic cloves, thinly sliced
-- 1/4 cup vegetable oil
-- 1 tablespoon black or white sesame seeds
-- 1 tablespoon gochugaru (coarse Korean red pepper powder) or 1 1/2 tsp. crushed red pepper flakes
-- Kosher salt
+- 1/4 cup avocado oil or vegetable oil
+- 3 - 4 cloves garlic, peeled and thinly sliced
+- 1 tablespoon toasted sesame seeds
+- 1 tablespoon crushed red chili flakes
 
 Directions
 ----------
 
-1. Cook garlic and 1/4 cup oil in a medium pot over
-   medium heat, stirring often, until garlic is beginning to turn golden,
-   about 3 minutes. Stir in sesame seeds and cook, stirring occasionally,
-   until garlic is golden brown and crisp, about 1 minute. Transfer mixture
-   to a small bowl and stir in gochugaru; season with salt. Set garlic oil
-   aside. Wipe out pot and set aside.
+1. Add crushed red chili flakes to a small heat-safe bowl and set aside.
+2. Heat 1/4 cup oil in a small pot over medium heat.
+3. Once hot, add thinly sliced garlic and pan fry, stirring often, until
+   garlic is just beginning to turn golden, approx. 2 minutes.
+4. Stir in sesame seeds and cook an additional minute until garlic is crisp
+   and toasty. Take care not to overcook the garlic as it will continue
+   crisping once removed from heat.
+5. Carefully transfer mixture to the red pepper flake bowl. Mix well and
+   allow to cool.

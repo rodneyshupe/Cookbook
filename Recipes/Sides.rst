@@ -943,6 +943,8 @@ frozen latkes.
 Buttered Spaetzle
 =================
 
+Yield: Serves 4
+
 Ingredients
 -----------
 
@@ -961,9 +963,9 @@ Directions
 1. Beat eggs, milk, and seasonings in a medium bowl. Stir in flour to
    form a smooth but thick batter; let batter rest for 10 minutes.
 2. Meanwhile place 1 tablespoon butter into a bowl that has been rinsed
-   in hot water and dried. Heat water to boil in a kettle or saucepan
-   small enough so that the short ends of the spaetzle machine can rest
-   on its rim.
+   in hot water and dried. Heat water to boil medium pot small enough so that
+   the short ends of the spaetzle maker (or a large holed sieve or metal
+   grater) can rest on its rim.
 3. Salt boiling water, then spoon a portion of the batter into the the
    square container that runs along the grater track. With the machine
    resting on the pan rim, move the metal container quickly back and
@@ -973,18 +975,6 @@ Directions
    water’s surface to the warm bowl. Repeat cooking in batches with
    remaining batter, adding butter to each batch of cooked spaeztle.
    Toss and serve.
-
-
-Yield:
-------
-
-Serves 4
-
-
-Note
-----
-
-Instead for a spaetzle machine you can use a ricer or metal colander.
 
 .. raw:: pdf
 

@@ -2792,7 +2792,7 @@ Ramen
 - 4 5-oz. packages fresh ramen noodles
 - toasted nori sheets, and/or cilantro (for serving; optional)
 - 1 cup corn kernels
-- `Garlic Chilli Oil <#garlic-chilli-oil>`__ or Saracha
+- `Garlic Chilli Oil <#garlic-chili-oil>`__ or Saracha
 
 Directions
 ----------
