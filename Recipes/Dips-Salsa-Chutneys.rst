@@ -929,10 +929,8 @@ Each combination makes 1 1/2 cups
   are blended, at least 1 hour; serve cold with crudités. (Can be
   refrigerated in airtight container for up to 2 days.)
 
-----
-
 Caesar Dip with Parmesan and Anchovies
-======================================
+--------------------------------------
 
 - 1 cup mayonnaise
 - 1/2 cup sour cream
@@ -943,10 +941,8 @@ Caesar Dip with Parmesan and Anchovies
 - 2 anchovy fillets, minced to paste (about 1 teaspoon)
 - 1/8 teaspoon ground black pepper
 
-----
-
 Creamy Horseradish Dip
-======================
+----------------------
 
 - 3/4 cup mayonnaise
 - 3/4 cup sour cream
@@ -955,10 +951,8 @@ Creamy Horseradish Dip
 - 1 tablespoon minced fresh parsley leaves
 - 1/8 teaspoon ground black pepper
 
-----
-
 Green Goddess Dip
-=================
+-----------------
 
 - 3/4 cup mayonnaise
 - 3/4 cup sour cream
@@ -970,16 +964,8 @@ Green Goddess Dip
 - 1/8 teaspoon table salt
 - 1/8 teaspoon ground black pepper
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
-
 Chipotle-Lime Dip with Scallions
-================================
+--------------------------------
 
 - 1 cup mayonnaise
 - 1/2 cup sour cream
