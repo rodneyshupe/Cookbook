@@ -800,3 +800,186 @@ Variations
    over medium heat; cook until the meat is no longer pink, stirring
    constantly. Add the meat to the slow cooker along with the cheese
    cubes and salsa.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Sriracha Dipping Sauce
+======================
+
+Ingredients
+-----------
+- 1/2 cup mayonnaise
+- 1 1/2 tablespoons Sriracha sauce
+- 2 teaspoons lime juice
+- 1/4 teaspoon garlic powder
+
+Directions
+----------
+- Whisk all ingredients together in bowl. Cover and refrigerate until ready
+  to serve.
+
+Variation
+---------
+Replace lime juice with liquid smoke.
+
+----
+
+Lemon-Chive Dipping Sauce
+=========================
+
+Ingredients
+-----------
+- 1/2 cup mayonnaise
+- 2	tablespoons minced fresh chives
+- 1 teaspoon grated lemon zest plus 1 tablespoon juice
+- 1 teaspoon Worcestershire sauce
+- 1 teaspoon Dijon mustard
+- 1/4 teaspoon garlic powder
+
+Directions
+----------
+- Whisk all ingredients together in bowl. Cover and refrigerate until ready
+  to serve.
+
+----
+
+Mustard Dipping Sauce
+=====================
+
+Ingredients
+-----------
+- 1/4 cup mayonnaise
+- 1/4 cup dijon mustard
+- 3 tablespoons packed light brown sugar
+- 1/2 teaspoon cider vinegar
+
+Directions
+----------
+- Whisk all ingredients together in bowl. Cover and refrigerate until ready
+  to serve.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Asian Dipping Sauce
+===================
+
+Ingredients
+-----------
+
+-  2 tablespoons soy sauce
+-  1 scallion, sliced thin
+-  1 tablespoon water
+-  2 teaspoons rice vinegar
+-  1 teaspoon honey
+-  1 teaspoon toasted sesame oil
+-  Pinch red pepper flakes
+
+Directions
+----------
+
+1. Whisk all ingredients together in small bowl.
+
+----
+
+Thai Seafood Dipping Sauce
+==========================
+
+Ingredients
+-----------
+
+- 2-5 Thai chilies (seeds removed and roughly chopped)
+- 4 cloves garlic (minced)
+- 5-6 cilantro stems, chopped
+- 2 tablespoons fish sauce
+- 3 tablespoons lime juice
+- 2 teaspoon finely chopped palm sugar (can substitute brown sugar)
+
+Directions
+----------
+
+1. Combine all ingredients in a blender and puree for 30 seconds.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Dips for Crudités
+=================
+
+Each combination makes 1 1/2 cups
+
+- Combine all ingredients in medium bowl until smooth and creamy. Transfer
+  dip to serving bowl, cover with plastic wrap, and refrigerate until flavors
+  are blended, at least 1 hour; serve cold with crudités. (Can be
+  refrigerated in airtight container for up to 2 days.)
+
+----
+
+Caesar Dip with Parmesan and Anchovies
+======================================
+
+- 1 cup mayonnaise
+- 1/2 cup sour cream
+- 1/2 ounce grated Parmesan cheese, (1/2 cup)
+- 1 tablespoon lemon juice from 1 lemon
+- 1 tablespoon minced fresh parsley leaves
+- 2 medium cloves garlic, pressed through garlic press or minced (about 2 teaspoons)
+- 2 anchovy fillets, minced to paste (about 1 teaspoon)
+- 1/8 teaspoon ground black pepper
+
+----
+
+Creamy Horseradish Dip
+======================
+
+- 3/4 cup mayonnaise
+- 3/4 cup sour cream
+- 2 scallions, sliced thin
+- 1/4 cup prepared horseradish, squeezed of excess liquid
+- 1 tablespoon minced fresh parsley leaves
+- 1/8 teaspoon ground black pepper
+
+----
+
+Green Goddess Dip
+=================
+
+- 3/4 cup mayonnaise
+- 3/4 cup sour cream
+- 2 medium cloves garlic, pressed through garlic press or minced (about 2 teaspoons)
+- 1/4 cup minced fresh parsley leaves
+- 1/4 cup minced fresh chives
+- 2 tablespoons minced fresh tarragon leaves
+- 1 tablespoon lemon juice from 1 lemon
+- 1/8 teaspoon table salt
+- 1/8 teaspoon ground black pepper
+
+----
+
+Chipotle-Lime Dip with Scallions
+================================
+
+- 1 cup mayonnaise
+- 1/2 cup sour cream
+- 3 scallions, sliced thin
+- 2 medium cloves garlic, pressed through garlic press or minced (about 2 teaspoons)
+- 3 chipotle chiles en adobo (small), minced to paste (about 1 tablespoon)
+- 1/4 teaspoon adobo sauce, from chipotle peppers
+- 1 teaspoon grated lime zest
+- 1 tablespoon lime juice
