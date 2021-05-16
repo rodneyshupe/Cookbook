@@ -809,27 +809,6 @@ Variations
 
    <p style="page-break-before: always"/>
 
-Sriracha Dipping Sauce
-======================
-
-Ingredients
------------
-- 1/2 cup mayonnaise
-- 1 1/2 tablespoons Sriracha sauce
-- 2 teaspoons lime juice
-- 1/4 teaspoon garlic powder
-
-Directions
-----------
-- Whisk all ingredients together in bowl. Cover and refrigerate until ready
-  to serve.
-
-Variation
----------
-Replace lime juice with liquid smoke.
-
-----
-
 Lemon-Chive Dipping Sauce
 =========================
 
@@ -863,6 +842,27 @@ Directions
 ----------
 - Whisk all ingredients together in bowl. Cover and refrigerate until ready
   to serve.
+
+----
+
+Sriracha Dipping Sauce
+======================
+
+Ingredients
+-----------
+- 1/2 cup mayonnaise
+- 1 1/2 tablespoons Sriracha sauce
+- 2 teaspoons lime juice
+- 1/4 teaspoon garlic powder
+
+Directions
+----------
+- Whisk all ingredients together in bowl. Cover and refrigerate until ready
+  to serve.
+
+Variation
+---------
+Replace lime juice with liquid smoke.
 
 .. raw:: pdf
 
@@ -970,7 +970,13 @@ Green Goddess Dip
 - 1/8 teaspoon table salt
 - 1/8 teaspoon ground black pepper
 
-----
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Chipotle-Lime Dip with Scallions
 ================================
