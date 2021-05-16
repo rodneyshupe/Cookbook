@@ -2,9 +2,9 @@
 
    OddPageBreak tocPage
 
-***************
-Sauces and Dips
-***************
+*********************
+Sauces and Condiments
+*********************
 
 .. contents::
    :local:

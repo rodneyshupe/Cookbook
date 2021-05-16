@@ -106,8 +106,9 @@ a collection of recipes containing the favourites of Rodney Shupe and family
    SetPageCounter 1 arabic
 
 .. include:: Recipes/Appetizers.rst
-.. include:: Recipes/Dips-Salsa-Chutneys.rst
 .. include:: Recipes/Canapes-Tapas.rst
+.. include:: Recipes/Dips-Salsa-Chutneys.rst
+.. include:: Recipes/Sauces.rst
 
 .. include:: Recipes/Salads.rst
 
@@ -131,8 +132,6 @@ a collection of recipes containing the favourites of Rodney Shupe and family
 .. include:: Recipes/SmokedAndCured.rst
 
 .. include:: Recipes/Breakfast.rst
-
-.. include:: Recipes/Sauces.rst
 
 .. include:: Recipes/Baking-Breads.rst
 .. include:: Recipes/Baking-Cookies.rst
