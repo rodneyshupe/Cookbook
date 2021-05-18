@@ -954,8 +954,7 @@ Ingredients
 -  1/4 teaspoon ground white pepper
 -  1/8 teaspoon ground nutmeg
 -  1 1/2 cups unbleached all-purpose flour
--  4 tablespoons unsalted butter, room temperature, cut into
--  6 pieces
+-  1 tablespoon + 4 tablespoons unsalted butter, room temperature, cut into 6 pieces
 
 Directions
 ----------
