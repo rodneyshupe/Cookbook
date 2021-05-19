@@ -1191,12 +1191,28 @@ Directions
 
    <p style="page-break-before: always"/>
 
-Mint Yogurt Sauce
+Mayo Yogurt Sauce
 =================
 
-+-----------------------+-------------------+
-| Prep Time: 10 minutes | Yield: 4 servings |
-+-----------------------+-------------------+
+Source: `Sam the Cooking Guy <https://www.thecookingguy.com/cookbook/2021/5/10/greek-chicken>`__
+
+Ingredients
+-----------
+- 1/4 cup mayonnaise
+- 1/4 non-fat Greek yogurt
+- Juice of 1/2 lemon
+- 2 tablespoons garlic paste (or 2 large cloves minced)
+- 2 tablespoons chopped curly parsley
+- salt and pepper to taste
+
+Directions
+----------
+Whisk all ingredients together, and refrigerate until needed.
+
+----
+
+Mint Yogurt Sauce
+=================
 
 Source: `Fire Escape Griller <https://www.youtube.com/watch?v=SPO9yN4bg20>`__
 
@@ -1263,6 +1279,21 @@ Directions
 
 ----
 
+Chipotle Mayonnaise
+===================
+
+Ingredients
+-----------
+- 1/2 cup mayonnaise
+- 1 tablespoon chipotle powder
+- 1 - 2 tablespoon lime juice
+
+Directions
+----------
+- Combine all ingredients in small bowl.
+
+----
+
 Maple-Chipotle Mayonnaise
 =========================
 
@@ -1277,7 +1308,13 @@ Directions
 ----------
 - Combine all ingredients in small bowl.
 
-----
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Basil Mayonnaise
 ================
@@ -1293,13 +1330,7 @@ Directions
 ----------
 - Combine all ingredients in small bowl.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Quick Rémoulade
 ===============
