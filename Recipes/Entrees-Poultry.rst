@@ -1568,6 +1568,13 @@ Note
 To roast a kosher or self-basting turkey (such as a frozen Butterball),
 do not salt it in step 1.
 
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Chicken Gyro
 ============
@@ -1624,6 +1631,9 @@ Greek Chicken
 Ingredients
 -----------
 
+Marinade
+^^^^^^^^
+
 - 3/4 cup olive oil
 - 2 tablespoons fish sauce (or the same of anchovy paste)
 - 1 tablespoon soy sauce
@@ -1634,11 +1644,15 @@ Ingredients
 - 1/2 teaspoon each Kosher salt & fresh ground pepper
 - Juice of 2 lemons
 - 2 chicken breasts
-- `Naan <#simple-naan-bread>`__, for serving
+
+Toppings
+^^^^^^^^
+
 - `Mayo Yogurt Sauce <#mayo-yogurt-sauce>`__
-- Chopped Tomato
-- Red Onion Chopped
-- Cucumber Chopped
+- 1/4 Red Onion, diced
+- 1 tomato, cored, seeded, and diced
+- 1 cup Cucumber, diced
+- `Naan <#simple-naan-bread>`__, for serving
 
 Directions
 ----------
