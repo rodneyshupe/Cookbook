@@ -147,6 +147,30 @@ Directions
 
    <p style="page-break-before: always"/>
 
+Alabama White BBQ Sauce
+=======================
+
+Ingredients
+-----------
+
+- 1 cup mayo
+- 1/4 cup white vinegar
+- 1 tablespoon spicy brown mustard
+- 2 teaspoons cream style horseradish
+- 1/2 teaspoon salt
+- 1/2 teaspoon freshly ground black pepper
+- 1/4 teaspoon garlic powder
+- 1/4 teaspoon paprika
+
+Directions
+----------
+
+1. In a medium bowl, whisk all of the ingredients together until smooth.
+   Transfer to a jar with a tight lid and refrigerate until ready to use, up
+   to 1 week.  Brush on chicken while grilling, or use with fish or other
+   meat, or as a salad dressing or dip for fries.
+
+
 Apple Butter Bourbon Sauce
 ==========================
 
