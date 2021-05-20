@@ -154,12 +154,13 @@ Ingredients
 -----------
 
 - 1 cup mayo
-- 1/4 cup white vinegar
-- 1 tablespoon spicy brown mustard
-- 2 teaspoons cream style horseradish
+- 2 tablespoons apple cider vinegar
+- 2 tablespoons lemon juice
+- 1 tablespoon spicy brown mustard (can substitute dijon)
+- 1 tablespoons horseradish
 - 1/2 teaspoon salt
 - 1/2 teaspoon freshly ground black pepper
-- 1/4 teaspoon garlic powder
+- 1/2 teaspoon garlic powder
 - 1/4 teaspoon paprika
 
 Directions
