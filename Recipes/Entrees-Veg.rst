@@ -286,6 +286,7 @@ Ingredients
 - 2 teaspoons sriracha
 - 1/2 cup plus 1 tablespoon low sodium soy sauce or tamari
 - 4 tablespoons honey (maple or brown sugar, if vegan)
+- 2 tablespoons raw sesame seeds
 - 2 tablespoons rice vinegar
 - 1 tablespoon creamy peanut butter
 - 1 tablespoon molasses
@@ -295,7 +296,6 @@ Ingredients
 - 3 cups mixed stir fry vegetables (broccoli florettes, sliced snow peas, sliced carrots)
 - 2 tablespoons fresh grated ginger
 - 1-2 tablespoons `garlic chili oil <#garlic-chili-oil>`__
-- 2 tablespoons raw sesame seeds
 - 2 green onions, chopped
 
 Directions

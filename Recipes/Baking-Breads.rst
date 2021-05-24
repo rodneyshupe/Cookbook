@@ -693,7 +693,7 @@ Variations
   1/4 teaspoon of garlic. When the second side is cooked, flip the garlic
   side onto the griddle surface for just a few seconds. The hot surface will
   help seal the garlic to the naan.
-* Sesame Nann: Substitute yogurt as above. Then when cooking, brush with a
+* Sesame Naan: Substitute yogurt as above. Then when cooking, brush with a
   little olive oil when the naan is done cooking and sprinkle 1 side with
   sesame seeds. Place the sesame seed side of the naan onto the cooking
   surface for just a few seconds to seal the sesame seeds into the surface
@@ -713,7 +713,7 @@ Simple Naan Bread
 Ingredients
 -----------
 
-- 1/4 ounce packet regular yeast
+- 1/4 ounce packet regular yeast (or 1 2/3 teaspoons instant yeast)
 - 1/2 cup warm water, about 110 degrees (too hot will kill the yeast)
 - 1 teaspoon sugar
 - 2 1/4 cups all purpose flour
@@ -726,7 +726,8 @@ Directions
 ----------
 
 1. Combine yeast, water and suger - give a quick mix and set aside until
-   foamy, about 10 minutes
+   foamy, about 10 minutes. (If using instant yeast just add these ingredients
+   to flour in step 2) 
 2. Add to flour, yogurt, oil & salt in a mixer - and using dough hook mix
    about 10 minutes or until smooth and pulled away from the sides and in a
    ball
