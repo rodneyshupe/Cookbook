@@ -9,6 +9,7 @@ Appetizers
 .. contents::
    :local:
    :depth: 1
+
 .. raw:: pdf
 
    OddPageBreak recipePage
