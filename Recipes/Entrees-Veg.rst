@@ -316,6 +316,14 @@ Directions
    combine, cooking another 3-5 minutes until the sauce coats the noodles.
 5. Serve the noodles topped with cashews and green onions.
 
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 20 Minute Red Curry Noodles with Fried Coconut Garlic
 =====================================================
 
