@@ -1596,8 +1596,9 @@ Marinade
 Gyro
 ^^^^
 
-- 1/4 Onions sliced
+- 1/4 red onions sliced
 - 1 tomato, cored, seeded, and sliced
+- diced cucumber
 - 4 large lettuce leafs
 - 4 pitas
 - `Tzatziki Sauce <#tzatziki-sauce>`__
@@ -1614,7 +1615,7 @@ Directions
    additional 10 minutes. Let the chicken cool and then sslice.
 4. Turn the oven off and wrap pita in aluminum foil and place in hot oven
    for 2 minutes to warm.
-5. Assemble the gyro, by adding onions, tomato, letuce and Tzatziki Sauce
+5. Assemble the gyro, by adding onions, cucumber, tomato, letuce and Tzatziki Sauce
    to pitas.
 
 .. raw:: pdf

@@ -1021,9 +1021,11 @@ Ingredients
 - 1 red bell pepper, cut into strips
 - 1 yellow or green bell pepper, cut into strips
 - 1 red onion, cut into thick slices
-- 12-14 small `Flour Tortillas <#flour-tortillas>`__.
+- 12-14 small `Flour Tortillas <#flour-tortillas>`__
+- cheese, shredded (mix of jack, cheddar and cotija or feta)
 - `Salsa <#salsa>`__ or `Salsa Roja <#salsa-roja>`__
 - `Mexican Crema <#mexican-crema>`__ (may sub sour cream)
+- `Guacamole <#guacamole>`__ (optional)
 
 Directions
 ----------
