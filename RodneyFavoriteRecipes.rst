@@ -140,7 +140,7 @@ a collection of recipes containing the favourites of Rodney Shupe and family
 
 .. include:: Recipes/PicklesAndPreserves/Recipes.rst
 
-.. include:: Recipes/Barbecue/SpiceRubRecipes/Recipes.rst
+.. include:: Recipes/Barbecue/SpiceRubs/Recipes.rst
 
 .. include:: Recipes/Barbecue/Sauces/Recipes.rst
 
