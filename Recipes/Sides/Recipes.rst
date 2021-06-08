@@ -120,7 +120,7 @@ Directions
    smashed potatoes in the pan and sear. When golden brown, place in a
    single layer on a baking sheet and place in 200°F oven.
 
-.. include:: Sous-Vide/Garlic-Smashed-Potatoes.rst
+.. include:: ../Sous-Vide/Garlic-Smashed-Potatoes.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
@@ -1051,7 +1051,7 @@ Directions
    butter, 1 tablespoon at a time; season with salt and pepper to taste.
    Top beans with shallots and sauce and serve immediately.
 
-.. include:: Sous-Vide/Butternut-Squash-Puree.rst
+.. include:: ../Sous-Vide/Butternut-Squash-Puree.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
@@ -2105,9 +2105,9 @@ Note
 Garlic bread is best served piping hot, so time it to arrive at the table last,
 once all the other dishes are finished and ready to serve.
 
-.. include:: Sous-Vide/Glazed-Carrots.rst
+.. include:: ../Sous-Vide/Glazed-Carrots.rst
 
-.. include:: Sous-Vide/Green-Beans-with-Lemon.rst
+.. include:: ../Sous-Vide/Green-Beans-with-Lemon.rst
 
 
-.. include:: Sous-Vide/Self-Buttering-Corn-on-the-Cob.rst
+.. include:: ../Sous-Vide/Self-Buttering-Corn-on-the-Cob.rst

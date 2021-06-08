@@ -26,7 +26,7 @@ Soups and Stews
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: InstantPot/Chili.rst
+.. include:: ../InstantPot/Chili.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
@@ -48,7 +48,7 @@ Soups and Stews
 
 .. include:: ChickenAndDumplingsStew.rst
 
-.. include:: InstantPot/ChickenAndDumplingSoup.rst
+.. include:: ../InstantPot/ChickenAndDumplingSoup.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 

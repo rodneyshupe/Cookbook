@@ -20,9 +20,9 @@ Desserts
 
 .. include:: BananasFoster.rst
 
-.. include:: Sous-Vide/Creme-Brulee.rst
+.. include:: ../Sous-Vide/Creme-Brulee.rst
 
-.. include:: Sous-Vide/PotDeCreme.rst
+.. include:: ../Sous-Vide/PotDeCreme.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
