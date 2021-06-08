@@ -62,7 +62,7 @@ Entrees - Beef
 
 .. include:: ClassicRoastSirloinTipWithGravy.rst
 
-.. include:: Sous-Vide/Eye-of-Round-Roast.rst
+.. include:: ../../Sous-Vide/Eye-of-Round-Roast.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
 
@@ -72,7 +72,7 @@ Entrees - Beef
 
 .. include:: PrimeRib.rst
 
-.. include:: Sous-Vide/Prime-Rib.rst
+.. include:: ../../Sous-Vide/Prime-Rib.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
 
@@ -118,9 +118,9 @@ Entrees - Beef
 
 .. include:: GrilledSlicedBrisket.rst
 
-.. include:: Sous-Vide/Brisket.rst
+.. include:: ../../Sous-Vide/Brisket.rst
 
-.. include:: Sous-Vide/French-Beef-Dip.rst
+.. include:: ../../Sous-Vide/French-Beef-Dip.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
 
