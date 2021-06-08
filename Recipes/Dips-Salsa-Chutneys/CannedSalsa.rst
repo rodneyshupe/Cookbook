@@ -1,0 +1,56 @@
+Canned Salsa
+============
+
++------------------+--------------------------+----------------+
+| Prep: 45 minutes | Total: 6 hours 5 minutes | Yield: 8 pints |
++------------------+--------------------------+----------------+
+
+Source: `AllRecipes (Tami) <https://www.allrecipes.com/recipe/175547/rockin-salsa/>`__
+
+This is a recipe I came up with by combining two of my favourite recipes
+into one awesome recipe. You can make this salsa as hot as you want by
+adding more peppers.
+
+Ingredients
+-----------
+
+- 1 red onion, chopped
+- 1 white onion, chopped
+- 1 yellow onion, chopped
+- 6 pounds fresh tomatoes, peeled and chopped
+- 2 banana peppers, chopped
+- 3 green bell peppers, chopped
+- 3 (6 ounce) cans tomato paste
+- 1/2 cup white vinegar
+- 2 tablespoons garlic powder
+- 1 1/2 tablespoons salt
+- 1 tablespoon cayenne pepper
+- 1 1/2 teaspoons ground cumin
+- 1/4 cup brown sugar
+- 1/4 cup white sugar
+- 8 pint canning jars with lids and rings
+
+Directions
+----------
+
+1. Combine red onion, white onion, yellow onion, tomatoes, banana peppers,
+   green peppers, tomato paste, white vinegar, garlic powder, salt, cayenne
+   pepper, cumin, brown sugar, and white sugar in a large pot. Simmer until
+   thick, about 3 hours.
+2. Sterilize the jars and lids in boiling water for at least 5 minutes.
+   Pack the salsa into the hot, sterilized jars, filling the jars to within
+   1/4 inch of the top. Run a knife or a thin spatula around the insides of
+   the jars after they have been filled to remove any air bubbles. Wipe the
+   rims of the jars with a moist paper towel to remove any food residue.
+   Top with lids, and screw on rings.
+3. Place a rack in the bottom of a large stockpot and fill halfway with
+   water. Bring to a boil over high heat, then carefully lower the jars
+   into the pot using a holder. Leave a 2 inch space between the jars. Pour
+   in more boiling water if necessary until the water level is at least 1
+   inch above the tops of the jars. Bring the water to a full boil, cover
+   the pot, and process for 10 to 15 minutes.
+4. Remove the jars from the stockpot and place onto a cloth-covered or wood
+   surface, several inches apart, until cool. Once cool, press the top of
+   each lid with a finger, ensuring that the seal is tight (lid does not
+   move up or down at all). Refrigerate after opening.
+
