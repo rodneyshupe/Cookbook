@@ -54,8 +54,6 @@ Entrees - Beef
 
 .. include:: ../../../includes/recipePageBreak.rst
 
-
-
 .. include:: RoastBeefWithGravy.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
@@ -136,7 +134,7 @@ Entrees - Beef
 
 .. include:: ../../../includes/recipePageBreak.rst
 
-.. include:: KalbiKoreanStyleShortRibs.rst
+.. include:: KalbiKoreanStyleShortRibsCI.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
 
