@@ -93,7 +93,7 @@ otherwise specified.*
 
 ----
 
-.. include:: Willingham’SRub.rst
+.. include:: WillinghamsRub.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
 
