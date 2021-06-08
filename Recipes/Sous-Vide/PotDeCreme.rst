@@ -92,14 +92,6 @@ Directions
    Mason jars. Cook sous vide for 1 hour
 7. Remove the jars and place in an ice bath to chill.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
-
 Chocolate Pot de Creme
 ======================
 

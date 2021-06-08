@@ -14,32 +14,52 @@ Sous-Vide
    :local:
    :depth: 1
 
-.. include:: Brisket.rst
-
-.. include:: Eye-of-Round-Roast.rst
-
-.. include:: Prime-Rib.rst
-
-.. include:: French-Beef-Dip.rst
-
-.. include:: Glazed-Carrots.rst
-
-.. include:: Green-Beans-with-Lemon.rst
-
-.. include:: Garlic-Smashed-Potatoes.rst
-
-.. include:: Self-Buttering-Corn-on-the-Cob.rst
-
-.. include:: Butternut-Squash-Puree.rst
-
-.. include:: Creme-Brulee.rst
-
-.. include:: PotDeCreme.rst
-
 .. raw:: pdf
 
-   PageBreak recipePage
+   OddPageBreak recipePage
 
 .. raw:: html
 
    <p style="page-break-before: always"/>
+
+.. include:: Brisket.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
+.. include:: Eye-of-Round-Roast.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
+.. include:: Prime-Rib.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
+.. include:: French-Beef-Dip.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
+.. include:: Glazed-Carrots.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
+.. include:: Green-Beans-with-Lemon.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
+.. include:: Garlic-Smashed-Potatoes.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
+.. include:: Self-Buttering-Corn-on-the-Cob.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
+.. include:: Butternut-Squash-Puree.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
+.. include:: Creme-Brulee.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
+.. include:: PotDeCreme.rst

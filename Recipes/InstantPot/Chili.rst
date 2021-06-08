@@ -1,11 +1,3 @@
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
-
 Presure Cooker (or Slow Cooker) Chili
 =====================================
 
@@ -63,14 +55,6 @@ Directions
 6. Stir the chili really well. Then ladle into bowls and serve with
    toppings. If desired refrigerate the chili and warm up the next day and
    serve for even better flavor.
-
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
 
 Notes
 -----
