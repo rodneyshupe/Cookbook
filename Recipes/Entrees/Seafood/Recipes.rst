@@ -48,13 +48,7 @@ Directions
    serving with lemon wedges Or `mango mint salsa <#mango-mint-salsa>`__
    Or `cilantro-mint chutney <#cilantro-mint-chutney>`__.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Thai Green Curry with Prawns and Salmon
 =======================================
@@ -97,13 +91,7 @@ Directions
 7. Serve over rice.
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Tuscan Shrimp and Beans
 =======================
@@ -154,13 +142,7 @@ Directions
    and pepper to taste. Transfer to serving dish, drizzle with remaining
    1 tablespoon oil, and serve.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Prawn and Scallop Stir Fry
 ==========================
@@ -202,13 +184,7 @@ Directions
    Add orange juice, bring to a boil and simmer for 2 minutes, add prawns and
    scallops back to the pan along with peanuts and reheat. Serve over rice.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Stir-Fried Shrimp and Asparagus in Garlic Sauce
 ===============================================
@@ -258,13 +234,7 @@ Directions
      thickened, 1 to 2 minutes. Return vegetable mixture to skillet and toss
      to combine. Transfer to serving dish and serve.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Indoor Clam Bake
 ================
@@ -320,13 +290,7 @@ Notes
    Dutch oven, but it should cook for the same amount of time.
 -  Use left overs for `Leftover Seafood Chowder <#leftover-seafood-chowder>`__.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Cajun Shrimp Boil
 =================
@@ -403,13 +367,7 @@ Directions
 3. To serve, mound the prawns on a platter or large bowl and pour over the
    sauce.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Tequila Chili Prawns
 ====================
@@ -432,13 +390,7 @@ Directions
    fully cooked, approximately 1 additional minute.
 2. Remove from hea and stir in compound butter.  Serve over rice.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Clam/Shrimp Bake Foil Packets
 =============================
@@ -483,13 +435,7 @@ Notes
 Use 1 1/2 pounds of seafood.  This can be all shrimp, call clams, mix of clams,
 mussels and shrimp.  What ever is your fancy.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Grilled Lobster
 ===============
@@ -559,13 +505,7 @@ Gin and Tonic Butter
 * In step 4, instead of basing in butter, breadcrumbs and tomalley mixture,
   cut limes and squeeze over the lobster.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Clams Steamed in White Wine
 ===========================
@@ -604,13 +544,7 @@ For 1-2 servicng reduce clams to 1 pound per person and half the other
 ingredients.  Use a sauce pan instead of the dutch oven.
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Mussels Steamed in White Wine
 =============================
@@ -659,13 +593,7 @@ pepper flakes. In Step 2 when adding butter also add 1 medium lemon,
 zest grated to yield 1 teaspoon zest, juiced to yield 2 tablespoons
 juice.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Oven-Steamed Mussels
 ====================
@@ -729,13 +657,7 @@ parts only, halved lengthwise, sliced thin, and washed thoroughly), wine
 with 1 cup dry hard cider, butter with 1/4 cup creme fraîche, and
 parsley with 2 tablespoons minced fresh chives.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Lemon-Herb Cod Fillets with Crispy Garlic Potatoes
 ==================================================
@@ -774,13 +696,7 @@ Directions
 4. To serve, slide spatula underneath potatoes and cod and gently
    transfer to individual plates.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Chipped Ling Cod (Fish and Chips)
 =================================
@@ -831,13 +747,7 @@ Directions
    becomes slightly crispy.
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Lingcod Cheeks with Asparagus, Chickpeas, and Kale Chips
 ========================================================
@@ -869,13 +779,7 @@ Directions
 5. Place the veggies on a plate or platter, lay the cheeks on top and arrange
    the kale chips around.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Fish Tacos
 ==========
@@ -913,13 +817,7 @@ Directions
    side or until just cooked through and opaque. Cut into strips and serve
    in warm tortillas with crema, shredded red cabbage and lime juice.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Grilled Spicy Blackened Salmon Tacos
 ====================================
@@ -964,13 +862,7 @@ Directions
    pieces. Top with `pineapple salsa <#grilled-pineapple-avocado-salsa>`__
    or `mango salsa <#mango-salsa>`__. and serve immediately.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Charbroiled Ahi Tuna with a Coconut milk Red Curry sauce
 ========================================================
@@ -1007,13 +899,7 @@ Directions
 #. Prepare the vegetables; in a skillet add bacon, saute until golden. Add onions, season, and saute until golden. Add asparagus, 1/4 cup water, and cover 7 minutes before the dish is ready to assemble.
 #. Place tuna in a preheat oven at 350°F and cook until desired temp. If you like your tuna rare you will only cook for 4-5 minutes. For medium approx. 7-8 minutes.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Ahi Tuna Steak with a Light Tomato, Ginger, Herb Sauce
 ======================================================

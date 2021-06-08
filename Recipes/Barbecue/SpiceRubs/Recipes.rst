@@ -82,13 +82,7 @@ Ingredients
 - 1/2 teaspoon rubbed thyme
 - 1/2 teaspoon onion powder
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Buffettfan's BBQ Dry Rub
 ========================
@@ -148,13 +142,7 @@ Lawry's Substitute
 - 1/4 teaspoon garlic powder
 - 1/4 teaspoon cornstarch
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Louisiana (Cajun or Creole) Seasoning Spice Mix
 ===============================================
@@ -212,13 +200,7 @@ Ingredients
 -  4 teaspoons kosher salt
 -  4 teaspoons black pepper
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Mary's Rib Rub
 ==============
@@ -280,13 +262,7 @@ Ingredients
 - 2 Tbsps. cayenne
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Award Winning Dry Rub
 =====================
@@ -341,13 +317,7 @@ Ingredients
 -  1/2 teaspoon ground cumin
 -  1/2 teaspoon cayenne
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Brown Sugar Rub
 ===============
@@ -412,13 +382,7 @@ Notes
 Cut back on the black pepper and cayenne pepper for less heat.  This does not
 make a sweet bark. But you can always add more sugar.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Brisket Rub
 ===========
@@ -471,13 +435,7 @@ Notes
    twenty-four to forty-eight hours.
 3. Smoke meat for 4 hours with your choice of wood.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Brown Sugar and Spice Rib Rub Recipe
 ====================================
@@ -525,13 +483,7 @@ Directions
 
 1. Mix. Rub into ribs, marinate, and cook as desired.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Sugar-Cayenne Rib Rub Recipe
 ============================
@@ -596,13 +548,7 @@ Note
 ----
 Enough for one rack of ribs on both sides. Use liberally, none should be left over.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Montreal Seasoning
 ==================
@@ -649,13 +595,7 @@ Directions
    (250 mL) jar, or another airtight container, for up to 1year.
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Herb Mustard Rub
 ================
@@ -679,13 +619,7 @@ Directions
    peppercorns, mustard seeds, olive oil and salt in a small food
    processor (or mortar and pestle) and process to a smooth paste.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Pineapple Citrus Marinade
 =========================

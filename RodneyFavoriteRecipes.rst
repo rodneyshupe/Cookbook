@@ -106,45 +106,45 @@ a collection of recipes containing the favourites of Rodney Shupe and family
    SetPageCounter 1 arabic
 
 .. include:: Recipes/Appetizers/Recipes.rst
-.. include:: Recipes/Canapes-Tapas.rst
-.. include:: Recipes/Dips-Salsa-Chutneys.rst
-.. include:: Recipes/Sauces.rst
+.. include:: Recipes/Canapes-Tapas/Recipes.rst
+.. include:: Recipes/Dips-Salsa-Chutneys/Recipes.rst
+.. include:: Recipes/Sauces/Recipes.rst
 
-.. include:: Recipes/Salads.rst
+.. include:: Recipes/Salads/Recipes.rst
 
-.. include:: Recipes/SoupsAndStews.rst
+.. include:: Recipes/SoupsAndStews/Recipes.rst
 
-.. include:: Recipes/Entrees-Poultry.rst
-.. include:: Recipes/Entrees-Beef.rst
-.. include:: Recipes/Entrees-Lamb.rst
-.. include:: Recipes/Entrees-Pork.rst
-.. include:: Recipes/Entrees-Seafood.rst
-.. include:: Recipes/Entrees-Pasta.rst
-.. include:: Recipes/Entrees-Veg.rst
-.. include:: Recipes/Entrees-Misc.rst
+.. include:: Recipes/Entrees/Poultry/Recipes.rst
+.. include:: Recipes/Entrees/Beef/Recipes.rst
+.. include:: Recipes/Entrees/Lamb/Recipes.rst
+.. include:: Recipes/Entrees/Pork/Recipes.rst
+.. include:: Recipes/Entrees/Seafood/Recipes.rst
+.. include:: Recipes/Entrees/Pasta/Recipes.rst
+.. include:: Recipes/Entrees/Veg/Recipes.rst
+.. include:: Recipes/Entrees/Misc/Recipes.rst
 
-.. include:: Recipes/Sides.rst
+.. include:: Recipes/Sides/Recipes.rst
 
 .. include:: Recipes/Sous-Vide/Recipes.rst
 
 .. include:: Recipes/InstantPot/Recipes.rst
 
-.. include:: Recipes/SmokedAndCured.rst
+.. include:: Recipes/SmokedAndCured/Recipes.rst
 
-.. include:: Recipes/Breakfast.rst
+.. include:: Recipes/Breakfast/Recipes.rst
 
 .. include:: Recipes/Baking/Breads/Recipes.rst
 .. include:: Recipes/Baking/Cookies/Recipes.rst
 
-.. include:: Recipes/Desserts.rst
+.. include:: Recipes/Desserts/Recipes.rst
 
-.. include:: Recipes/PicklesAndPreserves.rst
+.. include:: Recipes/PicklesAndPreserves/Recipes.rst
 
-.. include:: Recipes/BarbecueSpiceRubRecipes.rst
+.. include:: Recipes/Barbecue/SpiceRubRecipes/Recipes.rst
 
-.. include:: Recipes/BarbecueSauces.rst
+.. include:: Recipes/Barbecue/Sauces/Recipes.rst
 
-.. include:: Recipes/Jerky.rst
+.. include:: Recipes/Jerky/Recipes.rst
 
 .. include:: Appendix/A_MealPlans.rst
 

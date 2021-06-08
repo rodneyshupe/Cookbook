@@ -23,13 +23,7 @@ Roasted Potatoes (on the Grill)
 
 TODO
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Roasted Potatoes
 ================
@@ -104,13 +98,7 @@ Directions
    combos, but this year I’ll be going for butter, but maybe with the
    rosemary and garlic. So you really can mix it up however you like.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Smashed Fingerling Potatoes
 ===========================
@@ -132,13 +120,7 @@ Directions
 
 .. include:: Sous-Vide/Garlic-Smashed-Potatoes.rst
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Scalloped Potatoes
 ==================
@@ -228,13 +210,7 @@ minutes before serving.
        longer. Let stand for 5 minutes before serving.
    -->
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Duchesse Potatoes
 =================
@@ -263,13 +239,7 @@ Directions
 7. Place in oven for approx. 15 minutes or until golden brown.
 8. You can put various ingredients into the potatoes, such as, herbs, bacon (cooked), diced ham, truffles, sour cream, sliced truffle, etc
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Potato Galette
 ==============
@@ -323,13 +293,7 @@ Directions
    board together. Lift skillet off galette. Using serrated knife,
    gently cut into wedges and serve immediately.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Mashed Potatoes
 ===============
@@ -369,13 +333,7 @@ Yield:
 
 Serves 4 - 6
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Best Baked potatoes
 ===================
@@ -415,13 +373,7 @@ Directions
 4. For topping break up cheese with a fork. Combine with other
    ingredients until thoughly mixed. Spoon onto potatoes.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 French Fries
 ============
@@ -456,13 +408,7 @@ Flavoring the oil with bacon fat (optional) gives the fries a mild meaty
 flavor. It is best to use peanut oil for frying, but vegetable or canola
 oil can be substituted.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Crispy Oven Fries
 =================
@@ -499,13 +445,7 @@ Directions
    potatoes half-way through cooking time. Transfer to paper towel-lined
    plate and blot with additional paper towels. Serve.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Pomme William/ Pear Shaped Potatoes
 ===================================
@@ -543,13 +483,7 @@ Directions
 #. Place gently in canola oil until golden brown
 #. Makes 8 pear shaped potatoes
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Classic Risotto
 ===============
@@ -601,13 +535,7 @@ Variations
 2. Add chopped meat from 1 lobster tail to risotto mixture in step 3
    half way through adding the liquids.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Mushroom Risotto
 ================
@@ -666,13 +594,7 @@ Directions
    Parmesan, and chopped parsley. Adjust seasoning with salt and pepper;
    serve immediately in warmed bowls.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Corn and Bacon Risotto
 ======================
@@ -725,13 +647,7 @@ Directions
 1. Place all ingredients a medium sized pot and bring to a simmer for 1 hour.
 2. Strain out solids and reserve in fridge till ready to use.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Pressure-Cooker Parmesan Risotto
 ================================
@@ -770,13 +686,7 @@ Directions
    consistency.
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Oven-Fried Onion Rings
 ======================
@@ -834,13 +744,7 @@ to an hour. Let them sit at room temperature for 30 minutes before
 baking; if baked straight from the fridge, the onions will not soften
 properly and will remain crunchy.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Potato Latkes
 =============
@@ -932,13 +836,7 @@ frozen latkes.
        pan in oven.
    -->
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Buttered Spaetzle
 =================
@@ -975,13 +873,7 @@ Directions
    remaining batter, adding butter to each batch of cooked spaeztle.
    Toss and serve.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Grilled Mexican Street Corn
 ===========================
@@ -1018,13 +910,7 @@ Directions
    a sprinkle of the remaining cheese and more cilantro, then serve with lime
    wedges.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Braised Red Cabbage
 ===================
@@ -1068,13 +954,7 @@ There are many ways to tweak this recipe! Raisins, currants, shallots,
 onions, leeks, apples, and pears are just a few things that rock in this
 recipe.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Braised Cabbage with Bacon and Apples
 =====================================
@@ -1109,13 +989,7 @@ Yield
 
 4 portions
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Green Beans with Sauteed Shallots and Vermouth
 ==============================================
@@ -1158,13 +1032,7 @@ Directions
 
 .. include:: Sous-Vide/Butternut-Squash-Puree.rst
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Honey Glazed Roasted Sweet Potatoes
 ===================================
@@ -1195,13 +1063,7 @@ Directions
    seasoning, blend
 5. Place in the oven for 10 minutes. Garnish with chopped parsley.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Skillet-Roasted Brussels Sprouts with Mustard and Brown Sugar
 =============================================================
@@ -1260,13 +1122,7 @@ In step 2, replace mustard, sugar, vinegar, and cayenne, with 1 tbsp
 lemon juice. \* In step 3 once plated, sprinkle with 1/4 cup shredded
 Pecorino Romano cheese.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Roasted Brussels Sprouts
 ========================
@@ -1322,13 +1178,7 @@ to serving platter, toss with toss with remaining 2 tablespoons oil,
 reserved bacon fat, chopped bacon, and 1/2 cup finley chopped toasted
 pecans.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Flour Tortillas
 ===============
@@ -1395,13 +1245,7 @@ Directions
    until zucchini is tender, about 8 minutes. Season with sea salt and pepper.
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Grilled Vegetables
 ==================
@@ -1431,13 +1275,7 @@ Directions
 2. Place mixture into a grill pan and grill on indirect heat until
    peppers are tender (7-8 minutes.)
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Grilled Asparagus
 =================
@@ -1472,13 +1310,7 @@ Directions
    asparagus rafts with the sesame seeds as they grill. You can serve
    the asparagus as rafts, or unskewered.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Roasted Beets and Carrots
 =========================
@@ -1510,13 +1342,7 @@ Directions
 5. Add beets to carrots, tossing to combine and roast until beets are
    hot and carrots are very tender, about 15 minutes more.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Persian-Style Rice with Golden Crust - Chelow
 =============================================
@@ -1580,13 +1406,7 @@ Directions
    arranging evenly around rice. Sprinkle with remaining 2 tablespoons
    parsley and serve.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Mexican Rice
 ============
@@ -1625,13 +1445,7 @@ Directions
    with salt and pepper to taste. Transfer rice to serving bowl. Serve with
    lime wedges.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Rice Cooker Mexican Rice
 ========================
@@ -1661,13 +1475,7 @@ Directions
    thicken.
 4. Stir before serving.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Rice Cooker Portuguese Spicy Rice
 =================================
@@ -1697,13 +1505,7 @@ Directions
    thicken.
 4. Stir before serving.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Cuban Black Beans
 =================
@@ -1748,13 +1550,7 @@ Note
 In a pinch you can substitute 3 19oz cans of black beans and don’t add
 the water. Still simmer with the green onion to infuse the flavour.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Barbecued Baked Beans
 =====================
@@ -1800,13 +1596,7 @@ After cooking, the beans can be cooled to room temperature and
 refrigerated, wrapping tightly in plastic wrap, for up to 4 days. Reheat
 over medium-low heat before serving.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Sauteed Fiddleheads
 ===================
@@ -1836,13 +1626,7 @@ Directions
    until ferns are tinged lightly brown and tender, about 5 minutes. Remove
    from heat and sprinkle with lemon juice.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Cabbage Kimchi
 ==============
@@ -1899,13 +1683,7 @@ Directions
    to the refrigerator. You may eat it right away, but it’s best after
    another week or two.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Cucumber Kimchi
 ===============
@@ -1937,13 +1715,7 @@ Directions
    each cucumber with the onion mixture and pack snugly into a
    container. Let sit for 30 minutes, or refrigerate for up to a week.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Sesame bean sprouts
 ===================
@@ -1975,13 +1747,7 @@ Directions
    sprouts with sauce. Sprinkle the sesame seeds on top, crushing them
    slightly between your fingers as you do so.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Sesame-Pepper Bean Sprouts
 ==========================
@@ -2012,13 +1778,7 @@ Directions
    Add sesame oil; toss to coat. Season with sesame mixture and
    gochugaru.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Quick pickled radish and pear
 =============================
@@ -2048,13 +1808,7 @@ Directions
 2. Put sliced radish and pear in a wide bowl. Pour the vinegar mixture
    over and let sit for 30 minutes, or refrigerate for up to a week.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Pickled Carrots with Tarragon
 =============================
@@ -2093,13 +1847,7 @@ Note
 
 Carrots can be pickled 5 days ahead. Keep chilled.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Sauteed Zucchini
 ================
@@ -2125,13 +1873,7 @@ Directions
    3-4 minutes.
 2. Season with kosher salt, freshly ground black pepper, and gochugaru.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Peppery Edamame
 ===============
@@ -2155,13 +1897,7 @@ Cook edamame in a large pot of boiling water 2 minutes; drain and
 transfer to a large bowl. Add oil, pepper, salt, and sugar and toss to
 coat. Serve immediately.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Fennel-Tangerine Slaw
 =====================
@@ -2192,13 +1928,7 @@ smooth. Toss with fennel mixture and season to taste with salt and
 pepper (can be stored in airtight container and refrigerated up to 2
 days).
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Korean cheese corn
 ==================
@@ -2236,13 +1966,7 @@ Directions
    the broiler for a few minutes, until the cheese is melted and
    starting to brown in a few spots. Serve immediately.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Honey Glazed Roasted Sweet Potatoes
 ===================================
@@ -2268,13 +1992,7 @@ Directions
    butter, and seasoning, blend.
 #. Place in the oven for 10 minutes. Garnish with chopped parsley.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Jackson Potatoes
 ================
@@ -2307,13 +2025,7 @@ Directions
 #. Brush the top with a beaten egg yolk.
 #. Place in the oven for 10 minutes or until golden on top.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Garlic Bread
 ============

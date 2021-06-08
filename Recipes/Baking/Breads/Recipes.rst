@@ -10,13 +10,7 @@ Baking: Breads
    :local:
    :depth: 1
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Rodney's No-Knead Artisan Bread
 ===============================
@@ -121,13 +115,7 @@ References
 * `Jim Lahey and Mark Bittman <https://cooking.nytimes.com/recipes/11376-no-knead-bread>`__
 * `Sally's Baking Addiction <https://sallysbakingaddiction.com/homemade-artisan-bread/>`__
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Almost No-Knead Sourdough Bread
 ===============================
@@ -168,13 +156,7 @@ Directions
    210 degrees, 20 to 30 minutes longer. Carefully remove bread from pot;
    transfer to wire rack and let cool completely before serving.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Sourdough Starter
 =================
@@ -222,13 +204,7 @@ Directions
    refrigerate for at least 12 hours or up to 18 hours. Remaining starter
    should be refrigerated and maintained as directed.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Prosciutto Bread
 ================
@@ -308,13 +284,7 @@ Do not use thinly sliced deli meats and cheese, as they will adversely
 affect the bread's texture. Use a mild lager, such as Budweiser; strongly
 flavoured beers will make this bread taste bitter.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Simple Crusty Bread
 ===================
@@ -357,13 +327,7 @@ nonstick loaf pan. Let rest 40 minutes if fresh, an extra hour if
 refrigerated. Heat oven to 450 degrees for 5 minutes. Place pan on middle
 rack.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 60-Minute Bread
 ===============
@@ -393,13 +357,7 @@ Directions
 3. Bake the bread on a sheet, or slide it onto a baking stone. Bake until
    done, 30 to 45 minutes; the crust will be golden-brown, crisp, and firm.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Easy No-Knead Focaccia
 ======================
@@ -470,13 +428,7 @@ Make Ahead: Focaccia is best eaten the day it's made, but keeps well in the
 freezer. Slice it into pieces, store it in a freezer-safe container, then
 reheat it on a baking sheet in a 300° F oven.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Dinner Rolls
 ============
@@ -534,13 +486,7 @@ Directions
    invert rolls onto rack, then reinvert. Brush tops and sides of rolls with
    melted butter. Let rolls cool for at least 20 minutes before serving.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Hamburger Buns
 ==============
@@ -602,13 +548,7 @@ for up to 24 hours. Let dough sit at room temperature for 2 hours before
 baking. Increasing baking time by 5 minutes.
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Marjorie's Biscuits
 ===================
@@ -632,13 +572,7 @@ Directions
    cutter and place on prepared sheet.
 3. Bake for 20 minutes. Removed from oven and transfer to a wire rack.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Basic Flatbread
 ===============
@@ -699,13 +633,7 @@ Variations
   surface for just a few seconds to seal the sesame seeds into the surface
   of the naan.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Simple Naan Bread
 =================
@@ -739,13 +667,7 @@ Directions
    hot, lightly oiled pan a couple minutes a side until bubbly
 6. Remove and brush with garlic butter if using
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Pita Bread
 ==========
@@ -795,13 +717,7 @@ Directions
    few brown speckles. Transfer warm pita to a napkin-lined basket and cover
    so bread stays soft. Repeat with the rest of the dough balls.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Southern-Style Cornbread
 ========================
@@ -841,13 +757,7 @@ Directions
    Remove cornbread from skillet and let cool for 20 minutes before
    cutting into wedges and serving.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Simple Cornbread Recipe
 =======================
@@ -915,13 +825,7 @@ Notes
     time these muffins should be in the oven is around 21-23 minutes. Use a
     toothpick to test. If it comes out clean, the muffins are done.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Yorkshire Pudding
 =================
@@ -968,13 +872,7 @@ Directions
    popovers to a cooling rack and pierce each one in the top with a
    knife to allow steam to escape. Serve warm.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Pretzels
 ========
@@ -1009,13 +907,7 @@ Directions
    with salt. Bake for 10-15 minutes, until golden brown.
 9. Serve with `Mustard Dipping Sauce <#mustard-dipping-sauce>`__
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Cranberry and White Chocolate Chip Muffins
 ==========================================
@@ -1049,13 +941,7 @@ Note
 ----
 Variation: Substitute cranberries and white chocolate chips with blueberries.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Brioche Bread
 =============

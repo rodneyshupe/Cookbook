@@ -59,13 +59,7 @@ Directions
    sauce begins to caramelize, (approximately 2 minutes per side)
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Grilled Barbecued Chicken Kebabs
 ================================
@@ -131,13 +125,7 @@ Directions
    thighs, about 1 minute longer. Remove kebabs from grill and let rest for
    5 minutes. Serve, passing reserved barbecue sauce separately.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Beer Can Chicken
 ================
@@ -199,13 +187,7 @@ Wet Rub Variation
 2. Cook chicken at 350°F for 1 hour 15 min. Test internal temp in thigh,
    should be 165°F.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Easy Grill-Roasted Whole Chicken
 ================================
@@ -263,13 +245,7 @@ Directions
    to 10 minutes longer. Let chicken rest, uncovered, for 20 minutes. Carve
    chicken and serve.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Gourmet BBQ Brined Spatchcock Chicken
 =====================================
@@ -316,13 +292,7 @@ Notes
   for 8 hours instead of 4-5.
 - A variation is to add fresh herbs or Chinese 5 spice to the brine.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Cast Iron Crisp Roast Butterflied Chicken with Rosemary and Garlic
 ==================================================================
@@ -361,13 +331,7 @@ Directions
    Transfer chicken to carving board, tent loosely with aluminum foil, and
    let rest for 15 minutes. Carve chicken and serve.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Roast Chicken with Lemon and Garlic
 ===================================
@@ -426,13 +390,7 @@ Directions
    chicken to a platter. Top with pan juices and serve with roasted lemon and
    garlic alongside.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Jennifer Lawrence's Roast Chicken with Shallot Fried Rice
 =========================================================
@@ -497,13 +455,7 @@ Directions
 7. Mix together the rice, mushrooms and shallots in a serving bowl. Serve
    the chicken tossed with the arugula along with the shallot fried rice.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Roast Chicken Tarragon-Lemon Pan Sauce
 ======================================
@@ -567,13 +519,7 @@ Thyme-Sherry Vinegar Pan Sauce
    thyme to pan with shallot. In step 6 replace lemon juice with sherry
    vinegar and leave out the tarragon.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Buttermilk Roast Chicken with Potatoes and Cornichon Butter
 ===========================================================
@@ -623,13 +569,7 @@ Directions
    and parsley to the hot potatoes. Once it starts to melt, toss to evenly
    integrate.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Roast Chicken with Warm Bread Salad
 ===================================
@@ -687,13 +627,7 @@ Directions
    vinaigrette to arugula and toss to evenly coat. Transfer salad to serving
    platter and serve with chicken.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Peri Peri BBQ Chicken
 =====================
@@ -727,13 +661,7 @@ Directions
    pieces register 165°F (about 30 minutes) flipping ocationally to prevent
    burning. Optinally you can also use smoke.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Thai-Style Grilled Chicken (Gai Yang)
 =====================================
@@ -805,13 +733,7 @@ Directions
    and let rest for 10 minutes. Slice each hen in half or into 4 pieces and
    serve, passing dipping sauce separately.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Buffalo Style Chicken Wings
 ===========================
@@ -852,13 +774,7 @@ For plain wings, serve with a squeeze of lemon or lime, or with an
 accompanying dipping sauce, if desired. If you want BBQ style, in step
 two brush with your favorite BBQ Sauce.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Dave’s BBQ Chicken Wings
 ========================
@@ -906,13 +822,7 @@ Variation
 
 Alternate brine: Substitute sugar with 1/4 cup Worcestershire sauce.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Chicken Wings with Honey and Soy Sauce
 ======================================
@@ -964,13 +874,7 @@ Directions
 6. After the wings have cooled, toss them with the yogurt sauce in a large
    bowl. Serve with lime wedges.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Butter Milk Fried Chicken
 =========================
@@ -1016,13 +920,7 @@ Directions
    warm oven, especially if it's a gas oven. Goes well with homemade
    `French Fries <#french-fries>`__.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Oven-Fried Chicken
 ==================
@@ -1087,13 +985,7 @@ To create a spicier version adjust the breading by leaving out salt and
 increasing cayenne pepper to 1/4 teaspoon and adding 1/2 teaspoon chili
 powder.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Indoor Pulled Chicken
 =====================
@@ -1176,13 +1068,7 @@ South Carolina Mustard Barbecue Sauce
 -  1 teaspoon salt
 -  1 teaspoon pepper
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Chicken and Sausage Gumbo
 =========================
@@ -1240,13 +1126,7 @@ Directions
    passing hot sauce separately. (Gumbo can be refrigerated in airtight
    container for up to 3 days.)
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Pesto Chicken Garlic Knot Sliders
 =================================
@@ -1292,13 +1172,7 @@ Directions
     knots are golden brown and cheese is melted.
 11. Pull apart for individual sliders.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Butter Chicken
 ==============
@@ -1346,13 +1220,7 @@ Directions
 5. Garnish with coriander/cilantro leaves if using. Serve with basmati rice
    and/or `Naan Bread <#basic-flatbread>`__.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Chicken Yakiudon
 ================
@@ -1418,13 +1286,7 @@ Directions
    vegetables and chicken and toss to combine. Season with salt to
    taste, and serve immediately.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Fajita Quesadillas
 ==================
@@ -1469,13 +1331,7 @@ Directions
 9. Serve with sour cream.
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Old-Fashioned Stuffed Turkey
 ============================
@@ -1568,13 +1424,7 @@ Note
 To roast a kosher or self-basting turkey (such as a frozen Butterball),
 do not salt it in step 1.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Chicken Gyro
 ============
@@ -1618,13 +1468,7 @@ Directions
 5. Assemble the gyro, by adding onions, cucumber, tomato, letuce and Tzatziki Sauce
    to pitas.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Greek Chicken
 =============
@@ -1670,13 +1514,7 @@ Directions
    165 degrees
 6. Remove, brush again and use
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Chicken Tinga Tacos
 ===================

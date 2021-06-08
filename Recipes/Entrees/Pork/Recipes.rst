@@ -52,13 +52,7 @@ Directions
 7. Transfer the ribs to a platter. Sprinkle with the remaining rub and
    serve with the other half cup of barbecue sauce.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Oven Baked Baby Back Ribs
 =========================
@@ -95,13 +89,7 @@ Directions
    caramelizes lightly. Slice each slab into 2 rib bone portions. Place the
    remaining hot glaze into a bowl and toss the rib portions in the glaze.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 
 Country-Style Ribs
@@ -135,13 +123,7 @@ Directions
 4. Serve with additional sauce from pan.
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Rosticciana (Tuscan Grilled Pork Ribs)
 ======================================
@@ -191,13 +173,7 @@ Directions
 5. Transfer ribs to cutting board and let rest for 10 minutes. Cut ribs
    between bones and serve, passing vinaigrette separately.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Chinese-Style Barbecued Spareribs
 =================================
@@ -271,13 +247,7 @@ ribs alone as an appetizer or with vegetables and rice as a main course.
 You can serve the first batch immediately or tent them with foil to keep
 them warm.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Spiced Pork Lettuce Wraps
 =========================
@@ -315,13 +285,7 @@ Directions
    to 1 side of large serving platter. Arrange lettuce, avocado, and mango
    on empty side of platter. Serve, passing sour cream mixture separately.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 German Schwenkbraten (Pork Steak Barbecue)
 ==========================================
@@ -360,13 +324,7 @@ If you cannot find pork steaks already cut, buy a whole pork shoulder roast
 (or similar roast), debone it, and cut the meat crosswise, 1/2 to 3/4 inches
 thick to make steaks.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Indoor Pulled Pork
 ==================
@@ -450,13 +408,7 @@ Barbecue Sauce, use 2 cups of your favorite barbecue sauce thinned with
 sauced pork can be cooled, tightly covered, and refrigerated for up to 2
 days. Reheat it gently before serving.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Braised Pulled Pork with Honey Balsamic Sauce
 =============================================
@@ -502,13 +454,7 @@ Directions
 6. Drain pork juices and shred pork with two forks. Add sauce and stir to
    combine. Spoon mixture onto buns to serve.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Spicy Pork Tacos (al Pastor)
 ============================
@@ -595,13 +541,7 @@ spicier. To warm tortillas, place them on a plate, cover with a damp
 kitchen towel, and microwave for 60 to 90 seconds. Keep tortillas covered
 and serve immediately.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Bacon explosion
 ===============
@@ -650,13 +590,7 @@ Yield:
 10 servings
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Deviled Pork Chops
 ==================
@@ -690,13 +624,7 @@ Directions
 4. Roast until meat registers 140 degrees, 40 to 50 minutes. Remove from
    oven and let rest on rack for 10 minutes before serving.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Mustardy Apple Butter-Glazed Pork Chops
 =======================================
@@ -732,13 +660,7 @@ Directions
    bubbly and slightly charred in spots, 3 to 6 minutes. Let rest for
    5 minutes. Sprinkle with parsley and serve.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Bacon-Wrapped Pork Roast with Peach Sauce
 =========================================
@@ -785,13 +707,7 @@ Directions
    Serve with peach sauce.
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Grilled Pork Loin Roast
 =======================
@@ -815,13 +731,7 @@ Directions
 4. Roast on indirect heat with a pan under nether to catch the drippings
    until pork has an internal temperature 160°F (approx 1 hour)
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Broiled Pork Tenderloin for Two
 ===============================
@@ -857,13 +767,7 @@ Directions
    let rest for 10 minutes. Remove twine, slice tenderloin into
    1/2-inch-thick slices, and serve.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Ssam Sauce Grilled Pork Tenderloin
 ==================================
@@ -888,13 +792,7 @@ Directions
    is 145°F.
 4. Slice and serve.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Breaded Pork Cutlets (Pork Schnitzel)
 =====================================
@@ -957,13 +855,7 @@ Yield:
 
 Serves 4
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Roast Fresh Ham
 ===============
@@ -1072,13 +964,7 @@ Coca Cola Brine
 1. Dissolve salt and coca-cola. Add garlic, bay leaves and black pepper.
 2. Use Apple Cider and Brown Sugar Glaze.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Gochujang Pork Shoulder Steaks
 ==============================
@@ -1118,13 +1004,7 @@ Directions
 3. Transfer pork to a cutting board and let rest 5 minutes before thinly
    slicing against the grain.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Cubanos (Cuban Sandwiches)
 ==========================
@@ -1161,13 +1041,7 @@ Directions
    sandwiches, and cook until golden brown, 3 to 4 minutes.
    Serve immediately.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Crispy Slow-Roasted Pork Belly
 ==============================

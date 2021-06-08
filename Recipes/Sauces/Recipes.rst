@@ -59,13 +59,7 @@ Directions
    on solids to extract as much liquid as possible; discard solids.
    Adjust seasonings with salt and pepper. Serve hot.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Simple Quick Gravy
 ==================
@@ -126,13 +120,7 @@ Variations
   over MED heat for about 5 minutes.  Then add broth and continue with the
   recipe as written.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Turkey Gravy
 ============
@@ -187,13 +175,7 @@ Directions
     all liquid. Add defatted drippings to taste. Stir in giblets and
     serve.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Sauce Base (Demi-glace)
 =======================
@@ -254,13 +236,7 @@ Notes
   Either way, the sauce base already has highly concentrated flavors, so you
   will probably not need to season this quick sauce with salt and pepper.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Simple Sauce Base
 =================
@@ -322,13 +298,7 @@ until thickened, about 1 minute. Off heat, whisk in butter and thyme;
 season with salt and pepper to taste. Spoon sauce over steaks and serve
 immediately.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Argentinian Chimichurri Sauce
 =============================
@@ -369,13 +339,7 @@ Notes
 
 To keep the sauce from becoming bitter, whisk in the olive oil by hand.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Quick Tartar Sauce
 ==================
@@ -420,13 +384,7 @@ Directions
 Combine all ingredients in small bowl. Cover with plastic wrap and refrigerate
 until flavors meld, about 15 minutes.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Sweet and Sour Chile Sauce
 ==========================
@@ -478,13 +436,7 @@ Directions
 
 1. Mix all ingredients together until smooth.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Spicy Mustard Sauce
 ===================
@@ -556,13 +508,7 @@ Directions
    the jar, until smooth, approximately 20 seconds. Refrigerate until ready
    to use.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Hollandaise Sauce
 =================
@@ -600,13 +546,7 @@ Variation
 ---------
 For a simple Bearnaise Sauce, add 1 tbsp. chopped tarragon, and 1 tbsp. chopped parsley
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Bearnaise Sauce
 ===============
@@ -650,13 +590,7 @@ Directions
    keep in a warm place for up to 1 hour before serving. Bearnaise
    cannot be cooled and reheated.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Teriyaki Sauce
 ==============
@@ -711,13 +645,7 @@ Notes
 -----
 Ssam sauce will keep in the fridge for weeks.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Simple Apple Sauce
 ==================
@@ -757,13 +685,7 @@ Directions
    for up to 5 days.)
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Peach Sauce
 ===========
@@ -788,13 +710,7 @@ Directions
    Remove from heat and discard thyme sprigs.
 2. When ready to serve, stir mustard into sauce and rewarm over low heat.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Simple Pizza Sauce
 ==================
@@ -854,13 +770,7 @@ Directions
 ----------
 1. Combine all ingredients in bowl. (Sauce can be refrigerated for up to 24 hours.)
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Simple Tomato Sauce
 ===================
@@ -893,13 +803,7 @@ Directions
    sugar, and salt, and cook, stirring constantly, for 1 minute. Serve
    over pasta.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Simple Tomato Meat Sauce
 ========================
@@ -939,13 +843,7 @@ Notes
   90+ minutes.
 * Leftovers can be refrigerated for 4-5 days or frozen for up to 3 months.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Simple Alfredo Cream Sauce
 ==========================
@@ -983,13 +881,7 @@ Variations
   scallops and then added them back in at the end of step 2.  Season with
   hot-sauce to add additional spice.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Basil Pesto
 ===========
@@ -1039,13 +931,7 @@ Parmesan. The pesto can be kept in an airtight container, covered with a
 thin layer of oil (1 to 2 tablespoons), and refrigerated for up to four
 days or frozen for up to one month.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Thai Peanut Stir Fry Sauce
 ==========================
@@ -1078,13 +964,7 @@ Directions
    stir until brown sugar is dissolved and sauce is smooth, about 5
    minutes.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 
 Garlic Scape Pesto
@@ -1146,13 +1026,7 @@ Directions
   continue to process until smooth, about 1 minute longer. With blender
   running, slowly add oil until incorporated. Transfer to bowl.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Tzatziki Sauce
 ==============
@@ -1207,13 +1081,7 @@ Directions
    refrigerate until flavors are blended, at least 1 hour; serve cold with
    crudités. (Can be refrigerated in airtight container for up to 2 days.)
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Mayo Yogurt Sauce
 =================
@@ -1274,13 +1142,7 @@ Directions
 ----------
 Mix all ingredients together.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Red Pepper Mayonnaise
 =====================
@@ -1332,13 +1194,7 @@ Directions
 ----------
 - Combine all ingredients in small bowl.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Basil Mayonnaise
 ================
@@ -1380,13 +1236,7 @@ Directions
    salt and pepper to taste together in small bowl. Refrigerate until
    ready to use.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Spicy Butter Sauce
 ==================
@@ -1451,13 +1301,7 @@ Directions
 - Whisk all ingredients together in bowl. Cover and refrigerate until ready
   to serve.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Homemade Mustard
 ================
@@ -1522,13 +1366,7 @@ Directions
    it’s ready. Transfer to a tightly capped jar and store in the fridge
    for up to a month.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Fermented Mustard
 =================
@@ -1554,13 +1392,7 @@ Directions
    the seeds. Blend remaining ingredients in a 1 pint (16oz) jar.
 2. Cover and ferment for 1 day and up to a week.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Homemade Dijon Mustard
 ======================
@@ -1603,13 +1435,7 @@ Directions
 5. Alternatively, allow the jars to cool and store in the refrigerator for
    up to three months.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Garlic Chili Oil
 ================
@@ -1635,13 +1461,7 @@ Directions
 5. Carefully transfer mixture to the red pepper flake bowl. Mix well and
    allow to cool.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Compound Butter
 ===============

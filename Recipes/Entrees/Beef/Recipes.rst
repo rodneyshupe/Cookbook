@@ -65,13 +65,7 @@ Directions
    warm in the oven, do not wash pan as this will add extra flavor.)
 7. Add tarragon to sauce and spoon over steaks and serve immediately.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Soy-Garlic Marinaded Steaks
 ===========================
@@ -95,13 +89,7 @@ Directions
    remove from marinade, and pat off excess with a paper towel.
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Cast Iron Steaks with Herb Butter
 =================================
@@ -143,13 +131,7 @@ Directions
    aluminum foil, and let rest for 5 to 10 minutes. Slice steaks 1/2 inch
    thick and serve.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Pan-Seared Thick-Cut Strip Steaks
 =================================
@@ -206,13 +188,7 @@ Notes
 -  If desired, serve with a pan sauce, relish, or butter; see related
    recipes.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Grilled Mojo-Marinated Skirt Steak
 ==================================
@@ -263,13 +239,7 @@ Directions
    serving platter, drizzle with 2 tablespoons sauce, and serve, passing
    extra sauce separately.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Asian Marinated Short Ribs
 ==========================
@@ -323,13 +293,7 @@ Directions
 
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Pan Seared Striploin Steaks with Sauted Mushrooms
 =================================================
@@ -360,13 +324,7 @@ Directions
    and reserved jus.
 5. Server steaks with mushrooms and jus on top.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Steaks with Arugula and Parmesan
 ================================
@@ -415,13 +373,7 @@ about 6 inches from heat source. Continue to cook until meat registers
 Transfer steaks to wire rack set in rimmed baking sheet and let rest for
 5 minutes before serving.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Beef Rouladen
 =============
@@ -466,13 +418,9 @@ Directions
 5. Serve immediately with potatoes or `Buttered Spaetzle <#buttered-spaetzle>`__
    and `Braised Red Cabbage <#braised-red-cabbage>`__
 
-.. raw:: pdf
+.. include:: ../../../includes/recipePageBreak.rst
 
-   PageBreak recipePage
 
-.. raw:: html
-
-   <p style="page-break-before: always"/>
 
 Roast Beef with Gravy
 =====================
@@ -531,13 +479,7 @@ Note
   to 4 cups.
 - Serve with `Mashed Potatoes <#mashed-potatoes>`__. or `Pop Overs <#pop-overs>`__.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Classic Roast Sirloin Tip with Gravy
 ====================================
@@ -581,13 +523,7 @@ Directions
 
 .. include:: Sous-Vide/Eye-of-Round-Roast.rst
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Rib Roast
 =========
@@ -635,13 +571,7 @@ Directions
    And no, you don't need to rest it again.
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Prime Rib
 =========
@@ -699,13 +629,7 @@ Note
 
 .. include:: Sous-Vide/Prime-Rib.rst
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Grilled Roast
 =============
@@ -724,13 +648,7 @@ Directions
    per millimeter of width of the roast.
 2. Remove from gril and let rest under foil for 15-20 minutes.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Braised Short Ribs with Bacon and Mushrooms
 ===========================================
@@ -780,13 +698,7 @@ Directions
 8. Spoon the crispy bacon and mushrooms over the beef and garnish with a
    sprinkle of chopped Italian parsley.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Pressure Cooker Braised Short Ribs
 ==================================
@@ -824,13 +736,7 @@ Directions
 3. Remove from heat and let pressure come down naturally – do not manually
    release steam and never open cooker until pressure is released.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Soy-Braised Short Ribs
 ======================
@@ -899,13 +805,7 @@ Making Dashi
    (pouring through the strainer holding the strained katsuobushi) to make the
    amount of liquid needed. Keep chilled in the fridge, use within a day or so.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Slow Cooker Mongolian Beef Recipe
 =================================
@@ -951,13 +851,7 @@ Directions
 5. Serve over white rice and garnished with green onions and sesame seeds
    if desired.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Beef, Mushroom and Snow Pea Stir Fry
 ====================================
@@ -998,13 +892,7 @@ Directions
    The snow peas should be bright green and still crunchy but cooked.
 5. Garnish with sliced green onions and sesame seeds before serving.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Steak Fajitas
 =============
@@ -1043,13 +931,7 @@ Directions
    slightly. Serve immediately from the pan with tortillas and sides of salsa
    and crema.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Grilled Spanish Mustard Beef
 ============================
@@ -1088,13 +970,7 @@ Directions
 5. Serve on tortillas with some hot sauce and cilantro and optionally
    sliced avocado.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Pan-Seared Flank Steak with Mustard-Chive Butter
 ================================================
@@ -1137,13 +1013,7 @@ Directions
    to warm platter, dot with remaining butter mixture, sprinkle with
    remaining 2 tablespoons chives, and serve.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Sirloin Steak with Boursin Mashed Potatoes
 ==========================================
@@ -1183,13 +1053,7 @@ Directions
    fold into potatoes. Fold chives, 1/2 teaspoon salt, and 1/4 teaspoon
    pepper into potatoes. Serve with steak.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Grilled Sliced Brisket
 ======================
@@ -1216,13 +1080,7 @@ Directions
 
 .. include:: Sous-Vide/French-Beef-Dip.rst
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Negimaki (Japanese Grilled Steak and Green Onion Rolls)
 =======================================================
@@ -1283,13 +1141,7 @@ Directions
    2 tablespoons reserved glaze, sprinkle with sesame seeds, and serve,
    passing remaining reserved glaze separately.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Soy and Sesame Short Ribs
 =========================
@@ -1327,13 +1179,7 @@ Directions
    Remove ribs from marinade and grill, turning once, until lightly
    charred and cooked through, about 2 minutes per side for medium-rare.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Kalbi Korean-style short ribs
 ===============================
@@ -1368,13 +1214,7 @@ Directions
 4. Transfer to a platter and let rest 5-10 minutes. Garnish with
    scallions.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Kalbi Korean-style short ribs (CI version)
 ============================================
@@ -1418,13 +1258,7 @@ Directions
    to platter. Return first batch of meat to grill and warm for 30
    seconds; transfer to platter and serve immediately.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Korean BBQ Skirt Steak
 ======================
@@ -1455,13 +1289,7 @@ Directions
    and as long as 2 hours.
 4. Grill on high for 5 - 6 minutes.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Italian Meatballs
 =================
@@ -1507,13 +1335,7 @@ Notes
   spaghitti with or without `Garlic Bread <#garlic-bread>`__.
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Skillet Beef Stroganoff
 =======================
@@ -1561,13 +1383,7 @@ Directions
    and lemon juice. Season with salt and pepper. Serve.
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Slow Cooker Sloppy Joes
 =======================

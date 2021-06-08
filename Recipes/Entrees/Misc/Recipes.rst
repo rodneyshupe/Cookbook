@@ -99,13 +99,7 @@ Yield:
 
 8 servings
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Cast Iron Paella
 ================
@@ -167,13 +161,7 @@ Yield:
 
 4-6 servings
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Foil Pack Dinners
 =================
@@ -276,13 +264,7 @@ Variations
 - **Mediterranean and Italian flavors**: Wine, saffron, chorizo, fresh
   veggies, oregano, olive oil drizzles, garlic, pesto sauces, Parmesan cheese
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Paella Party Packs
 ==================
@@ -318,13 +300,7 @@ Directions
    and the rice is tender, about 25 minutes, flipping once halfway through.
    (Alternatively, you can bake in oven at 425°F for about 20-25 minutes.)
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Stir Fry with Ginger Sauce
 ==========================
@@ -368,13 +344,7 @@ Ginger Sauce
 -  2 scallions, minced
 -  2 tablespoons low-sodium chicken broth
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Directions
 ----------
@@ -409,13 +379,7 @@ Directions
    sauce and stir-fry to coat all ingredients, about 1 minute. Serve
    immediately with rice.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Variations
 ----------
@@ -450,13 +414,7 @@ so meat and vegetables can develop color. - Sear in batches so meat
 doesn’t steam. - Add aromatics last to preserve flavor and avoid
 scorching.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Beef Stir Fry with Bell Peppers and Black Pepper Sauce
 ======================================================
@@ -520,13 +478,7 @@ Note: Technique: Cutting Flank Steak for Stir Fry
 Cut steak with grain into 2 to 2 1/2 inch strips, then cut each strip
 crosswise against grain into 1/4-inch-thick slices.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Nasi Goreng
 ===========
@@ -553,13 +505,7 @@ Directions
 3. Lower to heat to medium and add soy sauce, fish sauce, sugar, and chili powder.  Add
    cooked rice and stir until soy sauce is absorbed.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Detroit-Style Pizza
 ===================
@@ -614,13 +560,7 @@ Notes
 To add more toppings, such as pepperoni or sausage, to your pizza, press
 them into the dough before adding the cheese.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Homemade Pizza Dough
 ====================
@@ -657,13 +597,7 @@ Directions
    the dough rest for 15 minutes, but no more than 30 minutes, before
    shaping.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Stuffed Peppers
 ===============
@@ -717,13 +651,7 @@ Directions
    cheese. Bake until cheese is browned and filling is heated through,
    25 to 30 minutes. Serve immediately.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 From the Freezer Stuffed Peppers
 ================================
@@ -787,13 +715,7 @@ For a vegetarian version replace beef and pork with 1 can, 15 ounce (443ml),
 cannellini beans, drained and rinsed.  In step 1 add garlic to onions and
 cook as instructed then stir in beans.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Cam's Hot Dish
 ==============
@@ -823,13 +745,7 @@ Directions
    combine.  Transfer to a casserole dish, top with uncooked noodles and
    place in oven for approx. 1 hour.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 
 Red Beans and Rice
@@ -884,13 +800,7 @@ Note
 * If substituting andouille with kabasa use about 1 teaspoon liquid smoke
   when adding broth.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 
 Portuguese Francesinha Sandwich

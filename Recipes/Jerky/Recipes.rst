@@ -74,13 +74,7 @@ Dehydration
    towel and a loose fitting lid. Jerky is shelf stable for about 2
    weeks at room temperature and one month in the refrigerator.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Old West Jerky Marinade
 =======================
@@ -105,13 +99,7 @@ Ingredients
 -  A pinch - Ground Cayenne Pepper (Unless you like it really hot, don’t
    use more!)
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 The Old Timer
 =============
@@ -152,13 +140,7 @@ Ingredients
 - 1/2 teaspoon Chinese five–spice powder
 - Sesame seeds (for topping)
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Alton Brown Beef Jerky
 ======================
@@ -207,13 +189,7 @@ Ingredients
 -  2 teaspoons ground coriander
 -  1 tablespoons chili powder
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Sweet Chipotle Beef Jerky Marinade
 ==================================
@@ -270,13 +246,7 @@ Combine the orange juice, lime juice, honey, ground cumin, salt, garlic,
 and diced jalapenos in a blender until jalapenos are cut small and the
 honey is evenly mixed. Add to a bowl or ziplock bag.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Teriyaki Beef Jerky
 ===================
@@ -331,13 +301,7 @@ Directions
 4. Coat meat. Recover and refrigerate for another 3 hours.
 5. Dehydrate as above.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Cranberry Turkey Jerky
 ======================
@@ -374,13 +338,7 @@ Directions
 8. The jerky is finished when it bends and cracks, but does not break in
    half.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Ground Beef Jerky
 =================
@@ -420,13 +378,7 @@ If not using a jerky gun, spread the ground meat on a baking sheet,
 cover with wax paper, and roll with a rolling pin until meat is 1/4"
 thick Slice the pan of beef into jerky strips 4-5" long and 1" thick.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Midwest Ground Beef Jerky
 =========================
@@ -459,13 +411,7 @@ Directions
    touch. It should bend without breaking in half. If it cracks in half
    when bent a little bit, it was over dried
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Ground Teriyaki Venison Jerky
 =============================

@@ -10,13 +10,7 @@ Baking: Cookies
    :local:
    :depth: 1
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Chewy Chocolate Chip Cookies
 ============================
@@ -60,13 +54,7 @@ Note
 To keep the cookies chewy longer, store them in an airtight container with a
 slice of sandwich bread.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Peanut Butter Icebox Cookies
 ============================
@@ -96,13 +84,7 @@ Directions
 7. Cut log into 24 (1/4" thick) slices. place slices 1" apart on a baking sheet coated with cooking spray. Bake at 35°F for 8 minutes.
 8. Remove cookies from pan, and let cool on wire rack.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Mary's Oatmeal Chocolate Chip Cookies
 =====================================
@@ -141,13 +123,7 @@ Directions
    wire rack for 5 minutes; using wide metal spatula, transfer cookies
    to wire rack and let cool completely.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Oatmeal Cookies
 ===============
@@ -196,13 +172,7 @@ Directions
    wire rack for 5 minutes; using wide metal spatula, transfer cookies
    to wire rack and let cool completely.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Best Lemon Bars
 ===============
@@ -257,13 +227,7 @@ Directions
    cuts as necessary. Before serving, dust bars with confectioners' sugar,
    if using.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Pecan Bars
 ==========
@@ -332,13 +296,7 @@ the edges before cutting into bars. Toast the pecans on a rimmed baking
 sheet in a 350°F oven until fragrant, 8 to 12 minutes, shaking the sheet
 halfway through.*
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Brown Butter Blondies
 =====================
@@ -387,13 +345,7 @@ Directions
 9. Bake until the edges are golden and the middle is set, about 30 to 35
    minutes. Cool and cut to serve.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Basic Brownies
 ==============
@@ -436,13 +388,7 @@ Directions
    2-inch squares. (Brownies can be stored in airtight container for
    several days.)
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Six Minute Brownies
 ===================
@@ -483,13 +429,7 @@ Directions
 6. Remove brownies from microwave. Cut into the desired amount of pieces
    and serve with a generous amount of vanilla ice cream.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Vegan Brownies
 ==============

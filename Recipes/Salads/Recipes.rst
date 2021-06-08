@@ -69,13 +69,7 @@ Directions
 3. Place lettuce in a large bowl. Toss with dressing, remaining Parmesan
    cheese, and seasoned bread cubes.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Grilled Ceaser Salad
 ====================
@@ -127,13 +121,7 @@ Directions
    platter for serving.
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Butternut Squash and Barrata Salad
 ==================================
@@ -183,13 +171,7 @@ Directions
    aggressively.
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Aruguala Parmesean Salad
 ========================
@@ -209,13 +191,7 @@ Directions
 1. Place arugula in a bowl and drizzle with olive oil, season with salt and
    squeeze a lemon over top.  Cover in parmsean.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Austrian Potato Salad
 =====================
@@ -275,13 +251,7 @@ their place.
 To maintain its consistency, don’t refrigerate the salad; it should be
 served within 4 hours of preparation.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 German Potato Salad
 ===================
@@ -333,13 +303,7 @@ Directions
    chilled). If mixture seems to be just slightly dry you can either toss
    in a little more olive oil or chicken broth.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Creamy Potato Salad with Jalapeno
 =================================
@@ -378,13 +342,7 @@ Directions
 3. Serve at room temperature or make in advance and keep cold in the
    refrigerator.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Sweet and Tangy Coleslaw
 ========================
@@ -451,13 +409,7 @@ Replace celery seed with 2 tablespoons lime juice in step 1. In Step 3
 replace Carrot and Parsley with 1/2 red bell pepper, thinly sliced 1-2
 seeded and minced jalapeno chiles, 1 scallion, thinly sliced.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Creamy Buttermilk Coleslaw
 ==========================
@@ -495,13 +447,7 @@ Directions
    chilled, about 30 minutes. (Coleslaw can be refrigerated for up to 3
    days.)
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Tennessee-Style Mustard Coleslaw
 ================================
@@ -553,13 +499,7 @@ Directions
 2. In a large serving bowl, combine the lettuce, tomatoes, cheese and ground
    beef. When ready to serve, add the Doritos and dressing and toss to coat.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Fennel and Celery Salad with Parmesan
 =====================================
@@ -588,13 +528,7 @@ Directions
    and adjust as necessary. Place on individual plates or a platter and top
    with the grated Parmesan.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Mexican Corn Salad (Esquites)
 =============================
@@ -646,13 +580,7 @@ feta cheese.
 
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Mango, Orange, and Jicama Salad
 ===============================
@@ -702,13 +630,7 @@ lengthwise, seeded, and cut into 1/4-inch dice (1 1/2 cups). Use 1
 grapefruit in place of the orange. Replace 1 pineapple, peeled, cored,
 and cut into 1/2-inch dice (4 cups) instead of the Mango.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Avocado and Lobster Salad with Lime and Passion Fruit Dressing
 ==============================================================
@@ -759,13 +681,7 @@ Note
 Carb count 4.7g. per serving
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Warm Baby Spinach Salad with Bacon, Mushrooms and Pine Nuts
 ===========================================================
@@ -805,13 +721,7 @@ Directions
 #. In a large bowl place spinach, croutons, pine nuts, and bocconcini. Add the warm mixture and toss gently
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Grilled Chicken Salad
 =====================
@@ -851,13 +761,7 @@ Note
 Carb count 9g per serving
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Corn Salad And Honey Yogurt With Orange Habanero Peppers
 ========================================================
@@ -897,13 +801,7 @@ Directions
 #. Chill and serve cold (can be served on a bed of crisp greens)
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Cucumber Avocado Ole Salad
 ==========================
@@ -940,13 +838,7 @@ Directions
 #. Place corn chips around salad
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Dungeness Crab and Avocado Salad on a bed of arugula
 ====================================================
@@ -984,13 +876,7 @@ Note
 Carb count 7g per serving
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Fresh Mango and Mache Macadamia Nut Salad with Chilli Prawns and Thai Basil
 ===========================================================================
@@ -1028,13 +914,7 @@ Directions
 #. Portion onto 4 plates and arrange chilli prawns around salad.
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Moroccan Chicken, Crispy Romaine Salad
 ======================================
@@ -1087,13 +967,7 @@ Note
 Carb count 5g. per serving
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Grilled Pear and Fresh Mozzarella with a Red Oak Leaf Asparagus Salad
 ======================================================================
@@ -1130,13 +1004,7 @@ Note
 Carb count 7g. per serving
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Seared Ahi Tuna with a Shredded Daikon Salad
 ============================================
@@ -1175,13 +1043,7 @@ Directions
 #. Drizzle some of the vinaigrette over top of the salad
 #. Place the tuna filet over the salad and drizzle a touch more dressing over.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Grapefruit, Avocado, Raspberries and Watercress Salad
 =====================================================
@@ -1208,13 +1070,7 @@ Directions
 #. Toss gently, and serve on a platter or individually.Serve 4Heart Smart / Healthy Choice Appetizer.
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Lemon-Basil Fava Salad and Curly Endive with Raspberry Vinaigrette
 ==================================================================
@@ -1258,13 +1114,7 @@ Directions
 #. Garnish with fresh raspberries if desired.
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Shrimp, Avocado, And Artichoke Salad
 ====================================
@@ -1317,13 +1167,7 @@ Note
 Carb count 8g. per serving
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Spinach, Wild Greens, Mango, Strawberry Salad
 =============================================
@@ -1363,13 +1207,7 @@ Directions
 #. Place onto salad plates
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Chanterelle Mushrooms With Seared Baby Spinach
 ==============================================
@@ -1402,13 +1240,7 @@ Directions
 #. Add spinach and sear for 1 minute, add freshly squeezed lemon juice
 #. Place on a plate and drizzle a good aged balsamic vinegar over top.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Grilled Jumbo Tiger Prawns on a bed of Crisp Greens
 ===================================================
@@ -1450,13 +1282,7 @@ Directions
 #. Portion greens onto 4 plates and top with skewered prawns
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Sea Scallop Salad with Avacado Dressing
 =======================================

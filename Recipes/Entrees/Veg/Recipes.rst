@@ -60,13 +60,7 @@ Note
 If you do not have an ovensafe skillet, in step 3 transfer the gnocchi to a
 casserole dish for baking.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Red Lentil Curry
 ================
@@ -126,13 +120,7 @@ Directions
    on the stovetop, adding water as needed for moisture, or in the
    microwave.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Chickpea Curry
 ==============
@@ -170,13 +158,7 @@ Directions
    are tender and flavours have melded, about 20 minutes, stirring
    occasionally. Serve with rice and chopped fresh cilantro.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Red Lentil and Chickpea Curry
 =============================
@@ -227,13 +209,7 @@ Directions
    is wilted.
 7. Serve over a grain or cauliflower rice and top with cilantro.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Poblano con queso - Tacos
 =========================
@@ -262,13 +238,7 @@ Directions
    `Pickled Onions & Habaneros <#pickled-onions-habaneros>`__, and any
    other desired toppings.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Stir Fried Honey Ginger Sesame Noodles
 ======================================
@@ -316,13 +286,7 @@ Directions
    combine, cooking another 3-5 minutes until the sauce coats the noodles.
 5. Serve the noodles topped with cashews and green onions.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 20 Minute Red Curry Noodles with Fried Coconut Garlic
 =====================================================
@@ -371,13 +335,7 @@ Directions
 5. To serve, divide the noodles and sauce between bowls. Top with peppers,
    fresh basil, and the fried garlic.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Bean and Cheese Burrito
 =======================

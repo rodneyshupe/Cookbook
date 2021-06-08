@@ -62,13 +62,7 @@ Note
 Can also be enjoyed served cold, sliced with salad or makes a delicious
 sandwich.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Smoked Competition Ribs
 =======================
@@ -123,13 +117,7 @@ Directions
 8. Transfer the ribs to a platter. Sprinkle with the remaining rub and
    serve with the other half cup of barbecue sauce.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Smoked Salmon
 =============
@@ -157,13 +145,7 @@ Directions
    for approx 8-18 hours.
 7. Smoke at 200°F for 2 hours with Maple (or Apple)
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Smoked Indian Candy
 ===================
@@ -208,13 +190,7 @@ the smoking process. Alternately, you may remove salmon from smoker
 halfway through smoking and soak fish for several hours before resuming
 smoking.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 "Cold Smoked" Salmon à la Montreal
 ==================================
@@ -252,13 +228,7 @@ Directions
    dry with clean paper towel. Vacuum seal fish into UMAi Dry bag of the
    appropriate size. Refrigerate for about 12 days. Slice and serve.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Homemade Bacon
 ==============
@@ -301,13 +271,7 @@ Note
 If not using a smoker perform step 3 in a oven and add 1/2 tablespoon of
 liquid smoke to cure.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Pancetta
 ========
@@ -346,13 +310,7 @@ Directions
 5. After drying is complete, slice thin and enjoy!
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Lomo/Lonzino
 ============
@@ -390,13 +348,7 @@ Directions
    35-40% reduction in weight.
 5. After drying is complete, slice thin and enjoy!
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Prosciuttini (Little Prosciutto)
 ================================
@@ -427,13 +379,7 @@ Directions
    35-40% reduction in weight.
 5. After drying is complete, slice thin and enjoy!
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Duck Prosciutto
 ===============
@@ -466,13 +412,7 @@ Directions
    35-40% reduction in weight.
 5. After drying is complete, slice thin and enjoy!
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Bresaola
 ========

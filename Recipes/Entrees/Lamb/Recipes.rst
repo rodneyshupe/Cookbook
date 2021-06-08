@@ -55,13 +55,7 @@ Directions
    carving into individual chops.
 4. Garnish with sprigs of fresh rosemary and serve.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Macadamia Nut Crusted Rack of Lamb with a Merlot Demi-glace
 ===========================================================
@@ -106,13 +100,7 @@ Merlot demi-glace sauce
    almost all the liquid is gone. Add the demi-glace and simmer.
 #. Just before plating whisk in whole butter and chopped parsley.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Lamb Curry
 ==========
@@ -166,13 +154,7 @@ Variations
 Add 1 can of chickpeas and 1 additional cup of water 1 1/2 hours into
 cooking process.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Herbed Grill-Roasted Lamb
 =========================
@@ -213,13 +195,7 @@ Directions
    until all sides are seared, about 2 minutes per side. Cover the lamb
    with foil and let it rest for 10 to 15 minutes before carving.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Yogurt-Marinated Grilled Boneless Leg of Lamb
 =============================================

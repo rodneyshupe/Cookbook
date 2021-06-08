@@ -25,7 +25,6 @@ Chili
 | Prep Time: 30 minutes | Cooking Time: 3 hours | Yield: 6-8 servings |
 +-----------------------+-----------------------+---------------------+
 
-
 Ingredients
 -----------
 
@@ -150,16 +149,11 @@ Directions
 2. Add beef and onions to slow cooker, stir in all other ingredients and set
    slow cooker to med and cook for at least 8 hours.
 
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: InstantPot/Chili.rst
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
-
+.. include:: ../../../includes/recipePageBreak.rst
 
 Beef Stew
 =========
@@ -219,13 +213,7 @@ Directions
    peas, cover, and let stand for 5 minutes. Stir in the parsley and
    season with salt and pepper to taste before serving.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Beef Barley Soup
 ================
@@ -233,7 +221,6 @@ Beef Barley Soup
 +-----------------------+-----------------------+---------------------+
 | Prep Time: 20 minutes | Cooking Time: 2 hours | Yield: 4-6 servings |
 +-----------------------+-----------------------+---------------------+
-
 
 Ingredients
 -----------
@@ -271,13 +258,7 @@ Directions
 3. Add browned beef and any accumulated juices to soup and let heat
    through, about 1 1/2 hour. Season with salt and pepper to taste. Serve.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Guinness Beef Stew with Cheddar Herb Dumplings
 ==============================================
@@ -354,13 +335,7 @@ Directions
 11. Garnish the stew with parsley and serve.
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Chicken Stew
 ============
@@ -368,7 +343,6 @@ Chicken Stew
 +-----------------------+-----------------------+---------------------+
 | Prep Time: 30 minutes | Cooking Time: 2 hours | Yield: 4-6 servings |
 +-----------------------+-----------------------+---------------------+
-
 
 Ingredients
 -----------
@@ -423,13 +397,7 @@ Directions
    Season with salt and pepper to taste, sprinkle with parsley, and
    serve.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Chicken and Dumplings Stew
 ==========================
@@ -518,13 +486,7 @@ proceeding with the recipe.
 
 .. include:: InstantPot/ChickenAndDumplingSoup.rst
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Coq Au Vin
 ==========
@@ -608,13 +570,7 @@ off a jacket). If neither frozen nor fresh pearl onions are available,
 substitute one large onion cut into 1/2-inch pieces. (Do not use jarred
 pearl onions, which will turn mushy and disintegrate into the sauce.)
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Chicken Bouillabaisse
 =====================
@@ -723,13 +679,7 @@ Directions
    spread 1 teaspoon rouille on each crouton. Serve, floating 2 croutons
    in each bowl and passing remaining croutons and rouille separately.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Carrot Ginger Soup
 ==================
@@ -772,13 +722,7 @@ Add 2 cups shredded chicken towards the end of step 3, when returning
 pureed soup to the pan to reheat. For shedding the chicken; boil in
 water for 10-12 minutes, then shred with 2°Forks.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Cold Celery Root Soup with Yogurt
 =================================
@@ -816,13 +760,7 @@ Directions
    Serve cold with a drizzle of yogurt, some chopped parsley and bacon
    bits. It's best the second or third day.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Sweet Potato Soup
 =================
@@ -883,13 +821,7 @@ Maple Sour Cream
 
 Combine 1/3 cup sour cream and 1 tablespoon maple syrup in bowl.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Rustic Potato-Leek Soup with Kielbasa and Garlic Toast
 ======================================================
@@ -934,13 +866,7 @@ Directions
    15 minutes. Season with salt and pepper to taste and serve with
    garlic toast.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Corn and Yukon Gold Potato Soup
 ===============================
@@ -984,13 +910,7 @@ Directions
    smooth.  Pour in heated bowl and garnish with chive sour cream and smoked
    sunflower oil.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Split Pea and Ham Soup
 ======================
@@ -1028,13 +948,7 @@ Directions
    carrots and potatoes. Cook slowly, uncovered for 30 to 40 minutes, or
    until vegetables are tender.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Slow Cooker Bacon and Corn Chowder
 ==================================
@@ -1078,13 +992,7 @@ Directions
 `this <http://www.cooksillustrated.com/recipes/6602-corn-chowder>`__
 recipe*
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Quick Bacon and Corn Chowder
 ============================
@@ -1131,13 +1039,7 @@ Frozen corn can be quickly defrosted in a bowl in the microwave. If
 using fresh corn, you’ll need about 1 dozen medium ears; use a chef’s
 knife to cut the kernels off the husked and silked ears.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Leftover Seafood Chowder
 ========================
@@ -1177,13 +1079,7 @@ Directions
 4. Add cream and cooked seafood and simmer for 5 more minutes.
 5. Serve with crusty bread or oyster crackers
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Turkey Noodle Soup
 ==================
@@ -1215,13 +1111,7 @@ Directions
    simmer until pasta is al dente, 10 to 12 minutes. Stir in parsley,
    adjust seasonings with salt and pepper; serve.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Turkey Barley Soup
 ==================
@@ -1263,13 +1153,7 @@ Directions
    minutes. Off heat, stir in lemon juice and season with salt and
    pepper to taste. Serve.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Turkey Rice Soup with Mushrooms and Swiss Chard
 ===============================================
@@ -1311,13 +1195,7 @@ Directions
    leaves are wilted, about 2 minutes. Off heat, stir in lemon juice and
    season with salt and pepper to taste. Serve.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Turkey Orzo Soup with Kale and Chickpeas
 ========================================
@@ -1358,13 +1236,7 @@ Directions
    Off heat, stir in lemon juice and season with salt and pepper to
    taste. Serve.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Smoked Paprika and Rutabaga Bisque
 ==================================
@@ -1401,13 +1273,7 @@ Directions
    (You will have to do this in batches.) Taste and season with more
    salt and white pepper as needed.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 French Onion Soup
 =================
@@ -1498,13 +1364,7 @@ If using ordinary soup bowls, sprinkle the toasted bread slices with
 Gruyere and return them to the broiler until the cheese melts, then
 float them on top of the soup.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Shrimp Bisque
 =============
@@ -1573,13 +1433,7 @@ Directions
    sprig; stir in sherry, season to taste with salt and pepper, and
    serve hot.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Mushroom Bisque
 ===============
@@ -1638,13 +1492,7 @@ Directions
    taste. Serve immediately, garnishing each serving with 1 teaspoon
    extra cream and sprinkle of chives.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Cream of Asparagus Soup
 =======================
@@ -1688,13 +1536,7 @@ Directions
 
 5. Add lemon juice and garnish with asparagus tips.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Red Lentil Soup with North African Spices
 =========================================
@@ -1747,13 +1589,7 @@ Directions
    drizzle each portion with 1 teaspoon spiced butter, sprinkle with
    cilantro, and serve.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Lebanese Lemon Lentil Soup
 ==========================
@@ -1806,13 +1642,7 @@ Directions
    at a time, until smooth and creamy. Serve with lemon wedges, 2
    tablespoons parsley, and a sprinkle of freshly ground pepper.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Creamy Green Pea Soup
 =====================
@@ -1860,13 +1690,7 @@ Directions
    about 3 minutes. Season to taste with salt and pepper; serve
    immediately.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Creamy Leek-Potato Soup
 =======================
@@ -1919,13 +1743,7 @@ Directions
    and bring to simmer; season with salt and pepper to taste. Serve with
    garnish.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Butternut Squash Soup
 =====================
@@ -1975,13 +1793,7 @@ Directions
    desired consistency. Season with salt and pepper to taste; serve with
    dollop of sour cream. (Soup can be made up to 2 days in advance.)
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Silky Butternut Squash Soup
 ===========================
@@ -2058,13 +1870,7 @@ Cinnamon-Sugar Croutons
    stored in an airtight container for several days.) Sprinkle over soup
    just before serving.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Creamy Mushroom Soup
 ====================
@@ -2133,13 +1939,7 @@ Directions
    chanterelles, and about 2 minutes for oysters and cremini. Sprinkle a
    portion of mushrooms over individual bowls of soup and serve.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Wild Rice and Mushroom Soup
 ===========================
@@ -2202,13 +2002,7 @@ Directions
    rice, cream, chives, and lemon zest. Cover and let stand for 20
    minutes. Season with salt and pepper to taste, and serve.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Beef Barley Soup with Mushrooms and Thyme
 =========================================
@@ -2285,13 +2079,7 @@ Soup
    just tender, 45 to 50 minutes. Stir in parsley, adjust seasonings,
    including salt and pepper to taste, and serve.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Farmhouse Vegetable and Barley Soup
 ===================================
@@ -2348,13 +2136,7 @@ Directions
    juice, and chopped parsley; season with salt and pepper to taste.
    Serve, passing Lemon-Thyme Butter separately.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Red Borscht Soup
 ================
@@ -2399,13 +2181,7 @@ Directions
 5. Ladle into serving bowls, and garnish with sour cream, if desired, and
    fresh parsley.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Broccoli-Cheese Soup
 ====================
@@ -2453,13 +2229,7 @@ Directions
    of soup with up to 1 cup water. Season to taste with salt and pepper.
    Serve, passing extra Parmesan separately.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Cauliflower Soup
 ================
@@ -2515,13 +2285,7 @@ Directions
    Serve, garnishing individual bowls with browned florets, drizzle of
    browned butter, and chives and seasoning with pepper to taste.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 That Fcking Soup
 ================
@@ -2563,13 +2327,7 @@ Directions
    some noodles.
 4. Garnish with green onions and cilantro.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Quick Asian-Style Dumpling Soup
 ===============================
@@ -2607,13 +2365,7 @@ Directions
    from heat and stir in fish sauce and lime juice. Serve, sprinkled
    with scallion greens and bacon.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Thai Hot and Sour Noodle Soup with Shrimp (Guay Tiew Tom Yum Goong)
 ===================================================================
@@ -2666,13 +2418,7 @@ Directions
    using. Serve, drizzled with Thai Chile Jam, if using, and passing lime
    wedges and extra sliced Thai chiles, if using, separately.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Asian Beef and Noodle Soup
 ==========================
@@ -2709,13 +2455,7 @@ Directions
    until cabbage is wilted and beef is cooked through, about 2 minutes.
    Add cilantro. Serve.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Left Over Chicken Ramen
 =======================
@@ -2754,13 +2494,7 @@ Directions
 5. Remove ginger from broth and ladle over bowl contents. Add some more
    carrots, green onion, and cilantro.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Vegan Ramen
 ===========
@@ -2819,13 +2553,7 @@ Directions
 4. To serve, ladle broth over noodles, then top with bok choy and reserved
    garlic oil. Top with nori, cilantro, and corn if desired.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Jar Lunch Soup: Thai Coconut Curry With Shrimp Instant Noodles
 ==============================================================
@@ -2882,13 +2610,7 @@ Italian pasta. Cook the fresh noodles in boiling water for 1 minute,
 shock in cold water, drain well, toss with 2 teaspoons of oil until
 coated, then proceed with step 1.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Jar Lunch Soup: Chicken and Dill Instant Noodles
 ================================================
@@ -2929,13 +2651,7 @@ Directions
    top of the jar. Seal jar and let sit 2 minutes. Open jar, stir in
    dill, and serve.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Basic Turkey Stock
 ==================
@@ -2976,13 +2692,7 @@ Directions
    immediately or cool to room temperature, cover, and refrigerate up to
    2 days.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Simple Turkey Stock
 ===================
@@ -3051,13 +2761,7 @@ Directions
 2. Add water, thyme (or other herb) bundle and bring to a boil. Reduce
    heat and simmer for approx. 90 minutes and reduce to 5 cups.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 
 Spicy Chicken Breast, Chilli, Chard and Egg Noodle Soup
@@ -3087,13 +2791,7 @@ Directions
 #. Add the swiss chard, and egg noodles to the soup
 #. Adjust seasoning if needed and add freshly grated parmesan
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Creamy Asparagus Soup with Smoky Pancetta and Grilled Scallops
 ==============================================================
@@ -3131,13 +2829,7 @@ Directions
    stir, bring to high heat. Stir in whipping cream, adjust seasoning
    if needed.Serve 4-6.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Madrid Gazpacho soup (cold soup)
 ================================
@@ -3189,13 +2881,7 @@ Directions
 #. When you are ready to serve, stir in the olive oil and vinegar. Garnish
    with diced vegetables and croutons.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Smoky Pancetta, Sweet Onion, And Green Lentil Soup
 ==================================================
@@ -3221,13 +2907,7 @@ Directions
 #. In a separate sauce pan, fry the pancetta until crispy, add to the soup
    Garnish with parsely
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Straciatella Soup with Butternut Squash Ravioli
 ===============================================
@@ -3257,13 +2937,7 @@ Directions
 #. Add beaten eggs through a colander slowly, so eggs bead over stock
 #. Add fresh herbs, crushed chilli, broccoli florets, pasta, and freshly grated reggiano cheese
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Tuscan Minestra Soup
 ====================

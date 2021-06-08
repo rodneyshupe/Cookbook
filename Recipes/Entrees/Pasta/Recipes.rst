@@ -56,13 +56,7 @@ Directions
    to warm serving dish and sprinkle panko mixture over top. Serve
    immediately.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Creamy Penne with Asparagus and Peas
 ====================================
@@ -110,13 +104,7 @@ Directions
    reserved cooking water as needed and season with salt and pepper to
    taste. Serve with extra Parmesan.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Mushroom and Bacon Pasta
 ========================
@@ -169,13 +157,7 @@ Notes
 - Vegitarian: Remove bacon and replace with 2-3 tablespoons vegetable
   oil in step 2.  Add 1 cup cooked peas with lemon and herbs.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Mushroom and Leek Pasta with Garlic Bruschette
 ==============================================
@@ -227,13 +209,7 @@ Directions
 7. To serve, spoon the lasagne and mushroom mixture onto serving plates.
    Serve the toasted bruschette slices on the side.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Hearty Beef Lasagna
 ===================
@@ -320,13 +296,7 @@ At end of step 7, cover dish with greased aluminum foil and refrigerate for
 up to 24 hours. When ready to eat, bake lasagna as directed in step 8,
 increasing covered baking time to 55 minutes.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 From the Freezer Meaty Lasagna
 ==============================
@@ -397,13 +367,7 @@ Directions
    until cheese is spotty brown and sauce is bubbling, about 30 minutes. Let
    lasagna cool for 15 minutes. Serve.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Creamy Mushroom Linguine with Steak
 ===================================
@@ -468,13 +432,7 @@ Variations
   1/2 pieces. Remove steak, but add 1/2 cup peas (thawed from frozen) to
   sauce right before adding pasta.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 
 Skillet Baked Ziti
@@ -516,13 +474,7 @@ Note
 If your skillet is not ovensafe, transfer the pasta mixture into a shallow
 2-quart casserole dish before sprinkling with the cheese and baking.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Baked Manicotti with Spinach
 ============================
@@ -598,13 +550,7 @@ refrigerator for 1 to 2 days.) To bake, remove the parchment, replace the
 aluminum foil, and increase baking time to 1 to 1 1/4 hours.
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Flying Pig Spaghetti and Meat Balls
 ===================================
@@ -669,13 +615,7 @@ Directions
    and return to the heat for two minutes. This will stop the sauce from
    separating. Season to taste with salt and pepper.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Tagliatelle with Bolognese Sauce
 ================================

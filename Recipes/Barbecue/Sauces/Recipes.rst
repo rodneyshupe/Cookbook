@@ -62,13 +62,7 @@ Directions
 5. Once the jar is opened, refrigerate the sauce; it will keep for
    several months.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 South Carolina Style Mustard Barbecue Sauce
 ===========================================
@@ -102,13 +96,7 @@ Directions
 1. Place the all the ingredients in a heavy nonreactive saucepan and
    whisk to mix. Simmer over a low heat for 30 minutes.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 South Carolina Style Mustard Barbecue Sauce v2
 ==============================================
@@ -139,13 +127,7 @@ Directions
 3. Add more red pepper flakes if you want it spicier.
 4. Cool then refrigerate.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Alabama White BBQ Sauce
 =======================
@@ -203,13 +185,7 @@ Directions
    heat to low. Simmer for 35 minutes, stirring occasionally.
 
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Memphis Style Barbecue Sauce
 ============================
@@ -308,13 +284,7 @@ Directions
 6. If the BBQ sauce gets too thick, dilute with water until you get the
    desired consistency.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Bull's-Eye Original BBQ Sauce
 =============================
@@ -350,13 +320,7 @@ Yield
 -----
 Makes 1 1/2 cups.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Sriracha Bourbon Barbecue Sauce
 ===============================
@@ -459,13 +423,7 @@ Ingredients
 - spicy 'fire' sauce (from ramen packet)
 - honey
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Peri Peri Sauce
 ===============
@@ -506,13 +464,7 @@ Directions
 *How best to use piri piri? With seafood that is fried, grilled or
 broiled. A little goes a long way.*
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Garlic Peri-Peri sauce
 ======================

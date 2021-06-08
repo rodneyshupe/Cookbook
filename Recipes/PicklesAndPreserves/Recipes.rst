@@ -52,13 +52,7 @@ Directions
    water. Bring to a boil and process for 10 minutes. Remove canner lid.
    Wait 5 minutes, then remove jars, cool and store.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Preserved Lemons
 ================
@@ -92,13 +86,7 @@ Directions
    reboiled. Store in the fridge.
 5. Finely julienne for Service.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Pickled Carrots
 ===============
@@ -145,13 +133,7 @@ Notes
 -  For quick and easy dilled carrots, use baby carrots, available in
    bags in the produce department of grocery stores.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Pickled Asparagus
 =================
@@ -201,13 +183,7 @@ Directions
    water. Bring to a boil and process for 10 minutes. Remove canner lid.
    Wait 5 minutes, then remove jars, cool and store.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Grandmas Dill Pickles
 =====================
@@ -268,13 +244,7 @@ Day2
    water. Bring to a boil and process for 10 minutes. Remove canner lid.
    Wait 5 minutes, then remove jars, cool and store.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Mustard Pickles
 ===============
@@ -312,13 +282,7 @@ Directions
    Seal with lids and rings. Process for 10 minutes in a simmering water
    bath. Refrigerate any jars that fail to seal properly.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Chunky Mustard Pickles
 ======================
@@ -370,13 +334,7 @@ Variation
 -  Chunky Zucchini Pickles: Substitute unpeeled, seeded zucchini for the
    cucumber.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Sauerkraut
 ==========
@@ -475,13 +433,7 @@ Notes
    sometimes become unappetizingly mushy or go bad. Low temperatures
    (above freezing) are fine, but fermentation will proceed more slowly.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Jalapeno Slaw
 =============
@@ -516,13 +468,7 @@ Directions
    tablespoon per 1 quart water
 4. Screw on your Easy Fermenter lids and wait about 10-15 days.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Fermented Sweet Pepper Salsa
 ============================
@@ -558,13 +504,7 @@ Directions
    storage this ferment can last upwards of a couple of years in the
    fridge.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Canning Salsa Verde, Made With Tomatillos
 =================================================
@@ -613,13 +553,7 @@ Directions
    Place sterilized rings and lids on top, then return to boiling water
    bath for 15 minutes. Remove and let cool, listen for the pop!
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Quick Pickled Onions
 ====================
@@ -669,13 +603,7 @@ Directions
 2. Add the lime juice, salt, and sugar, if using. Mix to combine and store in
    the fridge (will last at least a week and taste better as  it sits!)
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Burnt Onion Jam
 ===============
@@ -705,13 +633,7 @@ Directions
    salt and use immediately or store in a sealable container for up to 1
    week.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Hot Pepper Jelly
 ================
@@ -756,13 +678,7 @@ Directions
    24 hours; it should not flex when pressed in the center. The jelly will
    keep for up to 1 year.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Green Onion Jam
 ===============
@@ -798,13 +714,7 @@ Directions
    transferring the jam to a mason jar. Seal and refrigerate. Use or keep
    in the refrigerator for up to 1 month.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../../../includes/recipePageBreak.rst
 
 Pectin (from Green Apples)
 ==========================
