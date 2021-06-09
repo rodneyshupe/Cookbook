@@ -150,6 +150,10 @@ Sides
 
 .. include:: ../../includes/recipePageBreak.rst
 
+.. include:: RiceCookerPortugueseSpicyRice.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: MexicanRice.rst
 
 .. include:: ../../includes/recipePageBreak.rst
@@ -162,7 +166,7 @@ Sides
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: RiceCookerPortugueseSpicyRice.rst
+.. include:: RefriedBeans.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
