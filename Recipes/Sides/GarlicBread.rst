@@ -24,3 +24,6 @@ Directions
    8 to 10 minutes. Cut each half into 2-inch slices; serve immediately.
 
 Note
+----
+Garlic bread is best served piping hot, so time it to arrive at the table last,
+once all the other dishes are finished and ready to serve.

@@ -31,3 +31,6 @@ Directions
    at least 24 hours.
 
 Note
+----
+
+Carrots can be pickled 5 days ahead. Keep chilled.

@@ -34,3 +34,8 @@ Yield
 
 
 Note
+----
+
+There are many ways to tweak this recipe! Raisins, currants, shallots,
+onions, leeks, apples, and pears are just a few things that rock in this
+recipe.
