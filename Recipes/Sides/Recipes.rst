@@ -28,7 +28,7 @@ Sides
 
 .. include:: SmashedFingerlingPotatoes.rst
 
-.. include:: Sous-Vide/Garlic-Smashed-Potatoes.rst
+.. include:: ../Sous-Vide/Garlic-Smashed-Potatoes.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
@@ -110,7 +110,7 @@ Sides
 
 .. include:: GreenBeansWithSauteedShallotsAndVermouth.rst
 
-.. include:: Sous-Vide/Butternut-Squash-Puree.rst
+.. include:: ../Sous-Vide/Butternut-Squash-Puree.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
