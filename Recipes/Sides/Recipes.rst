@@ -232,8 +232,8 @@ Sides
 
 .. include:: GarlicBread.rst
 
-.. include:: Sous-Vide/Glazed-Carrots.rst
+.. include:: ../Sous-Vide/Glazed-Carrots.rst
 
-.. include:: Sous-Vide/Green-Beans-with-Lemon.rst
+.. include:: ../Sous-Vide/Green-Beans-with-Lemon.rst
 
-.. include:: Sous-Vide/Self-Buttering-Corn-on-the-Cob.rst
+.. include:: ../Sous-Vide/Self-Buttering-Corn-on-the-Cob.rst
