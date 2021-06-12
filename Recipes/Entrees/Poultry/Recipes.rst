@@ -74,7 +74,7 @@ Entrees - Poultry
 
 .. include:: ../../../includes/recipePageBreak.rst
 
-.. include:: Dave’SBBQChickenWings.rst
+.. include:: DavesBBQChickenWings.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
 
