@@ -22,7 +22,7 @@ Soups and Stews
 
 ----
 
-.. include:: Faith'SSimpleChili.rst
+.. include:: FaithsSimpleChili.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
@@ -47,6 +47,8 @@ Soups and Stews
 .. include:: ../../includes/recipePageBreak.rst
 
 .. include:: ChickenAndDumplingsStew.rst
+
+.. include:: ../../includes/recipePageBreak.rst
 
 .. include:: ../InstantPot/ChickenAndDumplingSoup.rst
 
