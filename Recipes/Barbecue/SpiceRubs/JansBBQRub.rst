@@ -7,7 +7,7 @@ Ingredients
 -----------
 
 - 1 1/4 cup sugar
-- 1/4 cup Lawry’s seasoned salt
+- 1/4 cup Lawry’s seasoned salt (see recipe below)
 - 1/4 cup garlic salt
 - 1/4 cup + 1 1/2 teaspoon celery salt
 - 1/4 cup onion salt
@@ -22,7 +22,7 @@ Ingredients
 - 1/2 teaspoon cayenne
 
 Lawry's Substitute
-------------------
+^^^^^^^^^^^^^^^^^^
 
 - 2 tablespoons salt
 - 2 teaspoons granulated sugar
