@@ -51,9 +51,13 @@ otherwise specified.*
 
 .. include:: DavesCajunSpiceMix.rst
 
-----
+.. include:: ../../../includes/recipePageBreak.rst
 
 .. include:: TacoSeasoningMix.rst
+
+----
+
+.. include:: FajitaSeasoningMix.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
 
