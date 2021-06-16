@@ -34,5 +34,9 @@ Entrees - Lamb
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: LambDibi.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: YogurtMarinatedGrilledBonelessLegOfLamb.rst
 
