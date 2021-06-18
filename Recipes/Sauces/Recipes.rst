@@ -62,13 +62,17 @@ Sauces and Condiments
 
 .. include:: ../../includes/recipePageBreak.rst
 
+.. include:: MustardSauce.rst
+
+----
+
 .. include:: SpicyMustardSauce.rst
 
 ----
 
 .. include:: MustardCremeFraicheSauce.rst
 
-----
+.. include:: ../../includes/recipePageBreak.rst
 
 .. include:: MexicanCrema.rst
 
