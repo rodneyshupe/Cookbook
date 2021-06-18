@@ -76,6 +76,10 @@ Sauces and Condiments
 
 .. include:: MexicanCrema.rst
 
+----
+
+.. include:: AvacadoCream.rst
+
 .. include:: ../../includes/recipePageBreak.rst
 
 .. include:: HollandaiseSauce.rst
