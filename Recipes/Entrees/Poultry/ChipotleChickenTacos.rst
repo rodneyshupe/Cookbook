@@ -11,7 +11,7 @@ Ingredients
 - 1 tablespoon avocado oil (can sub vegteble oil)
 - 10 small tortilla
 - `avacodo cream <#avacado-cream>`__
-- adobo sauce from chipotle peppers
+- adobo sauce (from chipotle peppers can)
 - sliced cabbage (optional)
 - onion, small dice
 - cilantro.
