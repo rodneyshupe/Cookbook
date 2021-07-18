@@ -128,3 +128,6 @@ Entrees - Poultry
 
 .. include:: ChickenTingaTacos.rst
 
+.. include:: ../../../includes/recipePageBreak.rst
+
+.. include:: ChipotleChickenTacos.rst
