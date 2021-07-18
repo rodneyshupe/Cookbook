@@ -1,5 +1,5 @@
-Canning Salsa Verde, Made With Tomatillos
-=================================================
+Canned Salsa Verde
+==================
 
 +------------------+-------------------------+----------+
 | Prep: 25 minutes | Total: 1 hour 5 minutes | Yield: 4 |

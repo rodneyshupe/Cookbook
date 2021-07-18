@@ -194,19 +194,23 @@ Sauces and Condiments
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: HomemadeMustard.rst
+.. include:: MustardHomemade.rst
 
 ----
 
-.. include:: JoeBeefMustard.rst
+.. include:: MustardJoeBeef.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: FermentedMustard.rst
+.. include:: MustardFermented.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: HomemadeDijonMustard.rst
+.. include:: MustardHomemadeDijon.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
+.. include:: HotSauceGrilledPineappleJalapeno.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 

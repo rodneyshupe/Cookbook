@@ -58,7 +58,7 @@ Pickles and Preserves
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: CanningSalsaVerde,MadeWithTomatillos.rst
+.. include:: CannedSalsaVerde.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
