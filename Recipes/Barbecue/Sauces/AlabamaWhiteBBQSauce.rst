@@ -21,6 +21,3 @@ Directions
    Transfer to a jar with a tight lid and refrigerate until ready to use, up
    to 1 week.  Brush on chicken while grilling, or use with fish or other
    meat, or as a salad dressing or dip for fries.
-
-
-Apple Butter Bourbon Sauce

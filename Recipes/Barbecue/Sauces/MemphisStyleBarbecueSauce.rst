@@ -51,13 +51,3 @@ Directions
 Yield
 -----
 Makes 4 cups
-
-.. raw:: pdf
-
-   OddPageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
-
-Spicy Sweet and Smoky BBQ Sauce

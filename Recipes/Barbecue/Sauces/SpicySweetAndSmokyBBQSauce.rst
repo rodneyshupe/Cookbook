@@ -32,4 +32,3 @@ Directions
    adjustments.
 6. If the BBQ sauce gets too thick, dilute with water until you get the
    desired consistency.
-
