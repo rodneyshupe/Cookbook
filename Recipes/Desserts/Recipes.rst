@@ -26,19 +26,19 @@ Desserts
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: PotDeCreme.rst
+.. include:: ../Sous-Vide/PotDeCreme.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: LemonPotDeCreme.rst
+.. include:: ../Sous-Vide/LemonPotDeCreme.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: ChocolatePotDeCreme.rst
+.. include:: ../Sous-Vide/ChocolatePotDeCreme.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: SaltedCaramelPotDeCreme.rst
+.. include:: ../Sous-Vide/SaltedCaramelPotDeCreme.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
