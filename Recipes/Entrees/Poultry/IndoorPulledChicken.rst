@@ -54,7 +54,7 @@ Directions
    about 5 minutes. Season with salt, pepper, and hot sauce to taste.
    Serve, passing remaining sauce separately.
 
-.. include:: ../../includes/recipePageBreak.rst
+.. include:: ../../../includes/recipePageBreak.rst
 
 Other Sauce Ingredients
 -----------------------
