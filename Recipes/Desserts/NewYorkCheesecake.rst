@@ -72,5 +72,3 @@ Directions
    plate. Let cheesecake stand at room temperature for about 30 minutes. To
    slice, dip sharp knife in very hot water and wipe dry between cuts. Serve
    with `Fresh Strawberry Topping <#fresh-strawberry-topping>`__.
-
-Fresh Strawberry Topping

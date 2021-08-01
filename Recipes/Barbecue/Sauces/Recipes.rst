@@ -56,7 +56,7 @@ Barbecue Sauces
 
 .. include:: GochujangBarbecueSauce.rst
 
-----
+.. include:: ../../../includes/recipePageBreak.rst
 
 .. include:: KoreanBarbecueSauce.rst
 
@@ -68,6 +68,6 @@ Barbecue Sauces
 
 .. include:: PeriPeriSauce.rst
 
-.. include:: ../../../includes/recipePageBreak.rst
+----
 
 .. include:: GarlicPeriPeriSauce.rst

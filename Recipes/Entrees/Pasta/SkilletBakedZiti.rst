@@ -6,7 +6,7 @@ Skillet Baked Ziti
 +----------------------+-----------------------------+---------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/3989-skillet-baked-ziti>`__
-T6&n@Zc#E6c2YJGzJC#m%&ht
+
 Ingredients
 -----------
 - 1 tablespoon olive oil

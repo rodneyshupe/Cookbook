@@ -18,8 +18,8 @@ Ingredients
 - 2 tablespoons crunchy peanut butter
 - 1 tablespoon brown sugar
 - 1 teaspoon garlic powder
-- ⅛ teaspoon ground ginger
-- ⅛ teaspoon cayenne pepper
+- 1/8 teaspoon ground ginger
+- 1/8 teaspoon cayenne pepper
 
 Directions
 ----------

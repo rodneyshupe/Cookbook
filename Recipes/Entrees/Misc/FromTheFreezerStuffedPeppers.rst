@@ -9,7 +9,10 @@ Source: `Cooks Country <https://www.cookscountry.com/recipes/3111-from-the-freez
 
 Ingredients
 -----------
+
 Peppers and Stuffing
+^^^^^^^^^^^^^^^^^^^^
+
 - 1 tablespoon olive oil
 - 1 medium onion, chopped fine
 - 8 ounces (225g) ground beef, preferably 85 percent lean
@@ -24,6 +27,8 @@ Peppers and Stuffing
 - 4 medium red bell peppers, cut in half through stem end (stem left intact), cored, and seeded
 
 For Serving
+^^^^^^^^^^^
+
 - 2 tablespoons olive oil
 - Salt and pepper
 - 1 cup shredded mozzarella cheese

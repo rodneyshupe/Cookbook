@@ -28,6 +28,8 @@ Sides
 
 .. include:: SmashedFingerlingPotatoes.rst
 
+----
+
 .. include:: ../Sous-Vide/Garlic-Smashed-Potatoes.rst
 
 .. include:: ../../includes/recipePageBreak.rst
@@ -110,6 +112,8 @@ Sides
 
 .. include:: GreenBeansWithSauteedShallotsAndVermouth.rst
 
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: ../Sous-Vide/Butternut-Squash-Puree.rst
 
 .. include:: ../../includes/recipePageBreak.rst
@@ -188,7 +192,7 @@ Sides
 
 .. include:: CucumberKimchi.rst
 
-.. include:: ../../includes/recipePageBreak.rst
+----
 
 .. include:: SesameBeanSprouts.rst
 
@@ -204,7 +208,7 @@ Sides
 
 .. include:: PickledCarrotsWithTarragon.rst
 
-.. include:: ../../includes/recipePageBreak.rst
+----
 
 .. include:: SauteedZucchini.rst
 
@@ -212,7 +216,7 @@ Sides
 
 .. include:: PepperyEdamame.rst
 
-.. include:: ../../includes/recipePageBreak.rst
+----
 
 .. include:: FennelTangerineSlaw.rst
 
@@ -220,7 +224,7 @@ Sides
 
 .. include:: KoreanCheeseCorn.rst
 
-.. include:: ../../includes/recipePageBreak.rst
+----
 
 .. include:: HoneyGlazedRoastedSweetPotatoes.rst
 
@@ -232,8 +236,14 @@ Sides
 
 .. include:: GarlicBread.rst
 
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: ../Sous-Vide/Glazed-Carrots.rst
 
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: ../Sous-Vide/Green-Beans-with-Lemon.rst
+
+----
 
 .. include:: ../Sous-Vide/Self-Buttering-Corn-on-the-Cob.rst

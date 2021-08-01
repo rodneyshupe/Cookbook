@@ -6,12 +6,12 @@ Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/11526-quick
 Ingredients
 -----------
 
-3/4 cup mayonnaise
-3 tablespoons minced cornichons plus 1 tablespoon brine
-1 scallion, minced
-1 small shallot, minced
-1 tablespoon capers, rinsed and minced
-1/2 teaspoon pepper
+- 3/4 cup mayonnaise
+- 3 tablespoons minced cornichons plus 1 tablespoon brine
+- 1 scallion, minced
+- 1 small shallot, minced
+- 1 tablespoon capers, rinsed and minced
+- 1/2 teaspoon pepper
 
 Directions
 ----------

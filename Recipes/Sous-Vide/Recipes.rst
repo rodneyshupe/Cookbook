@@ -48,7 +48,7 @@ Sous-Vide
 
 .. include:: Garlic-Smashed-Potatoes.rst
 
-.. include:: ../../includes/recipePageBreak.rst
+----
 
 .. include:: Self-Buttering-Corn-on-the-Cob.rst
 
@@ -63,3 +63,15 @@ Sous-Vide
 .. include:: ../../includes/recipePageBreak.rst
 
 .. include:: PotDeCreme.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
+.. include:: LemonPotDeCreme.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
+.. include:: ChocolatePotDeCreme.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
+.. include:: SaltedCaramelPotDeCreme.rst

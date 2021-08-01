@@ -44,7 +44,7 @@ Entrees - Seafood
 
 .. include:: CajunShrimpBoil.rst
 
-----
+.. include:: ../../../includes/recipePageBreak.rst
 
 .. include:: TwoStepBoiledVietCajunSpotPrawns.rst
 

@@ -8,9 +8,6 @@ Lamb Dibi (Senegalese Grilled Lamb)
 Ingredients
 -----------
 
-Lamb (and onions)
-^^^^^^^^^^^^^^^^^
-
 - 1 pound|450 grams boneless lamb shoulder, trimmed and cut into 3 to 4-inch pieces 
 - kosher salt and freshly ground black pepper, to taste
 - 3 tablespoons olive oil
@@ -21,7 +18,7 @@ Lamb (and onions)
 - 1 lemon
 - 2 medium yellow onions, sliced into ½-inch thick pieces (about 12 ounces|340 grams)
 - 1 tablespoon whole grain mustard
-- 1/2 recipe of `Mustard Sauce <#mustard-sauce>`
+- 1/2 recipe of `Mustard Sauce <#mustard-sauce>`__
 
 Directions
 ----------

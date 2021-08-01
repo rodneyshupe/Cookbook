@@ -76,7 +76,7 @@ Entrees - Pork
 
 .. include:: GrilledPorkLoinRoast.rst
 
-.. include:: ../../../includes/recipePageBreak.rst
+----
 
 .. include:: BroiledPorkTenderloinForTwo.rst
 

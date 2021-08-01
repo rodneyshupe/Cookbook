@@ -29,13 +29,3 @@ Directions
    bag inside the bigger bag and shake vigorously, 7 to 10 minutes,
    until ice cream has hardened.
 3. Remove from bag and enjoy with your favorite ice cream toppings.
-
-.. raw:: pdf
-
- PageBreak recipePage
-
-.. raw:: html
-
- <p style="page-break-before: always"/>
-
-Mason Jar Ice Cream

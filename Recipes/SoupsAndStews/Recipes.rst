@@ -224,13 +224,13 @@ Soups and Stews
 
 .. include:: SimpleTurkeyStock.rst
 
-----
+.. include:: ../../includes/recipePageBreak.rst
 
 .. include:: VegetableBroth.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: SpicyChickenBreast,Chilli,ChardAndEggNoodleSoup.rst
+.. include:: SpicyChickenBreastChilliChardAndEggNoodleSoup.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 

@@ -33,8 +33,8 @@ Directions
    process until smooth. Toss shrimp, remaining oil, 1 tablespoon lemon
    juice, basil, chives, and salt and pepper to taste in bowl.
 3. Spread each toast with cream cheese mixture and top with 1 sliced
-   shrimp. Serve. **If using raw shrip, cook shrimp by steaming for 5
-   minutes. The chill in an ice bath.**
+   shrimp. Serve. *If using raw shrip, cook shrimp by steaming for 5
+   minutes. The chill in an ice bath.*
 
 Make Ahead
 ----------

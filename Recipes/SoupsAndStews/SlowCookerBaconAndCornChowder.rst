@@ -36,7 +36,7 @@ Directions
    Stir in milk. Cover; cook about 30 minutes longer or until hot.
    Season to taste with salt and pepper.
 
-*Combine with
+Combine with
 `this <http://www.cooksillustrated.com/recipes/6602-corn-chowder>`__
-recipe*
+recipe
 

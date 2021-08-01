@@ -27,13 +27,3 @@ Directions
    be opaque and easily coat the back of a wooden spoon.
 2. Freeze for 3 hours, or until hardened. Scoop out ice cream with a
    spoon and serve with your favorite ice cream toppings.
-
-.. raw:: pdf
-
- PageBreak recipePage
-
-.. raw:: html
-
- <p style="page-break-before: always"/>
-
-"Fried" Ice Cream

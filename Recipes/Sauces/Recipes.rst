@@ -68,11 +68,11 @@ Sauces and Condiments
 
 .. include:: SpicyMustardSauce.rst
 
-----
+.. include:: ../../includes/recipePageBreak.rst
 
 .. include:: MustardCremeFraicheSauce.rst
 
-.. include:: ../../includes/recipePageBreak.rst
+----
 
 .. include:: MexicanCrema.rst
 
@@ -156,11 +156,11 @@ Sauces and Condiments
 
 .. include:: MintYogurtSauce.rst
 
-----
+.. include:: ../../includes/recipePageBreak.rst
 
 .. include:: SrirachaLimeYogurtSauce.rst
 
-.. include:: ../../includes/recipePageBreak.rst
+----
 
 .. include:: RedPepperMayonnaise.rst
 
@@ -168,11 +168,11 @@ Sauces and Condiments
 
 .. include:: ChipotleMayonnaise.rst
 
-----
+.. include:: ../../includes/recipePageBreak.rst
 
 .. include:: MapleChipotleMayonnaise.rst
 
-.. include:: ../../includes/recipePageBreak.rst
+----
 
 .. include:: BasilMayonnaise.rst
 

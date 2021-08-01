@@ -41,7 +41,7 @@ Directions
    oven. Return oil to 385°F and repeat in 2 more batches, tossing each
    batch thoroughly with coating mixture before frying.
 5. Toss jalapeno rings and remaining 2 tablespoons cornstarch in medium
-   bowl. Shaking off excess cornstarch, carefully add jalapeño rings to
+   bowl. Shaking off excess cornstarch, carefully add jalapeno rings to
    oil and fry until crispy, 1 to 2 minutes. Using wire skimmer or
    slotted spoon, transfer jalapeno rings to paper towel-lined plate.
    After frying, reserve 2 tablespoons frying oil.

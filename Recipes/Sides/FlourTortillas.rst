@@ -32,10 +32,3 @@ Directions
    in skillet and cook until it begins to bubble, about 1 minute. Flip
    tortilla over and cook for an additional minute. Flip again and cook
    for 1 more minute. Repeat with remaining dough.
-
-
-.. raw:: pdf
-
-  PageBreak recipePage
-
-Fresh Corn and Zucchini Saute

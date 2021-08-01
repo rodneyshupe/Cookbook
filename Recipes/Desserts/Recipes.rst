@@ -20,9 +20,25 @@ Desserts
 
 .. include:: BananasFoster.rst
 
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: ../Sous-Vide/Creme-Brulee.rst
 
-.. include:: ../Sous-Vide/PotDeCreme.rst
+.. include:: ../../includes/recipePageBreak.rst
+
+.. include:: PotDeCreme.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
+.. include:: LemonPotDeCreme.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
+.. include:: ChocolatePotDeCreme.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
+.. include:: SaltedCaramelPotDeCreme.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
@@ -48,8 +64,17 @@ Desserts
 .. include:: ../../includes/recipePageBreak.rst
 
 .. include:: NoChurnIceCream.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: IceCreamInABag.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: MasonJarIceCream.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: FriedIceCream.rst
 
 .. include:: ../../includes/recipePageBreak.rst

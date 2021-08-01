@@ -10,11 +10,11 @@ Ingredients
 Directions
 ----------
 
-- Once the butter is soft, blend in the sweet or savory ingredients.
-- Put mixture in the middle of a large piece of saran or wax paper, roll
-  into a tube and twist ends to make tight.
-- You could use right away, or refrigerate for up to a month or freeze for
-  up to 3 months
+1. Once the butter is soft, blend in the sweet or savory ingredients.
+2. Put mixture in the middle of a large piece of saran or wax paper, roll
+   into a tube and twist ends to make tight.
+3. You could use right away, or refrigerate for up to a month or freeze for
+   up to 3 months
 
 Variations
 ----------
@@ -44,7 +44,7 @@ Alton Brown's Herb Butter
 - 1/4 tablespoon sage, chopped
 - 1/4 tablespoon rosemary, chopped
 
-Blend ingredients in a food processor anuntil smooth.
+1. Blend ingredients in a food processor until smooth.
 
 Chipotle Butter
 ^^^^^^^^^^^^^^^
@@ -63,13 +63,15 @@ Smoked Paprika & Rosemary Butter
 - 1 teaspoon smoked paprika
 - 1/2 teaspoon salt
 
+.. include:: ../../includes/recipePageBreak.rst
+
 Cinnamon Maple Butter
 ^^^^^^^^^^^^^^^^^^^^^
 
 - 1 tablespoon pure maple syrup
 - 3/4 teaspoon ground cinnamon
 
-Jalapeño Lime Butter
+Jalapeno Lime Butter
 ^^^^^^^^^^^^^^^^^^^^
 - 1/2 jalapeno pepper, seeded and minced very finely
 - juice of 1/2 lime

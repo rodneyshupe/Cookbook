@@ -1,5 +1,5 @@
-That Fcking Soup
-================
+That F%cking Soup
+=================
 
 +-----------------------+---------------------------+---------------------+
 | Prep Time: 15 minutes | Cooking Time: 3 1/2 hours | Yield: 4-6 servings |

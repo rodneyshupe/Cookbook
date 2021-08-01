@@ -23,6 +23,3 @@ Directions
 
 1. Whisk together mayonnaise, mustard, vinegar, sugar, salt, pepper, and
    celery seeds in a bowl. Add cabbage and toss. Chill.
-
-
-Dorido Taco Salad

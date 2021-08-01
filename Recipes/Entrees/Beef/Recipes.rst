@@ -24,7 +24,7 @@ Entrees - Beef
 
 .. include:: SoyGarlicMarinadedSteaks.rst
 
-.. include:: ../../../includes/recipePageBreak.rst
+----
 
 .. include:: CastIronSteaksWithHerbButter.rst
 
@@ -60,6 +60,8 @@ Entrees - Beef
 
 .. include:: ClassicRoastSirloinTipWithGravy.rst
 
+----
+
 .. include:: ../../Sous-Vide/Eye-of-Round-Roast.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
@@ -69,6 +71,8 @@ Entrees - Beef
 .. include:: ../../../includes/recipePageBreak.rst
 
 .. include:: PrimeRib.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
 
 .. include:: ../../Sous-Vide/Prime-Rib.rst
 
@@ -116,7 +120,11 @@ Entrees - Beef
 
 .. include:: GrilledSlicedBrisket.rst
 
+----
+
 .. include:: ../../Sous-Vide/Brisket.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
 
 .. include:: ../../Sous-Vide/French-Beef-Dip.rst
 

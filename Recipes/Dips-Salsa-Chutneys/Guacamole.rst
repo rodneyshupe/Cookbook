@@ -5,8 +5,8 @@ Guacamole
 | Prep Time: 5 minutes | Cooking Time: 10 minutes | Yield: 2 cups |
 +----------------------+--------------------------+---------------+
 
-I got this recipe from my friend Scott. According to him:
-    This recipe is the best guacamole ever.
+I got this recipe from my friend Scott. According to him: *This recipe
+is the best guacamole ever.*
 
 Ingredients
 ------------

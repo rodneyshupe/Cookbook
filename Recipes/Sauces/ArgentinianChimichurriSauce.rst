@@ -25,12 +25,13 @@ Directions
 
 1. Combine hot water, oregano, and salt in small bowl; let stand for 5
    minutes to soften oregano. Pulse parsley, cilantro, garlic, and pepper
-   flakes in food processor until coarsely chopped, about 10 pulses. Add
-   water mixture and vinegar and pulse briefly to combine. Transfer mixture
-   to medium bowl and slowly whisk in oil until incorporated and mixture is
-   emulsified. Cover with plastic wrap and let stand at room temperature
-   for at least 1 hour. (Sauce can be refrigerated for up to 2 days; bring
-   to room temperature and rewhisk before serving.)
+   flakes in food processor until coarsely chopped, about 10 pulses.
+2. Add water mixture and vinegar and pulse briefly to combine. Transfer
+   mixture to medium bowl and slowly whisk in oil until incorporated and
+   mixture is emulsified.
+3. Cover with plastic wrap and let stand at room temperature for at least
+   1 hour. (Sauce can be refrigerated for up to 2 days; bring to room
+   temperature and rewhisk before serving.)
 
 Notes
 -----
