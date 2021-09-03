@@ -5,8 +5,9 @@ This is a sauce with some history: Its primary ingredient, a particular
 hot chili, comes from the New World via the Portuguese, who brought it
 to their colonies of Mozambique and Angola. This fiery, fragrant sauce
 is equally common in Portugal and Africa these days, and goes
-wonderfully with grilled fish or shrimp. Try piri piri with fried foods,
-too. This recipe makes about 1 cup.
+wonderfully with grilled chicken, fish or shrimp.
+
+This recipe makes about 1 cup.
 
 Ingredients
 -----------
@@ -33,7 +34,3 @@ Directions
    a glass jar and let stand at room temperature for up to a day.
 4. For longer storage, seal in a jar and keep in the fridge up to a
    month.
-
-*How best to use piri piri? With seafood that is fried, grilled or
-broiled. A little goes a long way.*
-
