@@ -58,4 +58,8 @@ Entrees - Pasta
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: VodkaPasta.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: TagliatelleWithBologneseSauce.rst
