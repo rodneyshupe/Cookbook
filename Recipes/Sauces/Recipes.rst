@@ -122,6 +122,10 @@ Sauces and Condiments
 
 .. include:: ../../includes/recipePageBreak.rst
 
+.. include:: BologneseSauce.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: SimpleAlfredoCreamSauce.rst
 
 .. include:: ../../includes/recipePageBreak.rst
