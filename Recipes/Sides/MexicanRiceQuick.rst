@@ -18,13 +18,19 @@ Ingredients
 Directions
 ----------
 
-1. In a medium size pot, fry bacon over medium high heat until fat is
-   rendered.  Remove Bacon and set aside for another purpose.
-2. In a medium size pot over Medium high heat, add 1 tablespoon oil and
+1. In a medium size pot over Medium high heat, add 1 tablespoon oil and
    1 tablespoon butter and cook until butter is melted and foming has
    subsided. Add onoins and cook until softened, about 5 minutes.
-3. Add rice and stir to coat, cook for 60 seconds.  Stir in oregano, cumin,
+2. Add rice and stir to coat, cook for 60 seconds.  Stir in oregano, cumin,
    onion powder, garlic powder and chilli powder, and cook for 30 seconds.
-4. Add chicken broth and tomato sauce and bring to a boil.  Reduce heat and
+3. Add chicken broth and tomato sauce and bring to a boil.  Reduce heat and
    simmer, covered, until all liquid is absorbed, about 15 minutes.
-5. Remove from heat and "fluff" rice.  Serve.
+4. Remove from heat and "fluff" rice.  Serve.
+
+Variation
+---------
+* In step 2, Remove oregano, onion powder, and chilli powder. Change
+  quantity of garlic powder and cumin to 1 tablespoon each and add a
+  1/2 teaspoon kosher salt. In step 3, change chicken broth to 2 cups and
+  replace tomato sauce with 1/2 cup enchilada sauce.  Finish with 1 finely
+  chopped green onion and juice from 1/2 a lime.
