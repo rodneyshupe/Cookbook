@@ -38,6 +38,10 @@ Entrees - Vegetarian / Vegian
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: ChileRellenoBurrito.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: VegtebleFajitas.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
