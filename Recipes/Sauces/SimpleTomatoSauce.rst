@@ -1,31 +1,27 @@
 Simple Tomato Sauce
 ===================
 
-*Makes enough to dress 3/4 pound pasta; Serves 3*
-
 Ingredients
 -----------
 
--  1 (28-ounce) can diced tomatoes or whole tomatoes (1 can), not packed
-   in puree or sauce
--  2 medium cloves garlic, peeled and chopped coarse
--  3 tablespoons extra-virgin olive oil
--  2 tablespoons coarsely chopped fresh basil leaves, (about 8 leaves)
--  1/4 teaspoon granulated sugar
--  1 1/2 teaspoons table salt
+- 2 tablespoons olive oil
+- 1 medium yellow onion, diced
+- 3 large cloves garlic, minced
+- One 28-oz can whole peeled tomatoes
+- 2 tablespoons tomato paste
+- 2 tablespoons balsamic vinegar
+- 1/4 - 1/2 teaspoon red pepper flakes
+- 1 tablespoon sugar
+- 1 tablespoon dried oregano
+- Kosher salt and pepper to taste - and don't be shy about the salt for sure
 
 Directions
 ----------
 
-1. If using diced tomatoes, go to step 2. If using whole tomatoes, drain
-   and reserve liquid. Dice tomatoes either by hand or in work bowl of
-   food processor fitted with metal blade (three or four pulses at 1/2
-   second). Tomatoes should be coarse, with 1/4-inch pieces visible. If
-   necessary, add enough reserved liquid to tomatoes to total 2 cups.
-2. Process garlic through garlic press into small bowl; stir in 1
-   teaspoon water. Heat oil and garlic in 10-inch saute pan over medium
-   heat until fragrant but not brown, about 2 minutes. Stir in tomatoes;
-   simmer until thickened slightly, about 10 minutes. Stir in basil,
-   sugar, and salt, and cook, stirring constantly, for 1 minute. Serve
-   over pasta.
-
+1. Heat oil in large saucepan over medium heat and add onion, cook about
+   5 minutes
+2. Add garlic and cook another minute or so, just until fragrant
+3. Add tomatoes, squishing each one with your hand to break it up as you add
+   it. Next put in tomato paste, balsamic vinegar, red pepper, sugar and
+   oregano. Stir to combine. Add salt and pepper to taste.
+4. Bring sauce to a boil, then turn down heat and let simmer about 30 minutes
