@@ -1,9 +1,9 @@
 Bolognese Sauce
 ===============
 
-+----------------------+-----------------------+-------------------+
-| Prep Time: 5 minutes | Cooking Time: 2 hours | Yield: 6 servings |
-+----------------------+-----------------------+-------------------+
++-----------------------+-----------------------+---------------+
+| Prep Time: 15 minutes | Cooking Time: 2 hours | Yield: 2 cups |
++-----------------------+-----------------------+---------------+
 
 Source: `Sam the Cooking Guy <https://www.thecookingguy.com/cookbook/2019/1/26/bolognese>`__
 
