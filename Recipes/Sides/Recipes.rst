@@ -236,6 +236,8 @@ Sides
 
 .. include:: GarlicBread.rst
 
+.. include:: GarlicBreadv2.rst
+
 .. include:: ../../includes/recipePageBreak.rst
 
 .. include:: ../Sous-Vide/Glazed-Carrots.rst
