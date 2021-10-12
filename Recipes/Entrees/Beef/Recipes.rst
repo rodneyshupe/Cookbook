@@ -98,7 +98,7 @@ Entrees - Beef
 
 .. include:: ../../../includes/recipePageBreak.rst
 
-.. include:: Beef,MushroomAndSnowPeaStirFry.rst
+.. include:: BeefMushroomAndSnowPeaStirFry.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
 
