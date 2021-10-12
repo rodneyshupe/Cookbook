@@ -22,9 +22,13 @@ Entrees - Beef
 
 .. include:: ../../../includes/recipePageBreak.rst
 
-.. include:: SoyGarlicMarinadedSteaks.rst
+.. include:: AsianMarinatedSteaks.rst
 
 ----
+
+.. include:: SoyGarlicMarinadedSteaks.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
 
 .. include:: CastIronSteaksWithHerbButter.rst
 
