@@ -26,6 +26,10 @@ Entrees - Pasta
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: CreamySausagePenne.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: MushroomAndBaconPasta.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
