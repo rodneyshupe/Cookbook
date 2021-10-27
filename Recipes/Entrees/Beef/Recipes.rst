@@ -30,6 +30,10 @@ Entrees - Beef
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: GarlicSteakBites.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: CastIronSteaksWithHerbButter.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
