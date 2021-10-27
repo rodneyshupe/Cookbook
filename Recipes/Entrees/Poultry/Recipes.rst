@@ -102,6 +102,10 @@ Entrees - Poultry
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: ChickenPotPie.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: PestoChickenGarlicKnotSliders.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
