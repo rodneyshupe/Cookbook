@@ -206,6 +206,10 @@ Soups and Stews
 
 .. include:: ../../includes/recipePageBreak.rst
 
+.. include:: KoreanArmyBaseStew.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: LeftOverChickenRamen.rst
 
 .. include:: ../../includes/recipePageBreak.rst
