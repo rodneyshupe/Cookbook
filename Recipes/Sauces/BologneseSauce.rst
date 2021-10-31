@@ -14,12 +14,13 @@ Ingredients
 - 1 carrot, rough chopped
 - 1 stalk celery, rough chopped
 - 1 tablespoon vegetable oil
-- 1 pound 80/20 ground beef
 - 2 cloves garlic, minced
+- 1 pound 80/20 ground beef
 - 1/2 cup dry white wine or dry vermouth
 - 1 – 15 ounce can crushed tomatoes
 - 3 tablespoons tomato paste
 - 2 cups beef broth
+- 1 bay leaf
 - 2 teaspoons dried oregano
 - 1 teaspoon red pepper flakes
 - 3 tablespoons balsamic vinegar
