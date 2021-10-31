@@ -22,6 +22,10 @@ Appetizers
 
 ----
 
+.. include:: Tartiflette.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: TequilaGarlicPrawns.rst
 
 .. include:: ../../includes/recipePageBreak.rst
