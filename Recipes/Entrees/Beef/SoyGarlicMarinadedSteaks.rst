@@ -8,7 +8,7 @@ Ingredients
    flank, or hanger.)
 
 Original
-~~~~~~~~
+^^^^^^^^
 
 - 1/2 cup soy sauce
 - 1/4 cup avocado oil
@@ -16,7 +16,7 @@ Original
 - 1 tablespoon fresh ground black pepper, medium grind
 
 Alternate
-~~~~~~~~~
+^^^^^^^^^
 
 -  1/8 cup soy sauce
 -  1/8 cup extra-virgin olive oil
