@@ -32,6 +32,6 @@ Directions
    through.
 4. Add rice, stirring really well and let toast a couple minutes, then add 
    broth, tomatoes and mix well.
-6. Bring to a boil, turn down to a simmer, cover and cook 15 minutes
-7. Add shrimp, stir well and cover again - and in about 5 minutes the shrimp 
+5. Bring to a boil, turn down to a simmer, cover and cook 15 minutes.
+6. Add shrimp, stir well and cover again - and in about 5 minutes the shrimp 
    should be perfect or until all liquid is absorbed and rice is soft.
