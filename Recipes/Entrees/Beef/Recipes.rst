@@ -154,6 +154,10 @@ Entrees - Beef
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: KalbiShortRibsStirfriedVegtables.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: KoreanBBQSkirtSteak.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
