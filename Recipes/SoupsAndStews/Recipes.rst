@@ -22,7 +22,7 @@ Soups and Stews
 
 ----
 
-.. include:: FaithsSimpleChili.rst
+.. include:: ChiliFaithsSimple.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
