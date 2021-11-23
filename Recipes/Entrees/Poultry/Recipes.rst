@@ -70,6 +70,10 @@ Entrees - Poultry
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: ThaiChickenCurry.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: HoisinChickenLettuceCups.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
