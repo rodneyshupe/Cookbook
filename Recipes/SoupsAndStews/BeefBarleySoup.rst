@@ -8,6 +8,7 @@ Beef Barley Soup
 Ingredients
 -----------
 
+- 1 1/2 pounds sirloin steak tips, trimmed and cut into 1/2-inch pieces
 - 3 carrots, peeled and cut into 1/4-inch pieces
 - 1 onion, chopped fine
 - 1 celery rib choped into 1/4 inch pieces
@@ -18,9 +19,8 @@ Ingredients
 - 2 teaspoons tomato paste
 - 3 cups beef broth
 - 3 cups chicken broth
-- 2/3 cup quick-cooking barley
+- 2/3 cup quick-cooking barley (can substitute pearl barley see note)
 - 2 teaspoons soy sauce
-- 1 1/2 pounds sirloin steak tips, trimmed and cut into 1/2-inch pieces
 - Salt and Pepper
 
 Directions
@@ -41,3 +41,9 @@ Directions
 3. Add browned beef and any accumulated juices to soup and let heat
    through, about 1 1/2 hour. Season with salt and pepper to taste. Serve.
 
+Note
+----
+
+If using pearl barley increase broths to 3 1/2 cups each or add 1 cup
+water in step 4. In step 3 bring to a simmer for 30 minutes before adding
+beef in step 4.
