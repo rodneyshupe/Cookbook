@@ -66,6 +66,10 @@ Barbecue Sauces
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: SambalBBQSauce.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: PeriPeriSauce.rst
 
 ----
