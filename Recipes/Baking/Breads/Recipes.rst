@@ -64,6 +64,10 @@ Baking: Breads
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: BaoBuns.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: SouthernStyleCornbread.rst
 
 .. include:: ../../../includes/recipePageBreak.rst

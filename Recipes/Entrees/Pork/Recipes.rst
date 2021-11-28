@@ -38,6 +38,18 @@ Entrees - Pork
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: CharSiu.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
+.. include:: ChaSiuBaoSteamedBBQPorkBuns.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
+.. include:: GuaBaoPorkBellySteamedBuns.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: SpicedPorkLettuceWraps.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
