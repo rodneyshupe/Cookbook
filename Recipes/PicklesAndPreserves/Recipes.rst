@@ -70,6 +70,10 @@ Pickles and Preserves
 
 .. include:: ../../includes/recipePageBreak.rst
 
+.. include:: QuickPickledCarrotsandDaikon.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: BurntOnionJam.rst
 
 .. include:: ../../includes/recipePageBreak.rst
