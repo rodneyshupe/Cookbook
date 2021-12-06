@@ -4,7 +4,7 @@ Simple Naan Bread
 Ingredients
 -----------
 
-- 1/4 ounce packet regular yeast (or 1 2/3 teaspoons instant yeast)
+- 1/4 ounce packet active yeast (or 1 2/3 teaspoons instant yeast)
 - 1/2 cup warm water, about 110 degrees (too hot will kill the yeast)
 - 1 teaspoon sugar
 - 2 1/4 cups all purpose flour
