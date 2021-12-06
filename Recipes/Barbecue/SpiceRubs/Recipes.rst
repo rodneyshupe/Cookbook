@@ -126,6 +126,10 @@ otherwise specified.*
 ----
 
 .. include:: HomemadePicklingSpice.rst
+   
+.. include:: ../../../includes/recipePageBreak.rst
+
+.. include:: ChickenWingSeasoning.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
 
