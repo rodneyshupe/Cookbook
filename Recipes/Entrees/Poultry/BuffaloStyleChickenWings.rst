@@ -9,9 +9,7 @@ Ingredients
 -  12 whole chicken wings, about 2 1/2 pounds (1.1kg), separated into sections
    wingtips discarded
 -  Ground black pepper
--  1 1/2 tablespoons unsalted butter
--  1 1/2 tablespoons Sriracha sauce (you can use Tabasco or Frank’s Hot
-   Sauce as well)
+-  3 tablespoons `Buffalo Sauce <#buffalo-sauce>`__
 
 Directions
 ----------
@@ -28,7 +26,7 @@ Directions
    move chicken pieces over burner still set on high, turning constantly
    to prevent charring, until wings are dark spotty brown and skin has
    crisped, 5 to 7 minutes longer.
-3. Combine butter and Tabasco sauce and toss with finished wings.
+3. Combine sauce and toss with finished wings.
 
 Variations
 ----------
