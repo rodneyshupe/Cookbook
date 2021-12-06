@@ -198,6 +198,10 @@ Sauces and Condiments
 
 .. include:: ../../includes/recipePageBreak.rst
 
+.. include:: BuffaloSauce.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: BaconOnionJam.rst
 
 .. include:: ../../includes/recipePageBreak.rst
