@@ -206,7 +206,7 @@ Sauces and Condiments
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: HosinWingSauce.rst
+.. include:: HoisinWingSauce.rst
 
 ----
 

@@ -1,5 +1,5 @@
-Hosin Wing Sauce
-================
+Hoisin Wing Sauce
+=================
 
 Ingredients
 -----------
