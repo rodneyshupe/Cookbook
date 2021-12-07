@@ -198,15 +198,19 @@ Sauces and Condiments
 
 .. include:: ../../includes/recipePageBreak.rst
 
+.. include:: InfinateSauce.rst
+
+----
+
 .. include:: BuffaloSauce.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
+.. include:: HosinWingSauce.rst
 
 ----
 
 .. include:: AsianChickenWingSauce.rst
-
-.. include:: ../../includes/recipePageBreak.rst
-
-.. include:: InfinateSauce.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
