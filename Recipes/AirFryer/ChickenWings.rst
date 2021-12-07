@@ -7,7 +7,7 @@ Ingredients
 - 1 lb. chicken wings (drumettes and winglets)
 - 2 teaspoons `Chicken Wing Seasoning <#chicken-wing-seasoning>`__
 - 3 tablespoons all purpose flour
-- 3-4 tablespoons wing sauce (e.g. `Buffalo Sauce <#buffalo-sauce>`__, or `Asian Wing Sauce <#asian-chicken-wing-sauce>`)
+- 3-4 tablespoons wing sauce, optional (see suggestions below)
 
 Directions
 ----------
@@ -22,8 +22,17 @@ Directions
 4. Crank up the temp to 400F for 8 minutes. Take out of the fryer and coat 
    with sauce.
 
+Sauces Suggestions
+------------------
+
+* `Buffalo Sauce <#buffalo-sauce>`__
+* `Asian Wing Sauce <#asian-chicken-wing-sauce>`__
+* `Infinate Sauce <#infinate-sauce>`__
+
 Variation
 ---------
 
-Prepare the same as in step 1 but cook in a single layer at 380 for
-15 minutes, then sauce.
+* Prepare the same as in step 1 but cook in a single layer at 380 for
+  15 minutes, then sauce.
+* If doing a dry wing, add 2 tablespoons lemon pepper to flour mixture in 
+  step one. 
