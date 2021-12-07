@@ -28,3 +28,7 @@ Air Fryer
 .. include:: ../../includes/recipePageBreak.rst
 
 .. include:: ChickenWings.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
+.. include:: AirFryerDonuts.rst
