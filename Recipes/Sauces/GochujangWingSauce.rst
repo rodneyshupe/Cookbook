@@ -1,5 +1,5 @@
-Asian Chicken Wing Sauce
-========================
+Gochujang Chicken Wing Sauce
+============================
 
 Ingredients
 -----------

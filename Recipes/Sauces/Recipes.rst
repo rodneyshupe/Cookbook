@@ -210,7 +210,7 @@ Sauces and Condiments
 
 ----
 
-.. include:: AsianChickenWingSauce.rst
+.. include:: GochujangWingSauce.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
