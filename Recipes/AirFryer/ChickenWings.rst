@@ -27,7 +27,7 @@ Sauces Suggestions
 
 * `Buffalo Sauce <#buffalo-sauce>`__
 * `Gochujang Wing Sauce <#gochujang-chicken-wing-sauce>`__
-* `Hoisin Wing Sauce <#infinate-wing-sauce>`__
+* `Hoisin Wing Sauce <#hoisin-wing-sauce>`__
 * `Honey Garlic Wing Sauce <#honey-garlic-wing-sauce>`__
 * `Infinate Sauce <#infinate-sauce>`__
 
