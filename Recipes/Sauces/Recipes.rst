@@ -204,10 +204,6 @@ Sauces and Condiments
 
 .. include:: BuffaloSauce.rst
 
-----
-
-.. include:: HoneyGarlicWingSauce.rst
-
 .. include:: ../../includes/recipePageBreak.rst
 
 .. include:: HoisinWingSauce.rst
@@ -215,6 +211,10 @@ Sauces and Condiments
 ----
 
 .. include:: GochujangWingSauce.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
+.. include:: HoneyGarlicWingSauce.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
