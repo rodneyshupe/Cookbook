@@ -260,3 +260,7 @@ Soups and Stews
 
 .. include:: TuscanMinestraSoup.rst
 
+.. include:: ../../includes/recipePageBreak.rst
+
+.. include:: VeganChickpeaNoodleSoup.rst
+
