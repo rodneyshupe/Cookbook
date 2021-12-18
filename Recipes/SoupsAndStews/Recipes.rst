@@ -182,6 +182,10 @@ Soups and Stews
 
 .. include:: ../../includes/recipePageBreak.rst
 
+.. include:: CabbageBeefSoup.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: BroccoliCheeseSoup.rst
 
 .. include:: ../../includes/recipePageBreak.rst
