@@ -42,6 +42,10 @@ Entrees - Poultry
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: SlowRaostedChicken.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: RoastChickenWithLemonAndGarlic.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
@@ -143,3 +147,4 @@ Entrees - Poultry
 .. include:: ../../../includes/recipePageBreak.rst
 
 .. include:: ChipotleChickenTacos.rst
+
