@@ -148,3 +148,6 @@ Entrees - Poultry
 
 .. include:: ChipotleChickenTacos.rst
 
+.. include:: ../../../includes/recipePageBreak.rst
+
+.. include:: ChickenTaquitos.rst
