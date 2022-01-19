@@ -41,7 +41,7 @@ Air Fryer
 
 .. include:: ChickenWings.rst
 
-.. include:: ../../../includes/recipePageBreak.rst
+.. include:: ../../includes/recipePageBreak.rst
 
 .. include:: AirFryerChickenTaquitos.rst
 
