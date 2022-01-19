@@ -42,7 +42,7 @@ Entrees - Poultry
 
 .. include:: ../../../includes/recipePageBreak.rst
 
-.. include:: SlowRaostedChicken.rst
+.. include:: SlowRoastedChicken.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
 
