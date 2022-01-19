@@ -27,6 +27,18 @@ Air Fryer
 
 .. include:: ../../includes/recipePageBreak.rst
 
+.. include::  AirFryerBakedPotatoes.rst
+
+----
+
+.. include::  AirFryerTwiceBakedPotatoes.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
+.. include::  AirFryerBacon.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: ChickenWings.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
