@@ -1,4 +1,4 @@
-Slow Raosted Chicken
+Slow Roasted Chicken
 ====================
 
 Ingredients
