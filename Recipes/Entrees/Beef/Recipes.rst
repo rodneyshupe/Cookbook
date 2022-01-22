@@ -171,3 +171,7 @@ Entrees - Beef
 .. include:: ../../../includes/recipePageBreak.rst
 
 .. include:: SlowCookerSloppyJoes.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
+.. include:: SteakAndGuinnessPie.rst

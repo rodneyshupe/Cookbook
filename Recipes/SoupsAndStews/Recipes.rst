@@ -38,6 +38,10 @@ Soups and Stews
 
 .. include:: ../../includes/recipePageBreak.rst
 
+.. include:: GuinnessBeefStew.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: GuinnessBeefStewWithCheddarHerbDumplings.rst
 
 .. include:: ../../includes/recipePageBreak.rst
