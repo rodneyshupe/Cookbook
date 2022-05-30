@@ -82,6 +82,10 @@ Entrees - Poultry
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: AsianSoySauceChicken.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: BuffaloStyleChickenWings.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
