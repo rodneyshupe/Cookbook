@@ -47,4 +47,8 @@ Air Fryer
 
 .. include:: ../../includes/recipePageBreak.rst
 
+.. include::  AirFryerSalmon.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: AirFryerDonuts.rst
