@@ -110,6 +110,10 @@ Entrees - Poultry
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: ChickenAndRice.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: ChickenAndSausageGumbo.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
