@@ -70,6 +70,10 @@ Entrees - Poultry
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: SpicyDijonMapleChicken.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: ThaiStyleGrilledChicken.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
