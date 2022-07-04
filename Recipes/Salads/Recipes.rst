@@ -38,6 +38,10 @@ Salads
 
 .. include:: ../../includes/recipePageBreak.rst
 
+.. include:: CreamyPotatoSaladWithJalapeno.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: AustrianPotatoSalad.rst
 
 .. include:: ../../includes/recipePageBreak.rst
@@ -46,7 +50,7 @@ Salads
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: CreamyPotatoSaladWithJalapeno.rst
+.. include:: SimplePotatoSalad.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
