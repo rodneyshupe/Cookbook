@@ -110,6 +110,10 @@ Entrees - Beef
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: BeefBirriaTacos.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: SteakFajitas.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
