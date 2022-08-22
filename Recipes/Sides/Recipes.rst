@@ -186,6 +186,10 @@ Sides
 
 .. include:: ../../includes/recipePageBreak.rst
 
+.. include:: SauteedSpinach.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: CabbageKimchi.rst
 
 .. include:: ../../includes/recipePageBreak.rst
