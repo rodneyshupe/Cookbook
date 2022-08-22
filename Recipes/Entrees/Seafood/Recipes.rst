@@ -22,6 +22,10 @@ Entrees - Seafood
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: MisoGlazedSalmon.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: ThaiGreenCurryWithPrawnsAndSalmon.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
