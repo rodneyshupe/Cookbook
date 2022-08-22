@@ -34,6 +34,13 @@ Entrees - Pasta
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+<<<<<<< HEAD
+=======
+.. include:: PastaAllAssassina.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
+>>>>>>> cba9e2c (Permissions)
 .. include:: MushroomAndLeekPastaWithGarlicBruschette.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
