@@ -130,6 +130,11 @@ Sauces and Condiments
 
 .. include:: ../../includes/recipePageBreak.rst
 
+.. include:: CreamyRedPepperPastaSauce.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
+
 .. include:: SimpleAlfredoCreamSauce.rst
 
 .. include:: ../../includes/recipePageBreak.rst
