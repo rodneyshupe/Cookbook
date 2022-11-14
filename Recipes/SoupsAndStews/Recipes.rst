@@ -20,6 +20,10 @@ Soups and Stews
 
 .. include:: Chili.rst
 
+.. include:: ../../includes/recipePageBreak.rst
+
+.. include:: ChiliSimple.rst
+
 ----
 
 .. include:: ChiliFaithsSimple.rst
