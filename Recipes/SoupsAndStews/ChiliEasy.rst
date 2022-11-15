@@ -1,8 +1,8 @@
-Simple Chili
-============
+Easy Slowcooker Chili
+=====================
 
 +-----------------------+------------------------+---------------------+
-| Prep Time: 10 minutes | Cooking Time: 8+ hours | Yield: 4-6 servings |
+| Prep Time: 20 minutes | Cooking Time: 8+ hours | Yield: 4-6 servings |
 +-----------------------+------------------------+---------------------+
 
 Ingredients
@@ -35,4 +35,5 @@ Directions
    the slow cooker. 
 3. Stir in all other ingredients and set slow cooker to med and cook for at
    least 8 hours.
-
+4. Serve topped with your choice of diced white onion, grated cheese, and/or
+   nacho chips.  Goes well with `cornbread <#simple-cornbread-recipe>`__.
