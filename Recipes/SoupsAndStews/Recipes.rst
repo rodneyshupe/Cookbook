@@ -18,11 +18,11 @@ Soups and Stews
 
    <p style="page-break-before: always"/>
 
-.. include:: Chili.rst
+.. include:: ChiliEasy.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: ChiliSimple.rst
+.. include:: Chili.rst
 
 ----
 
