@@ -1,9 +1,9 @@
 Hearty Beef Lasagna
 ===================
 
-+-----------------------+----------------------+----------------------+
-| Prep Time: 30 minutes | Cooking Time: 1 hour | Yield: 8-12 servings |
-+-----------------------+----------------------+----------------------+
++-----------------------+----------------------+------------------------------------------------+
+| Prep Time: 30 minutes | Cooking Time: 1 hour | Yield: 8-12 servings, one 13x9 or two 8x8 pans |
++-----------------------+----------------------+------------------------------------------------+
 
 Source: `Cooks Country <https://www.cookscountry.com/recipes/9407-hearty-beef-lasagna>`__
 
@@ -77,9 +77,12 @@ Directions
    bake until top layer of lasagna is spotty brown, 25 to 30 minutes longer.
    Let lasagna cool for 30 minutes. Slice and serve.
 
-To Make Ahead
--------------
-At end of step 7, cover dish with greased aluminum foil and refrigerate for
-up to 24 hours. When ready to eat, bake lasagna as directed in step 8,
-increasing covered baking time to 55 minutes.
-
+Notes
+-----
+* **Premade meat sauce:** Instead of making meat sauce you can substitute
+  6 cups premade `Bolognese Sauce <#bolognese_sauce>`__.
+* **To Make Ahead/Freeze:** At end of step 7, cover dish with greased
+  aluminum foil and refrigerate for up to 24 hours or place in freezer. If
+  freezing take out of freeze a day ahead and let thaw in the regrigerator.
+  When ready to eat, bake lasagna as directed in step 8, increasing covered
+  baking time to 55 minutes.
