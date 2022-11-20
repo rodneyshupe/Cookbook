@@ -1,4 +1,4 @@
-Grilled Ceaser Salad
+Grilled Caesar Salad
 ====================
 
 Yield: 12 Servings
