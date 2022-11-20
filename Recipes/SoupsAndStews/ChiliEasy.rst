@@ -20,7 +20,7 @@ Ingredients
 - 1 14oz can stewed tomatoes
 - 1 19oz can kidney beans
 - 1 4oz can green chilies
-- 2 tablespoon better than bouillon beef base
+- 2 teaspoons Better than Bouillon Beef Base
 - salt & pepper
 
 Directions
@@ -37,3 +37,11 @@ Directions
    least 8 hours.
 4. Serve topped with your choice of diced white onion, grated cheese, and/or
    nacho chips.  Goes well with `cornbread <#simple-cornbread-recipe>`__.
+
+Variation
+---------
+
+* **Vegetarian**: Remove meat and replace with 8oz (227g) each of Chrimini and
+  Shiitake Mushrooms, chopped into bite size pieces.  Replace Beef Base with
+  1 tablespoon soy paste. Change beans to 14oz can each of Kidney and
+  Black Beans.
