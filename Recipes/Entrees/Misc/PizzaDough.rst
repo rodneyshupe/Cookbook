@@ -1,5 +1,5 @@
-Homemade Pizza Dough
-====================
+Pizza Dough
+===========
 
 +--------------------+----------------+
 | Prep Time: 2 hours | Yield: 1 pound |
@@ -36,3 +36,13 @@ Directions
    the dough rest for 15 minutes, but no more than 30 minutes, before
    shaping.
 
+Notes
+-----
+
+* FREEZE DOUGH: Divide dough in half and shape half or halves into a ball(s). 
+  Lightly coat all sides of the dough ball(s) with nonstick spray or olive
+  oil. Place the dough ball(s) in a zipped-top bag and seal tightly,
+  squeezing out all the air. Freeze for up to 3 months.
+  To thaw, place the frozen pizza dough in the refrigerator for about
+  8 hours or overnight. When ready to make use, remove the dough from the
+  refrigerator and allow to rest for 30 minutes on the counter. 
