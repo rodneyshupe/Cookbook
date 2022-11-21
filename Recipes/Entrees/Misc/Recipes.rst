@@ -51,7 +51,15 @@ Entrees - Misc
 
 .. include:: ../../../includes/recipePageBreak.rst
 
-.. include:: HomemadePizzaDough.rst
+.. include:: PizzaDough.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
+.. include:: Stromboli.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
+.. include:: Calzone.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
 
