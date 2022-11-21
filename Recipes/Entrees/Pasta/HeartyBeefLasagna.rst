@@ -80,7 +80,7 @@ Directions
 Notes
 -----
 * **Premade meat sauce:** Instead of making meat sauce you can substitute
-  6 cups premade `Bolognese Sauce <#bolognese_sauce>`__.
+  6 cups premade `Bolognese Sauce <#bolognese-sauce>`__.
 * **To Make Ahead/Freeze:** At end of step 7, cover dish with greased
   aluminum foil and refrigerate for up to 24 hours or place in freezer. If
   freezing take out of freeze a day ahead and let thaw in the regrigerator.
