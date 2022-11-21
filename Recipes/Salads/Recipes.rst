@@ -18,11 +18,11 @@ Salads
 
    <p style="page-break-before: always"/>
 
-.. include:: CeaserSalad.rst
+.. include:: CaesarSalad.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: GrilledCeaserSalad.rst
+.. include:: GrilledCaesarSalad.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
