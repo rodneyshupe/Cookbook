@@ -102,6 +102,14 @@ Entrees - Beef
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: PepperSteak.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
+.. include:: SlowCookerPepperSteak.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: SlowCookerMongolianBeefRecipe.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
