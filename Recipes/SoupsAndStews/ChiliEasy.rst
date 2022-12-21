@@ -21,6 +21,7 @@ Ingredients
 - 1 19oz can kidney beans
 - 1 4oz can green chilies
 - 2 teaspoons Better than Bouillon Beef Base
+- 2 teaspoons coco powder (optional)
 - salt & pepper
 
 Directions
@@ -41,7 +42,10 @@ Directions
 Variation
 ---------
 
-* **Vegetarian**: Remove meat and replace with 8oz (227g) each of Chrimini and
-  Shiitake Mushrooms, chopped into bite size pieces.  Replace Beef Base with
-  1 tablespoon soy paste. Change beans to 14oz can each of Kidney and
-  Black Beans.
+* **Vegetarian**: Remove meat and replace with 4oz (227g) each of Chrimini 
+  and Shiitake Mushrooms, chopped into bite size pieces and sauteed.  If you
+  don't want to use mushrooms try substituing 1/2 cup of bulgur. Replace
+  Beef Base with 1 tablespoon soy paste and 1/2oz (14g) dried shiitake
+  mushrooms which have been finely chopped into almost a powder. Change
+  beans to 14oz can each of Kidney or Black Beans and Cannellini (two cans
+  total).
