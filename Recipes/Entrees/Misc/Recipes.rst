@@ -63,6 +63,10 @@ Entrees - Misc
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: ChickenScarpariello.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: StuffedPeppers.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
