@@ -8,12 +8,6 @@ Pepper Steak
 Ingredients
 -----------
 
-Pepper Steak
-
-Prep: 10 minutes Total: 50 minutes Yield: 6 servings
-
-Ingredients
-
 - 2 lbs top sirloin steak cut into 1/4 inch thick slices 2 inches long
 - 3 tablespoons vegetable oil, divided
 - 2 tablespoons honey
