@@ -26,6 +26,10 @@ Appetizers
 
 .. include:: ../../includes/recipePageBreak.rst
 
+.. include:: GoatCheeseAndSalamiStuffedDates.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: TequilaGarlicPrawns.rst
 
 .. include:: ../../includes/recipePageBreak.rst
@@ -58,6 +62,10 @@ Appetizers
 
 .. include:: ../../includes/recipePageBreak.rst
 
+.. include:: PepperyAntipastoSkewers.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: PoachedFigs.rst
 
 .. include:: ../../includes/recipePageBreak.rst
@@ -75,6 +83,10 @@ Appetizers
 .. include:: ../../includes/recipePageBreak.rst
 
 .. include GingerPrawns.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
+.. include:: ShrimpCocktail.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
