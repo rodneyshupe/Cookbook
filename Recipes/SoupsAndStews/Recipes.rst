@@ -54,6 +54,10 @@ Soups and Stews
 
 .. include:: ../../includes/recipePageBreak.rst
 
+.. include:: ChickenAndBlackBeanSoup.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+   
 .. include:: ChickenStew.rst
 
 .. include:: ../../includes/recipePageBreak.rst
