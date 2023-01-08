@@ -39,6 +39,10 @@ Entrees - Misc
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: CantoneseSoySaucePan-FriedNoodles.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: StirFryWithGingerSauce.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
