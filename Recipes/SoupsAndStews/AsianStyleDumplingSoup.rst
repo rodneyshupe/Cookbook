@@ -1,5 +1,5 @@
-Quick Asian-Style Dumpling Soup
-===============================
+Asian-Style Dumpling Soup
+=========================
 
 +-----------------------+--------------------------+-------------------+
 | Prep Time: 15 minutes | Cooking Time: 30 minutes | Yield: 4 servings |

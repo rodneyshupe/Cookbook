@@ -210,7 +210,7 @@ Soups and Stews
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: QuickAsianStyleDumplingSoup.rst
+.. include:: AsianStyleDumplingSoup.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
