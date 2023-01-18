@@ -114,6 +114,10 @@ Entrees - Beef
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: BeefAndBroccoli.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: BeefMushroomAndSnowPeaStirFry.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
