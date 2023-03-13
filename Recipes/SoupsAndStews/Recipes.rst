@@ -214,11 +214,19 @@ Soups and Stews
 
 .. include:: ../../includes/recipePageBreak.rst
 
+.. include:: AsianStyleDumplingSoupQuick.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: ThaiHotAndSourNoodleSoupWithShrimp.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
 .. include:: AsianBeefAndNoodleSoup.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
+.. include:: KoreanSimpleKimchiJjigae.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
