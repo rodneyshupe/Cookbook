@@ -95,6 +95,10 @@ Desserts
 
 .. include:: ../../includes/recipePageBreak.rst
 
+.. include:: AppleCrisp.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: SkilletAppleCrisp.rst
 
 .. include:: ../../includes/recipePageBreak.rst
