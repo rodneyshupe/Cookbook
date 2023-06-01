@@ -62,6 +62,10 @@ Entrees - Pasta
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: QuickSpaghettiAndMeatSauce.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: FlyingPigSpaghettiAndMeatBalls.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
