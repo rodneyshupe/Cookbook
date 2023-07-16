@@ -77,6 +77,6 @@ Note
 ----
 
 The cream mixture freezes more quickly in a loaf pan than in a taller,
-narrower container. If you don’t have a loaf pan, use an 8-inch square
+narrower container. If you don't have a loaf pan, use an 8-inch square
 baking pan.
 
