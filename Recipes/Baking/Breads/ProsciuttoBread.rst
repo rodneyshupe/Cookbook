@@ -16,10 +16,10 @@ Ingredients
 - 1 cup mild lager, room temperature (236g)
 - 6 tablespoons water, room temperature (89g)
 - 3 tablespoons extra-virgin olive oil
-- 5 ounces (1/4-inch-thick) provolone cheese, cut into 1/2-inch pieces (optional)
-- 3 ounces (1/4-inch-thick) sliced prosciutto, cut into 1/2-inch pieces
-- 3 ounces (1/4-inch-thick) sliced pepperoni, cut into 1/2-inch pieces
-- 3 ounces (1/4-inch-thick) sliced capicola, cut into 1/2-inch pieces
+- 5 ounces (142g) provolone cheese (1/4-inch-thick), cut into 1/2-inch pieces (optional)
+- 3 ounces (85g) sliced prosciutto (1/4-inch-thick), cut into 1/2-inch pieces
+- 3 ounces (85g) sliced pepperoni (1/4-inch-thick), cut into 1/2-inch pieces
+- 3 ounces (85g) sliced capicola (1/4-inch-thick), cut into 1/2-inch pieces
 - 1 1/2 teaspoons coarsely ground pepper
 - Cornmeal
 
