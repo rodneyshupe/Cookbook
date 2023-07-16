@@ -5,7 +5,7 @@ No-Churn Ice Cream
 | Prep: 5 hours  | Total: 5 hours 15 minutes | Yield: 12 servings (6 cups total) |
 +----------------+---------------------------+-----------------------------------+
 
-Source: `Food Network Kitchen <https://www.foodnetwork.com/recipes/food-network-kitchen/no-churn-vanilla-ice-cream-3364776>`__
+Source: `Cooks Country <https://www.americastestkitchen.com/cookscountry/recipes/11749-vanilla-no-churn-ice-cream>`__
 
 No special equipment is needed to make this ultra-creamy ice cream. Eat
 it plain or add some of our fun suggested stir-ins.
@@ -13,39 +13,70 @@ it plain or add some of our fun suggested stir-ins.
 Ingredients
 -----------
 
-- One 14-ounce can sweetened condensed milk
-- 2 teaspoons pure vanilla extract or vanilla bean paste
-- Pinch fine salt
-- 2 cups heavy cream, cold
+- 2 cups heavy cream, chilled
+- 1 cup sweetened condensed milk
+- 1/4 cup whole milk
+- 1/4 cup liquid sugar (light corn syrup or agave syrup)
+- 1 tablespoon pure vanilla extract
+- 2 tablespoons sugar
+- 1/4 teaspoon fine salt
 
 Directions
 ----------
 
-1. For the ice cream: Whisk together the condensed milk, vanilla and
-   salt in a large bowl; set aside.
-2. Whip the cream with a mixer on medium-high speed until firm peaks
-   form, about 2 minutes. Fold about 1 cup of the whipped cream into
-   the condensed milk mixture with a rubber spatula until combined,
-   then fold the lightened mixture into the whipped cream until well
-   blended. Pour into a chilled 9-by-5-by-3-inch metal loaf pan, and
-   freeze for at least 5 hours.
+1. Process cream in blender until soft peaks form, 20 to 30 seconds.
+   Scrape down sides of blender jar and continue to process until
+   stiff peaks form, about 10 seconds longer. Using rubber spatula,
+   stir in condensed milk, whole milk, corn syrup, sugar, vanilla,
+   and salt. Process until thoroughly combined, about 20 seconds,
+   scraping down sides of blender jar as needed.
+2. Pour cream mixture into 8 1/2 by 4 1/2-inch loaf pan. Press
+   plastic wrap flush against surface of cream mixture. Freeze until
+   firm, at least 6 hours. Serve.
 
 Variations
 ----------
 
-For these variations stir in these mix-ins at the 2 hour mark of
-freezing:
-- Cookies and Cream: 12 Oreo cookies, crushed
-- Crunchy Cereal: 1 1/2 cups cinnamon crunch cereal, crushed
-- Cookies and Lemon: 1/2 cup lemon curd and 1 cup shortbread cookies, crushed
+Strawberry Swirl
+^^^^^^^^^^^^^^^^
 
-For these variations fold in these combinations before freezing:
-- Strawberry Shortcake: Add 1 cup pound cake and 2 cups strawberries (either pureed or just chopped) to mixture prior to freezing.
-- Nutella Swirl: 1 cup Nutella
-- Peach Pecan: 1 cup pureed frozen peaches and 1 cup pecans
-- Hot Cocoa Ice Cream: 3 hot cocoa packets and 2/3 cup mini marshmallows, plus more for garnish
-- Sparkling Ice Cream: Mix in 2 tablespoons honey then when combined 2 tablespoons Prosecco, ganish with gold and silver sprinkles
-- Mudslide: 1 cup Chopped Chocolate, 1/4 cup hot fudge sauce (plus more for serving), 2 tablespoon Kahlua, 2 tablespoon Baileys Irish Cream
-- Oreogasm: 20 Oreos, 3 tablespoons caramel, 3 tablespoons chocolate sauce
-- Robin's Egg: 2 cups Robin's Egg malted milk ball candies
-- Thin Mint: Replace vanilla with 1 teaspoon peppermint extract and 3 cups crushed Thin Mints, plus more for garnish
+- In step one, replace whole milk with 1/2 butter milk, and vanilla extract
+  with lemon juice.
+- In step two, once mixture is poured into the loaf pan, dollop 1/3 cup
+  strawberry jam over top and swirl into cream mixture using tines of fork.
+
+Salted Caramel-Coconut
+^^^^^^^^^^^^^^^^^^^^^^
+
+- In step one, replace liquid sugar with caramel sauce and increase the salt
+  to 1/2 teaspoon. 
+- In step two, once mixture is poured into the loaf pan, dollop 1/4 cup
+  caramel over top and swirl into cream mixture using tines of fork.
+
+Milk Chocolate
+^^^^^^^^^^^^^^
+
+- In step one when mixing in sugar and additional flavours add 6oz melted
+  milk chocolate.
+
+Dark Chocolate
+^^^^^^^^^^^^^^
+
+- In step one when mixing in sugar and additional flavours add 6oz melted
+  bittersweet chocolate and 1/2 teaspoon instant espresso powder.
+
+Mint-Cookie
+^^^^^^^^^^^
+
+- In step one, replace vanilla extract with 3/4 teaspoon peppermint extract
+  and add 1/8 teaspoon green food coloring. 
+- In step two, once mixture is poured into the loaf pan, gently stir in
+  4 crushed (coarse) Oreo cookies.
+
+Note
+----
+
+The cream mixture freezes more quickly in a loaf pan than in a taller,
+narrower container. If you don’t have a loaf pan, use an 8-inch square
+baking pan.
+
