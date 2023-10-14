@@ -55,3 +55,7 @@ Entrees - Vegetarian / Vegian
 .. include:: ../../../includes/recipePageBreak.rst
 
 .. include:: BeanAndCheeseBurrito.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
+.. include:: BlackBeanTacos.rst
