@@ -54,6 +54,10 @@ Salads
 
 .. include:: ../../includes/recipePageBreak.rst
 
+.. include:: SimpleColeslaw.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: SweetAndTangyColeslaw.rst
 
 .. include:: ../../includes/recipePageBreak.rst
