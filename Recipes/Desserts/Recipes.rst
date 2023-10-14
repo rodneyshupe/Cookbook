@@ -91,6 +91,10 @@ Desserts
 
 .. include:: ../../includes/recipePageBreak.rst
 
+.. include:: ChocolateFudge.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: NorthCarolinaLemonPie.rst
 
 .. include:: ../../includes/recipePageBreak.rst
