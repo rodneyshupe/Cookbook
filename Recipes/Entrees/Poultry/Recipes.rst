@@ -110,6 +110,10 @@ Entrees - Poultry
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: CrispyUnFriedChicken.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: IndoorPulledChicken.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
