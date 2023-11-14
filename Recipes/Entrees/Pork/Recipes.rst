@@ -86,6 +86,10 @@ Entrees - Pork
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: StuffedPorkLoinRoast.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: GrilledPorkLoinRoast.rst
 
 ----
