@@ -79,3 +79,7 @@ Entrees - Pasta
 .. include:: ../../../includes/recipePageBreak.rst
 
 .. include:: OnePanSausageAndOrzo.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
+.. include:: OnePanSausageGnocchi.rst
