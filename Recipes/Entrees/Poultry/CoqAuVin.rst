@@ -21,7 +21,7 @@ Ingredients
    and cut in half crosswise
 -  Salt and ground black pepper
 -  5 tablespoons unsalted butter
--  24°Frozen pearl onions, thawed, drained, and patted dry (about 1
+-  24 Frozen pearl onions, thawed, drained, and patted dry (about 1
    cup)\ *(see note below)*
 -  8 ounces cremini mushrooms, wiped clean, stems trimmed, quartered
    *(halved if small)*

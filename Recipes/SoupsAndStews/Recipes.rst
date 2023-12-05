@@ -70,10 +70,6 @@ Soups and Stews
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: CoqAuVin.rst
-
-.. include:: ../../includes/recipePageBreak.rst
-
 .. include:: ChickenBouillabaisse.rst
 
 .. include:: ../../includes/recipePageBreak.rst

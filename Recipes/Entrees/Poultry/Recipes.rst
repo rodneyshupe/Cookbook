@@ -116,6 +116,10 @@ Entrees - Poultry
 
 .. include:: IndoorPulledChicken.rst
 
+.. include:: ../../includes/recipePageBreak.rst
+
+.. include:: CoqAuVin.rst
+
 .. include:: ../../../includes/recipePageBreak.rst
 
 .. include:: ChickenAndRice.rst
