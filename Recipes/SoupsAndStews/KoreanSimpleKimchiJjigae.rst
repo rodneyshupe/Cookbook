@@ -14,6 +14,7 @@ Ingredients
 - 4-6 green onions, greens cut into 1/2 in pieces, whites chopped thin
 - 1 cup chopped Napa cabbage kimchi with juices
 - 1 Tbsp. gochujang (Korean hot pepper paste)
+- 2-3 cups water
 - 8 oz. firm tofu, cut into 1" pieces
 - Cooked rice (for serving)
 
