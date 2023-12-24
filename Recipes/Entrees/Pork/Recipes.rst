@@ -62,6 +62,10 @@ Entrees - Pork
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: EasyIndoorPulledPork.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: BraisedPulledPorkWithHoneyBalsamicSauce.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
