@@ -30,7 +30,7 @@ Soups and Stews
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: ../InstantPot/Chili.rst
+.. include:: ChickenAndWhiteBeanChili.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
