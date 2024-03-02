@@ -90,6 +90,10 @@ Entrees - Pork
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: PineappleChipotlePorkTenderloin.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: StuffedPorkLoinRoast.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
