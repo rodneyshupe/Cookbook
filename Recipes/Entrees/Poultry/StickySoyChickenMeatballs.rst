@@ -1,9 +1,9 @@
 Quick Sticky Soy Chicken Meatballs
 ==================================
 
-+-----------------+
-| Yield: Serves 4 |
-+-----------------+
++-----------------------+------------------+-------------+
+| Prep Time: 10 minutes | Cook: 30 minutes | Servings: 4 |
++-----------------------+------------------+-------------+
 
 Source: `Mary Berg <https://more.ctv.ca/food/recipes/2024/the-good-stuff/quick-sticky-soy-chicken-meatballs-2.html>`__
 
