@@ -94,6 +94,10 @@ Soups and Stews
 
 .. include:: ../../includes/recipePageBreak.rst
 
+.. include:: HamHockVegetableSoup.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: SplitPeaAndHamSoup.rst
 
 .. include:: ../../includes/recipePageBreak.rst
