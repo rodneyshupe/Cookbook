@@ -36,6 +36,10 @@ Baking: Breads
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: SimpleSodaBread.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: EasyNoKneadFocaccia.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
