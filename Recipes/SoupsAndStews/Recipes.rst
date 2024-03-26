@@ -50,6 +50,10 @@ Soups and Stews
 
 .. include:: ../../includes/recipePageBreak.rst
 
+.. include:: SlowCookerIrishBeefStew.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: ChickenNoodleSoup.rst
 
 .. include:: ../../includes/recipePageBreak.rst
