@@ -42,3 +42,8 @@ Directions
    165 degrees
 6. Remove, brush again and use
 
+Notes
+-----
+
+Substitute fresh Naan with Pita.  Warm pita by wrapping in foil and place in
+a hot oven.
