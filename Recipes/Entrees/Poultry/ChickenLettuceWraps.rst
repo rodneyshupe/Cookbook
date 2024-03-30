@@ -1,8 +1,6 @@
 Chicken Lettuce Wraps
 =====================
 
-Source: `Mary Berg <https://more.ctv.ca/food/recipes/2024/the-good-stuff/pork-lettuce-wraps.html>`__
-
 Ingredients
 -----------
 
@@ -36,17 +34,17 @@ Directions
 1. For the sauce, whisk together the soy sauce, hoisin, sesame oil, vinegar,
    peanut butter, honey, ginger, and garlic. Set aside.
 2. For the wraps, place a large skillet over medium-high heat and add in the
-   sesame oil. Add the ground pork and cook, breaking the pork apart with
+   sesame oil. Add the ground chicken and cook, breaking the chicken apart with
    the side of a spoon, until golden and almost cooked through about
    6 minutes.
-3. Push the pork to one side of the pan and add in the green onions,
+3. Push the chicken to one side of the pan and add in the green onions,
    bell pepper, garlic, and water chestnuts. Cook for 1 to 2 minutes,
    tossing frequently, until lightly golden and tender. Stir the vegetables
-   into the pork and continue cooking for 1 to 2 minutes or until the pork
+   into the chicken and continue cooking for 1 to 2 minutes or until the chicken
    is cooked through.
 4. Pour the prepared sauce into the pan and toss well to combine and heat
    through.
-5. Snap off individual leaves of lettuce and fill with the saucy pork.
+5. Snap off individual leaves of lettuce and fill with the saucy chicken.
    Serve topped with chopped peanuts and some sriracha, if desired.
 
 Variations
