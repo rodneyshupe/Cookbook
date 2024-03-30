@@ -492,3 +492,21 @@ jobs:
   #      source: "*"
   #      target: "Cooking"
   #      overwrite: true
+
+  publish_to_dropbox:
+    needs: [build_epub]
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Download latest output files.
+      uses: actions/download-artifact@v3
+      with:
+        name: published-files
+
+   - name: Dropbox Uploader
+      uses: deka0106/upload-to-dropbox@v2
+      with:
+        dropbox_access_token: ${{ secrets.DROPBOX_ACCESS_TOKEN }}
+        src: ${{ env.WF_PARAM_PUBLISHED_EPUB }}
+        dest: "/Apps/Rakuten Kobo/"
+        mode: overwrite            
