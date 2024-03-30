@@ -90,6 +90,14 @@ Entrees - Poultry
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: ChickenLettuceWraps.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
+.. include:: ChickenAndBroccoli.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: AsianSoySauceChicken.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
