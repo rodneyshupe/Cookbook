@@ -43,7 +43,7 @@ Directions
    medium-high heat. Add the broccoli and cover. Steam until the broccoli
    just turns tender and the water evaporates, about 40 to 50 seconds.
    Transfer the broccoli to a plate. Wipe the pan with a paper towel held
-   in a pair of tongs if there’s any water left.
+   in a pair of tongs if there's any water left.
 4. Add the oil and swirl to coat the bottom. Spread the chicken in the
    skillet in a single layer. Allow to cook without touching for 30 seconds,
    or until the bottom side is browned. Flip to cook the other side for a
