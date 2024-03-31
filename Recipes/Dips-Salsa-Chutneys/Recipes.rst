@@ -81,6 +81,10 @@ Dips Salsa and Chutneys
 
 .. include:: ../../includes/recipePageBreak.rst
 
+.. include:: DippingButter.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: BeerCheeseDip.rst
 
 ----
