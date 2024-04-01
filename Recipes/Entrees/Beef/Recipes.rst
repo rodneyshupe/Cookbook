@@ -90,6 +90,10 @@ Entrees - Beef
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: FrenchOnionPotRoast.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: BraisedShortRibsWithBaconAndMushrooms.rst
 
 .. include:: ../../../includes/recipePageBreak.rst

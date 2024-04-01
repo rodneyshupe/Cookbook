@@ -50,6 +50,10 @@ Sides
 
 .. include:: ../../includes/recipePageBreak.rst
 
+.. include:: GruyereMashedPotatoes.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: BestBakedPotatoes.rst
 
 .. include:: ../../includes/recipePageBreak.rst
