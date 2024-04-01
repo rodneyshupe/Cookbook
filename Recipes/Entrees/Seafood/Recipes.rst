@@ -78,6 +78,10 @@ Entrees - Seafood
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: PacificSnapperWithBloodOrangeAndFennelEnPapillote.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: LemonHerbCodFilletsWithCrispyGarlicPotatoes.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
