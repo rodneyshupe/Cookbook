@@ -482,14 +482,8 @@ jobs:
       with:
         name: published-files
 
-    #- name: Dropbox Uploader
-    #  uses: deka0106/upload-to-dropbox@v2
-    #  with:
-    #    dropbox_access_token: ${{ secrets.DROPBOX_ACCESS_TOKEN }}
-    #    src: ${{ env.WF_PARAM_PUBLISHED_EPUB }}
-    #    dest: "/Apps/Rakuten Kobo/"
-    #    mode: overwrite            
-
+    # Information on setup: https://github.com/Lewuathe/dropbox-github-action
+    # Dropbox App: eBook-Upload-Permissionn - https://www.dropbox.com/developers/apps/info/1ml0js3umjgqse0#settings
     - name: Upload to Dropbox
       uses: Lewuathe/dropbox-github-action@v1
       with:
