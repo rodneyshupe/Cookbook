@@ -174,6 +174,10 @@ Entrees - Poultry
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: ChickenShawarma.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: ChickenTingaTacos.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
