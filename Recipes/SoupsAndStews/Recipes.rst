@@ -118,6 +118,10 @@ Soups and Stews
 
 .. include:: ../../includes/recipePageBreak.rst
 
+.. include:: PacificSnapperStewWithPrawnsAndChorizo.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: TurkeyNoodleSoup.rst
 
 .. include:: ../../includes/recipePageBreak.rst
