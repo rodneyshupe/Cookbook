@@ -34,11 +34,23 @@ Entrees - Vegetarian / Vegian
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: DalMakhani.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: PoblanoConQuesoTacos.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
 
 .. include:: ChileRellenoBurrito.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
+.. include:: BlackBeanTacos.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
+.. include:: SmashedLentilTacos.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
 
@@ -55,7 +67,3 @@ Entrees - Vegetarian / Vegian
 .. include:: ../../../includes/recipePageBreak.rst
 
 .. include:: BeanAndCheeseBurrito.rst
-
-.. include:: ../../../includes/recipePageBreak.rst
-
-.. include:: BlackBeanTacos.rst

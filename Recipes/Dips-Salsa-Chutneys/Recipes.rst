@@ -33,6 +33,10 @@ Dips Salsa and Chutneys
 
 .. include:: ../../includes/recipePageBreak.rst
 
+.. include:: SalsaPicoDeGallo.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: Salsa.rst
 
 .. include:: ../../includes/recipePageBreak.rst
