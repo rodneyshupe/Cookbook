@@ -1,6 +1,9 @@
 Quick Spaghetti & Meat Sauce
 ============================
 
+Ingredients
+-----------
+
 - 1lb lean ground beef 
 - 8oz (225g) hot italian pork sausage (approx. 2 links)
 - 1 medium onion, diced
@@ -16,6 +19,9 @@ Quick Spaghetti & Meat Sauce
 - 3 tablespoons fresh basil, chopped (if using dried use 1/2 teaspoon and add with oregano)
 - 12oz dried spaghetti (broken in half) 
 - 1/2 cup grated parmesan + extra for garnish
+
+Directions
+----------
 
 1. Preheat oven to 425F.
 2. Add beef and sausage to a heavy bottom pan over medium high heat.
