@@ -19,4 +19,3 @@ Directions
 
 - Put all ingredients except milk in a bowl and mix well to combine
 - Stir in as much milk as needed to make it as thick or thin as you like
-‍
