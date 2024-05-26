@@ -22,4 +22,8 @@ Sandwiches
 
 .. include:: ../../includes/recipePageBreak.rst
 
+.. include:: HealthyTunaMelt.rst
+   
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: SpicyTunaSaladEnglishMuffinSandwich.rst
