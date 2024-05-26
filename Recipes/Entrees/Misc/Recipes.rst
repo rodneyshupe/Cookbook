@@ -92,11 +92,3 @@ Entrees - Misc
 .. include:: ../../../includes/recipePageBreak.rst
 
 .. include:: Jambalaya.rst
-
-.. include:: ../../../includes/recipePageBreak.rst
-
-.. include:: BeefChoppedCheeseSandwich.rst
-   
-.. include:: ../../../includes/recipePageBreak.rst
-
-.. include:: PortugueseFrancesinhaSandwich.rst

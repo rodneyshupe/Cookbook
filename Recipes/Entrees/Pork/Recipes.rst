@@ -42,10 +42,6 @@ Entrees - Pork
 
 .. include:: ../../../includes/recipePageBreak.rst
 
-.. include:: ChaSiuBaoSteamedBBQPorkBuns.rst
-
-.. include:: ../../../includes/recipePageBreak.rst
-
 .. include:: GuaBaoPorkBellySteamedBuns.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
@@ -119,10 +115,6 @@ Entrees - Pork
 .. include:: ../../../includes/recipePageBreak.rst
 
 .. include:: GochujangPorkShoulderSteaks.rst
-
-.. include:: ../../../includes/recipePageBreak.rst
-
-.. include:: Cubanos.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
 
