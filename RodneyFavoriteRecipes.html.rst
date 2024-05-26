@@ -40,6 +40,8 @@ a collection of recipes containing the favorites of Rodney Shupe and family
 
 .. include:: Recipes/SoupsAndStews/Recipes.rst
 
+.. include:: Recipes/Sandwiches/Recipes.rst
+
 .. include:: Recipes/Entrees/Poultry/Recipes.rst
 .. include:: Recipes/Entrees/Beef/Recipes.rst
 .. include:: Recipes/Entrees/Lamb/Recipes.rst
