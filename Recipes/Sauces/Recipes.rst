@@ -54,6 +54,10 @@ Sauces and Condiments
 
 .. include:: ../../includes/recipePageBreak.rst
 
+.. include:: CocktailSauce.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: SweetAndSourChileSauce.rst
 
 ----

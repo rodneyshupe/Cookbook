@@ -8,23 +8,11 @@ Shrimp Cocktail
 Ingredients
 -----------
 
-Shrimp
-^^^^^^
-
 - 1/4 cup Diamond Crystal kosher salt
 - 1/4 cup sugar
 - 2 lemons
 - 1 lb. jumbo shell-on shrimp, deveined
-
-Cocktail Sauce
-^^^^^^^^^^^^^^
-
-- 1 cup chili sauce (preferably Heinz)
-- 3/4 teaspoon finely grated lemon zest
-- 2 tablespoons fresh lemon juice
-- 2 tablespoons prepared horseradish
-- 2 teaspoons freshly ground black pepper
-- 1/4 teaspoon hot sauce
+- `Cocktail Sauce <#cocktailsauce>`__
 - Lemon wedges (for serving)
 
 Directions
