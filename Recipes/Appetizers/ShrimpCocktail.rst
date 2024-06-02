@@ -12,7 +12,7 @@ Ingredients
 - 1/4 cup sugar
 - 2 lemons
 - 1 lb. jumbo shell-on shrimp, deveined
-- `Cocktail Sauce <#cocktailsauce>`__
+- `Cocktail Sauce <#cocktail-sauce>`__
 - Lemon wedges (for serving)
 
 Directions
