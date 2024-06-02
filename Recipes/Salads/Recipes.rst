@@ -99,6 +99,18 @@ Salads
 
 .. include:: ../../includes/recipePageBreak.rst
 
+.. include:: CucumberSalad.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
+.. include:: NewYorkDeliCucumberSalad.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
+.. include:: SmashedCucumberSalad.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: CucumberAvocadoOleSalad.rst
 
 .. include:: ../../includes/recipePageBreak.rst
