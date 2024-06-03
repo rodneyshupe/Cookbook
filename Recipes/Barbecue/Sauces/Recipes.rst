@@ -22,6 +22,10 @@ Barbecue Sauces
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: ChipotleBBQSauce.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: SouthCarolinaStyleMustardBarbecueSauce.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
