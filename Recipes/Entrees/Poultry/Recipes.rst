@@ -170,6 +170,10 @@ Entrees - Poultry
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: GreekChickenMeatballs.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: GreekChicken.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
