@@ -178,7 +178,11 @@ Entrees - Poultry
 
 .. include:: ../../../includes/recipePageBreak.rst
 
-.. include:: ChickenShwarma.rst
+.. include:: ChickenShawarma.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
+.. include:: BakedChickenShawarma.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
 
