@@ -186,6 +186,10 @@ Entrees - Poultry
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: ChickenTaquitos.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: ChickenTingaTacos.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
@@ -194,4 +198,4 @@ Entrees - Poultry
 
 .. include:: ../../../includes/recipePageBreak.rst
 
-.. include:: ChickenTaquitos.rst
+.. include:: HoneyChipotleChicken.rst
