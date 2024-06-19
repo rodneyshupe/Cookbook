@@ -114,6 +114,10 @@ Soups and Stews
 
 .. include:: ../../includes/recipePageBreak.rst
 
+.. include:: ClamChowder.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: LeftoverSeafoodChowder.rst
 
 .. include:: ../../includes/recipePageBreak.rst
@@ -179,6 +183,10 @@ Soups and Stews
 .. include:: ../../includes/recipePageBreak.rst
 
 .. include:: SilkyButternutSquashSoup.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
+.. include:: CreamySpicyTomatoSoup.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
