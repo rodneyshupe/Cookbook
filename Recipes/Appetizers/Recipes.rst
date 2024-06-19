@@ -107,3 +107,7 @@ Appetizers
 .. include:: ../../includes/recipePageBreak.rst
 
 .. include:: Lefsa.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
+.. include:: RoastedChickPeas.rst
