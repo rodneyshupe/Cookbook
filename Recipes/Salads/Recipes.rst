@@ -42,6 +42,10 @@ Salads
 
 .. include:: ../../includes/recipePageBreak.rst
 
+.. include:: AllCanadianPotatoSalad.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: AustrianPotatoSalad.rst
 
 .. include:: ../../includes/recipePageBreak.rst
