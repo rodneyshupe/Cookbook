@@ -18,6 +18,10 @@ Entrees - Vegetarian / Vegian
 
    <p style="page-break-before: always"/>
 
+.. include:: SheetPanGnocchi.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: BakedGnocchiWithTomatoAndBasil.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
