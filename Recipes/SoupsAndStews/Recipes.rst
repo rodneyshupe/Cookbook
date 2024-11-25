@@ -126,6 +126,10 @@ Soups and Stews
 
 .. include:: ../../includes/recipePageBreak.rst
 
+.. include:: Cioppino.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: TurkeyNoodleSoup.rst
 
 .. include:: ../../includes/recipePageBreak.rst
