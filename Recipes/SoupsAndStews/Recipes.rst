@@ -308,3 +308,6 @@ Soups and Stews
 
 .. include:: VeganChickpeaNoodleSoup.rst
 
+.. include:: ../../includes/recipePageBreak.rst
+
+.. include:: ChickenEnchiladaSoup.rst
