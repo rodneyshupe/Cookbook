@@ -17,9 +17,9 @@ Ingredients
 - 1 tablespoon minced fresh thyme or 1 teaspoon dried
 - 2 garlic cloves, minced
 - 2 teaspoons tomato paste
-- 3 cups beef broth
-- 3 cups chicken broth
-- 2/3 cup quick-cooking barley (can substitute pearl barley see note)
+- 3 1/2 cups beef broth
+- 3 1/2 cups chicken broth
+- 2/3 cup pearl barley (can substitute quick-cooking barley see note)
 - 2 teaspoons soy sauce
 - Salt and Pepper
 
@@ -37,13 +37,12 @@ Directions
    lightly browned, about another 4 minutes. Stir in thyme, garlic, and
    tomato paste and cook until fragrant, about 30 seconds. Stir in beef
    broth, chicken broth, barley, and soy sauce, scraping up any browned
-   bits.
-3. Add browned beef and any accumulated juices to soup and let heat
-   through, about 1 1/2 hour. Season with salt and pepper to taste. Serve.
+   bits. Bring to a simmer for 30 minutes.
+3. Add browned beef and any accumulated juices to soup and let simmer for
+   about 1 1/2 hour. Season with salt and pepper to taste. Serve.
 
 Note
 ----
 
-If using pearl barley increase broths to 3 1/2 cups each or add 1 cup
-water in step 4. In step 3 bring to a simmer for 30 minutes before adding
-beef in step 4.
+If using quick-cooking barley decrease broths to 3 cups each in step 4 and
+skip 30 minutes simmer before adding beef.
