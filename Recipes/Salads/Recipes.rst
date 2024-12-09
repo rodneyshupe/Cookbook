@@ -22,6 +22,10 @@ Salads
 
 .. include:: ../../includes/recipePageBreak.rst
 
+.. include:: HysCaesarSalad.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: GrilledCaesarSalad.rst
 
 .. include:: ../../includes/recipePageBreak.rst
