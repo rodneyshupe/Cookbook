@@ -22,6 +22,14 @@ Entrees - Seafood
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: HoneySirachaSalmon.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
+.. include:: MapleMustardSalmon.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: MisoGlazedSalmon.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
