@@ -6,7 +6,7 @@ Source: `Neli Howard <https://www.deliciousmeetshealthy.com/honey-sriracha-salmo
 Ingredients
 -----------
 
-- 4 salmon fillets
+- 1 lb salmon, about 4 filets
 - salt and freshly ground black pepper, to taste
 - sesame seeds, optional
 - green onions, optional

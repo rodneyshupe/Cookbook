@@ -15,9 +15,9 @@ Miso Glaze
 
 Salmon
 ^^^^^^
-- 4 wild salmon filets, about 6 ounces each
+- 1 lb salmon, about 4 filets
 - 2 tablespoons prepared miso sauce
-- 2 grren onions sliced
+- 2 green onions sliced
 
 Directions
 ----------
@@ -28,7 +28,7 @@ Directions
 3. Preheat oven to 425˚ and position a rack to the top spot. Roast salmon in
    the oven on the top rack for about 10 to 15 minutes. 
 4. Set oven to broil and finish under the broiler for a few minutes to crisp
-   the tops, if you’d like them more well done. (A general rule: Cook for
+   the tops, if you'd like them more well done. (A general rule: Cook for
    about four minutes per 1/2-inch thickness of salmon, or until the
    internal temperatures reaches 125˚ to 130˚ for medium. Add a few more
    minutes if you prefer it well done; subtract a few minutes if you want it
@@ -39,7 +39,7 @@ Directions
    Use a wide spatula to carefully flip to the other side and cook for
    another four to five minutes, or until it reaches your preferred level
    of doneness. (Note: Salmon should release easily from the grill; if it
-   doesn’t, wait another one minute or two before flipping.) Keep in mind
+   doesn't, wait another one minute or two before flipping.) Keep in mind
    most salmon filets take just about 12 minutes to cook through, so pay
    close attention to avoid overcooking.
 6. Transfer to a serving dish, brush each filet with additional miso sauce
