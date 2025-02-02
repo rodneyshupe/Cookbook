@@ -1,5 +1,5 @@
-Baked Gnocchi with Tomato and Basil
-===================================
+Mediterranean Sheet Pan Gnocchi
+===============================
 
 +-----------------------+-------------------------------+-------------------+
 | Prep Time: 10 minutes | Cooking Time: 35 - 45 minutes | Yield: 4 servings |
