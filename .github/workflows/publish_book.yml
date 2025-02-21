@@ -383,6 +383,12 @@ jobs:
       with:
         name: published-files-epub
 
+    - name: Download latest output www files.
+      id: download-www
+      uses: actions/download-artifact@v4
+      with:
+        name: published-files-www
+
     - name: Download Revision Number File artifacts
       id: getRevNums
       uses: actions/download-artifact@v4
