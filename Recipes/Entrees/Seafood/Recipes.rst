@@ -22,7 +22,7 @@ Entrees - Seafood
 
 .. include:: ../../../includes/recipePageBreak.rst
 
-.. include:: HoneySirachaSalmon.rst
+.. include:: HoneySrirachaSalmon.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
 
