@@ -372,13 +372,13 @@ jobs:
     steps:
 
     - name: Download latest output pdf files.
-      id: download
+      id: download-pdf
       uses: actions/download-artifact@v4
       with:
         name: published-files-pdf
 
     - name: Download latest output epub files.
-      id: download
+      id: download-epub
       uses: actions/download-artifact@v4
       with:
         name: published-files-epub
