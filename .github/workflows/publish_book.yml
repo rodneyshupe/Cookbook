@@ -501,7 +501,6 @@ jobs:
     steps:
 
     - name: Download latest output epub files.
-      id: download-epub
       uses: actions/download-artifact@v4
       with:
         name: published-files-epub
@@ -514,7 +513,7 @@ jobs:
         dropbox-app-key: ${{ secrets.DROPBOX_APP_KEY }}
         dropbox-app-secret: ${{ secrets.DROPBOX_APP_SECRET }}
         dropbox-refresh-token: ${{ secrets.DROPBOX_REFRESH_TOKEN }}
-        source_path: ${{steps.download-epub.outputs.download-path}}/${{ env.WF_PARAM_PUBLISHED_EPUB }}
+        source_path: ${{ env.WF_PARAM_PUBLISHED_EPUB }}
         target_path: "/Apps/Rakuten Kobo/"
         write-mode: overwrite
 
