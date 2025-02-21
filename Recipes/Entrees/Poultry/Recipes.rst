@@ -178,6 +178,10 @@ Entrees - Poultry
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: GreekLemonChickenAndPotatoes.rst
+   
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: ChickenShawarma.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
