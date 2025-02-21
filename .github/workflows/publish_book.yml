@@ -503,6 +503,7 @@ jobs:
         dropbox-refresh-token: ${{ secrets.DROPBOX_REFRESH_TOKEN }}
         source_path: ${{ env.WF_PARAM_PUBLISHED_EPUB }}
         target_path: "/Apps/Rakuten Kobo/"
+        write-mode: overwrite
 
   #backup-via-ssh:
   #  needs: [build_pdf, build_epub, build_website]
