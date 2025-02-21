@@ -92,3 +92,7 @@ Entrees - Misc
 .. include:: ../../../includes/recipePageBreak.rst
 
 .. include:: Jambalaya.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
+.. include:: SlowcookerJambalaya.rst
