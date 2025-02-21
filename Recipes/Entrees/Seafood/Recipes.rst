@@ -26,7 +26,7 @@ Entrees - Seafood
 
 .. include:: ../../../includes/recipePageBreak.rst
 
-.. include:: MapleMustardSalmon.rst
+.. include:: MapleMustardGlazedSalmon.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
 
