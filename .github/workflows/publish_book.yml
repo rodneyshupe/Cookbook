@@ -501,6 +501,7 @@ jobs:
     steps:
 
     - name: Download latest output epub files.
+      id: download-epub
       uses: actions/download-artifact@v4
       with:
         name: published-files-epub
