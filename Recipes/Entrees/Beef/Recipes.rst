@@ -194,4 +194,8 @@ Entrees - Beef
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: EasySloppyJoes.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: SteakAndGuinnessPie.rst
