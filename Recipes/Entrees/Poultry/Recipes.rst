@@ -203,3 +203,7 @@ Entrees - Poultry
 .. include:: ../../../includes/recipePageBreak.rst
 
 .. include:: HoneyChipotleChicken.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
+.. include:: MustardChicken.rst
