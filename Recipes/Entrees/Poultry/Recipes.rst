@@ -166,6 +166,10 @@ Entrees - Poultry
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: MediterraneanChickenAndOrzo.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: ChickenGyro.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
