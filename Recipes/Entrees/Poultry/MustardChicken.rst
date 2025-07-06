@@ -1,5 +1,5 @@
-Honey Chipotle Chicken
-======================
+Mustard Chicken
+===============
 
 Ingredients
 -----------
