@@ -18,6 +18,10 @@ Appetizers
 
    <p style="page-break-before: always"/>
 
+.. include:: CheeseBallWithSpicedPecans.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: BakedBrie.rst
 
 ----
@@ -82,7 +86,7 @@ Appetizers
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include GingerPrawns.rst
+.. include:: GingerPrawns.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
