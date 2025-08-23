@@ -42,11 +42,19 @@ Salads
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: CreamyPotatoSaladWithJalapeno.rst
+.. include:: SimplePotatoSalad.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
 .. include:: AllCanadianPotatoSalad.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
+.. include:: ElotePotatoSalad.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
+.. include:: CreamyPotatoSaladWithJalapeno.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
@@ -55,10 +63,6 @@ Salads
 .. include:: ../../includes/recipePageBreak.rst
 
 .. include:: GermanPotatoSalad.rst
-
-.. include:: ../../includes/recipePageBreak.rst
-
-.. include:: SimplePotatoSalad.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
