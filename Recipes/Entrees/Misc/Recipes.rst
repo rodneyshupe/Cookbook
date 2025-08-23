@@ -96,3 +96,7 @@ Entrees - Misc
 .. include:: ../../../includes/recipePageBreak.rst
 
 .. include:: SlowcookerJambalaya.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
+.. include:: GreekOnePanChickenSausage.rst
