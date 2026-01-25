@@ -154,6 +154,10 @@ Entrees - Poultry
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: ChickenCurry.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: ChickenYakiudon.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
