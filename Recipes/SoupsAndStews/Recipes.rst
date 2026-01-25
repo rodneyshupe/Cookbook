@@ -106,6 +106,10 @@ Soups and Stews
 
 .. include:: ../../includes/recipePageBreak.rst
 
+.. include:: NavyBeanAndHamSoup.rst
+
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: SlowCookerBaconAndCornChowder.rst
 
 .. include:: ../../includes/recipePageBreak.rst
