@@ -126,6 +126,10 @@ Entrees - Beef
 
 .. include:: ../../../includes/recipePageBreak.rst
 
+.. include:: DoubleDeckerGroundBeefTacos.rst
+
+.. include:: ../../../includes/recipePageBreak.rst
+
 .. include:: BeefBirriaTacos.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
