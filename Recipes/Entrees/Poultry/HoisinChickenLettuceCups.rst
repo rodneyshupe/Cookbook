@@ -1,6 +1,10 @@
 Hosin Chicken Lettuce Cups
 ==========================
 
++------------------------------+------------------------------+--------------------------+
+| Prep Time: 15 minutes (est.) | Cook Time: 10 minutes (est.) | Yield: 4 servings (est.) |
++------------------------------+------------------------------+--------------------------+
+
 Source: `Sam the Cooking Guy <https://www.thecookingguy.com/cookbook/hoisin-chicken-lettuce-cups>`__
 
 Ingredients

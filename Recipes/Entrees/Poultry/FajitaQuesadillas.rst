@@ -1,6 +1,10 @@
 Fajita Quesadillas
 ==================
 
++------------------------------+------------------------------+------------------------------+-----------------------------+
+| Prep Time: 20 minutes (est.) | Cook Time: 20 minutes (est.) | Marinate Time: 1 hour (est.) | Yield: 8 quesadillas (est.) |
++------------------------------+------------------------------+------------------------------+-----------------------------+
+
 Ingredients
 -----------
 
@@ -13,7 +17,6 @@ Ingredients
 - 1 cup salsa
 - Hot Sauce, to taste
 - 1 teaspoon `Cajun Spice Mix <#louisiana-cajun-or-creole-seasoning-spice-mix>`__
-
 
 Marinade
 ^^^^^^^^
@@ -39,5 +42,4 @@ Directions
 8. Add to preheated to 400 degree oven, for 5 minutes (or until cheese is
    bubbling.)
 9. Serve with sour cream.
-
 

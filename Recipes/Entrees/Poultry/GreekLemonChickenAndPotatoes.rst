@@ -1,6 +1,10 @@
 Greek Lemon Chicken and Potatoes
 ================================
 
++------------------------------+--------------------------+-------------------------------+--------------------------+
+| Prep Time: 20 minutes (est.) | Cook Time: 1 hour (est.) | Marinate Time: 2 hours (est.) | Yield: 4 servings (est.) |
++------------------------------+--------------------------+-------------------------------+--------------------------+
+
 Source: `Sip and Feast <https://www.sipandfeast.com/greek-lemon-chicken/>`__
 
 Ingredients

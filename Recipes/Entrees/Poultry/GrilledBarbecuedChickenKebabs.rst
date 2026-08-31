@@ -1,6 +1,10 @@
 Grilled Barbecued Chicken Kebabs
 ================================
 
++------------------------------+------------------------------+-------------------------------------------+--------------------------+
+| Prep Time: 30 minutes (est.) | Cook Time: 15 minutes (est.) | Marinate Time: 30 minutes - 1 hour (est.) | Yield: 4 servings (est.) |
++------------------------------+------------------------------+-------------------------------------------+--------------------------+
+
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/6482-charcoal-grilled-barbecued-chicken-kebabs>`__
 
 Ingredients

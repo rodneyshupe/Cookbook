@@ -1,6 +1,10 @@
 Butter Chicken
 ==============
 
++------------------------------+------------------------------+---------------------------------+--------------------------+
+| Prep Time: 15 minutes (est.) | Cook Time: 25 minutes (est.) | Marinate Time: overnight (est.) | Yield: 4 servings (est.) |
++------------------------------+------------------------------+---------------------------------+--------------------------+
+
 Source: `RecipeTinEats <https://www.recipetineats.com/butter-chicken/>`__
 
 Ingredients

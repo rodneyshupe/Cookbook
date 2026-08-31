@@ -1,6 +1,10 @@
 Pesto Chicken Garlic Knot Sliders
 =================================
 
++------------------------------+------------------------------+--------------------------+
+| Prep Time: 30 minutes (est.) | Cook Time: 35 minutes (est.) | Yield: 16 sliders (est.) |
++------------------------------+------------------------------+--------------------------+
+
 Source: `Tasty <https://tasty.co/recipe/pesto-chicken-garlic-knot-sliders>`__
 
 Ingredients
