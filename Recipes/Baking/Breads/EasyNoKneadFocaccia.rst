@@ -1,6 +1,10 @@
 Easy No-Knead Focaccia
 ======================
 
++------------------------------+------------------------------+-----------------------------+--------------------------+
+| Prep Time: 20 minutes (est.) | Cook Time: 25 minutes (est.) | Total Time: 11 hours (est.) | Yield: 1 focaccia (est.) |
++------------------------------+------------------------------+-----------------------------+--------------------------+
+
 Source: `Bon Appetit <https://www.bonappetit.com/recipe/easy-no-knead-focaccia>`__
 
 Ingredients

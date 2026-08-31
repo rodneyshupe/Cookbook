@@ -1,7 +1,9 @@
 Brioche Bread
 =============
 
-Yield: Yields 2 medium loaves or 1 large loaf.
++------------------------------+------------------------------+-----------------------------+----------------------------------------+
+| Prep Time: 30 minutes (est.) | Cook Time: 35 minutes (est.) | Total Time: 14 hours (est.) | Yield: 2 medium loaves or 1 large loaf |
++------------------------------+------------------------------+-----------------------------+----------------------------------------+
 
 Ingredients
 -----------
@@ -13,7 +15,6 @@ The sponge
 - 1 1/8 teaspoon active dry yeast
 - 1 pinch sugar
 - 1 1/4 cup bread flour, (unsifted)
-
 
 The dough
 ^^^^^^^^^

@@ -1,6 +1,10 @@
 Hamburger Buns
 ==============
 
++------------------------------+------------------------------+----------------------------+-----------------------+
+| Prep Time: 30 minutes (est.) | Cook Time: 20 minutes (est.) | Total Time: 3 hours (est.) | Yield: 12 buns (est.) |
++------------------------------+------------------------------+----------------------------+-----------------------+
+
 Source: `Guga Foods <https://www.youtube.com/watch?v=GeQGgzeSQjI>`__
 
 Ingredients
@@ -56,5 +60,4 @@ Directions
 TO MAKE AHEAD: Before second rise, cover with plastic wrap and refrigerate
 for up to 24 hours. Let dough sit at room temperature for 2 hours before
 baking. Increasing baking time by 5 minutes.
-
 

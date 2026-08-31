@@ -1,6 +1,10 @@
 Southern-Style Cornbread
 ========================
 
++------------------------------+------------------------------+------------------------+
+| Prep Time: 20 minutes (est.) | Cook Time: 25 minutes (est.) | Yield: 8 wedges (est.) |
++------------------------------+------------------------------+------------------------+
+
 Ingredients
 -----------
 -  1 1/2 cups stone-ground cornmeal
@@ -13,7 +17,6 @@ Ingredients
 -  6 tablespoons unsalted butter, cut into 6 pieces
 -  1 cup buttermilk (substitute 1 1/2 teaspoons of cream of tartar and 1 cup regular milk)
 -  2 large eggs plus 1 large yolk
-
 
 Directions
 ----------

@@ -1,6 +1,10 @@
 Oatmeal Cookies
 ===============
 
++------------------------------+------------------------------+--------------------------+
+| Prep Time: 20 minutes (est.) | Cook Time: 10 minutes (est.) | Yield: 20 cookies (est.) |
++------------------------------+------------------------------+--------------------------+
+
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/9077-classic-chewy-oatmeal-cookies>`__
 
 Ingredients

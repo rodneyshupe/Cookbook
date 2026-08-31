@@ -1,6 +1,10 @@
 Pop Overs
 =========
 
++------------------------------+------------------------------+--------------------------+
+| Prep Time: 10 minutes (est.) | Cook Time: 40 minutes (est.) | Yield: 6 popovers (est.) |
++------------------------------+------------------------------+--------------------------+
+
 Ingredients
 -----------
 -  1 tablespoon unsalted butter, melted and cooled, plus 1 teaspoon for

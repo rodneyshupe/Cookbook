@@ -1,6 +1,10 @@
 Pecan Bars
 ==========
 
++------------------------------+------------------------------+--------------------------------+-----------------------+
+| Prep Time: 25 minutes (est.) | Cook Time: 25 minutes (est.) | Total Time: 2 1/2 hours (est.) | Yield: 24 bars (est.) |
++------------------------------+------------------------------+--------------------------------+-----------------------+
+
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/8571-ultranutty-pecan-bars?incode=MCSCD00L0>`__
 
 Ingredients

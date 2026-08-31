@@ -1,6 +1,10 @@
 Sourdough Starter
 =================
 
++------------------------------+-------------------------------+------------------------------------+
+| Prep Time: 10 minutes (est.) | Total Time: 10-14 days (est.) | Yield: about 2 cups starter (est.) |
++------------------------------+-------------------------------+------------------------------------+
+
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/9075-sourdough-starter>`__
 
 Ingredients

@@ -1,6 +1,10 @@
 Pretzels
 ========
 
++------------------------------+------------------------------+--------------------------------+--------------------------+
+| Prep Time: 25 minutes (est.) | Cook Time: 15 minutes (est.) | Total Time: 1 1/2 hours (est.) | Yield: 8 pretzels (est.) |
++------------------------------+------------------------------+--------------------------------+--------------------------+
+
 Source: `Tasty <https://tasty.co/recipe/homemade-soft-pretzels>`__
 
 Ingredients
