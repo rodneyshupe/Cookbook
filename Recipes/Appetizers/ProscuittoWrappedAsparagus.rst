@@ -1,7 +1,9 @@
 Proscuitto Wrapped Asparagus and Roasted Red Pepper Coulis
 ==========================================================
 
-Yield: 4 servings
++------------------------------+------------------------------+-------------------+
+| Prep Time: 20 minutes (est.) | Cook Time: 15 minutes (est.) | Yield: 4 servings |
++------------------------------+------------------------------+-------------------+
 
 Ingredients
 -----------

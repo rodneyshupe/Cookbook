@@ -1,9 +1,11 @@
 Norwegian Potato Lefsa
 ======================
 
-"Traditional Norwegian Potato Lefsa that's usually reserved for holiday meals. NOTE: It is important that dough balls stay cold till they are rolled out. "
++------------------------------+------------------------------+-----------------------------+-------------------+
+| Prep Time: 45 minutes (est.) | Cook Time: 30 minutes (est.) | Total Time: 12 hours (est.) | Yield: 8 servings |
++------------------------------+------------------------------+-----------------------------+-------------------+
 
-Yield: 8 servings
+"Traditional Norwegian Potato Lefsa that's usually reserved for holiday meals. NOTE: It is important that dough balls stay cold till they are rolled out. "
 
 Ingredients
 -----------

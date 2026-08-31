@@ -1,13 +1,15 @@
 Coquilles St-Jacques
 ====================
 
++------------------------------+------------------------------+-------------------+
+| Prep Time: 20 minutes (est.) | Cook Time: 25 minutes (est.) | Yield: 4 servings |
++------------------------------+------------------------------+-------------------+
+
 Although coquilles St-Jacques simply means “scallops” in French, the
 term is synonymous with the old French dish of scallops poached in white
 wine, placed atop a puree of mushrooms in a scallop shell, covered with
 a sauce made of the scallop poaching liquid, and gratineed under a
 broiler.
-
-Yield:  4 Servings
 
 Ingredients
 -----------
