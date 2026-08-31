@@ -1,7 +1,9 @@
 Quick Rémoulade
 ===============
 
-Yield: Serves 24 (Makes about 1 1/2 cups)
++------------------------------+-------------------------+
+| Prep Time: 10 minutes (est.) | Yield: about 1 1/2 cups |
++------------------------------+-------------------------+
 
 Source: `Cook's Country <https://www.cookscountry.com/recipes/2288-quick-remoulade>`__
 

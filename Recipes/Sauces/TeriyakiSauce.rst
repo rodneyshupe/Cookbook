@@ -1,6 +1,10 @@
 Teriyaki Sauce
 ==============
 
++-----------------------------+------------------------------+--------------------------------+
+| Prep Time: 5 minutes (est.) | Cook Time: 10 minutes (est.) | Yield: about 1 1/2 cups (est.) |
++-----------------------------+------------------------------+--------------------------------+
+
 Ingredients
 -----------
 
@@ -34,6 +38,10 @@ Directions
 Teriyaki Sauce (non sake version)
 =================================
 
++-----------------------------+-----------------------------+-----------------------------+
+| Prep Time: 5 minutes (est.) | Cook Time: 5 minutes (est.) | Yield: about 3/4 cup (est.) |
++-----------------------------+-----------------------------+-----------------------------+
+
 Ingredients
 -----------
 
@@ -43,7 +51,6 @@ Ingredients
 -  1 clove garlic, minced or pressed through garlic press (about 1 teaspoon)
 -  2 tablespoons mirin
 -  1/2 teaspoon cornstarch
-
 
 Directions
 ----------

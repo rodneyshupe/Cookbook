@@ -1,6 +1,10 @@
 All-Purpose Gravy
 =================
 
++------------------------------+------------------------------+----------------------------+
+| Prep Time: 10 minutes (est.) | Cook Time: 35 minutes (est.) | Yield: about 3 cups (est.) |
++------------------------------+------------------------------+----------------------------+
+
 Ingredients
 -----------
 
@@ -17,7 +21,6 @@ Ingredients
 -  1/4 teaspoon dried thyme
 -  5 whole black peppercorns
 -  Salt and ground black pepper
-
 
 Directions
 ----------

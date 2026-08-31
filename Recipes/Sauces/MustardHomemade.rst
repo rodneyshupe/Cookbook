@@ -1,6 +1,10 @@
 Homemade Mustard
 ================
 
++------------------------------+-----------------------------+--------------------------------+
+| Prep Time: 10 minutes (est.) | Total Time: 2-3 days (est.) | Yield: about 1 1/2 cups (est.) |
++------------------------------+-----------------------------+--------------------------------+
+
 Source: `David Lebovitz <https://www.davidlebovitz.com/homemade-mustard-recipe-joe-beef/>`__
 
 Ingredients

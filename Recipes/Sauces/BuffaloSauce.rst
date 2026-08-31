@@ -1,7 +1,9 @@
 Buffalo Sauce
 =============
 
-Yield: Enough sauce for 2 lbs of wings.
++-----------------------------+-----------------------------+----------------------------------+
+| Prep Time: 2 minutes (est.) | Cook Time: 5 minutes (est.) | Yield: enough for 2 lbs of wings |
++-----------------------------+-----------------------------+----------------------------------+
 
 Ingredients
 -----------

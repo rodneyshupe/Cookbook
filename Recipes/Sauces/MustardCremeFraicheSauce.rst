@@ -1,8 +1,11 @@
 Mustard-Creme Fraiche Sauce
 ===========================
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/8059-mustard-creme-fraiche-sauce-for-two>`__
++-----------------------------+-----------------------------+
+| Prep Time: 5 minutes (est.) | Yield: about 1/2 cup (est.) |
++-----------------------------+-----------------------------+
 
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/8059-mustard-creme-fraiche-sauce-for-two>`__
 
 Ingredients
 -----------

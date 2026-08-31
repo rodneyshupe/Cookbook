@@ -1,8 +1,11 @@
 Homemade Dijon Mustard
 ======================
 
-Source: `Food Wishes Blog <https://foodwishes.blogspot.com/2015/01/hello-its-chef-dijon-from-foodwishescom.html>`__
++------------------------------+------------------------------+--------------------------------+--------------------------------+
+| Prep Time: 15 minutes (est.) | Cook Time: 20 minutes (est.) | Total Time: 24-48 hours (est.) | Yield: about 1 1/2 cups (est.) |
++------------------------------+------------------------------+--------------------------------+--------------------------------+
 
+Source: `Food Wishes Blog <https://foodwishes.blogspot.com/2015/01/hello-its-chef-dijon-from-foodwishescom.html>`__
 
 Ingredients
 -----------

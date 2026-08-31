@@ -1,6 +1,10 @@
 Mint Yogurt Sauce
 =================
 
++-----------------------------+-----------------------------+
+| Prep Time: 5 minutes (est.) | Yield: about 3/4 cup (est.) |
++-----------------------------+-----------------------------+
+
 Source: `Fire Escape Griller <https://www.youtube.com/watch?v=SPO9yN4bg20>`__
 
 Ingredients

@@ -1,9 +1,11 @@
 Infinate Sauce
 ==============
 
-Source: `America's Test Kitchen <https://www.americastestkitchen.com/articles/3923-infinity-sauce-the-brown-butter-soy-sauce-you-ll-put-on-everything>`__
++-----------------------------+------------------------------+----------------------+
+| Prep Time: 2 minutes (est.) | Cook Time: 10 minutes (est.) | Yield: 1/4 cup sauce |
++-----------------------------+------------------------------+----------------------+
 
-Yield: Makes 1/4 cup sauce 
+Source: `America's Test Kitchen <https://www.americastestkitchen.com/articles/3923-infinity-sauce-the-brown-butter-soy-sauce-you-ll-put-on-everything>`__
 
 Ingredients
 -----------

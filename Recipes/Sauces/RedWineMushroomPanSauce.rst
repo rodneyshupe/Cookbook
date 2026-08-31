@@ -1,8 +1,11 @@
 Red Wine-Mushroom Pan Sauce
 ===========================
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/3565-red-wine-mushroom-pan-sauce>`__
++------------------------------+------------------------------+---------------------------+
+| Prep Time: 10 minutes (est.) | Cook Time: 15 minutes (est.) | Yield: about 1 cup (est.) |
++------------------------------+------------------------------+---------------------------+
 
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/3565-red-wine-mushroom-pan-sauce>`__
 
 Ingredients
 -----------
@@ -17,7 +20,6 @@ Ingredients
 -  2 tablespoons cold unsalted butter, cut into 4 pieces
 -  1 teaspoon minced fresh thyme leaves
 -  Salt and ground black pepper
-
 
 Directions
 ----------
