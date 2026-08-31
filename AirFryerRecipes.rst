@@ -159,3 +159,50 @@ Air Fryer
 .. include:: includes/recipePageBreak.rst
 
 .. include:: Recipes/Desserts/AirFryerDonuts.rst
+
+.. raw:: pdf
+
+   OddPageBreak tocPage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+***************
+Related Recipes
+***************
+
+.. contents::
+   :local:
+   :depth: 1
+
+
+.. raw:: pdf
+
+   OddPageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+.. include:: Recipes/Barbecue/SpiceRubs/ChickenWingSeasoning.rst
+
+.. include:: includes/recipePageBreak.rst
+
+.. include:: Recipes/Sauces/BuffaloSauce.rst
+
+.. include:: includes/recipePageBreak.rst
+
+.. include:: Recipes/Sauces/GochujangWingSauce.rst
+
+.. include:: includes/recipePageBreak.rst
+
+.. include:: Recipes/Sauces/HoisinWingSauce.rst
+
+.. include:: includes/recipePageBreak.rst
+
+.. include:: Recipes/Sauces/HoneyGarlicWingSauce.rst
+
+.. include:: includes/recipePageBreak.rst
+
+.. include:: Recipes/Sauces/InfinateSauce.rst

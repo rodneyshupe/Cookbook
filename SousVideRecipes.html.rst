@@ -109,3 +109,34 @@ Sous-Vide
 .. include:: includes/recipePageBreak.rst
 
 .. include:: Recipes/Desserts/SaltedCaramelPotDeCreme.rst
+
+.. raw:: pdf
+
+   OddPageBreak tocPage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+***************
+Related Recipes
+***************
+
+.. contents::
+   :local:
+   :depth: 1
+
+
+.. raw:: pdf
+
+   OddPageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+.. include:: Recipes/Sauces/AllPurposeGravy.rst
+
+.. include:: includes/recipePageBreak.rst
+
+.. include:: Recipes/Baking/Breads/PopOvers.rst
