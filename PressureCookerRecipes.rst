@@ -1,5 +1,5 @@
 ..
-   Recipes from the Messy Chef: a collection of recipes containing the favourites of Rodney Shupe and family
+   Pressure Cooker Recipes from the Messy Chef: a collection of pressure cooker recipes from Rodney Shupe and family
 
 .. raw:: pdf
 
@@ -74,11 +74,11 @@
 
 .. class:: title center
 
-Recipes from the Messy Chef
+Pressure Cooker Recipes from the Messy Chef
 
 .. class:: center
 
-a collection of recipes containing the favourites of Rodney Shupe and family
+a collection of pressure cooker recipes from Rodney Shupe and family
 
 |
 
@@ -105,59 +105,65 @@ a collection of recipes containing the favourites of Rodney Shupe and family
 
    SetPageCounter 1 arabic
 
-.. include:: Recipes/Appetizers/Recipes.rst
-.. include:: Recipes/Canapes-Tapas/Recipes.rst
-.. include:: Recipes/Dips-Salsa-Chutneys/Recipes.rst
-.. include:: Recipes/Sauces/Recipes.rst
+.. raw:: pdf
 
-.. include:: Recipes/Salads/Recipes.rst
+   OddPageBreak tocPage
 
-.. include:: Recipes/SoupsAndStews/Recipes.rst
+.. raw:: html
 
-.. include:: Recipes/Sandwiches/Recipes.rst
+   <p style="page-break-before: always"/>
 
-.. include:: Recipes/Entrees/Poultry/Recipes.rst
-.. include:: Recipes/Entrees/Beef/Recipes.rst
-.. include:: Recipes/Entrees/Lamb/Recipes.rst
-.. include:: Recipes/Entrees/Pork/Recipes.rst
-.. include:: Recipes/Entrees/Seafood/Recipes.rst
-.. include:: Recipes/Entrees/Pasta/Recipes.rst
-.. include:: Recipes/Entrees/Veg/Recipes.rst
-.. include:: Recipes/Entrees/Misc/Recipes.rst
+***************
+Pressure Cooker
+***************
 
-.. include:: Recipes/Sides/Recipes.rst
+.. contents::
+   :local:
+   :depth: 1
 
-.. include:: Recipes/SmokedAndCured/Recipes.rst
 
-.. include:: Recipes/Breakfast/Recipes.rst
+.. raw:: pdf
 
-.. include:: Recipes/Baking/Breads/Recipes.rst
-.. include:: Recipes/Baking/Cookies/Recipes.rst
+   OddPageBreak recipePage
 
-.. include:: Recipes/Desserts/Recipes.rst
+.. raw:: html
 
-.. include:: Recipes/PicklesAndPreserves/Recipes.rst
+   <p style="page-break-before: always"/>
 
-.. include:: Recipes/Barbecue/SpiceRubs/Recipes.rst
+.. include:: Recipes/SoupsAndStews/Ramen-Broth.rst
 
-.. include:: Recipes/Barbecue/Sauces/Recipes.rst
+.. include:: includes/recipePageBreak.rst
 
-.. include:: Recipes/Jerky/Recipes.rst
+.. include:: Recipes/Entrees/Pork/Glazed-and-Grilled-Ribs.rst
 
-.. include:: Appendix/A_MealPlans.rst
+.. include:: includes/recipePageBreak.rst
 
-.. include:: Appendix/B_Conversions-Substitutions.rst
+.. include:: Recipes/Entrees/Poultry/ChickenBlackBeanandRiceBurritoBowls.rst
 
-.. include:: Appendix/C_Maintenance.rst
+.. include:: includes/recipePageBreak.rst
 
-.. include:: Appendix/D_MeatAndPoultryTemperatureGuide.rst
+.. include:: Recipes/SoupsAndStews/PressureCookerChili.rst
 
-.. include:: Appendix/E_MeatCuringSalts.rst
+.. include:: includes/recipePageBreak.rst
 
-.. include:: Appendix/F_PantryItems.rst
+.. include:: Recipes/Entrees/Misc/PressureCookerJambalaya.rst
 
-.. include:: Appendix/G_RecipesUnderDevelopment.rst
-.. include:: Appendix/G_RecipesToTry.rst
+.. include:: includes/recipePageBreak.rst
 
-.. This is commented out for now.
-   include:: Appendix/H_UrbanFareRecipes.rst
+.. include:: Recipes/Entrees/Seafood/ShrimpandGrits.rst
+
+.. include:: includes/recipePageBreak.rst
+
+.. include:: Recipes/Entrees/Seafood/SoyGingerSalmon.rst
+
+.. include:: includes/recipePageBreak.rst
+
+.. include:: Recipes/Entrees/Misc/GarlicAsianNoodles.rst
+
+.. include:: includes/recipePageBreak.rst
+
+.. include:: Recipes/Entrees/Misc/DanDanNoodles.rst
+
+.. include:: includes/recipePageBreak.rst
+
+.. include:: Recipes/SoupsAndStews/ChickenAndDumplingSoup.rst

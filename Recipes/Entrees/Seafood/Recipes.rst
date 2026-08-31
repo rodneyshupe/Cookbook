@@ -119,3 +119,9 @@ Entrees - Seafood
 .. include:: ../../../includes/recipePageBreak.rst
 
 .. include:: AhiTunaSteakWithALightTomatoGingerHerbSauce.rst
+.. include:: ../../../includes/recipePageBreak.rst
+.. include:: AirFryerSalmon.rst
+.. include:: ../../../includes/recipePageBreak.rst
+.. include:: ShrimpandGrits.rst
+.. include:: ../../../includes/recipePageBreak.rst
+.. include:: SoyGingerSalmon.rst

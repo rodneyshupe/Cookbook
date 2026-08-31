@@ -27,3 +27,5 @@ Breakfast
 .. include:: ../../includes/recipePageBreak.rst
 
 .. include:: PoachedEggs.rst
+.. include:: ../../includes/recipePageBreak.rst
+.. include:: AirFryerBacon.rst

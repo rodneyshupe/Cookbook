@@ -70,7 +70,7 @@ Entrees - Beef
 
 ----
 
-.. include:: ../../Sous-Vide/Eye-of-Round-Roast.rst
+.. include:: Eye-of-Round-Roast.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
 
@@ -82,7 +82,7 @@ Entrees - Beef
 
 .. include:: ../../../includes/recipePageBreak.rst
 
-.. include:: ../../Sous-Vide/Prime-Rib.rst
+.. include:: Prime-Rib.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
 
@@ -150,11 +150,11 @@ Entrees - Beef
 
 ----
 
-.. include:: ../../Sous-Vide/Brisket.rst
+.. include:: Brisket.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
 
-.. include:: ../../Sous-Vide/French-Beef-Dip.rst
+.. include:: French-Beef-Dip.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
 

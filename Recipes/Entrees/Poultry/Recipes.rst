@@ -215,3 +215,5 @@ Entrees - Poultry
 .. include:: ../../../includes/recipePageBreak.rst
 
 .. include:: MustardChicken.rst
+.. include:: ../../../includes/recipePageBreak.rst
+.. include:: ChickenBlackBeanandRiceBurritoBowls.rst

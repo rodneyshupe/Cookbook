@@ -14,12 +14,6 @@ on:
   workflow_dispatch:
 
 env:
-  WF_PARAM_PDF_SOURCE_RST: RodneyFavoriteRecipes.rst
-  WF_PARAM_HTML_SOURCE_RST: RodneyFavoriteRecipes.html.rst
-  WF_PARAM_PUBLISHED_PDF: RodneyFavoriteRecipes.pdf
-  WF_PARAM_PUBLISHED_HTML: RodneyFavoriteRecipes.html
-  WF_PARAM_PUBLISHED_EPUB: RodneyFavoriteRecipes.epub
-  WF_PARAM_PUBLISHED_WWW: RodneyFavoriteRecipes.www.tar
   WF_REVISION_MAJOR_NUMBER_FILE: revnum_major.txt
   WF_REVISION_MINOR_NUMBER_FILE: revnum_minor.txt
 
@@ -117,6 +111,14 @@ jobs:
 
     runs-on: ubuntu-latest
 
+    strategy:
+      matrix:
+        include:
+          - book: RodneyFavoriteRecipes
+          - book: AirFryerRecipes
+          - book: PressureCookerRecipes
+          - book: SousVideRecipes
+
     steps:
 
     - uses: actions/checkout@v2
@@ -144,7 +146,7 @@ jobs:
     - name: Build pdf
       run: |
         rm -fR *.build_temp
-        rst2pdf ${{ env.WF_PARAM_PDF_SOURCE_RST }} \
+        rst2pdf ${{ matrix.book }}.rst \
           --break-level=1 \
           --section-header-depth=1 \
           --fit-background-mode=scale \
@@ -152,7 +154,7 @@ jobs:
           --fit-literal-mode=shrink \
           --repeat-table-rows \
           --stylesheets=Cookbook.style \
-          --output="${{ env.WF_PARAM_PUBLISHED_PDF }}" \
+          --output="${{ matrix.book }}.pdf" \
           --strip-elements-with-class=handout \
           --extension-module=preprocess
         rm -fR *.build_temp
@@ -160,15 +162,23 @@ jobs:
     - name: Save Published pdf files
       uses: actions/upload-artifact@v4
       with:
-        name: published-files-pdf
+        name: published-files-pdf-${{ matrix.book }}
         path: |
-          ${{ env.WF_PARAM_PUBLISHED_PDF }}
+          ${{ matrix.book }}.pdf
         if-no-files-found: error
 
   build_html:
     needs: build_substitution
 
     runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        include:
+          - book: RodneyFavoriteRecipes
+          - book: AirFryerRecipes
+          - book: PressureCookerRecipes
+          - book: SousVideRecipes
 
     steps:
 
@@ -200,22 +210,38 @@ jobs:
             --stylesheet-inline=Cookbook.css \
             --strip-elements-with-class=handout \
             --strip-comments \
-            ${{ env.WF_PARAM_HTML_SOURCE_RST  }} \
-            "${{ env.WF_PARAM_PUBLISHED_HTML }}"
+            ${{ matrix.book }}.html.rst \
+            "${{ matrix.book }}.html"
         rm -fR *.build_temp
 
     - name: Save Published html files
       uses: actions/upload-artifact@v4
       with:
-        name: published-files-html
+        name: published-files-html-${{ matrix.book }}
         path: |
-          ${{ env.WF_PARAM_PUBLISHED_HTML }}
+          ${{ matrix.book }}.html
         if-no-files-found: error
 
   build_epub:
     needs: build_html
 
     runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        include:
+          - book: RodneyFavoriteRecipes
+            title: "Recipes From the Messy Chef"
+            comments: "A collection of recipes containing the favorites of Rodney Shupe and family."
+          - book: AirFryerRecipes
+            title: "Air Fryer Recipes From the Messy Chef"
+            comments: "A collection of air fryer recipes from Rodney Shupe and family."
+          - book: PressureCookerRecipes
+            title: "Pressure Cooker Recipes From the Messy Chef"
+            comments: "A collection of pressure cooker recipes from Rodney Shupe and family."
+          - book: SousVideRecipes
+            title: "Sous-Vide Recipes From the Messy Chef"
+            comments: "A collection of sous-vide recipes from Rodney Shupe and family."
 
     steps:
 
@@ -228,16 +254,16 @@ jobs:
     - name: Download latest html output files.
       uses: actions/download-artifact@v4
       with:
-        name: published-files-html
+        name: published-files-html-${{ matrix.book }}
 
     - name: Build epub
       run: |
-        ebook-convert "${{ env.WF_PARAM_PUBLISHED_HTML }}" "${{ env.WF_PARAM_PUBLISHED_EPUB }}" \
-          --title "Recipes From the Messy Chef" \
+        ebook-convert "${{ matrix.book }}.html" "${{ matrix.book }}.epub" \
+          --title "${{ matrix.title }}" \
           --authors "Rodney Shupe" \
           --author-sort "Shupe Rodney" \
           --language English \
-          --comments "A collection of recipes containing the favorites of Rodney Shupe and family." \
+          --comments "${{ matrix.comments }}" \
           --tags Cookbook,Cooking,Recipes \
           --cover Cover.png \
           --max-toc-links 29 \
@@ -246,14 +272,23 @@ jobs:
     - name: Save Published epub files
       uses: actions/upload-artifact@v4
       with:
-        name: published-files-epub
+        name: published-files-epub-${{ matrix.book }}
         path: |
-          ${{ env.WF_PARAM_PUBLISHED_EPUB }}
+          ${{ matrix.book }}.epub
         if-no-files-found: error
 
   build_website:
     needs: build_html
     runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        include:
+          - book: RodneyFavoriteRecipes
+          - book: AirFryerRecipes
+          - book: PressureCookerRecipes
+          - book: SousVideRecipes
+
     steps:
 
     - name: Setup Environment
@@ -263,18 +298,16 @@ jobs:
 
     - name: Set some Environment Variables.
       run: |
-        PUBLISHED_FILE="${{ env.WF_PARAM_PUBLISHED_HTML }}"
-        #echo "OUT_DIR=www/${PUBLISHED_FILE%.html}" >> $GITHUB_ENV
         echo "OUT_DIR=www" >> $GITHUB_ENV
 
     - name: Download latest html output files.
       uses: actions/download-artifact@v4
       with:
-        name: published-files-html
+        name: published-files-html-${{ matrix.book }}
 
     - name: Strip TOC
       run: |
-        cat "${{ env.WF_PARAM_PUBLISHED_HTML }}" | hxremove 'aside' > "Stripped_${{ env.WF_PARAM_PUBLISHED_HTML }}"
+        cat "${{ matrix.book }}.html" | hxremove 'aside' > "Stripped_${{ matrix.book }}.html"
 
     - name: Split Published HTML into multiple files.
       run: |
@@ -287,7 +320,7 @@ jobs:
             --toclevels 2 \
             --toctitle "Contents" \
             --quiet \
-            "Stripped_${{ env.WF_PARAM_PUBLISHED_HTML }}"
+            "Stripped_${{ matrix.book }}.html"
 
     - name: Breakout individual directories.
       run: |
@@ -328,7 +361,6 @@ jobs:
                     --toctitle "${TITLE}" \
                     --quiet \
                     temp.html
-                #rm ${DIR_NAME}/${HTML_FILE}
                 rm ${HTML_FILE}
                 sed --in-place "s/${HREF}/${DIR_NAME}\/index.html/" index.html
             else
@@ -339,55 +371,64 @@ jobs:
 
     - name: Bundle into tar file.
       run: |
-        tar --create --file="${{ env.WF_PARAM_PUBLISHED_WWW }}" www
+        tar --create --file="${{ matrix.book }}.www.tar" www
 
     - name: Save Published www files
       uses: actions/upload-artifact@v4
       with:
-        name: published-files-www
+        name: published-files-www-${{ matrix.book }}
         path: |
-          ${{ env.WF_PARAM_PUBLISHED_WWW }}
+          ${{ matrix.book }}.www.tar
         if-no-files-found: error
 
   upload_website:
     needs: build_website
     runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        include:
+          - book: RodneyFavoriteRecipes
+          - book: AirFryerRecipes
+          - book: PressureCookerRecipes
+          - book: SousVideRecipes
+
     steps:
 
     - name: Download latest www output files.
       uses: actions/download-artifact@v4
       with:
-        name: published-files-www
+        name: published-files-www-${{ matrix.book }}
 
     - name: Push Website to GDrive.
       uses: wei/rclone@v1
       env:
         RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
       with:
-        args: copy ${{ env.WF_PARAM_PUBLISHED_WWW }} gdrive:Cooking
+        args: copy ${{ matrix.book }}.www.tar gdrive:Cooking
 
   upload_release:
     needs: [build_pdf, build_epub, build_website]
     runs-on: ubuntu-latest
     steps:
 
-    - name: Download latest output pdf files.
-      id: download-pdf
+    - name: Download all published pdf files.
       uses: actions/download-artifact@v4
       with:
-        name: published-files-pdf
+        pattern: published-files-pdf-*
+        merge-multiple: true
 
-    - name: Download latest output epub files.
-      id: download-epub
+    - name: Download all published epub files.
       uses: actions/download-artifact@v4
       with:
-        name: published-files-epub
+        pattern: published-files-epub-*
+        merge-multiple: true
 
-    - name: Download latest output www files.
-      id: download-www
+    - name: Download all published www files.
       uses: actions/download-artifact@v4
       with:
-        name: published-files-www
+        pattern: published-files-www-*
+        merge-multiple: true
 
     - name: Download Revision Number File artifacts
       id: getRevNums
@@ -398,112 +439,82 @@ jobs:
     - name: Build new tag version
       run: |
         echo "PUBLISHED_DOCUMENT_VERSION=$(cat ${{ env.WF_REVISION_MAJOR_NUMBER_FILE }}).$(cat ${{ env.WF_REVISION_MINOR_NUMBER_FILE }})" >> $GITHUB_ENV
-        echo "Create Tag - ${{ env.PUBLISHED_DOCUMENT_VERSION }}"
 
-    #- name: Checkout code
-    #  uses: actions/checkout@v2
+    - name: Debug - List downloaded files
+      run: ls -alR .
 
-    - name: Create Release
-      id: create_release
-      uses: actions/create-release@v1
+    - name: Create Release and upload assets
+      uses: softprops/action-gh-release@v2
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         tag_name: v${{ env.PUBLISHED_DOCUMENT_VERSION }}
-        release_name: v${{ env.PUBLISHED_DOCUMENT_VERSION }}
+        name: v${{ env.PUBLISHED_DOCUMENT_VERSION }}
         body: |
           Version: v${{ env.PUBLISHED_DOCUMENT_VERSION }}
         draft: false
         prerelease: false
-  
-    - name: Check pdf Files
-      run: ls -alR ${{steps.download-pdf.outputs.download-path}}/
-
-    - name: Upload Release Asset PDF
-      id: upload-release-asset-pdf
-      uses: actions/upload-release-asset@v1 # TODO: Needs a new version or alternate way of doing this due to deprication of `set-output`
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        upload_url: ${{ steps.create_release.outputs.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps 
-        asset_path: ${{steps.download-pdf.outputs.download-path}}/${{ env.WF_PARAM_PUBLISHED_PDF }}
-        asset_name: ${{ env.WF_PARAM_PUBLISHED_PDF }}
-        asset_content_type: application/pdf
-
-    - name: Check www Files
-      run: ls -alR ${{steps.download-www.outputs.download-path}}/
-
-    - name: Upload Release Asset WWW
-      id: upload-release-asset-www
-      uses: actions/upload-release-asset@v1 # TODO: Needs a new version or alternate way of doing this due to deprication of `set-output`
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        upload_url: ${{ steps.create_release.outputs.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps 
-        asset_path: ${{steps.download-www.outputs.download-path}}/${{ env.WF_PARAM_PUBLISHED_WWW }}
-        asset_name: ${{ env.WF_PARAM_PUBLISHED_WWW }}
-        asset_content_type: application/tar
-  
-    - name: Check epub Files
-      run: ls -alR ${{steps.download-pdf.outputs.download-path}}/
-
-    - name: Upload Release Asset EPUB
-      id: upload-release-asset-epub
-      uses: actions/upload-release-asset@v1 # TODO: Needs a new version or alternate way of doing this due to deprication of `set-output`
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        upload_url: ${{ steps.create_release.outputs.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps 
-        asset_path: ${{steps.download-epub.outputs.download-path}}/${{ env.WF_PARAM_PUBLISHED_EPUB }}
-        asset_name: ${{ env.WF_PARAM_PUBLISHED_EPUB }}
-        asset_content_type: application/epub
-  
-    #- name: Tag and Release
-    #  uses: jasondavis303/tag-and-release-and-upload@v1.2.0
-    #  with:
-    #    github-token: ${{ secrets.GITHUB_TOKEN }}
-    #    version: v${{ env.PUBLISHED_DOCUMENT_VERSION }}
-    #    assets: '[ "${{ env.WF_PARAM_PUBLISHED_PDF }}", "${{ env.WF_PARAM_PUBLISHED_EPUB }}", "${{ env.WF_PARAM_PUBLISHED_WWW }}" ]'
-    #    overwrite: false
+        files: |
+          *.pdf
+          *.epub
+          *.www.tar
 
   publish_to_google:
     needs: [build_pdf, build_epub]
     runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        include:
+          - book: RodneyFavoriteRecipes
+          - book: AirFryerRecipes
+          - book: PressureCookerRecipes
+          - book: SousVideRecipes
+
     steps:
 
     - name: Download latest output pdf files.
       uses: actions/download-artifact@v4
       with:
-        name: published-files-pdf
+        name: published-files-pdf-${{ matrix.book }}
 
     - name: Push PDF to GDrive.
       uses: wei/rclone@v1
       env:
         RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
       with:
-        args: copy ${{ env.WF_PARAM_PUBLISHED_PDF }} gdrive:Cooking
+        args: copy ${{ matrix.book }}.pdf gdrive:Cooking
 
     - name: Download latest output epub files.
       uses: actions/download-artifact@v4
       with:
-        name: published-files-epub
+        name: published-files-epub-${{ matrix.book }}
 
     - name: Push EPUB to GDrive.
       uses: wei/rclone@v1
       env:
         RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
       with:
-        args: copy ${{ env.WF_PARAM_PUBLISHED_EPUB }} gdrive:Cooking
+        args: copy ${{ matrix.book }}.epub gdrive:Cooking
 
   publish_to_dropbox:
     needs: [build_epub]
     runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        include:
+          - book: RodneyFavoriteRecipes
+          - book: AirFryerRecipes
+          - book: PressureCookerRecipes
+          - book: SousVideRecipes
+
     steps:
 
     - name: Download latest output epub files.
       uses: actions/download-artifact@v4
       with:
-        name: published-files-epub
+        name: published-files-epub-${{ matrix.book }}
 
     # Information on setup: https://github.com/Lewuathe/dropbox-github-action
     # Dropbox App: eBook-Upload-Permissionn - https://www.dropbox.com/developers/apps/info/1ml0js3umjgqse0#settings
@@ -513,37 +524,6 @@ jobs:
         dropbox-app-key: ${{ secrets.DROPBOX_APP_KEY }}
         dropbox-app-secret: ${{ secrets.DROPBOX_APP_SECRET }}
         dropbox-refresh-token: ${{ secrets.DROPBOX_REFRESH_TOKEN }}
-        source-path: ${{ env.WF_PARAM_PUBLISHED_EPUB }}
+        source-path: ${{ matrix.book }}.epub
         target-path: "/Apps/Rakuten Kobo/"
         write-mode: overwrite
-
-  #backup-via-ssh:
-  #  needs: [build_pdf, build_epub, build_website]
-  #  runs-on: ubuntu-latest
-  #
-  #  steps:
-  #  - name: Download latest output epub files.
-  #    uses: actions/download-artifact@v4
-  #    with:
-  #      name: published-files-epub
-  #
-  #  - name: Download latest output pdf files.
-  #    uses: actions/download-artifact@v4
-  #    with:
-  #      name: published-files-pdf
-  #
-  #  - name: Download latest output www files.
-  #    uses: actions/download-artifact@v4
-  #    with:
-  #      name: published-files-www
-  #
-  #  - name: Upload via SSH
-  #    uses: appleboy/scp-action@master
-  #    with:
-  #      host: ${{ secrets.SSH_VPS_HOST }}
-  #      username: ${{ secrets.SSH_VPS_USERNAME }}
-  #      port: ${{ secrets.SSH_VPS_PORT }}
-  #      key: ${{ secrets.SSH_VPS_KEY }}
-  #      source: "*"
-  #      target: "Cooking"
-  #      overwrite: true

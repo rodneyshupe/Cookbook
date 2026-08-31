@@ -22,23 +22,23 @@ Desserts
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: ../Sous-Vide/Creme-Brulee.rst
+.. include:: Creme-Brulee.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: ../Sous-Vide/PotDeCreme.rst
+.. include:: PotDeCreme.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: ../Sous-Vide/LemonPotDeCreme.rst
+.. include:: LemonPotDeCreme.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: ../Sous-Vide/ChocolatePotDeCreme.rst
+.. include:: ChocolatePotDeCreme.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: ../Sous-Vide/SaltedCaramelPotDeCreme.rst
+.. include:: SaltedCaramelPotDeCreme.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
@@ -138,3 +138,5 @@ Desserts
 .. include:: ChocolateWhippingCream.rst
 
 .. include:: ../../includes/recipePageBreak.rst
+.. include:: ../../includes/recipePageBreak.rst
+.. include:: AirFryerDonuts.rst

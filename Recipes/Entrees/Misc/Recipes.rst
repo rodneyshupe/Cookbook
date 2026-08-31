@@ -100,3 +100,9 @@ Entrees - Misc
 .. include:: ../../../includes/recipePageBreak.rst
 
 .. include:: GreekOnePanChickenSausage.rst
+.. include:: ../../../includes/recipePageBreak.rst
+.. include:: GarlicAsianNoodles.rst
+.. include:: ../../../includes/recipePageBreak.rst
+.. include:: DanDanNoodles.rst
+.. include:: ../../../includes/recipePageBreak.rst
+.. include:: PressureCookerJambalaya.rst
