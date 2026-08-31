@@ -9,8 +9,8 @@ Ingredients
 -----------
 
 -  1/2 cup Worcestershire Sauce
--  1/2 cup Soy Sauce (Quality is important here! Don’t use “soy
-   flavored.” It must be brewed!)
+-  1/2 cup Soy Sauce (Quality is important here! Don't use "soy
+   flavored." It must be brewed!)
 -  1/3 cup Kentucky Bourbon (may substitute with Brandy or Sherry)
 -  1/4 cup Ketchup
 -  2 teaspoons Liquid Smoke
@@ -22,6 +22,6 @@ Ingredients
 -  1 teaspoon Paprika
 -  1 teaspoon Dry Mustard
 -  1/2 teaspoon Red Pepper Flakes
--  A pinch - Ground Cayenne Pepper (Unless you like it really hot, don’t
+-  A pinch - Ground Cayenne Pepper (Unless you like it really hot, don't
    use more!)
 

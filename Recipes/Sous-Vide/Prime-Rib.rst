@@ -2,7 +2,7 @@ Sous Vide Eye of Prime Rib
 ==========================
 
 +--------------------------+------------------------------------------------+----------+-------------+
-| Prep Time: 1 to 12 hours | Cook Time: 6 hours + 30 minutes finishing time | Yield: 6 | Temp: 132°F |
+| Prep Time: 1 to 12 hours | Cook Time: 6 hours + 30 minutes finishing time | Yield: 6 | Temp: 132F |
 +--------------------------+------------------------------------------------+----------+-------------+
 
 
@@ -25,10 +25,10 @@ Directions
 
 1. Generously season the beef with kosher salt and place in the refrigerator
    for at least one hour (and up to 12 hours).
-2. Set Anova Sous Vide Precision Cooker to 132°F (55.5°C).
+2. Set Anova Sous Vide Precision Cooker to 132F (55.5C).
 3. Place beef in a large Ziplock or vacuum bag, seal, and place in the water
    bath. Set the timer for six hours.
-4. Preheat the oven to 425°F / 218°C. Remove the beef from the bag, reserving
+4. Preheat the oven to 425F / 218C. Remove the beef from the bag, reserving
    the cooking liquid, and pat dry.
 5. Whisk together the peppercorns, celery seeds, garlic powder, and rosemary.
 6. Brush top and sides of roast with egg white, season with salt, and coat

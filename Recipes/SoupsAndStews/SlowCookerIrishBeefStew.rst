@@ -26,16 +26,16 @@ Ingredients
 - 1 sprig rosemary OR 1/4 teaspoon dried
 - 1 bay leaf skip if you don't have
 - 2 tablespoons cornstarch stirred into 3 tablespoon cool water to make a
-  slurry (use more cornstarch for an extra-thick gravy, but don’t overdo it
-  – it will thicken more as it cools slightly)
+  slurry (use more cornstarch for an extra-thick gravy, but don't overdo it
+  - it will thicken more as it cools slightly)
 
 Directions
 ----------
 
 1. Brown meat: Heat oil in large skillet over medium-high heat. Add beef and
    brown; remove and add to 4-6 quart slow cooker.
-2. Sauté onions: Add onions to hot skillet and sauté over medium heat until
-   softened. Pour in about ½ cup of the beef broth, scraping any browned
+2. Saute onions: Add onions to hot skillet and saute over medium heat until
+   softened. Pour in about 1/2 cup of the beef broth, scraping any browned
    bits off the bottom of the pan (see notes for using dark beer in this
    step). Take off the heat and carefully pour into slow cooker over meat.
 3. Cook stew: Place potatoes, carrots and celery in slow cooker. Whisk

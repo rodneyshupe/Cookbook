@@ -17,14 +17,14 @@ Ingredients
 Directions
 ----------
 
-1. Adjust oven rack to middle position and heat oven to 275°F. Pat
+1. Adjust oven rack to middle position and heat oven to 275F. Pat
    steaks dry with paper towel. Cut each steak in half vertically to
    create four 8-ounce steaks. Season entire surface of steaks liberally
    with salt and pepper; gently press sides of steaks until uniform 1
    1/2 inches thick. Place steaks on wire rack set in rimmed baking
    sheet; transfer baking sheet to oven. Cook until instant-read
-   thermometer inserted in center of steak registers 90 to 95°F
-   for rare to medium-rare, 20 to 25 minutes, or 100 to 105°F for
+   thermometer inserted in center of steak registers 90 to 95F
+   for rare to medium-rare, 20 to 25 minutes, or 100 to 105F for
    medium, 25 to 30 minutes.
 2. Heat oil in 12-inch heavy-bottomed skillet over high heat until
    smoking. Place steaks in skillet and sear steaks until well-browned

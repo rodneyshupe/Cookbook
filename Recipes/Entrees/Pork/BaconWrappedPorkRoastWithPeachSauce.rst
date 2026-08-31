@@ -28,7 +28,7 @@ Directions
    250 degrees. Line rimmed baking sheet with aluminum foil and spray with
    vegetable oil spray. Unwrap roast and pat dry with paper towels. Sprinkle
    with herbes de Provence and 1 teaspoon pepper.
-4. Arrange bacon slices on cutting board parallel to counter’s edge,
+4. Arrange bacon slices on cutting board parallel to counter's edge,
    overlapping them slightly to match length of roast. Place roast in center
    of bacon, perpendicular to slices. Bring ends of bacon up and around sides
    of roast, overlapping ends of slices as needed.

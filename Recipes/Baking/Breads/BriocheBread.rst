@@ -11,7 +11,7 @@ Ingredients
 The sponge
 ^^^^^^^^^^
 
-- 1/3 cup whole milk, warm (100°F)
+- 1/3 cup whole milk, warm (100F)
 - 1 1/8 teaspoon active dry yeast
 - 1 pinch sugar
 - 1 1/4 cup bread flour, (unsifted)
@@ -33,4 +33,4 @@ Directions
 3. Pour the flour, sugar and salt into a 14 cup capacity food processor bowl, fitted with the steel blade. Pulse briefly to blend ingredients. Pour sponge over dry ingredients and pulse 3-5 times to incorporate yeast mixture. Put the eggs on top of dry ingredients and process for 15-20 seconds. Continue to process until most of the dough wraps around the blade. Remove the dough. Turn out the two onto a lightly floured work surface and gently knead until a smooth, cohesive dough forms, about 1 minute.
 4. Put the dough into a large bowl, cover with plastic wrap. Cover bowl securely with another piece of plastic wrap. Let rise in a cool place until doubled in volume, about 2- 2 1/2 hours. Gently punch down and place in a clean bowl, place a piece of plastic wrap directly on the dough, cover bowl securely with plastic wrap, and refrigerate over night.
 5. To form brioche loaves; lightly grease two pans and form into loaves.
-6. Cover the pan with plastic wrap, and leave it at room temp. for 3 hours. Preheat the oven to 375°F. Beat the egg with a tsp. of water. Brush the top of the loaves. Bake for 35 minutes or until golden. Remove and cool on a wire rack.
+6. Cover the pan with plastic wrap, and leave it at room temp. for 3 hours. Preheat the oven to 375F. Beat the egg with a tsp. of water. Brush the top of the loaves. Bake for 35 minutes or until golden. Remove and cool on a wire rack.

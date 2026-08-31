@@ -11,11 +11,11 @@ Ingredients
 -----------
 - 6 garlic cloves, minced
 - 2 tablespoons soy sauce
-- 1 teaspoon grated lime zest plus ¼ cup juice (2 limes)
+- 1 teaspoon grated lime zest plus 1/4 cup juice (2 limes)
 - 1 teaspoon ground cumin
 - 1 teaspoon dried oregano
 - Salt
-- 1/2 teaspoon grated orange zest plus ½ cup juice
+- 1/2 teaspoon grated orange zest plus 1/2 cup juice
 - 1/4 teaspoon red pepper flakes
 - 2 pounds (900g) skirt steak, trimmed and cut with grain into 6- to 8-inch-long steaks
 - 2 tablespoons extra-virgin olive oil

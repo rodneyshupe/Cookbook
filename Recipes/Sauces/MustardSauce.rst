@@ -19,7 +19,7 @@ Ingredients
 Directions
 ----------
 
-1. In a small blender, purée the Dijon, olive oil, whole grain mustard,
+1. In a small blender, puree the Dijon, olive oil, whole grain mustard,
    vinegar, chili flakes, salt, and the lemon juice until smooth. Season
    with salt and pepper and refrigerate until ready to use.
 

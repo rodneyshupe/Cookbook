@@ -41,5 +41,5 @@ Directions
 Notes
 -----
 
-In a pinch you can substitute 3 19oz cans of black beans and don’t add
+In a pinch you can substitute 3 19oz cans of black beans and don't add
 the water. Still simmer with the green onion to infuse the flavour.

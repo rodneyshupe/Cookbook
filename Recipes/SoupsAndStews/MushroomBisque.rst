@@ -46,11 +46,11 @@ Directions
 3. Discard thyme sprig. Working in batches, process soup in blender
    until very smooth, 1 1/2 to 2 minutes per batch. Return soup to
    now-empty pot. (Soup can be refrigerated for up to 2 days. Warm to
-   150°F before proceeding with recipe.)
+   150F before proceeding with recipe.)
 4. Whisk cream and egg yolks together in medium bowl. Stirring slowly
    and constantly, add 2 cups soup to cream mixture. Stirring
    constantly, slowly pour cream mixture into simmering soup. Heat
-   gently, stirring constantly, until soup registers 165°F (do not
+   gently, stirring constantly, until soup registers 165F (do not
    overheat). Stir in lemon juice and season with salt and pepper to
    taste. Serve immediately, garnishing each serving with 1 teaspoon
    extra cream and sprinkle of chives.

@@ -2,7 +2,7 @@ Lemon Pot de Creme
 ==================
 
 +-----------------------+-------------------+-------------------------+-------------+
-| Prep Time: 10 minutes | Cook Time: 1 hour | Total Time: 1 1/2 hours | Temp: 175°F |
+| Prep Time: 10 minutes | Cook Time: 1 hour | Total Time: 1 1/2 hours | Temp: 175F |
 +-----------------------+-------------------+-------------------------+-------------+
 
 Source: `Glenn & Friends <https://www.youtube.com/watch?v=_aljez_GEhY>`__
@@ -31,7 +31,7 @@ Directions
 4. Slowly whisk the hot cream into the yolks; stir in the lemon syrup and
    strain through a fine sieve.
 5. Allow to rest for 20 minutes so the bubbles will dissipate.  Pre-heat your
-   sous-vide bath to 175ºF
+   sous-vide bath to 175F
 6. Skim any foam from the surface and divide the mixture among 6 sealable 4oz
    Mason jars. Cook sous vide for 1 hour
 7. Remove the jars and place in an ice bath to chill.

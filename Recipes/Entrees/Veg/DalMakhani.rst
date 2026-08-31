@@ -32,7 +32,7 @@ Directions
    a few hours or overnight for faster cooking, but it's not essential with
    red lentils.
 2. In a pressure cooker or Instant Pot, heat the butter or ghee over medium
-   heat. Add the garlic, ginger, and diced onion. Sauté until the onion
+   heat. Add the garlic, ginger, and diced onion. Saute until the onion
    becomes translucent, about 5 minutes.
 3. Stir in the red chili powder, garam masala, coriander, cumin, and
    turmeric. Cook for another minute, allowing the spices to release their

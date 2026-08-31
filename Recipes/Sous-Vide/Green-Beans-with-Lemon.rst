@@ -3,7 +3,7 @@ Green Beans with Lemon
 
 +-----------------+--------------+--------------+-----------+---------+
 | Prep Time: 5    | Cook: 90     | Total: 95    | Servings: | Temp:   |
-| minutes         | minutes      | minutes      | 4-6       | 180°F   |
+| minutes         | minutes      | minutes      | 4-6       | 180F   |
 +-----------------+--------------+--------------+-----------+---------+
 
 
@@ -21,7 +21,7 @@ Ingredients
 Directions
 ----------
 
-1. Preheat sous-vide cooker to 180°F.
+1. Preheat sous-vide cooker to 180F.
 2. Toss green beans with oil and lemon zest.
 3. Dump in a food safe bag and vacuum seal it.
 4. Place green beans in the water bath and cook for 90 minutes.

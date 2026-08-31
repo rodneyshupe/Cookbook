@@ -22,7 +22,7 @@ Ingredients
 Directions
 ----------
 
-1. Preheat oven to 350°F. Prepare loaf pan by lining with parchment paper.
+1. Preheat oven to 350F. Prepare loaf pan by lining with parchment paper.
 2. Place all ingredients into a food processor and puree.
 3. Bake for 30 minutes to 1 hour until a toothpick can be inserted and 
    removed dry. Let cool and serve.

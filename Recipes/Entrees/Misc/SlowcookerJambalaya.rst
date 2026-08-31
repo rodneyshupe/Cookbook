@@ -47,5 +47,5 @@ Directions
 
 Variations
 ----------
-- **Seafood Fiesta:** Swap the chicken for a mix of your favorite seafood – think mussels, clams, and crab.
+- **Seafood Fiesta:** Swap the chicken for a mix of your favorite seafood - think mussels, clams, and crab.
 - **Vegetarian Twist:** Skip the meat and load up on veggies like bell peppers, okra, and tomatoes.

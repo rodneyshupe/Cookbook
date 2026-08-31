@@ -37,7 +37,7 @@ Directions
 ----------
 
 1. FOR THe TOPPING: Adjust oven rack to middle position and heat oven to
-   450°F. Combine flour, pecans, oats, brown sugar, granulated sugar,
+   450F. Combine flour, pecans, oats, brown sugar, granulated sugar,
    cinnamon, and salt in medium bowl. Stir in butter until mixture is
    thoroughly moistened and crumbly. Set aside while preparing fruit
    filling.

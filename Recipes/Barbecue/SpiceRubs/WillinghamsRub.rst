@@ -1,4 +1,4 @@
-Willingham’s Rub
+Willingham's Rub
 ================
 
 +----------------------+-------------------------+
@@ -14,7 +14,7 @@ Ingredients
 -  4 tablespoon cumin
 -  4 tablespoon thyme
 -  4 tablespoon garlic powder
--  4 tablespoon black pepper – freshly ground
+-  4 tablespoon black pepper - freshly ground
 -  2 tablespoon cayenne pepper
 -  2 tablespoon salt
 -  2 tablespoon curry powder

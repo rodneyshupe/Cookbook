@@ -37,9 +37,9 @@ Directions
 ----------
 1. SAUCE: Heat a tablespoon of oil in a large skillet over medium high
    heat, add the peppers & onions and cook over until softened, about
-   5 minutes – remove to a bowl
+   5 minutes - remove to a bowl
 2. Turn skillet down to medium and add the vinegar, ketchup, soy, sesame
-   oil, white & brown sugar and garlic – stir well to combine – let come to
+   oil, white & brown sugar and garlic - stir well to combine - let come to
    a low simmer
 3. Combine 1 tablespoon cornstarch and 2 tablespoons water, mix well and
    add about 1/2 into the sweet and sauce

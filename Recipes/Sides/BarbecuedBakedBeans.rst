@@ -24,7 +24,7 @@ Directions
 ----------
 
 1. Adjust an oven rack to the lower-middle position and heat the oven to
-   300°F. Cook the bacon in a large Dutch oven over medium heat until
+   300F. Cook the bacon in a large Dutch oven over medium heat until
    beginning to crisp, about 5 minutes. Stir in the onion and cook until
    the onion is softened, about 5 minutes.
 2. Stir in the garlic and cook until fragrant, about 15 seconds. Stir in

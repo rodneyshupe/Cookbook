@@ -42,18 +42,18 @@ Directions
    softened 4-5 minutes
 2. Add the garlic and mix in until fragrant, about 45 seconds
 3. Add the celery seed, red pepper flakes, smoked paprika and let it infuse
-   in the oil about a minute, then stir in the tomato paste – mix in well
+   in the oil about a minute, then stir in the tomato paste - mix in well
 4. Add the wine, bring to a simmer and cook 2-3 minutes or until wine is
    mostly evaporated
 5. Now you can add the tomatoes, clam juice and Clamato juice, mix well,
-   return to a simmer and cover for 10 – 15 minutes
+   return to a simmer and cover for 10 - 15 minutes
 6. Add salt and pepper to taste, reduce heat to low then add the fish, and
    gently dunk into the broth - cover for 2 minutes
-7. Now add everything else giving them a gentle push into the broth – you
-   don’t want to break the fish
+7. Now add everything else giving them a gentle push into the broth - you
+   don't want to break the fish
 8. Bring to a simmer, cover and let poach for 3-4 mins or until the mussels
-   are fully opened and the rest of the fish is opaque – if you need more
+   are fully opened and the rest of the fish is opaque - if you need more
    time, just cover it up again
-9. When ready, gently ladle into a bowl (discarding any mussels that didn’t
+9. When ready, gently ladle into a bowl (discarding any mussels that didn't
    open) and garnish with the parsley & green onion
 10. Serve with the  bread

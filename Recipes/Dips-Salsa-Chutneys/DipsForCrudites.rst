@@ -1,4 +1,4 @@
-Dips for Crudités
+Dips for Crudites
 =================
 
 +-----------------------+-------------------------------+------------------------+
@@ -9,7 +9,7 @@ Each combination makes 1 1/2 cups
 
 - Combine all ingredients in medium bowl until smooth and creamy. Transfer
   dip to serving bowl, cover with plastic wrap, and refrigerate until flavors
-  are blended, at least 1 hour; serve cold with crudités. (Can be
+  are blended, at least 1 hour; serve cold with crudites. (Can be
   refrigerated in airtight container for up to 2 days.)
 
 Caesar Dip with Parmesan and Anchovies

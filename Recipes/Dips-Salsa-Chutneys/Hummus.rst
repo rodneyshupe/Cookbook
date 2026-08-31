@@ -127,7 +127,7 @@ Roasted Garlic Hummus
 
 -  Before Step 1, remove outer papery skins from 2 heads garlic; cut top
    quarters off heads and discard. Wrap garlic in foil and roast in
-   350°F oven until browned and very tender, about 1 hour. Meanwhile,
+   350F oven until browned and very tender, about 1 hour. Meanwhile,
    heat olive oil and sliced garlic in small skillet over medium-low
    heat. Cook, stirring occasionally, until golden brown, about 15
    minutes. Using slotted spoon, transfer sliced garlic to paper

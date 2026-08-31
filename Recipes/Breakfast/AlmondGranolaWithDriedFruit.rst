@@ -22,7 +22,7 @@ Ingredients
 Directions
 ----------
 
-1. Adjust oven rack to upper-middle position and heat oven to 325°F.
+1. Adjust oven rack to upper-middle position and heat oven to 325F.
    Line rimmed baking sheet with parchment paper.
 2. Whisk maple syrup, brown sugar, vanilla, and salt in large bowl.
    Whisk in oil. Fold in oats and almonds until thoroughly coated.

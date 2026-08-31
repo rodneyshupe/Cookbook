@@ -15,7 +15,7 @@ Ingredients
 
 Directions
 ----------
-1. Adjust oven rack to middle position and heat oven to 500°F. Meanwhile,
+1. Adjust oven rack to middle position and heat oven to 500F. Meanwhile,
    toast garlic cloves in small skillet over medium heat, shaking pan
    occasionally, until fragrant and color of cloves deepens slightly, about
    8 minutes. When cool enough to handle, skin and mince cloves (you should

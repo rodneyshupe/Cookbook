@@ -66,7 +66,7 @@ Directions
    with dish towel, and let rise again, 40 minutes to 1 hour more.
 7. Grease basket of air fryer with cooking spray and add 2 doughnuts and 2
    doughnut holes at a time, making sure doughnuts don't touch. Cook at
-   375° for 4 minutes, until deeply golden. Place on cooling rack and
+   375 for 4 minutes, until deeply golden. Place on cooling rack and
    repeat with remaining dough.
 8. GLAZE: In a medium bowl whisk together glaze ingredients. Dip doughnuts
    in glaze (see below) or for cinnamon sugar, brush doughnuts with melted

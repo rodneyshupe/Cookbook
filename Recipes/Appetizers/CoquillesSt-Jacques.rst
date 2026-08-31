@@ -5,7 +5,7 @@ Coquilles St-Jacques
 | Prep Time: 20 minutes | Cook Time: 25 minutes | Yield: 4 servings |
 +-----------------------+-----------------------+-------------------+
 
-Although coquilles St-Jacques simply means “scallops” in French, the
+Although coquilles St-Jacques simply means "scallops" in French, the
 term is synonymous with the old French dish of scallops poached in white
 wine, placed atop a puree of mushrooms in a scallop shell, covered with
 a sauce made of the scallop poaching liquid, and gratineed under a
@@ -53,13 +53,13 @@ Directions
    sauce evenly over the scallops. Top with Gruyere.
 5. Broil on high, about 8-10 inches under the flame, until the scallops
    are hot, and the cheese is browned and bubbling. The edges will
-   brulee or burn. This is not a problem, and actually how it’s supposed
+   brulee or burn. This is not a problem, and actually how it's supposed
    to look.
 
 Make Ahead
 ----------
 
 You can make these ahead, and refrigerate until needed. To bring back to
-temperature before you broil them, preheat oven to 350°F. and bake for
+temperature before you broil them, preheat oven to 350F. and bake for
 about 12-15 minutes , or until the centers are just warm. Switch oven to
 broil, and broil on high as described.

@@ -11,7 +11,7 @@ Ingredients
 -----------
 
 - 2 garlic cloves, minced
-- 1/2 jalapeño, seeded and minced (optional)
+- 1/2 jalapeno, seeded and minced (optional)
 - 1/4 cup fresh oregano
 - 1/2 cup pineapple juice
 - 1/4 cup orange juice

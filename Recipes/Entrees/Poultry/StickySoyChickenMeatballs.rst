@@ -34,7 +34,7 @@ Sauce
 
 Directions
 ----------
-1. Heat your oven to 400ºF and line a sheet pan with parchment paper or
+1. Heat your oven to 400F and line a sheet pan with parchment paper or
    lightly grease with non-stick cooking spray.
 2. Add the ground chicken, green onions, garlic, ginger, soy sauce,
    sesame oil, panko, and egg to a large bowl. Using two forks, stir and

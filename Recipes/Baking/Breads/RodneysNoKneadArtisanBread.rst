@@ -58,7 +58,7 @@ Longer loaves or baguettes
 Adjust ingredients as follows: 425g flour + 315ml water (or 210g water + 90g beer + 15g vinegar)
 In step 3, turn the cold dough out onto a floured work surface. Using a
 sharp knife or bench scraper, cut dough in half or into thirds. Using
-floured hands, shape into 2 or 3 long loaves about 9×3 (or 9 x 2) inches each.
+floured hands, shape into 2 or 3 long loaves about 9x3 (or 9 x 2) inches each.
 Prepare a baking sheet by lining with parchment and sprinkled with cornmeal.
 Place loafs on prepared sheet spaced about 3 inches apart. Loosely cover and
 allow to rest for 2 hours. You can bake the dough on this prepared baking
@@ -71,8 +71,8 @@ ingredients/combination of ingredients to the dry ingredients in the bowl:
 - 4 cloves minced garlic + 3 Tablespoons chopped rosemary
 - 3 Tablespoons your favourite fresh herb (chopped)
 - 1 cup your favourite shredded cheese
-- a diced jalapeño
-- 3/4 – 1 cup dried cranberries and/or chopped nuts
+- a diced jalapeno
+- 3/4 - 1 cup dried cranberries and/or chopped nuts
 - 2 teaspoons garlic powder, etc.
 
 Notes
@@ -91,7 +91,7 @@ Notes
 * If not using a dutch oven with a lid you can use a sheet pan or pizza stone.
   If you still want a crispy crust, after the oven is preheated and bread is
   scored, place a shallow metal or cast iron baking pan or skillet (I usually
-  use a metal 9×13 baking pan) on the bottom oven rack. Carefully and quickly
+  use a metal 9x13 baking pan) on the bottom oven rack. Carefully and quickly
   pour 3-4 cups of boiling water into it. Place the scored dough/baking pan on
   a higher rack and quickly shut the oven, trapping the steam inside. The
   team helps create a crispier crust.

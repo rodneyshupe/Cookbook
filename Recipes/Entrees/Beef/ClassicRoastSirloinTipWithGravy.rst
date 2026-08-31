@@ -25,10 +25,10 @@ Ingredients
 Directions
 ----------
 1. Rub beef all over with oil, garlic, thyme, salt and half of the pepper.
-   Place on greased rack in roasting pan. Roast in 450°F oven until beginning
-   to brown, about 19 minutes. Reduce heat to 275°F and roast, basting
+   Place on greased rack in roasting pan. Roast in 450F oven until beginning
+   to brown, about 19 minutes. Reduce heat to 275F and roast, basting
    occasionally, until instant-read thermometer inserted in centre reads
-   140°F for medium-rare, about 1 hour. Transfer to cutting board; tent with
+   140F for medium-rare, about 1 hour. Transfer to cutting board; tent with
    foil. Let rest for 15 minutes before thinly slicing across the grain.
 2. While roast is resting, drain all but 2 tablespoons fat from pan. Sprinkle in
    flour; cook over medium-high heat, stirring, until golden, about 3 minutes.

@@ -5,7 +5,7 @@ Chicken and Sausage Gumbo
 | Prep Time: 20 minutes | Cook Time: 1 hour 45 minutes | Yield: 6 servings |
 +-----------------------+------------------------------+-------------------+
 
-Source: `Cook’s Illustrated <https://www.cooksillustrated.com/recipes/9384-chicken-and-sausage-gumbo#>`__
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/9384-chicken-and-sausage-gumbo#>`__
 
 Ingredients
 -----------
@@ -31,7 +31,7 @@ Ingredients
 Directions
 ----------
 
-1. Adjust oven rack to middle position and heat oven to 425°F.
+1. Adjust oven rack to middle position and heat oven to 425F.
    Place flour in 12-inch skillet and bake, stirring occasionally, until
    color of ground cinnamon, 40 to 55 minutes. (As flour approaches
    desired color, it will take on very nutty aroma that will smell

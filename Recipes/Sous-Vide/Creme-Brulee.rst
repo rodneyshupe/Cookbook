@@ -2,7 +2,7 @@ Creme Brulee
 ============
 
 +-----------------------+-------------------+-------------------------+-------------+
-| Prep Time: 15 minutes | Cook Time: 1 hour | Total Time: 5 1/2 hours | Temp: 183°F |
+| Prep Time: 15 minutes | Cook Time: 1 hour | Total Time: 5 1/2 hours | Temp: 183F |
 +-----------------------+-------------------+-------------------------+-------------+
 
 Source: `Avona
@@ -25,7 +25,7 @@ Ingredients
 Directions
 ----------
 
-1. Set your sous-vide to 183°F (83°C)
+1. Set your sous-vide to 183F (83C)
 2. In a medium-size mixing bowl, combine the egg yolks, sugar, and salt
    and whisk until pale and well-combined. Set aside.
 3. Pour the heavy cream into a small saucepan with deep sides and place
@@ -40,7 +40,7 @@ Directions
    straining and whisking process with the rest of the cream.
 5. Divide the mixture evenly between four 4 ounce (or two 8 ounce) mason
    jars with two-part screw-top lids. Attach the lids and screw shut to
-   “fingertip tightness”, the variable of “closed-ness” achieved by
+   "fingertip tightness", the variable of "closed-ness" achieved by
    using only your fingertips to screw on the lids.
 6. Place the jars into the bath. Cover the vessel with Saran Wrap and
    set the timer for 1 hour.
@@ -78,9 +78,9 @@ Notes:
 -  This is a perfect temp that allows you to cook with `Glazed
    Carrots <#glazed-carrots>`__.
 
--  If in a hurry you can cook this at 195°F (90.5°C) for 45 minutes.
+-  If in a hurry you can cook this at 195F (90.5C) for 45 minutes.
 
 -  Instead of putting in mason jars, put mixture into a ziplock bag and
-   cook in 183°F water bath for 60 minutes agitating the bag halfway
+   cook in 183F water bath for 60 minutes agitating the bag halfway
    through. Once cooked cut corner of bag a pour into four 4 oz ramekins
    and place in refrigerator.

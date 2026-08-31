@@ -16,7 +16,7 @@ Ingredients
 
 Directions
 ----------
-1. Heat the oven to 400°F.
+1. Heat the oven to 400F.
 2. Grease a 6-cup popover pan with the 1 teaspoon of butter.
 3. Combine the 1 tablespoon of butter, the flour, salt, eggs and milk in
    a food processor or blender and process for 30 seconds.

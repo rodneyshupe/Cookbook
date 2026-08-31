@@ -28,7 +28,7 @@ Directions
 ----------
 
 1. Place butter, chopped onions, red bell pepper, celery, salt and pepper in
-   pot and cook at medium-low until vegetables soften. Add potatoes and sauté
+   pot and cook at medium-low until vegetables soften. Add potatoes and saute
    for 10 more minutes.
 2. Add vegetable stock, saffron and bay leaf. Bring to a boil and reduce heat
    to a bare simmer. Cover the pot and cook for 20 minutes. Make sure the

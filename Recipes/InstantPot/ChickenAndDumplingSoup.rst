@@ -15,7 +15,7 @@ The Chicken
 - 4 tbsp of butter
 - 1 yellow onion, diced
 - 2 large carrots, peeled and diced
-- 3 stalks of celery, sliced into 1/4″ pieces (with leafy tops reserved)
+- 3 stalks of celery, sliced into 1/4" pieces (with leafy tops reserved)
 - 1 tbsp of crushed garlic
 - 6 cups of reduced-sodium chicken broth (I used 2 tbsp of Chicken Better Than Bouillon + 6 cups of water)
 - 3 bay leaves
@@ -41,13 +41,13 @@ The Dumplings
 Directions
 ----------
 
-1. Hit “Sauté” on the Instant Pot and adjust so it’s on the “More” or “High”
+1. Hit "Saute" on the Instant Pot and adjust so it's on the "More" or "High"
    setting. Add in the butter and once melted, add in the onion, carrots and
-   celery and sauté for 5 minutes. Add the garlic and sauté for 1 minute
+   celery and saute for 5 minutes. Add the garlic and saute for 1 minute
    longer.
-2. Then, pour in the broth and stir well. Add the chicken and make sure it’s
+2. Then, pour in the broth and stir well. Add the chicken and make sure it's
    all covered by the broth. Toss the in the bay leaves and secure the lid.
-3. Hit “Keep Warm/Cancel” and then hit “Manual” or “Pressure Cook” High
+3. Hit "Keep Warm/Cancel" and then hit "Manual" or "Pressure Cook" High
    Pressure for 10 minutes
 4. When the chicken is done cooking, perform a quick release. Discard the bay
    leaves and remove the chicken from pot with tongs. Set chicken aside in a
@@ -55,26 +55,26 @@ Directions
 5. Add the sherry, seasoned salt, poultry seasoning, pepper, rubbed sage,
    thyme parsley, leafy tops from celery to the pot and stir well. Let the
    pot rest for the time being.
-6. While the chicken’s cooling down, make the dumplings by mixing together
+6. While the chicken's cooling down, make the dumplings by mixing together
    all the dumpling ingredients. Begin by placing the flour, baking powder
    and salt in a mixing bowl and whisk together. Then, place the butter and
    milk in a pyrex and microwave for 40 seconds. Pour the milk/butter mixture
    into the flour and lightly mix with a fork until totally blended so a warm
-   dough forms. (NOTE: Don’t overdo the mixing as it can make for a tough
+   dough forms. (NOTE: Don't overdo the mixing as it can make for a tough
    dumpling). From there, let your hands take over and lightly knead the
    dough. Then, on a clean surface covered with flour, take a flour-coated
-   rolling pin and roll the dough to be 1/8″ thick max (it’s very important
-   that it’s no thicker than 1/8″ so it cooks properly). Then, using a pizza
+   rolling pin and roll the dough to be 1/8" thick max (it's very important
+   that it's no thicker than 1/8" so it cooks properly). Then, using a pizza
    cutter or knife, slice the into the dough vertically into strips about
-   1” wide and then slice horizontally about 2” wide, forming little
-   rectangular strips. Dust with additional flour so they don’t stick to each
+   1" wide and then slice horizontally about 2" wide, forming little
+   rectangular strips. Dust with additional flour so they don't stick to each
    other.
-7. Now give the pot some heat again by hitting “Sauté” and adjust so it’s on
-   the “More” or “High” setting. Once it bubbles, stir in the cornstarch
+7. Now give the pot some heat again by hitting "Saute" and adjust so it's on
+   the "More" or "High" setting. Once it bubbles, stir in the cornstarch
    slurry followed by adding the dumpling strips one-by-one and then give
    them a good stir making sure none are sticking to each other. Then, allow
    them to simmer for 10 minutes with glass lid on pot.
-8. After 10 minutes of the dumplings boiling in the pot, hit “Keep Warm/Cancel”
+8. After 10 minutes of the dumplings boiling in the pot, hit "Keep Warm/Cancel"
    so the bubbles die down.
 9. The chicken should now be relatively should be cool enough to handle. Pick
    the bones clean of all the meat, discarding the bones, skin, and cartilage.

@@ -43,7 +43,7 @@ Pork
    smoke in small bowl; set aside. Combine black pepper, paprika,
    remaining 2 tablespoons sugar, remaining 2 teaspoons salt, and
    cayenne in second small bowl; set aside. Adjust oven rack to
-   lower-middle position and heat oven to 325°F.
+   lower-middle position and heat oven to 325F.
 3. Remove pork from brine and dry thoroughly with paper towels. Rub
    mustard mixture over entire surface of each piece of pork. Sprinkle
    entire surface of each piece with spice mixture. Place pork on wire
@@ -55,10 +55,10 @@ Pork
    Carefully pour off liquid in bottom of baking sheet into fat
    separator and reserve for sauce. Return pork to oven and cook,
    uncovered, until well browned, tender, and internal temperature
-   registers 200°F on instant-read thermometer, about 1 1/2 hours.
+   registers 200F on instant-read thermometer, about 1 1/2 hours.
    Transfer pork to serving dish, tent loosely with foil, and let rest
    for 20 minutes.
-5. To serve: Using 2°Forks, shred pork into bite-sized pieces. Toss with
+5. To serve: Using 2Forks, shred pork into bite-sized pieces. Toss with
    1 cup sauce and season with salt and pepper. Serve, passing remaining
    sauce separately.
 

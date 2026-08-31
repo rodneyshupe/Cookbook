@@ -18,6 +18,6 @@ Ingredients
 Directions
 ----------
 
-1. Whisk creme fraîche, mustard, and parsley together in bowl. Season
+1. Whisk creme fraiche, mustard, and parsley together in bowl. Season
    with salt and pepper to taste.
 

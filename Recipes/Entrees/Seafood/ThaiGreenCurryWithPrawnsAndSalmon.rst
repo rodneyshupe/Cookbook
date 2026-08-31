@@ -31,7 +31,7 @@ Directions
 
 1. In large skillet, bring 1/2 cup of the coconut milk to gentle boil.
 2. Add shallots, garlic and ginger; cook, stirring, for 2 minutes.
-3. Add green curry paste (it’s fiery hot, so start with a small amount);
+3. Add green curry paste (it's fiery hot, so start with a small amount);
    cook stirring, until it dissolves.
 4. Add remaining coconut milk, fish sauce (very salty, add to taste) and
    lime juice; boil gently for about 3 minutes or until thickened a

@@ -25,6 +25,6 @@ Directions
 3. Lightly brush or spray each taquito with vegetable oil. Place seam side
    down in the air fryer basket in a single layer (work in batches if
    needed).
-4. Air fry at 400°F for 8-10 minutes, flipping halfway through, until
+4. Air fry at 400F for 8-10 minutes, flipping halfway through, until
    golden and crispy.
 5. Serve with sour cream, guacamole, or additional salsa verde for dipping.

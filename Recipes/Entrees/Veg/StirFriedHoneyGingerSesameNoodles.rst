@@ -29,7 +29,7 @@ Ingredients
 Directions
 ----------
 
-1. Preheat the oven to 400° F. Line a baking sheet with parchment.
+1. Preheat the oven to 400 F. Line a baking sheet with parchment.
    Spread the cashews out on the baking sheet and bake 5 minutes. Add the
    sriracha, 1 tablespoon soy sauce, 2 teaspoons honey, and the sesame
    seeds. Toss to combine. Bake another 5 minutes, until toasted.

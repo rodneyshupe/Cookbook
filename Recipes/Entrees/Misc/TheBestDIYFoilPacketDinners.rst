@@ -34,7 +34,7 @@ Directions
    Fold the two long edges toward one another and fold over once or twice
    then crimp tightly. Fold and crimp each short end of the foil toward the
    middle so that the edges are all tightly sealed.
-3. For cooking in the oven, bake on a baking sheet at 350ºF for about 30
+3. For cooking in the oven, bake on a baking sheet at 350F for about 30
    minutes.
 4. For cooking on a grill, cook on medium high for about 10-15 minutes each
    side, turning occasionally.
@@ -51,7 +51,7 @@ the basic steps:
 
 Step 1: Find Your Fat
 ^^^^^^^^^^^^^^^^^^^^^
-First you must have a fat so the raw ingredients don’t stick to the foil as
+First you must have a fat so the raw ingredients don't stick to the foil as
 it cooks. Oil in most any form (plain or flavored), butter, and bacon fat
 are all likely contenders. Pesto because it does double duty with the
 inclusion of herbs and garlic to the oil.
@@ -59,7 +59,7 @@ inclusion of herbs and garlic to the oil.
 Step 2: Add a Protein
 ^^^^^^^^^^^^^^^^^^^^^
 Ground meats like hamburger, ground turkey, or chicken all work well in
-foil packs. Fish, shrimp and shellfish do well too because fish doesn’t take
+foil packs. Fish, shrimp and shellfish do well too because fish doesn't take
 long to cook. Sliced sausages are also an awesome option. Diced tofu is a
 great option for veggie lovers.
 
@@ -69,7 +69,7 @@ Add layers of veggies. Just about any veggie will do so long as you think
 about cooking time. You want harder veggies like potatoes or carrots and
 sweet potatoes cut into smaller pieces so they cook at the same rate as
 larger cut mushrooms, squashes and onions. There really is no limit to the
-ideas you can add to. Fresh, frozen, canned…any and all will do.
+ideas you can add to. Fresh, frozen, canned...any and all will do.
 
 Step 4: Spice It Up
 ^^^^^^^^^^^^^^^^^^^

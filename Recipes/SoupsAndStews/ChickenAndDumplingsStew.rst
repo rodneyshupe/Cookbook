@@ -70,9 +70,9 @@ Directions
 
 Notes
 -----
-We strongly recommend buttermilk for the dumplings, but it’s acceptable to
+We strongly recommend buttermilk for the dumplings, but it's acceptable to
 substitute 1/2 cup plain yogurt thinned with 1/4 cup milk. If you want to
-include white meat (and don’t mind losing a bit of flavor in the process),
+include white meat (and don't mind losing a bit of flavor in the process),
 replace 2 chicken thighs with 2 boneless, skinless chicken breast halves
 (about 8 ounces each). Brown the chicken breasts along with the thighs and
 remove them from the stew once they reach an internal temperature of

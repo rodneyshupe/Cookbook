@@ -21,5 +21,5 @@ Directions
    until sugar dissolves.
 2. Pour vinegar mixture over onion and cover loosely. Let onion cool 
    completely, about 30 minutes. (The onions will keep for several months,
-   but they’re best the week they’re made.)
+   but they're best the week they're made.)
 

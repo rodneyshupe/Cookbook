@@ -32,7 +32,7 @@ Red pepper Coulis/ or drizzled 20 year old Balsamic Vinegar
 Directions
 ----------
 
-1. Preheat broiler to 400°F
+1. Preheat broiler to 400F
 2. Place asparagus in a shallow baking dish; season, add oil and lemon juice. Toss gently not to break the spears
 3. Take 4 spears and place a sprig of rosemary in the middle. Wrap in the centre with proscuitto to make a bow (make 4 bundles).
 4. Place onto a baking sheet

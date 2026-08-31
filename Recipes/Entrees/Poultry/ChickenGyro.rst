@@ -35,7 +35,7 @@ Directions
 1. Mix marinade ingredients in small bowl. Place chicken in ziplock bag and
    pour the marinade over and make sure it is coated.  Seal and put in the
    refrigerator over night.
-2. Preheat oven to 400°F.
+2. Preheat oven to 400F.
 3. Place Chicken on a parchment lined baking sheet. Bake for 10 minutes,
    check if the chicken is cooked or 165F and if not flip and cook for an
    additional 10 minutes. Let the chicken cool and then sslice.

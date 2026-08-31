@@ -80,7 +80,7 @@ Lamb Chops
 
 #. Place lamb chops in a bowl, season, and add garlic, lemon juice, and parsley. Toss and marinate for 30 minutes.
 #. Preheat the grill; season grill by rubbing oil with a cloth over top.
-#. Preheat the oven to 375°F.
+#. Preheat the oven to 375F.
 #. Place the chops onto the grill, sear each side for 2 minutes.
 
 
@@ -127,7 +127,7 @@ Ingredients
 Directions
 ----------
 
-#. Preheat oven to 350°F
+#. Preheat oven to 350F
 #. Place the lamb on a plate. Season the lamb all over.
 #. Heat a skillet, add 2 tbsp extra virgin olive oil. Sear the lamb loins on all sides . Remove from the skillet.
 #. Place parsley, garlic, bread crumbs, and melted butter in a bowl. Blend. The mixture should be able to adhere to the lamb. If to dry add more melted butter.
@@ -222,7 +222,7 @@ Directions
 #. First prepare veggies; place shitakes, eggplant, asparagus, and peppers in a bowl, season, and add approx. 4 tbsp extra virgin olive oil, toss, and place onto a preheated grill. Cook asparagus for only 1 minute and the rest al dente. Put aside
 #. Heat a sauce pan, add 2 tbsp extra virgin olive oil, add onions, season, and saute until golden. Add white wine and reduce until most of the liquid is gone. Add the whipping cream, season, and reduce on a low roll for 15 minutes. Add the marinara sauce, simmer. Season with chilli flakes and add the grilled veggies, and parsley 3 minutes before assembling the dish.
 #. Prepare the basil, garlic butter; in a bowl soften the butter, add basil, and garlic, blend.
-#. Spread on to each side of the baguette. Put onto a baking sheet and into a preheated 400’ broil setting for 2- 3 minutes or until golden just before the pasta is finished. Cut into wedges.
+#. Spread on to each side of the baguette. Put onto a baking sheet and into a preheated 400' broil setting for 2- 3 minutes or until golden just before the pasta is finished. Cut into wedges.
 #. Cook pasta as per directions; drain and add to the sauce. You will have to transfer the sauce into a large skillet. Add freshly grated pecorino cheese.
 
 .. raw:: pdf
@@ -267,7 +267,7 @@ Cajun Rub
 Directions
 ----------
 
-#. Preheat the oven to 375°F
+#. Preheat the oven to 375F
 #. First prepare the rub; in a small bowl combine ingredients. Rub all over the pork.
 #. Heat a skillet, add 2 tbsp olive oil. Place the pork in skillet and brown all the sides.
 #. Place in the oven for approx 25-30 minutes or until clear juices emit from the tenderloin
@@ -377,7 +377,7 @@ Directions
 #. Prepare the Jackson potatoes as per recipe. Can be reheated just before serving.
 #. Place the filet in a bowl; add 2 tbsp. Olive oil, garlic, lemon juice, salt, pepper, and parsley, toss.
 #. Heat a skillet, add 2 tbsp. Olive oil. Add the filet and sear all sides to a golden colour.
-#. Preheat the oven to 375°F. Place in oven and cook until desired temp. Approx. 15 minutes for medium rare. With 10 minutes left in cooking time reheat the potatoes, and 5 minutes left reheat the veggies
+#. Preheat the oven to 375F. Place in oven and cook until desired temp. Approx. 15 minutes for medium rare. With 10 minutes left in cooking time reheat the potatoes, and 5 minutes left reheat the veggies
 #. Meanwhile prepare the sauce; heat a sauce pan, add 2 tbsp olive oil, add shallots, season, and saute fro 1 minute. Add red wine and reduce on high until most of the liquid is gone. Add the demi-glace, turn down to medium. When the dinner is close to been done, whisk in cold butter and brandy into the sauce.
 #. Let the chateaubriand rest for 2 minutes. Carve the filet on the bias. Place the filet onto 2 plates, sauce, and accompany with Jackson potatoes and grilled veggies
 
@@ -419,7 +419,7 @@ Rose Sauce
 Directions
 ----------
 
-#. Preheat oven to 375°F
+#. Preheat oven to 375F
 #. Season chicken breast
 #. Place a sheet of phyllo onto a working bench/ table. Brush lightly with butter. Place another sheet over top, brush, and repeat for a third time.
 #. Place the chicken breast onto the end of the pastry, top with a slice of apricot and Brie. Fold the pastry, and tuck in the sides. Brush the outside of the pastry, and place onto a baking sheet. Place in the oven for approx. 25 minutes or until the pastry is golden.
@@ -517,7 +517,7 @@ Directions
 #. Prepare the sauce; in a sauce pan add oil, heat, add onions, season and sear for 2 minutes. Add garlic, sear for 1 minute. Add white wine and reduce for 3 minutes.
 #. Add tomatoes and cook simmer for 15 minutes, adjust seasoning.
 #. Add fresh herbs at the end and keep warm, put aside.
-#. Preheat oven to 375°F
+#. Preheat oven to 375F
 #. Prepare a breading station; 1/ flour, salt, and pepper. 2/ mix- bread crumbs, parsley, and parmesan. 3/ eggs, salt, pepper, blended in a bowl.
 #. Season both sides of the veal chops. Dredge in flour and pat off excess.
 #. Dip veal in egg batter, then press firmly onto both sides with bread crumb mixture.
@@ -560,7 +560,7 @@ Ingredients
 Directions
 ----------
 
-#. Preheat oven to 375°F. Place tomatoes in a bowl, season, add garlic, and 1 tbsp. Olive oil, blend and place onto a baking sheet and in the oven for 10 minutes.
+#. Preheat oven to 375F. Place tomatoes in a bowl, season, add garlic, and 1 tbsp. Olive oil, blend and place onto a baking sheet and in the oven for 10 minutes.
 #. Prepare eggplant for breading; first season eggplant, dust both sides in flour and shake off excess. Dip eggplant in egg mixture, then in bread crumbs. Heat a skillet, add olive oil, and fry eggplant until golden on each side
 #. In a bowl add zucchini, season, add 1 tbsp. Of olive oil, toss, and place onto a grill, cook each side for 1-2 minutes
 #. In a skillet add 2 tbsp. Olive oil, heat and add onions, season, and cook until golden.
@@ -601,7 +601,7 @@ Directions
 ----------
 
 #. In a skillet, add olive oil, heat, add potatoes, season, and cook until fork tender. Just before serving toss in freshly chopped mint
-#. Preheat oven to 375°F
+#. Preheat oven to 375F
 #. Prepare veal chops; season both sides, dredge in flour, (combine the eggs and parmesan together), add to egg/ parmesan mixture, (combine bread crumbs and parsley), then press firmly into the breadcrumb mixture.
 #. Heat a skillet, add olive oil, and place chops in skillet, cook each side approx. 3 minutes on medium heat. Place on a baking sheet, and in the oven for an additional 15 minutes.
 #. Add corn to boiling salted water and cook for 7 minutes.
@@ -822,7 +822,7 @@ Ingredients
 Directions
 ----------
 
-#. Preheat oven to 375°F
+#. Preheat oven to 375F
 #. Prepare glaze; melt butter and place in a bowl, add honey, maple syrup, nutmeg, and orange juice, blend.
 #. Remove the outer skin of the ham and trim off excess fat. Score the ham into a checker board effect. Spike the ham with cloves, place ham in a large roasting pan and brush all over with glaze.
 #. Place ham in the oven for approx. 2 hours, basting often
@@ -872,7 +872,7 @@ Ingredients
 Directions
 ----------
 
-#. Preheat oven to 375°F
+#. Preheat oven to 375F
 #. In a saute pan add 2 tbsp. Vegetable oil, heat, add onions, season, and saute until golden.
 #. Remove onions, season chicken breast, and sear each side for 1-2 minutes. Put aside.
 #. Blend the onions, green chili, tomatoes, garlic, ginger, lemon juice, curry powder, red chili powder, garam masala, coconut, salt, and turmeric in a food processor, then add the vegetable oil and yogurt
@@ -1004,9 +1004,9 @@ Ingredients
 Directions
 ----------
 
-#. Preheat oven to 375°F.
+#. Preheat oven to 375F.
 #. Heat a skillet, add olive oil, season both sides of the duck breasts. Place the skin side down and sear for 3 minutes or until crispy, turn over and sear for 1 minute.
-#. Place in the oven. Cook duck breast until desired temp., usually to the rose’ stage, approx. 10 -12 minutes.
+#. Place in the oven. Cook duck breast until desired temp., usually to the rose' stage, approx. 10 -12 minutes.
 #. Meanwhile prepare the sauce; in a sauce pan add shallots, ginger, port wine, orange zest, salt, and pepper. Reduce the port by half on high heat.
 #. Add the currant jelly, cayenne, lemon juice, orange juice, and verify seasoning. Simmer on medium until it resemble a light glaze.
 #. Remove the duck breasts and let rest for 3 minutes. Slice the breasts on the bias, and spoon the sauce over top.
@@ -1094,7 +1094,7 @@ Ingredients
 Directions
 ----------
 
-#. Preheat oven to 375°F
+#. Preheat oven to 375F
 #. Season both sides of the veal shank with salt and pepper
 #. Dredge in flour and pat off the excess
 #. In a large skillet heat olive oil, add veal shanks and cook each side until golden brown.
@@ -1137,7 +1137,7 @@ Ingredients
 Directions
 ----------
 
-#. Preheat oven to 375°F
+#. Preheat oven to 375F
 #. Season both sides of the pork loin chops
 #. Heat a skillet, add 2 tbsp extra virgin olive oil. Add pork and sear each side for 2 minutes. Put aside
 #. Prepare the sauce; in a sauce pan heat 2 tbsp extra virgin olive oil, add shallots, season, and saute for 1 minute. Add bacon, cook until crispy. Remove half the fat from the sauce pan. Add red wine, reduce until most of the liquid is gone. Add demi-glace sauce, whisk in grainy Dijon. Keep on low heat
@@ -1183,7 +1183,7 @@ Ingredients
 Directions
 ----------
 
-#. Preheat oven to 375°F
+#. Preheat oven to 375F
 #. Remove the gills and cores of the portabello mushrooms. Season, and drizzle with olive oil. Place in the oven for 7 minutes. Remove and put aside.
 #. Place artichokes, eggplant, seasoning, lemon juice, and 3- 4 tbsp extra virgin olive oil in a bowl, toss, and place on a preheated grill. Grill until lightly golden, put aside.
 #. In a saute pan add 3 tbsp olive oil, heat, add onions, season, and saute on medium heat until golden, put aside
@@ -1238,10 +1238,10 @@ Directions
 Lamb
 ^^^^
 
-#. Preheat oven to 375°F
+#. Preheat oven to 375F
 #. Season lamb racks; prepare breading by mixing ingredients in a bowl
 #. Pack breading onto lamb pressing firmly
-#. Place lamb on baking sheet and bake in oven for approx. 25minutes or until lamb is rose”
+#. Place lamb on baking sheet and bake in oven for approx. 25minutes or until lamb is rose"
 #. Let lamb rest once out of oven for 5 minutes
 #. Slice lamb racks and drizzle rosemary jus over top
 
@@ -1292,7 +1292,7 @@ Ingredients
 Directions
 ----------
 
-#. Preheat oven to 375°F.
+#. Preheat oven to 375F.
 #. Cut four foil sheets approx. 10 x 12 inches.
 #. Place halibut in a bowl and season . Squeeze fresh lemon juice, herbs and tequila. Toss gently.
 #. Place halibut onto each foil. Top with tomatoes, jalapeno, onions, ginger, carrots, leeks, garlic, wine, butter, and olive oil.
@@ -1322,7 +1322,7 @@ Ingredients
 - 1 onion, chopped
 - 1/2 cup  White wine
 - 1/2 cup  plum tomatoes, crushed
-- 1°French baguette, sliced, toasted
+- 1French baguette, sliced, toasted
 - 1/4 teaspoon Saffron threads
 - 4 cups fish stock, or water
 - 2 tablespoon flat leaf parsley, chopped
@@ -1332,7 +1332,7 @@ Directions
 ----------
 
 #. Wash seafood and remove any bones.
-#. Preheat oven to 375’ f. If desired brush olive oil onto bread, toast until golden brown, put aside.
+#. Preheat oven to 375' f. If desired brush olive oil onto bread, toast until golden brown, put aside.
 #. Meanwhile in a large pot heat olive oil, add onions, season and saute for 3 minutes, add garlic, saute for 1 minute.
 #. Add white wine and reduce for 1 minute, add saffron, stir.
 #. Add tomatoes, stock, and bouquet garni, season.
@@ -1485,7 +1485,7 @@ Ingredients
 Directions
 ----------
 
-#. Preheat oven to 375°F
+#. Preheat oven to 375F
 #. Season chicken breasts, both sides .
 #. Place 2 slice s of pancetta across the top of the breasts
 #. Secure with skewers
@@ -1528,7 +1528,7 @@ Ingredients
 Directions
 ----------
 
-#. reheat oven to 375’ f
+#. reheat oven to 375' f
 #. place your one sheet of phyllo on the table, brush lightly with butter
 #. add another layer and brush with butter
 #. repeat three times
@@ -1973,7 +1973,7 @@ Salsa
 Directions
 ----------
 
-#. Preheat oven to 375°F.
+#. Preheat oven to 375F.
 #. Firstly prepare the salsa; in a bowl add all the ingredients, season and let sit for 30 minutes.
 #. In a large skillet add olive oil and heat, add onions, season, and sear for 2 minutes. Add garlic, saute for 1 minute. Add lamb, season, and saute for 5 minutes, stirring once in awhile.
 #. Add red wine and reduce for 2 minutes. Add mushrooms, saute for 2 minutes.
@@ -2054,7 +2054,7 @@ Orecchiette Pasta with Rapa and Barese Sausage
 Ingredients
 -----------
 
-- 18 oz orecchiette pasta, (“little ears”)
+- 18 oz orecchiette pasta, ("little ears")
 - 1- 11/2 lb Barese sausage
 - 1 lb cime di rapa, (turnip greens)
 - sea salt
@@ -2126,7 +2126,7 @@ Directions
 #. Add onions, garlic, celery, and carrots. Season. Continue to braise for 10 minutes on medium heat.
 #. Add red wine and deglaze pan. Reduce for 3 minutes.
 #. Add crushed plum tomatoes, and fresh rosemary stalk.
-#. Cover and place in a 375°F oven for 2 hours.
+#. Cover and place in a 375F oven for 2 hours.
 #. Add fresh parsley and sage 10 minutes before the osso bucco is ready.
 
 .. raw:: pdf
@@ -2250,7 +2250,7 @@ Poached sole paupiettes, stuffed with shrimp, scallops and chanterelle mushrooms
 Ingredients
 -----------
 
-- 4°Filet sole
+- 4Filet sole
 - 2 oz shrimp
 - 4 oz scallops
 - 4 oz chanterelle mushrooms
@@ -2432,7 +2432,7 @@ Ingredients
 Directions
 ----------
 
-#. preheat oven to 375°F .remove the gills from the portabello mushrooms with a spoon, and also remove the core by cutting around it with a pairing knife.
+#. preheat oven to 375F .remove the gills from the portabello mushrooms with a spoon, and also remove the core by cutting around it with a pairing knife.
 #. place portabello mushrooms on baking sheet.brush with olive oil and season. place in oven for 10 minutes.remove and cool from oven.put aside.
 #. prepare a breading station for the eggplant. you can use sheets of wax paper for the ingredients.first flour,season with salt and pepper.secondly,mix eggs in a small bowl.thirdly place bread crumbs and chopped mint onto wax paper.
 #. dredge the eggplant on both sides with flour and pat off excess flour. then place into egg mixture and coat evenly.finally place onto bread crumbs and press firmly to ensure breading has completely covered the eggplant.repeat on the other side.
@@ -2658,19 +2658,19 @@ Ingredients
 Directions
 ----------
 
-#. Preheat oven to 475’ f, and on broiler setting
+#. Preheat oven to 475' f, and on broiler setting
 #. Put peppers onto a baking sheet and place in oven.
 #. Turn once the peppers start to blister and become black.
 #. Make sure the peppers all black.
 #. Place peppers in a paper back to steam for 3 minutes.
 #. Remove the black outer skin . Remove the seeds and core.
 #. Meanwhile in a skillet, heat olive oil, season both sides of the lamb loin, and sear each side for 2 minutes. Put aside
-#. Change the setting of the oven to 375°F (top and bottom heat)
+#. Change the setting of the oven to 375F (top and bottom heat)
 #. Using a pairing knife, trim both ends of the potatoes, place your fingers on each trimmed end.
 #. Make individual slices from one end to the other, so to create a barrel shaped potato
 #. Heat a small skillet, add olive oil, heat and add potatoes, season, and saute until golden brown all over.
 #. Finish potatoes in the oven; place in oven for approx. 30 minutes, or until fork tender. A couple of minutes before the potatoes are done add rosemary.
-#. Once your potatoes have been in the oven for about 15 minutes, add the lamb. The lamb will take approx. 15- 20 minutes , depending on the size (the lamb should be rose’ ).
+#. Once your potatoes have been in the oven for about 15 minutes, add the lamb. The lamb will take approx. 15- 20 minutes , depending on the size (the lamb should be rose' ).
 #. Meanwhile prepare the coulis; in a sauce pan add olive oil, heat, add shallots , garlic and seasoning, saute for 2 minutes. Add white wine and reduce for 3 minutes. Add cream and reduce for an additional 5 minutes on med. Heat.
 #. Place peppers in a food processor or blender; pulse on and off, slowly add the cream mixture and blend, add chives. Remove the lamb and let rest for 3 minutes. Slice on the bias and drizzle sauce around. Serve with turned potatoes and seasonal veggies.
 
@@ -2714,7 +2714,7 @@ Directions
 
 #. Marinate the fish in 2 tbsp. Of lemon juice and salt for 30 minutes then wash it and pat dry
 #. Mix together the chilli powder, the remaining lemon juice, turmeric, and smear over fish
-#. Bake in a preheated oven at 400°F for 25 minutes, or until done prepare the basic curry while the fish is cooking
+#. Bake in a preheated oven at 400F for 25 minutes, or until done prepare the basic curry while the fish is cooking
 #. Pour the coconut milk into a large sauce pan
 #. Add the chilli powder, garlic, salt, turmeric, and lemon juice and bring to a boil, stirring continuously for 3 minutes
 #. Add the garam masala and cook for 1 minute. Add the water and switch off the stove
@@ -2783,7 +2783,7 @@ Ingredients
 -----------
 
 - 12 slices smoked salmon
-- 1 cucumber, (long english) “boats”
+- 1 cucumber, (long english) "boats"
 - 1 bunch dill
 - 1/2 cup  yogurt, (plain)
 - 2 clove garlic, purreed
@@ -2874,7 +2874,7 @@ Directions
 ----------
 
 #. heat a skillet pan, add oil, add onions and sear for 1 minute
-#. add garlic, ginger and “pounded” lemongrass stick,sear
+#. add garlic, ginger and "pounded" lemongrass stick,sear
 #. add chicken, season
 #. add chicken stock, and coconut milk, bring to a close boil
 #. add chili paste, soy sauce, sugar,celery, and carrots
@@ -2908,7 +2908,7 @@ Ingredients
 Directions
 ----------
 
-#. Preheat oven to 375°F
+#. Preheat oven to 375F
 #. In a bowl place bread crumbs, garlic, butter, salt, pepper, and parsely
 #. Place mixture over top of tomato halves
 #. Place on a baking tray and bake in oven for 7-10 minutes, or until breading is golden brown.
@@ -3048,7 +3048,7 @@ Ingredients
 Directions
 ----------
 
-#. Preheat oven to 375’ f
+#. Preheat oven to 375' f
 #. Season both sides of the snapper
 #. Place snapper in a baking dish
 #. Squeeze lemon juice over the snapper
@@ -3133,7 +3133,7 @@ Ingredients
 Directions
 ----------
 
-#. Preheat oven to 375°F
+#. Preheat oven to 375F
 #. Prepare the sauce; heat olive oil in a sauce pan. Add shallots, season, and saute for 1-2 minutes. Add porcini mushrooms, season, and saute for 2 minutes. Add red wine and reduce for 3 minutes. Add demi-glace and simmer. Just before steaks are ready whisk in butter and cognac
 #. Season both sides of the steaks. Heat a skillet, add olive oil, add steaks and sear each side for 2 minutes. Transfer into the oven.
 #. Cook until desired temp
@@ -3247,10 +3247,10 @@ Mango and ginger Chutney
 Directions
 ----------
 
-#. Preheat oven to 375°F
+#. Preheat oven to 375F
 #. Season leg of lamb thoroughly, rub on oil, and stone ground mustard
 #. Heat a skillet, add oil, and sear lamb all around until golden
-#. Place onto baking dish and roast in oven for approx. 1 1/2 hours or until rose’.
+#. Place onto baking dish and roast in oven for approx. 1 1/2 hours or until rose'.
 #. Meanwhile prepare the chutney; simply add the ingredients in a bowl, blend well and keep at room temperature
 #. Let the lamb rest for 5 minutes, slice and top with chutney
 
@@ -3292,7 +3292,7 @@ Directions
 #. Place the sablefish in a bowl; season, add 2 tbsp. Extra virgin olive oil, lemon juice, garlic, and parsley, toss gently. Refrigerate for 1 hour.
 #. Meanwhile heat a skillet, add 2 tbsp. extra virgin olive oil, and 1 tbsp. Butter, heat. Add nugget potatoes, season, and saute until crispy and fork tender. Incorporate fresh mint just before serving.
 #. Prepare the sauce. In a sauce pan add 2 tbsp. Olive oil, heat. Add onions, season, and saute until golden. Add morels, season, and saute for 2 minutes. Add white wine and saffron, let reduce until most of the liquid is gone. Add the cream, season, and let reduce on a light roll for 15 minutes. Just before serving time whisk in 1 tbsp. Butter to sauce.
-#. Preheat oven to 375°F. Heat a skillet add 2-3 tbsp olive oil, and sear fish for 1-2 minutes on each side. Place fish on baking sheet, or keep in skillet if oven compatible. Bake in oven for approx. 10- 12 minutes or until fish flakes.
+#. Preheat oven to 375F. Heat a skillet add 2-3 tbsp olive oil, and sear fish for 1-2 minutes on each side. Place fish on baking sheet, or keep in skillet if oven compatible. Bake in oven for approx. 10- 12 minutes or until fish flakes.
 #. Meanwhile place asparagus in a pan, season, add 1-2 tbsp. Olive oil, and enough cold water just to cover the base of the pan. Cover and turn on high to steam. Should only take about 7- 10 minutes until al dente. Drizzle with truffle oil when ready to serve
 #. Assemble onto 4 plates.
 
@@ -3348,7 +3348,7 @@ Julienne of vegetables
 Directions
 ----------
 
-#. Preheat oven to 375°F
+#. Preheat oven to 375F
 #. Remove the core of the tomatoes, and make a criss- cross incision on the bottom of the tomato
 #. Plunge the tomato in salted, boiling water for 1 minute. Remove and place in ice water for 1 minute. Peel the tomato and cut the meat part of the tomato for the seeds. Dice the tomato and put aside.
 #. Meanwhile place all the vegetables in a skillet, season, add white wine, butter, and water. Cover. Place on high heat 4-5 minutes before the fish is ready.
@@ -3547,7 +3547,7 @@ Baked Bread
 Directions
 ----------
 
-#. Prepare the garlic, basil, butter. In a small bowl add butter, garlic, and basil, soften and blend well together. Spread onto each half of the bread 5-8 minutes before the hot pot is ready. Place on a baking sheet and into a 400°F preheated oven. Bake until golden
+#. Prepare the garlic, basil, butter. In a small bowl add butter, garlic, and basil, soften and blend well together. Spread onto each half of the bread 5-8 minutes before the hot pot is ready. Place on a baking sheet and into a 400F preheated oven. Bake until golden
 #. Pound the lemongrass with a mallet to break the fibres. Cut into 4 inch strips. Put aside.
 #. Prepare the hot pot; heat a large skillet or wok, add olive oil. Add onions, season, saute until lightly golden. Add the ginger and lemongrass, saute for 1 minute.
 #. Add curry paste, stir. Add white wine, stir to blend paste.
@@ -3618,7 +3618,7 @@ Ingredients
 
 Directions
 ----------
-#. Preheat oven to 375°F. Marinate the pork loin; place pork in a bowl,
+#. Preheat oven to 375F. Marinate the pork loin; place pork in a bowl,
    season, add 3 tbsp olive oil, parsley, lemon juice, and garlic. Blend,
    cover and let sit for 10 minutes. Meanwhile prepare sauce; in a sauce
    pan add 2 tbsp olive oil, heat. Add shallots, season, and saute for
@@ -3712,8 +3712,8 @@ Ingredients
 Directions
 ----------
 
-#. Cut 4°Foil sheets approx. 10 x 12 inches
-#. Preheat oven to 375°F.
+#. Cut 4Foil sheets approx. 10 x 12 inches
+#. Preheat oven to 375F.
 #. Season both sides of the sea bass.
 #. Place a sea bass filet onto each foil sheet. In a small bowl whisk olive oil, fresh chopped thyme, Indonesian soy, chilli flakes, and Italian parsley together. Brush onto each filet liberally. Add fresh mint leaves onto sea bass.
 #. In a separate bowl mix the vegetables, garlic, ginger, seasoning and lemon slices together.
@@ -3776,7 +3776,7 @@ Directions
 #. Toss with parsley just before serving
 #. Marinate ribs for at least 1 hour; seasoning, lemon juice, olive oil, and white wine.
 #. Meanwhile prepare the sauce; combine all the ingredients together in a sauce pan and simmer for 1 hour
-#. Place the ribs in a preheated 425’ f oven, curve side up for 1 hour. Turn over and cook an additional 30- 45 minutes.
+#. Place the ribs in a preheated 425' f oven, curve side up for 1 hour. Turn over and cook an additional 30- 45 minutes.
 #. Remove and brush liberally with sauce and return to oven for 1/2 hour more or until meat is tender. Baste with sauce continuously.
 #. The meat should be very tender
 
@@ -3816,7 +3816,7 @@ Directions
 #. Add the egg mixture, stir with a high heat retention spatula or wooden spoon.
 #. The mixture will start too set. Once the eggs slowly set add the fresh herbs, stir.
 #. When the mixture is golden brown on the bottom, flip over back into the skillet. The easiest way to do this is to use a round flat sheet or pan or something that covers the pan completely.
-#. Make sure you use a couple of dry towels so you don’t burn yourself.
+#. Make sure you use a couple of dry towels so you don't burn yourself.
 #. Cook the other side until golden brown.
 #. Flip the omelette- frittata onto a platter or on a cutting board and portion into 4 slices.
 #. Serve with pan-fried potatoes
@@ -3896,9 +3896,9 @@ Ingredients
 Directions
 ----------
 
-#. Preheat the oven to 350°F
+#. Preheat the oven to 350F
 #. Prepare the sauce; in a sauce pan add 1 tbsp. grapeseed oil, heat. Add shallots, season, and saute for 2 minutes, add mushrooms, season and saute for 3 minutes. Add the wine and let reduce until almost dry. Add the cream and reduce for 5 minutes. Add the demi-glace and simmer. Just before serving whisk in butter and brandy. Ladle sauce over pheasant
-#. In a skillet add 1 tbsp. grapeseed oil and heat. Season both side of the pheasant breasts and place the fat side down. Sear until golden, turn over and cook for 1 minute, and place in the oven until rose’ or medium. Let the pheasant rest for 3 minutes. Slice on the bias.
+#. In a skillet add 1 tbsp. grapeseed oil and heat. Season both side of the pheasant breasts and place the fat side down. Sear until golden, turn over and cook for 1 minute, and place in the oven until rose' or medium. Let the pheasant rest for 3 minutes. Slice on the bias.
 #. Serve with roast Yams
 
 
@@ -4114,7 +4114,7 @@ Ingredients
 Directions
 ----------
 
-#. Preheat oven to 375°F
+#. Preheat oven to 375F
 #. In a skillet, add olive oil, heat, add potatoes, season, and saute for 4 -5 minutes. Just before serving toss in freshly chopped mint.
 #. Place the potatoes the oven and cook until fork tender.
 #. Blanch veggies; depending on your veggies you choose. Place each type of veggie in salted, boiling water until al dente. Remove, shock in ice water, and drain. Put aside.
@@ -4158,7 +4158,7 @@ Directions
 ----------
 
 #. Preheat the BBQ/ grill
-#. Preheat oven to 400°F
+#. Preheat oven to 400F
 #. In a bowl place zucchini, eggplant, peppers, lemon juice, seasoning, and 2 tbsp extra virgin olive oil, blend
 #. Place onto the grill and cook until golden, put aside
 #. In a skillet add 2 tbsp extra virgin olive oil, heat, add onions, season, and saute for 2-3 minutes. Add morels, season, and saute for 2 minutes. Add to the veggie mixture
@@ -4205,7 +4205,7 @@ Ratatouille
 
 Directions
 ----------
-#. Preheat oven to 375°F. In a large skillet add olive oil, heat, add onions, season, and saute for 2 minutes. Add garlic, saute for 1 minute. Add wine and reduce for 3 minutes.
+#. Preheat oven to 375F. In a large skillet add olive oil, heat, add onions, season, and saute for 2 minutes. Add garlic, saute for 1 minute. Add wine and reduce for 3 minutes.
 #. Add peppers, eggplant, and zucchini, season, and saute for 3 minutes.
 #. Add plum tomatoes and lemon juice, stir, and place in oven to roast for 30 minutes.
 #. Meanwhile place the venison steaks in saran wrap and pound with a mallet to tenderize. Season both sides of the steaks. Heat a skillet, add olive oil. Add the steaks and sear each side for 3-4 minutes.
@@ -5086,7 +5086,7 @@ Ingredients
 Directions
 ----------
 
-#. Preheat oven to 375’ f. Place almonds onto baking sheet and in oven for approx. 7-10 minutes or until golden. Let cool.
+#. Preheat oven to 375' f. Place almonds onto baking sheet and in oven for approx. 7-10 minutes or until golden. Let cool.
 #. Crumble the cookies into 1/2 inch pieces by wrapping in a tea towel and tapping lightly with a rolling pin or mallet. Do not crush into small pieces. Toss with almonds and chocolate chips. Set aside.
 #. In a large bowl, beat cream with an electric mixer until thickened.
 #. Pour in brandy and beat until soft peaks form.
@@ -5252,7 +5252,7 @@ Directions
 #. Gradually draw in flour to make a paste, add the remaining eggs
 #. Knead the paste 2 or 3 times with the heel of your hand until very smooth
 #. Roll into a ball, flatten slightly, wrap in cling film and refrigerate for 4-6 hours
-#. Roll out and place in a greased flan mould, place parchment paper over and dry beans, bake in a 325°F oven until lightly golden
+#. Roll out and place in a greased flan mould, place parchment paper over and dry beans, bake in a 325F oven until lightly golden
 #. Let cool and add pastry cream, assorted sliced fruits and apricot glaze
 
 .. raw:: pdf
@@ -5296,7 +5296,7 @@ Directions
 Pie Crust
 ^^^^^^^^^
 
-#. Preheat oven to 375’ f
+#. Preheat oven to 375' f
 #. Prepare the pie crust; simply blend all the ingredients together.
 #. Spray the spring form pan with a non- stick such as pam
 #. Press mixture firmly onto a 9 inch spring and place in the oven for 10 - 15 minutes or until golden brown. Allow to cool.
@@ -5521,7 +5521,7 @@ Directions
 #. Prepare pie shell; break graham crackers into large pieces, place them and ground almonds in food processor.
 #. Add macadamia nuts and mix until finely crushed
 #. Combine the crumbs, butter, and sweetener in a small bowl. Press firmly into bottom and up sides of an 8 inch spring form pan and refrigerate until firm
-#. Preheat oven to 375°F
+#. Preheat oven to 375F
 #. Combine cream cheese, eggs, yogurt, vanilla, and sweetener in a medium bowl, blend thoroughly
 #. Pour the cream cheese mixture over the crust
 #. Bake 20 minutes or until just set
@@ -5562,10 +5562,10 @@ Directions
 #. Whip the cream with the icing sugar until stiff peaks form
 #. Melt the chocolate in a double boiler, whisk until smooth
 #. Fold the chocolate into the pastry cream. Then fold in mango and whipped cream in mixture. Cover with plastic wrap and place in fridge
-#. Meanwhile prepare the brittle; combine the sugar and water in a sauce pan and place over medium heat, stirring with a wooden spoon until the sugar starts to melt. It will probably crystallize at first, forming into lumps, but as it reaches caramel temp. (318°F - 320°F) the lumps will melt
+#. Meanwhile prepare the brittle; combine the sugar and water in a sauce pan and place over medium heat, stirring with a wooden spoon until the sugar starts to melt. It will probably crystallize at first, forming into lumps, but as it reaches caramel temp. (318F - 320F) the lumps will melt
 #. Very lightly oil a small tray. When the caramel has reached a golden brown, add the macadamia nuts, and turn them so they are coated with the caramel. Pour the mixture onto the tray. The mixture will harden quite quickly. Break into small segments and serve with the mousse
 #. Pipe the mousse into parfait glasses and top with brittle
-#. To toast the nuts and coconut; you can do this with a skillet (no oil) on medium heat stirring once and a while until golden, or in a 375’ preheated oven on a tray for approx 5-7 minutes or until goldenServe 6
+#. To toast the nuts and coconut; you can do this with a skillet (no oil) on medium heat stirring once and a while until golden, or in a 375' preheated oven on a tray for approx 5-7 minutes or until goldenServe 6
 
 .. raw:: pdf
 
@@ -5620,7 +5620,7 @@ Ingredients
 Directions
 ----------
 
-#. Preheat oven to 375°F. Place walnuts onto a baking sheet and in the oven for approx. 10 minutes or until golden
+#. Preheat oven to 375F. Place walnuts onto a baking sheet and in the oven for approx. 10 minutes or until golden
 #. Place melon in a bowl and add a cup of amaretto, blend and refrigerate for 30 minutes.
 #. Remove the excess amaretto and put aside. Add the yogurt to the melon and blend gently.
 #. Place the melon onto 4 plates/ bowls. Serve with a scoop of gelato. Top with walnuts and drizzle excess amaretto around the melon.
@@ -5698,7 +5698,7 @@ Macadamia Nut Brittle
 
 Directions
 ----------
-#. Prepare macadamia nut brittle: combine sugar and water in a sauce pan and place over medium heat, stirring with a wooden spoon until the sugar starts to melt. It will probably crystallize at first, forming into lumps, but as it reaches caramel temp. ( 31°F - 320°F) the lumps will melt .
+#. Prepare macadamia nut brittle: combine sugar and water in a sauce pan and place over medium heat, stirring with a wooden spoon until the sugar starts to melt. It will probably crystallize at first, forming into lumps, but as it reaches caramel temp. ( 31F - 320F) the lumps will melt .
 #. Oil a small tray lightly. When the caramel has reached a golden brown add the macadamia nuts, and turn them with a spoon so they are coated. Pour the mixture onto the tray. Let set. Break into pieces once hardened.
 #. Prepare the coulis: seed the pomegranate. In a sauce pan add pomegranates, juice, and sugar. Bring to high heat. Blend cornstarch and water into a paste. Slowly whisk the paste into the sauce pan. The mixture will thicken slightly. Transfer into bowl. Place in fridge to cool.
 #. Meanwhile in a double boiler, place chocolate in a bowl over boiling water, blend until melted. Using a pastry brush, brush the melted chocolate onto the base of the tarts. In a bowl add pastry cream, lemon juice, lemon rind, and passion fruit juice, and combine together. Pipe or spoon mixture into tarts.
@@ -5773,7 +5773,7 @@ Pecan filling
 Directions
 ----------
 
-#. Preheat the oven to 375°F.
+#. Preheat the oven to 375F.
 #. Sift the flour into a large bowl, then rub in the butter, using your finger tips, until the mixture resembles bread crumbs. Add almost all the water until the mixture comes together, adding more if necessary. Turn out onto a lightly floured surface and gather into a ball.
 #. Roll out the pastry to approx. 14 inch round. Line a 9 inch flan tin with pastry, trim the edges and refrigerate for 20 minutes. Line the pastry- lined tin with a sheet of crumpled baking paper and spread of beans or rice evenly over the paper. Bake for 15 minutes, remove the paper and bake for an additional 15 minutes or until golden. Cool completely.
 #. To make the filling, spread the pecans over the pastry base. In a bowl whisk the eggs, butter, sugar, corn syrup, and vanilla essence until well combined, then pour over the pecans
@@ -5868,7 +5868,7 @@ Directions
 Nut Crust
 ^^^^^^^^^
 
-#. Preheat oven to 400°F
+#. Preheat oven to 400F
 #. Crust- lightly spray a 10inch spring form pan
 #. In a bowl mix the splenda, nuts and melted butter, press onto the bottom of the pan
 #. Place in oven for 10 minutes, cool, then put in freezer while preparing the filling
@@ -5928,7 +5928,7 @@ Filling
 Directions
 ----------
 
-#. Preheat the oven to 350°F. Sift the flour into a large bowl. Rub in the butter using your finger tips, until the mixture resembles bread crumbs. Stir in the sugar and add almost all the liquid. Mix to a firm dough, adding more liquid if necessary. Turn onto a lightly floured surface and gather together into a ball. Flatten slightly, cover in plastic wrap and refrigerate for at least 30 minutes
+#. Preheat the oven to 350F. Sift the flour into a large bowl. Rub in the butter using your finger tips, until the mixture resembles bread crumbs. Stir in the sugar and add almost all the liquid. Mix to a firm dough, adding more liquid if necessary. Turn onto a lightly floured surface and gather together into a ball. Flatten slightly, cover in plastic wrap and refrigerate for at least 30 minutes
 #. Roll out pastry between two sheets of baking paper to cover the base and side of a 9 inch pie dish. Beat the egg yolk with the milk and brush onto the pastry edge.
 #. Line the pastry base with crumpled baking paper and spread rice or beans evenly over the pastry. Bake for 10 minutes, remove the paper and beans, then bake for 5 minutes, or until lightly golden. Set aside to cool
 #. To make the filling, whisk the eggs and brown sugar in a bowl. Add the pumpkin, cream and spices, then combine thoroughly
@@ -5963,7 +5963,7 @@ Directions
 #. Heat a skillet and melt butter.
 #. Add apples and saute for 4 minutes
 #. Add nutmeg, cinnamon, and brown sugar, saute for an additional 3 minutes.
-#. Add brandy, light to flambe’
+#. Add brandy, light to flambe'
 #. Once the flame is out add the raclette cheese.
 #. Cook until the cheese is melted.
 #. Serve in a small bowl with or without ice cream.
@@ -6159,7 +6159,7 @@ Directions
 #. Gradually draw in flour to make a paste, add the remaining eggs
 #. Knead the paste 2 or 3 times with the heel of your hand until very smooth
 #. Roll into a ball, flatten slightly, wrap in clingfilm and refridgerate for 4-6 hours
-#. Roll out and place in a greased flan mold, place parchment paper over and dry beans, bake in a 325°F oven until lightly golden
+#. Roll out and place in a greased flan mold, place parchment paper over and dry beans, bake in a 325F oven until lightly golden
 #. Let cool and add pastry cream, assorted sliced fruits and apricot glaze
 
 .. raw:: pdf
@@ -6267,7 +6267,7 @@ Ingredients
 Directions
 ----------
 
-#. Preheat oven to 375°F
+#. Preheat oven to 375F
 #. Cut tortillas shells into wedges, place on a baking sheet
 #. Combine 1/2 cup Demerara sugar and cinnamon together in a bowl.
 #. Sprinkle over top of tortillas wedges and place in oven for approx. 10 minutes. Remove. Let cool.
@@ -6595,7 +6595,7 @@ Ingredients
 Directions
 ----------
 
-#. Preheat the oven to 375° f.
+#. Preheat the oven to 375 f.
 #. Remove the core from the apples.
 #. Place apples in a baking dish.
 #. Divide the butter into 6 portions and push it into the cores of the apples.
@@ -6626,7 +6626,7 @@ Ingredients
 Directions
 ----------
 
-#. Preheat oven to 375°F.
+#. Preheat oven to 375F.
 #. Cover 2 baking sheets with parchment paper.
 #. Place the egg whites and cream of tartar in a kitchen aid, beat on medium speed until soft peaks form (or electric mixer).
 #. Gradually beat in the granulated sugar, beat on high speed until the whites are stiff and shiny.
@@ -6740,7 +6740,7 @@ Ingredients
 Directions
 ----------
 
-#. Preheat the oven to 375°F
+#. Preheat the oven to 375F
 #. Carefully core the apples, making sure that you do not cut through the bottom.
 #. Place 1 tsp. Of granulated sugar in each apple. Pour 1 tsp. Calvados into each apple.
 #. Place 4 phyllo squares in a row on a work surface; keep the remainder covered with a damp paper towel. Using a pastry brush, lightly coat each square with water. Dust each square with brown sugar. Repeat again.
@@ -6851,7 +6851,7 @@ Ingredients
 Directions
 ----------
 
-#. Preheat oven to 375°F.
+#. Preheat oven to 375F.
 #. In a bowl combine apples (sliced), lemon juice, peaches, a pinch of white sugar , brown sugar (from recipe) , a tbsp. Butter (from recipe), and sambucca, blend.
 #. Spoon fruit mixture evenly onto the tortillas, sprinkle with cinnamon.
 #. Roll up tortillas, place seam side down on a lightly greased baking pan.
@@ -6918,7 +6918,7 @@ Ingredients
 Directions
 ----------
 
-#. Preheat oven to 325°F
+#. Preheat oven to 325F
 #. In a bowl mix cracker crumbs, melted butter, and sugar.
 #. Place mixture evenly along the bottom of a non-stick spring form pan.
 #. Put ricotta in a bowl, add eggs, tia maria, flour, chocolate and icing sugar.
@@ -7040,7 +7040,7 @@ Directions
 #. Add the butter, and whisk until smooth and glossy. Add the egg yolks, and whisk. The mixture will thicken and lose some of its shine.
 #. Divide the mixture into 2 batches/ bowls.
 #. For the espresso simply mix in the coffee
-#. For the grand marnier; Preheat the oven to 375°F. Place almonds onto a baking sheet and in the oven for approx. 7-10 minutes or until the almonds are golden. Remove and cool. Put aside. Blend in the grand marnier into the choc. Mixture.
+#. For the grand marnier; Preheat the oven to 375F. Place almonds onto a baking sheet and in the oven for approx. 7-10 minutes or until the almonds are golden. Remove and cool. Put aside. Blend in the grand marnier into the choc. Mixture.
 #. Refrigerate the 2 bowls until the mixture hardens.
 #. Roll the truffles into cherry size balls. You can roll the espresso into cocoa powder if so desired or as is.
 #. Roll the grand marnier truffles over the almonds.
@@ -7082,7 +7082,7 @@ Marsala Sabayon
 Directions
 ----------
 
-#. Preheat oven to 350°F
+#. Preheat oven to 350F
 #. Combine butter and sugar together in a bowl, break up into small pieces with a fork. Refrigerate
 #. Place the peaches in salted, boiling water for 45 seconds, remove, and place in cold water. Peel the skin off and cut peaches in half.
 #. Place peaches on a baking sheet (parchment paper underneath)
@@ -7171,7 +7171,7 @@ Ingredients
 Directions
 ----------
 
-#. Preheat oven to 315°F. Combine the spices, cream and 1 cup water in a pan, bring to simmering point, reduce the heat to very low and leave for 5 minutes to allow the spices to flavour the liquid. Add the sugar and coconut milk, return to low heat and stir until the sugar has dissolved
+#. Preheat oven to 315F. Combine the spices, cream and 1 cup water in a pan, bring to simmering point, reduce the heat to very low and leave for 5 minutes to allow the spices to flavour the liquid. Add the sugar and coconut milk, return to low heat and stir until the sugar has dissolved
 #. Whisk the eggs and egg yolks in a bowl until combined. Stir in the spiced mixture, strain into a jug, then discard the whole spices. Pour into 8 125 ml ramekins. Place in a baking dish and pour in hot water to come half way up the sides of the ramekins. Bake for 40-45 minutes, until set. The custards should be no longer liquid and should wobble slightly when the dish is shaken lightly. Remove the custards from the baking dish. Serve hot or chilled.
 #. Whip cream with splenda and seeded vanilla bean until soft peaks form. Spoon a dollop of cream over custards, and top with toasted coconut. Serve also with a bunch of lychee nuts.
 
@@ -7261,7 +7261,7 @@ Directions
 #. In a bowl put pastry cream, amaretto, and cherries, blend well with rubber spatula.
 #. Fold in whipped cream; do not over blend (keep air in mousse), it is o.k. if you see ribbons of white cream throughout
 #. Chill for 30 minutes.
-#. Meanwhile prepare caramelized pecans; heat the sugar and water in a sauce pan over medium heat, stirring with a wooden spoon until the sugar melts. It will probably crystallize at first, forming lumps, but as it reaches caramel temp. 318- 320Ã‚â€™f the lumps will melt.
+#. Meanwhile prepare caramelized pecans; heat the sugar and water in a sauce pan over medium heat, stirring with a wooden spoon until the sugar melts. It will probably crystallize at first, forming lumps, but as it reaches caramel temp. 318- 320f the lumps will melt.
 #. Very lightly oil a small tray. When the caramel has reached a golden brown add the pecans, and then turn them so they are coated. With a fork lift the pecans out one by one and deposit them on the tray.
 #. It will take a few minutes for them to harden
 #. With a piping bag fill the chocolate baskets (no need to use a piping tip), garnish with pecans, fresh fruit, and a sprig of mint
@@ -7392,11 +7392,11 @@ Filling
 Directions
 ----------
 
-#. Crust: Preheat oven to 350°F . Mix crushed wasa crackers with cinnamon, butter, grated apple, stevia, and egg.
+#. Crust: Preheat oven to 350F . Mix crushed wasa crackers with cinnamon, butter, grated apple, stevia, and egg.
 #. Spray non-stick 9 inch pie pan with light coating of cooking spray
 #. Evenly spread crust mixture into pan with fingers to form crust.
 #. Bake for 20 minutes. Cool.
-#. Filling: Preheat oven to 350 ‘ f . Puree tofu, eggs, vanilla, pumpkin, stevia, salt, and pumpkin pie spice in blender until smooth. Taste. Add more spice, if desired.
+#. Filling: Preheat oven to 350 ' f . Puree tofu, eggs, vanilla, pumpkin, stevia, salt, and pumpkin pie spice in blender until smooth. Taste. Add more spice, if desired.
 #. Pour filling into prepared crust. Bake 30 to 40 minutes. Chill.
 #. Filling will firm as it chills
 
@@ -7475,7 +7475,7 @@ Filling
 Directions
 ----------
 
-#. Preheat oven to 400 ‘ f. brush the rim of the 9 inch pie dish with melted butter. Sift flour and sugar into a large bowl; add the butter. Rub the butter into the flour with your fingertips until the mixture is fine and crumbly. Add the yolks and mix with a knife to firm dough, adding a little water if necessary. Turn onto a lightly floured surface and press together until smooth.
+#. Preheat oven to 400 ' f. brush the rim of the 9 inch pie dish with melted butter. Sift flour and sugar into a large bowl; add the butter. Rub the butter into the flour with your fingertips until the mixture is fine and crumbly. Add the yolks and mix with a knife to firm dough, adding a little water if necessary. Turn onto a lightly floured surface and press together until smooth.
 #. Roll the pastry out on baking paper to a 10 inch round, cut 1/2 inch wide strips from the edge, cover rim of dish. Cover dish and remaining pastry with plastic wrap; refrigerate for 20 minutes.
 #. Peel and core apples, cut each into 8 slices. Melt butter in saute pan and add brown sugar and spices. Stir over med. heat until sugar dissolves; add apples, toss to coat with butter mixture. Cook, covered, for 10 minutes, turning occasionally, until apples are soft but still hold there shape. Remove the lid and cook for another 5 minutes, until the liquid is reduced; cool.
 #. Place cooled apple and any liquid into the pie dish. Place pastry over fruit, pressing lightly onto the rim. Trim the edges, pinch together to seal. Decorate with trimmings, brush with egg white and sprinkle with sugar. Bake for 40 minutes, until golden.Serve warm with ice cream.

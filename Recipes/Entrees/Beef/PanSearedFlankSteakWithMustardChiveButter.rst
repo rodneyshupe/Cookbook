@@ -23,14 +23,14 @@ Ingredients
 Directions
 ----------
 
-1. Adjust oven rack to middle position and heat oven to 225°F. Pat steak
+1. Adjust oven rack to middle position and heat oven to 225F. Pat steak
    dry with paper towels. Cut steak in half lengthwise. Cut each piece
    in half crosswise to create 4 steaks. Combine salt, sugar, and pepper
    in small bowl. Sprinkle half of salt mixture on 1 side of steaks and
    press gently to adhere. Flip steaks and repeat with remaining salt
    mixture. Place steaks on wire rack set in rimmed baking sheet;
    transfer sheet to oven. Cook until thermometer inserted through side
-   into center of thickest steak registers 120°F, 30 to 40 minutes.
+   into center of thickest steak registers 120F, 30 to 40 minutes.
 2. Meanwhile, combine butter, 1 tablespoon chives, mustard, and lemon
    zest and juice in small bowl.
 3. Heat oil in 12-inch skillet over medium-high heat until just smoking.

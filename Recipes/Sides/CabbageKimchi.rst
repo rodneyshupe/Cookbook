@@ -54,6 +54,6 @@ Directions
    keep them submerged under the brine. (This also releases gases
    produced during fermentation.) Taste a little at this point, too!
    When the kimchi tastes ripe enough for your liking, transfer the jar
-   to the refrigerator. You may eat it right away, but it’s best after
+   to the refrigerator. You may eat it right away, but it's best after
    another week or two.
 

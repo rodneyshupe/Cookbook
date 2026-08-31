@@ -22,7 +22,7 @@ Directions
    combine - set aside
 2. Heat grill to high, and set up for 2 zone cooking.  Rub chicken lightly
    with oil, and season with the salt & pepper
-3. Grill chicken on indirect heat.  You’re cooking the chicken to
+3. Grill chicken on indirect heat.  You're cooking the chicken to
    approximately 180 degrees, and will take approximately 30ish minutes.
    Brush the chicken with the sauce often, starting in about the last
    10 minutes of cooking

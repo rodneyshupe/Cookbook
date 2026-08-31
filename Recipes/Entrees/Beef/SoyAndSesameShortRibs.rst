@@ -20,7 +20,7 @@ Ingredients
 -  2 teaspoons gochugaru (Korean red pepper powder)
 -  1 1/2 teaspoon freshly ground black pepper
 -  1/2 cup soy sauce
--  2 pounds (900g ) 1/4“-thick cross-cut bone-in beef short ribs (flanken style)
+-  2 pounds (900g ) 1/4"-thick cross-cut bone-in beef short ribs (flanken style)
 -  Vegetable oil (for grilling)
 
 Directions

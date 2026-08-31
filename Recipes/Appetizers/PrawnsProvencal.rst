@@ -22,7 +22,7 @@ Directions
 ----------
 
 1. Clean prawns by removing shell
-2. Add a tomato to salted, boiling water, take out after 30 seconds, and place in ice water. Remove skin, cut around so that you just cut the meat of the tomato and not into the seeds. Dice into 1/4 “. Put aside.
+2. Add a tomato to salted, boiling water, take out after 30 seconds, and place in ice water. Remove skin, cut around so that you just cut the meat of the tomato and not into the seeds. Dice into 1/4 ". Put aside.
 3. Heat a skillet, add butter and melt
 4. Add prawns, season, and sear for 1 minute
 5. Add garlic and stir for 1 minute

@@ -24,7 +24,7 @@ Directions
    place another strip next to it, parallel to it. Unfold first, third
    and fifth strips; fold back second and fourth strips. Repeat with
    remaining bacon until all 10 strips are tightly woven.
-2. Preheat oven to 225°F or light a fire in an outdoor smoker. Place
+2. Preheat oven to 225F or light a fire in an outdoor smoker. Place
    remaining bacon in a frying pan and cook until crisp. As it cooks,
    sprinkle bacon weave with 1 tablespoon barbecue rub. evenly spread
    sausage on top of bacon lattice, pressing to outer edges.
@@ -39,7 +39,7 @@ Directions
    completely wrapped. Turn it so seam faces down. Roll should be about
    2 to 3 inches thick. Sprinkle with remaining barbecue rub.
 6. Place roll on a baking sheet in oven or in smoker. Cook until
-   internal temperature reaches 165°F on a meat thermometer, about 1
+   internal temperature reaches 165F on a meat thermometer, about 1
    hour for each inch of thickness. When done, glaze roll with more
    sauce. To serve, slice into 1/4 to 1/2-inch rounds.
 

@@ -33,5 +33,5 @@ Directions
 2. Meanwhile prepare the sauce; pound lemongrass with a mallet, cut in half. In a sauce pan add 2 tablespoon olive oil, heat. Add shallots, season, and saute until golden. Add ginger, garlic, lemongrass, season, and saute an additional 2 minutes. Add white wine, and reduce until most of the liquid is gone. Stir in red curry paste, add fish sauce, soy sauce, and coconut milk, season. Let cook on low- medium for 15 minutes. Add lime leaf 5 minutes before serving. Remove the lemongrass.
 3. Place rice in rice cooker, season, and add chicken stock. The ratio is 1.5 parts liquid to 1 part rice. The rice should take approx. 15- 18 minutes.
 4. Prepare the vegetables; in a skillet add bacon, saute until golden. Add onions, season, and saute until golden. Add asparagus, 1/4 cup water, and cover 7 minutes before the dish is ready to assemble.
-5. Place tuna in a preheat oven at 350°F and cook until desired temp. If you like your tuna rare you will only cook for 4-5 minutes. For medium approx. 7-8 minutes.
+5. Place tuna in a preheat oven at 350F and cook until desired temp. If you like your tuna rare you will only cook for 4-5 minutes. For medium approx. 7-8 minutes.
 

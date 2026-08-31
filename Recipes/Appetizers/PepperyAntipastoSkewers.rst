@@ -13,8 +13,8 @@ Ingredients
 - Kosher salt
 - 1 1/2 teaspoon coarsely ground black pepper, plus more
 - 3 tablespoon vegetable oil
-- 8 oz semifirm cheese (such as cheddar or Comté), cut into ¾" cubes
-- 4 oz pickled sweet cherry peppers or peperoncini, cut into ¾" pieces
+- 8 oz semifirm cheese (such as cheddar or Comte), cut into 3/4" cubes
+- 4 oz pickled sweet cherry peppers or peperoncini, cut into 3/4" pieces
 - Extra-virgin olive oil (for drizzling)
 - Flaky sea salt
 
@@ -29,9 +29,9 @@ Directions
    underneath, about 3 minutes. Turn over and repeat on second side until
    browned, about 3 minutes. If steak has a fat cap, stand it on its side
    with tongs and cook until browned, about 3 minutes (an instant-read
-   thermometer inserted into the thickest part should register 120° for
+   thermometer inserted into the thickest part should register 120 for
    medium-rare). Transfer to a cutting board; let rest 15 minutes. Slice
-   steak against the grain 1/8"–1/4" thick.
+   steak against the grain 1/8"-1/4" thick.
 3. Working with 1 skewer at a time, thread skewer through a strip of steak
    near a short end. Slide a cube of cheese, then a piece of cherry pepper
    onto skewer. Thread opposite side of steak onto skewer to close. Push

@@ -3,7 +3,7 @@ Garlic Smashed Potatoes
 
 +------------------+-------------+--------------+-----------+--------+
 | Prep Time: 20    | Cook: 60    | Total: 80    | Servings: | Temp:  |
-| minutes          | minutes     | minutes      | 4-6       | 190°F  |
+| minutes          | minutes     | minutes      | 4-6       | 190F  |
 +------------------+-------------+--------------+-----------+--------+
 
 
@@ -19,7 +19,7 @@ Ingredients
 Directions
 ----------
 
-1. Set the Anova Sous Vide Precision Cooker to 190°F.
+1. Set the Anova Sous Vide Precision Cooker to 190F.
 2. Combine all ingredients in a large zipper lock or vacuum seal bag.
    Seal the bag using the water immersion technique or a vacuum sealer
    on the moist setting. Place the bag in the water bath and set the

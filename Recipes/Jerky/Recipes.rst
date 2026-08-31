@@ -8,8 +8,8 @@ Jerky Recipes
 
 Historically, jerking meat was the primary means of preservation before
 refrigeration. True jerking is drying meat, that was previously brined
-in a heavy salt solution. In fact the word ‘jerk’ comes from the old
-Spanish word ‘charqui’ which means dried meat.
+in a heavy salt solution. In fact the word 'jerk' comes from the old
+Spanish word 'charqui' which means dried meat.
 
 .. contents::
    :local:
@@ -35,7 +35,7 @@ Spanish word ‘charqui’ which means dried meat.
 
 ----
 
-.. include:: Bringin’TheFunk.rst
+.. include:: Bringin'TheFunk.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 

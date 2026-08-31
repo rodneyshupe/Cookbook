@@ -20,7 +20,7 @@ Ingredients
 Directions
 ----------
 
-1. Adjust oven rack to lowest position and heat oven to 450°F.
+1. Adjust oven rack to lowest position and heat oven to 450F.
    Place potatoes in large bowl and fill with cold water. Using hands,
    swirl to remove excess starch, then drain in colander. Spread
    potatoes onto kitchen towels and thoroughly dry.

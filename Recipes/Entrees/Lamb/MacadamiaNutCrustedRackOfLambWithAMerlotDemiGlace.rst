@@ -22,7 +22,7 @@ Directions
 
 Lamb
 ^^^^
-1. Preheat oven to 425°F. Remove the outer papery covering of the garlic.
+1. Preheat oven to 425F. Remove the outer papery covering of the garlic.
    Slice off the top of the head so most of the cloves are exposed.
 2. Place the garlic heads on a baking sheet and drizzle with olive oil.
    Roast in the oven for 45 minutes or until the cloves are completely
@@ -34,7 +34,7 @@ Lamb
 4. Spread the garlic paste on the fatty side of the racks of lamb. Combine
    chopped nuts and bread crumbs and pack onto lamb pressing firmly.
    (Tip: Combine the nuts and bread crumbs in a food processor and chop.)
-5. Reduce oven to 375°F. Place lamb on baking sheet and bake in oven for
+5. Reduce oven to 375F. Place lamb on baking sheet and bake in oven for
    approx. 25 minutes or until lamb is rose. Let lamb rest once out of
    oven for 5 minutes. Slice lamb racks and drizzle sauce over top
 

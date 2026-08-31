@@ -25,7 +25,7 @@ Ingredients
 Directions
 ----------
 
-1. Heat your oven to 300ºF.
+1. Heat your oven to 300F.
 2. Place a Dutch oven over medium-high heat. Using a paper towel, dry off
    the outside of the roast and season well with salt and pepper. Add the
    oil to the pan and sear the roast until golden brown, about three to

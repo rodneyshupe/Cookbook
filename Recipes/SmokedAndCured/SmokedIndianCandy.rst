@@ -28,7 +28,7 @@ Directions
 5. Refrigerate for 12 - 16 hours.
 6. Remove from brine (do not rinse) and hang each piece from the rack
    using a toothpick through each piece. Lets air dry for 24-36 hours.
-7. Smoke at approx 160°F for 4 hours with Apple (or Maple) wood.
+7. Smoke at approx 160F for 4 hours with Apple (or Maple) wood.
 
 Notes
 -----

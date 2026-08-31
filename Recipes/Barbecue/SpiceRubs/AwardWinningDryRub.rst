@@ -5,7 +5,7 @@ Award Winning Dry Rub
 | Prep Time: 5 minutes | Yield: about 2 1/2 cups |
 +----------------------+-------------------------+
 
-Jim’s Rub Mix for Brisket and Beer Can Chicken can be modified for Ribs.
+Jim's Rub Mix for Brisket and Beer Can Chicken can be modified for Ribs.
 This rub has won first place 3 times for Brisket, Ribs and Chicken at
 local Texas BBQ cookoffs. And 2nd place Ribs at the Houston Rodeo BBQ
 cook off. enjoy!

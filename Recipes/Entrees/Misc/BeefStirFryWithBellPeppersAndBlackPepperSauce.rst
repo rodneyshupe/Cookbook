@@ -11,7 +11,7 @@ Ingredients
 -  1 tablespoon plus 1/4 cup water
 -  1/4 teaspoon baking soda
 -  1 pound (450g) flank steak, trimmed, cut into 2 to 2 1/2-inch strips with
-   grain, each strip cut ­crosswise against grain into 1/4-inch-thick slices
+   grain, each strip cut crosswise against grain into 1/4-inch-thick slices
 -  3 tablespoons soy sauce
 -  3 tablespoons dry sherry or Chinese rice wine
 -  3 teaspoons cornstarch

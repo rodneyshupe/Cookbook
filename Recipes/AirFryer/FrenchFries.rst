@@ -22,7 +22,7 @@ Directions
 2. Submerge potatoes in large bowl of water and rinse to remove excess
    starch. Drain potatoes and repeat process as needed until water remains
    clear. Cover potatoes with hot tap water and let sit for 10 minutes.
-   Drain potatoes, transfer to paper towel–lined rimmed baking sheet, and
+   Drain potatoes, transfer to paper towel-lined rimmed baking sheet, and
    thoroughly pat dry.
 3. Toss potatoes with 1 tablespoon oil in clean, dry bowl, then transfer
    to air-fryer basket. Place basket in air fryer, set temperature to

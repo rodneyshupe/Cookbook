@@ -9,7 +9,7 @@ Source: `Sarah <https://thewoksoflife.com/cantonese-soy-sauce-pan-fried-noodles/
 
 These Cantonese soy sauce pan-fried noodles are so easy to make, with
 simple ingredients. Just make sure you have a HOT wok to get that seared
-“wok hay” flavor that everyone loves and craves.
+"wok hay" flavor that everyone loves and craves.
 
 Ingredients
 -----------

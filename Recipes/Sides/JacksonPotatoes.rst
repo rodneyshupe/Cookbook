@@ -19,7 +19,7 @@ Ingredients
 
 Directions
 ----------
-1. Preheat oven to 400°F. Place potatoes onto a baking sheet and into
+1. Preheat oven to 400F. Place potatoes onto a baking sheet and into
    the oven. Cook until fork tender.  Remove from the oven and let cool
    slightly (5 minutes)
 2. Meanwhile heat a skillet, add bacon, and saute until golden. Add

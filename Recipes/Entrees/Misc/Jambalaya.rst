@@ -12,7 +12,7 @@ Ingredients
 - 1 cup celery, diced 
 - 1 cup onion, diced
 - 1 cup green pepper, diced
-- 1 pound fully-cooked chorizo or andouille sausage, cut crosswise into 1/4” slices
+- 1 pound fully-cooked chorizo or andouille sausage, cut crosswise into 1/4" slices
 - 2 large cloves garlic, crushed
 - 1 cup white rice
 - 1 tablespoon creole or Old Bay seasoning

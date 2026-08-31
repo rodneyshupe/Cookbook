@@ -44,7 +44,7 @@ Directions
    crumbs to adhere. Place breaded cutlets in single layer on wire rack
    set over baking sheet; let coating dry 5 minutes.
 3. Heat remaining 2 cups oil in large Dutch oven over medium-high heat
-   until it registers 375°F on instant-read thermometer. Lay 2 cutlets,
+   until it registers 375F on instant-read thermometer. Lay 2 cutlets,
    without overlapping, in pan and cook, shaking pan continuously and
    gently, until cutlets are wrinkled and light golden brown on both
    sides, 1 to 2 minutes per side. Transfer cutlets to paper towel-lined
@@ -54,7 +54,7 @@ Directions
 Notes
 -----
 
-In lieu of an instant-read thermometer to gauge the oil’s temperature,
+In lieu of an instant-read thermometer to gauge the oil's temperature,
 place a fresh (not dry) bread cube in the oil and start heating; when
 the bread is deep golden brown, the oil is ready.
 

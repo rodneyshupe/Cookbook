@@ -22,9 +22,9 @@ Ingredients
 
 Directions
 ----------
-1. Adjust oven rack to middle position and heat oven to 475°F.
+1. Adjust oven rack to middle position and heat oven to 475F.
 2. Combine oil, garlic, pepper flakes, and 1/2 teaspoon salt in 12-inch,
-   ovensafe nonstick skillet and sauté over medium-high heat until fragrant,
+   ovensafe nonstick skillet and saute over medium-high heat until fragrant,
    about 1 minute. Add crushed tomatoes, water, ziti, and 1/2 teaspoon salt.
    Cover and cook, stirring often and adjusting heat as needed to maintain
    vigorous simmer, until ziti is almost tender, 15 to 18 minutes.

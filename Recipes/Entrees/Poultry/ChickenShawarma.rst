@@ -31,4 +31,3 @@ Directions
 3. When ready to cook, heat grill to medium high. Put the chicken onto the
    skewers, oil the grill and cook away - turning often until between
    175 & 180 degrees, then remove and serve with the white garlic sauce.
-‍

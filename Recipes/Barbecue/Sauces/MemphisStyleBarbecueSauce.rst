@@ -6,10 +6,10 @@ Memphis Style Barbecue Sauce
 +-----------------------+-----------------------+---------------+
 
 Whether there is a true style to a sauce in a city that prefers their
-barbecue “dry” is a debate for the ages. Through the rumblings I’m sure
+barbecue "dry" is a debate for the ages. Through the rumblings I'm sure
 will follow, what is fairly solid is as we move east from Kansas City,
 barbecue sauce starts to transform from thick and sweet, to the thinner
-and tangier kind. This “Memphis-style” takes the aspects of sweet
+and tangier kind. This "Memphis-style" takes the aspects of sweet
 tomato-based sauces, but by dialing back the sugar and amping up the
 vinegar, creates a sauce where seasonings and spice are more defined and
 achieves a pleasing balance between the main defining aspects of a

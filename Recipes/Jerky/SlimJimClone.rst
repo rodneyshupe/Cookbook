@@ -30,4 +30,4 @@ Directions
 4. Using a jerky gun, load the gun with the ground beef mixture and
    shoot 6" sticks, using round tip, onto a dehydrator tray or on a
    baking sheet.
-5. Dehydrate at 160°F for 4 1/2 to 5 hours
+5. Dehydrate at 160F for 4 1/2 to 5 hours

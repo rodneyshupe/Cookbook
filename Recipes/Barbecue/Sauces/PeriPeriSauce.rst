@@ -27,9 +27,9 @@ Ingredients
 Directions
 ----------
 
-1. If you are using fresh red chiles – it is important that they be red,
-   for the proper color of piri piri – chop them roughly. If you really
-   want to make this authentic, find yourself the tiny “bird’s eye”
+1. If you are using fresh red chiles - it is important that they be red,
+   for the proper color of piri piri - chop them roughly. If you really
+   want to make this authentic, find yourself the tiny "bird's eye"
    chiles, which are appallingly hot. Any hot chile will do, though.
 2. Throw everything into a food processor except the oil. Buzz on high
    until smooth.

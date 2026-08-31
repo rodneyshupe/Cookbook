@@ -21,7 +21,7 @@ Ingredients
 Directions
 ----------
 
-1. Adjust oven rack to middle position and heat oven to 375°F. Line 2
+1. Adjust oven rack to middle position and heat oven to 375F. Line 2
    rimmed baking sheets with parchment paper. Whisk flour, salt, baking
    soda and baking powder together in medium bowl; set aside.
 2. In a large bowl mix together sugar and margarine until combined. Add

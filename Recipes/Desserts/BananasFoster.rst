@@ -5,23 +5,23 @@ Bananas Foster
 | Prep Time: 10 minutes | Cook Time: 10 minutes | Yield: 4 servings |
 +-----------------------+-----------------------+-------------------+
 
-In the 1950’s, New Orleans was the major port of entry for bananas
+In the 1950's, New Orleans was the major port of entry for bananas
 shipped from Central and South America. Owen edward Brennan challenged
 his talented chef, Paul Blange, to include bananas in a new culinary
-creation - Owen’s way of promoting the imported fruit. Simultaneously,
+creation - Owen's way of promoting the imported fruit. Simultaneously,
 Holiday Magazine had asked Owen to provide a new recipe to appear in a
-feature article on Brennan’s.
+feature article on Brennan's.
 
 In 1951, Chef Paul created Bananas Foster. The scrumptious dessert was
 named for Richard Foster, who, as chairman, served with Owen on the New
 Orleans Crime Commission, a civic effort to clean up the French Quarter.
 Richard Foster, owner of the Foster Awning Company, was a frequent
-customer of Brennan’s and a very good friend of Owen.
+customer of Brennan's and a very good friend of Owen.
 
 Little did anyone realize that Bananas Foster would become an
 international favorite and is the most requested item on the
-restaurant’s menu. Thirty-five thousand pounds of bananas are flamed
-each year at Brennan’s in the preparation of its world-famous dessert.
+restaurant's menu. Thirty-five thousand pounds of bananas are flamed
+each year at Brennan's in the preparation of its world-famous dessert.
 
 Ingredients
 -----------

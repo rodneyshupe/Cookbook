@@ -16,7 +16,7 @@ Directions
 ----------
 
 1. **Meat**: Trim as much of the fat off as possible. Slice the meat
-   with the grain into 3-6 mm (1/8" - 1/4“) thick strips. You may use
+   with the grain into 3-6 mm (1/8" - 1/4") thick strips. You may use
    any cut of meat you like but remember that meat with a high fat
    content will become rancid faster. Top round steak or flank steak
    work well. To save time you can buy eye of round rouladin cut. Also
@@ -34,7 +34,7 @@ Dehydration
 1. Remove meat strips from refrigerator, place on oiled smoker racks and
    allow to air dry for at least one hour.
 2. If marinade uses liquid smoke you can just dehydrate the meat in the
-   smoker or oven at approx. 70°C (160°F). If using the smoker ensure
+   smoker or oven at approx. 70C (160F). If using the smoker ensure
    the vent is fully open and no water in the drip bowl. If using the
    oven leave the door open slightly using a wooden spoon to allow
    moisture to escape.

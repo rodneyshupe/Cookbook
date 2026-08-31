@@ -17,7 +17,7 @@ Ingredients
 -  2 tablespoons garlic powder
 -  2 tablespoons granulated white sugar
 -  2 tablespoons mild indian curry powder
--  2 tablespoons dry hot mustard powder (Keen’s or Coleman’s)
+-  2 tablespoons dry hot mustard powder (Keen's or Coleman's)
 -  1 tablespoons freshly ground black pepper
 -  1 tablespoons dried basil
 -  1 tablespoons dried thyme

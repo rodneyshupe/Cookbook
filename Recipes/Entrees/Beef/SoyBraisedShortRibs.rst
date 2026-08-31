@@ -35,7 +35,7 @@ Directions
    marinade around so all the meat is evenly coated. Refrigerate overnight.
 3. A few hours before you want to cook the ribs, pull them out of the
    fridge to come up to room temperature. Adjust oven rack to middle
-   position and preheat to 400°F.
+   position and preheat to 400F.
 4. Set a large cast-iron skillet over medium-high heat to preheat. When pan
    is hot, drop the temperature to medium-low, add just enough oil to coat
    the bottom. Working in batches so as not to crowd pan, brown a few short
@@ -44,13 +44,13 @@ Directions
    gradually; it may take 4 to 5 minutes per side for well-browned ribs.
 5. Transfer the ribs, bone-side down, to a large Dutch oven or a large,
    deep ceramic or pyrex roasting dish, then pour the marinade over the
-   meat.  It’s fine if the ribs are snug, but they should all fit in a
-   single layer. Add enough dashi to go about ¾-inch up the sides of the
+   meat.  It's fine if the ribs are snug, but they should all fit in a
+   single layer. Add enough dashi to go about 3/4-inch up the sides of the
    ribs, then cover with lid or parchment and aluminum foil. Slide into the
    oven and cook until the liquid simmers, about 30 minutes, then reduce
-   heat to 325°F and cook until meat is very tender and falling off the
+   heat to 325F and cook until meat is very tender and falling off the
    bone, 3 to 4 hours more.
-6. Uncover pot or dish and crank oven to 450°F. Brush ribs with the braising
+6. Uncover pot or dish and crank oven to 450F. Brush ribs with the braising
    juices and cook for about until shiny and brown, about 8 to 12 minutes.
 7. Serve warm, garnished with cilantro and slivered scallions.
 

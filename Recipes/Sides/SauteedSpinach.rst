@@ -19,14 +19,14 @@ Directions
 ----------
 
 1. In a large, wide pot or Dutch oven, heat the oil over medium-high flame
-   and sauté the optional chopped shallot until soft, about three minutes.
+   and saute the optional chopped shallot until soft, about three minutes.
    Add the garlic for the last minute (so it becomes fragrant and slightly
-   browned, but doesn’t burn).
+   browned, but doesn't burn).
 2. Add as much of the spinach that will fit in the pot and occasionally toss
    with tongs. As it wilts down, keep adding more until the entire bag is
    used up. This should take about two minutes.
 3. Turn the heat to high, and cook the spinach for another minute or so,
-   stirring continuously, until the spinach is wilted and well sautéed. Mix
+   stirring continuously, until the spinach is wilted and well sauteed. Mix
    in the salt and pepper.
 4. Taste, and season with additional salt and pepper as needed. You can also
    add a squeeze of fresh lemon juice to brighten it up (start with one

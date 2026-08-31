@@ -32,7 +32,7 @@ Chocolate Cream Sauce
 Directions
 ----------
 
-1. In a large cooking pot or wok add canola oil, heat to 375°F.
+1. In a large cooking pot or wok add canola oil, heat to 375F.
    (Checked with a thermometer)
 2. Prepare caramel sauce; Combine all the ingredients in a small pan and
    stir until the sugar has dissolved and the butter has melted. Bring

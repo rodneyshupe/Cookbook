@@ -28,7 +28,7 @@ Directions
 ----------
 
 1. Pat dry prawns and scallops and season with salt and pepper. In a medium
-   hot pan sauté prawns and scallops in olive oil until golden brown, then
+   hot pan saute prawns and scallops in olive oil until golden brown, then
    set aside.
 2. Add sausage to now empty pan and fry until browned, about 3 min. Add
    carrot, and celery and cook for about 3 minutes.  Add mushrooms, red pepper

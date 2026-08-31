@@ -7,7 +7,7 @@ Grilled Caesar Salad
 
 Ingredients
 -----------
-- 3 cups cubed French bread, about 1 ½-inch cubes
+- 3 cups cubed French bread, about 1 1/2-inch cubes
 - 1 tablespoon unsalted butter
 - 2 tablespoons olive oil, divided
 - 1/4 teaspoon garlic powder
@@ -15,7 +15,7 @@ Ingredients
 - 4 lemons, halved
 - 2 teaspoons anchovy paste
 - 2 teaspoons Dijon mustard
-- 1–2 cloves garlic, minced
+- 1-2 cloves garlic, minced
 - 1 tablespoon red wine vinegar
 - 1/4 cup extra virgin olive oil
 - Parmigiano Reggiano shavings

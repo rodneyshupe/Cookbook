@@ -11,7 +11,7 @@ Guide to Nitrites, Prague Powder, and Other Curing Salts
 
 Picture the incarnadine color of corned beef and pastrami. The
 shimmering translucence and satin texture of Spanish lomo (cured pork
-loin) and bresaola and bündnerfleisch (respectively, Italian and Swiss
+loin) and bresaola and bundnerfleisch (respectively, Italian and Swiss
 air-dried beef). The rich hammy flavor of bacon, prosciutto, and jamon
 serrano. The complex umami flavors, not to mention the remarkable shelf
 life of dry-cured sausage and salami.
@@ -33,20 +33,20 @@ The ancient egyptians used the technique, as did the Chinese. The
 ancient Romans were the first to record the color- and flavor-enhancing
 effect of nitrates/nitrites on animal proteins.
 
-But it wasn’t until the early twentieth century that scientists
+But it wasn't until the early twentieth century that scientists
 identified the connection between these naturally occurring compounds
 and the suppression of food-borne illnesses like Clostridium botulinum
 (botulism) and Listeria monocytogenes.
 
 In 1925, one Karl Max Seifert, took out a U.S. patent for a meat cure
-called “Prague Powder”-subsequently sold to the Illinois-based Griffith
+called "Prague Powder"-subsequently sold to the Illinois-based Griffith
 Laboratories in 1934. Whatever link the substance had to the capital of
 the Czech Republic has been lost to history.
 
-We know what you’re thinking-and we sense your unease: Don’t
-nitrates/nitrites cause cancer? Isn’t that why people buy anemic-looking
+We know what you're thinking-and we sense your unease: Don't
+nitrates/nitrites cause cancer? Isn't that why people buy anemic-looking
 uncured bacon and nitrate-free hot dogs the color of the cardboard boxes
-they’re shipped in? You may remember the controversy that flared in the
+they're shipped in? You may remember the controversy that flared in the
 mid-1970s over nitrates/nitrites-but missed the news that curing salts
 were effectively cleared of the charges. In fact, the National
 Toxicology Program, an agency within the U.S. Department of Health and
@@ -61,28 +61,28 @@ nitrates) comes from leafy vegetables and tubers. The maximum amount of
 nitrites allowed in cured meats by the United States Department of
 Agriculture (USDA) is 156 parts per million (ppm), and is usually lower
 than that. In contrast, spinach, lettuce, celery, beets, radishes, and
-carrots can contain up to 1900 ppm! As far as I know, no one’s sounding
+carrots can contain up to 1900 ppm! As far as I know, no one's sounding
 the alarm on these vegetables.
 
-And those uncured hot dogs or bacon you’ve been conscientiously paying
+And those uncured hot dogs or bacon you've been conscientiously paying
 more for? Most are processed using celery or beet juice, whose nitrates
 turn into nitrites when they react with the saliva in your mouth. In
 many cases, they potentially contain more nitrites than traditionally
 cured meats.
 
 But please note: Nitrates and nitrites can be toxic when not used at
-recommended levels. That’s why most curing salts are tinted pink-to make
-sure you don’t confuse them with ordinary table salt. (Do not confuse
+recommended levels. That's why most curing salts are tinted pink-to make
+sure you don't confuse them with ordinary table salt. (Do not confuse
 them with Himalayan pink salt, either.)
 
 While curing salts might seem like an obscure subject, a growing number
 of home pit masters-not to mention recent grads of Barbecue
-University™-have taken to curing and smoking their own bacon, pastrami,
+University(TM)-have taken to curing and smoking their own bacon, pastrami,
 jerky, etc.
 
 Interested? I thought so.
 
-So here’s a guide to the various curing salts and what you use them for.
+So here's a guide to the various curing salts and what you use them for.
 
 Prague Powder No 1
 ------------------
@@ -90,11 +90,11 @@ Prague Powder No 1
 Also called pink curing salt, InstaCure #1, sel rose, Quick Cure, tinted
 curing mixture (TCM), Modern Cure, and DQ Cure. Cures are used to
 prevent meats from spoiling when being cooked or smoked at low
-temperatures (under 200°F). This cure is 1 part sodium nitrite (6.25%)
+temperatures (under 200F). This cure is 1 part sodium nitrite (6.25%)
 and 16 parts salt (93.75%) and are combined and crystallized to assure
 even distribution. As the meat temperate rises during processing, the
-sodium nitrite changes to nitric oxide and starts to ‘gas out’ at about
-130°F. After the smoking /cooking process is complete only about 10-20%
+sodium nitrite changes to nitric oxide and starts to 'gas out' at about
+130F. After the smoking /cooking process is complete only about 10-20%
 of the original nitrite remains. As the product is stored and later
 reheated for consumption, the decline of nitrite continues. 4 ounces of
 Prague powder #1 is required to cure 100 lbs of meat. A more typical
@@ -102,7 +102,7 @@ measurement for home use is 1 level tsp per 5 lbs of meat. As some of
 its alternate names imply, it works quickly. Meats like sausage can be
 smoked or cooked right away. If brining, use 3 ounces per gallon of
 water and allow enough time for the salts to penetrate the food, usually
-24 hours. Follow the manufacturer’s directions carefully. Again,
+24 hours. Follow the manufacturer's directions carefully. Again,
 nitrates/nitrites can be toxic when not used in the recommended
 proportions. Use for wet-cured hams, jerky, salami, pastrami, sausage,
 cured fish, corned beef, and bacon.
@@ -130,19 +130,19 @@ prohibited.
 Morton Tender Quick
 -------------------
 
-Morton® Tender Quick®: This product has no alternate names. Sold at the
-retail level in 2-pound bags, Tender Quick® contains salt, sugar (also a
+Morton(R) Tender Quick(R): This product has no alternate names. Sold at the
+retail level in 2-pound bags, Tender Quick(R) contains salt, sugar (also a
 preservative), an anti-caking agent, and one-half percent each of sodium
 nitrite and sodium nitrate. It is less concentrated than other curing
-salts, and unlike the salts above, is not pink. The company’s
-recommended formula for dry cures is one tablespoon of Tender Quick® for
-every pound of meat. For a wet brine, add one cup of Tender Quick® to
+salts, and unlike the salts above, is not pink. The company's
+recommended formula for dry cures is one tablespoon of Tender Quick(R) for
+every pound of meat. For a wet brine, add one cup of Tender Quick(R) to
 four cups of water. Use for cured and smoked meat, poultry, game, and
 fish, such as salmon, shad, and sablefish.
 
-On a side note, Tender Quick® is sometimes used to “hack” a smoke ring.
-Unscrupulous competitors on the barbecue circuit sometimes “paint” their
-meats with a mixture of Tender Quick® and water to fake or exaggerate a
+On a side note, Tender Quick(R) is sometimes used to "hack" a smoke ring.
+Unscrupulous competitors on the barbecue circuit sometimes "paint" their
+meats with a mixture of Tender Quick(R) and water to fake or exaggerate a
 reddish-pink smoke ring. For the record, contests sanctioned by the
 Kansas City Barbecue Society (KCBS) no longer include smoke rings in
 their judging criteria.
@@ -150,17 +150,17 @@ their judging criteria.
 Morton Sugar Cure
 -----------------
 
-Morton® Sugar Cure® (Plain): Like the Tender Quick® above, this product
-from salt purveyor Morton® contains both sodium nitrite and nitrate. But
+Morton(R) Sugar Cure(R) (Plain): Like the Tender Quick(R) above, this product
+from salt purveyor Morton(R) contains both sodium nitrite and nitrate. But
 some of the salt is replaced by sugar, making it an excellent choice for
 bacon, hams, and jerky. Follow package directions. Not sold in Canada.
 
 Morton Smoke Flavored Sugar Cure
 --------------------------------
 
-Morton® Sugar Cure® (Smoke Flavored): Recommended by the company for
+Morton(R) Sugar Cure(R) (Smoke Flavored): Recommended by the company for
 long dry cures (not brines), this product is chemically similar to the
-Morton® Sugar Cure® above. But it also contains hickory smoke flavoring,
+Morton(R) Sugar Cure(R) above. But it also contains hickory smoke flavoring,
 spices, and dextrose. Often used for hams or bacon.
 
 Summary
@@ -186,7 +186,7 @@ Summary
    above contain FDA approved red coloring agent that gives them a
    slight pink color thus eliminating any possible confusion with common
    salt
--  Morton’s Tender Quick is a mixture of salt, sodium nitrite, sodium
+-  Morton's Tender Quick is a mixture of salt, sodium nitrite, sodium
    nitrate and sugar. You normally use 1 level tablespoon of cure for 1
    lb. of meat.
 -  Saltpeter is potassium nitrate and is also used as a curing agent but
@@ -204,11 +204,11 @@ General
    instructions and the date(s) they need attention (turning, refreshing
    the brine or dry rub, smoking, etc.). Transcribe the dates to your
    calendar.
--  Unless air-drying, always hold meat at temperatures between 36°F and
-   40°F.
+-  Unless air-drying, always hold meat at temperatures between 36F and
+   40F.
 -  To avoid excessive saltiness, soak cured meats or fish in cold water,
    then air dry before smoking or barbecueing.
--  Avoid the “guy syndrome,” which holds that if some is good, more is
+-  Avoid the "guy syndrome," which holds that if some is good, more is
    better (e.g., hot sauce, bourbon, wood chips, etc.). When it comes to
    curing salts, use only the recommended quantities. Store them in the
    original containers and scrupulously follow the directions on the
@@ -224,7 +224,7 @@ Dry-Curing
    off any liquids that accumulate.
 -  Turn the food curing in your refrigerator once a day.
 -  Divide dry rubs into batches and reapply the rub every three days or
-   so. This is called “overhauling.”
+   so. This is called "overhauling."
 
 Brining
 -------

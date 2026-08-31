@@ -18,7 +18,7 @@ Ingredients
 Directions
 ----------
 
-1. Adjust oven rack to middle position and heat oven to 350°F.
+1. Adjust oven rack to middle position and heat oven to 350F.
 2. Spoon 1/2 teaspoon jelly into each filo cup. Place 1 piece of Brie in
    each cup and sprinkle with 1/4 teaspoon almonds. Place phyllo cups on
    parchment-lined baking sheet. Bake until cheese is melted and jelly
@@ -41,7 +41,7 @@ using 6 frozen phyllo sheets and 1/8 cup melted butter.
    butter. Top with second sheet; brush with butter. Top with third
    sheet; brush with butter. Cut lengthwise into 4 strips and crosswise
    into 6 strips to make 24 squares.
-3. Press each square into prepared cup. Bake in centre of 400°F oven for
+3. Press each square into prepared cup. Bake in centre of 400F oven for
    about 5 minutes or until golden. Let cool in pan on rack. Repeat with
    remaining phyllo.
 

@@ -50,9 +50,9 @@ Directions
 Notes
 -----
 
-If you can’t find cornichons, chopped kosher dill pickles can be used in
+If you can't find cornichons, chopped kosher dill pickles can be used in
 their place.
 
-To maintain its consistency, don’t refrigerate the salad; it should be
+To maintain its consistency, don't refrigerate the salad; it should be
 served within 4 hours of preparation.
 

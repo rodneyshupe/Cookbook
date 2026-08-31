@@ -42,8 +42,8 @@ Directions
    and onion powder in a large shallow dish.
 4. Remove chicken from the buttermilk and dredge each piece in the
    seasoned flour. Shake off any excess and transfer to a plate.
-5. Heat oil (preferably peanut oil) in a large Dutch oven to 350°F
-   (175°C). Add all the chicken to the pan and cook for 10 minutes.
+5. Heat oil (preferably peanut oil) in a large Dutch oven to 350F
+   (175C). Add all the chicken to the pan and cook for 10 minutes.
 6. Turn chicken pieces and cook for another 10-15 minutes.
 7. Remove chicken from the oil and transfer to a cooling rack set over a
    paper towel lined baking sheet. Let sit for 10 minutes before

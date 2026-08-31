@@ -37,14 +37,14 @@ pan, including the bottom, the sides, and even the handle. The grill or
 pan should have a slight sheen to it, but no standing puddles of oil or
 thick areas of buildup. Follow the rule of thumb for any other finish -
 shoot for a nice thin even coat. You can always apply more, and, as
-you’ll soon see, you will.
+you'll soon see, you will.
 
-Step 3: Bake at 500°F for 30 Minutes
+Step 3: Bake at 500F for 30 Minutes
 ------------------------------------
 
-Place the oiled pan inside a 500°F oven for 30 minutes. You can also use
+Place the oiled pan inside a 500F oven for 30 minutes. You can also use
 your gas grill for this purpose. Some sources say to heat the pan for
-longer, but, if you’ve put on a thin coat of oil I’ve found that 30
+longer, but, if you've put on a thin coat of oil I've found that 30
 minutes is plenty long enough.
 
 The pan will smoke a bit during this process. That is completely fine
@@ -54,21 +54,21 @@ smell a bit strange, the smell will go away.
 Step 4: Repeat 4 to 7 Times
 ---------------------------
 
-Once you’ve “cooked” the pan for 30 minutes, remove it from the oven and
-let the pan sit until it’s cool enough to touch. When you’re sure it’s
+Once you've "cooked" the pan for 30 minutes, remove it from the oven and
+let the pan sit until it's cool enough to touch. When you're sure it's
 not still hot, reapply a thin coat of oil using the same method
 described in step 2, put it back into the oven and cook it for another
 half an hour.
 
-Keep repeating this process until you’ve gone through as many cycles as
-you’d like. I’ve found that 4 to 7 rounds was enough to result in a
+Keep repeating this process until you've gone through as many cycles as
+you'd like. I've found that 4 to 7 rounds was enough to result in a
 semi-gloss, beautifully smooth, tough, black finish that is ready for
 use.
 
 Note
 ----
 
-As with any other cast iron pan seasoning, You don’t want to use soap on
-the pan when cleaning it, but with this method, I’ve found that using a
-mildly abrasive sponge when doing the dishes doesn’t seem to affect the
+As with any other cast iron pan seasoning, You don't want to use soap on
+the pan when cleaning it, but with this method, I've found that using a
+mildly abrasive sponge when doing the dishes doesn't seem to affect the
 finish at all.

@@ -27,14 +27,14 @@ Ingredients
 Directions
 ----------
 
-1. Adjust oven rack to upper-middle position and heat oven to 225°F.
+1. Adjust oven rack to upper-middle position and heat oven to 225F.
    Toss shrimp, rice wine, and 1 teaspoon salt together in large bowl
    and set aside for 10 to 15 minutes.
 2. Grind black peppercorns and Sichuan peppercorns in spice grinder or
    mortar and pestle until coarsely ground. Transfer peppercorns to
    small bowl and stir in sugar and cayenne.
 3. Heat oil in large Dutch oven over medium heat until oil registers
-   385°F. While oil is heating, drain shrimp and pat dry with paper
+   385F. While oil is heating, drain shrimp and pat dry with paper
    towels. Transfer shrimp to bowl, add 3 tablespoons cornstarch and 1
    tablespoon peppercorn mixture, and toss until well combined.
 4. Carefully add half of shrimp to oil and fry, stirring occasionally to
@@ -42,7 +42,7 @@ Directions
    minutes. Using wire skimmer or slotted spoon, transfer shrimp to
    paper towel-lined plate. Once paper towels absorb any excess oil,
    transfer shrimp to wire rack set in rimmed baking sheet and place in
-   oven. Return oil to 385°F and repeat in 2 more batches, tossing each
+   oven. Return oil to 385F and repeat in 2 more batches, tossing each
    batch thoroughly with coating mixture before frying.
 5. Toss jalapeno rings and remaining 2 tablespoons cornstarch in medium
    bowl. Shaking off excess cornstarch, carefully add jalapeno rings to

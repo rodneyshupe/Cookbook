@@ -76,21 +76,21 @@ Directions
    wide cut-side down, on rack. (If using sirloin end, place ham
    skin-side up.) Let ham stand, uncovered, at room temperature 1 hour.
 4. Meanwhile, adjust oven rack to lowest position and heat oven to
-   500°F. In work bowl of food processor fitted with steel blade,
+   500F. In work bowl of food processor fitted with steel blade,
    process sage, parsley, garlic, salt, pepper, and oil until mixture
    forms smooth paste, about 30 seconds. Rub all sides of ham with
    paste.
-5. Roast ham at 500°F for 20 minutes. While ham is roasting make the
+5. Roast ham at 500F for 20 minutes. While ham is roasting make the
    glaze. Bring all glaze ingredients to boil in small nonreactive
    saucepan over high heat; reduce heat to medium-low and simmer until
    syrupy and reduced to about 1 1/3 cups, 5 to 7 minutes. (Glaze will
    thicken as it cools between bastings; cook over medium heat about 1
    minute, stirring once or twice, before using.)
-6. Reduce oven temperature to 350°F and continue to roast, brushing ham
-   with glaze every 45 minutes, until center of ham registers 145°F to
-   150°F on instant-read thermometer (see illustration below for
+6. Reduce oven temperature to 350F and continue to roast, brushing ham
+   with glaze every 45 minutes, until center of ham registers 145F to
+   150F on instant-read thermometer (see illustration below for
    thermometer placement), about 2 1/2 hours longer. Tent ham loosely
-   with foil and let stand until center of ham registers 155°F to 160°F
+   with foil and let stand until center of ham registers 155F to 160F
    on thermometer, 30 to 40 minutes. Carve, following instructions
    below, and serve.
 

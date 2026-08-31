@@ -13,7 +13,7 @@ Ingredients
 -----------
 
 - 1 cup apple cider vinegar
-- 4 jalapeños, seeded and finely chopped
+- 4 jalapenos, seeded and finely chopped
 - 3 poblano peppers, seeded and finely chopped
 - 1 red bell pepper, seeded and finely chopped
 - 3 cups sugar

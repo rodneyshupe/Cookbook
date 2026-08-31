@@ -46,7 +46,7 @@ Directions
 2. Adjust oven rack 6 inches from broiler element and heat broiler. Combine
    chicken, yogurt, and remaining 1 teaspoon salt in bowl and toss well to
    coat. Using tongs, transfer chicken to wire rack set in aluminum
-   foil—lined rimmed baking sheet. Broil until chicken is evenly charred on
+   foil-lined rimmed baking sheet. Broil until chicken is evenly charred on
    both sides and registers 175 degrees, 16 to 20 minutes, flipping chicken
    halfway through broiling.
 3. Let chicken rest for 5 minutes. While chicken rests, warm sauce over

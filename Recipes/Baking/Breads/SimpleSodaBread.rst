@@ -18,7 +18,7 @@ Ingredients
 Directions
 ----------
 
-1. Set a rack in the middle of your oven and preheat it to 450°F. Mix the
+1. Set a rack in the middle of your oven and preheat it to 450F. Mix the
    flour, baking soda, and salt in a large bowl until they are fully
    incorporated.
 2. Form a well in the center of the flour mixture and fill the well with
@@ -31,7 +31,7 @@ Directions
    round 6 inches in diameter and about 1 1/2 inches thick.
 5. Place the dough in a Dutch oven or cast iron skillet. Use a sharp knife
    to cut a large x into the top of the dough.
-6. Bake for 10 minutes at 450°F. Then lower the oven temperature to 400°F
+6. Bake for 10 minutes at 450F. Then lower the oven temperature to 400F
    and continue baking until the bread is golden brown and crusty on the
    outside, about 20 minutes. Transfer to a rack and cool.
    

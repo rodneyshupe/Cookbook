@@ -1,4 +1,4 @@
-Bringin’ the Funk
+Bringin' the Funk
 =================
 
 +-----------------------+-----------------------------+
@@ -17,6 +17,6 @@ Ingredients
 - 2 Fresno chile top chopped off and chrushed
 - 2 1 inch piece ginger, peeled and chrushed
 - 1/4 cup gochujang
-- 1/2 teaspoon Chinese five–spice powder
+- 1/2 teaspoon Chinese five-spice powder
 - Sesame seeds (for topping)
 

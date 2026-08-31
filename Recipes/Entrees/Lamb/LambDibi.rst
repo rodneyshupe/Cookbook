@@ -16,7 +16,7 @@ Ingredients
 - 2 tablespoons red wine vinegar 
 - 1 teaspoon chili flakes
 - 1 lemon
-- 2 medium yellow onions, sliced into ½-inch thick pieces (about 12 ounces|340 grams)
+- 2 medium yellow onions, sliced into 1/2-inch thick pieces (about 12 ounces|340 grams)
 - 1 tablespoon whole grain mustard
 - 1/2 recipe of `Mustard Sauce <#mustard-sauce>`__
 
@@ -32,7 +32,7 @@ Directions
    onions and refrigerate overnight.
 3. Grill the lamb and onions: Light a grill. Grill the lamb until charred
    on the outside and cooked to your liking. If grilling inside, you may
-   need to finish the lamb in a 400°F oven.
+   need to finish the lamb in a 400F oven.
 4. Grill the onions until soft and lightly charred, 7 to 8 minutes.
    Transfer the lamb to a cutting board to rest for 10 minutes, then thinly
    slice. 

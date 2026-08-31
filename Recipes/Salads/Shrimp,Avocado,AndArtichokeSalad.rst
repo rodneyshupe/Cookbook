@@ -32,8 +32,8 @@ Roasted Peppers
 Directions
 ----------
 
-1. Preheat oven to 375°F
-2. Remove the top part of the pepper, (core side) making a slice across by a 1/2 “ down.
+1. Preheat oven to 375F
+2. Remove the top part of the pepper, (core side) making a slice across by a 1/2 " down.
 3. Remove seeds carefully, not to break the peppers.
 4. Line baking dish with parchment paper. Place peppers and tops onto baking dish. Season the inside with salt and pepper.
 5. Blend oil, sage, garlic, seasoning, and ginger together in small bowl.

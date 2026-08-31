@@ -24,7 +24,7 @@ Directions
 ----------
 
 1. Cook bacon in large saucepan over medium heat until crisp, 6 to 8
-   minutes. Using slotted spoon, transfer bacon to paper towel–lined
+   minutes. Using slotted spoon, transfer bacon to paper towel-lined
    plate. Pour off all but 2 tablespoons fat from pan and return pan to
    medium heat. Add scallion whites, ginger, and pepper flakes and cook
    until scallion whites have softened, about 2 minutes. Add mushrooms

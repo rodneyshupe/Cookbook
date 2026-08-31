@@ -27,7 +27,7 @@ Directions
    and bottom 1/4 inch of fillets turns opaque, 6 to 8 minutes.
 3. Using tongs, flip fillets and continue to cook without moving them
    until centers are still translucent when checked with tip of paring
-   knife and register 125°F, 6 to 8 minutes longer. Transfer fillets
+   knife and register 125F, 6 to 8 minutes longer. Transfer fillets
    skin side down to serving platter and let rest for 5 minutes before
    serving with lemon wedges Or `mango mint salsa <#mango-mint-salsa>`__
    Or `cilantro-mint chutney <#cilantro-mint-chutney>`__.

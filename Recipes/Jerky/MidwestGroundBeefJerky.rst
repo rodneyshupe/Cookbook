@@ -28,7 +28,7 @@ Directions
 2. Add to ground beef and mix seasonings thoroughly
 3. Using a jerky gun, load the gun with the ground beef mixture and
    shoot 4-5" long strips onto a dehydrator tray or on a baking sheet.
-4. Dehydrate at 160°F for 3 1/2 hours
+4. Dehydrate at 160F for 3 1/2 hours
 5. Ground jerky is finished when it first starts becoming dry to the
    touch. It should bend without breaking in half. If it cracks in half
    when bent a little bit, it was over dried

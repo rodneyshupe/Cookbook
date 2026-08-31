@@ -17,7 +17,7 @@ Ingredients
 Directions
 ----------
 
-1. Preheat oven to 350°F.
+1. Preheat oven to 350F.
 2. Place garlic and salt into a small bowl. Mash garlic into a paste
    using the back of a spoon. Add sun-dried tomatoes and cilantro. Mix
    until combined.

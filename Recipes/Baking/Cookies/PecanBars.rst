@@ -33,7 +33,7 @@ Directions
 ----------
 
 1. FOR THe CRUST: Adjust oven rack to lowest position and heat oven to
-   350°F. Make foil sling for 13 by 9-inch baking pan by folding 2 long
+   350F. Make foil sling for 13 by 9-inch baking pan by folding 2 long
    sheets of aluminum foil; first sheet should be 13 inches wide and
    second sheet should be 9 inches wide. Lay sheets of foil in pan
    perpendicular to each other, with extra foil hanging over edges of
@@ -66,6 +66,6 @@ Notes
 *It is important to use pecan halves, not pieces. The edges of the bars
 will be slightly firmer than the center. If desired, trim 1/4 inch from
 the edges before cutting into bars. Toast the pecans on a rimmed baking
-sheet in a 350°F oven until fragrant, 8 to 12 minutes, shaking the sheet
+sheet in a 350F oven until fragrant, 8 to 12 minutes, shaking the sheet
 halfway through.*
 

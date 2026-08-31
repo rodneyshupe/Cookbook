@@ -39,7 +39,7 @@ Directions
    powder, 1 teaspoon black pepper, and hot sauce together in large
    bowl. Add chicken, turn to coat well, cover, and refrigerate at least
    1 hour or overnight.
-2. Adjust oven rack to upper-middle position and heat oven to 400°F.
+2. Adjust oven rack to upper-middle position and heat oven to 400F.
    Line rimmed baking sheet with foil, set wire rack on sheet, and coat
    rack with nonstick cooking spray.
 3. Gently toss corn flakes, bread crumbs, remaining 1/2 teaspoon garlic
@@ -52,7 +52,7 @@ Directions
    each piece.
 4. Bake until chicken is deep golden brown, juices run clear, and
    instant-read thermometer inserted deep into breast away from bone
-   registers 160°F, 35 to 45 minutes.
+   registers 160F, 35 to 45 minutes.
 
 Variation
 ---------

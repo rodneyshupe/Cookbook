@@ -52,17 +52,17 @@ Directions
    15 minutes. Leave primary burner on high and turn off other burner(s).
    Adjust primary burner (or, if using three-burner grill, primary burner and
    second burner) as needed to maintain grill temperature between 400 and
-   450°F.
+   450F.
 6. Clean and oil cooking grate. Remove hens from bag, leaving any marinade
    that sticks to hens in place. Tuck wingtips behind backs and turn legs so
    drumsticks face inward toward breasts. Place hens, skin side up, on cooler
    side of grill (if using charcoal, arrange hens so that legs and thighs
    are facing coals). Cover and cook until skin is browned and breasts
-   register 145 to 150°F, 30 to 35 minutes, rotating hens halfway
+   register 145 to 150F, 30 to 35 minutes, rotating hens halfway
    through cooking.
 7. Using tongs, carefully flip hens skin side down and move to hotter side of
    grill. Cover and cook until skin is crisp, deeply browned, and charred in
-   spots and breasts register 160°F, 3 to 5 minutes, being careful to
+   spots and breasts register 160F, 3 to 5 minutes, being careful to
    avoid burning.
 8. Transfer hens, skin side up, to cutting board; tent with aluminum foil
    and let rest for 10 minutes. Slice each hen in half or into 4 pieces and

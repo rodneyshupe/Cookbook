@@ -32,7 +32,7 @@ Directions
    and and herbs de provence.
 5. Preheat the grill on high for 10 minutes. Roast the chicken indirectly on
    a roasting rack for about 15 minutes per pound until the internal meat
-   temperature is 165°F.
+   temperature is 165F.
 6. Serve with fresh buttered rolls, salad and a bottle of bubbly.
 
 Notes

@@ -24,5 +24,5 @@ Directions
 2. Process all ingredients in food processor until smooth and creamy, about
    30 seconds. Transfer dip to serving bowl, cover with plastic wrap, and
    refrigerate until flavors are blended, at least 1 hour; serve cold with
-   crudités. (Can be refrigerated in airtight container for up to 2 days.)
+   crudites. (Can be refrigerated in airtight container for up to 2 days.)
 

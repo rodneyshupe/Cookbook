@@ -7,7 +7,7 @@ Jar Lunch Soup: Chicken and Dill Instant Noodles
 
 This pot of noodles with roast chicken, peas, and onions can be made
 ahead and taken to work. Just add boiling water, seal it up for three
-minutes, add the contents of the fresh herb packet, and you’ve got a hot
+minutes, add the contents of the fresh herb packet, and you've got a hot
 lunch ready.
 
 

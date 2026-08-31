@@ -25,7 +25,7 @@ Directions
    salt. Pour in water, red wine, and red wine vinegar. Stir to combine.
    Mix in sugar and caraway seeds.
 2. Continue to cook and stir until liquid has evaporated and cabbage is
-   tender, about 5 minutes. If cabbage isn’t quite tender, add a splash
+   tender, about 5 minutes. If cabbage isn't quite tender, add a splash
    of water and continue cooking a few more minutes.
 
 Notes

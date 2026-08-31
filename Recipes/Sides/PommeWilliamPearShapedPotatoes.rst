@@ -26,7 +26,7 @@ Breading
 Directions
 ----------
 
-1. In a small pot add canola oil and heat to 375°F
+1. In a small pot add canola oil and heat to 375F
 2. Cook potatoes in boiling, salted, water until fork tender
 3. Strain potatoes, mash and add seasoning, nutmeg, sour cream, butter and egg yolks. Blend well.
 4. Prepare breading station.

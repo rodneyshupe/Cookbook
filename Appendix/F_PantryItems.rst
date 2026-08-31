@@ -58,8 +58,8 @@ Canned Items
 ============
 
 -  Chipotle in adobo
--  Hunt’s brand Whole Plum Tomatoes
--  Hunt’s brand Tomato Sauce/Puree
--  Hunt’s brand Tomato Crushed
+-  Hunt's brand Whole Plum Tomatoes
+-  Hunt's brand Tomato Sauce/Puree
+-  Hunt's brand Tomato Crushed
 -  Pastene brand Chick Peas
 -  Cream of Mushroom Soup

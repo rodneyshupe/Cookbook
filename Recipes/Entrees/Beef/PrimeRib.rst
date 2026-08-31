@@ -24,16 +24,16 @@ Directions
    Rub 2 tablespoons salt over entire roast and into slits. Place meat back
    on bones (to save space in refrigerator), transfer to large plate, and
    refrigerate, uncovered, at least 24 hours and up to 96 hours.
-2. Adjust oven rack to middle position and heat oven to 200°F. Heat oil
+2. Adjust oven rack to middle position and heat oven to 200F. Heat oil
    in 12-inch skillet over high heat until just smoking. Sear sides and top
    of roast (reserving bone) until browned, 6 to 8 minutes total (do not sear
    side where roast was cut from bone). Place meat back on ribs, so bones fit
    where they were cut, and let cool for 10 minutes; tie meat to bones with
    2 lengths of twine between ribs. Transfer roast, fat side up, to wire rack
    set in rimmed baking sheet and season with pepper. Roast until meat
-   registers 110°F, 3 to 4 hours.
+   registers 110F, 3 to 4 hours.
 3. Turn off oven; leave roast in oven, opening door as little as possible,
-   until meat registers about 120°F for rare or about 125°F for
+   until meat registers about 120F for rare or about 125F for
    medium-rare, 30 to 75 minutes longer.
 4. Remove roast from oven (leave roast on baking sheet), tent loosely with
    aluminum foil, and let rest for at least 30 minutes and up to 75 minutes.
@@ -47,7 +47,7 @@ Directions
 
 Notes
 -----
-- Look for a roast with an untrimmed fat cap (ideally ½ inch thick).
+- Look for a roast with an untrimmed fat cap (ideally 1/2 inch thick).
 - To remove the bones from the roast, use a sharp knife and run it down the
   length of the bones, following the contours as closely as possible until
   the meat is separated.

@@ -39,8 +39,8 @@ Directions
 ----------
 
 1. In a Instant Pot, using the saute function, heat oil and add sausage and
-   sauté for about 5 minutes or until browned. Add onion, celery, bell
-   pepper, garlic and jalapeño, and cook, stirring frequently, about 3
+   saute for about 5 minutes or until browned. Add onion, celery, bell
+   pepper, garlic and jalapeno, and cook, stirring frequently, about 3
    minutes or until fragrant.
 2. Add tomatoes and their juices, broth , thyme, oregano, bay leaves,
    paprika, smoked paprika, salt, pepper, cayenne and fish sauce.

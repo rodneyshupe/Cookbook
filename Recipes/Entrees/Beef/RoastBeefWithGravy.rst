@@ -28,7 +28,7 @@ Directions
 1. SEASON MEAT Pat roast dry with paper towels and rub with 2 teaspoons salt.
    Wrap in plastic wrap and refrigerate at least 1 hour or up to 24 hours.
 2. BROWN ROAST Adjust oven rack to middle position and heat oven to
-   225°F. Pat roast dry with paper towels and rub with 2 teaspoons
+   225F. Pat roast dry with paper towels and rub with 2 teaspoons
    pepper. Heat oil in large ovensafe skillet over medium-high heat until just
    smoking. Brown roast all over, 8 to 12 minutes; transfer to plate.
 3. ROAST BEEF Pour off all but 2 tablespoons fat from pan. Add butter to
@@ -36,7 +36,7 @@ Directions
    lightly browned, 6 to 8 minutes. Add flour and tomato paste and cook until
    flour is golden and paste begins to darken, about 2 minutes. Off heat, push
    vegetables to center of pan. Place roast on top of vegetable and transfer
-   skillet to oven. Cook until meat registers 125°F (for medium-rare),
+   skillet to oven. Cook until meat registers 125F (for medium-rare),
    2 1/2 to 3 1/2 hours. Transfer roast to carving board, tent with foil, and
    let rest 20 minutes.
 4. MAKE GRAVY Meanwhile, keeping in mind that handle will be hot, return

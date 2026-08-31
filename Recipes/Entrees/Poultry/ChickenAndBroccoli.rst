@@ -39,7 +39,7 @@ Directions
 ----------
 
 1. Slice the chicken against the grain into thin bite-size pieces, no
-   thicker than 1/4” (1/2 cm), transfer into a medium-size bowl. Add the
+   thicker than 1/4" (1/2 cm), transfer into a medium-size bowl. Add the
    marinade ingredients. Stir to mix well. Let sit for 10 minutes while
    preparing other ingredients.
 2. Combine all the sauce ingredients in a bowl. Stir to mix well.

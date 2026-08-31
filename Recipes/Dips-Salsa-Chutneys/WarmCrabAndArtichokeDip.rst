@@ -24,7 +24,7 @@ Ingredients
 Directions
 ----------
 
-1. Preheat oven to 375°.
+1. Preheat oven to 375.
 2. In a medium bowl, combine mayonnaise, lemon juice, artichokes, crab,
    parmesan, and salt. Pour into a greased medium gratin dish. Sprinkle with
    almonds and bake until browned and bubbling, about 15 minutes.

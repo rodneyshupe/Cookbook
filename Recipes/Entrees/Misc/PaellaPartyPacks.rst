@@ -30,5 +30,5 @@ Directions
    cover the food. Fold the edges to seal closed.
 5. Place packets on hot grill and cook until the chicken is cooked through
    and the rice is tender, about 25 minutes, flipping once halfway through.
-   (Alternatively, you can bake in oven at 425°F for about 20-25 minutes.)
+   (Alternatively, you can bake in oven at 425F for about 20-25 minutes.)
 

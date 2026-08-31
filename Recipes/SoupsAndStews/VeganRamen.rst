@@ -43,7 +43,7 @@ Directions
    then remove from heat and let sit until mushrooms soften, about 10
    minutes. Remove and discard kombu if using.
 2. Using a slotted spoon, transfer solids to a blender. Add a ladleful or 2
-   of broth to blender and purée until smooth. Stir purée back into broth
+   of broth to blender and puree until smooth. Stir puree back into broth
    in pot and bring to a simmer over medium heat. Add butter a piece at a
    time, whisking to combine after each addition before adding more. Stir
    in soy sauce; season with salt. Reduce heat to low and keep warm until

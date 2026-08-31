@@ -44,7 +44,7 @@ Directions
    sides so they're leaning against walls of pot and each other (rather
    than stacking them flat, one on top of the other). Lock on lid, making
    sure steam release valve is in the proper sealed position. Select
-   “Manual” and program for 9 minutes at high pressure. Let pressure
+   "Manual" and program for 9 minutes at high pressure. Let pressure
    release naturally 10 minutes, then manually release pressure. Unlock lid
    and transfer ribs to a rimmed baking sheet. Let sit at room temperature
    until ready to serve.
@@ -57,7 +57,7 @@ Directions
 5. Pour cooking liquid into a large skillet. Add vinegar, Sriracha, fish
    sauce, and sugar and stir to combine. Add ginger, then bring mixture to
    a boil. Cook, swirling pan occasionally, until liquid is reduced by
-   half, 7–8 minutes. Strain glaze through reserved sieve back into
+   half, 7-8 minutes. Strain glaze through reserved sieve back into
    measuring glass and set close to grill.
 6. Rub a little bit of oil on ribs to lightly coat. Grill ribs, meaty side
    down, until lightly browned, about 2 minutes. Turn ribs, generously
@@ -67,6 +67,6 @@ Directions
    are dark brown and nicely lacquered on both sides with some charred
    spots, about 5 minutes total (smaller end of rack will be done first).
 7. As they finish cooking, transfer ribs to same rimmed baking sheet and
-   brush immediately with glaze. Let cool 5–10 minutes before cutting into
+   brush immediately with glaze. Let cool 5-10 minutes before cutting into
    individual ribs. Serve with any remaining glaze drizzled over; season
    with salt, if needed.

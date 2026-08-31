@@ -34,7 +34,7 @@ Ingredients
 Directions
 ----------
 
-1. Adjust oven rack to middle position and heat oven to 375°F. Grind
+1. Adjust oven rack to middle position and heat oven to 375F. Grind
    shiitake mushrooms in spice grinder until finely ground (you should
    have about 3 tablespoons).
 2. Bring 4 cups water, thyme, bay leaf, garlic clove, 3/4 teaspoon salt,

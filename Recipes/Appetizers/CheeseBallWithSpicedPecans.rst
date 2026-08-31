@@ -25,7 +25,7 @@ Ingredients
 Directions
 ----------
 
-1. Preheat oven to 375°F. Line a small rimmed baking sheet with parchment
+1. Preheat oven to 375F. Line a small rimmed baking sheet with parchment
    paper; set aside.
 2. Stir together cream cheese, Cheddar cheese, mayonnaise, Worcestershire,
    cayenne pepper, garlic powder, and 1/4 cup of the chives in a large bowl

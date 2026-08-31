@@ -7,7 +7,7 @@ Soy-Ginger Salmon
 
 Source: `Food Network Kitchen <https://www.foodnetwork.com/recipes/food-network-kitchen/instant-pot-frozen-sweet-sesame-salmon-8085615>`__
 
-Frozen salmon will cook very quickly and beautifully in the Instant Pot®.
+Frozen salmon will cook very quickly and beautifully in the Instant Pot(R).
 We took advantage of the pressure-cooker function, which can infuse so much
 flavor, by adding savory ingredients like soy sauce and lime. Make note
 that fattier, thicker fish fillets (preferably center cut) hold up to
@@ -31,7 +31,7 @@ Directions
 ----------
 
 1. Add the soy sauce, lime zest and juice, brown sugar, sesame oil, ginger
-   and pepper to the bowl insert of a 6- or 8-quart Instant Pot®. Set to
+   and pepper to the bowl insert of a 6- or 8-quart Instant Pot(R). Set to
    high saute for 3 minutes (see Cook's Note), stirring the sauce with a
    wooden spoon to combine. Add the salmon fillets, turning them to coat
    with the sauce (it's fine it they overlap).

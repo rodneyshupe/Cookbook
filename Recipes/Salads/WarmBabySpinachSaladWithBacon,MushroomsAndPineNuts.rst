@@ -29,7 +29,7 @@ Ingredients
 Directions
 ----------
 
-1. Preheat oven to 400°F
+1. Preheat oven to 400F
 2. Prepare the croutons; cut bread into over size cubes, add garlic, parsley, basil, salt, pepper, and approx 4 tbsp extra virgin olive oil, mix and toss well. Place onto a baking sheet and in the oven until lightly golden and crisp. Do not over bake since you want the croutons to be slightly tender in the centre. Put aside
 3. Wash and pat dry the baby spinach leaves, keep cool, put aside
 4. Toast the pine nuts in the oven on a tray until golden; approx 7-10 minutes, put aside

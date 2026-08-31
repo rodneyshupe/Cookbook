@@ -24,13 +24,13 @@ Directions
 3. Roll chicken, ham and cheese into a tight roll.
 4. Wrap 4 bacon slices around the roll then close off end with the single
    bacon slice. Pin with tooth picks.
-5. Preheat smoker to 250°F and smoke for 2 hours with Hickory.
+5. Preheat smoker to 250F and smoke for 2 hours with Hickory.
 
 Make Ahead
 ----------
 
 Can be prepared in advance (and frozen even frozen) then re-heated in a
-200°F oven for 30 minutes.
+200F oven for 30 minutes.
 
 Notes
 -----

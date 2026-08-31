@@ -18,7 +18,7 @@ Ingredients
 Directions
 ----------
 
-1. Adjust oven rack to upper-middle position and heat oven to 500°F.
+1. Adjust oven rack to upper-middle position and heat oven to 500F.
    Toss Brussels sprouts, oil, water, 3/4 teaspoon salt, and 1/4
    teaspoon pepper in large bowl until sprouts are coated. Transfer
    sprouts to rimmed baking sheet and arrange so cut sides are facing

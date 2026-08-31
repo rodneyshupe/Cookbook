@@ -34,7 +34,7 @@ Directions
 2. Lay corn on a baking sheet in a single layer, then place in freezer.
 3. Taste the water after it comes to a boil. It should be very heavily
    salted and spiced, with a bright orange foam (when standing near the
-   boiling pot causes you to cough, it’s spicy enough).
+   boiling pot causes you to cough, it's spicy enough).
 4. Add potatoes and sausage to the pot, and let the water return to a
    boil. Turn off heat, and allow to soak for 10 minutes or until
    potatoes are barely tender when pierced with a knife. Bring the water

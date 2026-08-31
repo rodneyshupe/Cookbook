@@ -69,13 +69,13 @@ Directions
 Notes
 -----
 
-A medium-bodied, fruity red wine such as Pinot Noir or Rhône Valley
+A medium-bodied, fruity red wine such as Pinot Noir or Rhone Valley
 Grenache is best for this recipe. Avoid bold, heavily oaked red wine s
 like Cabernet and light-bodied wines like Beaujolais.
 
 To use fresh pearl onions, trim the root and stem end of each onion and
 discard. Boil for 1 minute, shock in ice water, then peel a thin strip
-from root to stem. Remove any remaining outer skin (it’s like peeling
+from root to stem. Remove any remaining outer skin (it's like peeling
 off a jacket). If neither frozen nor fresh pearl onions are available,
 substitute one large onion cut into 1/2-inch pieces. (Do not use jarred
 pearl onions, which will turn mushy and disintegrate into the sauce.)

@@ -26,7 +26,7 @@ Ingredients
 - 1 Medium size onion, small diced (Approximately 1 cup)
 - 1 Clove garlic, minced
 - 10 oz. Small chopped or ground pork. (You can use pork loin, shoulder or belly)
-- 14 pieces 2 1/2” cut parchment paper, cupcake paper cup or coffee filter
+- 14 pieces 2 1/2" cut parchment paper, cupcake paper cup or coffee filter
 
 Directions
 ----------
@@ -51,7 +51,7 @@ Directions
    or a towel; let it rest for additional 20 minutes.
 7. When your dough and filling is ready, let's make porks buns. Bring one
    dough at a time to work surface, slightly flatten it with your palm.
-   Using a rolling pin, flatten dough into 3” circle, but make sure center
+   Using a rolling pin, flatten dough into 3" circle, but make sure center
    is slightly thicker than its edge.
 8. Put 1 Tablespoon of pork filling into center and bring edge to top with
    your index finger and thumb to seal while your left thumb is pushing
@@ -62,7 +62,7 @@ Directions
 10. When your pork buns are well rested and all cute looking, it's ready to
     steam. Fill a wok or steamer pot with water and bring it to boil over
     high heat.Place pork buns into a steamer rack with paper underneath.
-    Make sure they are too close to each other, at least 1” apart. Bring a
+    Make sure they are too close to each other, at least 1" apart. Bring a
     steamer rack with pork buns to boiling steamer. Make sure water is not
     touching pork buns. Cover and steam for 12 to 14 minutes or until pork
     buns are fluffy and fully cooked.

@@ -2,7 +2,7 @@ Sous Vide Brisket
 =================
 
 +-----------------------+---------------------+----------------------+------------+-------------+
-| Prep Time: 10 minutes | Cook Time: 50 hours | Total Time: 54 hours | Yield: 6-8 | Temp: 135°F |
+| Prep Time: 10 minutes | Cook Time: 50 hours | Total Time: 54 hours | Yield: 6-8 | Temp: 135F |
 +-----------------------+---------------------+----------------------+------------+-------------+
 
 Ingredients
@@ -17,14 +17,14 @@ Ingredients
 Directions
 ----------
 
-1. Preheat sous-vide cooker to 135°F.
+1. Preheat sous-vide cooker to 135F.
 2. Combine salt, pepper, and instacure. Mix thoroughly. Rub brisket
    liberally with seasoning.
 3. Place in vacuum bag, add liquid smoke if desired, and drop into
    pre-heated water bath. Cook for 50 hours.
 4. After 50 hours, remove brisket from water bath and place in a bowl of
    ice water for 30 minutes, changing ice once if necessary.
-5. While brisket is in ice bath, pre-heat smoker or oven to 225°F
+5. While brisket is in ice bath, pre-heat smoker or oven to 225F
 6. Remove brisket from bag, pat dry, and add additional rub as
    necessary.
 7. Place in smoker or oven for 3 hours until exterior has nice color.

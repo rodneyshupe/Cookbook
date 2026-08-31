@@ -22,7 +22,7 @@ Ingredients
 Directions
 ----------
 
-1. Adjust oven rack to lowest position and heat oven to 500°F. Heat oil,
+1. Adjust oven rack to lowest position and heat oven to 500F. Heat oil,
    garlic, and pepper flakes in large roasting pan over medium heat;
    cook, stirring constantly, until fragrant, about 30 seconds. Add
    wine, thyme sprigs, and bay leaves and bring to boil. Cook until wine
@@ -56,6 +56,6 @@ butter with 1/4 cup heavy cream.
 
 Replace red pepper flakes with 1 pound leeks (white and light green
 parts only, halved lengthwise, sliced thin, and washed thoroughly), wine
-with 1 cup dry hard cider, butter with 1/4 cup creme fraîche, and
+with 1 cup dry hard cider, butter with 1/4 cup creme fraiche, and
 parsley with 2 tablespoons minced fresh chives.
 

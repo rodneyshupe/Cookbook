@@ -1,10 +1,10 @@
 Glazed Carrots
 ==============
 
-You’ll never eat a more carrot-y carrot.
+You'll never eat a more carrot-y carrot.
 
 +-----------------------+--------------------+------------+-------------+
-| Prep Time: 10 minutes | Total Time: 1 hour | Yield: 4-6 | Temp: 183°F |
+| Prep Time: 10 minutes | Total Time: 1 hour | Yield: 4-6 | Temp: 183F |
 +-----------------------+--------------------+------------+-------------+
 
 
@@ -23,9 +23,9 @@ Ingredients
 Directions
 ----------
 
-1. Preheat sous-vide cooker to 183°F. Place carrots, butter, sugar, and
+1. Preheat sous-vide cooker to 183F. Place carrots, butter, sugar, and
    1/2 teaspoon kosher salt in a vacuum bag and seal according to
-   manufacturer’s instructions. Cook carrots in the water bath until
+   manufacturer's instructions. Cook carrots in the water bath until
    fully tender, about 1 hour. At this point, carrots can be stored in
    refrigerator for up to 1 week.
 2. empty entire contents of bag into a 12-inch, heavy-bottomed skillet
@@ -57,7 +57,7 @@ trimmed and quartered.
 Why this works
 --------------
 
--  at 183°F, carrots will soften but not turn mushy.
+-  at 183F, carrots will soften but not turn mushy.
 -  Cooking carrots sous-vide cooks them in their own juices, packing
    them with intense carrot flavor.
 -  Tossing the carrots in the skillet for a couple minutes after cooking

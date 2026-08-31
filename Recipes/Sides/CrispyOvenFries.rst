@@ -20,7 +20,7 @@ Directions
 ----------
 
 1. *Microwave Potatoes* Adjust oven rack to lowest position and heat
-   oven to 450°F. Place potatoes in bowl, wrap tightly with plastic, and
+   oven to 450F. Place potatoes in bowl, wrap tightly with plastic, and
    microwave until translucent around edges, 3 to 5 minutes, shaking
    bowl to redistribute potatoes halfway through cooking. Transfer
    potatoes to cooling rack and thoroughly blot dry with paper towels.

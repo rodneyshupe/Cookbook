@@ -1,7 +1,7 @@
 Sous Vide French Beef Dip
 =========================
 +----------------------+---------------------+------------+-------------+
-| Prep Time: 5 minutes | Cook Time: 18 hours | Yield: 4-6 | Temp: 140°F |
+| Prep Time: 5 minutes | Cook Time: 18 hours | Yield: 4-6 | Temp: 140F |
 +----------------------+---------------------+------------+-------------+
 
 Ingredients
@@ -34,7 +34,7 @@ Ingredients
 Directions
 ----------
 
-1. Preheat Sous-Vide to 140°F
+1. Preheat Sous-Vide to 140F
 2. Season beef thoroughly with the salt, pepper, paprika, garlic powder,
    onion powder, and seal in vacuum seal bag using the vacuum sealer.
    Let cook for at least 18 hours.
@@ -45,7 +45,7 @@ Directions
    from the water bath. When skillet is smoking, cut open the bag and
    place the roast in the skillet. Cook for 2 minutes before flipping
    over and cooking on the other side for 2 more minutes. Remove from
-   heat. If you’re using the blow torch, just graze the roast with the
+   heat. If you're using the blow torch, just graze the roast with the
    flame until browned.
 5. Combine the onion powder, beef broth, sugar, Worcestershire sauce,
    salt and 3/4 cold water in a saucepan and bring to a boil over

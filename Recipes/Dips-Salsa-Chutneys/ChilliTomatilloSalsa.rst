@@ -34,6 +34,6 @@ Directions
 Notes
 -----
 
-To make this salsa spicier, reserve and add the jalapeño seeds to the
+To make this salsa spicier, reserve and add the jalapeno seeds to the
 blender before processing.
 

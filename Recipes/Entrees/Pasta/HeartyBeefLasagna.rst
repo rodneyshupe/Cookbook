@@ -47,7 +47,7 @@ Directions
 ----------
 
 1. **For the Lasagna**: Adjust oven rack to middle position and heat oven to
-   375°F. Spray rimmed baking sheet and 13 by 9-inch baking dish with
+   375F. Spray rimmed baking sheet and 13 by 9-inch baking dish with
    oil spray. Bring 4 quarts water to boil in large Dutch oven. Add noodles
    and salt and cook, stirring often, until al dente. Drain noodles and
    transfer them to prepared sheet. Using tongs, gently turn noodles to coat

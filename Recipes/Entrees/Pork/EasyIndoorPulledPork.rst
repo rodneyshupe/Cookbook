@@ -43,7 +43,7 @@ Pork
 Directions
 ----------
 
-1. Adjust oven rack to lower position and preheat oven to 300°F (150°C).
+1. Adjust oven rack to lower position and preheat oven to 300F (150C).
    Combine rub ingredients in a small bowl and mix. Season pork with
    2 to 3 tablespoons rub mixture, making sure to rub it on all sides.
    Reserve remaining rub mixture.

@@ -13,7 +13,7 @@ Ingredients
 - 2 tablespoons vegetable oil
 - 2 green bell pepper, stemmed, seeded, and cut into 1-inch pieces
 - Salt and pepper
-- 1 jalapeño chile, stemmed, seeded, and minced
+- 1 jalapeno chile, stemmed, seeded, and minced
 - 4 garlic clove, minced
 - 1 tablespoon grated fresh ginger
 - 1 tablespoon curry powder
@@ -27,7 +27,7 @@ Directions
 
 1. Heat oil in Dutch oven over medium-high heat until shimmering. Add bell
    peppers, 1 1/2 teaspoons salt, and 1/2 teaspoon pepper and cook until
-   bell peppers are beginning to brown, 5 to 7 minutes. Add jalapeño,
+   bell peppers are beginning to brown, 5 to 7 minutes. Add jalapeno,
    garlic, ginger, and curry powder and cook until fragrant, about 30 seconds.
 2. Add chickpeas, tomatoes and their juice, and coconut milk and bring to
    boil. Cover, reduce heat to medium-low, and simmer until bell peppers

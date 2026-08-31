@@ -15,7 +15,7 @@ Ingredients
 Directions
 ----------
 
-1. Using chef’s knife, remove wings from carcass and separate each wing
+1. Using chef's knife, remove wings from carcass and separate each wing
    at joints into 3 pieces. Cut through ribs to separate breastbone from
    backbone, then cut backbone into 3 to 4 pieces. Using kitchen shears
    or heavy knife, remove ribs from both sides of breastbone. (You

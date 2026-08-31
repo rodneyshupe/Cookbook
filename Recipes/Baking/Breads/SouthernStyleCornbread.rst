@@ -20,7 +20,7 @@ Ingredients
 
 Directions
 ----------
-1. Adjust oven rack to middle position and heat oven to 400°F. Whisk
+1. Adjust oven rack to middle position and heat oven to 400F. Whisk
    cornmeal, flour, sugar, baking powder, baking soda, and salt together
    in large bowl.
 2. Process corn kernels in blender until very smooth, about 2 minutes.

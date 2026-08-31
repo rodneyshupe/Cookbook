@@ -17,7 +17,7 @@ Ingredients
 Directions
 ----------
 
-1. Preheat your oven to around 400°F.  Cut a large square of parchment
+1. Preheat your oven to around 400F.  Cut a large square of parchment
    paper.
 2. Segment orange (cut top and bottom off then using knife remove skin and
    pith) and place pieces in small bowl.  Once segmented squeeze juice into

@@ -9,7 +9,7 @@ Ingredients
 -----------
 
 -  1 1/2 tablespoons unsalted butter
--  1 1/2 tablespoons Frank’s Hot Sauce (you can use Tabasco or Sriracha sauce as well)
+-  1 1/2 tablespoons Frank's Hot Sauce (you can use Tabasco or Sriracha sauce as well)
 
 Directions
 ----------

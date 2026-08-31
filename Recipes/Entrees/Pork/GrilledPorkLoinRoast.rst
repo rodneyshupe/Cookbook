@@ -22,5 +22,5 @@ Directions
 2. Spread out pesto sauce to cover on side of flatted roast.
 3. Roll roast back up. Wrap with Bacon and tie with butcher twine.
 4. Roast on indirect heat with a pan under nether to catch the drippings
-   until pork has an internal temperature 160°F (approx 1 hour)
+   until pork has an internal temperature 160F (approx 1 hour)
 

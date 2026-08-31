@@ -27,7 +27,7 @@ Directions
    center. If using a charcoal grill, preheat it to medium. If using a
    gas grill, place all the wood chips in the smoker box and preheat the
    grill to high; then, when smoke appears, lower the heat to medium.
-3. Pop the tab on the beer can. Using a “church key” style can opener,
+3. Pop the tab on the beer can. Using a "church key" style can opener,
    make 6 or 7 holes in the top of the can. Pour out the top inch of
    beer, then spoon the remaining dry rub through the holes into the
    beer. Holding the chicken upright, with the opening of the body
@@ -37,7 +37,7 @@ Directions
    the hot grate, over the drip pan. Spread out the legs to form a sort
    of tripod, to support the bird.
 5. Cover the grill and cook the chicken until fall-off-the-bone tender,
-   2 hours. If using charcoal, add 10 to 12°Fresh coals per side and the
+   2 hours. If using charcoal, add 10 to 12Fresh coals per side and the
    remaining wood chips after 1 hour.
 6. Using tongs, lift the bird to a cutting board or platter, holding the
    metal spatula underneath the beer can for support. (Have the board or
@@ -59,6 +59,6 @@ Wet Rub Variation
 1. In a medium bowl, whisk together brown sugar, mustard, paprika,
    balsamic, salt, and pepper. Brush rub over chickens and massage to
    season every part of the bird (including under the skin).
-2. Cook chicken at 350°F for 1 hour 15 min. Test internal temp in thigh,
-   should be 165°F.
+2. Cook chicken at 350F for 1 hour 15 min. Test internal temp in thigh,
+   should be 165F.
 

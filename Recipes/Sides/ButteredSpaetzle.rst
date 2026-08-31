@@ -31,7 +31,7 @@ Directions
    forth along the grater until about 1/6 of the dough is pressed
    through the grater into the boiling water.
 4. With a slotted spoon transfer spaetzle that have floated to the
-   water’s surface to the warm bowl. Repeat cooking in batches with
+   water's surface to the warm bowl. Repeat cooking in batches with
    remaining batter, adding butter to each batch of cooked spaeztle.
    Toss and serve.
 

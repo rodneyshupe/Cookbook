@@ -117,4 +117,4 @@ Dips Salsa and Chutneys
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: DipsForCrudités.rst
+.. include:: DipsForCrudites.rst

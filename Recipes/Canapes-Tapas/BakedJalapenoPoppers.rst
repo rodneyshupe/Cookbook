@@ -27,7 +27,7 @@ Directions
 
 1. Adjust oven rack to upper-middle position and heat oven to 500 degrees. Set
    wire rack in rimmed baking sheet. Cook bacon in 12-inch nonstick skillet
-   over medium heat until crispy, 7 to 9 minutes. Transfer to paper towel–lined
+   over medium heat until crispy, 7 to 9 minutes. Transfer to paper towel-lined
    plate. When bacon is cool enough to handle, chop fine and set aside.
 2. Season jalapenos with salt and place cut side down on wire rack. Bake until
    just beginning to soften, about 5 minutes. Remove jalapenos from oven and

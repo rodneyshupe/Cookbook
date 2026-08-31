@@ -32,7 +32,7 @@ Directions
    be placed on large plate, covered loosely with plastic wrap, and
    refrigerated for several hours.)
 3. Meanwhile, heat 1/4 -inch vegetable oil over medium-high heat in
-   10- or 11-inch sauté pan. When edge of meatball dipped in oil sizzles, add
+   10- or 11-inch saute pan. When edge of meatball dipped in oil sizzles, add
    meatballs in single layer. Fry, turning several times, until nicely
    browned on all sides, about 10 minutes, regulating heat as needed to keep
    oil sizzling but not smoking. Transfer browned meatballs to paper towel

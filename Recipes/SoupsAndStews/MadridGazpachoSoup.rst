@@ -39,7 +39,7 @@ Directions
    in a blender or food mill until smooth. Transfer the mixture to a large
    bowl or tureen and stir until well blended and smooth. Add tomato
    juice, garlic, cumin, salt, and pepper. Cover and chill.
-2. Meanwhile prepare the croutons; in a preheated oven at 375°F place the
+2. Meanwhile prepare the croutons; in a preheated oven at 375F place the
    bread slices onto a baking sheet and lightly toast. Remove the crusts
    and cut the bread into one-half-inch squares.
 3. Clarify the butter by melting it in a saucepan, then separating the

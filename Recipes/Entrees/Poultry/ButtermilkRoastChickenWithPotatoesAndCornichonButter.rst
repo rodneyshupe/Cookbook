@@ -30,17 +30,17 @@ Directions
    the bottom of a large baking dish or ovenproof skillet (one large enough to
    hold the potatoes). Place the chicken in the middle of the dish,
    breast-side up, and let it come to room temperature.
-3. Heat oven to 425° F.
+3. Heat oven to 425 F.
 4. Toss potatoes with 1 tablespoon olive oil and kosher salt, to taste.
    Arrange potatoes around the chicken. Evenly rub the chicken with 1/2 to
    1 tablespoon olive oil. Season the chicken and potatoes with freshly
    cracked black pepper.
 5. Place the chicken and potatoes in the oven and roast for about
    50 to 70 minutes, rotating once, until the juices run clear or the thickest
-   part of the thigh registers 165° F. (If the chicken is browning too quickly
-   relative to its internal temperature, reduce the oven to 375° F to 400° F.)
-6. Meanwhile, mash together the butter and cornichons with a fork. Don’t worry
-   if they’re not completely integrated.
+   part of the thigh registers 165 F. (If the chicken is browning too quickly
+   relative to its internal temperature, reduce the oven to 375 F to 400 F.)
+6. Meanwhile, mash together the butter and cornichons with a fork. Don't worry
+   if they're not completely integrated.
 7. When the chicken is done, immediately remove it from the pan and rest on a
    cutting board for 10 to 15 minutes before carving. Add the cornichon butter
    and parsley to the hot potatoes. Once it starts to melt, toss to evenly

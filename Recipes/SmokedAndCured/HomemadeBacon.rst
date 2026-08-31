@@ -28,10 +28,10 @@ Directions
    the bacon dry with paper towels and set it on a rack over a baking
    sheet. Allow the bacon to air-dry in the refrigerator for 6 to 24
    hours.
-4. Preheat the smoker to 200°F. Smoke for about 2 hours (or to an
-   internal temperature of 150°F) with Apple (or Maple) wood.
+4. Preheat the smoker to 200F. Smoke for about 2 hours (or to an
+   internal temperature of 150F) with Apple (or Maple) wood.
 5. Chill the bacon well, then slice thick or thin, to preference. Any
-   bacon that doesn’t easily slice may be cut into chunks, for starting
+   bacon that doesn't easily slice may be cut into chunks, for starting
    a pot of beans or soup.
 6. Wrapped in parchment paper, then wrapped in plastic wrap or foil and
    placed in a Ziploc bag, the bacon will keep for three weeks in the

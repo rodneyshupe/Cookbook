@@ -1,7 +1,7 @@
 Bacon Onion Jam
 ===============
 
-While this will keep in the fridge a couple weeks, you’ll most likely use it
+While this will keep in the fridge a couple weeks, you'll most likely use it
 up before then.
 
 +------------------------+-------------------------------+

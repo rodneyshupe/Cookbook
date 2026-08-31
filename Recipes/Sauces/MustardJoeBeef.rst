@@ -29,6 +29,6 @@ Directions
    you start, the seeds will bounce around like money in a money cage.
 2. When the seeds stop bouncing around, slowly add the rest of the
    vinegar. When the blade stops spinning well and the mustard is thick,
-   it’s ready. Transfer to a tightly capped jar and store in the fridge
+   it's ready. Transfer to a tightly capped jar and store in the fridge
    for up to a month.
 

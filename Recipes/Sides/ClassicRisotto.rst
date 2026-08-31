@@ -36,7 +36,7 @@ Directions
    until the rice is just tender or al dente (soft with an ever so
    slight bite to the center) and creamy. The Arborio rice will
    gradually release its starch and thicken the extra liquid into
-   creaminess. Creamy is important if you’re going for authenticity!
+   creaminess. Creamy is important if you're going for authenticity!
    This will take about 20 minutes from when you start adding the
    liquid.
 4. To finish stir in the Parmesan, butter and minced fresh herbs. Spoon

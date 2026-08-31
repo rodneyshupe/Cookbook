@@ -15,10 +15,10 @@ Ingredients
 Directions
 ----------
 
-1. Clean everything: When fermenting anything, it’s best to give the
+1. Clean everything: When fermenting anything, it's best to give the
    good, beneficial bacteria every chance of succeeding by starting off
    with as clean an environment as possible. Make sure your mason jar
-   and jelly jar are washed and rinsed of all soap residue. You’ll be
+   and jelly jar are washed and rinsed of all soap residue. You'll be
    using your hands to massage the salt into the cabbage, so give those
    a good wash, too.
 2. Slice the cabbage: Discard the wilted, limp outer leaves of the
@@ -30,7 +30,7 @@ Directions
    cabbage by massaging and squeezing the cabbage with your hands. At
    first it might not seem like enough salt, but gradually the cabbage
    will become watery and limp - more like coleslaw than raw cabbage.
-   This will take 5 to 10 minutes. If you’d like to flavor your
+   This will take 5 to 10 minutes. If you'd like to flavor your
    sauerkraut with caraway seeds, mix them in now.
 4. Pack the cabbage into the jar: Grab handfuls of the cabbage and pack
    them into the canning jar. If you have a canning funnel, this will
@@ -54,23 +54,23 @@ Directions
 8. Add extra liquid, if needed: If after 24 hours, the liquid has not
    risen above the cabbage, dissolve 1 teaspoon of salt in 1 cup of
    water and add enough to submerge the cabbage.
-9. Ferment the cabbage for 3 to 10 days: As it’s fermenting, keep the
+9. Ferment the cabbage for 3 to 10 days: As it's fermenting, keep the
    sauerkraut away from direct sunlight and at a cool room temperature -
-   ideally 65°F to 75°F. Check it daily and press it down if the cabbage
+   ideally 65F to 75F. Check it daily and press it down if the cabbage
    is floating above the liquid.
 
 Because this is a small batch of sauerkraut, it will ferment more
 quickly than larger batches. Start tasting it after 3 days - when the
 sauerkraut tastes good to you, remove the weight, screw on the cap, and
 refrigerate. You can also allow the sauerkraut to continue fermenting
-for 10 days or even longer. There’s no hard-and-fast rule for when the
-sauerkraut is “done” - go by how it tastes.
+for 10 days or even longer. There's no hard-and-fast rule for when the
+sauerkraut is "done" - go by how it tastes.
 
-While it’s fermenting, you may see bubbles coming through the cabbage,
+While it's fermenting, you may see bubbles coming through the cabbage,
 foam on the top, or white scum. These are all signs of a healthy, happy
 fermentation process. The scum can be skimmed off the top either during
 fermentation or before refrigerating. If you see any mold, skim it off
-immediately and make sure your cabbage is fully submerged; don’t eat
+immediately and make sure your cabbage is fully submerged; don't eat
 moldy parts close to the surface, but the rest of the sauerkraut is
 fine.
 

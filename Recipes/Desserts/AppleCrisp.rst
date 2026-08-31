@@ -21,7 +21,7 @@ Ingredients
 Directions
 ----------
 
-1. Preheat oven to 350 F degrees.  Butter an 8×8 baking dish, or spray with
+1. Preheat oven to 350 F degrees.  Butter an 8x8 baking dish, or spray with
    non-stick cooking spray.  Set aside.
 2. In a mixing bowl, add chopped apples, granulated sugar, 3/4 tsp of the
    cinnamon and lemon juice.  Stir to combine, then transfer to prepared

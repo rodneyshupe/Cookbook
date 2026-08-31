@@ -8,21 +8,21 @@ Tartiflette
 Ingredients
 ------------
 
-- 4–5 medium yellow flesh potatoes, peeled or unpeeled
+- 4-5 medium yellow flesh potatoes, peeled or unpeeled
 - Kosher salt and black pepper
 - 8 oz slab bacon or thick-cut bacon, diced
 - 2 teaspoons butter
 - 2 shallots, thinly sliced
 - 1 garlic clove, minced
 - 1/2 cup dry white wine
-- 10–12 oz Reblochon cheese, sliced (can substitute Fontina, Taleggio, or Camembert)
+- 10-12 oz Reblochon cheese, sliced (can substitute Fontina, Taleggio, or Camembert)
 - 1/8 teaspoon freshly grated nutmeg, divided
 - 1/3 cup whipping (35%) cream
 
 Directions
 ----------
 
-1. Preheat your oven to 400°F and set a large pot of cold water on the stove.
+1. Preheat your oven to 400F and set a large pot of cold water on the stove.
 2. Add the potatoes to the pot, season the water with salt, and cover with a 
    lid. Bring the potatoes to a boil over high heat and cook until tender,
    15 to 20 minutes. Drain the potatoes and allow them to cool slightly

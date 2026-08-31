@@ -30,7 +30,7 @@ Directions
    and garlic in a mortar and pestle & start pounding. Once you have your
    paste, add in some water and mix to loosen everything up.
 3. Then get all your veggies prepped, peel & chop your carrots, potatoes,
-   cherry tomatoes & jalapeños. Set aside.
+   cherry tomatoes & jalapenos. Set aside.
 4. Once the chicken legs are seared on all sides, take them out and set
    aside. With the oil left in the pan, add in the rice and toast for
    2 minutes.

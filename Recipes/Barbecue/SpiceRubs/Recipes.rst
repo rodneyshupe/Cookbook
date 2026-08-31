@@ -89,7 +89,7 @@ otherwise specified.*
 
 ----
 
-.. include:: Mr. BrownSmokeAndSpice.rst
+.. include:: Mr. BrownSmokeAndSpice.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
 

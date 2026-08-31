@@ -5,7 +5,7 @@ Budae Jjigae (Korean Army Base Stew)
 | Prep Time: 20 minutes | Total Time: 30 minutes | Yield: 4 |
 +-----------------------+------------------------+----------+
 
-The best and the most popular Korean hot pot dish – Budae Jjigae (Army base stew)
+The best and the most popular Korean hot pot dish - Budae Jjigae (Army base stew)
 It is loaded with Kimchi, spam, sausages, ramen noodles and much more.  This is
 just one set of ingredients but you can experiment.
 
@@ -45,7 +45,7 @@ Directions
    cakes, green onion and cheese) in a shallow pot. Add the sauce in the
    middle. Pour the stock into the corner of the pot. Close the lid and boil
    it on medium high heat until the stock starts to boil (about 8 mins).
-3. Add the remaining ingredients – instant ramen noodles, rice cakes, green
+3. Add the remaining ingredients - instant ramen noodles, rice cakes, green
    onion and cheese on top of the pot and boil uncovered until the noodles
    are cooked (about 2 to 3 mins). Reduce the heat to low (if you're
    cooking on a portable burner and sharing the food at the dinning table).
