@@ -1,6 +1,10 @@
 Rib Roast
 =========
 
++------------------------------+---------------------------+---------------------------------+----------------------------+
+| Prep Time: 15 minutes (est.) | Cook Time: 4 hours (est.) | Total Time: up to 7 days (est.) | Yield: 6-8 servings (est.) |
++------------------------------+---------------------------+---------------------------------+----------------------------+
+
 Ingredients
 -----------
 
@@ -42,5 +46,4 @@ Directions
    your oven to run.
 6. Return the roast to the board, carve, and serve with Yorkshire pudding.
    And no, you don't need to rest it again.
-
 

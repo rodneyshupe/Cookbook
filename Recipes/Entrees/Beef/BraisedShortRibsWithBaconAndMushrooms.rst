@@ -1,6 +1,10 @@
 Braised Short Ribs with Bacon and Mushrooms
 ===========================================
 
++------------------------------+---------------------------+----------------------------+
+| Prep Time: 20 minutes (est.) | Cook Time: 3 hours (est.) | Yield: 4-6 servings (est.) |
++------------------------------+---------------------------+----------------------------+
+
 Source: `Gordon Ramsey <https://www.youtube.com/watch?v=QnxLau7m600>`__
 
 Ingredients

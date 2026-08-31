@@ -1,6 +1,10 @@
 Kalbi Korean-Style Short Ribs
 =============================
 
++------------------------------+-----------------------------+-------------------------------+--------------------------+
+| Prep Time: 15 minutes (est.) | Cook Time: 6 minutes (est.) | Marinate Time: 3 hours (est.) | Yield: 4 servings (est.) |
++------------------------------+-----------------------------+-------------------------------+--------------------------+
+
 Source: `Bon Appetit <https://www.bonappetit.com/recipe/kalbi>`__
 
 Ingredients

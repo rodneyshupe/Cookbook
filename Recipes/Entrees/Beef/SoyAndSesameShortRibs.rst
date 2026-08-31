@@ -1,9 +1,11 @@
 Soy and Sesame Short Ribs
 =========================
 
-Source: `Bon Appetit <https://www.bonappetit.com/recipe/soy-and-sesame-short-ribs>`__
++------------------------------+-----------------------------+-------------------------------------------+-------------------+
+| Prep Time: 15 minutes (est.) | Cook Time: 4 minutes (est.) | Marinate Time: 10 minutes - 1 hour (est.) | Yield: 4 servings |
++------------------------------+-----------------------------+-------------------------------------------+-------------------+
 
-Serves: 4
+Source: `Bon Appetit <https://www.bonappetit.com/recipe/soy-and-sesame-short-ribs>`__
 
 Ingredients
 -----------

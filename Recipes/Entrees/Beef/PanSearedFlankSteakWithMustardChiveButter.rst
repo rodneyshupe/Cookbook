@@ -1,6 +1,10 @@
 Pan-Seared Flank Steak with Mustard-Chive Butter
 ================================================
 
++------------------------------+------------------------------+--------------------------+
+| Prep Time: 15 minutes (est.) | Cook Time: 45 minutes (est.) | Yield: 4 servings (est.) |
++------------------------------+------------------------------+--------------------------+
+
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/8495-pan-seared-flank-steak-with-mustard-chive-butter>`__
 
 Ingredients

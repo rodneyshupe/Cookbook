@@ -1,6 +1,10 @@
 Asian Marinated Short Ribs
 ==========================
 
++------------------------------+-----------------------------+----------------------------------+--------------------------+
+| Prep Time: 20 minutes (est.) | Cook Time: 7 minutes (est.) | Marinate Time: 1-24 hours (est.) | Yield: 4 servings (est.) |
++------------------------------+-----------------------------+----------------------------------+--------------------------+
+
 Source: `Rodney Bowers <https://beta.theloop.ca/food/recipes/marinated-short-ribs-with-peanut-salsa.html>`_
 
 Ingredients
@@ -47,6 +51,4 @@ Directions
    Grill meat until charred underneath three to four minutes, then turn
    and grill just long enough to cook through two to three minutes.
 6. Transfer to a platter. Serve with green onion mixture and peanut salsa.
-
-
 

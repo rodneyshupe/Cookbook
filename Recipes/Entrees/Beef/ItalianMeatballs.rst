@@ -1,6 +1,10 @@
 Italian Meatballs
 =================
 
++------------------------------+------------------------------+---------------------+
+| Prep Time: 25 minutes (est.) | Cook Time: 20 minutes (est.) | Yield: 14 meatballs |
++------------------------------+------------------------------+---------------------+
+
 Ingredients
 -----------
 
@@ -40,5 +44,4 @@ Notes
   about 3-4 tablespoons of vegetable oil in the pan.
 - Serve with `Simple Tomato Sauce <#simple-tomato-sauce>`__ alone or on
   spaghitti with or without `Garlic Bread <#garlic-bread>`__.
-
 

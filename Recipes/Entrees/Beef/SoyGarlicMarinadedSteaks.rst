@@ -1,6 +1,10 @@
 Soy-Garlic Marinaded Steaks
 ===========================
 
++------------------------------+------------------------------+---------------------------------+--------------------------+
+| Prep Time: 10 minutes (est.) | Cook Time: 10 minutes (est.) | Marinate Time: overnight (est.) | Yield: 2 servings (est.) |
++------------------------------+------------------------------+---------------------------------+--------------------------+
+
 Ingredients
 -----------
 
@@ -30,5 +34,4 @@ Directions
 2. Place steak in a nonreactive dish, and pour marinade over top. Cover,
    and refrigerate for at least 8 hours (or overnight). Before grilling,
    remove from marinade, and pat off excess with a paper towel.
-
 
