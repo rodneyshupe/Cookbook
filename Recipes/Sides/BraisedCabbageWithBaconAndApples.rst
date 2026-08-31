@@ -1,6 +1,10 @@
 Braised Cabbage with Bacon and Apples
 =====================================
 
++------------------------------+------------------------------+-------------------+
+| Prep Time: 15 minutes (est.) | Cook Time: 45 minutes (est.) | Yield: 4 portions |
++------------------------------+------------------------------+-------------------+
+
 Ingredients
 -----------
 
@@ -13,7 +17,6 @@ Ingredients
 -  1/2 cup apple cider vinegar
 -  2 sprigs thyme
 
-
 Directions
 ----------
 
@@ -24,10 +27,4 @@ Directions
    and a healthy pinch of salt.
 3. Stir and cover. Reduce heat to low and simmer for 30-45 minutes until
    the cabbage is melting tender. Season with salt and pepper to taste.
-
-
-Yield
------
-
-4 portions
 

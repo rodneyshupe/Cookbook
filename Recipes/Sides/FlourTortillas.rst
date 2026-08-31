@@ -1,6 +1,9 @@
 Flour Tortillas
 ===============
 
++------------------------------+------------------------------+---------------------------+
+| Prep Time: 25 minutes (est.) | Cook Time: 15 minutes (est.) | Yield: 8 tortillas (est.) |
++------------------------------+------------------------------+---------------------------+
 
 Ingredients
 -----------
@@ -11,7 +14,6 @@ Ingredients
 -  1/4 cup vegetable shortening
 -  1/2 cup hot water
 -  1/4 cup all-purpose flour for dusting
-
 
 Directions
 ----------

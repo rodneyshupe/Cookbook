@@ -1,6 +1,10 @@
 Pomme William/ Pear Shaped Potatoes
 ===================================
 
++------------------------------+------------------------------+--------------------------+
+| Prep Time: 30 minutes (est.) | Cook Time: 30 minutes (est.) | Yield: 8 potatoes (est.) |
++------------------------------+------------------------------+--------------------------+
+
 Ingredients
 -----------
 
@@ -13,7 +17,6 @@ Ingredients
 - 1 tablespoon Sour cream
 - 8 whole cloves
 - canola oil, deep frying
-
 
 Breading
 ^^^^^^^^

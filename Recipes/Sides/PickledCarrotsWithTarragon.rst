@@ -1,12 +1,14 @@
 Pickled Carrots with Tarragon
 =============================
 
++------------------------------+-----------------------------+-----------------------------+---------------+
+| Prep Time: 15 minutes (est.) | Cook Time: 5 minutes (est.) | Total Time: 24 hours (est.) | Yield: 2 cups |
++------------------------------+-----------------------------+-----------------------------+---------------+
+
 Chicago chef Edward Kim uses mild rice vinegar and a fair amount of
 sugar to yield a less acidic brine and a bright-tasting pickle
 
 Source: `Bon Appetit <https://www.bonappetit.com/recipe/pickled-carrots-with-tarragon>`__
-
-Yield: 2 cups
 
 Ingredients
 -----------

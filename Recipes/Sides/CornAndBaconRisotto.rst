@@ -1,6 +1,10 @@
 Corn and Bacon Risotto
 ======================
 
++------------------------------+------------------------------+-------------------------+
+| Prep Time: 10 minutes (est.) | Cook Time: 20 minutes (est.) | Yield: 1 serving (est.) |
++------------------------------+------------------------------+-------------------------+
+
 Ingredients are per person for a side and can be scaled up to double
 per person for a main.
 

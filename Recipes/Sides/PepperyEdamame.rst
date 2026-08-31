@@ -1,9 +1,11 @@
 Peppery Edamame
 ===============
+
++-----------------------------+-----------------------------+-------------------+
+| Prep Time: 5 minutes (est.) | Cook Time: 5 minutes (est.) | Yield: 4 servings |
++-----------------------------+-----------------------------+-------------------+
+
 Source: `Bon Appetit <https://www.bonappetit.com/recipe/peppery-edamame>`__
-
-Serves: 4
-
 
 Ingredients
 -----------
@@ -12,7 +14,6 @@ Ingredients
 -  1 teaspoon freshly ground black pepper
 -  1/2 teaspoon kosher salt
 -  1/2 teaspoon sugar
-
 
 Directions
 ----------

@@ -1,6 +1,9 @@
 Roasted Potatoes
 ================
 
++------------------------------+-------------------------------+--------------------------+
+| Prep Time: 20 minutes (est.) | Cook Time: 1 1/4 hours (est.) | Yield: 6 servings (est.) |
++------------------------------+-------------------------------+--------------------------+
 
 Ingredients
 -----------
@@ -30,7 +33,6 @@ Flavor Combo 3
 -  2 tablespoons goose fat
 -  A bunch of fresh thyme, leaves picked
 -  A couple of fresh bay leaves
-
 
 Directions
 ----------

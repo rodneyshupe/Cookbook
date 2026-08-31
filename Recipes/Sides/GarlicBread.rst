@@ -1,6 +1,10 @@
 Garlic Bread
 ============
 
++------------------------------+------------------------------+--------------------------+
+| Prep Time: 15 minutes (est.) | Cook Time: 10 minutes (est.) | Yield: 6 servings (est.) |
++------------------------------+------------------------------+--------------------------+
+
 Ingredients
 -----------
 - 9 - 10 medium cloves garlic (about the size of a plump cashew nut), skins left on

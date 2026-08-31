@@ -1,6 +1,10 @@
 Cuban Black Beans
 =================
 
++------------------------------+-------------------------------+------------------------------+--------------------------+
+| Prep Time: 20 minutes (est.) | Cook Time: 2 3/4 hours (est.) | Total Time: overnight (est.) | Yield: 8 servings (est.) |
++------------------------------+-------------------------------+------------------------------+--------------------------+
+
 Ingredients
 -----------
 
@@ -15,7 +19,6 @@ Ingredients
 -  1/2 cup minced garlic
 -  1/4 cup tomato paste
 -  Salt
-
 
 Directions
 ----------

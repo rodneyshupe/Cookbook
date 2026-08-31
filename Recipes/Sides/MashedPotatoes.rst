@@ -1,6 +1,10 @@
 Mashed Potatoes
 ===============
 
++------------------------------+------------------------------+---------------------+
+| Prep Time: 15 minutes (est.) | Cook Time: 30 minutes (est.) | Yield: 4-6 servings |
++------------------------------+------------------------------+---------------------+
+
 Ingredients
 -----------
 
@@ -9,7 +13,6 @@ Ingredients
 -  Table salt
 -  2/3 cup whole milk, warm
 -  Ground black pepper
-
 
 Directions
 ----------
@@ -29,10 +32,4 @@ Directions
    melted butter and 1/2 teaspoon salt until incorporated. Stir in warm
    milk until incorporated. Season to taste with salt and pepper; serve
    immediately.
-
-
-Yield:
-------
-
-Serves 4 - 6
 

@@ -1,6 +1,10 @@
 Rice Cooker Portuguese Spicy Rice
 =================================
 
++------------------------------+------------------------------+--------------------------+
+| Prep Time: 10 minutes (est.) | Cook Time: 30 minutes (est.) | Yield: 4 servings (est.) |
++------------------------------+------------------------------+--------------------------+
+
 Great facsimile of Nando's Spicy Rice.
 Great to serve with `Peri Peri BBQ Chicken <#peri-peri-bbq-chicken>`__
 

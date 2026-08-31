@@ -1,6 +1,10 @@
 Best Baked potatoes
 ===================
 
++------------------------------+--------------------------+--------------------------+
+| Prep Time: 10 minutes (est.) | Cook Time: 1 hour (est.) | Yield: 4 servings (est.) |
++------------------------------+--------------------------+--------------------------+
+
 Ingredients
 -----------
 
@@ -17,7 +21,6 @@ Optional Topping
 -  1 tablespoon shallot, minced
 -  1/2 teaspoon lemon zested
 -  salt and pepper
-
 
 Directions
 ----------

@@ -1,6 +1,10 @@
 Barbecued Baked Beans
 =====================
 
++------------------------------+-------------------------------+----------------------------+
+| Prep Time: 15 minutes (est.) | Cook Time: 5 1/2 hours (est.) | Yield: 6-8 servings (est.) |
++------------------------------+-------------------------------+----------------------------+
+
 Ingredients
 -----------
 
@@ -15,7 +19,6 @@ Ingredients
 -  4 1/2 teaspoons brown mustard (prepared)
 -  1 tablespoon mild molasses
 -  Tabasco sauce (or something similar)
-
 
 Directions
 ----------
@@ -33,7 +36,6 @@ Directions
    thickened to a syrupy consistency, 1 to 1 1/2 hours. Season the beans
    with additional barbecue sauce, Tabasco, and salt and pepper to
    taste.
-
 
 Make Ahead
 ----------

@@ -1,6 +1,10 @@
 Persian-Style Rice with Golden Crust - Chelow
 =============================================
 
++------------------------------+------------------------------+--------------------------------+--------------------------+
+| Prep Time: 20 minutes (est.) | Cook Time: 50 minutes (est.) | Total Time: 1 1/2 hours (est.) | Yield: 6 servings (est.) |
++------------------------------+------------------------------+--------------------------------+--------------------------+
+
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/8718-persian-style-rice-with-golden-crust-chelow>`__
 
 *Chelow* is a classic Iranian dish that marries an unusually light and
@@ -16,7 +20,6 @@ Ingredients
 -  1 1/2 teaspoons cumin seeds
 -  2 tablespoons unsalted butter, cut into 8 cubes
 -  1/4 cup minced fresh flat leaf parsley
-
 
 Directions
 ----------

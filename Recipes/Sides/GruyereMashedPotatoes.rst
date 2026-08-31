@@ -1,6 +1,10 @@
 Gruyere Mashed Potatoes
 =======================
 
++------------------------------+------------------------------+--------------------------+
+| Prep Time: 15 minutes (est.) | Cook Time: 20 minutes (est.) | Yield: 6 servings (est.) |
++------------------------------+------------------------------+--------------------------+
+
 Ingredients
 -----------
 
@@ -13,7 +17,6 @@ Ingredients
 - 1/4 cup milk
 - 200g Gruyere cheese, grated
 - 100g mozzarella cheese, grated
-
 
 Directions
 ----------

@@ -1,10 +1,11 @@
 Scalloped Potatoes
 ==================
 
++------------------------------+------------------------------+------------------------+
+| Prep Time: 20 minutes (est.) | Cook Time: 25 minutes (est.) | Yield: 4 to 6 servings |
++------------------------------+------------------------------+------------------------+
+
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/36-scalloped-potatoes>`__
-
-Serves: 4 to 6
-
 
 Ingredients
 -----------
@@ -20,7 +21,6 @@ Ingredients
 -  1 cup heavy cream
 -  2 bay leaves
 -  4 ounces grated cheddar cheese, shredded (1 cup)
-
 
 Directions
 ----------
@@ -38,7 +38,6 @@ Directions
    gratin dish) and press to an even layer; sprinkle evenly with cheese.
    Bake until cream is bubbling around edges and top is golden brown,
    about 15 minutes. Cool 10 minutes before serving.
-
 
 Make Ahead
 ----------

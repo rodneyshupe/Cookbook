@@ -1,6 +1,10 @@
 Mexican Rice
 ============
 
++------------------------------+------------------------------+----------------------------+
+| Prep Time: 15 minutes (est.) | Cook Time: 35 minutes (est.) | Yield: 4-6 servings (est.) |
++------------------------------+------------------------------+----------------------------+
+
 Source: `Cooks Country <https://www.cookscountry.com/recipes/11354-easy-mexican-rice>`__
 
 Ingredients
