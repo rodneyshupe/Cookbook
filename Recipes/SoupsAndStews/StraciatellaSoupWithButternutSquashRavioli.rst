@@ -1,6 +1,10 @@
 Straciatella Soup with Butternut Squash Ravioli
 ===============================================
 
++------------------------------+------------------------------+--------------------------+
+| Prep Time: 15 minutes (est.) | Cook Time: 20 minutes (est.) | Yield: 4 servings (est.) |
++------------------------------+------------------------------+--------------------------+
+
 Ingredients
 -----------
 - 4 cups chicken stock, or veggie stock

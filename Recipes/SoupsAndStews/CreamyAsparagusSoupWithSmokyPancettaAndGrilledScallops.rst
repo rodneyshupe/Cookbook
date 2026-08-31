@@ -1,6 +1,10 @@
 Creamy Asparagus Soup with Smoky Pancetta and Grilled Scallops
 ==============================================================
 
++------------------------------+------------------------------+---------------------+
+| Prep Time: 20 minutes (est.) | Cook Time: 25 minutes (est.) | Yield: 4-6 servings |
++------------------------------+------------------------------+---------------------+
+
 Ingredients
 -----------
 - 4 cups chicken stock

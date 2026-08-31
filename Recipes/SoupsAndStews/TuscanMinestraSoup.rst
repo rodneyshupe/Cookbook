@@ -1,6 +1,10 @@
 Tuscan Minestra Soup
 ====================
 
++------------------------------+------------------------------+--------------------------+
+| Prep Time: 15 minutes (est.) | Cook Time: 15 minutes (est.) | Yield: 2 servings (est.) |
++------------------------------+------------------------------+--------------------------+
+
 Ingredients
 -----------
 - 1 1/2 cups chicken stock, or vegetable stock
