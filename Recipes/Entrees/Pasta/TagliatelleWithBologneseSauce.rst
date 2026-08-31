@@ -1,9 +1,9 @@
 Tagliatelle with Bolognese Sauce
 ================================
 
-+-----------------------+---------------------------+-------------------+
-| Prep Time: 15 minutes | Cooking Time: 1 1/4 hours | Yield: 4 servings |
-+-----------------------+---------------------------+-------------------+
++-----------------------+------------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 1 1/4 hours | Yield: 4 servings |
++-----------------------+------------------------+-------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/9383-weeknight-tagliatelle-with-bolognese-sauce?extcode=MKSCZ00L0&ref=new_search_experience_2>`__
 

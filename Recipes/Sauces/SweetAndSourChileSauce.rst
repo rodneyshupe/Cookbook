@@ -1,9 +1,9 @@
 Sweet and Sour Chile Sauce
 ==========================
 
-+---------------------------------+-------------------------------------------+
-| Total: 20 minutes, plus cooling | Yield: Serves 8 to 10 (Makes about 1 cup) |
-+---------------------------------+-------------------------------------------+
++--------------------------------------+-------------------------------------------+
+| Total Time: 20 minutes, plus cooling | Yield: Serves 8 to 10 (Makes about 1 cup) |
++--------------------------------------+-------------------------------------------+
 
 Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/8126-sweet-and-sour-chile-sauce>`__
 

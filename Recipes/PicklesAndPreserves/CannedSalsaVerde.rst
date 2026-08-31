@@ -1,9 +1,9 @@
 Canned Salsa Verde
 ==================
 
-+------------------+-------------------------+----------+
-| Prep: 25 minutes | Total: 1 hour 5 minutes | Yield: 4 |
-+------------------+-------------------------+----------+
++-----------------------+------------------------------+----------+
+| Prep Time: 25 minutes | Total Time: 1 hour 5 minutes | Yield: 4 |
++-----------------------+------------------------------+----------+
 
 Source: `Amanda Paa <https://heartbeetkitchen.com/tomatillosalsaverde/>`__
 

@@ -1,9 +1,9 @@
 No-Churn Ice Cream
 ==================
 
-+----------------+---------------------------+-----------------------------------+
-| Prep: 5 hours  | Total: 5 hours 15 minutes | Yield: 12 servings (6 cups total) |
-+----------------+---------------------------+-----------------------------------+
++--------------------+--------------------------------+-----------------------------------+
+| Prep Time: 5 hours | Total Time: 5 hours 15 minutes | Yield: 12 servings (6 cups total) |
++--------------------+--------------------------------+-----------------------------------+
 
 Source: `Cooks Country <https://www.americastestkitchen.com/cookscountry/recipes/11749-vanilla-no-churn-ice-cream>`__
 

@@ -1,9 +1,9 @@
 Clams Steamed in White Wine
 ===========================
 
-+----------------------+--------------------------+-------------------+
-| Prep Time: 5 minutes | Cooking Time: 15 minutes | Yield: 4 servings |
-+----------------------+--------------------------+-------------------+
++----------------------+-----------------------+-------------------+
+| Prep Time: 5 minutes | Cook Time: 15 minutes | Yield: 4 servings |
++----------------------+-----------------------+-------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/8368-clams-steamed-in-white-wine>`__
 

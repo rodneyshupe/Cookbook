@@ -1,9 +1,9 @@
 Braised Pulled Pork with Honey Balsamic Sauce
 =============================================
 
-+------------------+---------------------------+----------+
-| Prep: 15 minutes | Total: 4 hours 10 minutes | Yield: 6 |
-+------------------+---------------------------+----------+
++-----------------------+--------------------------------+----------+
+| Prep Time: 15 minutes | Total Time: 4 hours 10 minutes | Yield: 6 |
++-----------------------+--------------------------------+----------+
 
 Source: `Tastemade <https://www.tastemade.com/shows/marys-kitchen-crush/marys-kitchen-crush-s-1-e25/recipes/honey-balsamic-pulled-pork>`__
 

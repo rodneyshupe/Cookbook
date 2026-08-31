@@ -1,9 +1,9 @@
 Grilled Spicy Blackened Salmon Tacos
 ====================================
 
-+------------------+-------------------+
-| Prep: 10 minutes | Total: 25 minutes |
-+------------------+-------------------+
++-----------------------+------------------------+
+| Prep Time: 10 minutes | Total Time: 25 minutes |
++-----------------------+------------------------+
 
 Source: `Alyssa Rivers <https://therecipecritic.com/grilled-spicy-blackened-salmon-tacos-pineapple-avocado-salsa/>`__
 

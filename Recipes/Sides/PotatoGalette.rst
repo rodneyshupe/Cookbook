@@ -1,9 +1,9 @@
 Potato Galette
 ==============
 
-+-----------------------+--------------------------+---------------------+
-| Prep Time: 15 minutes | Cooking Time: 50 minutes | Yield: 6-8 servings |
-+-----------------------+--------------------------+---------------------+
++-----------------------+-----------------------+---------------------+
+| Prep Time: 15 minutes | Cook Time: 50 minutes | Yield: 6-8 servings |
++-----------------------+-----------------------+---------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/36-scalloped-potatoes>`__
 

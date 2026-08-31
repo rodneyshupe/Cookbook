@@ -1,9 +1,9 @@
 Buffalo Chicken Dip Recipe
 ==========================
 
-+------------------+-------------------+-------------------+
-| Prep: 10 minutes | Total: 30 minutes | Yield: 4 servings |
-+------------------+-------------------+-------------------+
++-----------------------+------------------------+-------------------+
+| Prep Time: 10 minutes | Total Time: 30 minutes | Yield: 4 servings |
++-----------------------+------------------------+-------------------+
 
 Source: `Alix Traeger <https://tasty.co/recipe/buffalo-chicken-dip>`__
 

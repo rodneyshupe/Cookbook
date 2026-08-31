@@ -1,9 +1,9 @@
 Stir Fried Honey Ginger Sesame Noodles
 ======================================
 
-+------------------+-------------------+----------+
-| Prep: 10 minutes | Total: 20 minutes | Yield: 6 |
-+------------------+-------------------+----------+
++-----------------------+------------------------+----------+
+| Prep Time: 10 minutes | Total Time: 20 minutes | Yield: 6 |
++-----------------------+------------------------+----------+
 
 Source: `halfbakedharvest <https://www.halfbakedharvest.com/stir-fried-honey-ginger-sesame-noodles/>`__
 

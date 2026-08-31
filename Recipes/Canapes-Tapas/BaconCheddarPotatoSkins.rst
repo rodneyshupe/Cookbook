@@ -1,9 +1,9 @@
 Bacon-Cheddar Potato Skins
 ==========================
 
-+--------------------+------------------------------+
-| Total: 1 1/4 hours | Yield: Makes 16 potato skins |
-+--------------------+------------------------------+
++-------------------------+------------------------------+
+| Total Time: 1 1/4 hours | Yield: Makes 16 potato skins |
++-------------------------+------------------------------+
 
 Source: `Cook's Country <https://www.cookscountry.com/recipes/4645-bacon-cheddar-potato-skins>`__
 

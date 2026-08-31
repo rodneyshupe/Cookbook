@@ -1,9 +1,9 @@
 The Best DIY Foil Packet Dinners
 ================================
 
-+------------------+-------------------+------------------+
-| Prep: 15 minutes | Total: 45 minutes | Yield: 4 packets |
-+------------------+-------------------+------------------+
++-----------------------+------------------------+------------------+
+| Prep Time: 15 minutes | Total Time: 45 minutes | Yield: 4 packets |
++-----------------------+------------------------+------------------+
 
 When making these foil packet dinners, you can choose your ingredients, you
 can cook in the oven or on the grill, and there is minimal clean-up afterward.

@@ -1,9 +1,9 @@
 Creamy Mushroom Linguine with Steak
 ===================================
 
-+------------+-------------------+
-| Total: TBD | Yield: 4 servings |
-+------------+-------------------+
++-----------------+-------------------+
+| Total Time: TBD | Yield: 4 servings |
++-----------------+-------------------+
 
 Source: `Clodagh McKenna <https://www.clodaghmckenna.com/blog/steak-wih-creamy-mushroom-linguine>`__
 

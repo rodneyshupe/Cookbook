@@ -1,9 +1,9 @@
 Oven-Fried Onion Rings
 ======================
 
-+-----------------------+------------------+---------------+
-| Prep Time: 10 minutes | Cook: 25 minutes | Servings: 4-6 |
-+-----------------------+------------------+---------------+
++-----------------------+-----------------------+------------+
+| Prep Time: 10 minutes | Cook Time: 25 minutes | Yield: 4-6 |
++-----------------------+-----------------------+------------+
 
 Source: `Cooks Country <https://www.americastestkitchen.com/recipes/2938-oven-fried-onion-rings>`__
 

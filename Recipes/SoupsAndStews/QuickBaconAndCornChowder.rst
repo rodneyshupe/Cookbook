@@ -1,9 +1,9 @@
 Quick Bacon and Corn Chowder
 ============================
 
-+-----------------------+--------------------------+-------------------+
-| Prep Time: 10 minutes | Cooking Time: 30 minutes | Yield: 4 servings |
-+-----------------------+--------------------------+-------------------+
++-----------------------+-----------------------+-------------------+
+| Prep Time: 10 minutes | Cook Time: 30 minutes | Yield: 4 servings |
++-----------------------+-----------------------+-------------------+
 
 Source: `Cooks Country <https://www.cookscountry.com/recipes/4297-quick-corn-chowder-with-bacon>`__
 

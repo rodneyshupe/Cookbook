@@ -3,9 +3,9 @@ Chicken Noodle Soup
 
 Source: `Same the Cooking Guy <https://www.youtube.com/watch?v=qtCVEKqBztc>`__
 
-+----------------------+--------------------------+-------------------+
-| Prep Time: 5 minutes | Cooking Time: 30 minutes | Yield: 6 servings |
-+----------------------+--------------------------+-------------------+
++----------------------+-----------------------+-------------------+
+| Prep Time: 5 minutes | Cook Time: 30 minutes | Yield: 6 servings |
++----------------------+-----------------------+-------------------+
 
 
 Ingredients

@@ -1,9 +1,9 @@
 Herbed Grill-Roasted Lamb
 =========================
 
-+---------------+-------------------+
-| Total: 1 hour | Yield: 4 servings |
-+---------------+-------------------+
++--------------------+-------------------+
+| Total Time: 1 hour | Yield: 4 servings |
++--------------------+-------------------+
 
 Based on: `Molly Stevens <https://www.finecooking.com/recipe/herbed-grill-roasted-lamb>`__
 

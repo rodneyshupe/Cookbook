@@ -1,9 +1,9 @@
 Basil Pesto
 ===========
 
-+-------------------+---------------------------------------------------+
-| Total: 30 minutes | Yield: Makes 3/4 cup, enough for 1 pound of pasta |
-+-------------------+---------------------------------------------------+
++------------------------+---------------------------------------------------+
+| Total Time: 30 minutes | Yield: Makes 3/4 cup, enough for 1 pound of pasta |
++------------------------+---------------------------------------------------+
 
 Source: `www.cooksillustrated.com <https://www.cooksillustrated.com/recipes/1567-basil-pesto?incode=MCSCD00L0>`__
 

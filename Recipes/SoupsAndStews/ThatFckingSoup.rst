@@ -1,9 +1,9 @@
 That F%cking Soup
 =================
 
-+-----------------------+---------------------------+---------------------+
-| Prep Time: 15 minutes | Cooking Time: 3 1/2 hours | Yield: 4-6 servings |
-+-----------------------+---------------------------+---------------------+
++-----------------------+------------------------+---------------------+
+| Prep Time: 15 minutes | Cook Time: 3 1/2 hours | Yield: 4-6 servings |
++-----------------------+------------------------+---------------------+
 
 Great soup from my friend Dave. This was just an experiment that turned
 out great.

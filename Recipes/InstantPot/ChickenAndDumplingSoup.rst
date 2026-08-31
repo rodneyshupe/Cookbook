@@ -1,9 +1,9 @@
 Instant Pot Chicken and Dumpling Soup
 =====================================
 
-+------------------+-------------------+-------------------+
-| Prep: 10 minutes | Total: 40 minutes | Yield: 6 servings |
-+------------------+-------------------+-------------------+
++-----------------------+------------------------+-------------------+
+| Prep Time: 10 minutes | Total Time: 40 minutes | Yield: 6 servings |
++-----------------------+------------------------+-------------------+
 
 Source: `Pressue Luck Cooking <https://pressureluckcooking.com/recipe/instant-pot-chicken-dumplings/>`__
 

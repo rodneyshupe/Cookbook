@@ -1,9 +1,9 @@
 Cajun Shrimp Boil
 =================
 
-+-------------------------+--------------------------+
-| Time: 1 Hour 15 minutes | Yield: 10 to 12 servings |
-+-------------------------+--------------------------+
++-------------------------------+--------------------------+
+| Total Time: 1 Hour 15 minutes | Yield: 10 to 12 servings |
++-------------------------------+--------------------------+
 
 Source: `New York Times Samin Nosrat <https://cooking.nytimes.com/recipes/1019530-cajun-shrimp-boil>`__
 

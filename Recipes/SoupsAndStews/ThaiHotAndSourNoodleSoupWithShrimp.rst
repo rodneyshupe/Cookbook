@@ -1,9 +1,9 @@
 Thai Hot and Sour Noodle Soup with Shrimp (Guay Tiew Tom Yum Goong)
 ===================================================================
 
-+-----------------------+---------------------------+---------------------+
-| Prep Time: 15 minutes | Cooking Time: 1 1/4 hours | Yield: 4-6 servings |
-+-----------------------+---------------------------+---------------------+
++-----------------------+------------------------+---------------------+
+| Prep Time: 15 minutes | Cook Time: 1 1/4 hours | Yield: 4-6 servings |
++-----------------------+------------------------+---------------------+
 
 Source: `Cooks Country <https://www.cookscountry.com/recipes/5833-asian-beef-and-noodle-soup>`__
 

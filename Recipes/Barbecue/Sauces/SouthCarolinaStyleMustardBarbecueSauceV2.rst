@@ -1,9 +1,9 @@
 South Carolina Style Mustard Barbecue Sauce v2
 ==============================================
 
-+----------------------+--------------------------+---------------+
-| Prep Time: 5 minutes | Cooking Time: 30 minutes | Yield: 1 cups |
-+----------------------+--------------------------+---------------+
++----------------------+-----------------------+---------------+
+| Prep Time: 5 minutes | Cook Time: 30 minutes | Yield: 1 cups |
++----------------------+-----------------------+---------------+
 
 - 1 tablespoon olive oil or vegetable oil
 - 1/4 cup minced onion

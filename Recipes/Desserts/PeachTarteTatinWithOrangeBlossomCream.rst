@@ -1,9 +1,9 @@
 Peach tarte tatin with orange blossom cream
 ===========================================
 
-+------------+-------------------+
-| Total: TBD | Yield: 6 servings |
-+------------+-------------------+
++-----------------+-------------------+
+| Total Time: TBD | Yield: 6 servings |
++-----------------+-------------------+
 
 Source: `Clodagh McKenna <https://www.clodaghmckenna.com/blog/peach-tart-tatin-with-orange-blossom-cream>`__
 

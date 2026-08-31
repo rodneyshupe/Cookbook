@@ -1,9 +1,9 @@
 Baked Manicotti with Spinach
 ============================
 
-+----------------------+-----------------------+---------------------+
-| Prep Time: 5 minutes | Cooking Time: 2 hours | Yield: 6-8 servings |
-+----------------------+-----------------------+---------------------+
++----------------------+--------------------+---------------------+
+| Prep Time: 5 minutes | Cook Time: 2 hours | Yield: 6-8 servings |
++----------------------+--------------------+---------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/4250-baked-manicotti-with-spinach>`__
 

@@ -1,9 +1,9 @@
 Rosticciana (Tuscan Grilled Pork Ribs)
 ======================================
 
-+------------------------+--------------------------+------------+
-| Prep Time: 10 + 1 hour | Cooking Time: 30 minutes | Yield: 4-6 |
-+------------------------+--------------------------+------------+
++------------------------+-----------------------+------------+
+| Prep Time: 10 + 1 hour | Cook Time: 30 minutes | Yield: 4-6 |
++------------------------+-----------------------+------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/11517-tuscan-grilled-pork-ribs-rosticciana#>`__
 

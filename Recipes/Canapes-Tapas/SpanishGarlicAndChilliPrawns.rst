@@ -1,9 +1,9 @@
 Spanish Garlic and Chilli Prawns
 ================================
 
-+-------------------+--------------------+
-| Total: 10 minutes | Yield: 2 servings |
-+-------------------+--------------------+
++------------------------+-------------------+
+| Total Time: 10 minutes | Yield: 2 servings |
++------------------------+-------------------+
 
 Source: `Bart van Olphen <https://www.jamieoliver.com/recipes/seafood-recipes/patsy-s-garlic-chilli-prawns/>`__
 

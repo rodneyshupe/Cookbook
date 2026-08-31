@@ -3,9 +3,9 @@ Cha Siu Bao
 
 Steamed BBQ Pork Buns
 
-+------------+---------------------+
-| Total: TBD | Yield: 14 pork buns |
-+------------+---------------------+
++-----------------+---------------------+
+| Total Time: TBD | Yield: 14 pork buns |
++-----------------+---------------------+
 
 Source: `Seonkyoung Longest <https://seonkyounglongest.com/bbq-pork-buns/>`__
 

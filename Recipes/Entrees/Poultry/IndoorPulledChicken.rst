@@ -1,9 +1,9 @@
 Indoor Pulled Chicken
 =====================
 
-+-----------------------+----------------------+---------------------+
-| Prep Time: 10 minutes | Cooking Time: 1 hour | Yield: 6-8 servings |
-+-----------------------+----------------------+---------------------+
++-----------------------+-------------------+---------------------+
+| Prep Time: 10 minutes | Cook Time: 1 hour | Yield: 6-8 servings |
++-----------------------+-------------------+---------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/10594-indoor-pulled-chicken-with-sweet-and-tangy-barbecue-sauce#>`__
 

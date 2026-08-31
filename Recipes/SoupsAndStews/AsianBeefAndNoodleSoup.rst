@@ -1,9 +1,9 @@
 Asian Beef and Noodle Soup
 ==========================
 
-+-----------------------+--------------------------+-------------------+
-| Prep Time: 15 minutes | Cooking Time: 15 minutes | Yield: 4 servings |
-+-----------------------+--------------------------+-------------------+
++-----------------------+-----------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 15 minutes | Yield: 4 servings |
++-----------------------+-----------------------+-------------------+
 
 Source: `Cooks Country <https://www.cookscountry.com/recipes/5833-asian-beef-and-noodle-soup>`__
 

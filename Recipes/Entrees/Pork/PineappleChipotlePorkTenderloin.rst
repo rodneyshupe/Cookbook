@@ -1,9 +1,9 @@
 Pineapple Chipotle Pork Tenderloin
 ==================================
 
-+-----------------------+------------------+-------------+
-| Prep Time: 10 minutes | Cook: 60 minutes | Servings: 4 |
-+-----------------------+------------------+-------------+
++-----------------------+-----------------------+----------+
+| Prep Time: 10 minutes | Cook Time: 60 minutes | Yield: 4 |
++-----------------------+-----------------------+----------+
 
 Source: `Mary Berg <https://more.ctv.ca/food/recipes/2024/the-good-stuff/pineapple-chipotle-pork-tenderloin.html>`__
 

@@ -1,9 +1,9 @@
 Pan-Seared Thick-Cut Strip Steaks
 =================================
 
-+----------------------+--------------------------+-------------------+
-| Prep Time: 5 minutes | Cooking Time: 35 minutes | Yield: 4 servings |
-+----------------------+--------------------------+-------------------+
++----------------------+-----------------------+-------------------+
+| Prep Time: 5 minutes | Cook Time: 35 minutes | Yield: 4 servings |
++----------------------+-----------------------+-------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/3564-pan-seared-thick-cut-strip-steaks>`__
 

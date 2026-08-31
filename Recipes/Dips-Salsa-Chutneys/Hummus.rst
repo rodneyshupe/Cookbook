@@ -1,9 +1,9 @@
 Hummus
 ======
 
-+-----------------+------------------+---------------+
-| Prep: 5 minutes | Time: 35 minutes | Yield: 2 cups |
-+-----------------+------------------+---------------+
++----------------------+------------------------+---------------+
+| Prep Time: 5 minutes | Total Time: 35 minutes | Yield: 2 cups |
++----------------------+------------------------+---------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/4234-restaurant-style-hummus?incode=MCSCD00L0&ref=new_search_experience_12>`__
 

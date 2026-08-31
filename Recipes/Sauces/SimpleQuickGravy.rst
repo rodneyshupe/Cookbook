@@ -1,9 +1,9 @@
 Simple Quick Gravy
 ==================
 
-+-----------------+-------------------+---------------+
-| Prep: 5 minutes | Total: 15 minutes | Yield: 2 cups |
-+-----------------+-------------------+---------------+
++----------------------+------------------------+---------------+
+| Prep Time: 5 minutes | Total Time: 15 minutes | Yield: 2 cups |
++----------------------+------------------------+---------------+
 
 Quick beef broth brown gravy that can be made in just 15 minutes with only
 a few ingredients.

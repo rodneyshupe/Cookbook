@@ -3,9 +3,9 @@ Pressure Cooker Braised Short Ribs
 
 This creates incredibly tender and flavorful short ribs.
 
-+----------------------+--------------------------+-------------------+
-| Prep Time: 5 minutes | Cooking Time: 75 minutes | Yield: 3 servings |
-+----------------------+--------------------------+-------------------+
++----------------------+-----------------------+-------------------+
+| Prep Time: 5 minutes | Cook Time: 75 minutes | Yield: 3 servings |
++----------------------+-----------------------+-------------------+
 
 Equipment
 ---------

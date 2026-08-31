@@ -1,9 +1,9 @@
 Paella Party Packs
 ==================
 
-+-----------------------+--------------------------+-------------------+
-| Prep Time: 15 minutes | Cooking Time: 25 minutes | Yield: 4 servings |
-+-----------------------+--------------------------+-------------------+
++-----------------------+-----------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 25 minutes | Yield: 4 servings |
++-----------------------+-----------------------+-------------------+
 
 Source: `Delish <https://www.delish.com/cooking/recipe-ideas/recipes/a47872/paella-party-packs-recipe/>`__
 

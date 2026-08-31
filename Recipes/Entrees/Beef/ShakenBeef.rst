@@ -1,9 +1,9 @@
 Bò Lúc Lắc (Shaking Beef)
 =========================
 
-+--------------------+-----------------+
-| Total: 1 1/4 hours | Yield: Serves 4 |
-+--------------------+-----------------+
++-------------------------+-----------------+
+| Total Time: 1 1/4 hours | Yield: Serves 4 |
++-------------------------+-----------------+
 
 Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/11895-shaking-beef-bo-luc-lac>`__
 

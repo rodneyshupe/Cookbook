@@ -1,9 +1,9 @@
 Spicy Vodka Pasta
 =================
 
-+----------------------+--------------------------+-------------------+
-| Prep Time: 5 minutes | Cooking Time: 30 minutes | Yield: 6 servings |
-+----------------------+--------------------------+-------------------+
++----------------------+-----------------------+-------------------+
+| Prep Time: 5 minutes | Cook Time: 30 minutes | Yield: 6 servings |
++----------------------+-----------------------+-------------------+
 
 Source: `Sam the Cooking Guy <https://www.thecookingguy.com/cookbook/2021/5/18/spicy-vodka-pasta-wgarlic-bread>`__
 

@@ -1,9 +1,9 @@
 Baked Brie Cups
 ===============
 
-+-----------------------+--------------------------+------------------+
-| Prep Time: 20 minutes | Cooking Time: 15 minutes | Yield: 30 pieces |
-+-----------------------+--------------------------+------------------+
++-----------------------+-----------------------+------------------+
+| Prep Time: 20 minutes | Cook Time: 15 minutes | Yield: 30 pieces |
++-----------------------+-----------------------+------------------+
 
 Source: `Cooks Country <https://www.cookscountry.com/recipes/2363-baked-brie-cups>`__
 

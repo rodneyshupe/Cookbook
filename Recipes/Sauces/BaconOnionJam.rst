@@ -4,9 +4,9 @@ Bacon Onion Jam
 While this will keep in the fridge a couple weeks, you’ll most likely use it
 up before then.
 
-+-------------------+-------------------------------+
-| Total: 45 minutes | Yield: Makes about 1 1/2 cups |
-+-------------------+-------------------------------+
++------------------------+-------------------------------+
+| Total Time: 45 minutes | Yield: Makes about 1 1/2 cups |
++------------------------+-------------------------------+
 
 Source: `Sam the Cooking Guy <https://www.thecookingguy.com/cookbook/2020/6/22/bacon-amp-onion-jam>`__
 

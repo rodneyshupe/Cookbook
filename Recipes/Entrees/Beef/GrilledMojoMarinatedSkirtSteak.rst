@@ -1,9 +1,9 @@
 Grilled Mojo-Marinated Skirt Steak
 ==================================
 
-+--------------------------------+--------------------------+---------------------+
-| Prep Time: 15 minutes + 1 hour | Cooking Time: 20 minutes | Yield: 4-6 servings |
-+--------------------------------+--------------------------+---------------------+
++--------------------------------+-----------------------+---------------------+
+| Prep Time: 15 minutes + 1 hour | Cook Time: 20 minutes | Yield: 4-6 servings |
++--------------------------------+-----------------------+---------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/10924-grilled-mojo-marinated-skirt-steak>`__
 

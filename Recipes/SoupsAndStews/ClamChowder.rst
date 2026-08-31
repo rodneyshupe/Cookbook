@@ -1,9 +1,9 @@
 New England Clam Chowder
 ========================
 
-+------------+---------------------+
-| Total: TBD | Yield: 3-4 servings |
-+------------+---------------------+
++-----------------+---------------------+
+| Total Time: TBD | Yield: 3-4 servings |
++-----------------+---------------------+
 
 Source: `Bon Appetit (Mary-Frances Heck) <https://www.bonappetit.com/recipe/new-england-clam-chowder>`__
 

@@ -1,9 +1,9 @@
 Skillet Baked Ziti
 ==================
 
-+----------------------+-----------------------------+---------------------+
-| Prep Time: 5 minutes | Cooking Time: 35-40 minutes | Yield: 4-6 servings |
-+----------------------+-----------------------------+---------------------+
++----------------------+--------------------------+---------------------+
+| Prep Time: 5 minutes | Cook Time: 35-40 minutes | Yield: 4-6 servings |
++----------------------+--------------------------+---------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/3989-skillet-baked-ziti>`__
 

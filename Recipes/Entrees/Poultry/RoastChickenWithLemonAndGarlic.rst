@@ -1,9 +1,9 @@
 Roast Chicken with Lemon and Garlic
 ===================================
 
-+----------------------+--------------------------+-------------------+
-| Prep Time: 5 minutes | Cooking Time: 45 minutes | Yield: 4 servings |
-+----------------------+--------------------------+-------------------+
++----------------------+-----------------------+-------------------+
+| Prep Time: 5 minutes | Cook Time: 45 minutes | Yield: 4 servings |
++----------------------+-----------------------+-------------------+
 
 This recipe eliminates one of the most common complaints about whole roast
 chickens—that it’s hard to know when they’re cooked all the way through. This

@@ -1,9 +1,9 @@
 Chickpea Curry
 ==============
 
-+-------------------+-----------------+
-| Total: 30 minutes | Yield: Serves 4 |
-+-------------------+-----------------+
++------------------------+-----------------+
+| Total Time: 30 minutes | Yield: Serves 4 |
++------------------------+-----------------+
 
 Source: `Cook's Country <https://www.cookscountry.com/recipes/11291-chickpea-curry>`__
 

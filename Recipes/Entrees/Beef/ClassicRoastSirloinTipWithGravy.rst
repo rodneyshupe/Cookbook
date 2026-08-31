@@ -1,9 +1,9 @@
 Classic Roast Sirloin Tip with Gravy
 ====================================
 
-+-----------------------+----------------------------------+-------------------+
-| Prep Time: 20 minutes | Cooking Time: 1 hours 45 minutes | Yield: 8 servings |
-+-----------------------+----------------------------------+-------------------+
++-----------------------+-------------------------------+-------------------+
+| Prep Time: 20 minutes | Cook Time: 1 hours 45 minutes | Yield: 8 servings |
++-----------------------+-------------------------------+-------------------+
 
 Source: `Canadian Living <https://www.canadianliving.com/food/lunch-and-dinner/recipe/classic-roast-beef-with-gravy>`__
 

@@ -6,9 +6,9 @@ noodle soup, or in between `steamed buns (bao) <#bao-buns>`__. Leftovers
 would be perfect to make fried rice or fried noodles! It also can be a
 protein for your salad.
 
-+-------------------+------------------+
-| Total: 25 minutes | Yield: serves 12 |
-+-------------------+------------------+
++------------------------+------------------+
+| Total Time: 25 minutes | Yield: serves 12 |
++------------------------+------------------+
 
 Source: `Seonkyoung Longest <https://seonkyounglongest.com/best-char-siu/>`__
 

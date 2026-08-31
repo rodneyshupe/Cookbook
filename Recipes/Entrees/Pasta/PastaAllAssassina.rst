@@ -1,9 +1,9 @@
 Pasta all'Assassina
 ===================
 
-+------------------+-------------------+----------+
-| Prep: 10 minutes | Total: 35 minutes | Yield: 4 |
-+------------------+-------------------+----------+
++-----------------------+------------------------+----------+
+| Prep Time: 10 minutes | Total Time: 35 minutes | Yield: 4 |
++-----------------------+------------------------+----------+
 
 Source: Jacqui - `The Pasta Project <https://www.the-pasta-project.com/spaghetti-allassassina-assassins-spaghetti/>`__
 

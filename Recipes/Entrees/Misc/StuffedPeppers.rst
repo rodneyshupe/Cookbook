@@ -1,9 +1,9 @@
 Stuffed Peppers
 ===============
 
-+-----------------------+----------------------+-------------------+
-| Prep Time: 20 minutes | Cooking Time: 1 hour | Yield: 4 servings |
-+-----------------------+----------------------+-------------------+
++-----------------------+-------------------+-------------------+
+| Prep Time: 20 minutes | Cook Time: 1 hour | Yield: 4 servings |
++-----------------------+-------------------+-------------------+
 
 Source: Combination of recipres from `Cooks Country <https://www.cookscountry.com/recipes/6637-slow-cooker-stuffed-peppers>`__
 and `Cooks Illustrated <https://www.cooksillustrated.com/recipes/225-classic-stuffed-bell-peppers>`__

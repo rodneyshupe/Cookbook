@@ -1,9 +1,9 @@
 Canned Salsa
 ============
 
-+------------------+--------------------------+----------------+
-| Prep: 45 minutes | Total: 6 hours 5 minutes | Yield: 8 pints |
-+------------------+--------------------------+----------------+
++-----------------------+-------------------------------+----------------+
+| Prep Time: 45 minutes | Total Time: 6 hours 5 minutes | Yield: 8 pints |
++-----------------------+-------------------------------+----------------+
 
 Source: `AllRecipes (Tami) <https://www.allrecipes.com/recipe/175547/rockin-salsa/>`__
 

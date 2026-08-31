@@ -3,9 +3,9 @@ Cioppino
 
 Source: `Same the Cooking Guy <https://www.youtube.com/watch?v=E6LtW0DaH4U>`__
 
-+-----------------------+--------------------------+-------------------+
-| Prep Time: 15 minutes | Cooking Time: 30 minutes | Yield: 6 servings |
-+-----------------------+--------------------------+-------------------+
++-----------------------+-----------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 30 minutes | Yield: 6 servings |
++-----------------------+-----------------------+-------------------+
 
 
 Ingredients

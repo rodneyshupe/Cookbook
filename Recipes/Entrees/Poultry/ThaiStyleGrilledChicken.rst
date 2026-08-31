@@ -1,9 +1,9 @@
 Thai-Style Grilled Chicken (Gai Yang)
 =====================================
 
-+-----------------------+----------------------+--------------------------+-------------------+
-| Prep Time: 15 minutes | Marinate: 6-24 hours | Cooking Time: 45 minutes | Yield: 4 servings |
-+-----------------------+----------------------+--------------------------+-------------------+
++-----------------------+---------------------------+-----------------------+-------------------+
+| Prep Time: 15 minutes | Marinate Time: 6-24 hours | Cook Time: 45 minutes | Yield: 4 servings |
++-----------------------+---------------------------+-----------------------+-------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/9710-thai-grilled-cornish-hens-with-chili-dipping-sauce-gai-yang>`__
 

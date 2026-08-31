@@ -1,9 +1,9 @@
 Guinness Beef Stew with Cheddar Herb Dumplings
 ==============================================
 
-+------------------+---------------------------+-------------------+
-| Prep: 30 minutes | Total: 3 hours 30 minutes | Yield: 6 servings |
-+------------------+---------------------------+-------------------+
++-----------------------+--------------------------------+-------------------+
+| Prep Time: 30 minutes | Total Time: 3 hours 30 minutes | Yield: 6 servings |
++-----------------------+--------------------------------+-------------------+
 
 Source: `Morgan <https://hostthetoast.com/guinness-beef-stew-with-cheddar-herb-dumplings/>`__
 

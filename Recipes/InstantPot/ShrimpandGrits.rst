@@ -1,9 +1,9 @@
 Instant Pot Shrimp and Grits
 ============================
 
-+------------------+---------------+---------------------+
-| Prep: 25 minutes | Total: 1 hour | Yield: 4-6 servings |
-+------------------+---------------+---------------------+
++-----------------------+--------------------+---------------------+
+| Prep Time: 25 minutes | Total Time: 1 hour | Yield: 4-6 servings |
++-----------------------+--------------------+---------------------+
 
 Source: `365 Days of Slow and Pressure Cooking <https://www.365daysofcrockpot.com/instant-pot-shrimp-and-grits/>`__
 

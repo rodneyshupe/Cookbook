@@ -1,9 +1,9 @@
 Warm Crab and Artichoke Dip
 ===========================
 
-+-----------------+-------------------+-----------------+
-| Prep: 5 minutes | Total: 25 minutes | Yield: Serves 8 |
-+-----------------+-------------------+-----------------+
++----------------------+------------------------+-----------------+
+| Prep Time: 5 minutes | Total Time: 25 minutes | Yield: Serves 8 |
++----------------------+------------------------+-----------------+
 
 Source: `Patrick Sheridan, Monterey, CA, <https://www.sunset.com/recipe/warm-crab-artichoke-dip>`__
 

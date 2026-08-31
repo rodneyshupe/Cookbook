@@ -1,9 +1,9 @@
 Austrian Potato Salad
 =====================
 
-+-----------------------+--------------------------+-----------------------+
-| Prep Time: 15 minutes | Cooking Time: 30 minutes | Yield: 4 - 6 servings |
-+-----------------------+--------------------------+-----------------------+
++-----------------------+-----------------------+-----------------------+
+| Prep Time: 15 minutes | Cook Time: 30 minutes | Yield: 4 - 6 servings |
++-----------------------+-----------------------+-----------------------+
 
 For a creamy and light potato salad recipe, do as the Austrians do:
 Ditch the mayo and look to the soup pot. The finished salad should be

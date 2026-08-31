@@ -1,9 +1,9 @@
 Salmon Canapes With Horseradish Cream
 =====================================
 
-+------------------+-------------------+--------------------------------------------------------------------+
-| Prep: 25 minutes | Total: 25 minutes | Yield: Makes 10 servings, 30 pieces total (serving size: 3 pieces) |
-+------------------+-------------------+--------------------------------------------------------------------+
++-----------------------+------------------------+--------------------------------------------------------------------+
+| Prep Time: 25 minutes | Total Time: 25 minutes | Yield: Makes 10 servings, 30 pieces total (serving size: 3 pieces) |
++-----------------------+------------------------+--------------------------------------------------------------------+
 
 Source: `Laura Zapalowski <https://www.myrecipes.com/recipe/salmon-canapes-with-horseradish-cream>`__
 

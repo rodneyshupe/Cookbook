@@ -5,9 +5,9 @@ If you are a chocolate fan it does not get any better than this cheese
 cake and is the best chocolate cheese cake I have had. It is one of the
 richest deserts out there and goes nicely with a ice wine.
 
-+-----------------------+-------------------------+--------------------+
-| Prep Time: 10 minutes | Baking Time: 60 minutes | Yield: 12 servings |
-+-----------------------+-------------------------+--------------------+
++-----------------------+-----------------------+--------------------+
+| Prep Time: 10 minutes | Cook Time: 60 minutes | Yield: 12 servings |
++-----------------------+-----------------------+--------------------+
 
 Equipment
 ---------

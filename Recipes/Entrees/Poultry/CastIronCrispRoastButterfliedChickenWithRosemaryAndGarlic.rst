@@ -1,9 +1,9 @@
 Cast Iron Crisp Roast Butterflied Chicken with Rosemary and Garlic
 ==================================================================
 
-+-----------------------+----------------------+-------------------+
-| Prep Time: 15 minutes | Cooking Time: 1 hour | Yield: 4 servings |
-+-----------------------+----------------------+-------------------+
++-----------------------+-------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 1 hour | Yield: 4 servings |
++-----------------------+-------------------+-------------------+
 
 Source: `Americas Test Kitchen <https://www.americastestkitchen.com/recipes/9459-cast-iron-crisp-roast-butterflied-chicken-with-rosemary-and-garlic>`__
 

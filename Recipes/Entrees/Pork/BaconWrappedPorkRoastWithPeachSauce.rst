@@ -1,9 +1,9 @@
 Bacon-Wrapped Pork Roast with Peach Sauce
 =========================================
 
-+--------------------------------------+---------------------------------+-------------------+
-| Prep Time: 15 minutes + 1 - 24 hours | Cooking Time: 1 hour 15 minutes | Yield: 8 servings |
-+--------------------------------------+---------------------------------+-------------------+
++--------------------------------------+------------------------------+-------------------+
+| Prep Time: 15 minutes + 1 - 24 hours | Cook Time: 1 hour 15 minutes | Yield: 8 servings |
++--------------------------------------+------------------------------+-------------------+
 
 Source: `Cooks Country <https://www.cookscountry.com/recipes/8704-bacon-wrapped-pork-roast-with-peach-sauce>`__
 

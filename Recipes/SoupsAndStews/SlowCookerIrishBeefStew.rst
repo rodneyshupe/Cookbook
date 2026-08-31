@@ -1,9 +1,9 @@
 Slow Cooker Irish Beef Stew
 ===========================
 
-+-----------------------+-----------------------+---------------------+
-| Prep Time: 15 minutes | Cooking Time: 7 hours | Yield: 4-6 servings |
-+-----------------------+-----------------------+---------------------+
++-----------------------+--------------------+---------------------+
+| Prep Time: 15 minutes | Cook Time: 7 hours | Yield: 4-6 servings |
++-----------------------+--------------------+---------------------+
 
 Source: `Savory Nothings <https://www.savorynothings.com/slow-cooker-irish-beef-stew/>`__
 

@@ -1,9 +1,9 @@
 Cauliflower Soup
 ================
 
-+-----------------------+---------------------------+---------------------+
-| Prep Time: 15 minutes | Cooking Time: 1 1/2 hours | Yield: 4-6 servings |
-+-----------------------+---------------------------+---------------------+
++-----------------------+------------------------+---------------------+
+| Prep Time: 15 minutes | Cook Time: 1 1/2 hours | Yield: 4-6 servings |
++-----------------------+------------------------+---------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/7491-cauliflower-soup>`__
 

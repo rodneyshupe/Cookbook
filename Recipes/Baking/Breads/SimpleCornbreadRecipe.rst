@@ -1,9 +1,9 @@
 Simple Cornbread Recipe
 =======================
 
-+------------------+---------------+-------------------+
-| Prep: 10 minutes | Total: 1 hour | Yield: 9 servings |
-+------------------+---------------+-------------------+
++-----------------------+--------------------+-------------------+
+| Prep Time: 10 minutes | Total Time: 1 hour | Yield: 9 servings |
++-----------------------+--------------------+-------------------+
 
 Source: `Sally <https://sallysbakingaddiction.com/my-favorite-cornbread/>`__
 

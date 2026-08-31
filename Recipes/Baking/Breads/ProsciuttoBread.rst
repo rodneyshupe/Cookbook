@@ -1,9 +1,9 @@
 Prosciutto Bread
 ================
 
-+----------------+-----------------------+
-| Total: 3 hours | Yield: Makes 2 loaves |
-+----------------+-----------------------+
++---------------------+-----------------------+
+| Total Time: 3 hours | Yield: Makes 2 loaves |
++---------------------+-----------------------+
 
 Source: `Cook's Country <https://www.cookscountry.com/recipes/10560-prosciutto-bread>`__
 

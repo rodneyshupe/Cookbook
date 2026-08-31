@@ -1,9 +1,9 @@
 Hot Pepper Jelly
 ================
 
-+------------------+-------------------+---------------+
-| Prep: 10 minutes | Total: 30 minutes | Yield: 4 cups |
-+------------------+-------------------+---------------+
++-----------------------+------------------------+---------------+
+| Prep Time: 10 minutes | Total Time: 30 minutes | Yield: 4 cups |
++-----------------------+------------------------+---------------+
 
 Source: `Team Tasting Table <https://www.tastingtable.com/cook/recipes/hot-pepper-jelly-recipe-summer-spicy-chile-canning>`__
 

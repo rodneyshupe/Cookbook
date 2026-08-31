@@ -1,9 +1,9 @@
 Murgh Makhani (Indian Butter Chicken)
 =====================================
 
-+--------------------+----------------------+
-| Total: 1 1/4 hours | Yield: Serves 4 to 6 |
-+--------------------+----------------------+
++-------------------------+----------------------+
+| Total Time: 1 1/4 hours | Yield: Serves 4 to 6 |
++-------------------------+----------------------+
 
 Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/11519-indian-butter-chicken-murgh-makhani>`__
 

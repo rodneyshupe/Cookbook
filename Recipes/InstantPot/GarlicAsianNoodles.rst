@@ -1,9 +1,9 @@
 Garlic Asian Style Noodles
 ==========================
 
-+-----------------+-----------------------+-------------------+
-| Prep: 5 minutes | Cook Time: 16 minutes | Yield: 3 servings |
-+-----------------+-----------------------+-------------------+
++----------------------+-----------------------+-------------------+
+| Prep Time: 5 minutes | Cook Time: 16 minutes | Yield: 3 servings |
++----------------------+-----------------------+-------------------+
 
 Source: `Pressure Luck Cooking <https://pressureluckcooking.com/recipe/instant-pot-asian-garlic-noodles/>`__
 

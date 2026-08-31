@@ -1,9 +1,9 @@
 Jalapeno Hot Sauce
 ==================
 
-+-----------------+-------------------+-------------------+
-| Prep: 20 minutes | Time: 45 minutes | Yield: 1 1/2 cups |
-+-----------------+-------------------+-------------------+
++-----------------------+------------------------+-------------------+
+| Prep Time: 20 minutes | Total Time: 45 minutes | Yield: 1 1/2 cups |
++-----------------------+------------------------+-------------------+
 
 Source: `PepperScale <https://www.pepperscale.com/jalapeno-hot-sauce-recipe/>`__
 

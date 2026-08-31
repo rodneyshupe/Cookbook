@@ -3,9 +3,9 @@ Shrimp Bisque
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/735-rich-and-velvety-shrimp-bisque>`__
 
-+-----------------------+----------------------+---------------+--------------+
-| Prep Time: 30 minutes | Cooking Time: 1 hour | Servings: 4-6 | Makes 6 cups |
-+-----------------------+----------------------+---------------+--------------+
++-----------------------+-------------------+------------+--------------+
+| Prep Time: 30 minutes | Cook Time: 1 hour | Yield: 4-6 | Makes 6 cups |
++-----------------------+-------------------+------------+--------------+
 
 
 Ingredients

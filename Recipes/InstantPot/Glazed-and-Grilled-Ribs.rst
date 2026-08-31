@@ -1,9 +1,9 @@
 Instant Pot Glazed and Grilled Ribs
 ===================================
 
-+------------+-------------------+
-| Total: TBD | Yield: 4 servings |
-+------------+-------------------+
++-----------------+-------------------+
+| Total Time: TBD | Yield: 4 servings |
++-----------------+-------------------+
 
 Source: `Bon Appetit (Carla Lalli Music) <https://www.bonappetit.com/recipe/instant-pot-glazed-and-grilled-ribs>`__
 

@@ -5,9 +5,9 @@ For the best flavor, make the soup a day or 2 in advance. Alternatively,
 the onions can be prepared through step 1, cooled in the pot, and
 refrigerated for up to 3 days before proceeding with the recipe.
 
-+-----------------------+---------------------------+---------------------+
-| Prep Time: 15 minutes | Cooking Time: 4 1/2 hours | Yield: 4-6 servings |
-+-----------------------+---------------------------+---------------------+
++-----------------------+------------------------+---------------------+
+| Prep Time: 15 minutes | Cook Time: 4 1/2 hours | Yield: 4-6 servings |
++-----------------------+------------------------+---------------------+
 
 
 Ingredients

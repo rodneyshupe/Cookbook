@@ -3,9 +3,9 @@ Red Lentil Soup with North African Spices
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/8661-red-lentil-soup-with-north-african-spices>`__
 
-+-----------------------+----------------------+---------------+
-| Prep Time: 30 minutes | Cooking Time: 1 hour | Servings: 4-6 |
-+-----------------------+----------------------+---------------+
++-----------------------+-------------------+------------+
+| Prep Time: 30 minutes | Cook Time: 1 hour | Yield: 4-6 |
++-----------------------+-------------------+------------+
 
 
 Ingredients

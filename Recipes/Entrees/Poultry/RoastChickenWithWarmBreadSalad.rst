@@ -1,9 +1,9 @@
 Roast Chicken with Warm Bread Salad
 ===================================
 
-+----------------------------------+---------------------------+---------------------+
-| Prep Time: 15 minutes + 24 hours | Cooking Time: 1 1/2 hours | Yield: 4-6 servings |
-+----------------------------------+---------------------------+---------------------+
++----------------------------------+------------------------+---------------------+
+| Prep Time: 15 minutes + 24 hours | Cook Time: 1 1/2 hours | Yield: 4-6 servings |
++----------------------------------+------------------------+---------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/10920-roast-chicken-with-warm-bread-salad>`__
 

@@ -3,9 +3,9 @@ Mushroom Bisque
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/8111-mushroom-bisque>`__
 
-+-----------------------+----------------------+----------------+
-| Prep Time: 30 minutes | Cooking Time: 1 hour | Servings: 6-10 |
-+-----------------------+----------------------+----------------+
++-----------------------+-------------------+-------------+
+| Prep Time: 30 minutes | Cook Time: 1 hour | Yield: 6-10 |
++-----------------------+-------------------+-------------+
 
 
 Ingredients

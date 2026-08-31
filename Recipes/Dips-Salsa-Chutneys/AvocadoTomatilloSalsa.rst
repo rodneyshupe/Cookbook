@@ -1,9 +1,9 @@
 Avocado Tomatillo Salsa
 =======================
 
-+------------------+-------------------+--------------+
-| Prep: 15 minutes | Total: 15 minutes | Yield: 1 cup |
-+------------------+-------------------+--------------+
++-----------------------+------------------------+--------------+
+| Prep Time: 15 minutes | Total Time: 15 minutes | Yield: 1 cup |
++-----------------------+------------------------+--------------+
 
 Source: `AllRecipes (Chef John) <https://www.allrecipes.com/recipe/233271/avocado-tomatillo-salsa/>`__
 

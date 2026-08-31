@@ -1,9 +1,9 @@
 Com Do (Vietnamese Red Rice)
 ============================
 
-+-------------------+----------------------+
-| Total: 45 minutes | Yield: Serves 4 to 6 |
-+-------------------+----------------------+
++------------------------+----------------------+
+| Total Time: 45 minutes | Yield: Serves 4 to 6 |
++------------------------+----------------------+
 
 Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/11896-vietnamese-red-rice-com-do>`__
 

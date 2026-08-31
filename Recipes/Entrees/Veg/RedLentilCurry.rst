@@ -1,9 +1,9 @@
 Red Lentil Curry
 ================
 
-+-----------------+-------------------+----------+
-| Prep: 5 minutes | Total: 30 minutes | Yield: 3 |
-+-----------------+-------------------+----------+
++----------------------+------------------------+----------+
+| Prep Time: 5 minutes | Total Time: 30 minutes | Yield: 3 |
++----------------------+------------------------+----------+
 
 Source: `Minimalist Baker <https://minimalistbaker.com/spicy-red-lentil-curry/>`__
 

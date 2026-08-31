@@ -1,9 +1,9 @@
 Pressure Cooker Chicken, Black Bean, and Rice Burrito Bowls
 ===========================================================
 
-+------------------+-------------------+-----------------+
-| Prep: 10 minutes | Total: 20 minutes | Yield: 4 people |
-+------------------+-------------------+-----------------+
++-----------------------+------------------------+-----------------+
+| Prep Time: 10 minutes | Total Time: 20 minutes | Yield: 4 people |
++-----------------------+------------------------+-----------------+
 
 Source: `Elizabeth <https://cookfasteatwell.com/pressure-cooker-chicken-black-bean-and-rice-burrito-bowls/>`__
 

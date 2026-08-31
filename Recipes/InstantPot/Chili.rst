@@ -1,9 +1,9 @@
 Presure Cooker (or Slow Cooker) Chili
 =====================================
 
-+------------------+---------------+-------------------------------------+
-| Prep: 15 minutes | Total: 1 hour | Yield: Makes around 7 cups of chili |
-+------------------+---------------+-------------------------------------+
++-----------------------+--------------------+-------------------------------------+
+| Prep Time: 15 minutes | Total Time: 1 hour | Yield: Makes around 7 cups of chili |
++-----------------------+--------------------+-------------------------------------+
 
 Source: `365 Days of Slow and Pressure Cooking <https://www.365daysofcrockpot.com/down-home-instant-pot-chili/>`__
 

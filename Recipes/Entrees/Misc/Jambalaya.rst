@@ -3,9 +3,9 @@ Jambalaya
 
 Source: `Sam the Cooking Guy <https://www.thecookingguy.com/cookbook/sausage-and-crab-jambalaya-recipe>`__
 
-+-----------------------+--------------------------+-----------------------+
-| Prep Time: 15 minutes | Cooking Time: 35 minutes | Yield: 4 - 6 servings |
-+-----------------------+--------------------------+-----------------------+
++-----------------------+-----------------------+-----------------------+
+| Prep Time: 15 minutes | Cook Time: 35 minutes | Yield: 4 - 6 servings |
++-----------------------+-----------------------+-----------------------+
 
 Ingredients
 -----------

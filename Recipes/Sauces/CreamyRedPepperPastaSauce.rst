@@ -1,9 +1,9 @@
 Creamy Red Pepper Pasta Sauce
 =============================
 
-+-----------------------+--------------------------+---------------+
-| Prep Time: 15 minutes | Cooking Time: 30 minutes | Yield: 4 cups |
-+-----------------------+--------------------------+---------------+
++-----------------------+-----------------------+---------------+
+| Prep Time: 15 minutes | Cook Time: 30 minutes | Yield: 4 cups |
++-----------------------+-----------------------+---------------+
 
 Source: `Steve Cusato - Not Another Cooking Show <https://www.notanothercookingshow.tv/post/spicy-red-pepper-pasta>`__
 

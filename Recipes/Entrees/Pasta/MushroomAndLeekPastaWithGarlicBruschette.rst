@@ -1,9 +1,9 @@
 Mushroom and Leek Pasta with Garlic Bruschette
 ==============================================
 
-+------------------+-------------------+
-| Prep: 10 minutes | Total: 30 minutes |
-+------------------+-------------------+
++-----------------------+------------------------+
+| Prep Time: 10 minutes | Total Time: 30 minutes |
++-----------------------+------------------------+
 
 Source: `Gordon Ramsey <https://www.youtube.com/watch?v=Yj7UfZR_yqA>`__
 

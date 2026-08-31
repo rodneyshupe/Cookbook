@@ -1,9 +1,9 @@
 Crispy Un-Fried Chicken
 =======================
 
-+-----------------------+------------------+-------------+
-| Prep Time: 10 minutes | Cook: 45 minutes | Servings: 4 |
-+-----------------------+------------------+-------------+
++-----------------------+-----------------------+----------+
+| Prep Time: 10 minutes | Cook Time: 45 minutes | Yield: 4 |
++-----------------------+-----------------------+----------+
 
 Source: `Mary Berg <https://more.ctv.ca/food/recipes/crispy-un-fried-chicken.html>`__
 

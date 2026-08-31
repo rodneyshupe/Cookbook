@@ -1,9 +1,9 @@
 Ice Cream in a Bag
 ==================
 
-+-----------------+-------------------+------------------+
-| Prep: 5 minutes | Total: 15 minutes | Yield: 1 serving |
-+-----------------+-------------------+------------------+
++----------------------+------------------------+------------------+
+| Prep Time: 5 minutes | Total Time: 15 minutes | Yield: 1 serving |
++----------------------+------------------------+------------------+
 
 Source: `Delish (Lena Abraham) <https://www.delish.com/cooking/recipe-ideas/recipes/a54721/ice-cream-in-a-bag-recipe/>`__
 

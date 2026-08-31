@@ -1,9 +1,9 @@
 Grilled Pineapple and Jalapeno Hot Sauce
 ========================================
 
-+-----------------+-----------------+-------------------+
-| Prep: 5 minutes | Time: 5 minutes | Yield: 1 3/4 cups |
-+-----------------+-----------------+-------------------+
++----------------------+-----------------------+-------------------+
+| Prep Time: 5 minutes | Total Time: 5 minutes | Yield: 1 3/4 cups |
++----------------------+-----------------------+-------------------+
 
 Source: `Queen Majesty <https://www.youtube.com/watch?v=rACiVUJW0mc>`__
 

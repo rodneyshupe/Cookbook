@@ -1,9 +1,9 @@
 Instant Pot Jambalaya Recipe
 ============================
 
-+------------------+-------------------+------------+
-| Prep: 15 minutes | Total: 45 minutes | Yield: 6-8 |
-+------------------+-------------------+------------+
++-----------------------+------------------------+------------+
+| Prep Time: 15 minutes | Total Time: 45 minutes | Yield: 6-8 |
++-----------------------+------------------------+------------+
 
 Source: `Sylvia Fountaine <https://www.feastingathome.com/jambalaya-recipe/>`__
 

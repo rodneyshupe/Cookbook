@@ -1,9 +1,9 @@
 Sun-Dried Tomato and Basil Salsa
 ================================
 
-+-----------------------+-------------------------+----------------+
-| Prep Time: 10 minutes | Cooking Time: 5 minutes | Yield: 1/2 cup |
-+-----------------------+-------------------------+----------------+
++-----------------------+----------------------+----------------+
+| Prep Time: 10 minutes | Cook Time: 5 minutes | Yield: 1/2 cup |
++-----------------------+----------------------+----------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/8060-sun-dried-tomato-and-basil-salsa-for-two>`__
 

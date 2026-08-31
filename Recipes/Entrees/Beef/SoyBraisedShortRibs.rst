@@ -1,9 +1,9 @@
 Soy-Braised Short Ribs
 ======================
 
-+-----------------------------------+------------------------+-----------------------+
-| Prep Time: 30 minutes + overnight | Cooking Time: ~6 hours | Yield: 6 - 8 servings |
-+-----------------------------------+------------------------+-----------------------+
++-----------------------------------+---------------------+-----------------------+
+| Prep Time: 30 minutes + overnight | Cook Time: ~6 hours | Yield: 6 - 8 servings |
++-----------------------------------+---------------------+-----------------------+
 
 Source: `Salt Fat Acid Heat <https://www.saltfatacidheat.com/salt/soy-braised-short-ribs>`__
 

@@ -1,9 +1,9 @@
 Mediterranean Sheet Pan Gnocchi
 ===============================
 
-+-----------------------+-------------------------------+-------------------+
-| Prep Time: 10 minutes | Cooking Time: 35 - 45 minutes | Yield: 4 servings |
-+-----------------------+-------------------------------+-------------------+
++-----------------------+----------------------------+-------------------+
+| Prep Time: 10 minutes | Cook Time: 35 - 45 minutes | Yield: 4 servings |
++-----------------------+----------------------------+-------------------+
 
 Source: `Dietetic Directions <https://dieteticdirections.com/mediterranean-sheet-pan-gnocchi-2/>`__
 

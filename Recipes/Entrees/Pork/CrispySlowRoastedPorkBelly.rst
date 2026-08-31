@@ -1,9 +1,9 @@
 Crispy Slow-Roasted Pork Belly
 ==============================
 
-+------------------------------------------------+-----------------------+
-| Total: 4 to 4 1/2 hours, plus 12 hours brining | Yield: Serves 8 to 10 |
-+------------------------------------------------+-----------------------+
++-----------------------------------------------------+-----------------------+
+| Total Time: 4 to 4 1/2 hours, plus 12 hours brining | Yield: Serves 8 to 10 |
++-----------------------------------------------------+-----------------------+
 
 Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/8116-crispy-slow-roasted-pork-belly>`__
 

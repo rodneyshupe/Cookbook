@@ -1,9 +1,9 @@
 Wild Rice and Mushroom Soup
 ===========================
 
-+-----------------------+---------------------------+---------------------+
-| Prep Time: 30 minutes | Cooking Time: 2 1/4 hours | Yield: 6-8 servings |
-+-----------------------+---------------------------+---------------------+
++-----------------------+------------------------+---------------------+
+| Prep Time: 30 minutes | Cook Time: 2 1/4 hours | Yield: 6-8 servings |
++-----------------------+------------------------+---------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/7283-wild-rice-and-mushroom-soup>`__
 

@@ -1,9 +1,9 @@
 Cold Celery Root Soup with Yogurt
 =================================
 
-+------------------+-------------------+------------------------+
-| Prep: 35 minutes | Total: 55 minutes | Yield: 4 to 6 servings |
-+------------------+-------------------+------------------------+
++-----------------------+------------------------+------------------------+
+| Prep Time: 35 minutes | Total Time: 55 minutes | Yield: 4 to 6 servings |
++-----------------------+------------------------+------------------------+
 
 Source: `Food Network <https://www.foodnetwork.com/recipes/cold-celery-root-soup-with-yogurt-8891751>`__
 

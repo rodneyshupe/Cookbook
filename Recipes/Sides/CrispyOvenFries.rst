@@ -1,9 +1,9 @@
 Crispy Oven Fries
 =================
 
-+-----------------------+------------------+-------------+
-| Prep Time: 15 minutes | Cook: 45 minutes | Servings: 4 |
-+-----------------------+------------------+-------------+
++-----------------------+-----------------------+----------+
+| Prep Time: 15 minutes | Cook Time: 45 minutes | Yield: 4 |
++-----------------------+-----------------------+----------+
 
 Source: `Cooks Country <https://www.cookscountry.com/recipes/4837-crispy-oven-fries>`__
 

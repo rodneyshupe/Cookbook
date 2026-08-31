@@ -1,9 +1,9 @@
 Cast Iron Steaks with Herb Butter
 =================================
 
-+-------------------+--------------------------+-------------------+
-| Prep Time: 1 hour | Cooking Time: 20 minutes | Yield: 4 servings |
-+-------------------+--------------------------+-------------------+
++-------------------+-----------------------+-------------------+
+| Prep Time: 1 hour | Cook Time: 20 minutes | Yield: 4 servings |
++-------------------+-----------------------+-------------------+
 
 Source: `Americas Test Kitchen <https://www.americastestkitchen.com/recipes/9249-cast-iron-steaks-with-herb-butter>`__
 

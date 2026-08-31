@@ -1,9 +1,9 @@
 Garlic Scape Pesto
 ==================
 
-+------------------+--------------------+
-| Total: 3 minutes | Yield: About 1 cup |
-+------------------+--------------------+
++-----------------------+--------------------+
+| Total Time: 3 minutes | Yield: About 1 cup |
++-----------------------+--------------------+
 
 Source: `New York Times (Jeff Schwarz And Greg Kessler) <https://cooking.nytimes.com/recipes/1015301-garlic-scape-pesto>`__
 

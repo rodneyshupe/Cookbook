@@ -1,9 +1,9 @@
 Mason Jar Ice Cream
 ===================
 
-+------------------+---------------------------+----------+
-| Prep: 10 minutes | Total: 3 hours 10 minutes | Yield: 1 |
-+------------------+---------------------------+----------+
++-----------------------+--------------------------------+----------+
+| Prep Time: 10 minutes | Total Time: 3 hours 10 minutes | Yield: 1 |
++-----------------------+--------------------------------+----------+
 
 Source: `Delish (Lena Abraham) <https://www.delish.com/cooking/recipe-ideas/recipes/a53547/mason-jar-ice-cream-recipe/>`__
 

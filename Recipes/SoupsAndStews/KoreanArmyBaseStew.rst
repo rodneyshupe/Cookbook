@@ -1,9 +1,9 @@
 Budae Jjigae (Korean Army Base Stew)
 ====================================
 
-+------------------+-------------------+----------+
-| Prep: 20 minutes | Total: 30 minutes | Yield: 4 |
-+------------------+-------------------+----------+
++-----------------------+------------------------+----------+
+| Prep Time: 20 minutes | Total Time: 30 minutes | Yield: 4 |
++-----------------------+------------------------+----------+
 
 The best and the most popular Korean hot pot dish – Budae Jjigae (Army base stew)
 It is loaded with Kimchi, spam, sausages, ramen noodles and much more.  This is

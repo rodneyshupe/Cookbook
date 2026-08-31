@@ -1,9 +1,9 @@
 Dan Dan Noodles
 ===============
 
-+-----------------+-----------------------+-------------------+
-| Prep: 5 minutes | Cook Time: 16 minutes | Yield: 4 servings |
-+-----------------+-----------------------+-------------------+
++----------------------+-----------------------+-------------------+
+| Prep Time: 5 minutes | Cook Time: 16 minutes | Yield: 4 servings |
++----------------------+-----------------------+-------------------+
 
 Source: `The Instant Pot Bible by Bruce Weinstein <https://recipes.instantpot.com/recipe/dan-dan-noodles/>`__
 

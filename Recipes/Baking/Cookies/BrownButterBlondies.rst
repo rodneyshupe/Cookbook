@@ -1,9 +1,9 @@
 Brown Butter Blondies
 =====================
 
-+------------------+--------------------------+-----------+
-| Prep: 20 minutes | Total: 1 hour 40 minutes | Yield: 12 |
-+------------------+--------------------------+-----------+
++-----------------------+-------------------------------+-----------+
+| Prep Time: 20 minutes | Total Time: 1 hour 40 minutes | Yield: 12 |
++-----------------------+-------------------------------+-----------+
 
 Source: `Tastemade <https://www.tastemade.com/shows/marys-kitchen-crush/marys-kitchen-crush-s-1-e25/recipes/brown-butter-blondies>`__
 

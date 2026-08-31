@@ -1,9 +1,9 @@
 Soy-Ginger Salmon
 =================
 
-+-----------------+-------------------+-------------------+
-| Prep: 5 minutes | Total: 15 minutes | Yield: 4 servings |
-+-----------------+-------------------+-------------------+
++----------------------+------------------------+-------------------+
+| Prep Time: 5 minutes | Total Time: 15 minutes | Yield: 4 servings |
++----------------------+------------------------+-------------------+
 
 Source: `Food Network Kitchen <https://www.foodnetwork.com/recipes/food-network-kitchen/instant-pot-frozen-sweet-sesame-salmon-8085615>`__
 
