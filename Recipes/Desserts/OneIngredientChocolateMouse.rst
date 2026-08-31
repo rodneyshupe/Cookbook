@@ -1,6 +1,10 @@
 One Ingredient Chocolate Mouse
 ==============================
 
++-----------------------------+-----------------------------+--------------------------+
+| Prep Time: 5 minutes (est.) | Cook Time: 5 minutes (est.) | Yield: 4 servings (est.) |
++-----------------------------+-----------------------------+--------------------------+
+
 Source: `NY Times <http://cooking.nytimes.com/recipes/1014542-bittersweet-chocolate-mousse-with-fleur-de-sel>`__
 
 Ingredients

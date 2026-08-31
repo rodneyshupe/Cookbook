@@ -1,6 +1,10 @@
 Bananas Foster
 ==============
 
++------------------------------+------------------------------+--------------------------+
+| Prep Time: 10 minutes (est.) | Cook Time: 10 minutes (est.) | Yield: 4 servings (est.) |
++------------------------------+------------------------------+--------------------------+
+
 In the 1950’s, New Orleans was the major port of entry for bananas
 shipped from Central and South America. Owen edward Brennan challenged
 his talented chef, Paul Blange, to include bananas in a new culinary

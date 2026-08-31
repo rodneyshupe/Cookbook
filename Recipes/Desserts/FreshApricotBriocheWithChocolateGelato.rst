@@ -1,7 +1,9 @@
 Fresh Apricot Brioche with Chocolate Gelato
 ===========================================
 
-Yield: 6 servings
++------------------------------+------------------------------+-------------------+
+| Prep Time: 20 minutes (est.) | Cook Time: 20 minutes (est.) | Yield: 6 servings |
++------------------------------+------------------------------+-------------------+
 
 Ingredients
 -----------

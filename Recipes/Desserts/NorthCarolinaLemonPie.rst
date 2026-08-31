@@ -1,6 +1,10 @@
 North Carolina Lemon Pie
 ========================
 
++------------------------------+------------------------------+--------------------------------+--------------------------+
+| Prep Time: 30 minutes (est.) | Cook Time: 35 minutes (est.) | Total Time: 4 3/4 hours (est.) | Yield: 8 servings (est.) |
++------------------------------+------------------------------+--------------------------------+--------------------------+
+
 Source: `Cooks Country <https://www.cookscountry.com/recipes/8305-north-carolina-lemon-pie>`__
 
 Ingredients

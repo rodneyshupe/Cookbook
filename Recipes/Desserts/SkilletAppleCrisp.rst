@@ -1,9 +1,11 @@
 Skillet Apple Crisp
 ===================
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/6146-skillet-apple-crisp>`__
++------------------------------+------------------------------+------------------------+
+| Prep Time: 20 minutes (est.) | Cook Time: 40 minutes (est.) | Yield: 6 to 8 servings |
++------------------------------+------------------------------+------------------------+
 
-Serves: 6 to 8
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/6146-skillet-apple-crisp>`__
 
 Ingredients
 -----------

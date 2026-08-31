@@ -1,6 +1,10 @@
 Fresh Strawberry Topping
 ========================
 
++------------------------------+-----------------------------+---------------------------------------+----------------------------+
+| Prep Time: 10 minutes (est.) | Cook Time: 5 minutes (est.) | Total Time: 2 hours 40 minutes (est.) | Yield: about 4 cups (est.) |
++------------------------------+-----------------------------+---------------------------------------+----------------------------+
+
 Ingredients
 -----------
 - 2 pounds fresh strawberries, cleaned, hulled, and cut lengthwise into 1/4-to 1/8-inch slices

@@ -1,6 +1,10 @@
 New York Cheesecake
 ===================
 
++------------------------------+-------------------------------+-----------------------------+---------------------------+
+| Prep Time: 30 minutes (est.) | Cook Time: 3 1/2 hours (est.) | Total Time: 12 hours (est.) | Yield: 12 servings (est.) |
++------------------------------+-------------------------------+-----------------------------+---------------------------+
+
 This cheesecake takes at least 12 hours to make (including chilling), it is
 recommend making it the day before serving.
 

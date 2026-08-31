@@ -1,7 +1,9 @@
 Canadian Maple Mousse and Wild Berries
 ======================================
 
-Yield: 8 servings
++------------------------------+-------------------+
+| Prep Time: 20 minutes (est.) | Yield: 8 servings |
++------------------------------+-------------------+
 
 Ingredients
 -----------
