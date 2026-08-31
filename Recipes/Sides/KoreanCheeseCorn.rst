@@ -1,9 +1,9 @@
 Korean cheese corn
 ==================
 
-+------------------------------+------------------------------+-------------------+
-| Prep Time: 15 minutes (est.) | Cook Time: 10 minutes (est.) | Yield: 6 servings |
-+------------------------------+------------------------------+-------------------+
++-----------------------+-----------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 10 minutes | Yield: 6 servings |
++-----------------------+-----------------------+-------------------+
 
 This may not sound particularly Korean, but it is a popular drinking
 snack in Korea.

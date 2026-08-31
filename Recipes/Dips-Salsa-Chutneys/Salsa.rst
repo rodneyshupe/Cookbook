@@ -1,9 +1,9 @@
 Salsa
 =====
 
-+------------------------------+---------------------+
-| Prep Time: 10 minutes (est.) | Yield: about 3 cups |
-+------------------------------+---------------------+
++-----------------------+---------------------+
+| Prep Time: 10 minutes | Yield: about 3 cups |
++-----------------------+---------------------+
 
 Source: `Cooks Country <https://www.cookscountry.com/recipes/6722-five-minute-fresh-tomato-salsa>`__
 

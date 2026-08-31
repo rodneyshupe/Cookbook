@@ -1,9 +1,9 @@
 Chipped Ling Cod (Fish and Chips)
 =================================
 
-+------------------------------+------------------------------+--------------------------+
-| Prep Time: 20 minutes (est.) | Cook Time: 10 minutes (est.) | Yield: 2 servings (est.) |
-+------------------------------+------------------------------+--------------------------+
++-----------------------+-----------------------+-------------------+
+| Prep Time: 20 minutes | Cook Time: 10 minutes | Yield: 2 servings |
++-----------------------+-----------------------+-------------------+
 
 Source:  `Skipper Otto <https://skipperotto.com/wp-content/uploads/2019/04/SO-Recipe-Chipped-Lingcod-back-1024x585.jpg>`__
 

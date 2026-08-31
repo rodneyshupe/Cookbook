@@ -1,9 +1,9 @@
 Pancetta
 ========
 
-+------------------------------+---------------------------+----------------------------+------------------------------------+
-| Prep Time: 30 minutes (est.) | Cure Time: 2 weeks (est.) | Dry Time: 4-8 weeks (est.) | Yield: about 6 lbs pancetta (est.) |
-+------------------------------+---------------------------+----------------------------+------------------------------------+
++-----------------------+--------------------+---------------------+-----------------------------+
+| Prep Time: 30 minutes | Cure Time: 2 weeks | Dry Time: 4-8 weeks | Yield: about 6 lbs pancetta |
++-----------------------+--------------------+---------------------+-----------------------------+
 
 This traditional pork belly preparation can be made either as a slab (stesa)
 or roll (arrotolata), as you prefer.

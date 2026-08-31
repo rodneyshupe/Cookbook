@@ -1,9 +1,9 @@
 Memphis Style Barbecue Sauce
 ============================
 
-+------------------------------+------------------------------+---------------+
-| Prep Time: 10 minutes (est.) | Cook Time: 25 minutes (est.) | Yield: 4 cups |
-+------------------------------+------------------------------+---------------+
++-----------------------+-----------------------+---------------+
+| Prep Time: 10 minutes | Cook Time: 25 minutes | Yield: 4 cups |
++-----------------------+-----------------------+---------------+
 
 Whether there is a true style to a sauce in a city that prefers their
 barbecue “dry” is a debate for the ages. Through the rumblings I’m sure

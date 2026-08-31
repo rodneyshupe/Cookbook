@@ -1,9 +1,9 @@
 Chicken and Sausage Gumbo
 =========================
 
-+------------------------------+-------------------------------------+--------------------------+
-| Prep Time: 20 minutes (est.) | Cook Time: 1 hour 45 minutes (est.) | Yield: 6 servings (est.) |
-+------------------------------+-------------------------------------+--------------------------+
++-----------------------+------------------------------+-------------------+
+| Prep Time: 20 minutes | Cook Time: 1 hour 45 minutes | Yield: 6 servings |
++-----------------------+------------------------------+-------------------+
 
 Source: `Cook’s Illustrated <https://www.cooksillustrated.com/recipes/9384-chicken-and-sausage-gumbo#>`__
 

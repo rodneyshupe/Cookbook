@@ -1,9 +1,9 @@
 Willingham’s Rub
 ================
 
-+-----------------------------+--------------------------------+
-| Prep Time: 5 minutes (est.) | Yield: about 1 1/2 cups (est.) |
-+-----------------------------+--------------------------------+
++----------------------+-------------------------+
+| Prep Time: 5 minutes | Yield: about 1 1/2 cups |
++----------------------+-------------------------+
 
 This is stronger than most rubs. Not recommend it for thin cuts (like
 ribs). Recommend meats are: Beef round, Prime Rib, Pork Shoulders.

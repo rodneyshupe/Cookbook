@@ -1,9 +1,9 @@
 Pressure-Cooker Parmesan Risotto
 ================================
 
-+------------------------------+------------------------------+----------------------------+
-| Prep Time: 10 minutes (est.) | Cook Time: 25 minutes (est.) | Yield: 4-6 servings (est.) |
-+------------------------------+------------------------------+----------------------------+
++-----------------------+-----------------------+---------------------+
+| Prep Time: 10 minutes | Cook Time: 25 minutes | Yield: 4-6 servings |
++-----------------------+-----------------------+---------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/7535-pressure-cooker-parmesan-risotto>`__
 

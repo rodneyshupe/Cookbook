@@ -1,9 +1,9 @@
 Rub Recipe for Babyback Ribs
 ============================
 
-+-----------------------------+-----------------------------+
-| Prep Time: 5 minutes (est.) | Yield: about 1/4 cup (est.) |
-+-----------------------------+-----------------------------+
++----------------------+----------------------+
+| Prep Time: 5 minutes | Yield: about 1/4 cup |
++----------------------+----------------------+
 
 This simple bbq ribs recipe is perfect for tender and already-flavorful
 babyback ribs. Making a lot of ribs? You may have to double or triple

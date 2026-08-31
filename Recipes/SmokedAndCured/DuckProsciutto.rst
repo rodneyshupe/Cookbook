@@ -1,9 +1,9 @@
 Duck Prosciutto
 ===============
 
-+------------------------------+--------------------------+----------------------------+------------------------------------+
-| Prep Time: 15 minutes (est.) | Cure Time: 1 week (est.) | Dry Time: 4-8 weeks (est.) | Yield: 2 cured duck breasts (est.) |
-+------------------------------+--------------------------+----------------------------+------------------------------------+
++-----------------------+-------------------+---------------------+-----------------------------+
+| Prep Time: 15 minutes | Cure Time: 1 week | Dry Time: 4-8 weeks | Yield: 2 cured duck breasts |
++-----------------------+-------------------+---------------------+-----------------------------+
 
 Source: `UMAi Charcuterie <https://www.drybagsteak.com/recipe-charcuterie-duck-prosciutto.php>`__
 and `Kosher Dosher <https://kosherdosher.blogspot.com/2014/04/duck-prosciutto.html>`__

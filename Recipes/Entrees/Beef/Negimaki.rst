@@ -1,9 +1,9 @@
 Negimaki (Japanese Grilled Steak and Green Onion Rolls)
 =======================================================
 
-+------------------------------+------------------------------+-------------------------------+-----------------------------------------------+
-| Prep Time: 45 minutes (est.) | Cook Time: 20 minutes (est.) | Total Time: 30 minutes (est.) | Yield: 4 as a main dish, or 8 as an appetizer |
-+------------------------------+------------------------------+-------------------------------+-----------------------------------------------+
++-----------------------+-----------------------+------------------------+-----------------------------------------------+
+| Prep Time: 45 minutes | Cook Time: 20 minutes | Total Time: 30 minutes | Yield: 4 as a main dish, or 8 as an appetizer |
++-----------------------+-----------------------+------------------------+-----------------------------------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/11173-japanese-grilled-steak-and-scallion-rolls-negimaki>`__
 

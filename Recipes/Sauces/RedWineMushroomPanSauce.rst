@@ -1,9 +1,9 @@
 Red Wine-Mushroom Pan Sauce
 ===========================
 
-+------------------------------+------------------------------+---------------------------+
-| Prep Time: 10 minutes (est.) | Cook Time: 15 minutes (est.) | Yield: about 1 cup (est.) |
-+------------------------------+------------------------------+---------------------------+
++-----------------------+-----------------------+--------------------+
+| Prep Time: 10 minutes | Cook Time: 15 minutes | Yield: about 1 cup |
++-----------------------+-----------------------+--------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/3565-red-wine-mushroom-pan-sauce>`__
 

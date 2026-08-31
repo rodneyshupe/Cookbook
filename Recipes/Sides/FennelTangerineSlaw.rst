@@ -1,9 +1,9 @@
 Fennel-Tangerine Slaw
 =====================
 
-+------------------------------+--------------------------+
-| Prep Time: 15 minutes (est.) | Yield: 4 servings (est.) |
-+------------------------------+--------------------------+
++-----------------------+-------------------+
+| Prep Time: 15 minutes | Yield: 4 servings |
++-----------------------+-------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/1370-fennel-tangerine-slaw>`__
 

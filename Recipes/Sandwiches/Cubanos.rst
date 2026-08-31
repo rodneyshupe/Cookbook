@@ -3,9 +3,9 @@ Cubanos (Cuban Sandwiches)
 
 Source: `Cook's Country <https://www.cookscountry.com/recipes/2924-cuban-sandwiches>`__
 
-+------------------------------+------------------------------+---------------------+
-| Prep Time: 15 minutes (est.) | Cook Time: 10 minutes (est.) | Yield: 4 sandwiches |
-+------------------------------+------------------------------+---------------------+
++-----------------------+-----------------------+---------------------+
+| Prep Time: 15 minutes | Cook Time: 10 minutes | Yield: 4 sandwiches |
++-----------------------+-----------------------+---------------------+
 
 Ingredients
 -----------

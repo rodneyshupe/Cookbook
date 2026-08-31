@@ -1,9 +1,9 @@
 Louisiana (Cajun or Creole) Seasoning Spice Mix
 ===============================================
 
-+-----------------------------+----------------+
-| Prep Time: 5 minutes (est.) | Yield: 1/4 cup |
-+-----------------------------+----------------+
++----------------------+----------------+
+| Prep Time: 5 minutes | Yield: 1/4 cup |
++----------------------+----------------+
 
 Source: `Cook's Country <https://www.cookscountry.com/recipes/8216-louisiana-seasoning>`__
 

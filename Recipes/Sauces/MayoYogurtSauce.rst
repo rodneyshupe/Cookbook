@@ -1,9 +1,9 @@
 Mayo Yogurt Sauce
 =================
 
-+-----------------------------+-----------------------------+
-| Prep Time: 5 minutes (est.) | Yield: about 3/4 cup (est.) |
-+-----------------------------+-----------------------------+
++----------------------+----------------------+
+| Prep Time: 5 minutes | Yield: about 3/4 cup |
++----------------------+----------------------+
 
 Source: `Sam the Cooking Guy <https://www.thecookingguy.com/cookbook/2021/5/10/greek-chicken>`__
 

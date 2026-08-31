@@ -1,9 +1,9 @@
 Mexican Corn Salad (Esquites)
 =============================
 
-+------------------------------+-----------------------------+-------------------------------+---------------------+
-| Prep Time: 15 minutes (est.) | Cook Time: 5 minutes (est.) | Total Time: 30 minutes (est.) | Yield: 3-4 servings |
-+------------------------------+-----------------------------+-------------------------------+---------------------+
++-----------------------+----------------------+------------------------+---------------------+
+| Prep Time: 15 minutes | Cook Time: 5 minutes | Total Time: 30 minutes | Yield: 3-4 servings |
++-----------------------+----------------------+------------------------+---------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/11067-mexican-corn-salad-esquites>`__
 

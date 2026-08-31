@@ -1,9 +1,9 @@
 Chewy Chocolate Chip Cookies
 ============================
 
-+------------------------------+------------------------------+-------------------+
-| Prep Time: 20 minutes (est.) | Cook Time: 20 minutes (est.) | Yield: 24 cookies |
-+------------------------------+------------------------------+-------------------+
++-----------------------+-----------------------+-------------------+
+| Prep Time: 20 minutes | Cook Time: 20 minutes | Yield: 24 cookies |
++-----------------------+-----------------------+-------------------+
 
 Source: `Cooks Country <https://www.cookscountry.com/recipes/7847-thick-and-chewy-chocolate-chip-cookies>`__
 

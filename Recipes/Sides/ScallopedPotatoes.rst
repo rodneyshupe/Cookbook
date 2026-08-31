@@ -1,9 +1,9 @@
 Scalloped Potatoes
 ==================
 
-+------------------------------+------------------------------+------------------------+
-| Prep Time: 20 minutes (est.) | Cook Time: 25 minutes (est.) | Yield: 4 to 6 servings |
-+------------------------------+------------------------------+------------------------+
++-----------------------+-----------------------+------------------------+
+| Prep Time: 20 minutes | Cook Time: 25 minutes | Yield: 4 to 6 servings |
++-----------------------+-----------------------+------------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/36-scalloped-potatoes>`__
 

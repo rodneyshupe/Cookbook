@@ -1,9 +1,9 @@
 Almond Granola with Dried Fruit
 ===============================
 
-+------------------------------+------------------------------+----------------------------+----------------------+
-| Prep Time: 10 minutes (est.) | Cook Time: 45 minutes (est.) | Total Time: 2 hours (est.) | Yield: 9 cups (est.) |
-+------------------------------+------------------------------+----------------------------+----------------------+
++-----------------------+-----------------------+---------------------+---------------+
+| Prep Time: 10 minutes | Cook Time: 45 minutes | Total Time: 2 hours | Yield: 9 cups |
++-----------------------+-----------------------+---------------------+---------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/6977-almond-granola-with-dried-fruit>`__
 

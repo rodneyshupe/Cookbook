@@ -1,9 +1,9 @@
 Red Lentil and Chickpea Curry
 =============================
 
-+------------------------------+------------------------------+--------------------------+
-| Prep Time: 15 minutes (est.) | Cook Time: 30 minutes (est.) | Yield: 4 servings (est.) |
-+------------------------------+------------------------------+--------------------------+
++-----------------------+-----------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 30 minutes | Yield: 4 servings |
++-----------------------+-----------------------+-------------------+
 
 Source: `Vibrant Beat <https://www.vibrantbeat.com/red-lentil-and-chickpea-curry/>`__
 

@@ -1,9 +1,9 @@
 Cast Iron Paella
 ================
 
-+------------------------------+------------------------------+---------------------+
-| Prep Time: 25 minutes (est.) | Cook Time: 45 minutes (est.) | Yield: 4-6 servings |
-+------------------------------+------------------------------+---------------------+
++-----------------------+-----------------------+---------------------+
+| Prep Time: 25 minutes | Cook Time: 45 minutes | Yield: 4-6 servings |
++-----------------------+-----------------------+---------------------+
 
 A traditional stainless-steel pan would have to sit over high heat for
 the last 5 minutes of cooking to develop this crust, which creates a

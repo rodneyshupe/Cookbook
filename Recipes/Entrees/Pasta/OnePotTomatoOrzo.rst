@@ -1,9 +1,9 @@
 One Pot Tomato Orzo
 ===================
 
-+------------------------------+------------------------------+--------------------------+
-| Prep Time: 10 minutes (est.) | Cook Time: 20 minutes (est.) | Yield: 4 servings (est.) |
-+------------------------------+------------------------------+--------------------------+
++-----------------------+-----------------------+-------------------+
+| Prep Time: 10 minutes | Cook Time: 20 minutes | Yield: 4 servings |
++-----------------------+-----------------------+-------------------+
 
 Source: `Mary Berg <https://more.ctv.ca/food/recipes/2024/the-good-stuff/one-pot-tomato-orzo.html>`__
 

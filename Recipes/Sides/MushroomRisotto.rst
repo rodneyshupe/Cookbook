@@ -1,9 +1,9 @@
 Mushroom Risotto
 ================
 
-+------------------------------+------------------------------+--------------------------+
-| Prep Time: 20 minutes (est.) | Cook Time: 45 minutes (est.) | Yield: 6 servings (est.) |
-+------------------------------+------------------------------+--------------------------+
++-----------------------+-----------------------+-------------------+
+| Prep Time: 20 minutes | Cook Time: 45 minutes | Yield: 6 servings |
++-----------------------+-----------------------+-------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/922-mushroom-risotto>`__
 

@@ -1,9 +1,9 @@
 Brown Sugar Rub
 ===============
 
-+-----------------------------+--------------------------------+--------------------------------+
-| Prep Time: 5 minutes (est.) | Total Time: 12-24 hours (est.) | Yield: about 1 2/3 cups (est.) |
-+-----------------------------+--------------------------------+--------------------------------+
++----------------------+-------------------------+-------------------------+
+| Prep Time: 5 minutes | Total Time: 12-24 hours | Yield: about 1 2/3 cups |
++----------------------+-------------------------+-------------------------+
 
 A sweet rub that goes well on brisket. Adjust the heat by adding more or
 less of the chili powder or by using hot or mild.

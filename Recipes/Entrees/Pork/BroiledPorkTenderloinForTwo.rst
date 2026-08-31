@@ -1,9 +1,9 @@
 Broiled Pork Tenderloin for Two
 ===============================
 
-+------------------------------+------------------------------+--------------------------+
-| Prep Time: 10 minutes (est.) | Cook Time: 20 minutes (est.) | Yield: 2 servings (est.) |
-+------------------------------+------------------------------+--------------------------+
++-----------------------+-----------------------+-------------------+
+| Prep Time: 10 minutes | Cook Time: 20 minutes | Yield: 2 servings |
++-----------------------+-----------------------+-------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/8032-broiled-pork-tenderloin-for-two>`__
 

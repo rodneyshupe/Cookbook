@@ -1,9 +1,9 @@
 Spicy Butter Sauce
 ==================
 
-+-----------------------------+-----------------------------+-----------------------------+
-| Prep Time: 2 minutes (est.) | Cook Time: 5 minutes (est.) | Yield: about 1/3 cup (est.) |
-+-----------------------------+-----------------------------+-----------------------------+
++----------------------+----------------------+----------------------+
+| Prep Time: 2 minutes | Cook Time: 5 minutes | Yield: about 1/3 cup |
++----------------------+----------------------+----------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/8724-spicy-butter-sauce>`__
 

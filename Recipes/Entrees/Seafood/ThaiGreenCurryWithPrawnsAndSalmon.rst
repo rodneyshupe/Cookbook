@@ -1,9 +1,9 @@
 Thai Green Curry with Prawns and Salmon
 =======================================
 
-+------------------------------+------------------------------+--------------------------+
-| Prep Time: 15 minutes (est.) | Cook Time: 15 minutes (est.) | Yield: 4 servings (est.) |
-+------------------------------+------------------------------+--------------------------+
++-----------------------+-----------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 15 minutes | Yield: 4 servings |
++-----------------------+-----------------------+-------------------+
 
 This is a recipe that is defiantly a favorite of of Jeaniene and I. It
 combines the west coast seafood with a nice Thai curry sauce and makes a

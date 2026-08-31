@@ -1,9 +1,9 @@
 Sauce Base (Demi-glace)
 =======================
 
-+------------------------------+------------------------------+--------------------------------+
-| Prep Time: 15 minutes (est.) | Cook Time: 50 minutes (est.) | Yield: about 1 1/4 cups (est.) |
-+------------------------------+------------------------------+--------------------------------+
++-----------------------+-----------------------+-------------------------+
+| Prep Time: 15 minutes | Cook Time: 50 minutes | Yield: about 1 1/4 cups |
++-----------------------+-----------------------+-------------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/1431-sauce-base-for-steak-diane-demi-glace>`__
 

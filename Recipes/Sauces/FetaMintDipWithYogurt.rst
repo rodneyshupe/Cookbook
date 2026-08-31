@@ -1,9 +1,9 @@
 Feta-Mint Dip with Yogurt
 =========================
 
-+------------------------------+-------------------------------+----------------------------+
-| Prep Time: 10 minutes (est.) | Total Time: 8-24 hours (est.) | Yield: about 2 cups (est.) |
-+------------------------------+-------------------------------+----------------------------+
++-----------------------+------------------------+---------------------+
+| Prep Time: 10 minutes | Total Time: 8-24 hours | Yield: about 2 cups |
++-----------------------+------------------------+---------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/359-feta-mint-dip-with-yogurt>`__
 

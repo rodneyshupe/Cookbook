@@ -1,9 +1,9 @@
 Gochujang Pork Shoulder Steaks
 ==============================
 
-+------------------------------+------------------------------+-------------------------------+-------------------+
-| Prep Time: 15 minutes (est.) | Cook Time: 10 minutes (est.) | Marinate Time: 2 hours (est.) | Yield: 4 servings |
-+------------------------------+------------------------------+-------------------------------+-------------------+
++-----------------------+-----------------------+------------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 10 minutes | Marinate Time: 2 hours | Yield: 4 servings |
++-----------------------+-----------------------+------------------------+-------------------+
 
 Source: `Bon Appetit <https://www.bonappetit.com/recipe/gochujang-pork-shoulder-steaks>`__
 

@@ -1,9 +1,9 @@
 Beef Birria Tacos
 =================
 
-+------------------------------+---------------------------+--------------------------+
-| Prep Time: 30 minutes (est.) | Cook Time: 3 hours (est.) | Yield: 8-10 tacos (est.) |
-+------------------------------+---------------------------+--------------------------+
++-----------------------+--------------------+-------------------+
+| Prep Time: 30 minutes | Cook Time: 3 hours | Yield: 8-10 tacos |
++-----------------------+--------------------+-------------------+
 
 Source: `Sam the Cooking Guy <https://www.thecookingguy.com/cookbook/https/youtube/rexifmidtru>`__
 

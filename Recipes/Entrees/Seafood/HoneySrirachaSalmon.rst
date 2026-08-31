@@ -1,9 +1,9 @@
 Honey Sriracha Salmon
 =====================
 
-+------------------------------+------------------------------+--------------------------+
-| Prep Time: 10 minutes (est.) | Cook Time: 12 minutes (est.) | Yield: 4 servings (est.) |
-+------------------------------+------------------------------+--------------------------+
++-----------------------+-----------------------+-------------------+
+| Prep Time: 10 minutes | Cook Time: 12 minutes | Yield: 4 servings |
++-----------------------+-----------------------+-------------------+
 
 Source: `Neli Howard <https://www.deliciousmeetshealthy.com/honey-sriracha-salmon/>`__
 

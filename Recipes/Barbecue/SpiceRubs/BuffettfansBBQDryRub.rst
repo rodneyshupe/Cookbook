@@ -1,9 +1,9 @@
 Buffettfan's BBQ Dry Rub
 ========================
 
-+-----------------------------+---------------------------+
-| Prep Time: 5 minutes (est.) | Yield: about 1 cup (est.) |
-+-----------------------------+---------------------------+
++----------------------+--------------------+
+| Prep Time: 5 minutes | Yield: about 1 cup |
++----------------------+--------------------+
 
 Source: `BuffettFan @ BBQ Brethren <https://www.bbq-brethren.com/forum/showthread.php?t=275551>`__
 

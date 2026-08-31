@@ -1,9 +1,9 @@
 Flying Pig Spaghetti and Meat Balls
 ===================================
 
-+------------------------------+--------------------------+--------------------------+
-| Prep Time: 30 minutes (est.) | Cook Time: 1 hour (est.) | Yield: 6 servings (est.) |
-+------------------------------+--------------------------+--------------------------+
++-----------------------+-------------------+-------------------+
+| Prep Time: 30 minutes | Cook Time: 1 hour | Yield: 6 servings |
++-----------------------+-------------------+-------------------+
 
 Source: `Flying Pigs <https://bc.ctvnews.ca/recipe-flying-pig-tomato-sauce-and-meatballs-1.4915566>`__
 

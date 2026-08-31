@@ -1,9 +1,9 @@
 Persian-Style Rice with Golden Crust - Chelow
 =============================================
 
-+------------------------------+------------------------------+--------------------------------+--------------------------+
-| Prep Time: 20 minutes (est.) | Cook Time: 50 minutes (est.) | Total Time: 1 1/2 hours (est.) | Yield: 6 servings (est.) |
-+------------------------------+------------------------------+--------------------------------+--------------------------+
++-----------------------+-----------------------+-------------------------+-------------------+
+| Prep Time: 20 minutes | Cook Time: 50 minutes | Total Time: 1 1/2 hours | Yield: 6 servings |
++-----------------------+-----------------------+-------------------------+-------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/8718-persian-style-rice-with-golden-crust-chelow>`__
 

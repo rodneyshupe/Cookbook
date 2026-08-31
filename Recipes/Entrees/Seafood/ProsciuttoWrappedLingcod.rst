@@ -1,9 +1,9 @@
 Prosciutto Wrapped Lingcod
 ==========================
 
-+------------------------------+------------------------------+--------------------------+
-| Prep Time: 10 minutes (est.) | Cook Time: 12 minutes (est.) | Yield: 2 servings (est.) |
-+------------------------------+------------------------------+--------------------------+
++-----------------------+-----------------------+-------------------+
+| Prep Time: 10 minutes | Cook Time: 12 minutes | Yield: 2 servings |
++-----------------------+-----------------------+-------------------+
 
 Source: `Global Group <https://www.glowbalgroup.com/blog/2016/01/21/prosciutto-wrapped-lingcod-a-dine-out-recipe/>`__
 

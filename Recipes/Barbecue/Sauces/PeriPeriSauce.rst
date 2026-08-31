@@ -1,9 +1,9 @@
 Peri Peri Sauce
 ===============
 
-+------------------------------+---------------------------+
-| Prep Time: 10 minutes (est.) | Yield: about 1 cup (est.) |
-+------------------------------+---------------------------+
++-----------------------+--------------------+
+| Prep Time: 10 minutes | Yield: about 1 cup |
++-----------------------+--------------------+
 
 This is a sauce with some history: Its primary ingredient, a particular
 hot chili, comes from the New World via the Portuguese, who brought it

@@ -1,9 +1,9 @@
 Sugar-Cayenne Rib Rub Recipe
 ============================
 
-+-----------------------------+----------------------------+
-| Prep Time: 5 minutes (est.) | Yield: about 2 cups (est.) |
-+-----------------------------+----------------------------+
++----------------------+---------------------+
+| Prep Time: 5 minutes | Yield: about 2 cups |
++----------------------+---------------------+
 
 This recipe is the perfect balance between sweet and spicy.
 

@@ -1,9 +1,9 @@
 Quick Tartar Sauce
 ==================
 
-+-----------------------------+-------------------------------+---------------------------+
-| Prep Time: 5 minutes (est.) | Total Time: 15 minutes (est.) | Yield: about 1 cup (est.) |
-+-----------------------------+-------------------------------+---------------------------+
++----------------------+------------------------+--------------------+
+| Prep Time: 5 minutes | Total Time: 15 minutes | Yield: about 1 cup |
++----------------------+------------------------+--------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/11526-quick-tartar-sauce>`__
 
