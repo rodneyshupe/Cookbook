@@ -1,6 +1,10 @@
 Elote Potato Salad
 ==================
 
++------------------------------+------------------------------+--------------------------+
+| Prep Time: 20 minutes (est.) | Cook Time: 25 minutes (est.) | Yield: 6 servings (est.) |
++------------------------------+------------------------------+--------------------------+
+
 Inspired by Mexican Street Corn.
 
 Ingredients

@@ -1,6 +1,10 @@
 Simple Potato Salad
 ===================
 
++------------------------------+------------------------------+--------------------------+
+| Prep Time: 20 minutes (est.) | Cook Time: 20 minutes (est.) | Yield: 6 servings (est.) |
++------------------------------+------------------------------+--------------------------+
+
 Ingredients
 -----------
 - 1.5 pounds baby or pee wee or small potatoes

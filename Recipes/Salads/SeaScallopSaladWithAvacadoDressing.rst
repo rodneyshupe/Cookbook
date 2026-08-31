@@ -1,7 +1,9 @@
 Sea Scallop Salad with Avocado Dressing
 =======================================
 
-Yield: 4 servings
++------------------------------+-----------------------------+-------------------+
+| Prep Time: 20 minutes (est.) | Cook Time: 5 minutes (est.) | Yield: 4 servings |
++------------------------------+-----------------------------+-------------------+
 
 Ingredients
 -----------
@@ -34,7 +36,6 @@ Directions
 4. Grill each side for 1-2 minutes. Place on a plate and let rest
 5. Wash and dry the greens. Place in a bowl, add tomatoes, peppers, and season. Add the dressing, and toss.
 6. Arrange the greens onto four plates. Garnish with endive. Place 3 scallops on each salad
-
 
 Notes
 -----

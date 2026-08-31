@@ -1,6 +1,10 @@
 Lemon-Basil Fava Salad and Curly Endive with Raspberry Vinaigrette
 ==================================================================
 
++------------------------------+--------------------------+
+| Prep Time: 20 minutes (est.) | Yield: 4 servings (est.) |
++------------------------------+--------------------------+
+
 Ingredients
 -----------
 
@@ -38,5 +42,4 @@ Directions
 6. Prepare 4 plates and evenly place the curly endive on each plate
 7. Place a portion of the fava salad over top of the endive.
 8. Garnish with fresh raspberries if desired.
-
 

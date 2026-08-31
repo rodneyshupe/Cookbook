@@ -1,7 +1,9 @@
 Moroccan Chicken, Crispy Romaine Salad
 ======================================
 
-Yield: 4 servings
++------------------------------+------------------------------+-------------------------------------+-------------------+
+| Prep Time: 25 minutes (est.) | Cook Time: 10 minutes (est.) | Total Time: 1 hour 5 minutes (est.) | Yield: 4 servings |
++------------------------------+------------------------------+-------------------------------------+-------------------+
 
 Ingredients
 -----------
@@ -20,7 +22,6 @@ Ingredients
 - pinch red pepper flakes
 - 2 clove garlic, minced
 - 2 tablespoon extra virgin olive oil
-
 
 Mango , Lemon, Cumin Dressing
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -43,9 +44,7 @@ Directions
 2. Meanwhile prepare the dressing; in a food processor or blender place mango, ginger, sea salt, pepper, coriander, and ground cumin. Puree for 1 minute. Slowly add the olive oil while blending. Blend in vinegar, lemon, and cilantro. Put aside. Correct seasoning if needed.
 3. In a large bowl place the rest of the ingredients together (cooked chicken can be cooled if so desired). Slowly add the dressing and toss gently.
 
-
 Notes
 -----
 Carb count 5g. per serving
-
 

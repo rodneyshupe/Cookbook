@@ -1,7 +1,9 @@
 Shrimp, Avocado, And Artichoke Salad
 ====================================
 
-Yield: 4 servings
++------------------------------+------------------------------+-------------------+
+| Prep Time: 20 minutes (est.) | Cook Time: 12 minutes (est.) | Yield: 4 servings |
++------------------------------+------------------------------+-------------------+
 
 Ingredients
 -----------
@@ -16,7 +18,6 @@ Ingredients
 - 1 teaspoon jalapeno pepper, chopped
 - 1/4 cup mayonnaise
 - 2 tablespoon Flat leaf parsley, chopped
-
 
 Roasted Peppers
 ^^^^^^^^^^^^^^^
@@ -43,9 +44,7 @@ Directions
 10. Place the tops of the peppers to garnish on a angle
 11. If the peppers are over roasted they will collapse , ( this is why the outer skin is not removed and they are lightly roasted).
 
-
 Notes
 -----
 Carb count 8g. per serving
-
 

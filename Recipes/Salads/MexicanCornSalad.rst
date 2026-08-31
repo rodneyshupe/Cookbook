@@ -1,9 +1,11 @@
 Mexican Corn Salad (Esquites)
 =============================
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/11067-mexican-corn-salad-esquites>`__
++------------------------------+-----------------------------+-------------------------------+---------------------+
+| Prep Time: 15 minutes (est.) | Cook Time: 5 minutes (est.) | Total Time: 30 minutes (est.) | Yield: 3-4 servings |
++------------------------------+-----------------------------+-------------------------------+---------------------+
 
-Yield:  Serves 3-4
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/11067-mexican-corn-salad-esquites>`__
 
 Ingredients
 -----------
@@ -45,6 +47,4 @@ chiles here, but you can substitute a jalapeno chile that has been halved
 lengthwise and sliced into 1/8-inch-thick half-moons. Adjust the amount of
 chiles to suit your taste. If cotija cheese is unavailable, substitute
 feta cheese.
-
-
 

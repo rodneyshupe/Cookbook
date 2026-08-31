@@ -1,6 +1,10 @@
 Seared Ahi Tuna with a Shredded Daikon Salad
 ============================================
 
++------------------------------+-----------------------------+--------------------------+
+| Prep Time: 15 minutes (est.) | Cook Time: 5 minutes (est.) | Yield: 4 servings (est.) |
++------------------------------+-----------------------------+--------------------------+
+
 Ingredients
 -----------
 
@@ -12,7 +16,6 @@ Ingredients
 - assorted crisp greens
 - 1/2 red onion, sliced
 - extra virgin olive oil
-
 
 Vinaigrette
 ^^^^^^^^^^^

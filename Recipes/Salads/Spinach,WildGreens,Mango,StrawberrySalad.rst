@@ -1,7 +1,9 @@
 Spinach, Wild Greens, Mango, Strawberry Salad
 =============================================
 
-Yield: 4 servings
++------------------------------+-------------------+
+| Prep Time: 15 minutes (est.) | Yield: 4 servings |
++------------------------------+-------------------+
 
 Ingredients
 -----------
@@ -21,7 +23,6 @@ Salad
 - 1 avocado, sliced
 - 1 lemon, juiced
 
-
 Vinaigrette
 ^^^^^^^^^^^
 
@@ -34,5 +35,4 @@ Directions
 1. Simply place all the ingredients with the exception of the olive oil and balsamic in a large bowl.
 2. Whisk the olive oil and balsamic together. Drizzle into the salad, and toss well. Correct seasoning if needed.
 3. Place onto salad plates
-
 

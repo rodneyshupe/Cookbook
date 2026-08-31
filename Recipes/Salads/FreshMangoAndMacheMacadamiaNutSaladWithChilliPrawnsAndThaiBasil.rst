@@ -1,7 +1,9 @@
 Fresh Mango and Mache Macadamia Nut Salad with Chilli Prawns and Thai Basil
 ===========================================================================
 
-Yield: 4 servings
++------------------------------+-----------------------------+-------------------+
+| Prep Time: 25 minutes (est.) | Cook Time: 5 minutes (est.) | Yield: 4 servings |
++------------------------------+-----------------------------+-------------------+
 
 Ingredients
 -----------
@@ -32,5 +34,4 @@ Directions
 4. In a small bowl add lime juice, olive oil, and red wine vinegar, whisk.
 5. Slowly drizzle vinaigrette into salad, toss gently.
 6. Portion onto 4 plates and arrange chilli prawns around salad.
-
 

@@ -1,7 +1,9 @@
 Warm Baby Spinach Salad with Bacon, Mushrooms and Pine Nuts
 ===========================================================
 
-Yield: 4 servings
++------------------------------+------------------------------+-------------------+
+| Prep Time: 20 minutes (est.) | Cook Time: 20 minutes (est.) | Yield: 4 servings |
++------------------------------+------------------------------+-------------------+
 
 Ingredients
 -----------
@@ -34,5 +36,4 @@ Directions
 5. In a skillet cook bacon until crisp, drain excess fat, or place on a paper towel, put aside
 6. In the same skillet add 6 tbsp olive oil, heat add onions, season and saute until golden. Add mushrooms, season and saute for 3 minutes. Add the bacon, tomatoes, and peppers, season, and saute for 1-2 minutes. Turn off heat, add 3 tbsp red wine vinegar, and the juice of 1 lemon, stir
 7. In a large bowl place spinach, croutons, pine nuts, and bocconcini. Add the warm mixture and toss gently
-
 

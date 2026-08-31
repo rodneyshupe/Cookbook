@@ -1,7 +1,9 @@
 Grilled Caesar Salad
 ====================
 
-Yield: 12 Servings
++------------------------------+------------------------------+--------------------+
+| Prep Time: 20 minutes (est.) | Cook Time: 15 minutes (est.) | Yield: 12 servings |
++------------------------------+------------------------------+--------------------+
 
 Ingredients
 -----------
@@ -19,7 +21,6 @@ Ingredients
 - Parmigiano Reggiano shavings
 - Kosher salt
 - Freshly ground black pepper
-
 
 Directions
 ----------
@@ -46,5 +47,4 @@ Directions
    across the top along with some Parmigiano Reggiano shavings, season
    with a bit more pepper, and arrange the grilled lemons around the
    platter for serving.
-
 

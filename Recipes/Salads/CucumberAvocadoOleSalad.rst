@@ -1,7 +1,9 @@
 Cucumber Avocado Ole Salad
 ==========================
 
-Yield: 4 servings
++------------------------------+-------------------+
+| Prep Time: 25 minutes (est.) | Yield: 4 servings |
++------------------------------+-------------------+
 
 Ingredients
 -----------

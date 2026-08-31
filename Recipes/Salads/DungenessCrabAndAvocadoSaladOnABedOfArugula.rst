@@ -1,7 +1,9 @@
 Dungeness Crab and Avocado Salad on a bed of arugula
 ====================================================
 
-Yield: 4 servings
++------------------------------+-------------------+
+| Prep Time: 20 minutes (est.) | Yield: 4 servings |
++------------------------------+-------------------+
 
 Ingredients
 -----------
@@ -28,9 +30,7 @@ Directions
 3. Season the arugula, add the vinaigrette and toss.
 4. Place the salad onto 4 plates and top with the crab mixture
 
-
 Notes
 -----
 Carb count 7g per serving
-
 

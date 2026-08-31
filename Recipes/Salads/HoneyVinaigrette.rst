@@ -1,6 +1,10 @@
 Honey Vinaigrette
 =================
 
++-----------------------------+--------------------------------+
+| Prep Time: 5 minutes (est.) | Yield: about 1 1/4 cups (est.) |
++-----------------------------+--------------------------------+
+
 Ingredients
 -----------
 
@@ -16,5 +20,4 @@ Directions
 
 1. Place all vinaigrette ingredients in a sealed jar or container and shake
    aggressively.
-
 

@@ -1,7 +1,9 @@
 Grilled Chicken Salad
 =====================
 
-Yield:  4 servings
++------------------------------+------------------------------+-------------------+
+| Prep Time: 15 minutes (est.) | Cook Time: 15 minutes (est.) | Yield: 4 servings |
++------------------------------+------------------------------+-------------------+
 
 Ingredients
 -----------
@@ -30,9 +32,7 @@ Directions
 4. Once the chicken is done, slice into strips, place in a large bowl with grapes, peppers, greens and pecans. Drizzle the dressing over top and toss gently.
 5. Place on a platter or individual plates
 
-
 Notes
 -----
 Carb count 9g per serving
-
 
