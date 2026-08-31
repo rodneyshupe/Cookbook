@@ -9,7 +9,6 @@ on:
     - 'Cover.png'
     - 'Cookbook.css'
     - 'Cookbook.yaml'
-    - 'Cookbook.style.json'
 
   workflow_dispatch:
 
