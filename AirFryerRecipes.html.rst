@@ -31,22 +31,14 @@ a collection of air fryer recipes from Rodney Shupe and family
 
    SetPageCounter 1 arabic
 
-.. raw:: pdf
-
-   OddPageBreak tocPage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
-
 *********
 Air Fryer
 *********
 
-.. contents::
-   :local:
-   :depth: 1
-
+An air fryer is a compact countertop convection oven that rapidly
+circulates hot air around food, producing a crisp, fried-like texture
+with little or no added oil. It excels at quick, crunchy results and
+reheating leftovers without sogginess.
 
 .. raw:: pdf
 
@@ -98,10 +90,8 @@ Air Fryer
 Related Recipes
 ***************
 
-.. contents::
-   :local:
-   :depth: 1
-
+Recipes referenced from the air fryer recipes above, included here for
+convenience.
 
 .. raw:: pdf
 

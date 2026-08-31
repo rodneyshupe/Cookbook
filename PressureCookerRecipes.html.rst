@@ -31,22 +31,15 @@ a collection of pressure cooker recipes from Rodney Shupe and family
 
    SetPageCounter 1 arabic
 
-.. raw:: pdf
-
-   OddPageBreak tocPage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
-
 ***************
 Pressure Cooker
 ***************
 
-.. contents::
-   :local:
-   :depth: 1
-
+A pressure cooker is a sealed pot that traps steam to cook under
+pressure, raising the boiling point of water so food cooks faster and
+tough cuts turn tender in a fraction of the usual time. These recipes are
+written for an electric pressure cooker (such as an Instant Pot) but adapt
+readily to a stovetop model.
 
 .. raw:: pdf
 

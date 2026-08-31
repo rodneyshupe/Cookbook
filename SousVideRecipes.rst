@@ -105,22 +105,15 @@ a collection of sous-vide recipes from Rodney Shupe and family
 
    SetPageCounter 1 arabic
 
-.. raw:: pdf
-
-   OddPageBreak tocPage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
-
 *********
 Sous-Vide
 *********
 
-.. contents::
-   :local:
-   :depth: 1
-
+Sous-vide (French for "under vacuum") cooks vacuum-sealed food in a
+precisely temperature-controlled water bath. Because the water never
+exceeds the target temperature, food cooks evenly from edge to edge and
+cannot overcook, and it is usually finished with a quick sear for colour
+and texture.
 
 .. raw:: pdf
 
@@ -196,10 +189,8 @@ Sous-Vide
 Related Recipes
 ***************
 
-.. contents::
-   :local:
-   :depth: 1
-
+Recipes referenced from the sous-vide recipes above, included here for
+convenience.
 
 .. raw:: pdf
 
