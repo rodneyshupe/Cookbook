@@ -1,6 +1,9 @@
 Smoked Competition Ribs
 =======================
 
++------------------------------+-------------------------------+-----------------------+
+| Prep Time: 20 minutes (est.) | Cook Time: 3 3/4 hours (est.) | Yield: 2 racks (est.) |
++------------------------------+-------------------------------+-----------------------+
 
 Ingredients
 -----------
@@ -23,7 +26,6 @@ Mop Sauce
 -  1/4 tbsp lemon juice
 -  1/2 cup Coke
 -  1/2 tbsp Worcestershire sauce
-
 
 Directions
 ----------

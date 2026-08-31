@@ -1,6 +1,10 @@
 Pancetta
 ========
 
++------------------------------+---------------------------+----------------------------+------------------------------------+
+| Prep Time: 30 minutes (est.) | Cure Time: 2 weeks (est.) | Dry Time: 4-8 weeks (est.) | Yield: about 6 lbs pancetta (est.) |
++------------------------------+---------------------------+----------------------------+------------------------------------+
+
 This traditional pork belly preparation can be made either as a slab (stesa)
 or roll (arrotolata), as you prefer.
 
@@ -33,5 +37,4 @@ Directions
    wire rack to dry in your refrigerator four to eight weeks, or until
    35-40% reduction in weight.
 5. After drying is complete, slice thin and enjoy!
-
 

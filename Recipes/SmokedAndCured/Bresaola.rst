@@ -1,6 +1,10 @@
 Bresaola
 ========
 
++------------------------------+---------------------------+----------------------------+------------------------------------------+
+| Prep Time: 20 minutes (est.) | Cure Time: 2 weeks (est.) | Dry Time: 4-8 weeks (est.) | Yield: about 1 1/4 lbs cured beef (est.) |
++------------------------------+---------------------------+----------------------------+------------------------------------------+
+
 Northern Italian specialty air-dried beef, also known as Viande des Grisons
 in Switzerland.
 

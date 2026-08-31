@@ -1,6 +1,10 @@
 "Cold Smoked" Salmon à la Montreal
 ==================================
 
++------------------------------+--------------------------+--------------------------+------------------------------------+
+| Prep Time: 20 minutes (est.) | Cure Time: 7 days (est.) | Dry Time: 12 days (est.) | Yield: about 2-3 lbs salmon (est.) |
++------------------------------+--------------------------+--------------------------+------------------------------------+
+
 Source: `UMAi Charcuterie <https://www.drybagsteak.com/recipe-charcuterie-cold-smoked-salmon-montreal.php>`__
 
 Ingredients

@@ -1,6 +1,10 @@
 Lomo/Lonzino
 ============
 
++------------------------------+---------------------------+----------------------------+---------------------------------+
+| Prep Time: 20 minutes (est.) | Cure Time: 2 weeks (est.) | Dry Time: 4-8 weeks (est.) | Yield: 1 cured pork loin (est.) |
++------------------------------+---------------------------+----------------------------+---------------------------------+
+
 This Italian / Spanish cured pork loin either has a paprika coating (lomo)
 or not (lonzino)
 

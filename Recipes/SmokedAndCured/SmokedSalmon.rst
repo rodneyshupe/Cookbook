@@ -1,6 +1,9 @@
 Smoked Salmon
 =============
 
++------------------------------+----------------------------+---------------------------+-------------------------+
+| Prep Time: 15 minutes (est.) | Cure Time: 12 hours (est.) | Cook Time: 2 hours (est.) | Yield: 4 fillets (est.) |
++------------------------------+----------------------------+---------------------------+-------------------------+
 
 Ingredients
 -----------
@@ -9,7 +12,6 @@ Ingredients
 -  2/3 cup brown (demerara) sugar
 -  4 wild pacific salmon fillets cut into 2“-2 1/2” strips, pin bones
    removed.
-
 
 Directions
 ----------

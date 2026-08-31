@@ -1,6 +1,9 @@
 Smoked Chicken Cordon Bleu wrapped in Bacon
 ===========================================
 
++------------------------------+---------------------------+--------------------------+
+| Prep Time: 20 minutes (est.) | Cook Time: 2 hours (est.) | Yield: 4 servings (est.) |
++------------------------------+---------------------------+--------------------------+
 
 Ingredients
 -----------
@@ -10,7 +13,6 @@ Ingredients
 - 5 pieces of bacon
 - 2 slices of ham
 - 2 slices of provolone cheese
-
 
 Directions
 ----------
@@ -24,13 +26,11 @@ Directions
    bacon slice. Pin with tooth picks.
 5. Preheat smoker to 250°F and smoke for 2 hours with Hickory.
 
-
 Make Ahead
 ----------
 
 Can be prepared in advance (and frozen even frozen) then re-heated in a
 200°F oven for 30 minutes.
-
 
 Notes
 -----
