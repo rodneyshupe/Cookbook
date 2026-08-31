@@ -1,6 +1,10 @@
 Brown Sugar and Spice Rib Rub Recipe
 ====================================
 
++-----------------------------+--------------------------------+
+| Prep Time: 5 minutes (est.) | Yield: about 3 1/2 cups (est.) |
++-----------------------------+--------------------------------+
+
 This recipe is perfect for those with a bit of a sweet tooth. Want an
 extra rich flavor? Look for dark brown sugar.
 

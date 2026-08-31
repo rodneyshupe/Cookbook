@@ -1,6 +1,10 @@
 Mike Mills Magic Dust
 =====================
 
++-----------------------------+--------------------------------+
+| Prep Time: 5 minutes (est.) | Yield: about 2 1/4 cups (est.) |
++-----------------------------+--------------------------------+
+
 Ingredients
 -----------
 
@@ -13,5 +17,4 @@ Ingredients
 - 2 Tbsps. ground black pepper
 - 1/4 cup granulated garlic
 - 2 Tbsps. cayenne
-
 

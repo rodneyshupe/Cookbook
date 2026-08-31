@@ -1,6 +1,10 @@
 Herb Mustard Rub
 ================
 
++------------------------------+-----------------------------+
+| Prep Time: 10 minutes (est.) | Yield: about 3/4 cup (est.) |
++------------------------------+-----------------------------+
+
 This works well on pork or lamb roasts.
 
 Ingredients

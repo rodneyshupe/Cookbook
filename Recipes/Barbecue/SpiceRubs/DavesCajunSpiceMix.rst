@@ -1,9 +1,11 @@
 Dave's Cajun Spice Mix
 ======================
 
-This recipe is from my friend David. It is a really good Cajun spice mix.
++-----------------------------+--------------------+
+| Prep Time: 5 minutes (est.) | Yield: about 1 cup |
++-----------------------------+--------------------+
 
-Yield: ~1 cup
+This recipe is from my friend David. It is a really good Cajun spice mix.
 
 Ingredients
 -----------

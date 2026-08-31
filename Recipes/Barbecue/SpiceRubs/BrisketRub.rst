@@ -1,6 +1,10 @@
 Brisket Rub
 ===========
 
++-----------------------------+--------------------------------+
+| Prep Time: 5 minutes (est.) | Yield: about 2 1/2 cups (est.) |
++-----------------------------+--------------------------------+
+
 Very well balanced. Also good on pork butt and ribs. This rub is from
 Brisket Rub by Paul Kirks Book.
 

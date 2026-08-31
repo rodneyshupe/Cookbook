@@ -1,9 +1,11 @@
 Chicken Wing Seasoning
 ======================
 
-Source: `Pro Home Cooks <https://www.prohomecooks.com/post/the-best-air-fryer-chicken-wing-ranking-6-methods>`__
++-----------------------------+----------------+
+| Prep Time: 5 minutes (est.) | Yield: 1/4 cup |
++-----------------------------+----------------+
 
-Yield: 1/4 cup or 4 tablespoons
+Source: `Pro Home Cooks <https://www.prohomecooks.com/post/the-best-air-fryer-chicken-wing-ranking-6-methods>`__
 
 Ingredients
 -----------

@@ -1,6 +1,10 @@
 Pineapple Citrus Marinade
 =========================
 
++------------------------------+--------------------------------+
+| Prep Time: 10 minutes (est.) | Yield: about 1 1/2 cups (est.) |
++------------------------------+--------------------------------+
+
 Works well with chicken.
 
 Ingredients

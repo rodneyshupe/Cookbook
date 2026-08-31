@@ -1,9 +1,11 @@
 Bone Dust
 =========
 
-Really this is a Ted Reader signature seasoning.
++-----------------------------+-------------------------+
+| Prep Time: 5 minutes (est.) | Yield: about 2 1/4 cups |
++-----------------------------+-------------------------+
 
-Yield: Makes about 2 1/4 cups.
+Really this is a Ted Reader signature seasoning.
 
 Ingredients
 -----------

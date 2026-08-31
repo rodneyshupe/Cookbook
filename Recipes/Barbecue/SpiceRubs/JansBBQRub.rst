@@ -1,6 +1,10 @@
 Jans BBQ Rub
 ============
 
++-----------------------------+--------------------------------+
+| Prep Time: 5 minutes (est.) | Yield: about 3 1/2 cups (est.) |
++-----------------------------+--------------------------------+
+
 Source: `Smokin Pete BBQ <https://www.smokinpetebbq.com/wordpress/jans-original-dry-rub/>`__
 
 Ingredients
