@@ -4,7 +4,7 @@ Glazed Carrots
 You'll never eat a more carrot-y carrot.
 
 +-----------------------+--------------------+------------+-------------+
-| Prep Time: 10 minutes | Total Time: 1 hour | Yield: 4-6 | Temp: 183F |
+| Prep Time: 10 minutes | Total Time: 1 hour | Yield: 4-6 | Temp: 183F  |
 +-----------------------+--------------------+------------+-------------+
 
 Equipment

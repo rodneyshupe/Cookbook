@@ -3,7 +3,7 @@ Garlic Smashed Potatoes
 
 +------------------+-------------+--------------+-----------+--------+
 | Prep Time: 20    | Cook: 60    | Total: 80    | Servings: | Temp:  |
-| minutes          | minutes     | minutes      | 4-6       | 190F  |
+| minutes          | minutes     | minutes      | 4-6       | 190F   |
 +------------------+-------------+--------------+-----------+--------+
 
 Equipment

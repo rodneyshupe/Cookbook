@@ -2,7 +2,7 @@ Chocolate Pot de Creme
 ======================
 
 +-----------------------+-------------------+-------------------------+-------------+
-| Prep Time: 10 minutes | Cook Time: 1 hour | Total Time: 1 1/2 hours | Temp: 175F |
+| Prep Time: 10 minutes | Cook Time: 1 hour | Total Time: 1 1/2 hours | Temp: 175F  |
 +-----------------------+-------------------+-------------------------+-------------+
 
 Source: `Glenn & Friends <https://www.youtube.com/watch?v=3udsPg7f3gk>`__

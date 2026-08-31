@@ -2,7 +2,7 @@ Sous Vide Eye of Round Roast
 ============================
 
 +----------------------+---------------------+------------+-------------+
-| Prep Time: 5 minutes | Cook Time: 18 hours | Yield: 4-6 | Temp: 125F |
+| Prep Time: 5 minutes | Cook Time: 18 hours | Yield: 4-6 | Temp: 125F  |
 +----------------------+---------------------+------------+-------------+
 
 Equipment

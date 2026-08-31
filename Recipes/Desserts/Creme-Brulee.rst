@@ -2,7 +2,7 @@ Creme Brulee
 ============
 
 +-----------------------+-------------------+-------------------------+-------------+
-| Prep Time: 15 minutes | Cook Time: 1 hour | Total Time: 5 1/2 hours | Temp: 183F |
+| Prep Time: 15 minutes | Cook Time: 1 hour | Total Time: 5 1/2 hours | Temp: 183F  |
 +-----------------------+-------------------+-------------------------+-------------+
 
 Source: `Avona

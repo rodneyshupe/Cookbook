@@ -2,7 +2,7 @@ Self-Buttering Corn on the Cob
 ==============================
 
 +----------------------+-----------------------+------------------------+---------------+
-| Prep Time: 5 minutes | Cook Time: 30 minutes | Total Time: 35 minutes | Temp: 181.4F |
+| Prep Time: 5 minutes | Cook Time: 30 minutes | Total Time: 35 minutes | Temp: 181.4F  |
 +----------------------+-----------------------+------------------------+---------------+
 
 Equipment

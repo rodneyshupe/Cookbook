@@ -860,7 +860,7 @@ Sous Vide Pulled Pork
 =====================
 
 +------------------+-------------------+-----------------+---------------+------------+
-| Prep: 15 minutes | Cook: 20-24 hours | Total: 24 hours | Servings: 6-8 | Temp 165F |
+| Prep: 15 minutes | Cook: 20-24 hours | Total: 24 hours | Servings: 6-8 | Temp 165F  |
 +------------------+-------------------+-----------------+---------------+------------+
 
 Ingredients

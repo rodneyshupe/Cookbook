@@ -2,7 +2,7 @@ Sous Vide Butternut Squash Puree
 ================================
 
 +-----------------------+----------------------------+---------------------+-------------+-------------+
-| Prep Time: 15 minutes | Cook Time: 1 - 1 1/2 hours | Total Time: 2 hours | Temp: 200F | Yield: 8-10 |
+| Prep Time: 15 minutes | Cook Time: 1 - 1 1/2 hours | Total Time: 2 hours | Temp: 200F | Yield: 8-10  |
 +-----------------------+----------------------------+---------------------+-------------+-------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/11250-sous-vide-butternut-squash-puree>`__
