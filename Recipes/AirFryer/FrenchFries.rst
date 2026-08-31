@@ -1,9 +1,9 @@
 Air Fryer French Fries
 ======================
 
-+------------------+---------------+---------------------+
-| Prep: 15 minutes | Total: 1 hour | Yield: 2-4 servings |
-+------------------+---------------+---------------------+
++-----------------------+-----------------------+--------------------+---------------------+
+| Prep Time: 15 minutes | Cook Time: 40 minutes | Total Time: 1 hour | Yield: 2-4 servings |
++-----------------------+-----------------------+--------------------+---------------------+
 
 Source: `America's Test Kitchen <https://www.americastestkitchen.com/recipes/11347-air-fryer-french-fries>`__
 
