@@ -1,6 +1,10 @@
 Breaded Pork Cutlets (Pork Schnitzel)
 =====================================
 
++------------------------------+------------------------------+-------------------+
+| Prep Time: 30 minutes (est.) | Cook Time: 10 minutes (est.) | Yield: 4 servings |
++------------------------------+------------------------------+-------------------+
+
 Ingredients
 -----------
 
@@ -53,9 +57,4 @@ Notes
 In lieu of an instant-read thermometer to gauge the oil’s temperature,
 place a fresh (not dry) bread cube in the oil and start heating; when
 the bread is deep golden brown, the oil is ready.
-
-Yield:
-------
-
-Serves 4
 

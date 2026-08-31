@@ -1,6 +1,10 @@
 Chile Relleno Burrito
 =====================
 
++------------------------------+------------------------------+--------------------------+
+| Prep Time: 25 minutes (est.) | Cook Time: 20 minutes (est.) | Yield: 4 burritos (est.) |
++------------------------------+------------------------------+--------------------------+
+
 Source: `Sam the Cooking Guy <https://www.youtube.com/watch?v=HbCfIUJPKyE>`__
 
 Ingredients

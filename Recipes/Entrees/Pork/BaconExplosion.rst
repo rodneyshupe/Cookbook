@@ -1,6 +1,10 @@
 Bacon explosion
 ===============
 
++------------------------------+---------------------------+--------------------+
+| Prep Time: 30 minutes (est.) | Cook Time: 3 hours (est.) | Yield: 10 servings |
++------------------------------+---------------------------+--------------------+
+
 Ingredients
 -----------
 
@@ -38,10 +42,4 @@ Directions
    internal temperature reaches 165°F on a meat thermometer, about 1
    hour for each inch of thickness. When done, glaze roll with more
    sauce. To serve, slice into 1/4 to 1/2-inch rounds.
-
-Yield:
-------
-
-10 servings
-
 

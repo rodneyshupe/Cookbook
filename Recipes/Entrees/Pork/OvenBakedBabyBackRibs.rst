@@ -1,6 +1,10 @@
 Oven Baked Baby Back Ribs
 =========================
 
++------------------------------+---------------------------+---------------------------------+--------------------------+
+| Prep Time: 15 minutes (est.) | Cook Time: 3 hours (est.) | Marinate Time: overnight (est.) | Yield: 4 servings (est.) |
++------------------------------+---------------------------+---------------------------------+--------------------------+
+
 Source: `Alton Brown <https://www.foodnetwork.com/recipes/alton-brown/who-loves-ya-baby-back-recipe-1937448>`__
 
 Ingredients

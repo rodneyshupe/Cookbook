@@ -1,6 +1,10 @@
 Poblano con queso - Tacos
 =========================
 
++------------------------------+------------------------------+-----------------------+
+| Prep Time: 10 minutes (est.) | Cook Time: 15 minutes (est.) | Yield: 4 tacos (est.) |
++------------------------------+------------------------------+-----------------------+
+
 Source: `Ethan Chlebowski <https://www.ethanchlebowski.com/cooking-techniques-recipes/poblano-con-queso-tacos>`__
 
 Ingredients

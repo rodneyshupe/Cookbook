@@ -1,6 +1,10 @@
 Stuffed Pork Loin Roast
 =======================
 
++------------------------------+--------------------------+------------------------------+--------------------------+
+| Prep Time: 30 minutes (est.) | Cook Time: 1 hour (est.) | Marinate Time: 1 hour (est.) | Yield: 6 servings (est.) |
++------------------------------+--------------------------+------------------------------+--------------------------+
+
 Ingredients
 -----------
 
@@ -32,7 +36,6 @@ Roast
 - 1/2 teaspoon salt
 - 1 teaspoon oregano
 - 1/2 teaspoon paprika
-
 
 Directions
 ----------

@@ -1,6 +1,10 @@
 Paella on the Grill
 ===================
 
++------------------------------+--------------------------+-------------------+
+| Prep Time: 30 minutes (est.) | Cook Time: 1 hour (est.) | Yield: 8 servings |
++------------------------------+--------------------------+-------------------+
+
 This recipe shortened the outdoor cooking time by using roasted red
 peppers and tomato paste (instead of fresh peppers and tomatoes), making
 an infused broth with the seasonings, and grilling (rather than searing)
@@ -73,9 +77,4 @@ Directions
    longer. (Rotate and slide pan around grill as necessary to ensure
    even crust formation.) Remove pan from grill, cover with aluminum
    foil, and let stand for 10 minutes. Serve with lemon wedges.
-
-Yield:
-------
-
-8 servings
 

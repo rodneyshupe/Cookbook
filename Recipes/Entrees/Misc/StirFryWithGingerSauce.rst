@@ -1,6 +1,10 @@
 Stir Fry with Ginger Sauce
 ==========================
 
++------------------------------+------------------------------+--------------------------+
+| Prep Time: 20 minutes (est.) | Cook Time: 15 minutes (est.) | Yield: 4 servings (est.) |
++------------------------------+------------------------------+--------------------------+
+
 Ingredients
 -----------
 
@@ -39,7 +43,6 @@ Ginger Sauce
 -  1/4 cup minced fresh ginger
 -  2 scallions, minced
 -  2 tablespoons low-sodium chicken broth
-
 
 .. include:: ../../../includes/recipePageBreak.rst
 
