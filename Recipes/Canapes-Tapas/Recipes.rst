@@ -17,7 +17,7 @@ Canapes and Tapas
 
    <p style="page-break-before: always"/>
 
-.. include:: Chorizo,ManchegoAndOliveSkewers.rst
+.. include:: ChorizoManchegoAndOliveSkewers.rst
 
 ----
 

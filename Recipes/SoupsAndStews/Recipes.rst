@@ -298,7 +298,7 @@ Soups and Stews
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: SmokyPancetta,SweetOnion,AndGreenLentilSoup.rst
+.. include:: SmokyPancettaSweetOnionAndGreenLentilSoup.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 

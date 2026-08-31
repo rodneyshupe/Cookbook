@@ -102,7 +102,7 @@ Entrees - Seafood
 
 .. include:: ../../../includes/recipePageBreak.rst
 
-.. include:: LingcodCheeksWithAsparagus,Chickpeas,AndKaleChips.rst
+.. include:: LingcodCheeksWithAsparagusChickpeasAndKaleChips.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
 
@@ -118,4 +118,4 @@ Entrees - Seafood
 
 .. include:: ../../../includes/recipePageBreak.rst
 
-.. include:: AhiTunaSteakWithALightTomato,Ginger,HerbSauce.rst
+.. include:: AhiTunaSteakWithALightTomatoGingerHerbSauce.rst

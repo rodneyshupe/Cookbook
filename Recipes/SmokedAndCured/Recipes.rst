@@ -38,7 +38,7 @@ Smoked and Cured
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: "ColdSmoked"SalmonALaMontreal.rst
+.. include:: ColdSmokedSalmonALaMontreal.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 

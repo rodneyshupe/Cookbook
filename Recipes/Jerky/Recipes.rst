@@ -35,7 +35,7 @@ Spanish word 'charqui' which means dried meat.
 
 ----
 
-.. include:: Bringin'TheFunk.rst
+.. include:: BringinTheFunk.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
