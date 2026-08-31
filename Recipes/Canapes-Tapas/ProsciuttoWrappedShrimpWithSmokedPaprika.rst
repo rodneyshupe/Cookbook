@@ -1,6 +1,10 @@
 Prosciutto-Wrapped Shrimp with Smoked Paprika
 =============================================
 
++------------------------------+-----------------------------+-------------------------------+-------------------------+
+| Prep Time: 25 minutes (est.) | Cook Time: 5 minutes (est.) | Total Time: 55 minutes (est.) | Yield: 35 pieces (est.) |
++------------------------------+-----------------------------+-------------------------------+-------------------------+
+
 The combination of cured pork and paprika gives these shrimp bites a
 flavor reminiscent of Spanish chorizo: a little spicy and very savory.
 Broil for a few minutes and the shrimp are ready to serve. They can be

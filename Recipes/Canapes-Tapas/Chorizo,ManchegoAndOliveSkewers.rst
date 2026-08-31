@@ -1,6 +1,10 @@
 Chorizo, Manchego and Olive Skewers
 ===================================
 
++------------------------------+--------------------------+
+| Prep Time: 15 minutes (est.) | Yield: 12 skewers (est.) |
++------------------------------+--------------------------+
+
 Source: `Paige Rhodes <https://www.mymoderncookery.com/chorizo-manchego-olive-skewers/>`__
 
 Ingredients

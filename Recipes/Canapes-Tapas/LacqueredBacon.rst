@@ -1,6 +1,10 @@
 Lacquered Bacon
 ===============
 
++-----------------------------+------------------------------+--------------------------+
+| Prep Time: 5 minutes (est.) | Cook Time: 30 minutes (est.) | Yield: 4 servings (est.) |
++-----------------------------+------------------------------+--------------------------+
+
 Source: `Alton Brown <https://altonbrown.com/roasted-bacon-recipe/>`__
 
 Ingredients

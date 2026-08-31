@@ -1,6 +1,10 @@
 Baked Jalapeno Poppers
 ======================
 
++------------------------------+------------------------------+--------------------------+
+| Prep Time: 20 minutes (est.) | Cook Time: 25 minutes (est.) | Yield: 24 poppers (est.) |
++------------------------------+------------------------------+--------------------------+
+
 Source: `Cooks Country <https://www.cookscountry.com/recipes/7886-baked-jalapeno-poppers>`__
 
 Ingredients
