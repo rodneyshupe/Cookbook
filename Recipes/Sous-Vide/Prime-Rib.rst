@@ -5,6 +5,9 @@ Sous Vide Eye of Prime Rib
 | Prep Time: 1 to 12 hours | Cook Time: 6 hours + 30 minutes finishing time | Yield: 6 | Temp: 132F |
 +--------------------------+------------------------------------------------+----------+-------------+
 
+Equipment
+---------
+Sous-Vide (immersion circulator)
 
 Ingredients
 -----------

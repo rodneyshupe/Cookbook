@@ -7,6 +7,10 @@ Classic Waffles
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/9473-perfect-poached-eggs>`__
 
+Equipment
+---------
+Waffle Iron
+
 Ingredients
 -----------
 

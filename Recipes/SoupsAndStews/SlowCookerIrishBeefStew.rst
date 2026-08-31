@@ -7,6 +7,10 @@ Slow Cooker Irish Beef Stew
 
 Source: `Savory Nothings <https://www.savorynothings.com/slow-cooker-irish-beef-stew/>`__
 
+Equipment
+---------
+Slow Cooker
+
 Ingredients
 -----------
 

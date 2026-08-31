@@ -5,6 +5,10 @@ Spicy Cheese Dip
 | Prep Time: 5 minutes | Cook Time: 2 hours | Yield: about 3 cups |
 +----------------------+--------------------+---------------------+
 
+Equipment
+---------
+Slow Cooker
+
 Ingredients
 -----------
 

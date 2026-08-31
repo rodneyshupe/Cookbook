@@ -11,6 +11,10 @@ Pressure-cooking the ribs in an Instant Pot makes them completely tender,
 the perfect texture for picking up and eating with your hands, with just
 the right amount of chew.
 
+Equipment
+---------
+Electric Pressure Cooker
+
 Ingredients
 -----------
 

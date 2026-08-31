@@ -5,6 +5,10 @@ Slowcooker Jambalaya
 | Prep Time: 20 minutes | Cook Time: 8 hours | Yield: 6-8 servings |
 +-----------------------+--------------------+---------------------+
 
+Equipment
+---------
+Slow Cooker
+
 Ingredients
 -----------
 - 1 pound andouille sausage, sliced

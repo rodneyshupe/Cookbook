@@ -5,6 +5,10 @@ Cranberry Turkey Jerky
 | Prep Time: 20 minutes | Marinate Time: 8-24 hours | Drying Time: 4 hours | Yield: about 1/3 lb jerky |
 +-----------------------+---------------------------+----------------------+---------------------------+
 
+Equipment
+---------
+Dehydrator
+
 Ingredients
 -----------
 

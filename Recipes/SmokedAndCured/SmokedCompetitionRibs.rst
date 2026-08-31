@@ -5,6 +5,10 @@ Smoked Competition Ribs
 | Prep Time: 20 minutes | Cook Time: 3 3/4 hours | Yield: 2 racks |
 +-----------------------+------------------------+----------------+
 
+Equipment
+---------
+Smoker
+
 Ingredients
 -----------
 

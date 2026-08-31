@@ -5,6 +5,10 @@ Homemade Bacon
 | Prep Time: 20 minutes | Cure Time: 7 days | Cook Time: 2 hours | Yield: about 2 1/2 lbs bacon |
 +-----------------------+-------------------+--------------------+------------------------------+
 
+Equipment
+---------
+Smoker
+
 Ingredients
 -----------
 

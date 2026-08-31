@@ -5,6 +5,10 @@ Air Fryer Chicken Wings
 | Prep Time: 10 minutes | Cook Time: 30 minutes | Total Time: 1 hour | Yield: 1 serving |
 +-----------------------+-----------------------+--------------------+------------------+
 
+Equipment
+---------
+Air Fryer
+
 Ingredients
 -----------
 

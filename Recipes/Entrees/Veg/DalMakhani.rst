@@ -5,6 +5,10 @@ Dal Makhani
 | Prep Time: 15 minutes | Cook Time: 30 minutes | Yield: 4 servings |
 +-----------------------+-----------------------+-------------------+
 
+Equipment
+---------
+Electric Pressure Cooker
+
 Ingredients
 -----------
 

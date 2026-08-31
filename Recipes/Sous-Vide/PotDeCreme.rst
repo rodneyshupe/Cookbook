@@ -9,6 +9,10 @@ Source: `Glenn & Friends <https://www.youtube.com/watch?v=MVjb5Gl_YEM>`__
 
 Yield: 4 servings
 
+Equipment
+---------
+Sous-Vide (immersion circulator)
+
 Ingredients
 -----------
 

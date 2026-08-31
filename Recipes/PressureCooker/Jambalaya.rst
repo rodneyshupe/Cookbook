@@ -10,6 +10,10 @@ Source: `Sylvia Fountaine <https://www.feastingathome.com/jambalaya-recipe/>`__
 A delicious and easy recipe for Jambalaya! This flavorful version can be
 made in an Instant Pot or on the Stove Top. Flavorful!!!
 
+Equipment
+---------
+Electric Pressure Cooker
+
 Ingredients
 -----------
 

@@ -8,6 +8,9 @@ Creme Brulee
 Source: `Avona
 Culinary <https://recipes.anovaculinary.com/recipe/sous-vide-ultimate-creme-brulee-with-variations>`__
 
+Equipment
+---------
+Sous-Vide (immersion circulator)
 
 Ingredients
 -----------

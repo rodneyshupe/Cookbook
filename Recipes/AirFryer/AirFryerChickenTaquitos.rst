@@ -5,6 +5,10 @@ Air Fryer Chicken Taquitos
 | Prep Time: 20 minutes | Cook Time: 10 minutes | Yield: 12 taquitos |
 +-----------------------+-----------------------+--------------------+
 
+Equipment
+---------
+Air Fryer
+
 Ingredients
 -----------
 

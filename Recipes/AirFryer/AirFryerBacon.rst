@@ -5,6 +5,10 @@ Air Fryer Bacon
 | Prep Time: 2 minutes | Cook Time: 9-12 minutes | Yield: 5 slices |
 +----------------------+-------------------------+-----------------+
 
+Equipment
+---------
+Air Fryer
+
 Ingredients
 -----------
 

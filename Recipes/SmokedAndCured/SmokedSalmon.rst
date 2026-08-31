@@ -5,6 +5,10 @@ Smoked Salmon
 | Prep Time: 15 minutes | Cure Time: 12 hours | Cook Time: 2 hours | Yield: 4 fillets |
 +-----------------------+---------------------+--------------------+------------------+
 
+Equipment
+---------
+Smoker
+
 Ingredients
 -----------
 

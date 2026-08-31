@@ -70,7 +70,7 @@ Soups and Stews
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: ../InstantPot/ChickenAndDumplingSoup.rst
+.. include:: ../PressureCooker/ChickenAndDumplingSoup.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 

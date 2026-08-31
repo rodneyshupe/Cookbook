@@ -129,7 +129,7 @@ a collection of recipes containing the favourites of Rodney Shupe and family
 
 .. include:: Recipes/Sous-Vide/Recipes.rst
 
-.. include:: Recipes/InstantPot/Recipes.rst
+.. include:: Recipes/PressureCooker/Recipes.rst
 
 .. include:: Recipes/AirFryer/Recipes.rst
 

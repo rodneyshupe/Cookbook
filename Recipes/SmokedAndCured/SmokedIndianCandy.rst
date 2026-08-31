@@ -5,6 +5,10 @@ Smoked Indian Candy
 | Prep Time: 30 minutes | Cure Time: 12-16 hours | Cook Time: 4 hours | Yield: about 3 lbs candied salmon |
 +-----------------------+------------------------+--------------------+-----------------------------------+
 
+Equipment
+---------
+Smoker
+
 Ingredients
 -----------
 

@@ -5,6 +5,10 @@ Pressure Cooker Ramen Recipe
 | Prep Time: 10 minutes | Cook Time: 90 minutes | Yield: 8 servings |
 +-----------------------+-----------------------+-------------------+
 
+Equipment
+---------
+Electric Pressure Cooker
+
 Ingredients
 -----------
 

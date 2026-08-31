@@ -9,6 +9,10 @@ Delicious "Little Prosciutto" that's easy to make with no need to age for years 
 
 Source: `UMAi Charcuterie <https://www.drybagsteak.com/recipe-charcuterie-prosciutto-prosciuttini.php>`__
 
+Equipment
+---------
+UMAi Dry Bag, Vacuum Sealer
+
 Ingredients
 -----------
 

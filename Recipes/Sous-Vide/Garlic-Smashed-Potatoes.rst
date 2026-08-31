@@ -6,6 +6,9 @@ Garlic Smashed Potatoes
 | minutes          | minutes     | minutes      | 4-6       | 190F  |
 +------------------+-------------+--------------+-----------+--------+
 
+Equipment
+---------
+Sous-Vide (immersion circulator)
 
 Ingredients
 -----------

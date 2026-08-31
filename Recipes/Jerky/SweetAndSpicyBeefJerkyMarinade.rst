@@ -5,6 +5,10 @@ Sweet and Spicy Beef Jerky Marinade
 | Prep Time: 20 minutes | Marinate Time: 3 hours | Drying Time: 4-8 hours | Yield: about 3 1/2 cups marinade |
 +-----------------------+------------------------+------------------------+----------------------------------+
 
+Equipment
+---------
+Dehydrator
+
 Ingredients
 -----------
 

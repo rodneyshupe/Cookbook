@@ -5,6 +5,10 @@ Air Fryer Baked Potatoes
 | Prep Time: 5 minutes | Cook Time: 30 minutes | Total Time: 35 minutes | Yield: 3 potatoes |
 +----------------------+-----------------------+------------------------+-------------------+
 
+Equipment
+---------
+Air Fryer
+
 Ingredients
 -----------
 

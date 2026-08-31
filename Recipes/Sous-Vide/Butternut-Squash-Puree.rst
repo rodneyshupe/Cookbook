@@ -7,6 +7,10 @@ Sous Vide Butternut Squash Puree
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/11250-sous-vide-butternut-squash-puree>`__
 
+Equipment
+---------
+Sous-Vide (immersion circulator)
+
 Ingredients
 -----------
 

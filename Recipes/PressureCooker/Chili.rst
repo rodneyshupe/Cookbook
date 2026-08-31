@@ -10,6 +10,10 @@ Source: `365 Days of Slow and Pressure Cooking <https://www.365daysofcrockpot.co
 A fast and easy chili recipe that has lots of flavor but isn't too spicy!
 Perfect for any night of the week or for the chili cook-off contest.
 
+Equipment
+---------
+Electric Pressure Cooker
+
 Ingredients
 -----------
 

@@ -9,6 +9,10 @@ Source: `Glenn & Friends <https://www.youtube.com/watch?v=3udsPg7f3gk>`__
 
 Yield: 6 servings
 
+Equipment
+---------
+Sous-Vide (immersion circulator)
+
 Ingredients
 -----------
 - 2 1/2  cups (625 mL) whipping 35% cream

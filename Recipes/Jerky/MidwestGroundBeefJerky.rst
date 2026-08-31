@@ -5,6 +5,10 @@ Midwest Ground Beef Jerky
 | Prep Time: 20 minutes | Drying Time: 3 1/2 hours | Yield: about 3/4 lb jerky |
 +-----------------------+--------------------------+---------------------------+
 
+Equipment
+---------
+Dehydrator
+
 Ingredients
 -----------
 

@@ -9,6 +9,10 @@ Source: `Pressure Luck Cooking <https://pressureluckcooking.com/recipe/instant-p
 
 Certainly not authentic but has that familiar flavour.
 
+Equipment
+---------
+Electric Pressure Cooker
+
 Ingredients
 -----------
 

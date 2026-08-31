@@ -7,6 +7,10 @@
 
 Source: `UMAi Charcuterie <https://www.drybagsteak.com/recipe-charcuterie-cold-smoked-salmon-montreal.php>`__
 
+Equipment
+---------
+UMAi Dry Bag, Vacuum Sealer
+
 Ingredients
 -----------
 

@@ -5,6 +5,10 @@ Homemade Jerky
 | Prep Time: 20 minutes | Marinate Time: 8-24 hours | Drying Time: 6-8 hours |
 +-----------------------+---------------------------+------------------------+
 
+Equipment
+---------
+Dehydrator
+
 Ingredients
 -----------
 

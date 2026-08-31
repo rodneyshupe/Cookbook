@@ -5,6 +5,10 @@ Cabbage Beef Soup
 | Prep Time: 15 minutes | Cook Time: 6 hours | Yield: 6-8 servings |
 +-----------------------+--------------------+---------------------+
 
+Equipment
+---------
+Slow Cooker
+
 Ingredients
 -----------
 

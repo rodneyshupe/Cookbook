@@ -10,6 +10,10 @@ Source: `365 Days of Slow and Pressure Cooking <https://www.365daysofcrockpot.co
 Creamy and cheesy grits served with shrimp and bites of bacon on top.
 Classic comfort food from the south!
 
+Equipment
+---------
+Electric Pressure Cooker
+
 Ingredients
 -----------
 

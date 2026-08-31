@@ -5,6 +5,10 @@ Asian Soy Sauce Chicken
 | Prep Time: 5 minutes | Cook Time: 15 minutes | Yield: 4 servings |
 +----------------------+-----------------------+-------------------+
 
+Equipment
+---------
+Air Fryer
+
 Ingredients
 -----------
 

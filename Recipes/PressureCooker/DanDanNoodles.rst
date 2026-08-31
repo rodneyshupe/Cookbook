@@ -13,6 +13,10 @@ fresh noodles; but by cooking dried spaghetti right in the sauce, the
 flavors meld into some cross between a pasta casserole and a Chinese
 classic. Have lots of beer on hand!
 
+Equipment
+---------
+Electric Pressure Cooker
+
 Ingredients
 -----------
 

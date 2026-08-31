@@ -7,6 +7,10 @@ Air Fryer French Fries
 
 Source: `America's Test Kitchen <https://www.americastestkitchen.com/recipes/11347-air-fryer-french-fries>`__
 
+Equipment
+---------
+Air Fryer
+
 Ingredients
 -----------
 

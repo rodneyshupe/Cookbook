@@ -5,6 +5,10 @@ Sous Vide Brisket
 | Prep Time: 10 minutes | Cook Time: 50 hours | Total Time: 54 hours | Yield: 6-8 | Temp: 135F |
 +-----------------------+---------------------+----------------------+------------+-------------+
 
+Equipment
+---------
+Sous-Vide (immersion circulator)
+
 Ingredients
 -----------
 

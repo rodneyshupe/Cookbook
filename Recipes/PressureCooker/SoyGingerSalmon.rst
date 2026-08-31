@@ -13,6 +13,10 @@ flavor, by adding savory ingredients like soy sauce and lime. Make note
 that fattier, thicker fish fillets (preferably center cut) hold up to
 pressure cooking best.
 
+Equipment
+---------
+Electric Pressure Cooker
+
 Ingredients
 -----------
 

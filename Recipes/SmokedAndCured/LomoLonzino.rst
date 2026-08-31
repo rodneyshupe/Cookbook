@@ -10,6 +10,10 @@ or not (lonzino)
 
 Source: `UMAi Charcuterie <https://www.drybagsteak.com/recipe-charcuterie-lomo-lonzino.php>`__
 
+Equipment
+---------
+UMAi Dry Bag, Vacuum Sealer
+
 Ingredients
 -----------
 

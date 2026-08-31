@@ -5,6 +5,10 @@ Air Fryer Twice Baked Potatoes
 | Prep Time: 5 minutes | Cook Time: 10 minutes | Total Time: 15 minutes | Yield: 6 halves |
 +----------------------+-----------------------+------------------------+-----------------+
 
+Equipment
+---------
+Air Fryer
+
 Ingredients
 -----------
 

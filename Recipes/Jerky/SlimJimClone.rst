@@ -5,6 +5,10 @@ Slim Jim Clone
 | Prep Time: 20 minutes | Drying Time: 5 hours | Yield: about 3/4 lb sticks |
 +-----------------------+----------------------+----------------------------+
 
+Equipment
+---------
+Dehydrator
+
 Ingredients
 -----------
 

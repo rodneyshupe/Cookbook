@@ -10,6 +10,10 @@ in Switzerland.
 
 Source: `UMAi Charcuterie <https://www.drybagsteak.com/recipe-charcuterie-bresaola.php>`__
 
+Equipment
+---------
+UMAi Dry Bag, Vacuum Sealer
+
 Ingredients
 -----------
 

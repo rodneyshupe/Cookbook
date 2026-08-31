@@ -5,6 +5,10 @@ Salted Caramel Pot de Creme
 | Prep Time: 10 minutes | Cook Time: 1 hour | Total Time: 1 1/2 hours | Temp: 175F | Yield: 4 servings |
 +-----------------------+-------------------+-------------------------+-------------+-------------------+
 
+Equipment
+---------
+Sous-Vide (immersion circulator)
+
 Ingredients
 -----------
 - 6 large egg yolks

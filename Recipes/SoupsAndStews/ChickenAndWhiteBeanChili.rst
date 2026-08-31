@@ -5,6 +5,10 @@ Chicken and White Bean Chili
 | Prep Time: 20 minutes | Cook Time: 8+ hours | Yield: 4-6 servings |
 +-----------------------+---------------------+---------------------+
 
+Equipment
+---------
+Slow Cooker
+
 Ingredients
 -----------
 

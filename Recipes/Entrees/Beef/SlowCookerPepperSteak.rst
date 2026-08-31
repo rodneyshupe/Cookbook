@@ -5,6 +5,10 @@ Slow Cooker Pepper Steak
 | Prep Time: 10 minutes | Total Time: 3-5 hours | Yield: 6 servings |
 +-----------------------+-----------------------+-------------------+
 
+Equipment
+---------
+Slow Cooker
+
 Ingredients
 -----------
 

@@ -11,6 +11,10 @@ The easiest way you can make a Mongolian beef recipe! The beef gets
 meltingly tender in the slow cooker and the sauce becomes incredibly silky,
 with great spicy/sweet flavors!
 
+Equipment
+---------
+Slow Cooker
+
 Ingredients
 -----------
 

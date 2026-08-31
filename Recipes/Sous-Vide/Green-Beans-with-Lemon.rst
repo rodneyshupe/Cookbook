@@ -6,6 +6,9 @@ Green Beans with Lemon
 | minutes         | minutes      | minutes      | 4-6       | 180F   |
 +-----------------+--------------+--------------+-----------+---------+
 
+Equipment
+---------
+Sous-Vide (immersion circulator), Vacuum Sealer
 
 Ingredients
 -----------

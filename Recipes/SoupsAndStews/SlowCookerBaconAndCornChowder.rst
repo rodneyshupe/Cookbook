@@ -5,6 +5,9 @@ Slow Cooker Bacon and Corn Chowder
 | Prep Time: 30 minutes | Cook Time: 4 1/2 hours | Yield: 4-6 servings |
 +-----------------------+------------------------+---------------------+
 
+Equipment
+---------
+Slow Cooker
 
 Ingredients
 -----------

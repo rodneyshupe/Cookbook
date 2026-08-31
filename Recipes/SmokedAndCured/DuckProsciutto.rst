@@ -8,6 +8,10 @@ Duck Prosciutto
 Source: `UMAi Charcuterie <https://www.drybagsteak.com/recipe-charcuterie-duck-prosciutto.php>`__
 and `Kosher Dosher <https://kosherdosher.blogspot.com/2014/04/duck-prosciutto.html>`__
 
+Equipment
+---------
+UMAi Dry Bag, Vacuum Sealer
+
 Ingredients
 -----------
 

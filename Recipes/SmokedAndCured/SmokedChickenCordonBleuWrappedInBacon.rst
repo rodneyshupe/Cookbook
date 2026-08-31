@@ -5,6 +5,10 @@ Smoked Chicken Cordon Bleu wrapped in Bacon
 | Prep Time: 20 minutes | Cook Time: 2 hours | Yield: 4 servings |
 +-----------------------+--------------------+-------------------+
 
+Equipment
+---------
+Smoker
+
 Ingredients
 -----------
 

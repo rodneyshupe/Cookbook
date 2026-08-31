@@ -10,6 +10,10 @@ or roll (arrotolata), as you prefer.
 
 Source: `UMAi Charcuterie <https://www.drybagsteak.com/recipe-homemade-pancetta-charcuterie.php>`__
 
+Equipment
+---------
+UMAi Dry Bag, Vacuum Sealer
+
 Ingredients
 -----------
 

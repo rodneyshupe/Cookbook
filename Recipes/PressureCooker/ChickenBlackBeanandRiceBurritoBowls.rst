@@ -7,6 +7,9 @@ Pressure Cooker Chicken, Black Bean, and Rice Burrito Bowls
 
 Source: `Elizabeth <https://cookfasteatwell.com/pressure-cooker-chicken-black-bean-and-rice-burrito-bowls/>`__
 
+Equipment
+---------
+Electric Pressure Cooker
 
 Ingredients
 -----------

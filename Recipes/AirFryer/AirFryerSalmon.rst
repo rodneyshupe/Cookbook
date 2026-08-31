@@ -5,6 +5,10 @@ Mustard Salmon
 | Prep Time: 5 minutes | Cook Time: 8 minutes | Yield: 1 servings |
 +----------------------+----------------------+-------------------+
 
+Equipment
+---------
+Air Fryer
+
 Ingredients
 -----------
 
@@ -29,6 +33,10 @@ Miso-Glazed Salmon
 +----------------------+----------------------+------------------------+-------------------+
 | Prep Time: 5 minutes | Cook Time: 8 minutes | Total Time: 45 minutes | Yield: 2 servings |
 +----------------------+----------------------+------------------------+-------------------+
+
+Equipment
+---------
+Air Fryer
 
 Ingredients
 -----------

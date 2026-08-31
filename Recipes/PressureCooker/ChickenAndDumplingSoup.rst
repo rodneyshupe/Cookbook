@@ -7,6 +7,10 @@ Instant Pot Chicken and Dumpling Soup
 
 Source: `Pressue Luck Cooking <https://pressureluckcooking.com/recipe/instant-pot-chicken-dumplings/>`__
 
+Equipment
+---------
+Electric Pressure Cooker
+
 Ingredients
 -----------
 

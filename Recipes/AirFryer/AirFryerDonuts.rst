@@ -5,6 +5,10 @@ Air Fryer Donuts
 | Prep Time: 10 minutes | Cook Time: 20 minutes | Total Time: 2 hours 40 minutes | Yield: 12 donuts |
 +-----------------------+-----------------------+--------------------------------+------------------+
 
+Equipment
+---------
+Air Fryer
+
 Ingredients
 -----------
 
