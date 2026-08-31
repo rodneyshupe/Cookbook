@@ -19,7 +19,7 @@ Ingredients
 Directions
 ----------
 
-1. In a bowl, disolve Prague Powder in water and liquid smoke. Add
+1. In a bowl, dissolve Prague Powder in water and liquid smoke. Add
    remaining ingredients besides ground beef and combine.
 2. Add to ground beef and mix seasonings thoroughly
 3. Using a jerky gun, load the gun with the ground beef mixture and

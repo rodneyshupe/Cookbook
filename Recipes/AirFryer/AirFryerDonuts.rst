@@ -73,7 +73,7 @@ Directions
    butter and toss in cinnamon sugar. Return to cooling rack and let set
    for 5 minutes before serving.
 
-Note
-----
+Notes
+-----
 
 Each glaze is enough for 4 doughnuts.  Scale up as necessary.

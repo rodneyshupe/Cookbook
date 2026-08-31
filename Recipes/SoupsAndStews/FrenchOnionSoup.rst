@@ -44,7 +44,7 @@ Directions
    brown, 15 to 20 minutes, reducing heat to medium if onions are
    browning too quickly. Continue to cook, stirring frequently, until
    pot bottom is coated with dark crust, 6 to 8 minutes, adjusting heat
-   as necessary. (Scrape any fond that bcollects on spoon back into
+   as necessary. (Scrape any fond that collects on spoon back into
    onions.) Stir in 1/4 cup water, scraping pot bottom to loosen crust,
    and cook until water evaporates and pot bottom has formed another
    dark crust, 6 to 8 minutes. Repeat process of deglazing 2 or 3 more

@@ -33,18 +33,18 @@ Croutons
 
 Directions
 ----------
-#. Combine tomato, onion, green pepper, and cucumber chunks. Puree them
+1. Combine tomato, onion, green pepper, and cucumber chunks. Puree them
    in a blender or food mill until smooth. Transfer the mixture to a large
    bowl or tureen and stir until well blended and smooth. Add tomato
    juice, garlic, cumin, salt, and pepper. Cover and chill.
-#. Meanwhile prepare the croutons; in a preheated oven at 375°F place the
+2. Meanwhile prepare the croutons; in a preheated oven at 375°F place the
    bread slices onto a baking sheet and lightly toast. Remove the crusts
    and cut the bread into one-half-inch squares.
-#. Clarify the butter by melting it in a saucepan, then separating the
+3. Clarify the butter by melting it in a saucepan, then separating the
    clear butter from the milky residue. Transfer the clarified butter to
    a skillet and put it over medium heat. Stir in the garlic, add the
    cubes of bread and saute, stirring, until crisp and golden, add chopped
    parsley at the end, stir, and drain on a paper towel.
-#. When you are ready to serve, stir in the olive oil and vinegar. Garnish
+4. When you are ready to serve, stir in the olive oil and vinegar. Garnish
    with diced vegetables and croutons.
 

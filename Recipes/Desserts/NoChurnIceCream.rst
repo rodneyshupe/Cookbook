@@ -73,8 +73,8 @@ Mint-Cookie
 - In step two, once mixture is poured into the loaf pan, gently stir in
   4 crushed (coarse) Oreo cookies.
 
-Note
-----
+Notes
+-----
 
 The cream mixture freezes more quickly in a loaf pan than in a taller,
 narrower container. If you don't have a loaf pan, use an 8-inch square

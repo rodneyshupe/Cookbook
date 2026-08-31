@@ -45,8 +45,8 @@ Directions
    Slice meat into 3/4-inch-thick slices. Season with coarse salt to taste,
    and serve.
 
-Note
-----
+Notes
+-----
 - Look for a roast with an untrimmed fat cap (ideally ½ inch thick).
 - To remove the bones from the roast, use a sharp knife and run it down the
   length of the bones, following the contours as closely as possible until

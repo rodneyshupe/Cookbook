@@ -28,10 +28,10 @@ Vinaigrette
 Directions
 ----------
 
-#. Heat a skillet, add oil, season both sides of the tuna
-#. Sear the tuna, approx. 2-3 minutes each side, put aside
-#. Meanwhile wisk all ingredients for the vinaigrette, put aside
-#. Prepare your plate by assembling the salad crisps, then followed by the carrot, onion, and daikon
-#. Drizzle some of the vinaigrette over top of the salad
-#. Place the tuna filet over the salad and drizzle a touch more dressing over.
+1. Heat a skillet, add oil, season both sides of the tuna
+2. Sear the tuna, approx. 2-3 minutes each side, put aside
+3. Meanwhile whisk all ingredients for the vinaigrette, put aside
+4. Prepare your plate by assembling the salad crisps, then followed by the carrot, onion, and daikon
+5. Drizzle some of the vinaigrette over top of the salad
+6. Place the tuna filet over the salad and drizzle a touch more dressing over.
 

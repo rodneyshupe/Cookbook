@@ -33,8 +33,8 @@ Directions
    placed in a Ziploc bag, the bacon will keep for three weeks in the
    refrigerator and three months in the freezer.
 
-Note
-----
+Notes
+-----
 
 If not using a smoker perform step 3 in a oven and add 1/2 tablespoon of
 liquid smoke to cure.

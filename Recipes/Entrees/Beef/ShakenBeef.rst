@@ -12,7 +12,7 @@ Ingredients
 -----------
 
 - 4 teaspoons fish sauce
-- 4 teaspoons maggi sauce (substitutue half soy sauce and half worcestershire sauce)
+- 4 teaspoons maggi sauce (substitute half soy sauce and half worcestershire sauce)
 - 2 teaspoons soy sauce
 - 2 teaspoons molasses
 - 1 pound sirloin steak tips, trimmed and cut into 3/4-inch cubes

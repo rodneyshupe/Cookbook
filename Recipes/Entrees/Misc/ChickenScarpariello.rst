@@ -1,8 +1,8 @@
 Chicken Scarpariello (Italian Sweet and Sour Chicken With Sausage)
 ==================================================================
 
-Instructions
-------------
+Ingredients
+-----------
 
 - 2 1/2 pounds bone-in, skin-on chicken thighs (6 to 8 thighs; 1.15kg)
 - Kosher salt and freshly ground black pepper

@@ -13,7 +13,7 @@ Ingredients
 - 2 teaspoons minced fresh ginger (can buy this fresh or often can be found in squeeze tubes or bottles in the produce section)
 - 2 tablespoons red curry paste (can find this in the ethnic food aisle)
 - 1 tablespoon curry powder
-- 1/2 teaspoon ground tumeric
+- 1/2 teaspoon ground turmeric
 - 1 teaspoon ground cumin
 - 1 teaspoon sea salt
 - 1 teaspoon sugar (optional, can also use honey, agave, maple syrup)

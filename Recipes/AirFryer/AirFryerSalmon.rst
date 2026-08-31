@@ -4,12 +4,12 @@ Mustard Salmon
 Ingredients
 -----------
 
-- 1 fillet of salmon, skin on, seperated into serving size pieces, approx. 2 in wide.
+- 1 fillet of salmon, skin on, separated into serving size pieces, approx. 2 in wide.
 - 1 tablespoon of mustard
 - 1 1/2 teaspoon of old bay
 
-Instructions
-------------
+Directions
+----------
 
 1. Cut your salmon into two equal sized pieces. Pat dry your salmon and then
    spread on some mustard all over it. Sprinkle old bay all over the salmon.
@@ -25,15 +25,15 @@ Miso-Glazed Salmon
 Ingredients
 -----------
 
-- 1 fillet of salmon, skin on, seperated into serving size pieces, approx. 2 in wide.
+- 1 fillet of salmon, skin on, separated into serving size pieces, approx. 2 in wide.
 - 2.5 tablespoons Miso Paste
 - 1.5 tablespoons Soy Sauce 
 - 1 tablespoon Sugar 
 - 1.5 tablespoon Sake (Optional) 
 - .5 tablespoon Sesame Oil
 
-Instructions
-------------
+Directions
+----------
 
 1. In the small bowl combine all ingredients but the salmon and marinate for
    20-40 minutes.

@@ -10,17 +10,17 @@ Sauce
 - 1/4 cup sambal oelek 
 - 1/4 cup soy sauce 
 - 2 teaspoon oyster sauce
-- 2 teaspoon coconut sugar (substitue brown sugar)
+- 2 teaspoon coconut sugar (substitute brown sugar)
 - 2 tablespoon tomato paste
 
 Rice
 ^^^^
 
-- 2 tablesoon vegtable oil
+- 2 tablespoon vegetable oil
 - 1 medium yellow onion diced
 - 5 cloves garlic minced
 - 1 lb stirfry beef(cut into small strips) OR 1 lb chicken breast and/or thighs. cubed
-- 2 medium carrot diced OR 1 cup shreded cabage
+- 2 medium carrot diced OR 1 cup shredded cabbage
 - 6 cups cooked rice refrigerate overnight (see notes)**
 - 2 stalk green onion chopped (optional)
 
@@ -35,7 +35,7 @@ Directions
 3. Next, stir in garlic and cook for another minute or so until fragrant.
 4. Season meat with salt and pepper and add to onions.  Cook until meat is
    browned on all sides.
-5. Add in carrot cubes (or cabage) and cook for another 3-4 minutes, or until
+5. Add in carrot cubes (or cabbage) and cook for another 3-4 minutes, or until
    they have softened slightly.
 6. Now, add in cooked rice along with sauce. Saute for 3-4 minutes, or until rice is warmed
 7. Remove from heat and stir in chopped green onion. Add some salt to taste, if needed.

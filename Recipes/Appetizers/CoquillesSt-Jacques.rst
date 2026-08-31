@@ -54,8 +54,8 @@ Directions
    brulee or burn. This is not a problem, and actually how it’s supposed
    to look.
 
-Make-a-head
------------
+Make Ahead
+----------
 
 You can make these ahead, and refrigerate until needed. To bring back to
 temperature before you broil them, preheat oven to 350°F. and bake for

@@ -39,13 +39,13 @@ Mango , Lemon, Cumin Dressing
 Directions
 ----------
 
-#. Firstly marinade the chicken. Cut the chicken into strips, place in a bowl. Add sea salt, pepper, red pepper flakes, lime juice, garlic, and olive oil. Cover and place in fridge for at least 30 minutes. You can either grill the chicken or sear it in a skillet. Chill.
-#. Meanwhile prepare the dressing; in a food processor or blender place mango, ginger, sea salt, pepper, coriander, and ground cumin. Puree for 1 minute. Slowly add the olive oil while blending. Blend in vinegar, lemon, and cilantro. Put aside. Correct seasoning if needed.
-#. In a large bowl place the rest of the ingredients together (cooked chicken can be cooled if so desired). Slowly add the dressing and toss gently.
+1. Firstly marinade the chicken. Cut the chicken into strips, place in a bowl. Add sea salt, pepper, red pepper flakes, lime juice, garlic, and olive oil. Cover and place in fridge for at least 30 minutes. You can either grill the chicken or sear it in a skillet. Chill.
+2. Meanwhile prepare the dressing; in a food processor or blender place mango, ginger, sea salt, pepper, coriander, and ground cumin. Puree for 1 minute. Slowly add the olive oil while blending. Blend in vinegar, lemon, and cilantro. Put aside. Correct seasoning if needed.
+3. In a large bowl place the rest of the ingredients together (cooked chicken can be cooled if so desired). Slowly add the dressing and toss gently.
 
 
-Note
-----
+Notes
+-----
 Carb count 5g. per serving
 
 

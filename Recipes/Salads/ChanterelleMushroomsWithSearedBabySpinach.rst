@@ -20,12 +20,12 @@ Ingredients
 Directions
 ----------
 
-#. Heat a skillet and add olive oil
-#. Add onions, season and sear for 2 minutes
-#. Add garlic and saute
-#. Add mushrooms, season and saute for 3 minutes
-#. Add white wine and reduce for 2 minutes
-#. Add peppers and saute for 1 minute, season
-#. Add spinach and sear for 1 minute, add freshly squeezed lemon juice
-#. Place on a plate and drizzle a good aged balsamic vinegar over top.
+1. Heat a skillet and add olive oil
+2. Add onions, season and sear for 2 minutes
+3. Add garlic and saute
+4. Add mushrooms, season and saute for 3 minutes
+5. Add white wine and reduce for 2 minutes
+6. Add peppers and saute for 1 minute, season
+7. Add spinach and sear for 1 minute, add freshly squeezed lemon juice
+8. Place on a plate and drizzle a good aged balsamic vinegar over top.
 

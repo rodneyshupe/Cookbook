@@ -40,8 +40,8 @@ Directions
    beans against the side of the pot. Stir in the apple cider vinegar. 
    Taste for seasoning and add salt only if necessary. Serve.
 
-Note
-----
+Notes
+-----
 
 To "Quick Soak" beans if you didn't soak them overnight: Place beans in 
 a large pot and cover with 2 inches of water. Bring to a boil for 2 

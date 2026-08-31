@@ -29,7 +29,7 @@ Ingredients
 Directions
 ----------
 
-#. combine crab meat,eggs, bread crumbs, fresh herbs, finely diced spanish onion, sweet chilli sauce, mayonnaise, salt, and pepper in a bowl and mix well. with wet hands form crab cakes and place on plate ,cover,and refridgerate for 30 minutes.meanwhile make a simple vinaigrette by adding 2 parts olive oil to 1 part vinegar. season. put aside.
-#. using canned roasted peppers,drain juice and purree for 30 seconds,season and put aside.
-#. preheat a skillet,add butter and melt. add crab cakes and cook each side until golden brown (approx 2-3 minutes each side). in a bowl add arugula, and crisps, and drizzle vinaigrette and toss. put on platter and place crab cakes around. put a portion of red pepper coulis on each cake.
-#. squeeze fresh lime juice over and garnish with fresh chives.
+1. combine crab meat,eggs, bread crumbs, fresh herbs, finely diced spanish onion, sweet chilli sauce, mayonnaise, salt, and pepper in a bowl and mix well. with wet hands form crab cakes and place on plate ,cover,and refrigerate for 30 minutes.meanwhile make a simple vinaigrette by adding 2 parts olive oil to 1 part vinegar. season. put aside.
+2. using canned roasted peppers,drain juice and puree for 30 seconds,season and put aside.
+3. preheat a skillet,add butter and melt. add crab cakes and cook each side until golden brown (approx 2-3 minutes each side). in a bowl add arugula, and crisps, and drizzle vinaigrette and toss. put on platter and place crab cakes around. put a portion of red pepper coulis on each cake.
+4. squeeze fresh lime juice over and garnish with fresh chives.

@@ -18,10 +18,10 @@ Ingredients
 
 Directions
 ----------
-#. Cook the egg noodles as per directions, drain and put aside
-#. Heat the oil and saute the onions, season
-#. Add the chicken breast, season, and saute for 3 minutes
-#. Add the chillies, saute, and add the stock, bring to a boil, and turn down to a simmer for 10 minutes
-#. Add the swiss chard, and egg noodles to the soup
-#. Adjust seasoning if needed and add freshly grated parmesan
+1. Cook the egg noodles as per directions, drain and put aside
+2. Heat the oil and saute the onions, season
+3. Add the chicken breast, season, and saute for 3 minutes
+4. Add the chillies, saute, and add the stock, bring to a boil, and turn down to a simmer for 10 minutes
+5. Add the swiss chard, and egg noodles to the soup
+6. Adjust seasoning if needed and add freshly grated parmesan
 

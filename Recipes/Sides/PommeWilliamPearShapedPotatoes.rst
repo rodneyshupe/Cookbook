@@ -23,14 +23,14 @@ Breading
 Directions
 ----------
 
-#. In a small pot add canola oil and heat to 375°F
-#. Cook potatoes in boiling, salted, water until fork tender
-#. Strain potatoes, mash and add seasoning, nutmeg, sour cream, butter and egg yolks. Blend well.
-#. Prepare breading station.
-#. Shape potatoes into pear shapes.
-#. Gently roll into flour and pat excess flour off
-#. Next add to beaten egg mixture, and finally add to breading.
-#. Spike a clove on the top of the pear shaped potatoes
-#. Place gently in canola oil until golden brown
-#. Makes 8 pear shaped potatoes
+1. In a small pot add canola oil and heat to 375°F
+2. Cook potatoes in boiling, salted, water until fork tender
+3. Strain potatoes, mash and add seasoning, nutmeg, sour cream, butter and egg yolks. Blend well.
+4. Prepare breading station.
+5. Shape potatoes into pear shapes.
+6. Gently roll into flour and pat excess flour off
+7. Next add to beaten egg mixture, and finally add to breading.
+8. Spike a clove on the top of the pear shaped potatoes
+9. Place gently in canola oil until golden brown
+10. Makes 8 pear shaped potatoes
 

@@ -32,8 +32,8 @@ Directions
    Sprinkle mozzarella evenly over ziti. Transfer skillet to oven and bake
    until cheese has melted and browned, about 10 minutes. Serve.
 
-Note
-----
+Notes
+-----
 If your skillet is not ovensafe, transfer the pasta mixture into a shallow
 2-quart casserole dish before sprinkling with the cheese and baking.
 

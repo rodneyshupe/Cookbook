@@ -35,8 +35,8 @@ Directions
    15 to 20 minutes, rotating sheet halfway through baking. Let cookies cool
    on sheets for 10 minutes before serving.
 
-Note
-----
+Notes
+-----
 To keep the cookies chewy longer, store them in an airtight container with a
 slice of sandwich bread.
 

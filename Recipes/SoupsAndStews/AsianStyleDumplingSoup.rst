@@ -7,8 +7,8 @@ Asian-Style Dumpling Soup
 
 Source: `Cooks Country <https://www.cookscountry.com/recipes/5833-asian-beef-and-noodle-soup>`__
 
-Instructions
-------------
+Ingredients
+-----------
 
 -  4 slices bacon, cut into 1/2-inch pieces
 -  3 scallions, white and green parts separated, sliced thin on bias

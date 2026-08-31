@@ -21,7 +21,7 @@ Ingredients
 - 4 cup chicken broth
 - 1 cup Masa Harina (corn flour)
 - 2 cups water
-- Kosher salt & course ground black pepper
+- Kosher salt & coarse ground black pepper
 
 For Serving
 ^^^^^^^^^^^

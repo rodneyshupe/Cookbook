@@ -16,9 +16,9 @@ Ingredients
 
 Directions
 ----------
-#. Preheat oven to 375°F. Place sweet potatoes on a baking sheet. Cook
+1. Preheat oven to 375°F. Place sweet potatoes on a baking sheet. Cook
    until fork tender. Split the potatoes with a knife and remove the
    “meat”. Place the meat in a bowl. Add lime juice, ginger, honey,
    butter, and seasoning, blend.
-#. Place in the oven for 10 minutes. Garnish with chopped parsley.
+2. Place in the oven for 10 minutes. Garnish with chopped parsley.
 

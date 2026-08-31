@@ -10,7 +10,7 @@ Ingredients
 
 - 8 oz. pork chop with bone
 - 2 teaspoons sesame oil
-- 1 tablespoon vegtable oil
+- 1 tablespoon vegetable oil
 - 4-6 green onions, greens cut into 1/2 in pieces, whites chopped thin
 - 1 cup chopped Napa cabbage kimchi with juices
 - 1 Tbsp. gochujang (Korean hot pepper paste)
@@ -34,7 +34,7 @@ Directions
 4. Add green parts of the green onion to the top of the soup and serve with
    rice.
 
-Note
-----
+Notes
+-----
 
 * Stew can be made 4 days ahead. Let cool; cover and chill.

@@ -3,6 +3,7 @@ Pickled Onions & Habaneros
 
 Ingredients
 -----------
+
 - 1 red or white onion, thinly sliced (root to stem)
 - 1 habanero, thinly sliced
 - Handful minced cilantro

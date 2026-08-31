@@ -33,8 +33,8 @@ Yield
 4 - 6 portions
 
 
-Note
-----
+Notes
+-----
 
 There are many ways to tweak this recipe! Raisins, currants, shallots,
 onions, leeks, apples, and pears are just a few things that rock in this

@@ -6,7 +6,7 @@ Source: `Guga Foods <https://www.youtube.com/watch?v=GeQGgzeSQjI>`__
 Ingredients
 -----------
 
-- 463g All Pupose Flour
+- 463g All Purpose Flour
 - 14g Yeast
 - 31g Sugar
 - 30g Nido (Milk Powder)

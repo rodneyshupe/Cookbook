@@ -20,9 +20,9 @@ Ingredients
 
 Directions
 ----------
-#. Cook pasta as per directions, rinse and strain. Put aside
-#. In a stock pot add olive oil and heat, add onion and sear for 2 minutes, season
-#. Add carrots, and celery and sear for 1 minute, season. Add stock and bring to a boil
-#. Add beaten eggs through a colander slowly, so eggs bead over stock
-#. Add fresh herbs, crushed chilli, broccoli florets, pasta, and freshly grated reggiano cheese
+1. Cook pasta as per directions, rinse and strain. Put aside
+2. In a stock pot add olive oil and heat, add onion and sear for 2 minutes, season
+3. Add carrots, and celery and sear for 1 minute, season. Add stock and bring to a boil
+4. Add beaten eggs through a colander slowly, so eggs bead over stock
+5. Add fresh herbs, crushed chilli, broccoli florets, pasta, and freshly grated reggiano cheese
 

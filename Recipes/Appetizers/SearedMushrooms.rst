@@ -1,4 +1,4 @@
-Seared Mushrooms with egg Yolk
+Seared Mushrooms with Egg Yolk
 ==============================
 
 Ingredients

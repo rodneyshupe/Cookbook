@@ -31,21 +31,21 @@ Roasted Peppers
 Directions
 ----------
 
-#. Preheat oven to 375°F
-#. Remove the top part of the pepper, (core side) making a slice across by a 1/2 “ down.
-#. Remove seeds carefully, not to break the peppers.
-#. Line baking dish with parchment paper. Place peppers and tops onto baking dish. Season the inside with salt and pepper.
-#. Blend oil, sage, garlic, seasoning, and ginger together in small bowl.
-#. Brush the inside of the peppers liberally with the sage oil.
-#. Place in the oven for approx. 10 - 12 minutes. Remove and let cool.
-#. In a bowl add ingredients B and blend well.
-#. Place the mixture inside the peppers.
-#. Place the tops of the peppers to garnish on a angle
-#. If the peppers are over roasted they will collapse , ( this is why the outer skin is not removed and they are lightly roasted).
+1. Preheat oven to 375°F
+2. Remove the top part of the pepper, (core side) making a slice across by a 1/2 “ down.
+3. Remove seeds carefully, not to break the peppers.
+4. Line baking dish with parchment paper. Place peppers and tops onto baking dish. Season the inside with salt and pepper.
+5. Blend oil, sage, garlic, seasoning, and ginger together in small bowl.
+6. Brush the inside of the peppers liberally with the sage oil.
+7. Place in the oven for approx. 10 - 12 minutes. Remove and let cool.
+8. In a bowl add ingredients B and blend well.
+9. Place the mixture inside the peppers.
+10. Place the tops of the peppers to garnish on a angle
+11. If the peppers are over roasted they will collapse , ( this is why the outer skin is not removed and they are lightly roasted).
 
 
-Note
-----
+Notes
+-----
 Carb count 8g. per serving
 
 

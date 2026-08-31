@@ -23,7 +23,7 @@ Ingredients
 - 3/4 cup Parmesan cheese, shredded 
 - 2 tablespoons butter
 - 1 cup Panko breadcrumbs
-- 2 tablespoons finely chopped curly parsely
+- 2 tablespoons finely chopped curly parsley
 
 Directions
 ----------

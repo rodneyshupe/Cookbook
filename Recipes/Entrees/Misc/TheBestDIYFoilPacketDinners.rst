@@ -75,7 +75,7 @@ Step 4: Spice It Up
 ^^^^^^^^^^^^^^^^^^^
 Beyond the absolute must of salt and pepper, you can add just about anything.
 Fresh or dried herbs such as thyme, rosemary, Basil, oregano. Try spices like
-garlic powder, smoked paprika, cumin, chili powder, tumeric, or even cinnamon.
+garlic powder, smoked paprika, cumin, chili powder, turmeric, or even cinnamon.
 Sauce it up with a sweet BBQ sauce, steak sauce or add a dash of
 Worcestershire. Wine, citrus, stock, sambal olek, sriracha, or soy sauce all
 add a tasty umami to the dinner.

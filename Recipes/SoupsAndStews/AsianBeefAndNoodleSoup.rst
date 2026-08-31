@@ -8,8 +8,8 @@ Asian Beef and Noodle Soup
 Source: `Cooks Country <https://www.cookscountry.com/recipes/5833-asian-beef-and-noodle-soup>`__
 
 
-Instructions
-------------
+Ingredients
+-----------
 
 -  8 cups low-sodium chicken broth
 -  1 tablespoon grated fresh ginger

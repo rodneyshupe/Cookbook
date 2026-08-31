@@ -38,12 +38,12 @@ Blend the olive, walnut oil, lime juice, passion fruit juice and seeds and chill
 Salad
 ^^^^^
 
-#. Arrange the mixed greens on a plate.
-#. Gently combine the avocado, lobster, and celery with the dressing, pile onto the greens and serve.
+1. Arrange the mixed greens on a plate.
+2. Gently combine the avocado, lobster, and celery with the dressing, pile onto the greens and serve.
 
 
-Note
-----
+Notes
+-----
 Carb count 4.7g. per serving
 
 

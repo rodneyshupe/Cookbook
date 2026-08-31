@@ -19,7 +19,7 @@ Ingredients
 Directions
 ----------
 
-1. Disolve Prague Powder in water and liquid smoke. Blend together with
+1. Dissolve Prague Powder in water and liquid smoke. Blend together with
    other dry ingredients, corn syrup, and meat.
 2. Using Jerky gun create sticks using round tip.
 3. Dehydrate 4 1/2 - 5 hours on high setting.

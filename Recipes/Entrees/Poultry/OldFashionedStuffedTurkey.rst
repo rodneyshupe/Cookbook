@@ -83,8 +83,8 @@ Directions
    165°F and top is golden brown, about 15 minutes. Carve turkey and
    serve with stuffing and `Turkey Gravy <#turkey-gravy>`__.
 
-Note
-----
+Notes
+-----
 
 To roast a kosher or self-basting turkey (such as a frozen Butterball),
 do not salt it in step 1.

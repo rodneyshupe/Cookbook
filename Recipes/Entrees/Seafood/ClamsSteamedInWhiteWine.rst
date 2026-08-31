@@ -29,8 +29,8 @@ Directions
 3. Pour sauce over clams, sprinkle with parsley, and serve immediately with
    lemon wedges.
 
-Note
-----
+Notes
+-----
 For 1-2 servicng reduce clams to 1 pound per person and half the other
 ingredients.  Use a sauce pan instead of the dutch oven.
 

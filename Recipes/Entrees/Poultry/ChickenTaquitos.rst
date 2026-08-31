@@ -9,7 +9,7 @@ Ingredients
 - 1-2 tablespoons chipotle peppers, finely minced
 - 1/2 cup Monterey Jack cheese, shredded
 - 12 small flour tortillas
-- Vegtable Oil
+- Vegetable Oil
 
 For Serving
 ^^^^^^^^^^^

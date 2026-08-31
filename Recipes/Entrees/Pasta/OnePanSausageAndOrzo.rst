@@ -22,7 +22,7 @@ Ingredients
 Directions
 ----------
 1. In a large skillet heat oil over medium high heat.  Add sausage and begin 
-   to cook until cooked half way through stiring often.  Add onion and bell
+   to cook until cooked half way through stirring often.  Add onion and bell
    pepper and cook until onions are translucent but not started to brown.
 2. Add orzo, garlic, pepper flakes, and paprika, and stir until orzo is 
    coated in the oils from the sausage.

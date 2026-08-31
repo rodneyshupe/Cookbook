@@ -29,8 +29,8 @@ Directions
 7. Smoke at approx 160°F for 4 hours with Apple (or Maple) wood.
 
 
-Note
-----
+Notes
+-----
 
 If you want a really sweet Indian Candy, glaze the salmon with the
 following syrup. Heat 4oz red wine and 4oz dark rum, in a sauce pan. Add

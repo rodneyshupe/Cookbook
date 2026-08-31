@@ -1,6 +1,9 @@
 Spicy Barbecue Sauce
 ====================
 
+Ingredients
+-----------
+
 - 3 tablespoons favorite BBQ Sauce (Bullseye Original works well)
 - 1 1/2 tablespoons gochujang
 - 1 tablespoons beer

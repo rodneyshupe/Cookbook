@@ -56,4 +56,4 @@ Directions
    spaghetti) until the spaghetti is coated in the sauce and cooked. If you
    run out of tomato broth, you can add a little water. Note when finished,
    this dish is relatively dry and crispy, not saucy.
-7. If using basil stir in and serve topped with parmasean.
+7. If using basil stir in and serve topped with parmesan.

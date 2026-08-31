@@ -22,8 +22,8 @@ Ingredients
 Directions
 ----------
 
-#. Heat the olive oil in a skillet, add the onions, season, and sear for 2 minutes.
-#. Add garlic, ginger, cumin, green chili, and turmeric powder, cook for 1 minute
-#. Add the prawns, season, and cook for approx. 4-5 minutes
-#. Add the spinach, cilantro, and mint, season, and cook for an additional 2-3 minutes
-#. Before serving add garam masala
+1. Heat the olive oil in a skillet, add the onions, season, and sear for 2 minutes.
+2. Add garlic, ginger, cumin, green chili, and turmeric powder, cook for 1 minute
+3. Add the prawns, season, and cook for approx. 4-5 minutes
+4. Add the spinach, cilantro, and mint, season, and cook for an additional 2-3 minutes
+5. Before serving add garam masala

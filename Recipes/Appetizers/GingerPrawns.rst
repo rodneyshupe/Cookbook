@@ -23,8 +23,8 @@ Ingredients
 Directions
 ----------
 
-#. Heat the olive oil in a wok or saute pan over med. - high heat
-#. Add the garlic and ginger and stir fry for 30 seconds, season
-#. Add celery, walnut oil, daikon, sweet chilli sauce, soy sauce, season, and saute for 2 minutes
-#. Add the prawns and saute for 2-3 minutes. Add lime juice, and white wine, reduce for 1-2 minutes.
-#. Correct seasoning if required, and add parsely, saute for 30 seconds.
+1. Heat the olive oil in a wok or saute pan over med. - high heat
+2. Add the garlic and ginger and stir fry for 30 seconds, season
+3. Add celery, walnut oil, daikon, sweet chilli sauce, soy sauce, season, and saute for 2 minutes
+4. Add the prawns and saute for 2-3 minutes. Add lime juice, and white wine, reduce for 1-2 minutes.
+5. Correct seasoning if required, and add parsley, saute for 30 seconds.

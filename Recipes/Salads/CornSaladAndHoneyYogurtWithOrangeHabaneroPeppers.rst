@@ -30,9 +30,9 @@ Ingredients for salad
 Directions
 ----------
 
-#. Prepare the dressing by combining all the ingredients in a bowl
-#. Put the vegetables in a large bowl
-#. Pour the dressing into the main ingredients, and toss
-#. Chill and serve cold (can be served on a bed of crisp greens)
+1. Prepare the dressing by combining all the ingredients in a bowl
+2. Put the vegetables in a large bowl
+3. Pour the dressing into the main ingredients, and toss
+4. Chill and serve cold (can be served on a bed of crisp greens)
 
 

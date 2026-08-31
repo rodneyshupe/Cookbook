@@ -10,8 +10,8 @@ Ingredients
 -  4 tablespoons `teriyaki sauce <#teriyaki-sauce>`__
 -  Optional seasoning pepper
 
-Preparation
------------
+Directions
+----------
 
 Using your hands, mix all ingredients into the ground meat evenly and
 thoroughly. Place in refrigerator overnight. Next morning, using a jerky

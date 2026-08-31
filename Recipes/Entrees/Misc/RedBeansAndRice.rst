@@ -42,8 +42,8 @@ Directions
 6. Serve immediately, topped with rice and garnished with parsley, if
    desired.
 
-Note
-----
+Notes
+-----
 
 * If substituting red bean for red kidney beans, flavour will be slightly
   off.

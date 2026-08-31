@@ -20,13 +20,13 @@ Ingredients
 Directions
 ----------
 
-#. Preheat oven to 40°F.
-#. Combine flour, sugar, baking soda, backing powder, and salt in a large bowl; stir well, and make a well in the centre of mixture.
-#. Combine orange juice, oil, vanilla extract, yogurt and egg in a bowl; stir well. Add to flour mixture, stirring just until moist. Gently fold in cranberries and white chocolate chips.
-#. Divide batter evenly among 12 muffin cups coated with cooking spray. Bake at 40°F for 18 minutes or until golden.
-#. Remove from pans immediately; let cool on a wire rack.
+1. Preheat oven to 400°F.
+2. Combine flour, sugar, baking soda, baking powder, and salt in a large bowl; stir well, and make a well in the centre of mixture.
+3. Combine orange juice, oil, vanilla extract, yogurt and egg in a bowl; stir well. Add to flour mixture, stirring just until moist. Gently fold in cranberries and white chocolate chips.
+4. Divide batter evenly among 12 muffin cups coated with cooking spray. Bake at 400°F for 18 minutes or until golden.
+5. Remove from pans immediately; let cool on a wire rack.
 
-Note
-----
+Notes
+-----
 Variation: Substitute cranberries and white chocolate chips with blueberries.
 

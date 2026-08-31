@@ -7,7 +7,7 @@ Ingredients
 Marinade
 ^^^^^^^^
 
-- 2 tablepoons olive oil
+- 2 tablespoons olive oil
 - 2 teaspoons lemon juice
 - 2 teaspoons oregano
 - 1 teaspoon seasoning salt

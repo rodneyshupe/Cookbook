@@ -17,15 +17,15 @@ Ingredients
 
 Directions
 ----------
-#. Preheat oven to 400°F. Place potatoes onto a baking sheet and into
+1. Preheat oven to 400°F. Place potatoes onto a baking sheet and into
    the oven. Cook until fork tender.  Remove from the oven and let cool
    slightly (5 minutes)
-#. Meanwhile heat a skillet, add bacon, and saute until golden. Add
+2. Meanwhile heat a skillet, add bacon, and saute until golden. Add
    onions, season, and saute until golden. Remove any excess oil. Set aside.
-#. Slice the potatoes across the top about a 1/4 down. Remove most of
+3. Slice the potatoes across the top about a 1/4 down. Remove most of
    the centre. Place in a bowl, add onions, bacon, butter, seasoning,
    sour cream, and parsley. Mix.
-#. Pipe the mixture back into the potato (using a piping bag and star tip)
-#. Brush the top with a beaten egg yolk.
-#. Place in the oven for 10 minutes or until golden on top.
+4. Pipe the mixture back into the potato (using a piping bag and star tip)
+5. Brush the top with a beaten egg yolk.
+6. Place in the oven for 10 minutes or until golden on top.
 

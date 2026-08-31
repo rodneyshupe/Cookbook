@@ -16,7 +16,7 @@ Ingredients
 - 4 garlic clove, minced
 - 3 tablespoons tomato paste
 - 1 3/4 cups water
-- 2 teaspoons maggi sauce (substitutue half soy sauce and half worcestershire sauce)
+- 2 teaspoons maggi sauce (substitute half soy sauce and half worcestershire sauce)
 - 1/2 teaspoon table salt
 
 Directions

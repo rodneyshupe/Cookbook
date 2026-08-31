@@ -42,8 +42,8 @@ Directions
 9. Carve the roast, trimming off the rib bones and slicing into six equal
    portions. Serve with beef jus.
 
-Note
-----
+Notes
+-----
 
 Make this a meal by serving with sauteed chanterelle mushrooms,
 `Pop Overs <#pop-overs>`__ or

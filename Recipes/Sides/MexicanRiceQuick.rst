@@ -3,7 +3,7 @@ Quick Mexican Rice
 
 Ingredients
 -----------
-- 1 tablespoon vegteble oil
+- 1 tablespoon vegetable oil
 - 1 tablespoon butter
 - 1 medium onion, diced
 - 1 cup long-grain white rice

@@ -56,8 +56,8 @@ Directions
 7. Brush garlic-butter all over focaccia and slice into squares or
    rectangles.
 
-Note
-----
+Notes
+-----
 
 Variation: The called for 13x9" baking pan creates a thicker focaccia
 that’s perfect for sandwiches. Alternatively use a 18x13" rimmed baking

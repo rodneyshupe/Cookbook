@@ -36,6 +36,6 @@ Variation
 ---------
 
 Add 2 cups shredded chicken towards the end of step 3, when returning
-pureed soup to the pan to reheat. For shedding the chicken; boil in
-water for 10-12 minutes, then shred with 2°Forks.
+pureed soup to the pan to reheat. For shredding the chicken; boil in
+water for 10-12 minutes, then shred with 2 forks.
 

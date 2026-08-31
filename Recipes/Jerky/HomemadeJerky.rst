@@ -12,15 +12,15 @@ Ingredients
    type works best
 -  Marinade
 
-Preparation
------------
+Directions
+----------
 
 1. **Meat**: Trim as much of the fat off as possible. Slice the meat
    with the grain into 3-6 mm (1/8" - 1/4“) thick strips. You may use
    any cut of meat you like but remember that meat with a high fat
    content will become rancid faster. Top round steak or flank steak
    work well. To save time you can buy eye of round rouladin cut. Also
-   to make slicing easier partially freeze meet for 2-3 hours. In the
+   to make slicing easier partially freeze meat for 2-3 hours. In the
    case of tough cuts or wild game you may want to also pound with a
    mallet.
 2. **Marinade**: Combine the Marinade ingredients and coat strips of

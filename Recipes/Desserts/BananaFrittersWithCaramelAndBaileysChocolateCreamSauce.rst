@@ -17,7 +17,7 @@ Banana Fritters
 - 3/4 cup Soda Water
 - 4 Bananas, cut into quarters
 - Canola oil
-- Vanila gelato
+- Vanilla gelato
 
 Chocolate Cream Sauce
 ^^^^^^^^^^^^^^^^^^^^^
@@ -28,18 +28,18 @@ Chocolate Cream Sauce
 Directions
 ----------
 
-#. In a large cooking pot or wok add canola oil, heat to 375°F.
+1. In a large cooking pot or wok add canola oil, heat to 375°F.
    (Checked with a thermometer)
-#. Prepare caramel sauce; Combine all the ingredients in a small pan and
+2. Prepare caramel sauce; Combine all the ingredients in a small pan and
    stir until the sugar has dissolved and the butter has melted. Bring
    to a boil, reduce the heat and simmer for 2 minutes. Set aside.
-#. Prepare chocolate cream sauce; Melt the chocolate in a double boiler
+3. Prepare chocolate cream sauce; Melt the chocolate in a double boiler
    Add the liqueur, blend. Add the whipping cream and blend. Set aside.
-#. Sift the flour into a bowl. Make a well and add the egg and soda water
+4. Sift the flour into a bowl. Make a well and add the egg and soda water
    all at once. Stir until all the liquid is incorporated and the batter
    is free of lumps.
-#. Dip the bananas in the batter a few pieces at a time. Gently lower the
+5. Dip the bananas in the batter a few pieces at a time. Gently lower the
    bananas into the oil and cook until golden brown.remove with a slotted
    spoon and drain on paper towels and keep warm.
-#. Serve the fritters with the gelato, and drizzle the two sauces over.
+6. Serve the fritters with the gelato, and drizzle the two sauces over.
 

@@ -28,16 +28,17 @@ Directions
    until thoroughly blended. Spoon mixture onto a work surface covered with
    plastic wrap; gather plastic around cheese, using your hands shape into
    a ball. Chill in plastic wrap until firm, about 2 hours.
-1. Meanwhile, stir together pecans, maple syrup, oil, smoked paprika, and
+3. Meanwhile, stir together pecans, maple syrup, oil, smoked paprika, and
    salt in a small bowl until evenly coated; spread in an even layer on
    prepared baking sheet.
-2. Bake until browned, about 9-12 minutes, stirring every 3 minutes. Place
+4. Bake until browned, about 9-12 minutes, stirring every 3 minutes. Place
    baking sheet on a wire rack, and cool completely, about 30 minutes.
    Finely chop pecans.
-3. Stir together chopped pecans and remaining 1 tablespoon chives in a
+5. Stir together chopped pecans and remaining 1 tablespoon chives in a
    medium bowl. Roll cheese ball in pecan mixture to coat; pressing lightly
    to adhere. Serve with crackers.
 
 Notes
 -----
-This cheese ball can be made up to 2 days in advance. Store in an airtight.   
+This cheese ball can be made up to 2 days in advance. Store in an airtight
+container in the refrigerator.   

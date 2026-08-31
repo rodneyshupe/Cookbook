@@ -19,7 +19,7 @@ Directions
 
 1. Adjust oven rack to middle position and heat oven to 375°F. Line 2
    rimmed baking sheets with parchment paper. Whisk flour, salt, baking
-   soda and backing powder together in medium bowl; set aside.
+   soda and baking powder together in medium bowl; set aside.
 2. In a large bowl mix together sugar and margarine until combined. Add
    in eggs and vanilla and combine until mixture is smooth.
 3. Using wooden spoon or spatula, stir in flour mixture until fully

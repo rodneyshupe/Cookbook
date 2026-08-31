@@ -43,5 +43,5 @@ Directions
    over meat and vegetables in slow cooker, then carefully stir. Tuck in
    herbs, close lid and cook on LOW for 7-8 hours or on HIGH for 4 hours.
 4. Thicken: Open slow cooker and carefully stir. Pour in cornstarch slurry,
-   stirring to combine well. Simmer WITHOUT the lid for 15-30 minuets on
+   stirring to combine well. Simmer WITHOUT the lid for 15-30 minutes on
    HIGH, until thickened.

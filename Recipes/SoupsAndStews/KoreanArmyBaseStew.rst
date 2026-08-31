@@ -52,8 +52,8 @@ Directions
 4. Start dishing out soup, protein and vegetables onto your own soup bowl.
    Serve with steamed rice (and with other Korean side dishes).
 
-Note
-----
+Notes
+-----
 
 For the stock, you can use water or bone broth or even chicken stock.  I use
 1 cup chicken stock, 1 cup beef stock and 2 cups of water and that works well.

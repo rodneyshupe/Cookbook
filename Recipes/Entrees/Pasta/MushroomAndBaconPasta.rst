@@ -31,8 +31,8 @@ Directions
    Add bacon to pan and cook until crisp.  Remove bacon from pan using a
    slotted spoon and reserve.
 3. Heat remaining bacon fat over high heat until smoking, and add
-   mushrooms. Cook, stiring frequently until mushrooms have given all
-   thier liquid.  Remove from heat and add garlic and shallots. These
+   mushrooms. Cook, stirring frequently until mushrooms have given all
+   their liquid.  Remove from heat and add garlic and shallots. These
    will cook in the residual heat.
 4. Return to medium high heat, add wine and reduce till wine is almost
    gone.

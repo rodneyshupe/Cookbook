@@ -35,8 +35,8 @@ Directions
    taste.
 
 
-Make-a-head
------------
+Make Ahead
+----------
 
 After cooking, the beans can be cooled to room temperature and
 refrigerated, wrapping tightly in plastic wrap, for up to 4 days. Reheat

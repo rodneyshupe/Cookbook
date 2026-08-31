@@ -15,7 +15,8 @@ Ingredients
 - 4 garlic cloves, thinly sliced
 - 2 jalapeños, seeded and thinly sliced into rounds
 - 2 banana peppers, seeded and thinly sliced into rounds
-- 1 tablespoon ground cumin1 tablespoon dried oregano
+- 1 tablespoon ground cumin
+- 1 tablespoon dried oregano
 - 2 teaspoons ground coriander
 - 2 cans (540ml each) white kidney beans, drained and rinsed
 - 1 can (127ml) chopped green chillies

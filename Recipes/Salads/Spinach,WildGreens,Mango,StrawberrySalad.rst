@@ -31,8 +31,8 @@ Vinaigrette
 Directions
 ----------
 
-#. Simply place all the ingredients with the exception of the olive oil and balsamic in a large bowl.
-#. Whisk the olive oil and balsamic together. Drizzle into the salad, and toss well. Correct seasoning if needed.
-#. Place onto salad plates
+1. Simply place all the ingredients with the exception of the olive oil and balsamic in a large bowl.
+2. Whisk the olive oil and balsamic together. Drizzle into the salad, and toss well. Correct seasoning if needed.
+3. Place onto salad plates
 
 

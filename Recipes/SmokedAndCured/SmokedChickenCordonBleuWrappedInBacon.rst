@@ -25,15 +25,15 @@ Directions
 5. Preheat smoker to 250°F and smoke for 2 hours with Hickory.
 
 
-Make-a-head
------------
+Make Ahead
+----------
 
 Can be prepared in advance (and frozen even frozen) then re-heated in a
 200°F oven for 30 minutes.
 
 
-Note
-----
+Notes
+-----
 
 Can also be enjoyed served cold, sliced with salad or makes a delicious
 sandwich.

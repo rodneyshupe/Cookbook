@@ -16,7 +16,7 @@ Ingredients
 - 1/2 tablespoon italian parsley
 - 1/2 tablespoon salt
 - 1/2 tablespoon ground pepper
-- 1/2 cup sundried tomatos
+- 1/2 cup sundried tomatoes
 - 3/4 cup red bell pepper, roughly chopped
 - 1/2 cup sweet onions, roughly chopped
 - 3 garlic cloves

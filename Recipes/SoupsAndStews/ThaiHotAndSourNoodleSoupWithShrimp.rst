@@ -8,8 +8,8 @@ Thai Hot and Sour Noodle Soup with Shrimp (Guay Tiew Tom Yum Goong)
 Source: `Cooks Country <https://www.cookscountry.com/recipes/5833-asian-beef-and-noodle-soup>`__
 
 
-Instructions
-------------
+Ingredients
+-----------
 
 - 4 ounces rice vermicelli
 - 2 lemon grass stalks, trimmed to bottom 6 inches

@@ -22,7 +22,7 @@ Directions
 3. Gradually add sugars, beating at medium speed until well blended.
 4. Add vanilla and egg white; beat well. stir in flour mixture.
 5. Turn dough out onto wax paper; shape into a 6" log. wrap log in wax paper; freeze 3 hours.
-6. Preheat oven to 35°F.
-7. Cut log into 24 (1/4" thick) slices. place slices 1" apart on a baking sheet coated with cooking spray. Bake at 35°F for 8 minutes.
+6. Preheat oven to 350°F.
+7. Cut log into 24 (1/4" thick) slices. place slices 1" apart on a baking sheet coated with cooking spray. Bake at 350°F for 8 minutes.
 8. Remove cookies from pan, and let cool on wire rack.
 

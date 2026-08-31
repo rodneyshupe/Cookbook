@@ -30,7 +30,7 @@ Directions
 3. Pour pickling liquid over carrots to cover. Let cool; cover and chill
    at least 24 hours.
 
-Note
-----
+Notes
+-----
 
 Carrots can be pickled 5 days ahead. Keep chilled.

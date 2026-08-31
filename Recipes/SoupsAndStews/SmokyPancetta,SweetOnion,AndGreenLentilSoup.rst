@@ -16,9 +16,9 @@ Ingredients
 
 Directions
 ----------
-#. In a large saucepan, heat 3 tbsp. Olive oil, add onions, saute and season.
-#. Add the stock and bring to a boil, add the lentils, and turn down to a
+1. In a large saucepan, heat 3 tbsp. Olive oil, add onions, saute and season.
+2. Add the stock and bring to a boil, add the lentils, and turn down to a
    simmer, season.
-#. In a separate sauce pan, fry the pancetta until crispy, add to the soup
-   Garnish with parsely
+3. In a separate sauce pan, fry the pancetta until crispy, add to the soup.
+   Garnish with parsley.
 

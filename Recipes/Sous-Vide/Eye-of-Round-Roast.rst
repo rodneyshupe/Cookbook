@@ -27,8 +27,8 @@ Directions
    flame until browned. Slice and serve.
 
 
-Note
-----
+Notes
+-----
 
 Make this a meal by topping with `All-Purpose Gravy <#all-purpose-gravy>`__
 and serving with `Pop Overs <#pop-overs>`__,

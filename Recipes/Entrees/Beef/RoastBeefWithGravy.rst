@@ -49,8 +49,8 @@ Directions
 5. CARVE Remove kitchen twine from roast. Thinly slice roast crosswise
    against grain. Serve with gravy.
 
-Note
-----
+Notes
+-----
 - You can substitute the beef consume and water with 8 cups beef broth reduced
   to 4 cups.
 - Serve with `Mashed Potatoes <#mashed-potatoes>`__. or `Pop Overs <#pop-overs>`__.

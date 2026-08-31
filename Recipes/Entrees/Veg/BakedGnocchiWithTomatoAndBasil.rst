@@ -35,8 +35,8 @@ Directions
    with mozzarella and bake until cheese is well browned, about 8 minutes.
    Serve.
 
-Note
-----
+Notes
+-----
 If you do not have an ovensafe skillet, in step 3 transfer the gnocchi to a
 casserole dish for baking.
 

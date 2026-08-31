@@ -15,7 +15,7 @@ Ingredients
 -  1/2 teaspoon cayenne pepper
 -  1 1/2 teaspoons garlic powder
 
-Note
-----
+Notes
+-----
 Enough for one rack of ribs on both sides. Use liberally, none should be left over.
 

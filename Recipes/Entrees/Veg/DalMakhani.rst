@@ -21,8 +21,8 @@ Ingredients
 - Salt to taste
 - Fresh cilantro, chopped, for garnish (optional)
 
-Instructions
-------------
+Directions
+----------
 
 1. Rinse the red lentils and kidney beans thoroughly. You can soak them for
    a few hours or overnight for faster cooking, but it's not essential with

@@ -1,8 +1,8 @@
 Grilled Lobster
 ===============
 
-Instructions
-------------
+Ingredients
+-----------
 
 - 6 tablespoons unsalted butter (3/4 stick), melted
 - 2 medium cloves garlic, minced or pressed through a garlic press (about 2 teaspoons)

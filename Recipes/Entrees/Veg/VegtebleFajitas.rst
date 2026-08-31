@@ -1,5 +1,5 @@
-Vegtable Fajitas
-================
+Vegetable Fajitas
+=================
 
 +-----------------+-------------------+----------+
 | Prep: 5 minutes | Total: 15 minutes | Yield: 4 |

@@ -23,8 +23,8 @@ Directions
 3. Over medium to medium high heat whisk ingredients for 20 minutes. Be
    careful not to let the mixture boil.
 
-Make-a-head
------------
+Make Ahead
+----------
 
 May be stored in the refrigerator in a sealed container for 1-2 weeks.
 

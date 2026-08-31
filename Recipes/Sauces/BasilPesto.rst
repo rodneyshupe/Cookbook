@@ -12,10 +12,10 @@ Ingredients
 
 - 1/4 cup pine nut, toasted (or substitute almonds or walnuts)
 - 3 garlic clove, unpeeled
-- 2 cups packed fresh basil leafNone
-- 2 tablespoons fresh parsley leaves(optional)
-- 1/4 cup plus 3 tablespoons extra-virgin olive oilNone
-- 1/2 teaspoon saltNone
+- 2 cups packed fresh basil leaves
+- 2 tablespoons fresh parsley leaves (optional)
+- 1/4 cup plus 3 tablespoons extra-virgin olive oil
+- 1/2 teaspoon salt
 - 1/4 cup finely grated Parmesan cheese or Pecorino Romano
 
 Directions

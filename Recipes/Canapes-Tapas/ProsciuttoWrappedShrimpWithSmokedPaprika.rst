@@ -33,8 +33,8 @@ Directions
 4. Broil until the shrimp are opaque and the prosciutto (or pancetta) is
    crisp, about 3 to 4 minutes.
 
-Make-a-head
------------
+Make Ahead
+----------
 
 The shrimp can be made through step 3 and refrigerated uncovered for up
 to 6 hours.

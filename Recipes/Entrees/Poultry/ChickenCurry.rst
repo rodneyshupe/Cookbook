@@ -39,8 +39,8 @@ Directions
 5. Stir in frozen peas and cook for 2 minutes. Garnish with cilantro and 
    a squeeze of lime. Serve over rice or with flatbread.
 
-Note
-----
+Notes
+-----
 
 For a creamier, thicker sauce, use full-fat coconut milk. If you prefer 
 extra heat, add 1/4 teaspoon of cayenne pepper or a chopped serrano 

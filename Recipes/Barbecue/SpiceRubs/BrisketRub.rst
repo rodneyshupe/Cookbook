@@ -17,6 +17,6 @@ Ingredients
 -  1 tablespoon Chili Seasoning
 -  1-1/2 teaspoon Ground Ginger
 -  1/2 teaspoon Garlic powder
--  1/2 teaspoon ground Corriander
+-  1/2 teaspoon ground Coriander
 -  1/2 teaspoon ground Cloves
 

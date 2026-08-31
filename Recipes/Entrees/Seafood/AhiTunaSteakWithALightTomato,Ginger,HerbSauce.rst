@@ -31,13 +31,13 @@ Tomato herb sauce
 
 Directions
 ----------
-#. Preheat oven to 375°F. Make little incisions in the tuna and insert, garlic, mint, and cilantro. Season both sides of the steak.
-#. Prepare the sauce; remove the cores of the tomatoes, and make a criss-cross incision on the bottom of the tomato. Place tomatoes in salted, boiling water for approx. 1 minute. Remove and place in ice water. Peel the skin off and cut around the tomato discarding the seeds and centre part. Dice the tomatoes.
-#. Heat a skillet, add olive oil, add onions, season, and saute for 1 minute. Add the garlic and ginger, season, and saute for 1 minute. Add the wine, and reduce for 1 minute. Add the tomatoes, lemon juice, chillies, and season, cook an additional minute. Put aside.
-#. Heat a skillet, add olive oil. Add the tuna steaks and sear each side for 1-2 minutes.
-#. Transfer into a casserole dish and top with tomato sauce. Bake in oven for approx. 10- 15 minutes depending on desired temp.
-#. Top with fresh chopped parsley, and serve with seasonal veggies.
+1. Preheat oven to 375°F. Make little incisions in the tuna and insert, garlic, mint, and cilantro. Season both sides of the steak.
+2. Prepare the sauce; remove the cores of the tomatoes, and make a criss-cross incision on the bottom of the tomato. Place tomatoes in salted, boiling water for approx. 1 minute. Remove and place in ice water. Peel the skin off and cut around the tomato discarding the seeds and centre part. Dice the tomatoes.
+3. Heat a skillet, add olive oil, add onions, season, and saute for 1 minute. Add the garlic and ginger, season, and saute for 1 minute. Add the wine, and reduce for 1 minute. Add the tomatoes, lemon juice, chillies, and season, cook an additional minute. Put aside.
+4. Heat a skillet, add olive oil. Add the tuna steaks and sear each side for 1-2 minutes.
+5. Transfer into a casserole dish and top with tomato sauce. Bake in oven for approx. 10- 15 minutes depending on desired temp.
+6. Top with fresh chopped parsley, and serve with seasonal veggies.
 
-Note
-----
+Notes
+-----
 Carb count; 8 g. per serving

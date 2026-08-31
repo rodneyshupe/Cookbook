@@ -21,10 +21,10 @@ Ingredients
 - 1 pound large prawns, peeled and deveined (deveining optional)
 - 1/2 cup chopped fresh parsley
 - Salt and freshly ground black pepper, to taste
-- crusty beard for serving.
+- crusty bread for serving.
 
-Instructions
-------------
+Directions
+----------
 
 1. Heat olive oil in a large pot or Dutch oven over medium heat. Add chorizo
    sausage and cook until lightly browned, about 5 minutes. Remove chorizo
