@@ -1,9 +1,11 @@
 Salsa Roja
 ==========
 
-Source: `Cooks Country <https://www.cookscountry.com/recipes/9411-salsa-roja>`__
++------------------------------+-----------------------------+-------------------------+
+| Prep Time: 10 minutes (est.) | Cook Time: 5 minutes (est.) | Yield: about 1 1/2 cups |
++------------------------------+-----------------------------+-------------------------+
 
-Yield: about 1 1/2 cups
+Source: `Cooks Country <https://www.cookscountry.com/recipes/9411-salsa-roja>`__
 
 Ingredients
 -----------

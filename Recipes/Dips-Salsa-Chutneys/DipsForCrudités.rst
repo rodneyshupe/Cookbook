@@ -1,6 +1,10 @@
 Dips for Crudités
 =================
 
++------------------------------+--------------------------------------+-------------------------------+
+| Prep Time: 10 minutes (est.) | Total Time: 1 hour 10 minutes (est.) | Yield: 1 1/2 cups each (est.) |
++------------------------------+--------------------------------------+-------------------------------+
+
 Each combination makes 1 1/2 cups
 
 - Combine all ingredients in medium bowl until smooth and creamy. Transfer
