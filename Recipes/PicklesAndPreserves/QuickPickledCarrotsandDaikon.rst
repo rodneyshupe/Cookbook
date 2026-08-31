@@ -1,6 +1,10 @@
 Quick Pickled Carrots and Daikon
 ================================
 
++------------------------------+-----------------------------+----------------------------+----------------------------+
+| Prep Time: 15 minutes (est.) | Cook Time: 5 minutes (est.) | Total Time: 4 hours (est.) | Yield: about 3 cups (est.) |
++------------------------------+-----------------------------+----------------------------+----------------------------+
+
 Source: `My Korean Kitchen <https://mykoreankitchen.com/pickled-carrots-and-daikon-radish/>`__
 
 Super easy and quick pickled carrots and daikon recipe.

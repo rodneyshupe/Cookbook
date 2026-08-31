@@ -1,6 +1,10 @@
 Pickled Onions & Habaneros
 ==========================
 
++------------------------------+----------------------------+
+| Prep Time: 10 minutes (est.) | Yield: about 2 cups (est.) |
++------------------------------+----------------------------+
+
 Ingredients
 -----------
 
@@ -10,8 +14,6 @@ Ingredients
 - Juice of 1 lime
 - Pinch of salt
 - Pinch of sugar (optional)
-
-
 
 Directions
 ----------
