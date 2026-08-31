@@ -1,6 +1,10 @@
 Ahi Tuna Steak with a Light Tomato, Ginger, Herb Sauce
 ======================================================
 
++------------------------------+------------------------------+--------------------------+
+| Prep Time: 25 minutes (est.) | Cook Time: 20 minutes (est.) | Yield: 4 servings (est.) |
++------------------------------+------------------------------+--------------------------+
+
 Ingredients
 -----------
 
@@ -13,7 +17,6 @@ Tuna
 - 2 tablespoon cilantro, leaves
 - 2 tablespoon mint, leaves
 - extra virgin olive oil
-
 
 Tomato herb sauce
 ^^^^^^^^^^^^^^^^^

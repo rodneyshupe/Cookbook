@@ -1,6 +1,10 @@
 Oven-Steamed Mussels
 ====================
 
++------------------------------+------------------------------+---------------------+
+| Prep Time: 15 minutes (est.) | Cook Time: 20 minutes (est.) | Yield: 2-4 servings |
++------------------------------+------------------------------+---------------------+
+
 Ingredients
 -----------
 
@@ -29,11 +33,6 @@ Directions
    center and whisk until melted. Discard thyme sprigs and bay leaves,
    sprinkle parsley over mussels, and toss to combine. Serve
    immediately.
-
-Yield:
-------
-
-Serves 2 - 4
 
 Variations
 ----------

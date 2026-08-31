@@ -1,6 +1,10 @@
 Two-Step Boiled Viet-Cajun Spot Prawns
 ======================================
 
++------------------------------+------------------------------+--------------------------+
+| Prep Time: 15 minutes (est.) | Cook Time: 10 minutes (est.) | Yield: 4 servings (est.) |
++------------------------------+------------------------------+--------------------------+
+
 Ingredients
 -----------
 - 3/4 cup softened butter to spread

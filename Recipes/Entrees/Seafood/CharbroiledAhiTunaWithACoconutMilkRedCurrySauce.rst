@@ -1,7 +1,9 @@
 Charbroiled Ahi Tuna with a Coconut milk Red Curry sauce
 ========================================================
 
-Yield: 4 servings
++------------------------------+------------------------------+-------------------+
+| Prep Time: 20 minutes (est.) | Cook Time: 30 minutes (est.) | Yield: 4 servings |
++------------------------------+------------------------------+-------------------+
 
 Ingredients
 -----------
