@@ -1,10 +1,18 @@
 Bresaola
 ========
 
++-----------------------+--------------------+---------------------+-----------------------------------+
+| Prep Time: 20 minutes | Cure Time: 2 weeks | Dry Time: 4-8 weeks | Yield: about 1 1/4 lbs cured beef |
++-----------------------+--------------------+---------------------+-----------------------------------+
+
 Northern Italian specialty air-dried beef, also known as Viande des Grisons
 in Switzerland.
 
 Source: `UMAi Charcuterie <https://www.drybagsteak.com/recipe-charcuterie-bresaola.php>`__
+
+Equipment
+---------
+UMAi Dry Bag, Vacuum Sealer
 
 Ingredients
 -----------

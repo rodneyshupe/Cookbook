@@ -1,9 +1,9 @@
 Burnt Onion Jam
 ===============
 
-+------------------+-------------------+-------------------+
-| Prep: 10 minutes | Total: 20 minutes | Yield: 1 1/4 cups |
-+------------------+-------------------+-------------------+
++-----------------------+------------------------+-------------------+
+| Prep Time: 10 minutes | Total Time: 20 minutes | Yield: 1 1/4 cups |
++-----------------------+------------------------+-------------------+
 
 Source: `Team Tasting Table <https://www.tastingtable.com/cook/recipes/burnt-onion-jam-recipe>`__
 

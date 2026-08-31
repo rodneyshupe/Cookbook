@@ -1,9 +1,13 @@
 Chicken and White Bean Chili
 ============================
 
-+-----------------------+------------------------+---------------------+
-| Prep Time: 20 minutes | Cooking Time: 8+ hours | Yield: 4-6 servings |
-+-----------------------+------------------------+---------------------+
++-----------------------+---------------------+---------------------+
+| Prep Time: 20 minutes | Cook Time: 8+ hours | Yield: 4-6 servings |
++-----------------------+---------------------+---------------------+
+
+Equipment
+---------
+Slow Cooker
 
 Ingredients
 -----------
@@ -13,9 +17,10 @@ Ingredients
 - 6 boneless, skinless chicken thighs, cut into 1-inch pieces
 - 1 medium yellow onion, diced
 - 4 garlic cloves, thinly sliced
-- 2 jalapeños, seeded and thinly sliced into rounds
+- 2 jalapenos, seeded and thinly sliced into rounds
 - 2 banana peppers, seeded and thinly sliced into rounds
-- 1 tablespoon ground cumin1 tablespoon dried oregano
+- 1 tablespoon ground cumin
+- 1 tablespoon dried oregano
 - 2 teaspoons ground coriander
 - 2 cans (540ml each) white kidney beans, drained and rinsed
 - 1 can (127ml) chopped green chillies
@@ -27,7 +32,7 @@ Directions
 
 1. Add butter and oil to a large skillet placed over medium-high heat. Once
    hot, add chicken, season well with salt and pepper, and once browned all
-   over, add onion, garlic, jalapeño, banana peppers, cumin, oregano and
+   over, add onion, garlic, jalapeno, banana peppers, cumin, oregano and
    coriander and cook for three to four minutes or until onions and pepper
    have softened. 
 2. Transfer chicken mixture, beans, canned chillies, and chicken broth to a

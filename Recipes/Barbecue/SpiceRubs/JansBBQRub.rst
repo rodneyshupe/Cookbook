@@ -1,13 +1,17 @@
 Jans BBQ Rub
 ============
 
++----------------------+-------------------------+
+| Prep Time: 5 minutes | Yield: about 3 1/2 cups |
++----------------------+-------------------------+
+
 Source: `Smokin Pete BBQ <https://www.smokinpetebbq.com/wordpress/jans-original-dry-rub/>`__
 
 Ingredients
 -----------
 
 - 1 1/4 cup sugar
-- 1/4 cup Lawry’s seasoned salt (see recipe below)
+- 1/4 cup Lawry's seasoned salt (see recipe below)
 - 1/4 cup garlic salt
 - 1/4 cup + 1 1/2 teaspoon celery salt
 - 1/4 cup onion salt

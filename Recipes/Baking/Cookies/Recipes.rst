@@ -20,7 +20,7 @@ Baking: Cookies
 
 .. include:: ../../../includes/recipePageBreak.rst
 
-.. include:: Mary'SOatmealChocolateChipCookies.rst
+.. include:: MarySOatmealChocolateChipCookies.rst
 
 .. include:: ../../../includes/recipePageBreak.rst
 

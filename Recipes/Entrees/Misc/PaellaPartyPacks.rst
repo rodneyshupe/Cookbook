@@ -1,9 +1,9 @@
 Paella Party Packs
 ==================
 
-+-----------------------+--------------------------+-------------------+
-| Prep Time: 15 minutes | Cooking Time: 25 minutes | Yield: 4 servings |
-+-----------------------+--------------------------+-------------------+
++-----------------------+-----------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 25 minutes | Yield: 4 servings |
++-----------------------+-----------------------+-------------------+
 
 Source: `Delish <https://www.delish.com/cooking/recipe-ideas/recipes/a47872/paella-party-packs-recipe/>`__
 
@@ -30,5 +30,5 @@ Directions
    cover the food. Fold the edges to seal closed.
 5. Place packets on hot grill and cook until the chicken is cooked through
    and the rice is tender, about 25 minutes, flipping once halfway through.
-   (Alternatively, you can bake in oven at 425°F for about 20-25 minutes.)
+   (Alternatively, you can bake in oven at 425F for about 20-25 minutes.)
 

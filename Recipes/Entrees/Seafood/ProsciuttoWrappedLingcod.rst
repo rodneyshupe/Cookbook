@@ -1,6 +1,10 @@
 Prosciutto Wrapped Lingcod
 ==========================
 
++-----------------------+-----------------------+-------------------+
+| Prep Time: 10 minutes | Cook Time: 12 minutes | Yield: 2 servings |
++-----------------------+-----------------------+-------------------+
+
 Source: `Global Group <https://www.glowbalgroup.com/blog/2016/01/21/prosciutto-wrapped-lingcod-a-dine-out-recipe/>`__
 
 Ingredients
@@ -18,5 +22,4 @@ Directions
    oven for 8 minutes.
 2. Once baked, turn on the broil function and broil until top prosciutto
    becomes slightly crispy.
-
 

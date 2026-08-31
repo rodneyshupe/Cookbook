@@ -1,6 +1,10 @@
 Simple Apple Sauce
 ==================
 
++-----------------------+-----------------------+---------------------+
+| Prep Time: 15 minutes | Cook Time: 20 minutes | Yield: about 4 cups |
++-----------------------+-----------------------+---------------------+
+
 Ingredients
 -----------
 - 4 pounds apples (8 to 12 medium), unpeeled, cored, and cut into rough
@@ -34,5 +38,4 @@ Directions
    with extra sugar or add water to adjust consistency as desired. Serve hot,
    warm, at room temperature, or chilled. (Can be covered and refrigerated
    for up to 5 days.)
-
 

@@ -1,6 +1,10 @@
 Grilled Sliced Brisket
 ======================
 
++-----------------------+----------------------+----------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 3 minutes | Total Time: 10 hours | Yield: 4 servings |
++-----------------------+----------------------+----------------------+-------------------+
+
 Source: `Bon Appetit <https://www.bonappetit.com/recipe/grilled-sliced-brisket>`__
 
 Ingredients
@@ -17,5 +21,4 @@ Directions
    thick.
 3. Meanwhile, prepare grill for high heat; oil grate. Grill brisket
    until lightly charred, about 1 minute per side for medium-rare.
-
 

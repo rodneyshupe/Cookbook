@@ -1,9 +1,9 @@
 20 Minute Red Curry Noodles with Fried Coconut Garlic
 =====================================================
 
-+------------------+-------------------+----------+
-| Prep: 10 minutes | Total: 20 minutes | Yield: 4 |
-+------------------+-------------------+----------+
++-----------------------+------------------------+----------+
+| Prep Time: 10 minutes | Total Time: 20 minutes | Yield: 4 |
++-----------------------+------------------------+----------+
 
 Source: `halfbakedharvest <https://www.halfbakedharvest.com/red-curry-noodles/>`__
 

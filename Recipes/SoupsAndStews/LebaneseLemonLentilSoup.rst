@@ -1,9 +1,9 @@
 Lebanese Lemon Lentil Soup
 ==========================
 
-+------------------+--------------------------+-------------------+
-| Prep: 30 minutes | Total: 2 hours 5 minutes | Yield: 5 servings |
-+------------------+--------------------------+-------------------+
++-----------------------+-------------------------------+-------------------+
+| Prep Time: 30 minutes | Total Time: 2 hours 5 minutes | Yield: 5 servings |
++-----------------------+-------------------------------+-------------------+
 
 Source: `AllRecipes (Debra Fox Sullivan) <https://www.allrecipes.com/recipe/223354/lebanese-lemon-lentil-soup/>`__
 

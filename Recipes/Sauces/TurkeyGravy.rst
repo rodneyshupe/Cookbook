@@ -1,6 +1,9 @@
 Turkey Gravy
 ============
 
++-----------------------+--------------------+---------------------+
+| Prep Time: 15 minutes | Cook Time: 2 hours | Yield: about 4 cups |
++-----------------------+--------------------+---------------------+
 
 Ingredients
 -----------
@@ -15,7 +18,6 @@ Ingredients
 -  3 tablespoons unsalted butter
 -  1/4 cup all-purpose flour
 -  1 cup dry white wine
-
 
 Directions
 ----------

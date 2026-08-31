@@ -1,7 +1,9 @@
 Mustard Pickles
 ===============
 
-*Yield: Makes about four 16oz (pint or 500 mL) jars*
++-----------------------+-----------------------+---------------------+------------------------------+
+| Prep Time: 20 minutes | Cook Time: 10 minutes | Total Time: 8 hours | Yield: about four 16 oz jars |
++-----------------------+-----------------------+---------------------+------------------------------+
 
 Ingredients
 -----------

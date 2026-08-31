@@ -1,9 +1,9 @@
 Stuffed Peppers
 ===============
 
-+-----------------------+----------------------+-------------------+
-| Prep Time: 20 minutes | Cooking Time: 1 hour | Yield: 4 servings |
-+-----------------------+----------------------+-------------------+
++-----------------------+-------------------+-------------------+
+| Prep Time: 20 minutes | Cook Time: 1 hour | Yield: 4 servings |
++-----------------------+-------------------+-------------------+
 
 Source: Combination of recipres from `Cooks Country <https://www.cookscountry.com/recipes/6637-slow-cooker-stuffed-peppers>`__
 and `Cooks Illustrated <https://www.cooksillustrated.com/recipes/225-classic-stuffed-bell-peppers>`__
@@ -26,7 +26,7 @@ Ingredients
 Directions
 ----------
 1. Bring 4 quarts water to boil in large stockpot or Dutch oven over high
-   heat. Adjust oven rack to middle position and heat oven to 350°F.
+   heat. Adjust oven rack to middle position and heat oven to 350F.
 2. While water is coming to a boil, cut off top 1/2 inch of bell peppers.
    Discard stem and seeds. Chop pepper tops into 1/4-inch pieces; reserve
    pepper cups. Add 1 tablespoon salt and bell peppers. Cook until peppers
@@ -37,7 +37,7 @@ Directions
    and rice is nearly tender, 10 to 13 minutes.
 4. Meanwhile, cook sausage in 12-inch nonstick skillet over medium-high
    heat, breaking up meat into small pieces, until browned, 6 to 8 minutes.
-   Using slotted spoon, transfer sausage to paper towel–lined plate.
+   Using slotted spoon, transfer sausage to paper towel-lined plate.
 5. Pour off all but 1 tablespoon fat from skillet. Add onions and chopped
    pepper and cook until browned, 8 to 10 minutes. Stir in garlic, oregano,
    1/4 teaspoon salt, 1/8 teaspoon pepper, and pepper flakes and cook until

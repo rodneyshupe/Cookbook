@@ -1,9 +1,9 @@
 German Potato Salad
 ===================
 
-+------------------+-------------------+----------+
-| Prep: 20 minutes | Total: 20 minutes | Yield: 6 |
-+------------------+-------------------+----------+
++-----------------------+------------------------+----------+
+| Prep Time: 20 minutes | Total Time: 20 minutes | Yield: 6 |
++-----------------------+------------------------+----------+
 
 Source: `Jaclyn <https://www.cookingclassy.com/german-potato-salad/>`__
 

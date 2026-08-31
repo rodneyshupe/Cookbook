@@ -1,7 +1,9 @@
 Pickled Asparagus
 =================
 
-*Yield: Makes about six 16oz (pint or 500 mL) jars*
++-----------------------+-----------------------+--------------------+-----------------------------+
+| Prep Time: 30 minutes | Cook Time: 10 minutes | Total Time: 1 hour | Yield: about six 16 oz jars |
++-----------------------+-----------------------+--------------------+-----------------------------+
 
 Ingredients
 -----------

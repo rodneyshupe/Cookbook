@@ -1,9 +1,9 @@
 Creamy Mushroom Soup
 ====================
 
-+-----------------------+----------------------+----------------------------+
-| Prep Time: 30 minutes | Cooking Time: 1 hour | Yield: 8 cups 6-8 servings |
-+-----------------------+----------------------+----------------------------+
++-----------------------+-------------------+----------------------------+
+| Prep Time: 30 minutes | Cook Time: 1 hour | Yield: 8 cups 6-8 servings |
++-----------------------+-------------------+----------------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/315-creamy-mushroom-soup>`__
 

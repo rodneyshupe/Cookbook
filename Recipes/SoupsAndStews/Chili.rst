@@ -1,9 +1,9 @@
 Chili
 =====
 
-+-----------------------+-----------------------+---------------------+
-| Prep Time: 30 minutes | Cooking Time: 3 hours | Yield: 6-8 servings |
-+-----------------------+-----------------------+---------------------+
++-----------------------+--------------------+---------------------+
+| Prep Time: 30 minutes | Cook Time: 3 hours | Yield: 6-8 servings |
++-----------------------+--------------------+---------------------+
 
 Ingredients
 -----------
@@ -38,14 +38,14 @@ Directions
    from heat, cover, and allow the beans to stand for 1 hour. Drain and
    rinse the beans well.
 2. Adjust an oven rack to the lower-middle position and pre-heat the
-   oven to 300°F.
+   oven to 300F.
 3. Place the ancho chiles in 12-inch skillet set over medium-high heat;
    toast them,stirring frequently, until flesh is fragrant, 4 to 6
    minutes - reducing the heat if chiles begin to smoke. Transfer the
    toasted chiles to the bowl of food processor and allow them to cool.
    Do not wash out the skillet.
 4. To the food processor containing the toasted ancho chiles, add the
-   àrbol chiles,cornmeal, oregano, cumin, cocoa, and 3/4 teaspoon salt.
+   arbol chiles,cornmeal, oregano, cumin, cocoa, and 3/4 teaspoon salt.
    Process until finely ground - about 2 minutes. With the processor
    running, very slowly add 1/2 cup of the broth through the feed tube,
    until a smooth paste forms - about 45 seconds,scraping down the sides
@@ -92,7 +92,7 @@ Notes
 -  Dried New Mexican or guajillo chiles make a good substitute for the
    anchos; each dried arbol may be substituted with 1/8 teaspoon
    cayenne. If you prefer not to work with any whole dried chiles, the
-   anchos and àrbols can be replaced with 1/2 cup commercial chili
+   anchos and arbols can be replaced with 1/2 cup commercial chili
    powder and 1/4 to 1/2 teaspoon cayenne pepper, though the texture of
    the chili will be slightly compromised.
 -  Good choices for condiments include diced avocado, chopped red onion,

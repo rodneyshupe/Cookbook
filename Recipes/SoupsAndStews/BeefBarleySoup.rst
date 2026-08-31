@@ -1,9 +1,9 @@
 Beef Barley Soup
 ================
 
-+-----------------------+-----------------------+---------------------+
-| Prep Time: 20 minutes | Cooking Time: 2 hours | Yield: 4-6 servings |
-+-----------------------+-----------------------+---------------------+
++-----------------------+--------------------+---------------------+
+| Prep Time: 20 minutes | Cook Time: 2 hours | Yield: 4-6 servings |
++-----------------------+--------------------+---------------------+
 
 Ingredients
 -----------
@@ -11,8 +11,8 @@ Ingredients
 - 1 1/2 pounds sirloin steak tips, trimmed and cut into 1/2-inch pieces
 - 3 carrots, peeled and cut into 1/4-inch pieces
 - 1 onion, chopped fine
-- 1 celery rib choped into 1/4 inch pieces
-- 4oz crimini muchrooms chopped
+- 1 celery rib chopped into 1/4 inch pieces
+- 4oz crimini mushrooms chopped
 - 1/4 cup olive oil
 - 1 tablespoon minced fresh thyme or 1 teaspoon dried
 - 2 garlic cloves, minced
@@ -41,8 +41,8 @@ Directions
 3. Add browned beef and any accumulated juices to soup and let simmer for
    about 1 1/2 hour. Season with salt and pepper to taste. Serve.
 
-Note
-----
+Notes
+-----
 
 If using quick-cooking barley decrease broths to 3 cups each in step 4 and
 skip 30 minutes simmer before adding beef.

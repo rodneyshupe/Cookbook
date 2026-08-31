@@ -1,9 +1,9 @@
 Creamy Mushroom Linguine with Steak
 ===================================
 
-+------------+-------------------+
-| Total: TBD | Yield: 4 servings |
-+------------+-------------------+
++-----------------+-------------------+
+| Total Time: TBD | Yield: 4 servings |
++-----------------+-------------------+
 
 Source: `Clodagh McKenna <https://www.clodaghmckenna.com/blog/steak-wih-creamy-mushroom-linguine>`__
 
@@ -22,7 +22,7 @@ Ingredients
 - 2 cloves of garlic, crushed
 - 200 grams of chestnut mushrooms
 - 1 tablespoon fresh rosemary, chopped, plus extra to garnish
-- Juice of 1⁄2 lemon
+- Juice of 1/2 lemon
 - 200 millilitres of double cream
 - Sea salt and freshly ground black pepper
 

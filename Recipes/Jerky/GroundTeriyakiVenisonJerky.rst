@@ -1,6 +1,14 @@
 Ground Teriyaki Venison Jerky
 =============================
 
++-----------------------+--------------------------+------------------------+---------------------------+
+| Prep Time: 15 minutes | Marinate Time: overnight | Drying Time: 4-8 hours | Yield: about 3/4 lb jerky |
++-----------------------+--------------------------+------------------------+---------------------------+
+
+Equipment
+---------
+Dehydrator
+
 Ingredients
 -----------
 
@@ -10,8 +18,8 @@ Ingredients
 -  4 tablespoons `teriyaki sauce <#teriyaki-sauce>`__
 -  Optional seasoning pepper
 
-Preparation
------------
+Directions
+----------
 
 Using your hands, mix all ingredients into the ground meat evenly and
 thoroughly. Place in refrigerator overnight. Next morning, using a jerky

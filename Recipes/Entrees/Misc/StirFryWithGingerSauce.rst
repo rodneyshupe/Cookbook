@@ -1,6 +1,10 @@
 Stir Fry with Ginger Sauce
 ==========================
 
++-----------------------+-----------------------+-------------------+
+| Prep Time: 20 minutes | Cook Time: 15 minutes | Yield: 4 servings |
++-----------------------+-----------------------+-------------------+
+
 Ingredients
 -----------
 
@@ -39,7 +43,6 @@ Ginger Sauce
 -  1/4 cup minced fresh ginger
 -  2 scallions, minced
 -  2 tablespoons low-sodium chicken broth
-
 
 .. include:: ../../../includes/recipePageBreak.rst
 
@@ -104,9 +107,9 @@ broth
 Note: Stir Fry Fundamentals
 ---------------------------
 
-*No matter what you’re stir-frying, follow these guidelines to ensure
+*No matter what you're stir-frying, follow these guidelines to ensure
 success.* - Be ready for quick cooking: Prep ingredients in advance. -
 For even browning, use a nonstick skillet, not a wok. - Limit stirring
 so meat and vegetables can develop color. - Sear in batches so meat
-doesn’t steam. - Add aromatics last to preserve flavor and avoid
+doesn't steam. - Add aromatics last to preserve flavor and avoid
 scorching.

@@ -1,13 +1,17 @@
 Mexican Rice
 ============
 
++-----------------------+-----------------------+---------------------+
+| Prep Time: 15 minutes | Cook Time: 35 minutes | Yield: 4-6 servings |
++-----------------------+-----------------------+---------------------+
+
 Source: `Cooks Country <https://www.cookscountry.com/recipes/11354-easy-mexican-rice>`__
 
 Ingredients
 -----------
 - 1 1/2 cups long-grain white rice
 - 1 tomato, cored and quartered
-- 1 jalapeño chile, stemmed, halved, and seeded
+- 1 jalapeno chile, stemmed, halved, and seeded
 - Salt and pepper
 - 1 garlic clove, chopped
 - 1 - 1 3/4 cups chicken broth
@@ -21,7 +25,7 @@ Directions
 1. Place rice in fine-mesh strainer and rinse under cold running water for
    1 1/2 minutes. Shake strainer vigorously to remove all excess water; set
    aside.
-2. Process tomato, jalapeño, 1 1/2 teaspoons salt, garlic, and 1/4 teaspoon
+2. Process tomato, jalapeno, 1 1/2 teaspoons salt, garlic, and 1/4 teaspoon
    pepper in food processor until smooth, about 30 seconds, scraping down
    sides of bowl as needed. Transfer mixture to 4-cup liquid measuring cup.
    Stir to deflate foam, if necessary, then add enough broth to equal

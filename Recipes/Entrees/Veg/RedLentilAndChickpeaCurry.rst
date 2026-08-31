@@ -1,6 +1,10 @@
 Red Lentil and Chickpea Curry
 =============================
 
++-----------------------+-----------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 30 minutes | Yield: 4 servings |
++-----------------------+-----------------------+-------------------+
+
 Source: `Vibrant Beat <https://www.vibrantbeat.com/red-lentil-and-chickpea-curry/>`__
 
 Ingredients
@@ -13,7 +17,7 @@ Ingredients
 - 2 teaspoons minced fresh ginger (can buy this fresh or often can be found in squeeze tubes or bottles in the produce section)
 - 2 tablespoons red curry paste (can find this in the ethnic food aisle)
 - 1 tablespoon curry powder
-- 1/2 teaspoon ground tumeric
+- 1/2 teaspoon ground turmeric
 - 1 teaspoon ground cumin
 - 1 teaspoon sea salt
 - 1 teaspoon sugar (optional, can also use honey, agave, maple syrup)
@@ -22,7 +26,6 @@ Ingredients
 - Cooked grain (quinoa, farro, black rice, brown rice) or cauliflower rice
 - Chopped fresh cilantro for garnish
 - **Optional 2 cups fresh baby spinach leaves, sweet potato (orange or purple, cut into squares, and roasted for 30 minutes in oven)**
-
 
 Directions
 ----------

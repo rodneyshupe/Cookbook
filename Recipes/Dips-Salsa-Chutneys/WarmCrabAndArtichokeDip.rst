@@ -1,9 +1,9 @@
 Warm Crab and Artichoke Dip
 ===========================
 
-+-----------------+-------------------+-----------------+
-| Prep: 5 minutes | Total: 25 minutes | Yield: Serves 8 |
-+-----------------+-------------------+-----------------+
++----------------------+------------------------+-----------------+
+| Prep Time: 5 minutes | Total Time: 25 minutes | Yield: Serves 8 |
++----------------------+------------------------+-----------------+
 
 Source: `Patrick Sheridan, Monterey, CA, <https://www.sunset.com/recipe/warm-crab-artichoke-dip>`__
 
@@ -24,7 +24,7 @@ Ingredients
 Directions
 ----------
 
-1. Preheat oven to 375°.
+1. Preheat oven to 375.
 2. In a medium bowl, combine mayonnaise, lemon juice, artichokes, crab,
    parmesan, and salt. Pour into a greased medium gratin dish. Sprinkle with
    almonds and bake until browned and bubbling, about 15 minutes.

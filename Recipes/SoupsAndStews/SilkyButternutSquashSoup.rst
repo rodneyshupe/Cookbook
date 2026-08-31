@@ -64,7 +64,7 @@ Soup
 Cinnamon-Sugar Croutons
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-1. Adjust oven rack to the middle position and heat the oven to 350°F.
+1. Adjust oven rack to the middle position and heat the oven to 350F.
    Toss the bread cubes with melted butter in a medium bowl. In a small
    bowl, combine cinnamon and sugar; sprinkle over the bread cubes and
    toss to combine.

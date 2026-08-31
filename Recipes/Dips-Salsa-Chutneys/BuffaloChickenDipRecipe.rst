@@ -1,9 +1,9 @@
 Buffalo Chicken Dip Recipe
 ==========================
 
-+------------------+-------------------+-------------------+
-| Prep: 10 minutes | Total: 30 minutes | Yield: 4 servings |
-+------------------+-------------------+-------------------+
++-----------------------+------------------------+-------------------+
+| Prep Time: 10 minutes | Total Time: 30 minutes | Yield: 4 servings |
++-----------------------+------------------------+-------------------+
 
 Source: `Alix Traeger <https://tasty.co/recipe/buffalo-chicken-dip>`__
 
@@ -24,7 +24,7 @@ Ingredients
 Directions
 ----------
 
-1. Preheat the oven to 350°F (180°C).
+1. Preheat the oven to 350F (180C).
 2. In a bowl, mix the chicken, cream cheese, and buffalo sauce. Pour
    mixture into a cast iron skillet and smooth with a spoon.
 3. Cover with cheddar cheese and bake for 20 minutes, or until cheese is

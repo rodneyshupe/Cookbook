@@ -1,6 +1,10 @@
 Chocolate Peanut Butter Marshmallow Squares
 ===========================================
 
++-----------------------+-----------------------+-------------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 10 minutes | Total Time: 2 1/2 hours | Yield: 24 squares |
++-----------------------+-----------------------+-------------------------+-------------------+
+
 Ingredients
 -----------
 
@@ -9,7 +13,6 @@ Ingredients
 - 1/2 cup creamy peanut butter
 - 4 tbsp butter
 - 3 oz bittersweet chocolate (about a 1/2 cup, measured)
-
 
 1. While the Rice Krispy Squares cool while you start on the peanut butter
    chocolate layer. Melt the milk chocolate and peanut butter in a double

@@ -1,11 +1,11 @@
 Kansas City Style Sweet and Smoky Barbecue Sauce
 ================================================
 
-+----------------------+--------------------------+---------------+
-| Prep Time: 5 minutes | Cooking Time: 20 minutes | Yield: 3 cups |
-+----------------------+--------------------------+---------------+
++----------------------+-----------------------+---------------+
+| Prep Time: 5 minutes | Cook Time: 20 minutes | Yield: 3 cups |
++----------------------+-----------------------+---------------+
 
-Source: Raichlen’s Indoor Grilling by Steven Raichlen
+Source: Raichlen's Indoor Grilling by Steven Raichlen
 
 This is one of the simplest and best barbecue sauces you can make. This
 sauce follows in the traditions of sauces created in the kitchens of

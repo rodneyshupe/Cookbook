@@ -1,7 +1,9 @@
 Preserved Lemons
 ================
 
-*Yield: Makes about six 16oz (pint or 500 mL) jars*
++-----------------------+-----------------------+--------------------+-----------------------------+
+| Prep Time: 20 minutes | Cook Time: 45 minutes | Total Time: 1 week | Yield: about six 16 oz jars |
++-----------------------+-----------------------+--------------------+-----------------------------+
 
 Ingredients
 -----------

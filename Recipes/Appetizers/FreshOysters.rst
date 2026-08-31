@@ -1,7 +1,9 @@
 Fresh Oysters on the Half Shell
 ===============================
 
-Yield: 2 servings
++-----------------------+-------------------+
+| Prep Time: 15 minutes | Yield: 2 servings |
++-----------------------+-------------------+
 
 Ingredients
 -----------

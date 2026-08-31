@@ -1,6 +1,10 @@
 Oatmeal Cookies
 ===============
 
++-----------------------+-----------------------+-------------------+
+| Prep Time: 20 minutes | Cook Time: 10 minutes | Yield: 20 cookies |
++-----------------------+-----------------------+-------------------+
+
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/9077-classic-chewy-oatmeal-cookies>`__
 
 Ingredients
@@ -21,7 +25,7 @@ Ingredients
 Directions
 ----------
 
-1. Adjust oven rack to middle position and heat oven to 375°F. Line 2
+1. Adjust oven rack to middle position and heat oven to 375F. Line 2
    rimmed baking sheets with parchment paper. Whisk flour, salt, and
    baking soda together in medium bowl; set aside.
 2. Melt butter in 8-inch skillet over medium-high heat, swirling pan

@@ -1,6 +1,10 @@
 Baked Chicken Shawarma
 ======================
 
++-----------------------+-----------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 45 minutes | Yield: 6 servings |
++-----------------------+-----------------------+-------------------+
+
 Ingredients
 -----------
 
@@ -20,7 +24,7 @@ Ingredients
 Directions
 ----------
 
-1. Heat your oven to 350ºF and lightly grease a standard loaf pan with
+1. Heat your oven to 350F and lightly grease a standard loaf pan with
    non-stick cooking spray. Set a second ungreased loaf pan aside for later.
 2. Add the chicken to a large bowl and scatter over the cornstarch, salt,
    cumin, smoked paprika, cayenne pepper, coriander, turmeric,
@@ -30,7 +34,7 @@ Directions
    bottom of the second loaf pan with oil or non-stick cooking spray and
    place on top of the chicken into the first pan. Press down firmly to
    compact and transfer to the oven with the second pan still on top. Bake
-   for 40 to 45 minutes or until cooked through to 165ºF. Remove the top
+   for 40 to 45 minutes or until cooked through to 165F. Remove the top
    pan and broil on high for a few minutes, if desired, for some crispy
    bits on top.
 4. While the chicken cooks, toss the onion with the vinegar and set aside

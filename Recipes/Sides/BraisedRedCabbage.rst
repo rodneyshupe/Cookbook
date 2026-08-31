@@ -1,6 +1,9 @@
 Braised Red Cabbage
 ===================
 
++-----------------------+-----------------------+---------------------+
+| Prep Time: 10 minutes | Cook Time: 10 minutes | Yield: 4-6 portions |
++-----------------------+-----------------------+---------------------+
 
 Ingredients
 -----------
@@ -14,7 +17,6 @@ Ingredients
 -  pinch of caraway seeds
 -  salt and pepper to taste
 
-
 Directions
 ----------
 
@@ -23,18 +25,11 @@ Directions
    salt. Pour in water, red wine, and red wine vinegar. Stir to combine.
    Mix in sugar and caraway seeds.
 2. Continue to cook and stir until liquid has evaporated and cabbage is
-   tender, about 5 minutes. If cabbage isn’t quite tender, add a splash
+   tender, about 5 minutes. If cabbage isn't quite tender, add a splash
    of water and continue cooking a few more minutes.
 
-
-Yield
+Notes
 -----
-
-4 - 6 portions
-
-
-Note
-----
 
 There are many ways to tweak this recipe! Raisins, currants, shallots,
 onions, leeks, apples, and pears are just a few things that rock in this

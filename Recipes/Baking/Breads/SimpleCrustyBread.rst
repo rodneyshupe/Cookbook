@@ -1,6 +1,10 @@
 Simple Crusty Bread
 ===================
 
++-----------------------+-----------------------+-------------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 30 minutes | Total Time: 3 1/2 hours | Yield: 3-4 loaves |
++-----------------------+-----------------------+-------------------------+-------------------+
+
 Source: `NY Times <https://cooking.nytimes.com/recipes/1018203-simple-crusty-bread>`_
 
 Ingredients

@@ -1,9 +1,9 @@
 Clams Steamed in White Wine
 ===========================
 
-+----------------------+--------------------------+-------------------+
-| Prep Time: 5 minutes | Cooking Time: 15 minutes | Yield: 4 servings |
-+----------------------+--------------------------+-------------------+
++----------------------+-----------------------+-------------------+
+| Prep Time: 5 minutes | Cook Time: 15 minutes | Yield: 4 servings |
++----------------------+-----------------------+-------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/8368-clams-steamed-in-white-wine>`__
 
@@ -29,8 +29,8 @@ Directions
 3. Pour sauce over clams, sprinkle with parsley, and serve immediately with
    lemon wedges.
 
-Note
-----
+Notes
+-----
 For 1-2 servicng reduce clams to 1 pound per person and half the other
 ingredients.  Use a sauce pan instead of the dutch oven.
 

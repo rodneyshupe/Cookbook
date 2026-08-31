@@ -1,9 +1,9 @@
 Quick Bacon and Corn Chowder
 ============================
 
-+-----------------------+--------------------------+-------------------+
-| Prep Time: 10 minutes | Cooking Time: 30 minutes | Yield: 4 servings |
-+-----------------------+--------------------------+-------------------+
++-----------------------+-----------------------+-------------------+
+| Prep Time: 10 minutes | Cook Time: 30 minutes | Yield: 4 servings |
++-----------------------+-----------------------+-------------------+
 
 Source: `Cooks Country <https://www.cookscountry.com/recipes/4297-quick-corn-chowder-with-bacon>`__
 
@@ -40,6 +40,6 @@ Notes
 -----
 
 Frozen corn can be quickly defrosted in a bowl in the microwave. If
-using fresh corn, you’ll need about 1 dozen medium ears; use a chef’s
+using fresh corn, you'll need about 1 dozen medium ears; use a chef's
 knife to cut the kernels off the husked and silked ears.
 

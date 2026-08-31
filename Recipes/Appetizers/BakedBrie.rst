@@ -1,9 +1,9 @@
 Baked Brie
 ==========
 
-+-----------------------+--------------------------+---------------------+
-| Prep Time: 10 minutes | Cooking Time: 10 minutes | Yield: 6-8 servings |
-+-----------------------+--------------------------+---------------------+
++-----------------------+-----------------------+---------------------+
+| Prep Time: 10 minutes | Cook Time: 10 minutes | Yield: 6-8 servings |
++-----------------------+-----------------------+---------------------+
 
 Ingredients
 ------------
@@ -17,7 +17,7 @@ Ingredients
 Directions
 ----------
 
-1. Preheat oven to 350°F.
+1. Preheat oven to 350F.
 2. Place garlic and salt into a small bowl. Mash garlic into a paste
    using the back of a spoon. Add sun-dried tomatoes and cilantro. Mix
    until combined.

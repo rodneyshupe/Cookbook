@@ -1,6 +1,10 @@
 Compound Butter
 ===============
 
++-----------------------+----------------------+
+| Prep Time: 10 minutes | Yield: about 1/2 cup |
++-----------------------+----------------------+
+
 Ingredients
 -----------
 
@@ -29,7 +33,7 @@ Simple Herb Butter
 Garlic Herb Butter
 ^^^^^^^^^^^^^^^^^^
 
-- 1/4 cup finely chopped mixed herbs – parsley, cilantro, thyme, rosemary etc
+- 1/4 cup finely chopped mixed herbs - parsley, cilantro, thyme, rosemary etc
 - 1/2 stick Finlandia butter*, softened
 - Zest of 1/2 lemon
 - 1 large clove garlic, finely minced

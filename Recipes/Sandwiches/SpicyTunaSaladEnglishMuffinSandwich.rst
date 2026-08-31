@@ -1,7 +1,9 @@
 Spicy Tuna Salad English Muffin Sandwich
 ========================================
 
-Yield: 2
++-----------------------+---------------------+
+| Prep Time: 10 minutes | Yield: 2 sandwiches |
++-----------------------+---------------------+
 
 Ingredients
 -----------

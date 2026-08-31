@@ -1,13 +1,15 @@
 Buffalo Sauce
 =============
 
-Yield: Enough sauce for 2 lbs of wings.
++----------------------+----------------------+----------------------------------+
+| Prep Time: 2 minutes | Cook Time: 5 minutes | Yield: enough for 2 lbs of wings |
++----------------------+----------------------+----------------------------------+
 
 Ingredients
 -----------
 
 -  1 1/2 tablespoons unsalted butter
--  1 1/2 tablespoons Frank’s Hot Sauce (you can use Tabasco or Sriracha sauce as well)
+-  1 1/2 tablespoons Frank's Hot Sauce (you can use Tabasco or Sriracha sauce as well)
 
 Directions
 ----------

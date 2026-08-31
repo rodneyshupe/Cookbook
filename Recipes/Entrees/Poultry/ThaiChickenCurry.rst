@@ -1,6 +1,10 @@
 Thai Chicken Curry
 ==================
 
++-----------------------+-----------------------+-------------------+
+| Prep Time: 10 minutes | Cook Time: 15 minutes | Yield: 4 servings |
++-----------------------+-----------------------+-------------------+
+
 Ingredients
 -----------
 
@@ -24,7 +28,7 @@ Directions
 4. Add in chicken and allow all to warm through. Serve on rice and garnish
    with a little fresh chopped cilantro
 
-Note
-----
+Notes
+-----
 
 If using cayenne instead of saracha, add with flour in step 2. 

@@ -1,6 +1,10 @@
 Potato Latkes
 =============
 
++-----------------------+-----------------------+-------------------+
+| Prep Time: 25 minutes | Cook Time: 25 minutes | Yield: 4 servings |
++-----------------------+-----------------------+-------------------+
+
 Ingredients
 -----------
 
@@ -15,7 +19,7 @@ Directions
 ----------
 
 1. Adjust oven rack to middle position, place rimmed baking sheet on
-   rack, and heat oven to 200°F. Toss potatoes, onion, and 1
+   rack, and heat oven to 200F. Toss potatoes, onion, and 1
    teaspoon salt in bowl. Place half of potato mixture in center of dish
    towel. Gather ends together and twist tightly to drain as much liquid
    as possible, reserving liquid in liquid measuring cup. Transfer
@@ -25,14 +29,14 @@ Directions
 2. Cover potato mixture and microwave until just warmed through but not
    hot, 1 to 2 minutes, stirring mixture with fork every 30 seconds.
    Spread potato mixture evenly over second rimmed baking sheet and let
-   cool for 10 minutes. Don’t wash out bowl.
+   cool for 10 minutes. Don't wash out bowl.
 3. Pour off water from reserved potato liquid, leaving potato starch in
    measuring cup. Add eggs and stir until smooth. Return cooled potato
    mixture to bowl. Add parsley, 1/4 teaspoon pepper, and potato starch
    mixture and toss until evenly combined.
 4. Set wire rack in clean rimmed baking sheet and line with triple layer
    of paper towels. Heat 1/4-inch depth of oil in 12-inch skillet over
-   medium-high heat until shimmering but not smoking (350°F).
+   medium-high heat until shimmering but not smoking (350F).
    Place 1/4-cup mound of potato mixture in oil and press with nonstick
    spatula into 1/3-inch-thick disk. Repeat until 5 latkes are in pan.
    Cook, adjusting heat so fat bubbles around latke edges, until golden
@@ -40,7 +44,7 @@ Directions
    golden brown on second side, about 3 minutes longer. Drain on paper
    towels and transfer to baking sheet in oven. Repeat with remaining
    potato mixture, adding oil to maintain 1/4-inch depth and returning
-   oil to 350°F between batches. Season with salt and pepper to
+   oil to 350F between batches. Season with salt and pepper to
    taste, and serve immediately.
 
 Make Ahead

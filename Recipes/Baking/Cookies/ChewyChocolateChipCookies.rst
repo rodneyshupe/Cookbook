@@ -1,9 +1,11 @@
 Chewy Chocolate Chip Cookies
 ============================
 
-Source: `Cooks Country <https://www.cookscountry.com/recipes/7847-thick-and-chewy-chocolate-chip-cookies>`__
++-----------------------+-----------------------+-------------------+
+| Prep Time: 20 minutes | Cook Time: 20 minutes | Yield: 24 cookies |
++-----------------------+-----------------------+-------------------+
 
-Makes 24 cookies
+Source: `Cooks Country <https://www.cookscountry.com/recipes/7847-thick-and-chewy-chocolate-chip-cookies>`__
 
 Ingredients
 -----------
@@ -35,8 +37,8 @@ Directions
    15 to 20 minutes, rotating sheet halfway through baking. Let cookies cool
    on sheets for 10 minutes before serving.
 
-Note
-----
+Notes
+-----
 To keep the cookies chewy longer, store them in an airtight container with a
 slice of sandwich bread.
 

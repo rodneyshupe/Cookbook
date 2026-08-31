@@ -1,6 +1,10 @@
 Tequila Chili Prawns
 ====================
 
++-----------------------+----------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 5 minutes | Yield: 4 servings |
++-----------------------+----------------------+-------------------+
+
 Ingredients
 -----------
 
@@ -14,8 +18,8 @@ Ingredients
 Directions
 ----------
 
-1. Heat oil in a pan over medium high heat.  Add prawns, and jalepeno and
-   cook for 1 minute, stiring often.  Add green onions cook until prawns are
+1. Heat oil in a pan over medium high heat.  Add prawns, and jalapeno and
+   cook for 1 minute, stirring often.  Add green onions cook until prawns are
    fully cooked, approximately 1 additional minute.
 2. Remove from hea and stir in compound butter.  Serve over rice.
 

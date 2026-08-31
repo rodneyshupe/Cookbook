@@ -1,9 +1,9 @@
 Creamy Potato Salad with Jalapeno
 =================================
 
-+-----------------------+--------------------------+-----------------------+
-| Prep Time: 15 minutes | Cooking Time: 30 minutes | Yield: 4 - 6 servings |
-+-----------------------+--------------------------+-----------------------+
++-----------------------+-----------------------+-----------------------+
+| Prep Time: 15 minutes | Cook Time: 30 minutes | Yield: 4 - 6 servings |
++-----------------------+-----------------------+-----------------------+
 
 Source: `Son of a Southern Chef <https://www.sonofasouthernchef.com/food/creamy-potato-salad-with-jalapeno>`__
 

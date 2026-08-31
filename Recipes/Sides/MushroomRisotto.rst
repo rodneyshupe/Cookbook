@@ -1,6 +1,10 @@
 Mushroom Risotto
 ================
 
++-----------------------+-----------------------+-------------------+
+| Prep Time: 20 minutes | Cook Time: 45 minutes | Yield: 6 servings |
++-----------------------+-----------------------+-------------------+
+
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/922-mushroom-risotto>`__
 
 Ingredients
@@ -44,7 +48,7 @@ Directions
 3. Heat 3 tablespoons butter in large saucepan over medium heat. When
    foaming subsides, add remaining 1 cup onions and 1/4 teaspoon salt; cook,
    stirring occasionally, until onions are softened and translucent, about
-   9 minutes. Add rice and cook, stirring frequently, until grains’ edges
+   9 minutes. Add rice and cook, stirring frequently, until grains' edges
    are transparent, about 4 minutes. Add wine and cook, stirring frequently,
    until rice absorbs wine. Add minced porcini and 3 1/2 cups broth and cook,
    stirring every 2 to 3 minutes, until liquid is absorbed, 9 to 11 minutes.

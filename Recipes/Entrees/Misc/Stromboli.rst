@@ -1,6 +1,10 @@
 Stromboli
 =========
 
++-----------------------+-----------------------+--------------------+
+| Prep Time: 30 minutes | Cook Time: 25 minutes | Yield: 2 stromboli |
++-----------------------+-----------------------+--------------------+
+
 Ingredients
 -----------
 
@@ -17,7 +21,7 @@ Ingredients
 Directions
 ----------
 
-1. Preheat oven to 400°F. Line large baking sheets with parchment paper or
+1. Preheat oven to 400F. Line large baking sheets with parchment paper or
    silicone baking mat.
 2. Divide dough in half. On a lightly floured work surface using a lightly
    floured rolling pin, roll each half of the dough into a 10x16 inch

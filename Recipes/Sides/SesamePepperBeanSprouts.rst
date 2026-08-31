@@ -3,9 +3,9 @@ Sesame-Pepper Bean Sprouts
 
 Source: `Bon Appetit <https://www.bonappetit.com/recipe/sesame-pepper-bean-sprouts>`__
 
-+----------------------+--------------------------+-------------------+
-| Prep Time: 5 minutes | Cooking Time: 10 minutes | Yield: 8 servings |
-+----------------------+--------------------------+-------------------+
++----------------------+-----------------------+-------------------+
+| Prep Time: 5 minutes | Cook Time: 10 minutes | Yield: 8 servings |
++----------------------+-----------------------+-------------------+
 
 Ingredients
 -----------

@@ -1,7 +1,9 @@
 Alton Brown Dry Rub
 ===================
 
-Yield: Makes about 3/4 cup.
++----------------------+----------------------+
+| Prep Time: 5 minutes | Yield: about 3/4 cup |
++----------------------+----------------------+
 
 Ingredients
 -----------

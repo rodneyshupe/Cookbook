@@ -1,9 +1,9 @@
 Campfire Cobbler
 ================
 
-+-----------------------+---------------------------------+-------------------+
-| Prep Time: 15 minutes | Cooking Time: 1 hour 10 minutes | Yield: 6 servings |
-+-----------------------+---------------------------------+-------------------+
++-----------------------+------------------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 1 hour 10 minutes | Yield: 6 servings |
++-----------------------+------------------------------+-------------------+
 
 Source: `Delish <https://www.delish.com/cooking/recipe-ideas/recipes/a53626/campfire-cobbler-recipe/>`__
 

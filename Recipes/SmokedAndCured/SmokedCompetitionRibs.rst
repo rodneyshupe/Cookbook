@@ -1,6 +1,13 @@
 Smoked Competition Ribs
 =======================
 
++-----------------------+------------------------+----------------+
+| Prep Time: 20 minutes | Cook Time: 3 3/4 hours | Yield: 2 racks |
++-----------------------+------------------------+----------------+
+
+Equipment
+---------
+Smoker
 
 Ingredients
 -----------
@@ -24,7 +31,6 @@ Mop Sauce
 -  1/2 cup Coke
 -  1/2 tbsp Worcestershire sauce
 
-
 Directions
 ----------
 
@@ -34,7 +40,7 @@ Directions
    patting it in with your fingers. Cover and marinate in the
    refrigerator for 1 - 4 hours.
 3. Mix together Mop Sauce ingredients.
-4. Set up the smoker to 240°F, and enough wood for 2 hours of smoke.
+4. Set up the smoker to 240F, and enough wood for 2 hours of smoke.
    Once up to temperature place the ribs on racks and place in smoker
    for 2 hours. Baste with mop sauce every 30 minutes.
 5. After the 2 hours remove ribs from smoker and baste one last time

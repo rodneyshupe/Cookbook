@@ -1,9 +1,9 @@
 Peach tarte tatin with orange blossom cream
 ===========================================
 
-+------------+-------------------+
-| Total: TBD | Yield: 6 servings |
-+------------+-------------------+
++-----------------+-------------------+
+| Total Time: TBD | Yield: 6 servings |
++-----------------+-------------------+
 
 Source: `Clodagh McKenna <https://www.clodaghmckenna.com/blog/peach-tart-tatin-with-orange-blossom-cream>`__
 
@@ -16,17 +16,17 @@ Ingredients
 
 - 150 grams (5.5 oz) caster sugar
 - 70 grams (2.5 oz) unsalted butter
-- 1⁄2 vanilla pod, cut in half lengthways
+- 1/2 vanilla pod, cut in half lengthways
 - 6 peaches, halved
 - 325 grams (11.5 oz) ready-made puff pastry
-- 250 grams (9 oz) crème fraîche
+- 250 grams (9 oz) creme fraiche
 - 2 tablespoons orange blossom water
 - 1 tablespoon orange zest
 
 Directions
 ----------
 
-1. Preheat the oven to 350°F (180°C).
+1. Preheat the oven to 350F (180C).
 2. Place a cast-iron pan or an ovenproof frying pan over low heat and add
    the caster sugar and 100 millilitres (3.5 oz) of water. Stir until the
    sugar has dissolved.
@@ -42,16 +42,16 @@ Directions
 6. Make three small slits in the centre of the pastry with a sharp knife
    and bake for 45 minutes until the peaches are caramelized and the pastry
    is golden.
-7. Meanwhile, to make the orange blossom cream, whisk the crème fraîche
+7. Meanwhile, to make the orange blossom cream, whisk the creme fraiche
    with the orange blossom water and orange zest, and set aside.
 8. When the tarte tatin is cooked, carefully invert the tarte out onto a
    serving dish. Slice and serve with a dollop of the orange blossom cream.
 
 Notes
 -----
-* If you don’t have orange blossom water, just use the zest of an orange
+* If you don't have orange blossom water, just use the zest of an orange
   instead.
 * You can make this a couple of hours before serving, and leave it to rest
   at room temperature (not in the fridge).
-* It’s also delicious made with apples, pineapple or pears.
+* It's also delicious made with apples, pineapple or pears.
 

@@ -1,6 +1,14 @@
 Cabbage Beef Soup
 =================
 
++-----------------------+--------------------+---------------------+
+| Prep Time: 15 minutes | Cook Time: 6 hours | Yield: 6-8 servings |
++-----------------------+--------------------+---------------------+
+
+Equipment
+---------
+Slow Cooker
+
 Ingredients
 -----------
 
@@ -30,5 +38,5 @@ Directions
    chile flakes and oregano and cook until fragrant, about 30 seconds.
 3. Transfer beef mixture to slow cooker and add tomatoes, beans, cabbage, 
    stocks, and water and soy sauce.  Stir together and cook on high for
-   6 hours, stiring occasionally.
+   6 hours, stirring occasionally.
 4. Season to taste and optionally serve with grated parmesan cheese.

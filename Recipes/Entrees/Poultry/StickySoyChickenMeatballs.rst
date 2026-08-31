@@ -1,9 +1,9 @@
 Quick Sticky Soy Chicken Meatballs
 ==================================
 
-+-----------------------+------------------+-------------+
-| Prep Time: 10 minutes | Cook: 30 minutes | Servings: 4 |
-+-----------------------+------------------+-------------+
++-----------------------+-----------------------+----------+
+| Prep Time: 10 minutes | Cook Time: 30 minutes | Yield: 4 |
++-----------------------+-----------------------+----------+
 
 Source: `Mary Berg <https://more.ctv.ca/food/recipes/2024/the-good-stuff/quick-sticky-soy-chicken-meatballs-2.html>`__
 
@@ -34,7 +34,7 @@ Sauce
 
 Directions
 ----------
-1. Heat your oven to 400ºF and line a sheet pan with parchment paper or
+1. Heat your oven to 400F and line a sheet pan with parchment paper or
    lightly grease with non-stick cooking spray.
 2. Add the ground chicken, green onions, garlic, ginger, soy sauce,
    sesame oil, panko, and egg to a large bowl. Using two forks, stir and

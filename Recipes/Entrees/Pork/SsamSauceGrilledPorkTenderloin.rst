@@ -1,6 +1,10 @@
 Ssam Sauce Grilled Pork Tenderloin
 ==================================
 
++-----------------------+-----------------------+-------------------+
+| Prep Time: 10 minutes | Cook Time: 40 minutes | Yield: 4 servings |
++-----------------------+-----------------------+-------------------+
+
 Ingredients
 -----------
 
@@ -18,6 +22,6 @@ Directions
    side for 2 additional minutes.
 3. Switch to ingirect grilling for 15 minutes.  Bast with liberal amount of
    ssam sauce and cook for an additional 20 minutes or until internal temp
-   is 145°F.
+   is 145F.
 4. Slice and serve.
 

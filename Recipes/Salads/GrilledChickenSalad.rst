@@ -1,7 +1,9 @@
 Grilled Chicken Salad
 =====================
 
-Yield:  4 servings
++-----------------------+-----------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 15 minutes | Yield: 4 servings |
++-----------------------+-----------------------+-------------------+
 
 Ingredients
 -----------
@@ -24,15 +26,13 @@ Ingredients
 Directions
 ----------
 
-#. Preheat and season grill: season both sides of the chicken
-#. Place onto grill and cook until done
-#. Meanwhile prepare the dressing; in a bowl whisk oil, soy sauce, garlic, vinegar, ginger, lemon juice, dijon, parsley and seasoning.
-#. Once the chicken is done, slice into strips, place in a large bowl with grapes, peppers, greens and pecans. Drizzle the dressing over top and toss gently.
-#. Place on a platter or individual plates
+1. Preheat and season grill: season both sides of the chicken
+2. Place onto grill and cook until done
+3. Meanwhile prepare the dressing; in a bowl whisk oil, soy sauce, garlic, vinegar, ginger, lemon juice, dijon, parsley and seasoning.
+4. Once the chicken is done, slice into strips, place in a large bowl with grapes, peppers, greens and pecans. Drizzle the dressing over top and toss gently.
+5. Place on a platter or individual plates
 
-
-Note
-----
+Notes
+-----
 Carb count 9g per serving
-
 

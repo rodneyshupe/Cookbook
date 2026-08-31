@@ -1,9 +1,9 @@
 Broccoli-Cheese Soup
 ====================
 
-+-----------------------+----------------------+---------------------+
-| Prep Time: 15 minutes | Cooking Time: 1 hour | Yield: 6-8 servings |
-+-----------------------+----------------------+---------------------+
++-----------------------+-------------------+---------------------+
+| Prep Time: 15 minutes | Cook Time: 1 hour | Yield: 6-8 servings |
++-----------------------+-------------------+---------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/6393-broccoli-cheese-soup>`__
 

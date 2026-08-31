@@ -1,6 +1,10 @@
 Yogurt-Marinated Grilled Boneless Leg of Lamb
 =============================================
 
++-----------------------+-----------------------+--------------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 20 minutes | Marinate Time: 1-3 hours | Yield: 8 servings |
++-----------------------+-----------------------+--------------------------+-------------------+
+
 Source: `West of the Loop <https://www.westoftheloop.com/2015/12/15/grilled-boneless-leg-of-lamb/>`__
 
 Ingredients

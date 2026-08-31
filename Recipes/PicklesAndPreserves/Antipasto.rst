@@ -1,7 +1,9 @@
 Antipasto
 =========
 
-*Yield: Makes about eight 8oz (1/2 pint or 250 mL) jars*
++-----------------------+-----------------------+------------------------------+
+| Prep Time: 20 minutes | Cook Time: 40 minutes | Yield: about eight 8 oz jars |
++-----------------------+-----------------------+------------------------------+
 
 Ingredients
 -----------

@@ -1,9 +1,9 @@
 Lemon-Herb Cod Fillets with Crispy Garlic Potatoes
 ==================================================
 
-+-----------------------+-----------------------+-------------------+
-| Prep Time: 15 minutes | Cooking Time: 1 hours | Yield: 4 servings |
-+-----------------------+-----------------------+-------------------+
++-----------------------+--------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 1 hours | Yield: 4 servings |
++-----------------------+--------------------+-------------------+
 
 Ingredients
 -----------
@@ -20,7 +20,7 @@ Ingredients
 Directions
 ----------
 
-1. Adjust oven rack to lower-middle position and heat oven to 425°F.
+1. Adjust oven rack to lower-middle position and heat oven to 425F.
    Toss potatoes, melted butter, garlic, minced thyme, 1/2 teaspoon
    salt, and 1/4 teaspoon pepper together in bowl.
 2. Shingle potatoes into four 6 by 4-inch rectangular piles in parchment
@@ -31,7 +31,7 @@ Directions
    cod fillet, skinned side down, on top of each potato pile and top
    evenly with butter pieces, thyme sprigs, and lemon slices. Bake until
    cod flakes apart when gently prodded with paring knife and registers
-   140°F, about 15 minutes.
+   140F, about 15 minutes.
 4. To serve, slide spatula underneath potatoes and cod and gently
    transfer to individual plates.
 

@@ -1,9 +1,9 @@
 Bacon-Wrapped Pork Roast with Peach Sauce
 =========================================
 
-+--------------------------------------+---------------------------------+-------------------+
-| Prep Time: 15 minutes + 1 - 24 hours | Cooking Time: 1 hour 15 minutes | Yield: 8 servings |
-+--------------------------------------+---------------------------------+-------------------+
++--------------------------------------+------------------------------+-------------------+
+| Prep Time: 15 minutes + 1 - 24 hours | Cook Time: 1 hour 15 minutes | Yield: 8 servings |
++--------------------------------------+------------------------------+-------------------+
 
 Source: `Cooks Country <https://www.cookscountry.com/recipes/8704-bacon-wrapped-pork-roast-with-peach-sauce>`__
 
@@ -28,7 +28,7 @@ Directions
    250 degrees. Line rimmed baking sheet with aluminum foil and spray with
    vegetable oil spray. Unwrap roast and pat dry with paper towels. Sprinkle
    with herbes de Provence and 1 teaspoon pepper.
-4. Arrange bacon slices on cutting board parallel to counter’s edge,
+4. Arrange bacon slices on cutting board parallel to counter's edge,
    overlapping them slightly to match length of roast. Place roast in center
    of bacon, perpendicular to slices. Bring ends of bacon up and around sides
    of roast, overlapping ends of slices as needed.

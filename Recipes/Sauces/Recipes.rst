@@ -199,7 +199,7 @@ Sauces and Condiments
 
 ----
 
-.. include:: QuickRémoulade.rst
+.. include:: QuickRemoulade.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 

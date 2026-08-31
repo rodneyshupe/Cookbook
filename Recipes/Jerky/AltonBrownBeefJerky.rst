@@ -1,6 +1,10 @@
 Alton Brown Beef Jerky
 ======================
 
++-----------------------+----------------------------------+
+| Prep Time: 10 minutes | Yield: about 1 1/2 cups marinade |
++-----------------------+----------------------------------+
+
 Source: `Alton Brown <https://altonbrown.com/beef-jerky-recipe/>`__
 
 - 2/3 cup Worcestershire sauce

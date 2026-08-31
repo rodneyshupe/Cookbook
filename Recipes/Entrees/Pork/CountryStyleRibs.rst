@@ -1,9 +1,9 @@
 Country-Style Ribs
 ==================
 
-+----------------------+--------------------------+---------------------+
-| Prep Time: 5 minutes | Cooking Time: 65 minutes | Yield: 2-3 servings |
-+----------------------+--------------------------+---------------------+
++----------------------+-----------------------+---------------------+
+| Prep Time: 5 minutes | Cook Time: 65 minutes | Yield: 2-3 servings |
++----------------------+-----------------------+---------------------+
 
 Source: `Fire Escape Griller <https://www.youtube.com/watch?v=dr9d94wDCG0>`__
 

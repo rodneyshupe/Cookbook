@@ -1,6 +1,10 @@
 Six Minute Brownies
 ===================
 
++-----------------------+----------------------+--------------------+
+| Prep Time: 10 minutes | Cook Time: 6 minutes | Yield: 16 brownies |
++-----------------------+----------------------+--------------------+
+
 These brownies are best served warm!
 
 Ingredients

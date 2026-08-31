@@ -1,9 +1,9 @@
 Butternut Squash Soup
 =====================
 
-+-----------------------+---------------------------+---------------------+
-| Prep Time: 15 minutes | Cooking Time: 1 1/4 hours | Yield: 6-8 servings |
-+-----------------------+---------------------------+---------------------+
++-----------------------+------------------------+---------------------+
+| Prep Time: 15 minutes | Cook Time: 1 1/4 hours | Yield: 6-8 servings |
++-----------------------+------------------------+---------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/6686-butternut-squash-soup>`__
 

@@ -1,7 +1,9 @@
 Homemade Pickling Spice
 =======================
 
-*Yield: Makes about 1/2 cup (125 mL)*
++----------------------+----------------------+
+| Prep Time: 5 minutes | Yield: about 1/2 cup |
++----------------------+----------------------+
 
 Ingredients
 -----------
@@ -25,5 +27,4 @@ Directions
    peppercorns, ginger, dill seeds, cardamom seeds, hot pepper flakes
    and cloves. Stir well. Store in 4-ounce (125 mL) jars or an 8-ounce
    (250 mL) jar, or another airtight container, for up to 1year.
-
 

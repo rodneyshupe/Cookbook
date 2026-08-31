@@ -1,7 +1,11 @@
 Simple Sweet Rub
 ================
 
-A sweet dry rub that’s excellent on pork, especially pork butt that will be shredded.
++----------------------+--------------------+
+| Prep Time: 5 minutes | Yield: about 1 cup |
++----------------------+--------------------+
+
+A sweet dry rub that's excellent on pork, especially pork butt that will be shredded.
 
 Ingredients
 -----------

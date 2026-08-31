@@ -25,7 +25,7 @@ Ingredients
 Directions
 ----------
 
-1. Adjust oven rack to middle position and heat oven to 350°F.
+1. Adjust oven rack to middle position and heat oven to 350F.
    Brush bread slices with 1/4 cup oil. Bake on baking sheet until
    golden brown, about 10 minutes.
 2. Process ginger, garlic, and onion in food processor until smooth. Add

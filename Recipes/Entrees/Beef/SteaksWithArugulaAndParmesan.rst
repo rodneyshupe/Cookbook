@@ -1,9 +1,9 @@
 Steaks with Arugula and Parmesan
 ================================
 
-+-----------------------+--------------------------+-------------------+
-| Prep Time: 15 minutes | Cooking Time: 30 minutes | Yield: 4 servings |
-+-----------------------+--------------------------+-------------------+
++-----------------------+-----------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 30 minutes | Yield: 4 servings |
++-----------------------+-----------------------+-------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/8892-grilled-frozen-steaks-with-arugula-and-parmesan>`__
 
@@ -21,7 +21,7 @@ Directions
 
 1. Season steaks with salt and pepper and then grill until browned and
    charred on each side (5 to 7 minutes per side) and an internal
-   temperature of 120°F for medium rare or 125°F for medium. Tent with
+   temperature of 120F for medium rare or 125F for medium. Tent with
    foil and let rest for 5 minutes.
 2. Slice steaks thin against grain. Fan slices on either side of large
    platter. Whisk oil, lemon juice, 3/4 teaspoon salt, and 1/4 teaspoon
@@ -41,7 +41,7 @@ and cook covered if using gas until browned and charred on first side,
 browned and charred on second side, 5 to 7 minutes. Flip steaks, season with
 salt and pepper, and move to cooler side of grill, arranging so steaks are
 about 6 inches from heat source. Continue to cook until meat registers
-120°F for rare or 125°F degrees for medium-rare, 10 to 15 minutes longer.
+120F for rare or 125F degrees for medium-rare, 10 to 15 minutes longer.
 Transfer steaks to wire rack set in rimmed baking sheet and let rest for
 5 minutes before serving.
 

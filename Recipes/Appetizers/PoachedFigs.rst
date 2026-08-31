@@ -1,6 +1,10 @@
 Poached Figs served with Greek Manouri Cheese
 =============================================
 
++-----------------------+-----------------------+-------------------------+-------------------+
+| Prep Time: 10 minutes | Cook Time: 45 minutes | Total Time: 1 3/4 hours | Yield: 4 servings |
++-----------------------+-----------------------+-------------------------+-------------------+
+
 Ingredients
 -----------
 - 12 oz Dried greek figs

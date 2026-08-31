@@ -1,6 +1,10 @@
 Southern-Style Cornbread
 ========================
 
++-----------------------+-----------------------+-----------------+
+| Prep Time: 20 minutes | Cook Time: 25 minutes | Yield: 8 wedges |
++-----------------------+-----------------------+-----------------+
+
 Ingredients
 -----------
 -  1 1/2 cups stone-ground cornmeal
@@ -14,10 +18,9 @@ Ingredients
 -  1 cup buttermilk (substitute 1 1/2 teaspoons of cream of tartar and 1 cup regular milk)
 -  2 large eggs plus 1 large yolk
 
-
 Directions
 ----------
-1. Adjust oven rack to middle position and heat oven to 400°F. Whisk
+1. Adjust oven rack to middle position and heat oven to 400F. Whisk
    cornmeal, flour, sugar, baking powder, baking soda, and salt together
    in large bowl.
 2. Process corn kernels in blender until very smooth, about 2 minutes.

@@ -1,9 +1,9 @@
 Hearty Beef Lasagna
 ===================
 
-+-----------------------+----------------------+------------------------------------------------+
-| Prep Time: 30 minutes | Cooking Time: 1 hour | Yield: 8-12 servings, one 13x9 or two 8x8 pans |
-+-----------------------+----------------------+------------------------------------------------+
++-----------------------+-------------------+------------------------------------------------+
+| Prep Time: 30 minutes | Cook Time: 1 hour | Yield: 8-12 servings, one 13x9 or two 8x8 pans |
++-----------------------+-------------------+------------------------------------------------+
 
 Source: `Cooks Country <https://www.cookscountry.com/recipes/9407-hearty-beef-lasagna>`__
 
@@ -47,7 +47,7 @@ Directions
 ----------
 
 1. **For the Lasagna**: Adjust oven rack to middle position and heat oven to
-   375°F. Spray rimmed baking sheet and 13 by 9-inch baking dish with
+   375F. Spray rimmed baking sheet and 13 by 9-inch baking dish with
    oil spray. Bring 4 quarts water to boil in large Dutch oven. Add noodles
    and salt and cook, stirring often, until al dente. Drain noodles and
    transfer them to prepared sheet. Using tongs, gently turn noodles to coat

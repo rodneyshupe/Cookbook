@@ -1,9 +1,9 @@
 Baked Gnocchi with Tomato and Basil
 ===================================
 
-+-----------------------+--------------------------+-------------------+
-| Prep Time: 20 minutes | Cooking Time: 30 minutes | Yield: 4 servings |
-+-----------------------+--------------------------+-------------------+
++-----------------------+-----------------------+-------------------+
+| Prep Time: 20 minutes | Cook Time: 30 minutes | Yield: 4 servings |
++-----------------------+-----------------------+-------------------+
 
 Source: `Cooks Country <https://www.cookscountry.com/recipes/4480-baked-gnocchi-with-tomato-and-basil>`__
 
@@ -35,8 +35,8 @@ Directions
    with mozzarella and bake until cheese is well browned, about 8 minutes.
    Serve.
 
-Note
-----
+Notes
+-----
 If you do not have an ovensafe skillet, in step 3 transfer the gnocchi to a
 casserole dish for baking.
 

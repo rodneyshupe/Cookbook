@@ -1,6 +1,10 @@
 French Fries
 ============
 
++-----------------------+-----------------------+-------------------+
+| Prep Time: 20 minutes | Cook Time: 20 minutes | Yield: 4 servings |
++-----------------------+-----------------------+-------------------+
+
 Ingredients
 -----------
 
@@ -8,7 +12,6 @@ Ingredients
 -  6 cups peanut oil
 -  1/4 cup bacon fat, strained (optional)
 -  Kosher salt
-
 
 Directions
 ----------
@@ -22,7 +25,6 @@ Directions
    10 minutes longer. Using skimmer or slotted spoon, transfer fries to
    thick paper bag or paper towels. Season with salt and serve
    immediately.
-
 
 Notes
 -----

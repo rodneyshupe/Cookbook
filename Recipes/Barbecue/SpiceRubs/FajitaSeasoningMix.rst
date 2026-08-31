@@ -1,6 +1,10 @@
 Fajita Seasoning Mix
 ====================
 
++----------------------+----------------------+
+| Prep Time: 5 minutes | Yield: about 1/2 cup |
++----------------------+----------------------+
+
 This recipe makes about 1/2 cup fajita seasoning.
 
 Ingredients
@@ -12,5 +16,4 @@ Ingredients
 - 1 1/2 tablespoon smoked paprika 
 - 1 1/2 tablespoon chipotle chili powder
 - 1 1/2 tablespoon kosher salt 
-
 

@@ -1,20 +1,24 @@
 Braised Short Ribs with Bacon and Mushrooms
 ===========================================
 
++-----------------------+--------------------+---------------------+
+| Prep Time: 20 minutes | Cook Time: 3 hours | Yield: 4-6 servings |
++-----------------------+--------------------+---------------------+
+
 Source: `Gordon Ramsey <https://www.youtube.com/watch?v=QnxLau7m600>`__
 
 Ingredients
 -----------
 
-- 3lb (1.5kg) beef short rib (5 – 6 bones)
+- 3lb (1.5kg) beef short rib (5 - 6 bones)
 - salt and pepper
 - 3 tablespoons vegetable oil
 - 1 large head of garlic, cut in half with skin on
 - 1 1/2 tablespoon tomato paste
 - 1 750ml bottle red wine
-- 3 – 4 cups beef stock
+- 3 - 4 cups beef stock
 - 8 oz Portabellini or chestnut mushrooms, halved
-- 3/4 lb thick cut bacon, sliced into lardons about ½ cm thick
+- 3/4 lb thick cut bacon, sliced into lardons about 1/2 cm thick
 - a handful of fresh Italian parsley, roughly chopped
 
 Directions

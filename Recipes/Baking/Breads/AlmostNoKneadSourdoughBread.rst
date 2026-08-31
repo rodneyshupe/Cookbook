@@ -1,6 +1,10 @@
 Almost No-Knead Sourdough Bread
 ===============================
 
++-----------------------+-------------------+----------------------+---------------+
+| Prep Time: 20 minutes | Cook Time: 1 hour | Total Time: 16 hours | Yield: 1 loaf |
++-----------------------+-------------------+----------------------+---------------+
+
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/9075-sourdough-starter>`__
 
 Ingredients

@@ -1,9 +1,9 @@
 Corn and Yukon Gold Potato Soup
 ===============================
 
-+-----------------------+----------------------+-----------------------+
-| Prep Time: 15 minutes | Cooking Time: 1 hour | Yield: 4 - 6 servings |
-+-----------------------+----------------------+-----------------------+
++-----------------------+-------------------+-----------------------+
+| Prep Time: 15 minutes | Cook Time: 1 hour | Yield: 4 - 6 servings |
++-----------------------+-------------------+-----------------------+
 
 Source: `Global Group <https://www.glowbalgroup.com/blog/2016/01/21/corn-yukon-gold-potato-soup-a-dine-out-recipe/>`__
 
@@ -28,7 +28,7 @@ Directions
 ----------
 
 1. Place butter, chopped onions, red bell pepper, celery, salt and pepper in
-   pot and cook at medium-low until vegetables soften. Add potatoes and sauté
+   pot and cook at medium-low until vegetables soften. Add potatoes and saute
    for 10 more minutes.
 2. Add vegetable stock, saffron and bay leaf. Bring to a boil and reduce heat
    to a bare simmer. Cover the pot and cook for 20 minutes. Make sure the

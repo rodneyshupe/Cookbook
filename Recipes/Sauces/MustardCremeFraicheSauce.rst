@@ -1,8 +1,11 @@
 Mustard-Creme Fraiche Sauce
 ===========================
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/8059-mustard-creme-fraiche-sauce-for-two>`__
++----------------------+----------------------+
+| Prep Time: 5 minutes | Yield: about 1/2 cup |
++----------------------+----------------------+
 
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/8059-mustard-creme-fraiche-sauce-for-two>`__
 
 Ingredients
 -----------
@@ -15,6 +18,6 @@ Ingredients
 Directions
 ----------
 
-1. Whisk creme fraîche, mustard, and parsley together in bowl. Season
+1. Whisk creme fraiche, mustard, and parsley together in bowl. Season
    with salt and pepper to taste.
 

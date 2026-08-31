@@ -1,6 +1,10 @@
 Pan Seared Striploin Steaks with Sauted Mushrooms
 =================================================
 
++-----------------------+-----------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 20 minutes | Yield: 2 servings |
++-----------------------+-----------------------+-------------------+
+
 Ingredients
 -----------
 
@@ -19,7 +23,7 @@ Directions
    in mushrooms and toss until golden brown (do not over crowed the pan).
    When they are cooked, remove mushrooms and place in a bowl, add in
    butter, chopped shallot, and chives, put aside and let cool.
-2. Preheat oven to 200°F. Line sheet pan and place a rack inside the pan.
+2. Preheat oven to 200F. Line sheet pan and place a rack inside the pan.
 3. Remove all but 1-2 tablespoons of oil from the pan and reheat to smoking
    hot.  Add steaks and sear on both sides (approx. 3 - 5 minutes.)
 4. Place steaks on prepared pan and place in preheated oven for approximately

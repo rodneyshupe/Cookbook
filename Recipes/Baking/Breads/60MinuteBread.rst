@@ -1,6 +1,10 @@
 60-Minute Bread
 ===============
 
++-----------------------+-----------------------+-------------------------+---------------+
+| Prep Time: 15 minutes | Cook Time: 40 minutes | Total Time: 1 1/2 hours | Yield: 1 loaf |
++-----------------------+-----------------------+-------------------------+---------------+
+
 Source: The Minimalist Cooks Dinner by Mark Bittman
 
 Ingredients
@@ -21,7 +25,7 @@ Directions
 2. Shape the dough into a flat round or long loaf, adding only enough flour
    to allow you to handle the dough. Place the dough on a baking sheet or a
    well-floured pizza peel. Let it rise in the warmest place in your
-   kitchen, covered, while you preheat the oven to 425°F. (If you have time,
+   kitchen, covered, while you preheat the oven to 425F. (If you have time,
    let it rise for an hour or so.)
 3. Bake the bread on a sheet, or slide it onto a baking stone. Bake until
    done, 30 to 45 minutes; the crust will be golden-brown, crisp, and firm.

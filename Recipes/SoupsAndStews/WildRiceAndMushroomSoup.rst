@@ -1,9 +1,9 @@
 Wild Rice and Mushroom Soup
 ===========================
 
-+-----------------------+---------------------------+---------------------+
-| Prep Time: 30 minutes | Cooking Time: 2 1/4 hours | Yield: 6-8 servings |
-+-----------------------+---------------------------+---------------------+
++-----------------------+------------------------+---------------------+
+| Prep Time: 30 minutes | Cook Time: 2 1/4 hours | Yield: 6-8 servings |
++-----------------------+------------------------+---------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/7283-wild-rice-and-mushroom-soup>`__
 
@@ -34,7 +34,7 @@ Ingredients
 Directions
 ----------
 
-1. Adjust oven rack to middle position and heat oven to 375°F. Grind
+1. Adjust oven rack to middle position and heat oven to 375F. Grind
    shiitake mushrooms in spice grinder until finely ground (you should
    have about 3 tablespoons).
 2. Bring 4 cups water, thyme, bay leaf, garlic clove, 3/4 teaspoon salt,

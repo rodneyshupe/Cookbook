@@ -1,8 +1,12 @@
 Grilled Lobster
 ===============
 
-Instructions
-------------
++-----------------------+-----------------------+-------------------+
+| Prep Time: 20 minutes | Cook Time: 15 minutes | Yield: 4 servings |
++-----------------------+-----------------------+-------------------+
+
+Ingredients
+-----------
 
 - 6 tablespoons unsalted butter (3/4 stick), melted
 - 2 medium cloves garlic, minced or pressed through a garlic press (about 2 teaspoons)

@@ -1,10 +1,11 @@
 Scalloped Potatoes
 ==================
 
++-----------------------+-----------------------+------------------------+
+| Prep Time: 20 minutes | Cook Time: 25 minutes | Yield: 4 to 6 servings |
++-----------------------+-----------------------+------------------------+
+
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/36-scalloped-potatoes>`__
-
-Serves: 4 to 6
-
 
 Ingredients
 -----------
@@ -21,11 +22,10 @@ Ingredients
 -  2 bay leaves
 -  4 ounces grated cheddar cheese, shredded (1 cup)
 
-
 Directions
 ----------
 
-1. Adjust oven rack to middle position; heat oven to 425°F.
+1. Adjust oven rack to middle position; heat oven to 425F.
 2. Melt butter in large Dutch oven over medium-high heat until foaming
    subsides. Add onion and cook, stirring occasionally, until soft and
    lightly browned, about 4 minutes. Add garlic, thyme, salt, and
@@ -39,14 +39,13 @@ Directions
    Bake until cream is bubbling around edges and top is golden brown,
    about 15 minutes. Cool 10 minutes before serving.
 
-
 Make Ahead
 ----------
 
 Once the scalloped potatoes have been transferred to the baking dish and
 pressed into an even layer in step 3, they can be wrapped in plastic
 wrap and refrigerated for up to 24 hours. When ready to bake, add the
-cheese, cover with foil, and bake in a 400°F oven until the mixture is
+cheese, cover with foil, and bake in a 400F oven until the mixture is
 hot and bubbling, about 45 minutes. Remove the foil and cook until the
 cheddar begins to brown, about 30 minutes longer. Let cool for 10
 minutes before serving.

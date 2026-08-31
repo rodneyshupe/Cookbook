@@ -1,6 +1,10 @@
 Garlic Bread
 ============
 
++-----------------------+-----------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 10 minutes | Yield: 6 servings |
++-----------------------+-----------------------+-------------------+
+
 Ingredients
 -----------
 - 9 - 10 medium cloves garlic (about the size of a plump cashew nut), skins left on
@@ -11,7 +15,7 @@ Ingredients
 
 Directions
 ----------
-1. Adjust oven rack to middle position and heat oven to 500°F. Meanwhile,
+1. Adjust oven rack to middle position and heat oven to 500F. Meanwhile,
    toast garlic cloves in small skillet over medium heat, shaking pan
    occasionally, until fragrant and color of cloves deepens slightly, about
    8 minutes. When cool enough to handle, skin and mince cloves (you should
@@ -23,7 +27,7 @@ Directions
    through baking time, until surface of bread is golden brown and toasted,
    8 to 10 minutes. Cut each half into 2-inch slices; serve immediately.
 
-Note
-----
+Notes
+-----
 Garlic bread is best served piping hot, so time it to arrive at the table last,
 once all the other dishes are finished and ready to serve.

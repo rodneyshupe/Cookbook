@@ -1,6 +1,10 @@
 Cast Iron Paella
 ================
 
++-----------------------+-----------------------+---------------------+
+| Prep Time: 25 minutes | Cook Time: 45 minutes | Yield: 4-6 servings |
++-----------------------+-----------------------+---------------------+
+
 A traditional stainless-steel pan would have to sit over high heat for
 the last 5 minutes of cooking to develop this crust, which creates a
 high risk of the more delicate ingredients overcooking, but the
@@ -52,9 +56,4 @@ Directions
 5. Off heat, discard any mussels that refuse to open. Scatter peas over
    rice, cover, and let sit until heated through, about 5 minutes. Serve
    immediately with lemon wedges.
-
-Yield:
-------
-
-4-6 servings
 

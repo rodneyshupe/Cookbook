@@ -1,9 +1,9 @@
 Chilli Tomatillo Salsa
 ======================
 
-+-------------------+------------------------------------------+
-| Total: 25 minutes | Yield: Serves 6 (Makes about 1 1/2 cups) |
-+-------------------+------------------------------------------+
++------------------------+------------------------------------------+
+| Total Time: 25 minutes | Yield: Serves 6 (Makes about 1 1/2 cups) |
++------------------------+------------------------------------------+
 
 Ingredients
 -----------
@@ -34,6 +34,6 @@ Directions
 Notes
 -----
 
-To make this salsa spicier, reserve and add the jalapeño seeds to the
+To make this salsa spicier, reserve and add the jalapeno seeds to the
 blender before processing.
 

@@ -1,9 +1,9 @@
 Jalapeno Hot Sauce
 ==================
 
-+-----------------+-------------------+-------------------+
-| Prep: 20 minutes | Time: 45 minutes | Yield: 1 1/2 cups |
-+-----------------+-------------------+-------------------+
++-----------------------+------------------------+-------------------+
+| Prep Time: 20 minutes | Total Time: 45 minutes | Yield: 1 1/2 cups |
++-----------------------+------------------------+-------------------+
 
 Source: `PepperScale <https://www.pepperscale.com/jalapeno-hot-sauce-recipe/>`__
 
@@ -21,11 +21,11 @@ Ingredients
 Directions
 ----------
 
-1. Saute the oil, jalapeño peppers, onions, garlic, and salt in a sauce pan
+1. Saute the oil, jalapeno peppers, onions, garlic, and salt in a sauce pan
    over high hight for 4 minutes.
 2. Pour water into the mix and cook, stirring often, for 20 minutes.
 3. Take pan off heat and let the mixture cool down to room temperature.
-4. Puree the mix in a food processor until it’s completely smooth.
+4. Puree the mix in a food processor until it's completely smooth.
 5. Keep the processor running and add in the distilled white vinegar until
    completely mixed.
 6. Place into a jar or bottle.

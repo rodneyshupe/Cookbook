@@ -1,9 +1,13 @@
 Faith's Simple Chili
 ====================
 
-+-----------------------+------------------------+---------------------+
-| Prep Time: 10 minutes | Cooking Time: 8+ hours | Yield: 4-6 servings |
-+-----------------------+------------------------+---------------------+
++-----------------------+---------------------+---------------------+
+| Prep Time: 10 minutes | Cook Time: 8+ hours | Yield: 4-6 servings |
++-----------------------+---------------------+---------------------+
+
+Equipment
+---------
+Slow Cooker
 
 Ingredients
 -----------
@@ -21,7 +25,7 @@ Ingredients
 Directions
 ----------
 
-1. In a medium high pan, fry beef and onions until meet is browned.
+1. In a medium high pan, fry beef and onions until meat is browned.
 2. Add beef and onions to slow cooker, stir in all other ingredients and set
    slow cooker to med and cook for at least 8 hours.
 

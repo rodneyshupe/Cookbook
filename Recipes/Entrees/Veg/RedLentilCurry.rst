@@ -1,9 +1,9 @@
 Red Lentil Curry
 ================
 
-+-----------------+-------------------+----------+
-| Prep: 5 minutes | Total: 30 minutes | Yield: 3 |
-+-----------------+-------------------+----------+
++----------------------+------------------------+----------+
+| Prep Time: 5 minutes | Total Time: 30 minutes | Yield: 3 |
++----------------------+------------------------+----------+
 
 Source: `Minimalist Baker <https://minimalistbaker.com/spicy-red-lentil-curry/>`__
 
@@ -37,8 +37,8 @@ Directions
    serving with brown rice, cook at this time using this method from
    Saveur.
 2. Heat a large rimmed skillet over medium heat. Once hot, add coconut oil,
-   garlic, ginger, and carrots. Sauté for 2 minutes, stirring frequently.
-3. Add curry paste and sauté for 2 minutes, stirring frequently.
+   garlic, ginger, and carrots. Saute for 2 minutes, stirring frequently.
+3. Add curry paste and saute for 2 minutes, stirring frequently.
 4. Add tomato paste, vegetable broth, water and stir to combine. Then add
    lentils, coconut sugar, turmeric, and stir.
 5. Bring to a simmer over medium heat, then reduce heat slightly to low (or

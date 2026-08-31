@@ -1,9 +1,11 @@
 Bone Dust
 =========
 
-Really this is a Ted Reader signature seasoning.
++----------------------+-------------------------+
+| Prep Time: 5 minutes | Yield: about 2 1/4 cups |
++----------------------+-------------------------+
 
-Yield: Makes about 2 1/4 cups.
+Really this is a Ted Reader signature seasoning.
 
 Ingredients
 -----------
@@ -15,7 +17,7 @@ Ingredients
 -  2 tablespoons garlic powder
 -  2 tablespoons granulated white sugar
 -  2 tablespoons mild indian curry powder
--  2 tablespoons dry hot mustard powder (Keen’s or Coleman’s)
+-  2 tablespoons dry hot mustard powder (Keen's or Coleman's)
 -  1 tablespoons freshly ground black pepper
 -  1 tablespoons dried basil
 -  1 tablespoons dried thyme

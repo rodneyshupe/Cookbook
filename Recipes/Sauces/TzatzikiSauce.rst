@@ -1,9 +1,9 @@
 Tzatziki Sauce
 ==============
 
-+-----------------------------------------+----------------------------------------+
-| Total: 15 minutes, plus 1 hour chilling | Yield: Serves 3-4 (Makes about 1 cups) |
-+-----------------------------------------+----------------------------------------+
++----------------------------------------------+----------------------------------------+
+| Total Time: 15 minutes, plus 1 hour chilling | Yield: Serves 3-4 (Makes about 1 cups) |
++----------------------------------------------+----------------------------------------+
 
 Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/3853-tzatziki-sauce>`__
 

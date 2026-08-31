@@ -1,6 +1,10 @@
 Tartar Sauce with Dill
 ======================
 
++----------------------+------------------------+----------------------+
+| Prep Time: 5 minutes | Total Time: 15 minutes | Yield: about 3/4 cup |
++----------------------+------------------------+----------------------+
+
 Source:  `Skipper Otto <https://skipperotto.com/wp-content/uploads/2019/04/SO-Recipe-Chipped-Lingcod-back-1024x585.jpg>`__
 
 Ingredients

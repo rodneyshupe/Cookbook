@@ -1,9 +1,9 @@
 Sirloin Steak with Boursin Mashed Potatoes
 ==========================================
 
-+-----------------------+--------------------------+-------------------+
-| Prep Time: 10 minutes | Cooking Time: 45 minutes | Yield: 4 servings |
-+-----------------------+--------------------------+-------------------+
++-----------------------+-----------------------+-------------------+
+| Prep Time: 10 minutes | Cook Time: 45 minutes | Yield: 4 servings |
++-----------------------+-----------------------+-------------------+
 
 Ingredients
 -----------
@@ -26,7 +26,7 @@ Directions
    pepper. Heat oil in 12-inch skillet over medium-high heat until just
    smoking. Brown steaks well on first side, 3 to 5 minutes. Flip
    steaks, reduce heat to medium, and continue to cook until steaks
-   register 120°F to 125°F (for medium-rare), 5 to 7 minutes. Transfer
+   register 120F to 125F (for medium-rare), 5 to 7 minutes. Transfer
    steaks to carving board, tent loosely with aluminum foil, and let
    rest for 5 to 10 minutes. Slice steaks thin against grain.
 3. Drain potatoes and return to saucepan. Cook over low heat, stirring

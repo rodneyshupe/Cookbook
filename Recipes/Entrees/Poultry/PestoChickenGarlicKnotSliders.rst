@@ -1,6 +1,10 @@
 Pesto Chicken Garlic Knot Sliders
 =================================
 
++-----------------------+-----------------------+-------------------+
+| Prep Time: 30 minutes | Cook Time: 35 minutes | Yield: 16 sliders |
++-----------------------+-----------------------+-------------------+
+
 Source: `Tasty <https://tasty.co/recipe/pesto-chicken-garlic-knot-sliders>`__
 
 Ingredients
@@ -24,13 +28,13 @@ Directions
 3. Place each tied knot on a baking sheet or casserole dish with high sides,
    nestling them close together in a 4x4 in (10x10-cm) grid. Once all the
    knots are placed in the dish, cover and let rest for 10 minutes.
-4. Preheat oven to 400°F (200°C).
+4. Preheat oven to 400F (200C).
 5. Uncover and bake for 12 minutes or until the slider buns are golden brown
    and no doughy grey bits remain.
-6. Once the knots are out of the oven, lower the oven temperature to 350°F.
+6. Once the knots are out of the oven, lower the oven temperature to 350F.
 7. Allow the knots to cool, carefully remove them from the baking dish and
    cut the grid horizontally, creating both a top and bottom piece.
-   NOTE: It’s helpful to hold the knots together with a towel on top while
+   NOTE: It's helpful to hold the knots together with a towel on top while
    cutting them horizontally, as the motion of the knife might cause some of
    them to pull apart.
 8. Return the bottom half of the knot-grid to the original baking dish. Evenly
@@ -38,7 +42,7 @@ Directions
    cheese. Place the top half of the garlic knots on top.
 9. Mix together melted butter, garlic, and parsley. Brush mixture liberally
    over the top of the knots.
-10. Bake at 350°F (180°C) for an additional 10 minutes until the tops of the
+10. Bake at 350F (180C) for an additional 10 minutes until the tops of the
     knots are golden brown and cheese is melted.
 11. Pull apart for individual sliders.
 

@@ -1,9 +1,13 @@
-Avacado Cream
+Avocado Cream
 =============
+
++----------------------+--------------------+
+| Prep Time: 5 minutes | Yield: about 1 cup |
++----------------------+--------------------+
 
 Ingredients
 -----------
-- 1 avacado
+- 1 avocado
 - 1/4 cup greek yogurt
 - 2 tablespoons milk 
 - juice from half a lime.
@@ -12,6 +16,6 @@ Ingredients
 
 Directions
 ----------
-- Remove flesh from avacado and rouchly chop. Add to a small blender along
+- Remove flesh from avocado and roughly chop. Add to a small blender along
   with other ingredients and blend until smooth.
 

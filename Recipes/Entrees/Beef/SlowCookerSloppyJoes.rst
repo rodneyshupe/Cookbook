@@ -1,6 +1,14 @@
 Slow Cooker Sloppy Joes
 =======================
 
++-----------------------+--------------------+---------------------+
+| Prep Time: 20 minutes | Cook Time: 7 hours | Yield: 8 sandwiches |
++-----------------------+--------------------+---------------------+
+
+Equipment
+---------
+Slow Cooker
+
 Ingredients
 -----------
 - 2 slices high-quality white sandwich bread, torn into quarters

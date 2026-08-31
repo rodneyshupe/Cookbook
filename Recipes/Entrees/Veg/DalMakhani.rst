@@ -1,6 +1,14 @@
 Dal Makhani
 ===========
 
++-----------------------+-----------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 30 minutes | Yield: 4 servings |
++-----------------------+-----------------------+-------------------+
+
+Equipment
+---------
+Electric Pressure Cooker
+
 Ingredients
 -----------
 
@@ -21,14 +29,14 @@ Ingredients
 - Salt to taste
 - Fresh cilantro, chopped, for garnish (optional)
 
-Instructions
-------------
+Directions
+----------
 
 1. Rinse the red lentils and kidney beans thoroughly. You can soak them for
    a few hours or overnight for faster cooking, but it's not essential with
    red lentils.
 2. In a pressure cooker or Instant Pot, heat the butter or ghee over medium
-   heat. Add the garlic, ginger, and diced onion. Sauté until the onion
+   heat. Add the garlic, ginger, and diced onion. Saute until the onion
    becomes translucent, about 5 minutes.
 3. Stir in the red chili powder, garam masala, coriander, cumin, and
    turmeric. Cook for another minute, allowing the spices to release their

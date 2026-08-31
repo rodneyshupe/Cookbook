@@ -1,6 +1,10 @@
 Barbecued Baked Beans
 =====================
 
++-----------------------+------------------------+---------------------+
+| Prep Time: 15 minutes | Cook Time: 5 1/2 hours | Yield: 6-8 servings |
++-----------------------+------------------------+---------------------+
+
 Ingredients
 -----------
 
@@ -16,12 +20,11 @@ Ingredients
 -  1 tablespoon mild molasses
 -  Tabasco sauce (or something similar)
 
-
 Directions
 ----------
 
 1. Adjust an oven rack to the lower-middle position and heat the oven to
-   300°F. Cook the bacon in a large Dutch oven over medium heat until
+   300F. Cook the bacon in a large Dutch oven over medium heat until
    beginning to crisp, about 5 minutes. Stir in the onion and cook until
    the onion is softened, about 5 minutes.
 2. Stir in the garlic and cook until fragrant, about 15 seconds. Stir in
@@ -34,9 +37,8 @@ Directions
    with additional barbecue sauce, Tabasco, and salt and pepper to
    taste.
 
-
-Make-a-head
------------
+Make Ahead
+----------
 
 After cooking, the beans can be cooled to room temperature and
 refrigerated, wrapping tightly in plastic wrap, for up to 4 days. Reheat

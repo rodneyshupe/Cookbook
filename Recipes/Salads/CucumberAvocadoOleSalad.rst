@@ -1,7 +1,9 @@
 Cucumber Avocado Ole Salad
 ==========================
 
-Yield: 4 servings
++-----------------------+-------------------+
+| Prep Time: 25 minutes | Yield: 4 servings |
++-----------------------+-------------------+
 
 Ingredients
 -----------
@@ -26,12 +28,12 @@ Ingredients
 Directions
 ----------
 
-#. In a bowl place cucumber, avocado, roma tomatoes, lime juice, cilantro,
+1. In a bowl place cucumber, avocado, roma tomatoes, lime juice, cilantro,
    seasoning, and 2 tbsp. Extra virgin olive oil, toss.
-#. In a small bowl prepare the vinaigrette; whisk 2 parts olive oil to
+2. In a small bowl prepare the vinaigrette; whisk 2 parts olive oil to
    1 part vinegar, add grainy Dijon, lemon juice, and garlic, put aside.
-#. In a salad bowl place greens, roasted peppers, season, and drizzle
+3. In a salad bowl place greens, roasted peppers, season, and drizzle
    vinaigrette, toss.
-#. Portion salad onto four plates and top with cool cucumber, avocado
+4. Portion salad onto four plates and top with cool cucumber, avocado
    salad.
-#. Place corn chips around salad
+5. Place corn chips around salad

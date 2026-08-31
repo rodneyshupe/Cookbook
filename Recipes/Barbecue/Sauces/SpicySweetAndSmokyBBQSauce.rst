@@ -1,6 +1,10 @@
 Spicy Sweet and Smoky BBQ Sauce
 ===============================
 
++-----------------------+-----------------------+-------------------------+
+| Prep Time: 10 minutes | Cook Time: 20 minutes | Yield: about 1 3/4 cups |
++-----------------------+-----------------------+-------------------------+
+
 Ingredients
 -----------
 
@@ -18,7 +22,6 @@ Ingredients
 - kosher salt
 - fresh cracked pepper
 - 1/2 cup water, if necessary
-
 
 Directions
 ----------

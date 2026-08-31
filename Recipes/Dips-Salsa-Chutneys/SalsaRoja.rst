@@ -1,9 +1,11 @@
 Salsa Roja
 ==========
 
-Source: `Cooks Country <https://www.cookscountry.com/recipes/9411-salsa-roja>`__
++-----------------------+----------------------+-------------------------+
+| Prep Time: 10 minutes | Cook Time: 5 minutes | Yield: about 1 1/2 cups |
++-----------------------+----------------------+-------------------------+
 
-Yield: about 1 1/2 cups
+Source: `Cooks Country <https://www.cookscountry.com/recipes/9411-salsa-roja>`__
 
 Ingredients
 -----------
@@ -29,7 +31,7 @@ Directions
    refrigerated for up to 3 days. Cover and microwave briefly to rewarm
    before serving.)
 
-Note
-----
+Notes
+-----
 To make this salsa spicier, reserve and add the jalapeno seeds to the blender before processing
 

@@ -30,7 +30,7 @@ Sides
 
 ----
 
-.. include:: ../Sous-Vide/Garlic-Smashed-Potatoes.rst
+.. include:: Garlic-Smashed-Potatoes.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
@@ -118,7 +118,7 @@ Sides
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: ../Sous-Vide/Butternut-Squash-Puree.rst
+.. include:: Butternut-Squash-Puree.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
@@ -248,12 +248,18 @@ Sides
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: ../Sous-Vide/Glazed-Carrots.rst
+.. include:: Glazed-Carrots.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: ../Sous-Vide/Green-Beans-with-Lemon.rst
+.. include:: Green-Beans-with-Lemon.rst
 
 ----
 
-.. include:: ../Sous-Vide/Self-Buttering-Corn-on-the-Cob.rst
+.. include:: Self-Buttering-Corn-on-the-Cob.rst
+.. include:: ../../includes/recipePageBreak.rst
+.. include:: AirFryerBakedPotatoes.rst
+.. include:: ../../includes/recipePageBreak.rst
+.. include:: AirFryerTwiceBakedPotatoes.rst
+.. include:: ../../includes/recipePageBreak.rst
+.. include:: AirFryerFrenchFries.rst

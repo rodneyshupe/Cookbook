@@ -1,9 +1,9 @@
 Pineapple Chipotle Pork Tenderloin
 ==================================
 
-+-----------------------+------------------+-------------+
-| Prep Time: 10 minutes | Cook: 60 minutes | Servings: 4 |
-+-----------------------+------------------+-------------+
++-----------------------+-----------------------+----------+
+| Prep Time: 10 minutes | Cook Time: 60 minutes | Yield: 4 |
++-----------------------+-----------------------+----------+
 
 Source: `Mary Berg <https://more.ctv.ca/food/recipes/2024/the-good-stuff/pineapple-chipotle-pork-tenderloin.html>`__
 
@@ -24,7 +24,7 @@ Ingredients
 Directions
 ----------
 
-1. Heat your oven to 425ºF and line a sheet pan with aluminum foil or
+1. Heat your oven to 425F and line a sheet pan with aluminum foil or
    parchment paper.
 2. Add the pineapple, chipotle in adobo, and garlic to a small food
    processor or smoothie blender and blitz until smooth. Transfer to a
@@ -35,6 +35,6 @@ Directions
    pork with oil and season with salt and pepper. Sear the pork for two
    to three minutes per side, then transfer it to the prepared sheet pan.
 5. Divide over the sauce and transfer the pork to the oven to roast for
-   15 to 18 minutes or until cooked to your liking or 145ºF.
+   15 to 18 minutes or until cooked to your liking or 145F.
 6. Set the pork aside to rest for five to 10 minutes before thickly
    slicing and serving.

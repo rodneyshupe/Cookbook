@@ -1,6 +1,10 @@
 Almond Granola with Dried Fruit
 ===============================
 
++-----------------------+-----------------------+---------------------+---------------+
+| Prep Time: 10 minutes | Cook Time: 45 minutes | Total Time: 2 hours | Yield: 9 cups |
++-----------------------+-----------------------+---------------------+---------------+
+
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/6977-almond-granola-with-dried-fruit>`__
 
 Ingredients
@@ -18,7 +22,7 @@ Ingredients
 Directions
 ----------
 
-1. Adjust oven rack to upper-middle position and heat oven to 325°F.
+1. Adjust oven rack to upper-middle position and heat oven to 325F.
    Line rimmed baking sheet with parchment paper.
 2. Whisk maple syrup, brown sugar, vanilla, and salt in large bowl.
    Whisk in oil. Fold in oats and almonds until thoroughly coated.

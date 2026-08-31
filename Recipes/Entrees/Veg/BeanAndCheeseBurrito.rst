@@ -1,13 +1,17 @@
 Bean and Cheese Burrito
 =======================
 
++-----------------------+-----------------------+-------------------+
+| Prep Time: 20 minutes | Cook Time: 15 minutes | Yield: 4 burritos |
++-----------------------+-----------------------+-------------------+
+
 Ingredients
 -----------
 
 - 2 pablano peppers
 - 4 large flour tortillas
 - `Mexican Rice <#quick-mexican-rice>`__
-- `Refried Beans <#refried-beans>`__ (Note use vegtable oil instead of bacon)
+- `Refried Beans <#refried-beans>`__ (Note use vegetable oil instead of bacon)
 - 1 cup shreaded jackcheese.
 - tortilla chips.
 

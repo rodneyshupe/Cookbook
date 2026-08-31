@@ -1,9 +1,9 @@
 Green Onion Jam
 ===============
 
-+------------------+-----------------+--------------+
-| Prep: 10 minutes | Total: 1 minute | Yield: 1 cup |
-+------------------+-----------------+--------------+
++-----------------------+----------------------+--------------+
+| Prep Time: 10 minutes | Total Time: 1 minute | Yield: 1 cup |
++-----------------------+----------------------+--------------+
 
 Source: `Team Tasting Table <https://www.tastingtable.com/cook/recipes/spring-onion-jam-recipe-sherry-vinegar>`__
 

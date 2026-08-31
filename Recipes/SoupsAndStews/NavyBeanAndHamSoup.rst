@@ -1,9 +1,9 @@
 Classic Navy Bean & Ham Soup
 ============================
 
-+-----------------------+-------------------------+---------------------+
-| Prep Time: 15 minutes | Cooking Time: 2.5 hours | Yield: 6-8 servings |
-+-----------------------+-------------------------+---------------------+
++-----------------------+----------------------+---------------------+
+| Prep Time: 15 minutes | Cook Time: 2.5 hours | Yield: 6-8 servings |
++-----------------------+----------------------+---------------------+
 
 Ingredients
 -----------
@@ -40,8 +40,8 @@ Directions
    beans against the side of the pot. Stir in the apple cider vinegar. 
    Taste for seasoning and add salt only if necessary. Serve.
 
-Note
-----
+Notes
+-----
 
 To "Quick Soak" beans if you didn't soak them overnight: Place beans in 
 a large pot and cover with 2 inches of water. Bring to a boil for 2 

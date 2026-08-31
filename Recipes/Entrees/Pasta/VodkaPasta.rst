@@ -1,9 +1,9 @@
 Spicy Vodka Pasta
 =================
 
-+----------------------+--------------------------+-------------------+
-| Prep Time: 5 minutes | Cooking Time: 30 minutes | Yield: 6 servings |
-+----------------------+--------------------------+-------------------+
++----------------------+-----------------------+-------------------+
+| Prep Time: 5 minutes | Cook Time: 30 minutes | Yield: 6 servings |
++----------------------+-----------------------+-------------------+
 
 Source: `Sam the Cooking Guy <https://www.thecookingguy.com/cookbook/2021/5/18/spicy-vodka-pasta-wgarlic-bread>`__
 
@@ -23,7 +23,7 @@ Ingredients
 - 3/4 cup Parmesan cheese, shredded 
 - 2 tablespoons butter
 - 1 cup Panko breadcrumbs
-- 2 tablespoons finely chopped curly parsely
+- 2 tablespoons finely chopped curly parsley
 
 Directions
 ----------
@@ -31,13 +31,13 @@ Directions
    3 minutes - add garlic.  Mix until fragrant, about 45 seconds then stir in
    the tomato paste. Cook, stirring often about 5 minutes.
 2. Add the vodka, stir in well, scraping bottom of the pan as you go until
-   it’s mostly gone. Turn down the heat a bit and add the cream, red pepper
+   it's mostly gone. Turn down the heat a bit and add the cream, red pepper
    flakes and paprika, stir well until combined, season with salt & pepper,
    remove from heat and set aside
 3. Melt butter in a small pot and add the panko crumbs - cook stirring often 
    until golden brown, add the parsley, mix and set aside for garnish
 4. Bring a large pot of salted water, to a boil, and add the pasta - stir 
-   well so it doesn’t stick. Cook about a minute less than package
+   well so it doesn't stick. Cook about a minute less than package
    directions, or until al dente. Drain the pasta, but hang on to one cup of
    the pasta water.
 5. Put the sauce back onto the heat and add the pasta and 1/2 cup of the

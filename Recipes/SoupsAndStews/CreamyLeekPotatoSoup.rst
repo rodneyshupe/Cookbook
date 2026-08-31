@@ -1,9 +1,9 @@
 Creamy Leek-Potato Soup
 =======================
 
-+-----------------------+----------------------+---------------------+
-| Prep Time: 15 minutes | Cooking Time: 1 hour | Yield: 4-6 servings |
-+-----------------------+----------------------+---------------------+
++-----------------------+-------------------+---------------------+
+| Prep Time: 15 minutes | Cook Time: 1 hour | Yield: 4-6 servings |
++-----------------------+-------------------+---------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/5871-creamy-leek-potato-soup>`__
 

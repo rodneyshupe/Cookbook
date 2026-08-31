@@ -1,6 +1,10 @@
 Mustard Dipping Sauce
 =====================
 
++----------------------+----------------------+
+| Prep Time: 5 minutes | Yield: about 1/2 cup |
++----------------------+----------------------+
+
 Ingredients
 -----------
 - 1/4 cup mayonnaise

@@ -1,9 +1,9 @@
 Skillet Beef Stroganoff
 =======================
 
-+-----------------------+----------------------+---------------------+
-| Prep Time: 15 minutes | Cooking Time: 1 hour | Yield: 4-6 servings |
-+-----------------------+----------------------+---------------------+
++-----------------------+-------------------+---------------------+
+| Prep Time: 15 minutes | Cook Time: 1 hour | Yield: 4-6 servings |
++-----------------------+-------------------+---------------------+
 
 Source: `Americas Test Kitchen <https://www.americastestkitchen.com/recipes/3543-skillet-beef-stroganoff>`__
 

@@ -1,6 +1,10 @@
 Rice Cooker Mexican Rice
 ========================
 
++-----------------------+-----------------------+-------------------+
+| Prep Time: 10 minutes | Cook Time: 30 minutes | Yield: 4 servings |
++-----------------------+-----------------------+-------------------+
+
 Source: `Food.com <https://www.food.com/recipe/rice-cooker-mexican-rice-159900>`__
 
 Ingredients

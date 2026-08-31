@@ -1,10 +1,14 @@
 Vegan Brownies
 ==============
 
++-----------------------+-----------------------+-------------------+
+| Prep Time: 10 minutes | Cook Time: 45 minutes | Yield: 8 brownies |
++-----------------------+-----------------------+-------------------+
+
 Ingredients
 -----------
 
-- 1 1/2 cups black beans (if useing canned beens rinse well)
+- 1 1/2 cups black beans (if using canned beans rinse well)
 - 1/2 cup of quick oats, ground
 - 2 tablespoons sugar
 - 1/2 teaspoon baking powder
@@ -18,9 +22,9 @@ Ingredients
 Directions
 ----------
 
-1. Preheat oven to 350°F. Prepare loaf pan by lining with parchment paper.
+1. Preheat oven to 350F. Prepare loaf pan by lining with parchment paper.
 2. Place all ingredients into a food processor and puree.
-3. Bake for 30 minues to 1 hour until a a toothpick can be inserted and 
+3. Bake for 30 minutes to 1 hour until a toothpick can be inserted and 
    removed dry. Let cool and serve.
 
 Notes

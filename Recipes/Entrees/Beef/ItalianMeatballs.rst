@@ -1,6 +1,10 @@
 Italian Meatballs
 =================
 
++-----------------------+-----------------------+---------------------+
+| Prep Time: 25 minutes | Cook Time: 20 minutes | Yield: 14 meatballs |
++-----------------------+-----------------------+---------------------+
+
 Ingredients
 -----------
 
@@ -28,7 +32,7 @@ Directions
    be placed on large plate, covered loosely with plastic wrap, and
    refrigerated for several hours.)
 3. Meanwhile, heat 1/4 -inch vegetable oil over medium-high heat in
-   10- or 11-inch sauté pan. When edge of meatball dipped in oil sizzles, add
+   10- or 11-inch saute pan. When edge of meatball dipped in oil sizzles, add
    meatballs in single layer. Fry, turning several times, until nicely
    browned on all sides, about 10 minutes, regulating heat as needed to keep
    oil sizzling but not smoking. Transfer browned meatballs to paper towel
@@ -37,8 +41,7 @@ Directions
 Notes
 -----
 - When cooking the meatballs you can use less oil and a non stick pan.  Use
-  about 3-4 tablespoons of vegtable oil in the pan.
+  about 3-4 tablespoons of vegetable oil in the pan.
 - Serve with `Simple Tomato Sauce <#simple-tomato-sauce>`__ alone or on
   spaghitti with or without `Garlic Bread <#garlic-bread>`__.
-
 

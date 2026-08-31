@@ -1,10 +1,12 @@
 Tennessee-Style Mustard Coleslaw
 ================================
 
++-----------------------+-------------------+
+| Prep Time: 10 minutes | Yield: 6 servings |
++-----------------------+-------------------+
+
 Classic mayonnaise-based coleslaw is bolstered here by the addition of
 mustard.
-
-Yield:  Serves 6
 
 Ingredients
 -----------

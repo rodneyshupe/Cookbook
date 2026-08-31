@@ -66,7 +66,7 @@ Pickles and Preserves
 
 ----
 
-.. include:: PickledOnions&Habaneros.rst
+.. include:: PickledOnionsAndHabaneros.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 

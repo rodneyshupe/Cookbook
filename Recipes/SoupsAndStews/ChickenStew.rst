@@ -1,9 +1,9 @@
 Chicken Stew
 ============
 
-+-----------------------+-----------------------+---------------------+
-| Prep Time: 30 minutes | Cooking Time: 2 hours | Yield: 4-6 servings |
-+-----------------------+-----------------------+---------------------+
++-----------------------+--------------------+---------------------+
+| Prep Time: 30 minutes | Cook Time: 2 hours | Yield: 4-6 servings |
++-----------------------+--------------------+---------------------+
 
 Ingredients
 -----------
@@ -30,7 +30,7 @@ Ingredients
 Directions
 ----------
 
-1. Adjust oven rack to lower-middle position and heat oven to 325°F.
+1. Adjust oven rack to lower-middle position and heat oven to 325F.
    Arrange chicken thighs on baking sheet and lightly season both sides
    with salt and pepper; cover with plastic wrap and set aside.
 2. Cook bacon in large Dutch oven over medium low heat, stirring

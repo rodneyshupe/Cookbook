@@ -1,6 +1,10 @@
 Chicken Enchilada Soup
 ======================
 
++-----------------------+-----------------------+---------------------+
+| Prep Time: 20 minutes | Cook Time: 35 minutes | Yield: 4-6 servings |
++-----------------------+-----------------------+---------------------+
+
 Ingredients
 -----------
 
@@ -21,7 +25,7 @@ Ingredients
 - 4 cup chicken broth
 - 1 cup Masa Harina (corn flour)
 - 2 cups water
-- Kosher salt & course ground black pepper
+- Kosher salt & coarse ground black pepper
 
 For Serving
 ^^^^^^^^^^^

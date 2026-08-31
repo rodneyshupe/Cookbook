@@ -1,15 +1,15 @@
 Cantonese Soy Sauce Pan-Fried Noodles
 =====================================
 
-+------------------+-------------------+----------+
-| Prep: 10 minutes | Total: 30 minutes | Yield: 2 |
-+------------------+-------------------+----------+
++-----------------------+------------------------+----------+
+| Prep Time: 10 minutes | Total Time: 30 minutes | Yield: 2 |
++-----------------------+------------------------+----------+
 
 Source: `Sarah <https://thewoksoflife.com/cantonese-soy-sauce-pan-fried-noodles/>`__
 
 These Cantonese soy sauce pan-fried noodles are so easy to make, with
 simple ingredients. Just make sure you have a HOT wok to get that seared
-“wok hay” flavor that everyone loves and craves.
+"wok hay" flavor that everyone loves and craves.
 
 Ingredients
 -----------

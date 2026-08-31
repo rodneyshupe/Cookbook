@@ -1,12 +1,14 @@
 Pickled Carrots with Tarragon
 =============================
 
++-----------------------+----------------------+----------------------+---------------+
+| Prep Time: 15 minutes | Cook Time: 5 minutes | Total Time: 24 hours | Yield: 2 cups |
++-----------------------+----------------------+----------------------+---------------+
+
 Chicago chef Edward Kim uses mild rice vinegar and a fair amount of
 sugar to yield a less acidic brine and a bright-tasting pickle
 
 Source: `Bon Appetit <https://www.bonappetit.com/recipe/pickled-carrots-with-tarragon>`__
-
-Yield: 2 cups
 
 Ingredients
 -----------
@@ -30,7 +32,7 @@ Directions
 3. Pour pickling liquid over carrots to cover. Let cool; cover and chill
    at least 24 hours.
 
-Note
-----
+Notes
+-----
 
 Carrots can be pickled 5 days ahead. Keep chilled.

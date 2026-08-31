@@ -1,9 +1,9 @@
 Thai Peanut Stir Fry Sauce
 ==========================
 
-+-----------------+-------------------+-------------------+
-| Prep: 5 minutes | Total: 10 minutes | Yield: 4 servings |
-+-----------------+-------------------+-------------------+
++----------------------+------------------------+-------------------+
+| Prep Time: 5 minutes | Total Time: 10 minutes | Yield: 4 servings |
++----------------------+------------------------+-------------------+
 
 Source: `AllRecipes (Bonnie Gertz) <https://www.allrecipes.com/recipe/239947/thai-peanut-stir-fry-sauce/>`__
 

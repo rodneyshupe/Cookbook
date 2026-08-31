@@ -1,6 +1,10 @@
 Kalbi Korean-style short ribs (CI version)
 ==========================================
 
++-----------------------+-----------------------+---------------------------+---------------------+
+| Prep Time: 20 minutes | Cook Time: 30 minutes | Marinate Time: 4-12 hours | Yield: 4-6 servings |
++-----------------------+-----------------------+---------------------------+---------------------+
+
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/3570-korean-grilled-short-ribs-for-gas-grill-kalbi>`__
 
 Ingredients

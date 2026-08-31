@@ -1,7 +1,9 @@
 Simple Tomato Sauce v2
 ======================
 
-*Makes enough to dress 3/4 pound pasta; Serves 3*
++-----------------------+-----------------------+-----------------+
+| Prep Time: 10 minutes | Cook Time: 15 minutes | Yield: serves 3 |
++-----------------------+-----------------------+-----------------+
 
 Ingredients
 -----------

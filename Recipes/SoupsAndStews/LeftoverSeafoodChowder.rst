@@ -1,9 +1,9 @@
 Leftover Seafood Chowder
 ========================
 
-+-----------------------+--------------------------+-------------------+
-| Prep Time: 10 minutes | Cooking Time: 30 minutes | Yield: 4 servings |
-+-----------------------+--------------------------+-------------------+
++-----------------------+-----------------------+-------------------+
+| Prep Time: 10 minutes | Cook Time: 30 minutes | Yield: 4 servings |
++-----------------------+-----------------------+-------------------+
 
 
 Ingredients
@@ -28,7 +28,7 @@ Directions
    onion and saute until soft 3 minutes. Add garlic and cook till
    fragrant 30 seconds.
 2. Stir in flour and cook for 30 seconds. Add some of the seafood juices
-   into the pot and scrap up any of the bits from the bottom of the pan.
+   into the pot and scrape up any of the bits from the bottom of the pan.
    Add remaining juices and broth. Simmer for 15 minutes.
 3. Add potatoes corn and simmer for an additional 5 minutes. (If
    potatoes are not cooked add them prior to simmering in previous

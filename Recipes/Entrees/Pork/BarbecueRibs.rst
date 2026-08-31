@@ -1,6 +1,10 @@
 Barbecue Ribs
 =============
 
++-----------------------+------------------------+--------------------------+---------------------+
+| Prep Time: 20 minutes | Cook Time: 1 1/2 hours | Marinate Time: 1-4 hours | Yield: 4-6 servings |
++-----------------------+------------------------+--------------------------+---------------------+
+
 Ingredients
 -----------
 
@@ -20,10 +24,10 @@ Directions
    4 hours.
 3. Set up the grill for indirect grilling. If using a charcoal grill,
    toss the wood chips on the coals. If using a gas grill, place the
-   chips in a smoker box. Don’t grill until you see smoke.
+   chips in a smoker box. Don't grill until you see smoke.
 4. Place the ribs in the center of the grill away from the fire.
    Indirect Grill for about 1 hour. The temperature should be around
-   325°F.
+   325F.
 5. Brush ribs with half of the cup of Barbecue sauce. (Set aside the
    other half for serving on the side at the table.)
 6. Increase the heat and continue indirect grilling until the ribs are

@@ -28,7 +28,7 @@ Homemade Pizza
 Ingredients
 -----------
 
-**Dough** \* 1 3/4 cups water, warm (about 105°F) \* 1 envelope
+**Dough** \* 1 3/4 cups water, warm (about 105F) \* 1 envelope
 rapid-rise dry yeast \* 1 tablespoon granulated sugar \* 2 tablespoons
 olive oil \* 4 cups unbleached all-purpose flour, plus extra as needed
 \* 1 1/2 teaspoons table salt \* Vegetable oil (or cooking spray) for
@@ -41,7 +41,7 @@ bowl
 Directions
 ----------
 
-1. Set oven to 200°F for 10 minutes, then turn oven off.
+1. Set oven to 200F for 10 minutes, then turn oven off.
 
 2. Meanwhile, in bowl of food processor fitted with either metal or
    plastic blade, add water and sprinkle in yeast and sugar. Pulse twice
@@ -73,7 +73,7 @@ Directions
          pizza, let the dough relax for 5 minutes, then continue
          stretching it until it has reached the correct diameter.
 
-5. Proceed to cook topped pizza in preheated 500°F oven using the
+5. Proceed to cook topped pizza in preheated 500F oven using the
    following guide to determine cooking time for pizza crust with
    topping but without cheese. All pizzas need to be cooked an
    additional two or three minutes after adding cheese, or until cheese
@@ -224,7 +224,7 @@ Ingedients
 Directions
 ----------
 
-1. Preheat oven to 400°F (200°C). Let the beef tenderloin come to room
+1. Preheat oven to 400F (200C). Let the beef tenderloin come to room
    temperature. Season with kosher salt and pepper on all sides.
 2. Add canola oil to a large pan on high heat. Once the oil is hot, add
    the tenderloin. Without moving the tenderloin, cook until a dark
@@ -232,7 +232,7 @@ Directions
    including the tenderloin ends.
 3. Remove the tenderloin from the pan and transfer to a cutting board or
    wire rack and remove ties. Brush the mustard on all sides of the meat
-   while it’s still warm. Let the meat rest for while making the
+   while it's still warm. Let the meat rest for while making the
    duxelle.
 4. To the same pan, add the butter, mushrooms, minced shallot, and
    minced garlic over medium heat. Cook, stirring occasionally, until
@@ -246,7 +246,7 @@ Directions
    prosciutto. Tightly and evenly wrap the tenderloin with the
    prosciutto, using the plastic wrap to wrap it even tighter and seal
    ends. Tie the ends of the plastic wrap together to hold the
-   Wellington’s shape. Place in the refrigerator for 15 minutes.
+   Wellington's shape. Place in the refrigerator for 15 minutes.
 6. Place a new layer of plastic wrap on the work surface and lay a sheet
    of puff pastry over it. Unwrap the prosciutto-wrapped beef tenderloin
    onto the puff pastry, wrapping until the ends meet. Cut off any extra
@@ -258,7 +258,7 @@ Directions
    decorative design onto the surface of the puff pastry. Decorate with
    additional pastry (optional). Sprinkle with kosher salt.
 8. Bake for 40 minutes or until the puff pastry is a dark golden brown
-   and the internal temperature of the beef is 135°F (57°C) for
+   and the internal temperature of the beef is 135F (57C) for
    medium-rare.
 
 Wellington Timeline
@@ -305,7 +305,7 @@ Directions
 2. Add the chicken stock to the pan and reduce again by half.
 3. Remove pan from heat and add the butter, whisking constantly until it is
    incorporated. Season to taste. Set aside the sauce over very low heat.
-4. Preheat the oven to 180°C (350°F).
+4. Preheat the oven to 180C (350F).
 5. Line a baking tray with parchment paper and add the snails.
 6. Place tray in the centre of the oven for 5 to 10 minutes in order to heat
    snails through.
@@ -544,8 +544,8 @@ Ingredients
 
 Directions
 ----------
-1. Preheat the grill to medium-high, or preheat the oven to 425º.
-2. Cut 4 large pieces of foil about 10” long. In a large bowl, toss potatoes
+1. Preheat the grill to medium-high, or preheat the oven to 425.
+2. Cut 4 large pieces of foil about 10" long. In a large bowl, toss potatoes
    with olive oil, garlic powder, and oregano and season with salt and pepper.
 3. Divide potatoes between foil pieces, then fold the foil packets crosswise
    to completely cover the potatoes. Roll the top and bottom edges to seal
@@ -627,7 +627,7 @@ To ferment Full Sour Pickles, use a 5% brine.
 
 HALF-SOUR PICKLES
 A Half-Sour Pickle ferments in brine for a shorter time period and is still crisp and bright green.
-For Half-Sour Pickles – eaten when they are still somewhat bright – a 3.5% brine is recommended.
+For Half-Sour Pickles - eaten when they are still somewhat bright - a 3.5% brine is recommended.
 
 FRENCH-STYLE CORNICHONS
 Cornichons are about the size of your pinky finger, about an inch and half in length and less than a quarter inch in diameter. The French call them cornichons and they are sold under the same name in the US, but the English call them gherkins. Tarragon is a key ingredient in Cornichon pickles.
@@ -676,7 +676,7 @@ Ingredients
 Directions
 ----------
 1. Adjust oven rack to middle position. Place 12-inch cast-iron skillet on
-   rack and heat oven to 450°F. Set wire rack in rimmed baking sheet
+   rack and heat oven to 450F. Set wire rack in rimmed baking sheet
    and line half of rack with triple layer of paper towels. Season chicken
    with salt and pepper.
 2. Lightly beat eggs and 1 teaspoon salt together in medium bowl. Whisk
@@ -687,14 +687,14 @@ Directions
 3. Working with 1 piece of chicken at a time, dip in egg mixture, allowing
    excess to drip off; then dredge in flour mixture, pressing firmly to
    adhere. Transfer coated chicken to large plate, skin side up.
-4. When oven temperature reaches 450°F, carefully remove hot skillet
+4. When oven temperature reaches 450F, carefully remove hot skillet
    from oven (skillet handle will be hot). Add oil to skillet and immediately
    place chicken, skin side down, in skillet. Return skillet to oven and
    bake for 15 minutes.
 5. Remove skillet from oven and flip chicken. Return skillet to oven and
-   continue to bake until breasts register 160°F and drumsticks/thighs
-   register 175°F, about 15 minutes longer.
-6. Transfer chicken, skin side up, to paper towel–lined side of prepared wire
+   continue to bake until breasts register 160F and drumsticks/thighs
+   register 175F, about 15 minutes longer.
+6. Transfer chicken, skin side up, to paper towel-lined side of prepared wire
    rack to blot grease from underside of chicken, then move chicken to
    unlined side of rack. Let chicken cool for about 10 minutes. Serve.
 
@@ -752,14 +752,14 @@ Directions
    chicken, uncovered, for at least 30 minutes or up to 2 hours.
 4. Set second wire rack in second rimmed baking sheet and line half of rack
    with triple layer of paper towels. Add oil to large Dutch oven until it
-   measures 2 inches deep and heat over medium-high heat to 350°F. Add
-   half of chicken to pot and fry until breasts register 160°F and
-   drumsticks/thighs/wings register 175°F, 13 to 16 minutes. Adjust
-   burner, if necessary, to maintain oil temperature between 325°F and
-   350°F.
-5. Transfer chicken to paper towel–lined side of prepared rack. Let chicken
+   measures 2 inches deep and heat over medium-high heat to 350F. Add
+   half of chicken to pot and fry until breasts register 160F and
+   drumsticks/thighs/wings register 175F, 13 to 16 minutes. Adjust
+   burner, if necessary, to maintain oil temperature between 325F and
+   350F.
+5. Transfer chicken to paper towel-lined side of prepared rack. Let chicken
    drain on each side for 30 seconds, then move to unlined side of rack.
-   Return oil to 350°F and repeat with remaining chicken. Let chicken cool
+   Return oil to 350F and repeat with remaining chicken. Let chicken cool
    for 10 minutes.
 6. FOR THE SAUCE: Meanwhile, whisk all ingredients together in bowl.
    Microwave, covered, until hot, about 2 minutes, stirring halfway through
@@ -820,12 +820,12 @@ Directions
    for 1 hour. (Wrapped dough can be refrigerated for up to 2 days or frozen
    for up to 1 month. If frozen, let dough thaw completely on counter before
    rolling.)
-3. Adjust oven rack to middle position and heat oven to 400°F. Let chilled
+3. Adjust oven rack to middle position and heat oven to 400F. Let chilled
    dough sit on counter to soften slightly, about 5 minutes, before rolling.
    Roll dough into 10-inch circle on lightly floured counter. Using pizza
    cutter, cut dough into four 2 1/2-inch-wide strips, then make four
    2 1/2-inch-wide perpendicular cuts to form squares. (Pieces around edges
-   of dough will be smaller.) Transfer dough pieces to parchment paper–lined
+   of dough will be smaller.) Transfer dough pieces to parchment paper-lined
    baking sheet, cover with plastic, and refrigerate until firm, at least
    30 minutes.
 4. FOR THE FILLING: Toss apples, sugar, cinnamon, and salt together in
@@ -860,7 +860,7 @@ Sous Vide Pulled Pork
 =====================
 
 +------------------+-------------------+-----------------+---------------+------------+
-| Prep: 15 minutes | Cook: 20-24 hours | Total: 24 hours | Servings: 6-8 | Temp 165°F |
+| Prep: 15 minutes | Cook: 20-24 hours | Total: 24 hours | Servings: 6-8 | Temp 165F  |
 +------------------+-------------------+-----------------+---------------+------------+
 
 Ingredients
@@ -891,7 +891,7 @@ Lexington Vinegar Barbecue Sauce
 Directions
 ----------
 
-1. FOR THE PORK: Using sous vide circulator, bring water to 165°F/74°C in
+1. FOR THE PORK: Using sous vide circulator, bring water to 165F/74C in
    12-quart container.
 2. Whisk oil, salt, sugar, pepper, paprika, garlic powder, and cayenne
    together in medium bowl. Microwave until bubbling and fragrant, about
@@ -909,7 +909,7 @@ Directions
    slightly, and then shred into bite-size pieces using 2 forks; discard
    excess fat.
 5. FOR THE BARBECUE SAUCE: Pour cooking liquid into fat separator, let settle
-   for 5 minutes, and then transfer ¾ cup defatted liquid to medium bowl;
+   for 5 minutes, and then transfer 3/4 cup defatted liquid to medium bowl;
    discard remaining liquid. Whisk in vinegar, ketchup, water, sugar, pepper
    flakes, 3/4 teaspoon salt, and 1/2 teaspoon pepper. Toss pork with 1 cup
    sauce and season with salt and pepper to taste. Serve, passing remaining
@@ -920,7 +920,7 @@ Make Ahead
 
 Pork can be rapidly chilled in ice bath and then refrigerated in zipper-lock
 bags after step 3 for up to 3 days. To reheat, return sealed bags to water
-bath set to 165°F/74°C for 1 hour and then proceed with step 4.
+bath set to 165F/74C for 1 hour and then proceed with step 4.
 
 .. raw:: pdf
 
@@ -953,7 +953,7 @@ Ingredients
 Directions
 ----------
 
-1. Combine mango, 3 tablespoons oil, lime juice, jalapeño, and mint in bowl.
+1. Combine mango, 3 tablespoons oil, lime juice, jalapeno, and mint in bowl.
    Season with salt and pepper to taste.
 2. Pat chops dry with paper towels and season with salt and pepper. Heat
    remaining 1 tablespoon oil in 12-inch nonstick skillet over medium-high
@@ -1045,7 +1045,7 @@ Directions
 2. HEAT TOMATOES WITH BEANS: Bring tomatoes, beans, chipotle chile, sugar,
    and 1/2 teaspoon salt to boil, covered, in large saucepan. Reduce to
    simmer and continue to cook until needed in step 5.
-3. SAUTÉ AROMATICS: Heat oil in large Dutch oven over medium heat until
+3. SAUTE AROMATICS: Heat oil in large Dutch oven over medium heat until
    shimmering. Add onion, chili powder, cumin, and 1/4 teaspoon salt and
    cook until softened, about 5 minutes. Stir in garlic and cook until
    fragrant, about 30 seconds.
@@ -1100,9 +1100,9 @@ Directions
    Place chicken on a plate to cool, then remove any bones, shred the meat to
    bite-size pieces and set aside.
 2. In a medium-size saucepan (you can use the same pan that you cooked the
-   chicken in), sauté diced onion in oil (or butter) until softened, about
+   chicken in), saute diced onion in oil (or butter) until softened, about
    3 minutes. Remove from heat and add flour, stirring to blend flour and oil.
-   Slowly pour in the milk, while stirring—a whisk is helpful to break up any
+   Slowly pour in the milk, while stirring-a whisk is helpful to break up any
    lumps.
 3. Cook the white sauce over medium heat, stirring now and then until it
    simmers, and scraping the bottom of the pan to prevent sticking. Continue
@@ -1115,8 +1115,8 @@ Directions
    8- to 10-inch cast iron skillet is perfect for this. Turn the pie crust
    upside down out of its foil plate onto the creamed chicken and pierce the
    crust a few times with a fork to allow steam to escape while baking.
-   Sprinkle salt and pepper over the crust—coarsely ground salt and pepper
-   from a mill are especially good—and press lightly.
+   Sprinkle salt and pepper over the crust-coarsely ground salt and pepper
+   from a mill are especially good-and press lightly.
 5. Bake 25-30 minutes, or until the crust is golden brown and the sauce
    bubbles around the edges. Garnish with thyme or sliced scallion and serve
    right away, or relax first with a glass of wine and admire your handiwork.
@@ -1155,18 +1155,18 @@ Ingredients
 - 1 French loaf baguette
 - 1 teaspoon of Italian seasoning
 - 1/2 cup of olive oil
-- 1–2 ounces of parmesan cheese
+- 1-2 ounces of parmesan cheese
 
 Directions
 ----------
 
 1. Preheat oven to 350 degrees.
 2. Combine olive oil and cayenne pepper. Toss sweet potatoes gently to coat.
-   Spread evenly on a baking pan and bake 350 degrees for 35–40 minutes or
+   Spread evenly on a baking pan and bake 350 degrees for 35-40 minutes or
    until tender, stirring if needed.
 3. In a medium frying pan, add sausage, chopped onion and chopped red bell
    pepper. Cook until brown. Drain grease and press garlic into sausage
-   mixture. Cook for 2–3 minutes.
+   mixture. Cook for 2-3 minutes.
 4. Add cream cheese, 1/4 cup of Colby Jack cheese, roasted sweet potatoes and
    canned tomatoes. Stir until well blended. Add sausage mixture to a small
    baking dish.
@@ -1455,7 +1455,7 @@ Ingredients
 Directions
 ----------
 
-1. Preheat the oven to 450°F. Start preparing the recipe when the oven is
+1. Preheat the oven to 450F. Start preparing the recipe when the oven is
    ready. Read the entire recipe card. Prepare a parchment-lined baking
    sheet. Pat chicken dry with paper towels, then season with salt, pepper
    and half the Chili-Cumin Spice Blend. Arrange chicken on the baking

@@ -1,6 +1,14 @@
 Cranberry Turkey Jerky
 ======================
 
++-----------------------+---------------------------+----------------------+---------------------------+
+| Prep Time: 20 minutes | Marinate Time: 8-24 hours | Drying Time: 4 hours | Yield: about 1/3 lb jerky |
++-----------------------+---------------------------+----------------------+---------------------------+
+
+Equipment
+---------
+Dehydrator
+
 Ingredients
 -----------
 
@@ -24,12 +32,12 @@ Directions
    and marinate for 8-24 hours in the refrigerator.
 4. After the meat has finished marinating, remove from refrigerator and
    strain excess marinade in a colander.
-5. Pre-heat oven to 350°F.
+5. Pre-heat oven to 350F.
 6. Place turkey strips on a baking rack on top of a aluminum foil lined
    baking sheet. Bake in the oven for 20 minutes or until the strips
-   reach an internal temperature of 165°F.
+   reach an internal temperature of 165F.
 7. Remove from the oven and dry with you favorite jerky making method.
-   Dehydrate for 4 hours at 145°F.
+   Dehydrate for 4 hours at 145F.
 8. The jerky is finished when it bends and cracks, but does not break in
    half.
 

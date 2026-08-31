@@ -1,9 +1,9 @@
 Goat Cheese and Salami Stuffed Dates
 ====================================
 
-+------------------+-------------------+
-| Time: 15 minutes | Yield: 8 servings |
-+------------------+-------------------+
++------------------------+-------------------+
+| Total Time: 15 minutes | Yield: 8 servings |
++------------------------+-------------------+
 
 Ingredients
 ------------
@@ -20,7 +20,7 @@ Directions
 ----------
 
 1. Toast pistachios in a dry small skillet over medium heat, tossing
-   occasionally, until golden brown, 5–8 minutes. Let cool slightly, then
+   occasionally, until golden brown, 5-8 minutes. Let cool slightly, then
    finely chop.
 2. Mix goat cheese, salami, and lemon zest in a medium bowl.
 3. Slice dates in half lengthwise, taking care not to cut all the way

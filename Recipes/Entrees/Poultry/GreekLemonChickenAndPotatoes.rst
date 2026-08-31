@@ -1,6 +1,10 @@
 Greek Lemon Chicken and Potatoes
 ================================
 
++-----------------------+-------------------+------------------------+-------------------+
+| Prep Time: 20 minutes | Cook Time: 1 hour | Marinate Time: 2 hours | Yield: 4 servings |
++-----------------------+-------------------+------------------------+-------------------+
+
 Source: `Sip and Feast <https://www.sipandfeast.com/greek-lemon-chicken/>`__
 
 Ingredients
@@ -32,17 +36,17 @@ Directions
 
 1. Blend the marinade ingredients until smooth. Place the chicken along with
    all of the marinade in a sealable bag and refrigerated for 2 hours.
-2. Preheat oven to 425°F and set rack to the middle level.
+2. Preheat oven to 425F and set rack to the middle level.
 3. Add the potatoes to a baking dish and pour half of the used marinade on
    top of them. With your hands, thoroughly coat the potatoes with the
    marinade. Spread the potatoes out into an even layer.
 4. Place the chicken thighs on the top of the potatoes, skin side up.
 5. Drizzle the remaining marinade onto the chicken. Bake the chicken for
-   10 minutes, then turn the heat down to 375°F and continue to bake for
-   another 45-55 minutes or until the chicken reaches at least 185°F internal
+   10 minutes, then turn the heat down to 375F and continue to bake for
+   another 45-55 minutes or until the chicken reaches at least 185F internal
    temp when checked with a thermometer.
    *Note: If the potatoes are still a bit hard, simply remove the chicken
-   pieces to a plate and tent with foil. Raise the oven temp to 425°F and
+   pieces to a plate and tent with foil. Raise the oven temp to 425F and
    return the potatoes back to the oven and cook until tender and brown.*
 6. Let the chicken sit lightly tented for 10-15 minutes before serving so
    that the chicken and potatoes will reabsorb the juices. Serve with garnish

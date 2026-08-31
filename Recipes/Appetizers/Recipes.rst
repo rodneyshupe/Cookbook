@@ -115,3 +115,7 @@ Appetizers
 .. include:: ../../includes/recipePageBreak.rst
 
 .. include:: RoastedChickPeas.rst
+.. include:: ../../includes/recipePageBreak.rst
+.. include:: ChickenWings.rst
+.. include:: ../../includes/recipePageBreak.rst
+.. include:: AirFryerChickenTaquitos.rst

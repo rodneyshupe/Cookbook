@@ -1,9 +1,9 @@
 Basil Pesto
 ===========
 
-+-------------------+---------------------------------------------------+
-| Total: 30 minutes | Yield: Makes 3/4 cup, enough for 1 pound of pasta |
-+-------------------+---------------------------------------------------+
++------------------------+---------------------------------------------------+
+| Total Time: 30 minutes | Yield: Makes 3/4 cup, enough for 1 pound of pasta |
++------------------------+---------------------------------------------------+
 
 Source: `www.cooksillustrated.com <https://www.cooksillustrated.com/recipes/1567-basil-pesto?incode=MCSCD00L0>`__
 
@@ -12,10 +12,10 @@ Ingredients
 
 - 1/4 cup pine nut, toasted (or substitute almonds or walnuts)
 - 3 garlic clove, unpeeled
-- 2 cups packed fresh basil leafNone
-- 2 tablespoons fresh parsley leaves(optional)
-- 1/4 cup plus 3 tablespoons extra-virgin olive oilNone
-- 1/2 teaspoon saltNone
+- 2 cups packed fresh basil leaves
+- 2 tablespoons fresh parsley leaves (optional)
+- 1/4 cup plus 3 tablespoons extra-virgin olive oil
+- 1/2 teaspoon salt
 - 1/4 cup finely grated Parmesan cheese or Pecorino Romano
 
 Directions
@@ -30,7 +30,7 @@ Directions
 2. Place the basil and parsley (if using) in a heavy-duty 1-gallon zipper-
    lock plastic bag. Pound the bag with the flat side of a meat pounder or
    rolling pin until all the leaves are bruised.
-3. Process the nuts, garlic, herbs, oil, and 1⁄2 teaspoon salt in a food
+3. Process the nuts, garlic, herbs, oil, and 1/2 teaspoon salt in a food
    processor until smooth, stopping as necessary to scrape down the sides
    of the bowl, about 1 minute. Stir in the Parmesan and season with salt
    and pepper to taste.

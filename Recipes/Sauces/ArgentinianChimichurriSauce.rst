@@ -1,9 +1,9 @@
 Argentinian Chimichurri Sauce
 =============================
 
-+-------------------+-----------------------------------------------+
-| Total: 10 minutes | Yield: Serves 4 to 6 (Makes about 1 1/2 cups) |
-+-------------------+-----------------------------------------------+
++------------------------+-----------------------------------------------+
+| Total Time: 10 minutes | Yield: Serves 4 to 6 (Makes about 1 1/2 cups) |
++------------------------+-----------------------------------------------+
 
 Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/8805-argentinian-chimichurri-sauce>`__
 

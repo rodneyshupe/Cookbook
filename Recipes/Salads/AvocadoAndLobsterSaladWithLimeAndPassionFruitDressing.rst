@@ -1,7 +1,9 @@
 Avocado and Lobster Salad with Lime and Passion Fruit Dressing
 ==============================================================
 
-Yield: Single serving
++-----------------------+-----------------------+
+| Prep Time: 15 minutes | Yield: Single serving |
++-----------------------+-----------------------+
 
 Ingredients
 -----------
@@ -13,7 +15,6 @@ Salad
 - 1/2 avocado, cubed
 - 4 oz lobster, cooked meat diced ( you may substitute 100g cooked peeled shrimp)
 - 1 stalk celery, finely chopped
-
 
 Lime and passion fruit Dressing
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -34,16 +35,13 @@ Lime and passion fruit Dressing
 
 Blend the olive, walnut oil, lime juice, passion fruit juice and seeds and chilli with salt and pepper until smooth.
 
-
 Salad
 ^^^^^
 
-#. Arrange the mixed greens on a plate.
-#. Gently combine the avocado, lobster, and celery with the dressing, pile onto the greens and serve.
+1. Arrange the mixed greens on a plate.
+2. Gently combine the avocado, lobster, and celery with the dressing, pile onto the greens and serve.
 
-
-Note
-----
+Notes
+-----
 Carb count 4.7g. per serving
-
 

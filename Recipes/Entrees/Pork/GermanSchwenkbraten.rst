@@ -1,9 +1,9 @@
 German Schwenkbraten (Pork Steak Barbecue)
 ==========================================
 
-+-----------------------+------------------------+--------------------------+-------------------+
-| Prep Time: 15 minutes | 24 hours marinade time | Cooking Time: 10 minutes | Yield: 4 servings |
-+-----------------------+------------------------+--------------------------+-------------------+
++-----------------------+------------------------+-----------------------+-------------------+
+| Prep Time: 15 minutes | 24 hours marinade time | Cook Time: 10 minutes | Yield: 4 servings |
++-----------------------+------------------------+-----------------------+-------------------+
 
 Ingredients
 -----------
@@ -28,8 +28,8 @@ Directions
 3. Place schnitzel (without onions) in a single layer over direct heat,
    salt (a little) and grill for 5 to 8 minutes per side.
 
-Note
-----
+Notes
+-----
 
 If you cannot find pork steaks already cut, buy a whole pork shoulder roast
 (or similar roast), debone it, and cut the meat crosswise, 1/2 to 3/4 inches

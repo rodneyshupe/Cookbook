@@ -1,9 +1,9 @@
 Roasted Beets and Carrots
 =========================
 
-+-----------------------+-----------------------+-------------------+
-| Prep Time: 15 minutes | Cooking Time: 2 hours | Yield: 4 servings |
-+-----------------------+-----------------------+-------------------+
++-----------------------+--------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 2 hours | Yield: 4 servings |
++-----------------------+--------------------+-------------------+
 
 Ingredients
 -----------
@@ -16,7 +16,7 @@ Ingredients
 
 Directions
 ----------
-1. Preheat oven to 425°F. Wrap beets tightly in foil making 2 packages
+1. Preheat oven to 425F. Wrap beets tightly in foil making 2 packages
    and roast in middle of oven until tender, about 1 1/4 hours.
 2. Toss carrots with oil and salt and pepper to taste in a shallow
    baking pan.

@@ -1,5 +1,9 @@
-Seared Mushrooms with egg Yolk
+Seared Mushrooms with Egg Yolk
 ==============================
+
++-----------------------+-----------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 15 minutes | Yield: 4 servings |
++-----------------------+-----------------------+-------------------+
 
 Ingredients
 -----------
@@ -17,7 +21,7 @@ Ingredients
 Directions
 ----------
 
-1. Pour oil into a small skillet to a depth of 1/8“. Heat over medium
+1. Pour oil into a small skillet to a depth of 1/8". Heat over medium
    heat. Add sage and cook, turning often, until leaves just start to
    crisp, about 30 seconds (do not brown). Transfer sage to paper towels
    to drain. Strain oil through a fine-mesh sieve into a small bowl; set

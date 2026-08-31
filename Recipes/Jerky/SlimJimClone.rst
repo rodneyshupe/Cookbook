@@ -1,6 +1,14 @@
 Slim Jim Clone
 ==============
 
++-----------------------+----------------------+----------------------------+
+| Prep Time: 20 minutes | Drying Time: 5 hours | Yield: about 3/4 lb sticks |
++-----------------------+----------------------+----------------------------+
+
+Equipment
+---------
+Dehydrator
+
 Ingredients
 -----------
 
@@ -19,11 +27,11 @@ Ingredients
 Directions
 ----------
 
-1. Disolve Prague Powder in water and liquid smoke. Blend together with
+1. Dissolve Prague Powder in water and liquid smoke. Blend together with
    other dry ingredients, corn syrup, and meat.
 2. Using Jerky gun create sticks using round tip.
 3. Dehydrate 4 1/2 - 5 hours on high setting.
 4. Using a jerky gun, load the gun with the ground beef mixture and
    shoot 6" sticks, using round tip, onto a dehydrator tray or on a
    baking sheet.
-5. Dehydrate at 160°F for 4 1/2 to 5 hours
+5. Dehydrate at 160F for 4 1/2 to 5 hours

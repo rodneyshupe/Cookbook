@@ -1,6 +1,13 @@
 Smoked Indian Candy
 ===================
 
++-----------------------+------------------------+--------------------+-----------------------------------+
+| Prep Time: 30 minutes | Cure Time: 12-16 hours | Cook Time: 4 hours | Yield: about 3 lbs candied salmon |
++-----------------------+------------------------+--------------------+-----------------------------------+
+
+Equipment
+---------
+Smoker
 
 Ingredients
 -----------
@@ -11,7 +18,6 @@ Ingredients
 -  5 cups demerara sugar (1kg bag)
 -  4 cups of water
 -  3 pounds of fillets wild pacific sockeye salmon fillets.
-
 
 Directions
 ----------
@@ -26,11 +32,10 @@ Directions
 5. Refrigerate for 12 - 16 hours.
 6. Remove from brine (do not rinse) and hang each piece from the rack
    using a toothpick through each piece. Lets air dry for 24-36 hours.
-7. Smoke at approx 160°F for 4 hours with Apple (or Maple) wood.
+7. Smoke at approx 160F for 4 hours with Apple (or Maple) wood.
 
-
-Note
-----
+Notes
+-----
 
 If you want a really sweet Indian Candy, glaze the salmon with the
 following syrup. Heat 4oz red wine and 4oz dark rum, in a sauce pan. Add

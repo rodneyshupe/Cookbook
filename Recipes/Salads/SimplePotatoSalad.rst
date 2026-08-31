@@ -1,6 +1,10 @@
 Simple Potato Salad
 ===================
 
++-----------------------+-----------------------+-------------------+
+| Prep Time: 20 minutes | Cook Time: 20 minutes | Yield: 6 servings |
++-----------------------+-----------------------+-------------------+
+
 Ingredients
 -----------
 - 1.5 pounds baby or pee wee or small potatoes
@@ -19,7 +23,7 @@ Directions
 1. Cook potatoes in boiling water until soft enough for a fork to pierce 
    easily. Drain, run cool water over them, and when cool enough to handle.
    Halve the smaller ones and 1/4 the larger ones, 
-2. Put potatos pieces in a large bowl and add celery, parsley, dill
+2. Put potatoes pieces in a large bowl and add celery, parsley, dill
    and bacon.
 3. Combine honey, mustard, garlic, lemon juice, salt & pepper to taste. Mix
    well and add about half to salad stir through to combine. Add more

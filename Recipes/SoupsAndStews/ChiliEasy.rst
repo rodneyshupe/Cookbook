@@ -1,9 +1,13 @@
 Easy Slowcooker Chili
 =====================
 
-+-----------------------+------------------------+---------------------+
-| Prep Time: 20 minutes | Cooking Time: 8+ hours | Yield: 4-6 servings |
-+-----------------------+------------------------+---------------------+
++-----------------------+---------------------+---------------------+
+| Prep Time: 20 minutes | Cook Time: 8+ hours | Yield: 4-6 servings |
++-----------------------+---------------------+---------------------+
+
+Equipment
+---------
+Slow Cooker
 
 Ingredients
 -----------
@@ -30,8 +34,8 @@ Directions
 1. Season meat with salt and pepper and then brown half the beef on all
    sides in a medium high pan. Place into slow cooker, and repeat with
    second half of the meat.
-2. Cook onions and green peper until soft. Add tomato paste, chilli powder
-   and garlic powder and cook till fregrant, 1-2 minutes. Add onion mixture
+2. Cook onions and green pepper until soft. Add tomato paste, chili powder
+   and garlic powder and cook till fragrant, 1-2 minutes. Add onion mixture
    to slow cooker and deglaze the pan with 2-4 tablespoons beer and add to
    the slow cooker. 
 3. Stir in all other ingredients and set slow cooker to med and cook for at
@@ -42,9 +46,9 @@ Directions
 Variation
 ---------
 
-* **Vegetarian**: Remove meat and replace with 4oz (227g) each of Chrimini 
+* **Vegetarian**: Remove meat and replace with 4oz (227g) each of Cremini 
   and Shiitake Mushrooms, chopped into bite size pieces and sauteed.  If you
-  don't want to use mushrooms try substituing 1/2 cup of bulgur. Replace
+  don't want to use mushrooms try substituting 1/2 cup of bulgur. Replace
   Beef Base with 1 tablespoon soy paste and 1/2oz (14g) dried shiitake
   mushrooms which have been finely chopped into almost a powder. Change
   beans to 14oz can each of Kidney or Black Beans and Cannellini (two cans

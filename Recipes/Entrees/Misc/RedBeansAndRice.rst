@@ -1,9 +1,9 @@
 Red Beans and Rice
 ==================
 
-+-----------------------+-----------------------+-------------------+
-| Prep Time: 15 minutes | Cooking Time: 1 hours | Yield: 6 servings |
-+-----------------------+-----------------------+-------------------+
++-----------------------+--------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 1 hours | Yield: 6 servings |
++-----------------------+--------------------+-------------------+
 
 Ingredients
 -----------
@@ -42,8 +42,8 @@ Directions
 6. Serve immediately, topped with rice and garnished with parsley, if
    desired.
 
-Note
-----
+Notes
+-----
 
 * If substituting red bean for red kidney beans, flavour will be slightly
   off.

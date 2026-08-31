@@ -3,9 +3,9 @@ Pressure Cooker Braised Short Ribs
 
 This creates incredibly tender and flavorful short ribs.
 
-+----------------------+--------------------------+-------------------+
-| Prep Time: 5 minutes | Cooking Time: 75 minutes | Yield: 3 servings |
-+----------------------+--------------------------+-------------------+
++----------------------+-----------------------+-------------------+
+| Prep Time: 5 minutes | Cook Time: 75 minutes | Yield: 3 servings |
++----------------------+-----------------------+-------------------+
 
 Equipment
 ---------
@@ -31,6 +31,6 @@ Directions
 2. Add red wine, beef broth, onion, garlic, honey, brown sugar, salt and
    pepper. Bring to high pressure, then reduce heat to low. Cook at high
    pressure for one hour.
-3. Remove from heat and let pressure come down naturally – do not manually
+3. Remove from heat and let pressure come down naturally - do not manually
    release steam and never open cooker until pressure is released.
 

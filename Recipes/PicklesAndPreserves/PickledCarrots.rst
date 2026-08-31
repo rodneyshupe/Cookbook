@@ -1,7 +1,9 @@
 Pickled Carrots
 ===============
 
-*Yield: Makes about seven 16oz (pint or 500 mL) jars*
++-----------------------+-----------------------+-------------------------------+
+| Prep Time: 30 minutes | Cook Time: 10 minutes | Yield: about seven 16 oz jars |
++-----------------------+-----------------------+-------------------------------+
 
 Ingredients
 -----------

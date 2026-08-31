@@ -1,8 +1,12 @@
 Chicken Scarpariello (Italian Sweet and Sour Chicken With Sausage)
 ==================================================================
 
-Instructions
-------------
++-----------------------+-----------------------+---------------------+
+| Prep Time: 20 minutes | Cook Time: 50 minutes | Yield: 4-6 servings |
++-----------------------+-----------------------+---------------------+
+
+Ingredients
+-----------
 
 - 2 1/2 pounds bone-in, skin-on chicken thighs (6 to 8 thighs; 1.15kg)
 - Kosher salt and freshly ground black pepper
@@ -20,9 +24,9 @@ Instructions
 Directions
 ----------
 
-1. Adjust oven rack to center position and preheat oven to 350°F (175°C). 
+1. Adjust oven rack to center position and preheat oven to 350F (175C). 
 2. Season chicken generously with salt and pepper. Heat oil in a 4 to
-   5-quart straight-sided sauté pan or Dutch oven over medium-high heat until
+   5-quart straight-sided saute pan or Dutch oven over medium-high heat until
    shimmering. Add chicken, skin side down, and cook without moving it until
    well browned and crisp, about 8 minutes total, lowering heat if it starts
    to smoke excessively. Flip chicken and brown lightly on second side, about

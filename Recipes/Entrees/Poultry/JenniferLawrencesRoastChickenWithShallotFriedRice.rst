@@ -1,9 +1,9 @@
 Jennifer Lawrence's Roast Chicken with Shallot Fried Rice
 =========================================================
 
-+--------------+--------------------------+-------------------------+
-| Prep: 1 hour | Total: 1 hour 30 minutes | Yield: about 4 servings |
-+--------------+--------------------------+-------------------------+
++-------------------+-------------------------------+-------------------------+
+| Prep Time: 1 hour | Total Time: 1 hour 30 minutes | Yield: about 4 servings |
++-------------------+-------------------------------+-------------------------+
 
 Source: `Food Network <https://www.foodnetwork.com/recipes/jennifer-lawrences-roast-chicken-with-shallot-fried-rice-8708252>`__
 

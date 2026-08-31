@@ -4,9 +4,9 @@ Barbecued Chicken Balls
 This is a great chicken recipes and creates the most tender and
 flavorful pieces of chicken.
 
-+----------------------+--------------------------+-------------------+
-| Prep Time: 5 minutes | Cooking Time: 20 minutes | Yield: 2 servings |
-+----------------------+--------------------------+-------------------+
++----------------------+-----------------------+-------------------+
+| Prep Time: 5 minutes | Cook Time: 20 minutes | Yield: 2 servings |
++----------------------+-----------------------+-------------------+
 
 Equipment
 ---------

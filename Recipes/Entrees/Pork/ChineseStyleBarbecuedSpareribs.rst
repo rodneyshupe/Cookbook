@@ -20,7 +20,7 @@ Ingredients
 -  2 teaspoons five-spice powder
 -  1 teaspoon red food coloring (optional)
 -  1 teaspoon ground white pepper
--  2 racks St. Louis-style spareribs, 2 1/2 to 3 pound (1.1 to 1.4 kg), cut into individual ribs
+-  2 racks St. Louis-style spareribs, 2 1/2 to 3 pound (1.1 to 1.4 kg), cut into individual ribs
 -  2 tablespoons toasted sesame oil
 
 Directions
@@ -34,7 +34,7 @@ Directions
    will not be fully submerged). Bring to simmer over high heat, then
    reduce heat to low, cover, and cook for 1 1/4 hours, stirring
    occasionally.
-2. Adjust oven rack to middle position and heat oven to 425°F.
+2. Adjust oven rack to middle position and heat oven to 425F.
    Using tongs, transfer ribs to large bowl. Strain braising liquid
    through fine-mesh strainer set over large container, pressing on
    solids to extract as much liquid as possible; discard solids. Let
@@ -43,7 +43,7 @@ Directions
 3. Return braising liquid to pot and add sesame oil. Bring to boil over
    high heat and cook until syrupy and reduced to 2 1/2 cups, 16 to 20
    minutes.
-4. Set wire rack in aluminum foil–lined rimmed baking sheet and pour 1/2
+4. Set wire rack in aluminum foil-lined rimmed baking sheet and pour 1/2
    cup water into sheet. Transfer half of ribs to pot with braising
    liquid and toss to coat. Arrange ribs, bone sides up, on prepared
    rack, letting excess glaze drip off. Roast until edges of ribs start
@@ -62,7 +62,7 @@ remaining ribs.
 Notes
 -----
 
-It’s not necessary to remove the membrane on the bone side of the ribs.
+It's not necessary to remove the membrane on the bone side of the ribs.
 These ribs are chewier than American-style ribs; if you prefer them more
 tender, cook them for an additional 15 minutes in step 1. Adding water
 to the baking sheet during roasting helps prevent smoking. Serve the

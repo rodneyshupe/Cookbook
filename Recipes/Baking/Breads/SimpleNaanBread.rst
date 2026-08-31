@@ -1,6 +1,10 @@
 Simple Naan Bread
 =================
 
++-----------------------+-----------------------+-------------------------+---------------+
+| Prep Time: 25 minutes | Cook Time: 15 minutes | Total Time: 1 1/2 hours | Yield: 8 naan |
++-----------------------+-----------------------+-------------------------+---------------+
+
 Ingredients
 -----------
 
@@ -16,7 +20,7 @@ Ingredients
 Directions
 ----------
 
-1. Combine yeast, water and suger - give a quick mix and set aside until
+1. Combine yeast, water and sugar - give a quick mix and set aside until
    foamy, about 10 minutes. (If using instant yeast just add these ingredients
    to flour in step 2) 
 2. Add to flour, yogurt, oil & salt in a mixer - and using dough hook mix

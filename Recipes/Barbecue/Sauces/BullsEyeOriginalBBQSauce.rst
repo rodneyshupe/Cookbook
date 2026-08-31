@@ -1,6 +1,10 @@
 Bull's-Eye Original BBQ Sauce
 =============================
 
++----------------------+-----------------------+-----------------------+-------------------+
+| Prep Time: 5 minutes | Cook Time: 45 minutes | Total Time: overnight | Yield: 1 1/2 cups |
++----------------------+-----------------------+-----------------------+-------------------+
+
 Ingredients
 -----------
 
@@ -27,8 +31,4 @@ Directions
 2. Bring the mixture to a boil, then reduce the heat and simmer uncovered
    for 45 minutes or until thick.
 3. Cool, then store in a covered container in the refrigerator overnight.
-
-Yield
------
-Makes 1 1/2 cups.
 

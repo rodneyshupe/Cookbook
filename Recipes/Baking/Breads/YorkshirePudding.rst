@@ -1,6 +1,10 @@
 Yorkshire Pudding
 =================
 
++-----------------------+-----------------------+-------------------+
+| Prep Time: 10 minutes | Cook Time: 30 minutes | Yield: 8 servings |
++-----------------------+-----------------------+-------------------+
+
 Ingredients
 -----------
 -  4 large eggs, at room temperature
@@ -11,7 +15,7 @@ Ingredients
 
 Directions
 ----------
-1. Place cast iron pan in oven and heat to 400°F.
+1. Place cast iron pan in oven and heat to 400F.
 2. Combine eggs, milk, flour, salt, and 2 tablespoons drippings in a blender
    and process until smooth.
 3. Remove pan from oven and add remaining 2 tablespoons of drippings to pan.

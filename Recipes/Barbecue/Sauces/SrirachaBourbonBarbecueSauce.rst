@@ -1,9 +1,9 @@
 Sriracha Bourbon Barbecue Sauce
 ===============================
 
-+----------------------+--------------------------+-------------------+
-| Prep Time: 5 minutes | Cooking Time: 15 minutes | Yield: 2 1/2 cups |
-+----------------------+--------------------------+-------------------+
++----------------------+-----------------------+-------------------+
+| Prep Time: 5 minutes | Cook Time: 15 minutes | Yield: 2 1/2 cups |
++----------------------+-----------------------+-------------------+
 
 Based on: `Epicurious (Steve Raichlen) <https://www.epicurious.com/recipes/food/views/Bourbon-Barbecue-Sauce-103642>`__
 

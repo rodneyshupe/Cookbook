@@ -1,9 +1,9 @@
 Stir Fried Honey Ginger Sesame Noodles
 ======================================
 
-+------------------+-------------------+----------+
-| Prep: 10 minutes | Total: 20 minutes | Yield: 6 |
-+------------------+-------------------+----------+
++-----------------------+------------------------+----------+
+| Prep Time: 10 minutes | Total Time: 20 minutes | Yield: 6 |
++-----------------------+------------------------+----------+
 
 Source: `halfbakedharvest <https://www.halfbakedharvest.com/stir-fried-honey-ginger-sesame-noodles/>`__
 
@@ -29,7 +29,7 @@ Ingredients
 Directions
 ----------
 
-1. Preheat the oven to 400° F. Line a baking sheet with parchment.
+1. Preheat the oven to 400 F. Line a baking sheet with parchment.
    Spread the cashews out on the baking sheet and bake 5 minutes. Add the
    sriracha, 1 tablespoon soy sauce, 2 teaspoons honey, and the sesame
    seeds. Toss to combine. Bake another 5 minutes, until toasted.

@@ -1,9 +1,9 @@
 Beef Stew
 =========
 
-+-----------------------+---------------------------+---------------------+
-| Prep Time: 30 minutes | Cooking Time: 2 1/2 hours | Yield: 6-8 servings |
-+-----------------------+---------------------------+---------------------+
++-----------------------+------------------------+---------------------+
+| Prep Time: 30 minutes | Cook Time: 2 1/2 hours | Yield: 6-8 servings |
++-----------------------+------------------------+---------------------+
 
 Ingredients
 -----------
@@ -32,7 +32,7 @@ Directions
 ----------
 
 1. Adjust an oven rack to the lower-middle position and heat the oven to
-   325°F.
+   325F.
 2. Pat the beef dry with paper towels and season with salt and pepper.
    Heat 1 tablespoon of the oil in a large Dutch oven over medium-high
    heat until just smoking. Add half of the meat and cook, stirring

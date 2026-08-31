@@ -1,6 +1,10 @@
 Basil Mayonnaise
 ================
 
++----------------------+--------------------+
+| Prep Time: 5 minutes | Yield: about 1 cup |
++----------------------+--------------------+
+
 Ingredients
 -----------
 - 1/2 cup mayonnaise

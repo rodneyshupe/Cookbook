@@ -1,9 +1,9 @@
 Roast Chicken with Warm Bread Salad
 ===================================
 
-+----------------------------------+---------------------------+---------------------+
-| Prep Time: 15 minutes + 24 hours | Cooking Time: 1 1/2 hours | Yield: 4-6 servings |
-+----------------------------------+---------------------------+---------------------+
++----------------------------------+------------------------+---------------------+
+| Prep Time: 15 minutes + 24 hours | Cook Time: 1 1/2 hours | Yield: 4-6 servings |
++----------------------------------+------------------------+---------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/10920-roast-chicken-with-warm-bread-salad>`__
 
@@ -39,7 +39,7 @@ Directions
    crust side up.
 4. Pat chicken dry with paper towels and place, skin side up, on top of
    bread. Brush 2 teaspoons oil over chicken skin and sprinkle with
-   1/4 teaspoon salt and ¼ teaspoon pepper. Roast chicken until skin is
+   1/4 teaspoon salt and 1/4 teaspoon pepper. Roast chicken until skin is
    deep golden brown and thickest part of breast registers 160 degrees
    and thighs register 175 degrees, 45 to 50 minutes, rotating skillet
    halfway through roasting.

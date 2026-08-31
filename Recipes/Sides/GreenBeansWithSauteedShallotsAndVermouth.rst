@@ -1,8 +1,9 @@
 Green Beans with Sauteed Shallots and Vermouth
 ==============================================
 
-Yield: Serves 4 to 6
-
++-----------------------+-----------------------+------------------------+
+| Prep Time: 15 minutes | Cook Time: 20 minutes | Yield: 4 to 6 servings |
++-----------------------+-----------------------+------------------------+
 
 Ingredients
 -----------
@@ -13,7 +14,6 @@ Ingredients
 -  4 large shallots, sliced thin (about 2 cups)
 -  Salt and ground black pepper
 -  2 tablespoons dry vermouth
-
 
 Directions
 ----------

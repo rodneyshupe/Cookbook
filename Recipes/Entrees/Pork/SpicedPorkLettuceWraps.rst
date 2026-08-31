@@ -1,9 +1,9 @@
 Spiced Pork Lettuce Wraps
 =========================
 
-+-----------------------+--------------------------+-------------------+
-| Prep Time: 15 minutes | Cooking Time: 10 minutes | Yield: 4 servings |
-+-----------------------+--------------------------+-------------------+
++-----------------------+-----------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 10 minutes | Yield: 4 servings |
++-----------------------+-----------------------+-------------------+
 
 Source: `Cooks Country <https://www.cookscountry.com/recipes/9802-spiced-pork-lettuce-wraps>`__
 

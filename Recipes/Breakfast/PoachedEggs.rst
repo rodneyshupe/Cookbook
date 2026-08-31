@@ -1,6 +1,10 @@
 Poached eggs
 ============
 
++----------------------+----------------------+---------------+
+| Prep Time: 5 minutes | Cook Time: 5 minutes | Yield: 4 eggs |
++----------------------+----------------------+---------------+
+
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/9473-perfect-poached-eggs>`__
 
 Ingredients

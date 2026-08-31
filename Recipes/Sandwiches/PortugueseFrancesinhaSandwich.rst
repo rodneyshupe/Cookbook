@@ -1,9 +1,9 @@
 Portuguese Francesinha Sandwich
 ===============================
 
-+-----------------+-------------------+-----------------+
-| Prep: 5 minutes | Total: 30 minutes | Yield: 2 people |
-+-----------------+-------------------+-----------------+
++----------------------+------------------------+-----------------+
+| Prep Time: 5 minutes | Total Time: 30 minutes | Yield: 2 people |
++----------------------+------------------------+-----------------+
 
 
 Ingredients
@@ -30,7 +30,7 @@ Francesinhas
 - 4 slices of ham
 - 8 slices of edem cheese
 - 5-6 oz beef striploin
-- 4-6 linguiças (Portuguese sausage) (can substitute chorizo)
+- 4-6 linguicas (Portuguese sausage) (can substitute chorizo)
 - kosher salt
 - black pepper
 
@@ -53,6 +53,6 @@ Francesinhas
 
 1. Preheat the oven to 180 C (350 F)
 2. Cook the beef chopped in small strings. Season with salt and black pepper.
-3. Cook the linguiças sliced in half lengthwise.
+3. Cook the linguicas sliced in half lengthwise.
 4. Fill the bread with the sausages, the beef and the ham roughly chopped.
    Cover the francesinhas with the cheese and melt in the oven for 5 minutes.

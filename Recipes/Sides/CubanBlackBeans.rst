@@ -1,6 +1,10 @@
 Cuban Black Beans
 =================
 
++-----------------------+------------------------+-----------------------+-------------------+
+| Prep Time: 20 minutes | Cook Time: 2 3/4 hours | Total Time: overnight | Yield: 8 servings |
++-----------------------+------------------------+-----------------------+-------------------+
+
 Ingredients
 -----------
 
@@ -15,7 +19,6 @@ Ingredients
 -  1/2 cup minced garlic
 -  1/4 cup tomato paste
 -  Salt
-
 
 Directions
 ----------
@@ -35,8 +38,8 @@ Directions
    for 5 minutes to blend the flavours. Cover and refrigerate overnight
    or for up to 3 days. Reheat gently before serving.
 
-Note
-----
+Notes
+-----
 
-In a pinch you can substitute 3 19oz cans of black beans and don’t add
+In a pinch you can substitute 3 19oz cans of black beans and don't add
 the water. Still simmer with the green onion to infuse the flavour.

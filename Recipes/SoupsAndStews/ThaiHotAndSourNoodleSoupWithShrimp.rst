@@ -1,22 +1,22 @@
 Thai Hot and Sour Noodle Soup with Shrimp (Guay Tiew Tom Yum Goong)
 ===================================================================
 
-+-----------------------+---------------------------+---------------------+
-| Prep Time: 15 minutes | Cooking Time: 1 1/4 hours | Yield: 4-6 servings |
-+-----------------------+---------------------------+---------------------+
++-----------------------+------------------------+---------------------+
+| Prep Time: 15 minutes | Cook Time: 1 1/4 hours | Yield: 4-6 servings |
++-----------------------+------------------------+---------------------+
 
 Source: `Cooks Country <https://www.cookscountry.com/recipes/5833-asian-beef-and-noodle-soup>`__
 
 
-Instructions
-------------
+Ingredients
+-----------
 
 - 4 ounces rice vermicelli
 - 2 lemon grass stalks, trimmed to bottom 6 inches
 - 4 scallions, trimmed, white parts left whole, green parts cut into 1-inch lengths
 - 6 makrut lime leaves, torn if large (substitute three each of 3 inch strips of lemon and lime zest)
 - 2 Thai chiles, stemmed (1 left whole, 1 sliced thin), divided, plus 2 Thai chiles, stemmed and sliced thin, for serving (optional)
-- 1 (2-inch) piece fresh galangal, peeled and sliced into 1⁄4-inch-thick rounds (substitute fresh ginger)
+- 1 (2-inch) piece fresh galangal, peeled and sliced into 1/4-inch-thick rounds (substitute fresh ginger)
 - 8 cups chicken broth
 - 1 tablespoon sugar, plus extra f or seasoning
 - 8 ounces oyster mushrooms, trimmed and torn into 1-inch pieces

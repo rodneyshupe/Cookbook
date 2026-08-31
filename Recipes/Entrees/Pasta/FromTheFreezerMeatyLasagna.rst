@@ -1,9 +1,9 @@
 From the Freezer Meaty Lasagna
 ==============================
 
-+----------------------------+----------------------+---------------------+
-| Prep Time: 15 + 65 minutes | Cooking Time: 1 hour | Yield: 4-6 servings |
-+----------------------------+----------------------+---------------------+
++----------------------------+-------------------+---------------------+
+| Prep Time: 15 + 65 minutes | Cook Time: 1 hour | Yield: 4-6 servings |
++----------------------------+-------------------+---------------------+
 
 Source: `Cooks Country <https://www.cookscountry.com/recipes/3195-from-the-freezer-meaty-lasagna>`__
 

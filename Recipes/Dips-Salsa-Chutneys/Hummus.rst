@@ -1,9 +1,9 @@
 Hummus
 ======
 
-+-----------------+------------------+---------------+
-| Prep: 5 minutes | Time: 35 minutes | Yield: 2 cups |
-+-----------------+------------------+---------------+
++----------------------+------------------------+---------------+
+| Prep Time: 5 minutes | Total Time: 35 minutes | Yield: 2 cups |
++----------------------+------------------------+---------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/4234-restaurant-style-hummus?incode=MCSCD00L0&ref=new_search_experience_12>`__
 
@@ -127,7 +127,7 @@ Roasted Garlic Hummus
 
 -  Before Step 1, remove outer papery skins from 2 heads garlic; cut top
    quarters off heads and discard. Wrap garlic in foil and roast in
-   350°F oven until browned and very tender, about 1 hour. Meanwhile,
+   350F oven until browned and very tender, about 1 hour. Meanwhile,
    heat olive oil and sliced garlic in small skillet over medium-low
    heat. Cook, stirring occasionally, until golden brown, about 15
    minutes. Using slotted spoon, transfer sliced garlic to paper

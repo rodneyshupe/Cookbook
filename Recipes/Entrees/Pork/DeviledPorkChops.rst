@@ -1,6 +1,10 @@
 Deviled Pork Chops
 ==================
 
++-----------------------+-----------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 50 minutes | Yield: 4 servings |
++-----------------------+-----------------------+-------------------+
+
 Ingredients
 -----------
 
@@ -19,7 +23,7 @@ Directions
 1. Adjust oven rack to middle position and heat oven to 275 degrees.
 2. Melt butter in 10-inch skillet over medium heat. Add panko and cook,
    stirring frequently, until golden brown, 3 to 5 minutes. Transfer to
-   bowl and sprinkle with ⅛ teaspoon salt. Stir Dijon, sugar, dry mustard,
+   bowl and sprinkle with 1/8 teaspoon salt. Stir Dijon, sugar, dry mustard,
    garlic, cayenne, 1 teaspoon salt, and 1 teaspoon pepper in second bowl
    until smooth.
 3. Set wire rack in rimmed baking sheet and spray with vegetable oil spray.

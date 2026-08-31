@@ -1,6 +1,10 @@
 Duchesse Potatoes
 =================
 
++-----------------------+-----------------------+-------------------+
+| Prep Time: 20 minutes | Cook Time: 35 minutes | Yield: 6 servings |
++-----------------------+-----------------------+-------------------+
+
 Ingredients
 -----------
 
@@ -19,7 +23,7 @@ Directions
 1. In a pot of salted boiling water place potatoes. Cook until tender.
 2. Drain the potatoes and let sit 2 minutes to assure all the water is drained
 3. Place in a large bowl and mash. Add salt, pepper, nutmeg, cream, egg yolks, and butter. Blend well.
-4. Preheat oven to 400 ‘f.
+4. Preheat oven to 400 'f.
 5. Pipe potatoes onto a baking sheet into crown shape (use piping bag with star tube).
 6. Brush the piped potatoes with egg yolk (beaten)
 7. Place in oven for approx. 15 minutes or until golden brown.

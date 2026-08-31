@@ -1,6 +1,10 @@
 Pulled Pork Rub
 ===============
 
++----------------------+----------------------+
+| Prep Time: 5 minutes | Yield: about 3/4 cup |
++----------------------+----------------------+
+
 Ingredients
 -----------
 
@@ -8,7 +12,7 @@ Ingredients
 -  1 tablespoon celery salt
 -  1 tablespoon garlic salt (I used granulated garlic)
 -  1 tablespoon onion salt
--  1 tablespoon Lawry’s season salt
+-  1 tablespoon Lawry's season salt
 -  4 teaspoons chili powder
 -  4 teaspoons black pepper
 -  4 teaspoons paprika

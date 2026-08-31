@@ -1,6 +1,10 @@
 Mussels Steamed in White Wine
 =============================
 
++-----------------------+-----------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 10 minutes | Yield: 4 servings |
++-----------------------+-----------------------+-------------------+
+
 Ingredients
 -----------
 
@@ -23,11 +27,6 @@ Directions
    in large serving bowl. Meanwhile, swirl butter into pan liquid to
    make emulsified sauce. Pour broth over mussels and serve immediately
    with warm bread or rice.
-
-Yield:
-------
-
-Serves 4
 
 Variations
 ----------

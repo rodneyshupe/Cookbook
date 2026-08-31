@@ -1,7 +1,9 @@
 Proscuitto Wrapped Asparagus and Roasted Red Pepper Coulis
 ==========================================================
 
-Yield: 4 servings
++-----------------------+-----------------------+-------------------+
+| Prep Time: 20 minutes | Cook Time: 15 minutes | Yield: 4 servings |
++-----------------------+-----------------------+-------------------+
 
 Ingredients
 -----------
@@ -30,14 +32,14 @@ Red pepper Coulis/ or drizzled 20 year old Balsamic Vinegar
 Directions
 ----------
 
-#. Preheat broiler to 400°F
-#. Place asparagus in a shallow baking dish; season, add oil and lemon juice. Toss gently not to break the spears
-#. Take 4 spears and place a sprig of rosemary in the middle. Wrap in the centre with proscuitto to make a bow (make 4 bundles).
-#. Place onto a baking sheet
-#. Crumble goats cheese onto each bundle.
-#. Place in oven for approx. 7-10 minutes
-#. Meanwhile prepare the coulis; in a sauce pan heat oil, add shallots, garlic, season, and sear for 1 minute.
-#. Add white wine and reduce until most of the liquid is gone.
-#. Add whipping cream, season, and reduce for 3-4 minutes
-#. Place roasted red peppers, and cream mixture in blender. Puree. Keep warm.
-#. Place bundles on a serving platter and spoon roasted red pepper coulis over asparagus bundles
+1. Preheat broiler to 400F
+2. Place asparagus in a shallow baking dish; season, add oil and lemon juice. Toss gently not to break the spears
+3. Take 4 spears and place a sprig of rosemary in the middle. Wrap in the centre with proscuitto to make a bow (make 4 bundles).
+4. Place onto a baking sheet
+5. Crumble goats cheese onto each bundle.
+6. Place in oven for approx. 7-10 minutes
+7. Meanwhile prepare the coulis; in a sauce pan heat oil, add shallots, garlic, season, and sear for 1 minute.
+8. Add white wine and reduce until most of the liquid is gone.
+9. Add whipping cream, season, and reduce for 3-4 minutes
+10. Place roasted red peppers, and cream mixture in blender. Puree. Keep warm.
+11. Place bundles on a serving platter and spoon roasted red pepper coulis over asparagus bundles

@@ -1,6 +1,10 @@
 Basic Pork Rub
 ==============
 
++----------------------+--------------------+
+| Prep Time: 5 minutes | Yield: about 1 cup |
++----------------------+--------------------+
+
 This is a very simple basic rub for pork.
 
 Ingredients

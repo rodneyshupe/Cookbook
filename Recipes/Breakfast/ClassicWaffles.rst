@@ -1,7 +1,15 @@
 Classic Waffles
 ===============
 
++-----------------------+-----------------------+------------------+
+| Prep Time: 15 minutes | Cook Time: 15 minutes | Yield: 6 waffles |
++-----------------------+-----------------------+------------------+
+
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/9473-perfect-poached-eggs>`__
+
+Equipment
+---------
+Waffle Iron
 
 Ingredients
 -----------
@@ -14,7 +22,7 @@ Ingredients
 -  1 3/4 cup buttermilk
 -  4 tablespoons unsalted butter, melted
 
-*If you’re out of buttermilk, substitute a little less milk (1 1/2 scant
+*If you're out of buttermilk, substitute a little less milk (1 1/2 scant
 cup) and add 4 teaspoons cream of tartar to the dry ingredients.*
 
 *If using kosher salt, use 1 1/4 teaspoons*
@@ -31,7 +39,7 @@ Directions
    a folding motion to incorporate ingredients; gently fold egg white
    into batter.
 4. Spread appropriate amount of batter onto waffle iron. Following
-   manufacturer’s instructions, cook waffle until golden brown, 2 to 5
+   manufacturer's instructions, cook waffle until golden brown, 2 to 5
    minutes. Serve immediately. (You can keep waffles warm on a wire rack
-   in a 200°F oven for up to 5 minutes.)
+   in a 200F oven for up to 5 minutes.)
 

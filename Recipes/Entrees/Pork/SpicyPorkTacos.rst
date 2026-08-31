@@ -1,9 +1,9 @@
 Spicy Pork Tacos (al Pastor)
 ============================
 
-+--------------------+----------------------+
-| Total: 3 1/2 hours | Yield: Serves 6 to 8 |
-+--------------------+----------------------+
++-------------------------+----------------------+
+| Total Time: 3 1/2 hours | Yield: Serves 6 to 8 |
++-------------------------+----------------------+
 
 Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/6952-spicy-pork-tacos-al-pastor>`__
 

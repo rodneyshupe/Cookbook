@@ -1,9 +1,9 @@
 Creamy Red Pepper Pasta Sauce
 =============================
 
-+-----------------------+--------------------------+---------------+
-| Prep Time: 15 minutes | Cooking Time: 30 minutes | Yield: 4 cups |
-+-----------------------+--------------------------+---------------+
++-----------------------+-----------------------+---------------+
+| Prep Time: 15 minutes | Cook Time: 30 minutes | Yield: 4 cups |
++-----------------------+-----------------------+---------------+
 
 Source: `Steve Cusato - Not Another Cooking Show <https://www.notanothercookingshow.tv/post/spicy-red-pepper-pasta>`__
 
@@ -36,7 +36,7 @@ Directions
 Sauce
 ^^^^^
 
-1. Preheat a large sauté pan, add a few tablespoons of olive oil and then
+1. Preheat a large saute pan, add a few tablespoons of olive oil and then
    get the onions in first to get them going. Season with salt and once
    softened and begins to turn translucent, add the peppers. Cook for a few
    minutes until the onions are fully translucent and soft and starting to

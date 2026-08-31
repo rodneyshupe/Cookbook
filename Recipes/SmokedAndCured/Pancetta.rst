@@ -1,10 +1,18 @@
 Pancetta
 ========
 
++-----------------------+--------------------+---------------------+-----------------------------+
+| Prep Time: 30 minutes | Cure Time: 2 weeks | Dry Time: 4-8 weeks | Yield: about 6 lbs pancetta |
++-----------------------+--------------------+---------------------+-----------------------------+
+
 This traditional pork belly preparation can be made either as a slab (stesa)
 or roll (arrotolata), as you prefer.
 
 Source: `UMAi Charcuterie <https://www.drybagsteak.com/recipe-homemade-pancetta-charcuterie.php>`__
+
+Equipment
+---------
+UMAi Dry Bag, Vacuum Sealer
 
 Ingredients
 -----------
@@ -33,5 +41,4 @@ Directions
    wire rack to dry in your refrigerator four to eight weeks, or until
    35-40% reduction in weight.
 5. After drying is complete, slice thin and enjoy!
-
 

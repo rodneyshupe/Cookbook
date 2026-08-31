@@ -1,9 +1,9 @@
 Potato Galette
 ==============
 
-+-----------------------+--------------------------+---------------------+
-| Prep Time: 15 minutes | Cooking Time: 50 minutes | Yield: 6-8 servings |
-+-----------------------+--------------------------+---------------------+
++-----------------------+-----------------------+---------------------+
+| Prep Time: 15 minutes | Cook Time: 50 minutes | Yield: 6-8 servings |
++-----------------------+-----------------------+---------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/36-scalloped-potatoes>`__
 
@@ -20,7 +20,7 @@ Ingredients
 Directions
 ----------
 
-1. Adjust oven rack to lowest position and heat oven to 450°F.
+1. Adjust oven rack to lowest position and heat oven to 450F.
    Place potatoes in large bowl and fill with cold water. Using hands,
    swirl to remove excess starch, then drain in colander. Spread
    potatoes onto kitchen towels and thoroughly dry.

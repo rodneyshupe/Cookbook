@@ -1,9 +1,9 @@
 Chicken Bouillabaisse
 =====================
 
-+-----------------------+----------------------+---------------------+
-| Prep Time: 30 minutes | Cooking Time: 1 hour | Yield: 4-6 servings |
-+-----------------------+----------------------+---------------------+
++-----------------------+-------------------+---------------------+
+| Prep Time: 30 minutes | Cook Time: 1 hour | Yield: 4-6 servings |
++-----------------------+-------------------+---------------------+
 
 
 Ingredients
@@ -56,7 +56,7 @@ Directions
 ----------
 
 1. *For the Bouillabaisse:* Adjust oven racks to middle and lower
-   positions and heat oven to 375°F. Pat chicken dry with paper
+   positions and heat oven to 375F. Pat chicken dry with paper
    towels and season with salt and pepper. Heat oil in large Dutch oven
    over medium-high heat until just smoking. Add chicken pieces,
    skin-side down, and cook without moving until well browned, 5 to 8
@@ -73,7 +73,7 @@ Directions
    pieces into simmering liquid, adjusting pieces as necessary to ensure
    skin stays above surface of liquid. Bake on middle rack, uncovered,
    until instant-read thermometer inserted into thickest part of chicken
-   registers 145°F for breasts and 160°F for drumsticks and thighs,
+   registers 145F for breasts and 160F for drumsticks and thighs,
    10 to 20 minutes.
 4. *For the Rouille:* While chicken cooks, microwave water and saffron
    in medium microwave-safe bowl on high power until water is steaming,
@@ -95,7 +95,7 @@ Directions
 6. Remove bouillabaisse and croutons from oven and set oven to broil.
    Once heated, return bouillabaisse to oven and cook until chicken skin
    is crisp and instant-read thermometer inserted into thickest part of
-   chicken registers 160°F for breasts and 175°F for drumsticks and
+   chicken registers 160F for breasts and 175F for drumsticks and
    thighs, 5 to 10 minutes (smaller pieces may cook faster than larger
    pieces; remove individual pieces as they reach temperature).
 7. Transfer chicken pieces to large plate. Skim excess fat from broth.

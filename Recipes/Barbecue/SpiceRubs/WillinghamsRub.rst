@@ -1,5 +1,9 @@
-Willingham’s Rub
+Willingham's Rub
 ================
+
++----------------------+-------------------------+
+| Prep Time: 5 minutes | Yield: about 1 1/2 cups |
++----------------------+-------------------------+
 
 This is stronger than most rubs. Not recommend it for thin cuts (like
 ribs). Recommend meats are: Beef round, Prime Rib, Pork Shoulders.
@@ -10,7 +14,7 @@ Ingredients
 -  4 tablespoon cumin
 -  4 tablespoon thyme
 -  4 tablespoon garlic powder
--  4 tablespoon black pepper – freshly ground
+-  4 tablespoon black pepper - freshly ground
 -  2 tablespoon cayenne pepper
 -  2 tablespoon salt
 -  2 tablespoon curry powder

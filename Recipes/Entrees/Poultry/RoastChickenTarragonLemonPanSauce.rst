@@ -1,9 +1,9 @@
 Roast Chicken Tarragon-Lemon Pan Sauce
 ======================================
 
-+----------------------+---------------------------+-------------------+
-| Prep Time: 5 minutes | Cooking Time: 1 1/2 hours | Yield: 4 servings |
-+----------------------+---------------------------+-------------------+
++----------------------+------------------------+-------------------+
+| Prep Time: 5 minutes | Cook Time: 1 1/2 hours | Yield: 4 servings |
++----------------------+------------------------+-------------------+
 
 Ingredients
 -----------
@@ -30,15 +30,15 @@ Directions
 ----------
 
 1. Adjust oven rack to middle position, place 12-inch ovensafe skillet
-   on rack, and heat oven to 450°F. Combine salt and pepper in bowl. Pat
+   on rack, and heat oven to 450F. Combine salt and pepper in bowl. Pat
    chicken dry with paper towels. Rub entire surface with oil. Sprinkle
    evenly all over with salt mixture and rub in mixture with hands to
    coat evenly. Tie legs together with twine and tuck wing tips behind
    back.
 2. Transfer chicken, breast side up, to preheated skillet in oven. Roast
-   chicken until breasts register 120°F and thighs register 135°F,
+   chicken until breasts register 120F and thighs register 135F,
    25 to 35 minutes. Turn off oven and leave chicken in oven until
-   breasts register 160°F and thighs register 175°F, 25 to 35 minutes.
+   breasts register 160F and thighs register 175F, 25 to 35 minutes.
 3. Transfer chicken to carving board and let rest, uncovered, for 20
    minutes before carving.
 4. While chicken rests, remove all but 1 tablespoon of fat from

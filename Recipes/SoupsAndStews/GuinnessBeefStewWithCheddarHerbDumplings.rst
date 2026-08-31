@@ -1,9 +1,9 @@
 Guinness Beef Stew with Cheddar Herb Dumplings
 ==============================================
 
-+------------------+---------------------------+-------------------+
-| Prep: 30 minutes | Total: 3 hours 30 minutes | Yield: 6 servings |
-+------------------+---------------------------+-------------------+
++-----------------------+--------------------------------+-------------------+
+| Prep Time: 30 minutes | Total Time: 3 hours 30 minutes | Yield: 6 servings |
++-----------------------+--------------------------------+-------------------+
 
 Source: `Morgan <https://hostthetoast.com/guinness-beef-stew-with-cheddar-herb-dumplings/>`__
 
@@ -61,7 +61,7 @@ Directions
    Reduce to a simmer again, stirring occasionally, and add in the
    mushrooms if desired. Cook for 10 minutes, uncovered, until the stew
    thickens and the mushrooms are cooked through. Stir the bacon back in.
-   Preheat the oven to 350°F.
+   Preheat the oven to 350F.
 9. Stir together the self-rising flour and garlic powder in a medium bowl.
    Cut in the shortening until mixture resembles coarse crumbs. Stir in the
    cheddar cheese, then add the milk and stir until the dry ingredients are

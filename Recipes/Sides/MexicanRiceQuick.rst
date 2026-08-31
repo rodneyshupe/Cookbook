@@ -1,9 +1,13 @@
 Quick Mexican Rice
 ==================
 
++-----------------------+-----------------------+-------------------+
+| Prep Time: 10 minutes | Cook Time: 25 minutes | Yield: 4 servings |
++-----------------------+-----------------------+-------------------+
+
 Ingredients
 -----------
-- 1 tablespoon vegteble oil
+- 1 tablespoon vegetable oil
 - 1 tablespoon butter
 - 1 medium onion, diced
 - 1 cup long-grain white rice

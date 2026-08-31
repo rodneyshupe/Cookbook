@@ -1,14 +1,14 @@
 Grilled Asparagus
 =================
 
-+-----------------------+-------------------------+-------------------+
-| Prep Time: 15 minutes | Cooking Time: 8 minutes | Yield: 4 servings |
-+-----------------------+-------------------------+-------------------+
++-----------------------+----------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 8 minutes | Yield: 4 servings |
++-----------------------+----------------------+-------------------+
 
 Ingredients
 -----------
 
--  1 pound asparagus (the stalks shouldn’t be too thin)
+-  1 pound asparagus (the stalks shouldn't be too thin)
 -  2 tablespoons Asian (dark) sesame oil
 -  1 tablespoon soy sauce
 -  1 clove garlic, minced

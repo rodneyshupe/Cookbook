@@ -1,6 +1,10 @@
 Lemon Curd
 ==========
 
++----------------------+-----------------------+---------------------+
+| Prep Time: 5 minutes | Cook Time: 20 minutes | Yield: about 2 cups |
++----------------------+-----------------------+---------------------+
+
 I got this recipe from my mom and is an easy and very yummy Lemon Curd
 that can be used as a filling for tarts or in a lemon layer cake between
 layers.
@@ -23,8 +27,8 @@ Directions
 3. Over medium to medium high heat whisk ingredients for 20 minutes. Be
    careful not to let the mixture boil.
 
-Make-a-head
------------
+Make Ahead
+----------
 
 May be stored in the refrigerator in a sealed container for 1-2 weeks.
 

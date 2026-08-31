@@ -1,6 +1,10 @@
 Lacquered Bacon
 ===============
 
++----------------------+-----------------------+-------------------+
+| Prep Time: 5 minutes | Cook Time: 30 minutes | Yield: 4 servings |
++----------------------+-----------------------+-------------------+
+
 Source: `Alton Brown <https://altonbrown.com/roasted-bacon-recipe/>`__
 
 Ingredients
@@ -15,7 +19,7 @@ Directions
 
 1. Set the oven temperature to 400 degrees F.
 2. Line a half sheet pan with parchment paper and lay the bacon in a single
-   layer so that there’s little or no space between the pieces on a cooling
+   layer so that there's little or no space between the pieces on a cooling
    rack set in the pan.
 3. Liberally sprinkle one side of the bacon slices with the
    1/4 teaspoon black pepper, 4 tablespoons sugar and red pepper flakes.

@@ -1,5 +1,10 @@
 Chipped Ling Cod (Fish and Chips)
 =================================
+
++-----------------------+-----------------------+-------------------+
+| Prep Time: 20 minutes | Cook Time: 10 minutes | Yield: 2 servings |
++-----------------------+-----------------------+-------------------+
+
 Source:  `Skipper Otto <https://skipperotto.com/wp-content/uploads/2019/04/SO-Recipe-Chipped-Lingcod-back-1024x585.jpg>`__
 
 Ingredients
@@ -16,7 +21,7 @@ Directions
 1. Pre-heat your oven to 425 degrees F. Ready a parchment covered baking sheet.
 2. Remove skin from ling cod and cut into 1 inch filets.
 3. Season the Lingcod cheeks with sea salt and cracked pepper.
-4. On one plate combine flour with salt and peper. On second plate crush chips
+4. On one plate combine flour with salt and pepper. On second plate crush chips
    and combine with panko. In shallow bowl whisk eggs.
 5. Dredge each piece of fish in flour, then egg mix and finally in the bread
    crumb mix, before placing on backing sheet.

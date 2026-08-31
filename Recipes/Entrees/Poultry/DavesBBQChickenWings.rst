@@ -1,5 +1,9 @@
-Dave’s BBQ Chicken Wings
+Dave's BBQ Chicken Wings
 ========================
+
++-----------------------+-----------------------+-----------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 50 minutes | Total Time: 3-4 hours | Yield: 4 servings |
++-----------------------+-----------------------+-----------------------+-------------------+
 
 Ingredients
 -----------
@@ -36,7 +40,7 @@ Directions
    it on the wings side get ready for lots of flames. When done to your
    liking take them off and pour on as much room temperature BBQ sauce
    as you like, we coated about half of each wing drizzling with a table
-   spoon. Overall don’t cook them too long, 40-50 minutes total time
+   spoon. Overall don't cook them too long, 40-50 minutes total time
    from when they went on the grill.
 
 Variation

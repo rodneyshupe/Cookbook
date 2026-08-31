@@ -1,6 +1,10 @@
 Old-Fashioned Stuffed Turkey
 ============================
 
++-------------------+------------------------+-------------------------+--------------------+
+| Prep Time: 1 hour | Cook Time: 3 1/2 hours | Total Time: 24-48 hours | Yield: 12 servings |
++-------------------+------------------------+-------------------------+--------------------+
+
 Ingredients
 -----------
 
@@ -38,11 +42,11 @@ Directions
    salt under skin of each leg. Wrap turkey tightly with plastic wrap;
    refrigerate 24 to 48 hours.
 2. FOR THe STUFFING: Adjust oven rack to lowest position and heat oven
-   to 250°F. Spread bread cubes in single layer on baking sheet; bake
+   to 250F. Spread bread cubes in single layer on baking sheet; bake
    until edges have dried but centers are slightly moist (cubes should
    yield to pressure), about 45 minutes, stirring several times during
    baking. Transfer to large bowl and increase oven temperature to
-   325°F.
+   325F.
 3. While bread dries, heat 4 tablespoons butter in 12-inch skillet over
    medium-high heat; when foaming subsides, add onion, celery, 2
    teaspoons salt, and 1 teaspoon pepper; cook, stirring occasionally,
@@ -64,27 +68,27 @@ Directions
    turkey breast-side down in V-rack set in roasting pan and drape salt
    pork slices over back.
 5. Roast turkey breast-side down until thickest part of breast registers
-   130°F on instant-read thermometer, 2 to 2 1/2 hours. Remove roasting
+   130F on instant-read thermometer, 2 to 2 1/2 hours. Remove roasting
    pan from oven (close oven door) and increase oven temperature to
-   450°F. Transfer turkey in V-rack to rimmed baking sheet. Remove and
+   450F. Transfer turkey in V-rack to rimmed baking sheet. Remove and
    discard salt pork. Using clean potholders or kitchen towels, rotate
    turkey breast-side up. Cut twine binding legs and remove stuffing
    bag; empty into reserved stuffing in bowl. Pour drippings from
    roasting pan into fat separator and reserve for gravy, if making.
 6. Once oven has come to temperature, return turkey in V-rack to
    roasting pan and roast until skin is golden brown and crisp, thickest
-   part of breast registers 160°F, and thickest part of thigh registers
-   175°F, about 45 minutes, rotating pan halfway through. Transfer
+   part of breast registers 160F, and thickest part of thigh registers
+   175F, about 45 minutes, rotating pan halfway through. Transfer
    turkey to carving board and let rest, uncovered, 30 minutes.
-7. While turkey rests, reduce oven temperature to 400°F. Whisk eggs and
+7. While turkey rests, reduce oven temperature to 400F. Whisk eggs and
    remaining 1/2 cup broth together in small bowl. Pour egg mixture over
    stuffing and toss to combine, breaking up any large chunks; spread in
    buttered 13- by 9-inch baking dish. Bake until stuffing registers
-   165°F and top is golden brown, about 15 minutes. Carve turkey and
+   165F and top is golden brown, about 15 minutes. Carve turkey and
    serve with stuffing and `Turkey Gravy <#turkey-gravy>`__.
 
-Note
-----
+Notes
+-----
 
 To roast a kosher or self-basting turkey (such as a frozen Butterball),
 do not salt it in step 1.

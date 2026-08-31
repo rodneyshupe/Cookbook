@@ -1,6 +1,10 @@
 Poblano con queso - Tacos
 =========================
 
++-----------------------+-----------------------+----------------+
+| Prep Time: 10 minutes | Cook Time: 15 minutes | Yield: 4 tacos |
++-----------------------+-----------------------+----------------+
+
 Source: `Ethan Chlebowski <https://www.ethanchlebowski.com/cooking-techniques-recipes/poblano-con-queso-tacos>`__
 
 Ingredients
@@ -14,7 +18,7 @@ Directions
 ----------
 
 1. Cut the top off the poblano and remove the stem and insides. Add in a
-   large block of manchego cheese (don’t skimp!).
+   large block of manchego cheese (don't skimp!).
 2. Over a charcoal grill, gas stove or under the broiler, roast the poblano 
    until charred completely and slightly softened.
 3. Roughly dice the poblano and cheese.

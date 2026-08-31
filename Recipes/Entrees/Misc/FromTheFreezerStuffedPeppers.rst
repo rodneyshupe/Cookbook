@@ -1,9 +1,9 @@
 From the Freezer Stuffed Peppers
 ================================
 
-+----------------------------+--------------------------+---------------------+
-| Prep Time: 20 + 45 minutes | Cooking Time: 45 minutes | Yield: 4-6 servings |
-+----------------------------+--------------------------+---------------------+
++----------------------------+-----------------------+---------------------+
+| Prep Time: 20 + 45 minutes | Cook Time: 45 minutes | Yield: 4-6 servings |
++----------------------------+-----------------------+---------------------+
 
 Source: `Cooks Country <https://www.cookscountry.com/recipes/3111-from-the-freezer-stuffed-peppers>`__
 

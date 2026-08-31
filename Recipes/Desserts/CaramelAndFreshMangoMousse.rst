@@ -1,7 +1,9 @@
 Caramel and Fresh Mango Mousse
 ==============================
 
-Yield: 8 servings
++-----------------------+----------------------+------------------------+-------------------+
+| Prep Time: 30 minutes | Cook Time: 5 minutes | Total Time: 45 minutes | Yield: 8 servings |
++-----------------------+----------------------+------------------------+-------------------+
 
 Ingredients
 -----------
@@ -22,9 +24,9 @@ Caramel sauce
 Directions
 ----------
 
-#. Prepare pastry creamas per recipe. Whip cream and icing sugar together until stiff peaks. Fold in whipped cream gently.
-#. Fold in mango to finished pastry cream, cover and refrigerate.
-#. Meanwhile prepare the caramel sauce; in a pot add all the ingredients. Stir over low- medium heat until the sugar dissolves. Simmer 3 minutes. Chill in fridge for 30 minutes and fold into mousse.
-#. Pipe into chocolate baskets with round piping tube large enough not to catch the pieces of mango
-#. Garnish with fresh mint leaf
+1. Prepare pastry creamas per recipe. Whip cream and icing sugar together until stiff peaks. Fold in whipped cream gently.
+2. Fold in mango to finished pastry cream, cover and refrigerate.
+3. Meanwhile prepare the caramel sauce; in a pot add all the ingredients. Stir over low- medium heat until the sugar dissolves. Simmer 3 minutes. Chill in fridge for 30 minutes and fold into mousse.
+4. Pipe into chocolate baskets with round piping tube large enough not to catch the pieces of mango
+5. Garnish with fresh mint leaf
 

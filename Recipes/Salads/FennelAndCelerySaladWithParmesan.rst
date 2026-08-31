@@ -1,9 +1,9 @@
 Fennel and Celery Salad with Parmesan
 =====================================
 
-+-------------------+-------------------+
-| Total: 10 minutes | Yield: 6 servings |
-+-------------------+-------------------+
++------------------------+-------------------+
+| Total Time: 10 minutes | Yield: 6 servings |
++------------------------+-------------------+
 
 Source: `Food Network <https://www.foodnetwork.com/recipes/fennel-and-celery-salad-with-parmesan-8662290>`__
 

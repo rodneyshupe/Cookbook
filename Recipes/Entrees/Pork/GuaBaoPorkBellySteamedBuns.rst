@@ -1,9 +1,9 @@
 Gua Bao Pork Belly Steamed Buns
 ===============================
 
-+-------------------+----------------+
-| Total: 40 minutes | Yield: 16 baos |
-+-------------------+----------------+
++------------------------+----------------+
+| Total Time: 40 minutes | Yield: 16 baos |
++------------------------+----------------+
 
 Source: `Seonkyoung Longest <https://seonkyounglongest.com/gua-bao/>`__
 

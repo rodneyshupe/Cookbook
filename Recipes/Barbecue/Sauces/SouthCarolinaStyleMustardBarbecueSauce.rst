@@ -1,9 +1,9 @@
 South Carolina Style Mustard Barbecue Sauce
 ===========================================
 
-+----------------------+--------------------------+---------------+
-| Prep Time: 5 minutes | Cooking Time: 30 minutes | Yield: 3 cups |
-+----------------------+--------------------------+---------------+
++----------------------+-----------------------+---------------+
+| Prep Time: 5 minutes | Cook Time: 30 minutes | Yield: 3 cups |
++----------------------+-----------------------+---------------+
 
 In the central and southern regions of South Carolina, Mustard is king.
 This golden barbecue sauce is the perfect compliment to smoked pork and

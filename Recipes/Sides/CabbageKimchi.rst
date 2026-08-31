@@ -1,6 +1,10 @@
 Cabbage Kimchi
 ==============
 
++-----------------------+----------------------+----------------------+
+| Prep Time: 30 minutes | Total Time: 1-5 days | Yield: about 1 quart |
++-----------------------+----------------------+----------------------+
+
 Ingredients
 -----------
 
@@ -10,7 +14,7 @@ Ingredients
 -  1 tablespoon grated garlic (5 to 6 cloves)
 -  1 teaspoon grated ginger
 -  1 teaspoon sugar
--  2 to 3 tablepoons seafood flavor or water (optional, see Recipe Notes)
+-  2 to 3 tablespoons seafood flavor or water (optional, see Recipe Notes)
 -  1 to 5 tablespoons Korean red pepper flakes (gochugaru)
 -  8 ounces Korean radish or daikon, peeled and cut into matchsticks
 -  4 scallions, trimmed and cut into 1-inch pieces
@@ -50,6 +54,6 @@ Directions
    keep them submerged under the brine. (This also releases gases
    produced during fermentation.) Taste a little at this point, too!
    When the kimchi tastes ripe enough for your liking, transfer the jar
-   to the refrigerator. You may eat it right away, but it’s best after
+   to the refrigerator. You may eat it right away, but it's best after
    another week or two.
 

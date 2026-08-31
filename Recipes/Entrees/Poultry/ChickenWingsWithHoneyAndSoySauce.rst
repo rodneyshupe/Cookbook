@@ -1,9 +1,9 @@
 Chicken Wings with Honey and Soy Sauce
 ======================================
 
-+-------------------------+--------------------------+-------------------+
-| Prep: 1 hour 10 minutes | Total: 1 hour 30 minutes | Yield: 4 servings |
-+-------------------------+--------------------------+-------------------+
++------------------------------+-------------------------------+-------------------+
+| Prep Time: 1 hour 10 minutes | Total Time: 1 hour 30 minutes | Yield: 4 servings |
++------------------------------+-------------------------------+-------------------+
 
 Source: `Food Network <https://www.foodnetwork.com/recipes/chicken-wings-with-honey-and-soy-sauce-8662293>`__
 

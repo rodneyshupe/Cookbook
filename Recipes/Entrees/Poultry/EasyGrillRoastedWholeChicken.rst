@@ -1,9 +1,9 @@
 Easy Grill-Roasted Whole Chicken
 ================================
 
-+----------------+-----------------+
-| Total: 2 hours | Yield: Serves 4 |
-+----------------+-----------------+
++---------------------+-----------------+
+| Total Time: 2 hours | Yield: Serves 4 |
++---------------------+-----------------+
 
 Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/11725-easy-grill-roasted-whole-chicken>`__
 

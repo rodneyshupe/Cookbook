@@ -5,9 +5,9 @@ For the best flavor, make the soup a day or 2 in advance. Alternatively,
 the onions can be prepared through step 1, cooled in the pot, and
 refrigerated for up to 3 days before proceeding with the recipe.
 
-+-----------------------+---------------------------+---------------------+
-| Prep Time: 15 minutes | Cooking Time: 4 1/2 hours | Yield: 4-6 servings |
-+-----------------------+---------------------------+---------------------+
++-----------------------+------------------------+---------------------+
+| Prep Time: 15 minutes | Cook Time: 4 1/2 hours | Yield: 4-6 servings |
++-----------------------+------------------------+---------------------+
 
 
 Ingredients
@@ -30,7 +30,7 @@ Directions
 ----------
 
 1. For the soup: Adjust oven rack to lower-middle position and heat oven
-   to 400°F. Generously spray inside of heavy-bottomed large (at least
+   to 400F. Generously spray inside of heavy-bottomed large (at least
    7-quart) Dutch oven with nonstick cooking spray. Place butter in pot
    and add onions and 1 teaspoon salt. Cook, covered, 1 hour (onions
    will be moist and slightly reduced in volume). Remove pot from oven
@@ -44,7 +44,7 @@ Directions
    brown, 15 to 20 minutes, reducing heat to medium if onions are
    browning too quickly. Continue to cook, stirring frequently, until
    pot bottom is coated with dark crust, 6 to 8 minutes, adjusting heat
-   as necessary. (Scrape any fond that bcollects on spoon back into
+   as necessary. (Scrape any fond that collects on spoon back into
    onions.) Stir in 1/4 cup water, scraping pot bottom to loosen crust,
    and cook until water evaporates and pot bottom has formed another
    dark crust, 6 to 8 minutes. Repeat process of deglazing 2 or 3 more
@@ -56,7 +56,7 @@ Directions
    cover, and simmer 30 minutes. Remove and discard herbs, then season
    with salt and pepper.
 4. For the croutons: While soup simmers, arrange baguette slices in
-   single layer on baking sheet and bake in 400°F oven until bread is
+   single layer on baking sheet and bake in 400F oven until bread is
    dry, crisp, and golden at edges, about 10 minutes. Set aside.
 5. To serve: Adjust oven rack 6 inches from broiler element and heat
    broiler. Set individual broiler-safe crocks on baking sheet and fill
@@ -77,8 +77,8 @@ onions are soft and wilted, stirring halfway through cooking. (Use oven
 mitts to remove bowl from microwave and remove plate away from you to
 avoid steam burn.) Drain onions (about 1/2 cup liquid should drain off).
 Place Dutch oven over medium-high heat and melt butter before adding
-wilted onions. Proceed with step #2. The soup’s flavor, however, will
-not be quite as deep as with the stove-top method. If you don’t have a
+wilted onions. Proceed with step #2. The soup's flavor, however, will
+not be quite as deep as with the stove-top method. If you don't have a
 microwave-safe bowl large enough to accommodate all of the onions, cook
 in a smaller bowl in 2 batches.
 

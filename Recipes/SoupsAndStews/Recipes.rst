@@ -70,7 +70,7 @@ Soups and Stews
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: ../InstantPot/ChickenAndDumplingSoup.rst
+.. include:: ChickenAndDumplingSoup.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
@@ -298,7 +298,7 @@ Soups and Stews
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: SmokyPancetta,SweetOnion,AndGreenLentilSoup.rst
+.. include:: SmokyPancettaSweetOnionAndGreenLentilSoup.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
@@ -315,3 +315,7 @@ Soups and Stews
 .. include:: ../../includes/recipePageBreak.rst
 
 .. include:: ChickenEnchiladaSoup.rst
+.. include:: ../../includes/recipePageBreak.rst
+.. include:: Ramen-Broth.rst
+.. include:: ../../includes/recipePageBreak.rst
+.. include:: PressureCookerChili.rst

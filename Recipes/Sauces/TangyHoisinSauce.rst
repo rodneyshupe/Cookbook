@@ -1,9 +1,9 @@
 Tangy Hoisin Sauce
 ==================
 
-+------------------+---------------------------------------------+
-| Total: 5 minutes | Yield: Serves 8 to 10 (Makes about 1/2 cup) |
-+------------------+---------------------------------------------+
++-----------------------+---------------------------------------------+
+| Total Time: 5 minutes | Yield: Serves 8 to 10 (Makes about 1/2 cup) |
++-----------------------+---------------------------------------------+
 
 Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/8127-tangy-hoisin-sauce>`__
 

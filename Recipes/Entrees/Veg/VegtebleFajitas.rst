@@ -1,9 +1,9 @@
-Vegtable Fajitas
-================
+Vegetable Fajitas
+=================
 
-+-----------------+-------------------+----------+
-| Prep: 5 minutes | Total: 15 minutes | Yield: 4 |
-+-----------------+-------------------+----------+
++----------------------+------------------------+----------+
+| Prep Time: 5 minutes | Total Time: 15 minutes | Yield: 4 |
++----------------------+------------------------+----------+
 
 Source: `Same the Cooking Guy <https://www.thecookingguy.com/cookbook/vegetable-fajitas>`__
 

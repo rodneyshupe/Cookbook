@@ -1,9 +1,9 @@
 Calzone
 =======
 
-+------------------+-------------------+-------------------+
-| Prep: 30 minutes | Total: 45 minutes | Yield: 4 servings |
-+------------------+-------------------+-------------------+
++-----------------------+------------------------+-------------------+
+| Prep Time: 30 minutes | Total Time: 45 minutes | Yield: 4 servings |
++-----------------------+------------------------+-------------------+
 
 Ingredients
 -----------
@@ -22,7 +22,7 @@ Ingredients
 Directions
 ----------
 
-1. Preheat the oven to 475 °F. Line the baking sheet with parchment paper
+1. Preheat the oven to 475 F. Line the baking sheet with parchment paper
    or spray it with oil.
 2. Divide the dough into 4 equally sized pieces. Roll each piece into a
    1/4in thick circle.

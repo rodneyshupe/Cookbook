@@ -1,9 +1,9 @@
 Clam/Shrimp Bake Foil Packets
 =============================
 
-+-----------------------+--------------------------+-------------------+
-| Prep Time: 10 minutes | Cooking Time: 15 minutes | Yield: 4 servings |
-+-----------------------+--------------------------+-------------------+
++-----------------------+-----------------------+-------------------+
+| Prep Time: 10 minutes | Cook Time: 15 minutes | Yield: 4 servings |
++-----------------------+-----------------------+-------------------+
 
 Source: `Delish <https://www.delish.com/cooking/recipe-ideas/recipes/a47430/grilled-shrimp-foil-packets-recipe/>`__
 

@@ -1,9 +1,9 @@
 Quick Pickled Onions
 ====================
 
-+--------------------------------------------+--------------------------+
-| Total: 10 minutes, plus 30 minutes cooling | Yield: Makes about 1 cup |
-+--------------------------------------------+--------------------------+
++-------------------------------------------------+--------------------------+
+| Total Time: 10 minutes, plus 30 minutes cooling | Yield: Makes about 1 cup |
++-------------------------------------------------+--------------------------+
 
 Ingredients
 -----------
@@ -21,5 +21,5 @@ Directions
    until sugar dissolves.
 2. Pour vinegar mixture over onion and cover loosely. Let onion cool 
    completely, about 30 minutes. (The onions will keep for several months,
-   but they’re best the week they’re made.)
+   but they're best the week they're made.)
 

@@ -1,7 +1,15 @@
 Spicy Cheese Dip
 ================
 
-ingredients
++----------------------+--------------------+---------------------+
+| Prep Time: 5 minutes | Cook Time: 2 hours | Yield: about 3 cups |
++----------------------+--------------------+---------------------+
+
+Equipment
+---------
+Slow Cooker
+
+Ingredients
 -----------
 
 -  16 oz Velveeta cheese, cubed
@@ -22,7 +30,7 @@ Directions
 Notes
 -----
 
--  This recipe can be done in a sauce pan over med heat stiring
+-  This recipe can be done in a sauce pan over med heat stirring
    frequently for 15 minutes.
 
 Variations

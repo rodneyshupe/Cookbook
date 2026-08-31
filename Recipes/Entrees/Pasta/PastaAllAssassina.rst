@@ -1,15 +1,15 @@
 Pasta all'Assassina
 ===================
 
-+------------------+-------------------+----------+
-| Prep: 10 minutes | Total: 35 minutes | Yield: 4 |
-+------------------+-------------------+----------+
++-----------------------+------------------------+----------+
+| Prep Time: 10 minutes | Total Time: 35 minutes | Yield: 4 |
++-----------------------+------------------------+----------+
 
 Source: Jacqui - `The Pasta Project <https://www.the-pasta-project.com/spaghetti-allassassina-assassins-spaghetti/>`__
 
 Pasta all'Assassina, aka assassin's spaghetti, is a popular cult recipe
 from Bari in Puglia which is simply dried spaghetti cooked in a tomato
-passata (puree) broth using a method known as ‘risottata'. The result is
+passata (puree) broth using a method known as 'risottata'. The result is
 slightly burnt, crispy caramalized spaghetti with an intense spicy tomato
 flavour. One to try!
 
@@ -29,13 +29,13 @@ Ingredients
 Directions
 ----------
 
-1. Prepare a broth made with water, 2/3 of the tomato passata/purée (1:1),
+1. Prepare a broth made with water, 2/3 of the tomato passata/puree (1:1),
    and the tomato paste and salt, and bring to a boil and simmer. You want
    the broth to be a bright red and tasty, but still a broth. This broth
    needs to be hot when you add it to the spaghetti, otherwise you will
    lower the cooking temperature for the pasta.
 2. In a cast iron pan, add olive oil, garlic, red chili flakes.  Heat until
-   fregrant and pour in the 1/3 of undiluted tomato passata/purée. To
+   fregrant and pour in the 1/3 of undiluted tomato passata/puree. To
    temper the acidity from the tomatoes, you can add 1 teaspoon sugar.
 3. Spread the passata over the whole pan with a wooden spoon and let it
    reduce and thicken slightly. At this point put the uncooked spaghetti in
@@ -56,4 +56,4 @@ Directions
    spaghetti) until the spaghetti is coated in the sauce and cooked. If you
    run out of tomato broth, you can add a little water. Note when finished,
    this dish is relatively dry and crispy, not saucy.
-7. If using basil stir in and serve topped with parmasean.
+7. If using basil stir in and serve topped with parmesan.

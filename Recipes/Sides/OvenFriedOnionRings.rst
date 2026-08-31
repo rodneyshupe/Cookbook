@@ -1,9 +1,9 @@
 Oven-Fried Onion Rings
 ======================
 
-+-----------------------+------------------+---------------+
-| Prep Time: 10 minutes | Cook: 25 minutes | Servings: 4-6 |
-+-----------------------+------------------+---------------+
++-----------------------+-----------------------+------------+
+| Prep Time: 10 minutes | Cook Time: 25 minutes | Yield: 4-6 |
++-----------------------+-----------------------+------------+
 
 Source: `Cooks Country <https://www.americastestkitchen.com/recipes/2938-oven-fried-onion-rings>`__
 
@@ -25,7 +25,7 @@ Directions
 ----------
 
 1. Adjust oven racks to lower-middle and upper-middle positions and heat
-   oven to 450°F. Place 1/4 cup flour in shallow baking dish. Beat egg
+   oven to 450F. Place 1/4 cup flour in shallow baking dish. Beat egg
    and buttermilk together in medium bowl. Whisk remaining 1/4 cup
    flour, cayenne, 1/2 teaspoon salt, and 1/4 teaspoon pepper into
    buttermilk mixture. Pulse saltines and chips together in food

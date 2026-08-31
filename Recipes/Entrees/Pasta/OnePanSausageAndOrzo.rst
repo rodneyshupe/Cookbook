@@ -1,9 +1,9 @@
 One Pan Sausage and Orzo
 ========================
 
-+----------------------+-----------------------------+-------------------+
-| Prep Time: 5 minutes | Cooking Time: 35-40 minutes | Yield: 4 servings |
-+----------------------+-----------------------------+-------------------+
++----------------------+--------------------------+-------------------+
+| Prep Time: 5 minutes | Cook Time: 35-40 minutes | Yield: 4 servings |
++----------------------+--------------------------+-------------------+
 
 Ingredients
 -----------
@@ -22,7 +22,7 @@ Ingredients
 Directions
 ----------
 1. In a large skillet heat oil over medium high heat.  Add sausage and begin 
-   to cook until cooked half way through stiring often.  Add onion and bell
+   to cook until cooked half way through stirring often.  Add onion and bell
    pepper and cook until onions are translucent but not started to brown.
 2. Add orzo, garlic, pepper flakes, and paprika, and stir until orzo is 
    coated in the oils from the sausage.

@@ -91,7 +91,7 @@ Salads
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: Mango,Orange,AndJicamaSalad.rst
+.. include:: MangoOrangeAndJicamaSalad.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
@@ -99,7 +99,7 @@ Salads
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: WarmBabySpinachSaladWithBacon,MushroomsAndPineNuts.rst
+.. include:: WarmBabySpinachSaladWithBaconMushroomsAndPineNuts.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
@@ -135,7 +135,7 @@ Salads
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: MoroccanChicken,CrispyRomaineSalad.rst
+.. include:: MoroccanChickenCrispyRomaineSalad.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
@@ -147,7 +147,7 @@ Salads
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: Grapefruit,Avocado,RaspberriesAndWatercressSalad.rst
+.. include:: GrapefruitAvocadoRaspberriesAndWatercressSalad.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
@@ -155,11 +155,11 @@ Salads
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: Shrimp,Avocado,AndArtichokeSalad.rst
+.. include:: ShrimpAvocadoAndArtichokeSalad.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: Spinach,WildGreens,Mango,StrawberrySalad.rst
+.. include:: SpinachWildGreensMangoStrawberrySalad.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 

@@ -1,15 +1,19 @@
 Slow Cooker Mongolian Beef
 ==========================
 
-+------------------+------------------+-------------------+
-| Prep: 10 minutes | Total: 3-5 hours | Yield: 6 servings |
-+------------------+------------------+-------------------+
++-----------------------+-----------------------+-------------------+
+| Prep Time: 10 minutes | Total Time: 3-5 hours | Yield: 6 servings |
++-----------------------+-----------------------+-------------------+
 
 Source: `The Chunky Chef <https://www.thechunkychef.com/easy-slow-cooker-mongolian-beef-recipe/>`__
 
 The easiest way you can make a Mongolian beef recipe! The beef gets
 meltingly tender in the slow cooker and the sauce becomes incredibly silky,
 with great spicy/sweet flavors!
+
+Equipment
+---------
+Slow Cooker
 
 Ingredients
 -----------

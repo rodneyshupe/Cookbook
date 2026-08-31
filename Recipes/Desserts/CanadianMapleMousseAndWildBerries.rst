@@ -1,7 +1,9 @@
 Canadian Maple Mousse and Wild Berries
 ======================================
 
-Yield: 8 servings
++-----------------------+-------------------+
+| Prep Time: 20 minutes | Yield: 8 servings |
++-----------------------+-------------------+
 
 Ingredients
 -----------
@@ -18,8 +20,8 @@ Ingredients
 Directions
 ----------
 
-#. Whip whipping cream to a stiff peak with the icing sugar
-#. Fold in maple syrup to the vanilla cream
-#. Fold the whipped cream into the mixture and the fresh berries
-#. Pipe into the chocolate baskets and garnish with fruit and mint leaf.
+1. Whip whipping cream to a stiff peak with the icing sugar
+2. Fold in maple syrup to the vanilla cream
+3. Fold the whipped cream into the mixture and the fresh berries
+4. Pipe into the chocolate baskets and garnish with fruit and mint leaf.
 

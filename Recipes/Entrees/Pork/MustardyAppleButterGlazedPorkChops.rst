@@ -1,9 +1,9 @@
 Mustardy Apple Butter-Glazed Pork Chops
 =======================================
 
-+----------------------+----------------------+-------------------+
-| Prep Time: 5 minutes | Cooking Time: 1 hour | Yield: 4 servings |
-+----------------------+----------------------+-------------------+
++----------------------+-------------------+-------------------+
+| Prep Time: 5 minutes | Cook Time: 1 hour | Yield: 4 servings |
++----------------------+-------------------+-------------------+
 
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/12212-mustardy-apple-butter-glazed-pork-chops>`__
 

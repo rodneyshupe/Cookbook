@@ -1,9 +1,9 @@
 Butter Milk Fried Chicken
 =========================
 
-+----------------------+--------------------------+------------------+---------------+
-| Prep Time: 5 minutes | Marinate Time: 12+ hours | Cook: 30 minutes | Servings: 3-4 |
-+----------------------+--------------------------+------------------+---------------+
++----------------------+--------------------------+-----------------------+------------+
+| Prep Time: 5 minutes | Marinate Time: 12+ hours | Cook Time: 30 minutes | Yield: 3-4 |
++----------------------+--------------------------+-----------------------+------------+
 
 Source: `Alton Brown <https://www.foodnetwork.com/recipes/alton-brown/fried-chicken-recipe-1939165>`__
 

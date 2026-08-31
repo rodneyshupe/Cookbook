@@ -1,11 +1,15 @@
 Garlic Steak Bites
 ==================
 
++-----------------------+----------------------+---------------------+
+| Prep Time: 15 minutes | Cook Time: 5 minutes | Yield: 3-4 servings |
++-----------------------+----------------------+---------------------+
+
 Ingredients
 -----------
 
 - 1lb beef tenderloin (can sub striploin), cut into bitesize pieces
-- 3 tablespoons neutral oil like avacado or vegtable.
+- 3 tablespoons neutral oil like avocado or vegetable.
 - salt & pepper
 - 1/4 cup butter, softened
 - 3-4 garlic cloves

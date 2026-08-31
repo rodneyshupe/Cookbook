@@ -1,9 +1,9 @@
 Peri Peri BBQ Chicken
 =====================
 
-+-----------------------+----------------------+--------------------------+---------------------+
-| Prep Time: 15 minutes | Marinade: 8-24 hours | Cooking Time: 30 minutes | Yield: 4-6 servings |
-+-----------------------+----------------------+--------------------------+---------------------+
++-----------------------+---------------------------+-----------------------+---------------------+
+| Prep Time: 15 minutes | Marinate Time: 8-24 hours | Cook Time: 30 minutes | Yield: 4-6 servings |
++-----------------------+---------------------------+-----------------------+---------------------+
 
 Ingredients
 -----------
@@ -27,6 +27,6 @@ Directions
 2. Massage the marinade into the chicken. Leave to marinade for 8 hours.
 3. After 8 hours, remove the chicken from the fridge and allow to come to room
    temperature. Cook over direct heat at medium grill tempurture until the
-   pieces register 165°F (about 30 minutes) flipping ocationally to prevent
+   pieces register 165F (about 30 minutes) flipping ocationally to prevent
    burning. Optinally you can also use smoke.
 

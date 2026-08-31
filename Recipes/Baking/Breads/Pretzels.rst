@@ -1,6 +1,10 @@
 Pretzels
 ========
 
++-----------------------+-----------------------+-------------------------+-------------------+
+| Prep Time: 25 minutes | Cook Time: 15 minutes | Total Time: 1 1/2 hours | Yield: 8 pretzels |
++-----------------------+-----------------------+-------------------------+-------------------+
+
 Source: `Tasty <https://tasty.co/recipe/homemade-soft-pretzels>`__
 
 Ingredients
@@ -22,7 +26,7 @@ Directions
 2. Add flour and 2 tablespoons of oil, and mix thoroughly until a dough forms.
 3. Remove the dough and use the remaining oil to cover the bowl.
 4. Cover bowl with plastic wrap, and leave in a warm place for 1 hour.
-5. Preheat oven to 450°F (230°C).
+5. Preheat oven to 450F (230C).
 6. Cut dough into 8 pieces and roll them out into thin ropes, twisting the
    two ends to form a pretzel shape.
 7. Dissolve baking soda in 4 cups water in Dutch oven and bring to boil over

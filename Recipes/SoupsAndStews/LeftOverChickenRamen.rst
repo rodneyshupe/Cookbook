@@ -1,6 +1,10 @@
 Left Over Chicken Ramen
 =======================
 
++-----------------------+-----------------------+-------------------+
+| Prep Time: 20 minutes | Cook Time: 20 minutes | Yield: 4 servings |
++-----------------------+-----------------------+-------------------+
+
 Source: `Food Busker / Jamie Oliver <https://www.youtube.com/watch?v=xqFo59YveXo>`__
 
 Ingredients

@@ -1,7 +1,9 @@
 Grilled Jumbo Tiger Prawns on a bed of Crisp Greens
 ===================================================
 
-Yield: 4 servings
++-----------------------+-----------------------+-------------------+
+| Prep Time: 25 minutes | Cook Time: 10 minutes | Yield: 4 servings |
++-----------------------+-----------------------+-------------------+
 
 Ingredients
 -----------
@@ -28,13 +30,12 @@ Ingredients
 Directions
 ----------
 
-#. Soak skewers in water.
-#. Prepare the sauce for the prawns; melt butter, add ginger, garlic, parsley, and seasoning. Put aside
-#. Prepare the vinaigrette; in a bowl whisk oil, vinegar, Dijon, and seasoning. Put aside
-#. Wash and dry salad greens. Put aside
-#. Place 6 prawns on each skewer, season.
-#. Preheat grill; place skewers onto grill and baste continuously with sauce. Cook each side for approx. 3-4 minutes or until firm.
-#. Place salad ingredients in a bowl, season, add vinaigrette, and toss.
-#. Portion greens onto 4 plates and top with skewered prawns
-
+1. Soak skewers in water.
+2. Prepare the sauce for the prawns; melt butter, add ginger, garlic, parsley, and seasoning. Put aside
+3. Prepare the vinaigrette; in a bowl whisk oil, vinegar, Dijon, and seasoning. Put aside
+4. Wash and dry salad greens. Put aside
+5. Place 6 prawns on each skewer, season.
+6. Preheat grill; place skewers onto grill and baste continuously with sauce. Cook each side for approx. 3-4 minutes or until firm.
+7. Place salad ingredients in a bowl, season, add vinaigrette, and toss.
+8. Portion greens onto 4 plates and top with skewered prawns
 

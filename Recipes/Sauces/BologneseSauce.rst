@@ -1,9 +1,9 @@
 Bolognese Sauce
 ===============
 
-+-----------------------+-----------------------+---------------+
-| Prep Time: 15 minutes | Cooking Time: 2 hours | Yield: 2 cups |
-+-----------------------+-----------------------+---------------+
++-----------------------+--------------------+---------------+
+| Prep Time: 15 minutes | Cook Time: 2 hours | Yield: 2 cups |
++-----------------------+--------------------+---------------+
 
 Source: `Sam the Cooking Guy <https://www.thecookingguy.com/cookbook/2019/1/26/bolognese>`__
 
@@ -17,7 +17,7 @@ Ingredients
 - 2 cloves garlic, minced
 - 1 pound 80/20 ground beef
 - 1/2 cup dry white wine or dry vermouth
-- 1 – 15 ounce can crushed tomatoes
+- 1 - 15 ounce can crushed tomatoes
 - 3 tablespoons tomato paste
 - 2 cups beef broth
 - 1 bay leaf
@@ -39,8 +39,8 @@ Directions
 4. Add wine (or vermouth) and bring mixture to a simmer, and cook until wine
    is mostly reduced.
 5. Stir in tomatoes, tomato paste, beef stock , bay leaf, oregano,
-   pepper flakes and balsamic vinegar – mix well, reduce heat and simmer for
+   pepper flakes and balsamic vinegar - mix well, reduce heat and simmer for
    about an hour.
-6. Remove the bay leaf and add milk – stir well, bring to a simmer stirring
+6. Remove the bay leaf and add milk - stir well, bring to a simmer stirring
    occasionally, about 45 minutes.
 7. Season with salt and pepper and serve.

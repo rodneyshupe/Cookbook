@@ -1,9 +1,9 @@
 Basic Brownies
 ==============
 
-+------------+--------------------------+
-| Total: TBD | Yield: Makes 16 brownies |
-+------------+--------------------------+
++-----------------+--------------------------+
+| Total Time: TBD | Yield: Makes 16 brownies |
++-----------------+--------------------------+
 
 Source: `Cook's Country <https://www.cookscountry.com/recipes/2108-basic-brownies>`__
 

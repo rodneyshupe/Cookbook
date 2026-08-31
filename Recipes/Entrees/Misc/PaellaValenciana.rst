@@ -1,9 +1,9 @@
 Paella Valenciana
 =================
 
-+------------------+-------------------+---------------------+
-| Prep: 15 minutes | Total: 30 minutes | Yield: 3-4 services |
-+------------------+-------------------+---------------------+
++-----------------------+------------------------+---------------------+
+| Prep Time: 15 minutes | Total Time: 30 minutes | Yield: 3-4 services |
++-----------------------+------------------------+---------------------+
 
 Source: `J. Kenji Lopez-Alt <https://www.youtube.com/watch?v=ASP74I0B7zo>`__
 
@@ -16,7 +16,7 @@ Ingredients
 - 1/4 pound (125g) green beans or runner beans, cut into 1 1/2-inch segments
 - 1/4 pound (125g) fresh or frozen lima, butter, or fava beans
 - A few cloves of garlic, finely minced
-- 1 ripe Roma tomatoe, split in half, the cut-side rubbed through the large holes of a box grater, skins discarded
+- 1 ripe Roma tomato, split in half, the cut-side rubbed through the large holes of a box grater, skins discarded
 - 1 teaspoons Spanish smoked paprika
 - Pinch saffron threads
 - 1 cups (around 400g) short grain rice, preferably Bomba (arborio or any other rice will do fine)

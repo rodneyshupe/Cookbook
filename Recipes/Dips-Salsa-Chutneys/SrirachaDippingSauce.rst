@@ -1,6 +1,10 @@
 Sriracha Dipping Sauce
 ======================
 
++----------------------+----------------------+
+| Prep Time: 5 minutes | Yield: about 2/3 cup |
++----------------------+----------------------+
+
 Ingredients
 -----------
 - 1/2 cup mayonnaise

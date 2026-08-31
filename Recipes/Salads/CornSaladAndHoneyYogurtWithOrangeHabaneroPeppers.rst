@@ -1,7 +1,9 @@
 Corn Salad And Honey Yogurt With Orange Habanero Peppers
 ========================================================
 
-Yield: 4 servings
++-----------------------+-------------------+
+| Prep Time: 20 minutes | Yield: 4 servings |
++-----------------------+-------------------+
 
 Ingredients
 -----------
@@ -14,7 +16,6 @@ Dressing
 - 1/2 cup mayonnaise
 - 1 pinch kosher salt
 - 1 pinch fresh cracked pepper
-
 
 Ingredients for salad
 ^^^^^^^^^^^^^^^^^^^^^
@@ -30,9 +31,8 @@ Ingredients for salad
 Directions
 ----------
 
-#. Prepare the dressing by combining all the ingredients in a bowl
-#. Put the vegetables in a large bowl
-#. Pour the dressing into the main ingredients, and toss
-#. Chill and serve cold (can be served on a bed of crisp greens)
-
+1. Prepare the dressing by combining all the ingredients in a bowl
+2. Put the vegetables in a large bowl
+3. Pour the dressing into the main ingredients, and toss
+4. Chill and serve cold (can be served on a bed of crisp greens)
 

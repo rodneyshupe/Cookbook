@@ -1,9 +1,9 @@
 Greek Chicken Meatballs
 =======================
 
-+-----------------------+------------------+-------------+
-| Prep Time: 10 minutes | Cook: 30 minutes | Servings: 4 |
-+-----------------------+------------------+-------------+
++-----------------------+-----------------------+----------+
+| Prep Time: 10 minutes | Cook Time: 30 minutes | Yield: 4 |
++-----------------------+-----------------------+----------+
 
 Source: Mary Berg
 
@@ -31,7 +31,7 @@ Ingredients
 
 Directions
 ----------
-1. Heat your oven to 400ºF and line a sheet pan with parchment paper or
+1. Heat your oven to 400F and line a sheet pan with parchment paper or
    lightly grease with non-stick cooking spray.
 2. In a medium bowl add panko and egg and mix together. Add salt, pepper,
    cumin, oregano and chilli flakes, and mix together. Add chicken, dill,

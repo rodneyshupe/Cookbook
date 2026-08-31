@@ -1,6 +1,10 @@
 Best Lemon Bars
 ===============
 
++-----------------------+-----------------------+-------------------------+----------------+
+| Prep Time: 25 minutes | Cook Time: 30 minutes | Total Time: 2 1/2 hours | Yield: 16 bars |
++-----------------------+-----------------------+-------------------------+----------------+
+
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/10616-best-lemon-bars>`__
 
 Ingredients
@@ -46,7 +50,7 @@ Directions
 4. Pour filling over hot crust and tilt pan to spread evenly. Bake until
    filling is set and barely jiggles when pan is shaken, 8 to 12 minutes.
    (Filling around perimeter of pan may be slightly raised.) Let bars cool
-   completely, at least 1½ hours. Using foil overhang, lift bars out of pan
+   completely, at least 11/2 hours. Using foil overhang, lift bars out of pan
    and transfer to cutting board. Cut into bars, wiping knife clean between
    cuts as necessary. Before serving, dust bars with confectioners' sugar,
    if using.

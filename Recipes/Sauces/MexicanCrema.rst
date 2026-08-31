@@ -1,6 +1,10 @@
 Mexican Crema
 =============
 
++----------------------+----------------------+--------------------+
+| Prep Time: 5 minutes | Total Time: 24 hours | Yield: about 1 cup |
++----------------------+----------------------+--------------------+
+
 Source: `Alton Brown <https://www.foodnetwork.com/recipes/alton-brown/crema-recipe-1921080>`__
 
 Ingredients

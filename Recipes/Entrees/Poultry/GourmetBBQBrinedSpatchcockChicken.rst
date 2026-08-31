@@ -1,9 +1,9 @@
 Gourmet BBQ Brined Spatchcock Chicken
 =====================================
 
-+----------------------+-------------------------------------+-----------------------------+-------------------+
-| Prep Time: 5 minutes | Brine: 4-5 hours + overnight drying | Cooking Time: 45-60 minutes | Yield: 4 servings |
-+----------------------+-------------------------------------+-----------------------------+-------------------+
++----------------------+------------------------------------------+--------------------------+-------------------+
+| Prep Time: 5 minutes | Brine Time: 4-5 hours + overnight drying | Cook Time: 45-60 minutes | Yield: 4 servings |
++----------------------+------------------------------------------+--------------------------+-------------------+
 
 Source: `Aussie BBQ Forum - Captain Cook <https://www.aussiebbq.info/forum/viewtopic.php?f=7&t=65>`__
 
@@ -32,7 +32,7 @@ Directions
    and and herbs de provence.
 5. Preheat the grill on high for 10 minutes. Roast the chicken indirectly on
    a roasting rack for about 15 minutes per pound until the internal meat
-   temperature is 165°F.
+   temperature is 165F.
 6. Serve with fresh buttered rolls, salad and a bottle of bubbly.
 
 Notes

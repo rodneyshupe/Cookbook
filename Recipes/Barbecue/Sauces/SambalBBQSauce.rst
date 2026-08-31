@@ -1,6 +1,10 @@
 Sambal BBQ Sauce
 ================
 
++----------------------+----------------------+-------------------------+
+| Prep Time: 5 minutes | Cook Time: 5 minutes | Yield: about 1 1/2 cups |
++----------------------+----------------------+-------------------------+
+
 Ingredients
 -----------
 - 1/2 cup white distiled vinegar

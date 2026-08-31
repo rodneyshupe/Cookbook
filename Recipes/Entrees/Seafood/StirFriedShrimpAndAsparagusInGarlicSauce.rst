@@ -1,9 +1,9 @@
 Stir-Fried Shrimp and Asparagus in Garlic Sauce
 ===============================================
 
-+-----------------------+--------------------------+---------------------+
-| Prep Time: 15 minutes | Cooking Time: 20 minutes | Yield: 4-6 servings |
-+-----------------------+--------------------------+---------------------+
++-----------------------+-----------------------+---------------------+
+| Prep Time: 15 minutes | Cook Time: 20 minutes | Yield: 4-6 servings |
++-----------------------+-----------------------+---------------------+
 
 Ingredients
 -----------
@@ -38,7 +38,7 @@ Directions
      about 1 minute. Add asparagus and scallion greens, cover, and cook,
      stirring occasionally, until asparagus is crisp-tender, 2 to 4 minutes.
      Transfer vegetable mixture to bowl.
-| 4. Add sherry–soy sauce mixture and shrimp to skillet and bring to simmer.
+| 4. Add sherry-soy sauce mixture and shrimp to skillet and bring to simmer.
      Reduce heat to medium-low, cover, and cook, stirring occasionally,
      until shrimp are just cooked through, 3 to 5 minutes.
 | 5. Whisk sherry-cornstarch mixture to recombine and add to skillet;

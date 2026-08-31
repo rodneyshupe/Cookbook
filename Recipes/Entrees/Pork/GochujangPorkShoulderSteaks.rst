@@ -1,14 +1,16 @@
 Gochujang Pork Shoulder Steaks
 ==============================
 
++-----------------------+-----------------------+------------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 10 minutes | Marinate Time: 2 hours | Yield: 4 servings |
++-----------------------+-----------------------+------------------------+-------------------+
+
 Source: `Bon Appetit <https://www.bonappetit.com/recipe/gochujang-pork-shoulder-steaks>`__
 
-The centerpiece of Korean barbecue is the meat, but it doesn’t have to
+The centerpiece of Korean barbecue is the meat, but it doesn't have to
 be steak; Seattle chef Rachel Yang recommends grilling pork shoulder.
 Keep an eye on the edge of the meat where it touches the grill: When
-it’s browned, turn the pork over.
-
-Serves 4
+it's browned, turn the pork over.
 
 Ingredients
 -----------
@@ -32,7 +34,7 @@ Directions
 2. Prepare grill for medium-high heat; oil grate. Remove pork from
    marinade and grill, basting with reserved marinade, turning
    occasionally, and moving pork to a cooler area if flare-up occurs,
-   until cooked to desired doneness, 8–10 minutes for medium-rare.
+   until cooked to desired doneness, 8-10 minutes for medium-rare.
 3. Transfer pork to a cutting board and let rest 5 minutes before thinly
    slicing against the grain.
 

@@ -3,16 +3,16 @@ Jambalaya
 
 Source: `Sam the Cooking Guy <https://www.thecookingguy.com/cookbook/sausage-and-crab-jambalaya-recipe>`__
 
-+-----------------------+--------------------------+-----------------------+
-| Prep Time: 15 minutes | Cooking Time: 35 minutes | Yield: 4 - 6 servings |
-+-----------------------+--------------------------+-----------------------+
++-----------------------+-----------------------+-----------------------+
+| Prep Time: 15 minutes | Cook Time: 35 minutes | Yield: 4 - 6 servings |
++-----------------------+-----------------------+-----------------------+
 
 Ingredients
 -----------
 - 1 cup celery, diced 
 - 1 cup onion, diced
 - 1 cup green pepper, diced
-- 1 pound fully-cooked chorizo or andouille sausage, cut crosswise into 1/4” slices
+- 1 pound fully-cooked chorizo or andouille sausage, cut crosswise into 1/4" slices
 - 2 large cloves garlic, crushed
 - 1 cup white rice
 - 1 tablespoon creole or Old Bay seasoning

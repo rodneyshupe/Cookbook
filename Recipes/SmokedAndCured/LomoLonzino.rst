@@ -1,10 +1,18 @@
 Lomo/Lonzino
 ============
 
++-----------------------+--------------------+---------------------+--------------------------+
+| Prep Time: 20 minutes | Cure Time: 2 weeks | Dry Time: 4-8 weeks | Yield: 1 cured pork loin |
++-----------------------+--------------------+---------------------+--------------------------+
+
 This Italian / Spanish cured pork loin either has a paprika coating (lomo)
 or not (lonzino)
 
 Source: `UMAi Charcuterie <https://www.drybagsteak.com/recipe-charcuterie-lomo-lonzino.php>`__
+
+Equipment
+---------
+UMAi Dry Bag, Vacuum Sealer
 
 Ingredients
 -----------

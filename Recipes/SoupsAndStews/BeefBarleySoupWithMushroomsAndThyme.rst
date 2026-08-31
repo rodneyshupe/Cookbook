@@ -43,7 +43,7 @@ Directions
 Broth
 ^^^^^
 
-1. Heat 1 tablepoon oil in a large soup kettle or Dutch oven over
+1. Heat 1 tablespoon oil in a large soup kettle or Dutch oven over
    medium-high heat; brown meat, bones, and onion halves on all sides in
    batches, making sure not to overcrowd the pan, and adding the
    additional teaspoon and a half of oil to the pan if necessary. Remove

@@ -1,13 +1,13 @@
 Jar Lunch Soup: Chicken and Dill Instant Noodles
 ================================================
 
-+-----------------------+-------------------------+-------------------+
-| Prep Time: 15 minutes | Cooking Time: 3 minutes | Yield: 4 servings |
-+-----------------------+-------------------------+-------------------+
++-----------------------+----------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 3 minutes | Yield: 4 servings |
++-----------------------+----------------------+-------------------+
 
 This pot of noodles with roast chicken, peas, and onions can be made
 ahead and taken to work. Just add boiling water, seal it up for three
-minutes, add the contents of the fresh herb packet, and you’ve got a hot
+minutes, add the contents of the fresh herb packet, and you've got a hot
 lunch ready.
 
 

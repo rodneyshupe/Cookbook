@@ -1,7 +1,11 @@
 Spicy Cumin Rib Rub Recipe
 ==========================
 
-This spicy cumin rub has a bit of a Mexican flair– and makes
++----------------------+-------------------------+
+| Prep Time: 5 minutes | Yield: about 1 1/2 cups |
++----------------------+-------------------------+
+
+This spicy cumin rub has a bit of a Mexican flair- and makes
 super-flavorful ribs with just a touch of sweetness. Really good for
 Mexican food junkies. Substitute oregano for the thyme for a deeper
 Mexican flavor.

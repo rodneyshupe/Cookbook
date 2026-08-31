@@ -1,7 +1,9 @@
 Fresh Apricot Brioche with Chocolate Gelato
 ===========================================
 
-Yield: 6 servings
++-----------------------+-----------------------+-------------------+
+| Prep Time: 20 minutes | Cook Time: 20 minutes | Yield: 6 servings |
++-----------------------+-----------------------+-------------------+
 
 Ingredients
 -----------
@@ -19,10 +21,10 @@ Ingredients
 Directions
 ----------
 
-#. Preheat oven to 400°F
-#. Combine apricots, lemon juice and 1/4 cup of caster sugar in a sauce pan and cook , covered, over medium heat until apricots are soft
-#. Spread brioche with butter, place overlapping slices in an ovenproof dish and sprinkle with remaining sugar
-#. Bake at 400°F for 10 minutes or until brioche is golden
-#. Top with apricot mixture and return to oven for 5 minutes
-#. Sprinkle with almonds, wild berries, gelato, and a dollop of mascarpone
+1. Preheat oven to 400F
+2. Combine apricots, lemon juice and 1/4 cup of caster sugar in a sauce pan and cook , covered, over medium heat until apricots are soft
+3. Spread brioche with butter, place overlapping slices in an ovenproof dish and sprinkle with remaining sugar
+4. Bake at 400F for 10 minutes or until brioche is golden
+5. Top with apricot mixture and return to oven for 5 minutes
+6. Sprinkle with almonds, wild berries, gelato, and a dollop of mascarpone
 

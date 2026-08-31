@@ -1,6 +1,10 @@
 Quick Tartar Sauce
 ==================
 
++----------------------+------------------------+--------------------+
+| Prep Time: 5 minutes | Total Time: 15 minutes | Yield: about 1 cup |
++----------------------+------------------------+--------------------+
+
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/11526-quick-tartar-sauce>`__
 
 Ingredients
@@ -18,6 +22,5 @@ Directions
 
 Combine all ingredients in small bowl. Cover with plastic wrap and refrigerate
 until flavors meld, about 15 minutes.
-
 
 Tartar Sauce with Dill

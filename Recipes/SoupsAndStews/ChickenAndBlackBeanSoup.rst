@@ -3,6 +3,10 @@
 Chicken and Black Bean Soup
 ===========================
 
++-----------------------+-----------------------+---------------------+
+| Prep Time: 15 minutes | Cook Time: 30 minutes | Yield: 4-6 servings |
++-----------------------+-----------------------+---------------------+
+
 Ingredients
 -----------
 - 2 cups shredded chicken

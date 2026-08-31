@@ -1,6 +1,10 @@
 Roasted Chick Peas
 ==================
 
++-----------------------+-----------------------+-------------------+
+| Prep Time: 10 minutes | Cook Time: 30 minutes | Yield: 4 servings |
++-----------------------+-----------------------+-------------------+
+
 Ingredients
 -----------
 
@@ -12,7 +16,7 @@ Ingredients
 Directions
 ----------
 
-1. Preheat the oven to 425°F and line a large baking sheet with parchment
+1. Preheat the oven to 425F and line a large baking sheet with parchment
    paper.
 2. Spread the chickpeas on a kitchen towel and pat them dry. Remove any
    loose skins.

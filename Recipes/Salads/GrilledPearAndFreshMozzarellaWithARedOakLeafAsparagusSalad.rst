@@ -1,7 +1,9 @@
 Grilled Pear and Fresh Mozzarella with a Red Oak Leaf Asparagus Salad
 ======================================================================
 
-Yield: 4 servings
++-----------------------+-----------------------+-------------------+
+| Prep Time: 20 minutes | Cook Time: 10 minutes | Yield: 4 servings |
++-----------------------+-----------------------+-------------------+
 
 Ingredients
 -----------
@@ -22,14 +24,12 @@ Ingredients
 Directions
 ----------
 
-#. Preheat char-broiler, place pears in a bowl, toss with lemon juice. Place onto a seasoned grill (oiled) and cook until golden on both sides. Put onto a plate and set aside
-#. Meanwhile bring a small sauce pan of water with a pinch of salt to a boil, add asparagus and blanch for 45 seconds. Remove and submerge into ice cold water to stop the cooking. Once cooled remove and drain.
-#. Prepare the vinaigrette; in a bowl whisk the grapeseed oil, red wine vinegar, Dijon, salt, and pepper.
-#. In a large bowl combine all the ingredients, season, toss and serve onto individual plates or a platter.
+1. Preheat char-broiler, place pears in a bowl, toss with lemon juice. Place onto a seasoned grill (oiled) and cook until golden on both sides. Put onto a plate and set aside
+2. Meanwhile bring a small sauce pan of water with a pinch of salt to a boil, add asparagus and blanch for 45 seconds. Remove and submerge into ice cold water to stop the cooking. Once cooled remove and drain.
+3. Prepare the vinaigrette; in a bowl whisk the grapeseed oil, red wine vinegar, Dijon, salt, and pepper.
+4. In a large bowl combine all the ingredients, season, toss and serve onto individual plates or a platter.
 
-
-Note
-----
+Notes
+-----
 Carb count 7g. per serving
-
 

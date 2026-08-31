@@ -1,6 +1,10 @@
 Simple Sauce Base
 =================
 
++----------------------+-----------------------+--------------------+
+| Prep Time: 5 minutes | Cook Time: 15 minutes | Yield: about 1 cup |
++----------------------+-----------------------+--------------------+
+
 Not demi-glace but can make a good substitute in a pinch.
 
 Ingredients

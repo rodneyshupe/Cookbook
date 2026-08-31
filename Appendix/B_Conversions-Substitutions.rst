@@ -70,7 +70,7 @@ Substitutions
 |                        |               | the liquid in recipe by    |
 |                        |               | 1/4 cup **OR** 1 cup white |
 |                        |               | sugar **OR** 1 1/4 cups    |
-|                        |               | confectioners’ sugar       |
+|                        |               | confectioners' sugar       |
 +------------------------+---------------+----------------------------+
 | Butter (salted)        | 1 cup         | 1 cup margarine **OR** 1   |
 |                        |               | cup shortening plus 1/2    |
@@ -127,7 +127,7 @@ Substitutions
 |                        |               | honey **OR** 1 cup light   |
 |                        |               | treacle syrup              |
 +------------------------+---------------+----------------------------+
-| Cottage cheese         | 1 cup         | 1 cup farmer’s cheese      |
+| Cottage cheese         | 1 cup         | 1 cup farmer's cheese      |
 |                        |               | **OR** 1 cup ricotta       |
 |                        |               | cheese                     |
 +------------------------+---------------+----------------------------+
@@ -180,7 +180,7 @@ Substitutions
 +------------------------+---------------+----------------------------+
 | evaporated milk        | 1 cup         | 1 cup light cream          |
 +------------------------+---------------+----------------------------+
-| Farmer’s cheese        | 8 ounces      | 8 ounces dry cottage       |
+| Farmer's cheese        | 8 ounces      | 8 ounces dry cottage       |
 |                        |               | cheese **OR** 8 ounces     |
 |                        |               | creamed cottage cheese,    |
 |                        |               | drained                    |
@@ -405,7 +405,7 @@ Substitutions
 |                        |               | white wine                 |
 +------------------------+---------------+----------------------------+
 | White sugar            | 1 cup         | 1 cup brown sugar **OR** 1 |
-|                        |               | 1/4 cups confectioners’    |
+|                        |               | 1/4 cups confectioners'    |
 |                        |               | sugar **OR** 3/4 cup honey |
 |                        |               | **OR** 3/4 cup corn syrup  |
 +------------------------+---------------+----------------------------+

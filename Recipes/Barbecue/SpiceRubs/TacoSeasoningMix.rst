@@ -1,6 +1,10 @@
 Taco Seasoning Mix
 ==================
 
++----------------------+----------------------+
+| Prep Time: 5 minutes | Yield: about 1/2 cup |
++----------------------+----------------------+
+
 This recipe makes about 1/2 cup taco seasoning.
 
 Ingredients

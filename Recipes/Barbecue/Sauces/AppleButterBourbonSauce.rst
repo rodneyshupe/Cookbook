@@ -1,6 +1,10 @@
 Apple Butter Bourbon Sauce
 ==========================
 
++-----------------------+-----------------------+-------------------------+
+| Prep Time: 10 minutes | Cook Time: 40 minutes | Yield: about 1 1/2 cups |
++-----------------------+-----------------------+-------------------------+
+
 Ingredients
 -----------
 
@@ -27,5 +31,4 @@ Directions
    by apple butter, ketchup, Dijon, vinegar, Worcestershire sauce, brown
    sugar, cinnamon, salt and pepper. Bring mixture to a boil and reduce
    heat to low. Simmer for 35 minutes, stirring occasionally.
-
 

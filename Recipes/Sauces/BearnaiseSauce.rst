@@ -1,6 +1,10 @@
 Bearnaise Sauce
 ===============
 
++-----------------------+-----------------------+--------------------+
+| Prep Time: 10 minutes | Cook Time: 20 minutes | Yield: about 1 cup |
++-----------------------+-----------------------+--------------------+
+
 Ingredients
 -----------
 
@@ -12,7 +16,6 @@ Ingredients
 -  2 egg yolks
 -  Kosher salt
 -  1 1/2 sticks (12 tablespoons) unsalted butter
-
 
 Directions
 ----------

@@ -1,9 +1,9 @@
 No-Churn Ice Cream
 ==================
 
-+----------------+---------------------------+-----------------------------------+
-| Prep: 5 hours  | Total: 5 hours 15 minutes | Yield: 12 servings (6 cups total) |
-+----------------+---------------------------+-----------------------------------+
++--------------------+--------------------------------+-----------------------------------+
+| Prep Time: 5 hours | Total Time: 5 hours 15 minutes | Yield: 12 servings (6 cups total) |
++--------------------+--------------------------------+-----------------------------------+
 
 Source: `Cooks Country <https://www.americastestkitchen.com/cookscountry/recipes/11749-vanilla-no-churn-ice-cream>`__
 
@@ -73,8 +73,8 @@ Mint-Cookie
 - In step two, once mixture is poured into the loaf pan, gently stir in
   4 crushed (coarse) Oreo cookies.
 
-Note
-----
+Notes
+-----
 
 The cream mixture freezes more quickly in a loaf pan than in a taller,
 narrower container. If you don't have a loaf pan, use an 8-inch square

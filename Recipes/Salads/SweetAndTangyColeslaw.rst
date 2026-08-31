@@ -1,11 +1,9 @@
 Sweet and Tangy Coleslaw
 ========================
 
-+-----------------------+-------------------------------+-------------------+
-| Prep Time: 15 minutes | Cooking Time: 30 - 45 minutes | Yield: 4 servings |
-+-----------------------+-------------------------------+-------------------+
-
-Yield:  Serves 4
++-----------------------+----------------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 30 - 45 minutes | Yield: 4 servings |
++-----------------------+----------------------------+-------------------+
 
 Ingredients
 -----------
@@ -31,7 +29,7 @@ Directions
    salt in large microwave-safe bowl. Cover with large plate and
    microwave on high power for 1 minute. Stir briefly, re-cover, and
    continue to microwave on high power until cabbage is partially wilted
-   and has reduced in volume by ¬one-third, 30 to 60 seconds longer.
+   and has reduced in volume by one-third, 30 to 60 seconds longer.
 3. Transfer cabbage to salad spinner and spin cabbage until excess water
    is removed, 10 to 20 seconds. Remove bowl from freezer, add cabbage,
    carrot, and parsley to cold vinegar mixture, and toss to combine. If

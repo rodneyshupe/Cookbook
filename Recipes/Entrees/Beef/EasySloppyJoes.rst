@@ -1,6 +1,10 @@
 Easy Sloppy Joes
 ================
 
++-----------------------+-----------------------+-----------------------+
+| Prep Time: 10 minutes | Cook Time: 40 minutes | Yield: 4-6 sandwiches |
++-----------------------+-----------------------+-----------------------+
+
 Ingredients
 -----------
 - 1 pound lean ground beef

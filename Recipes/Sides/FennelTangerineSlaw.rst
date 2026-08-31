@@ -1,8 +1,11 @@
 Fennel-Tangerine Slaw
 =====================
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/1370-fennel-tangerine-slaw>`__
++-----------------------+-------------------+
+| Prep Time: 15 minutes | Yield: 4 servings |
++-----------------------+-------------------+
 
+Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/1370-fennel-tangerine-slaw>`__
 
 Ingredients
 -----------
@@ -16,7 +19,6 @@ Ingredients
 -  1 medium clove garlic, minced
 -  1/2 cup olive oil
 -  Salt and ground black pepper
-
 
 Directions
 ----------

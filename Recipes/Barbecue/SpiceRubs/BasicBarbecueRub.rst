@@ -1,6 +1,10 @@
 Basic Barbecue Rub
 ==================
 
++----------------------+-------------------------+
+| Prep Time: 5 minutes | Yield: about 1 1/4 cups |
++----------------------+-------------------------+
+
 This recipe is the grand-daddy of all barbecue rubs. Use this basic
 recipe as a reference and try your own creativity. To make a New england
 run, substitute maple sugar for the brown sugar. For a Santa Fe style

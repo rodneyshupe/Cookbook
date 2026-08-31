@@ -1,13 +1,17 @@
 Korean BBQ Skirt Steak
 ======================
 
++-----------------------+----------------------+-------------------------------------+-------------------+
+| Prep Time: 15 minutes | Cook Time: 6 minutes | Marinate Time: 45 minutes - 2 hours | Yield: 6 servings |
++-----------------------+----------------------+-------------------------------------+-------------------+
+
 Ingredients
 -----------
 
 -  3 cloves garlic
 -  1 Asian pear, peeled, cored, and chopped
 -  1 small onion, chopped
--  1 piece fresh ginger root (½ inch), chopped
+-  1 piece fresh ginger root (1/2 inch), chopped
 -  1/2 cup thinly sliced scallions
 -  1 tablespoon honey or maple syrup
 -  1/4 cup soy sauce

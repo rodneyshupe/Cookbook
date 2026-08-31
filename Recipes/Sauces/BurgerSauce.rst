@@ -1,6 +1,10 @@
 Burger Sauce
 ============
 
++----------------------+----------------------+
+| Prep Time: 5 minutes | Yield: about 1/3 cup |
++----------------------+----------------------+
+
 Ingredients
 -----------
 - 2 tablespoons mayonnaise

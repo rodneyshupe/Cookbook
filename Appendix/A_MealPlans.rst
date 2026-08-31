@@ -75,11 +75,11 @@ Dinner
 
 -  Once all the dishes are out and everyone is seated, fire up the
    tabletop grill on high. Let folks know they can snack on banchan
-   while they’re waiting for the meat to cook. When the grill is hot,
+   while they're waiting for the meat to cook. When the grill is hot,
    set vegetables either at the center or off to one side. Load up the
    remaining space with meat. (If you are using both marinated and
    unmarinated meat, such as marinated skirt steak and unmarinated pork
-   belly, cook the unmarinated meat first so the marinade doesn’t burn
+   belly, cook the unmarinated meat first so the marinade doesn't burn
    on the grill.) Cook the meat and vegetables to your liking, or share
    cooking duties with your guests. Add more meat and vegetables to the
    grill as needed. If items are cooking too quickly, lower the heat to

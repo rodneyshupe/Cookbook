@@ -1,6 +1,10 @@
 The Old Timer
 =============
 
++-----------------------+----------------------------------+
+| Prep Time: 15 minutes | Yield: about 1 1/4 cups marinade |
++-----------------------+----------------------------------+
+
 Source: Bon Appetit
 
 Ingredients

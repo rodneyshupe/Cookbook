@@ -1,6 +1,10 @@
 Jalapeno and Cilantro Sauce
 ===========================
 
++-----------------------+--------------------+
+| Prep Time: 10 minutes | Yield: about 1 cup |
++-----------------------+--------------------+
+
 Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/8713-jalape-o-and-cilantro-sauce>`__
 
 Ingredients
