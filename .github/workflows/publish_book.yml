@@ -117,6 +117,7 @@ jobs:
           - book: AirFryerRecipes
           - book: PressureCookerRecipes
           - book: SousVideRecipes
+          - book: MealPlannerBook
 
     steps:
 
@@ -178,6 +179,7 @@ jobs:
           - book: AirFryerRecipes
           - book: PressureCookerRecipes
           - book: SousVideRecipes
+          - book: MealPlannerBook
 
     steps:
 
@@ -241,6 +243,9 @@ jobs:
           - book: SousVideRecipes
             title: "Sous-Vide Recipes From the Messy Chef"
             comments: "A collection of sous-vide recipes from Rodney Shupe and family."
+          - book: MealPlannerBook
+            title: "Weekly Meal Planner"
+            comments: "A 5-week curated meal planner, shopping guide, and no-repeat modular recipes from Rodney Shupe and family."
 
     steps:
 
@@ -287,6 +292,7 @@ jobs:
           - book: AirFryerRecipes
           - book: PressureCookerRecipes
           - book: SousVideRecipes
+          - book: MealPlannerBook
 
     steps:
 
@@ -391,6 +397,7 @@ jobs:
           - book: AirFryerRecipes
           - book: PressureCookerRecipes
           - book: SousVideRecipes
+          - book: MealPlannerBook
 
     steps:
 
@@ -469,6 +476,7 @@ jobs:
           - book: AirFryerRecipes
           - book: PressureCookerRecipes
           - book: SousVideRecipes
+          - book: MealPlannerBook
 
     steps:
 
@@ -507,6 +515,7 @@ jobs:
           - book: AirFryerRecipes
           - book: PressureCookerRecipes
           - book: SousVideRecipes
+          - book: MealPlannerBook
 
     steps:
 
