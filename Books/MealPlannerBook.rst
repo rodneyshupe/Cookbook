@@ -126,9 +126,8 @@ A 5-Week Curated Meal Planner, Shopping Guide, and No-Repeat Modular Recipes
 
    <p style="page-break-before: always"/>
 
-***************
 Related Recipes
-***************
+===============
 
 Recipes referenced from the weekly meal plans above, included here for
 convenience.
