@@ -86,7 +86,7 @@ a collection of air fryer recipes from Rodney Shupe and family
 
 |
 
-:Author: Rodney Shupe <rodney@shupe.ca>
+:Author: Rodney Shupe <messychef@shupe.ca>
 :Revision: |Revision|
 :Date: |Date|
 

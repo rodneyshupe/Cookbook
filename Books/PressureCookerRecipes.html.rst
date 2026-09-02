@@ -16,7 +16,7 @@ a collection of pressure cooker recipes from Rodney Shupe and family
 
    <p style="page-break-before: always"/>
 
-:Author: Rodney Shupe <rodney@shupe.ca>
+:Author: Rodney Shupe <messychef@shupe.ca>
 :Revision: |Revision|
 :Date: |Date|
 
