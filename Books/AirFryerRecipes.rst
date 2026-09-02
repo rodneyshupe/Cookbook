@@ -128,7 +128,7 @@ reheating leftovers without sogginess.
 
 .. include:: ../Recipes/Sides/AirFryerBakedPotatoes.rst
 
-----
+.. include:: ../includes/recipePageBreak.rst
 
 .. include:: ../Recipes/Sides/AirFryerTwiceBakedPotatoes.rst
 
@@ -167,21 +167,15 @@ Related Recipes
 Recipes referenced from the air fryer recipes above, included here for
 convenience.
 
-.. raw:: pdf
-
-   OddPageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+.. include:: ../includes/recipePageBreak.rst
 
 .. include:: ../Recipes/Barbecue/SpiceRubs/ChickenWingSeasoning.rst
 
-.. include:: ../includes/recipePageBreak.rst
+----
 
 .. include:: ../Recipes/Sauces/BuffaloSauce.rst
 
-.. include:: ../includes/recipePageBreak.rst
+----
 
 .. include:: ../Recipes/Sauces/GochujangWingSauce.rst
 
@@ -189,10 +183,10 @@ convenience.
 
 .. include:: ../Recipes/Sauces/HoisinWingSauce.rst
 
-.. include:: ../includes/recipePageBreak.rst
+----
 
 .. include:: ../Recipes/Sauces/HoneyGarlicWingSauce.rst
 
-.. include:: ../includes/recipePageBreak.rst
+----
 
 .. include:: ../Recipes/Sauces/InfinateSauce.rst
