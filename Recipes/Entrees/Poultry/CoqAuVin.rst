@@ -5,30 +5,29 @@ Coq Au Vin
 | Prep Time: 30 minutes | Cook Time: 90 minutes | Yield: 4-6 servings |
 +-----------------------+-----------------------+---------------------+
 
-
 Ingredients
 -----------
 
--  1 bottle fruity, smooth, medium-bodied red wine (see note below)
--  2 cups low-sodium chicken broth
--  10 sprigs fresh flat leaf parsley leaves
--  2 tablespoons minced fresh flat leaf parsley leaves
--  2 sprigs fresh thyme
--  1 bay leaf
--  4 ounces bacon, preferably thick-cut, cut crosswise into 1/4-inch
-   pieces
--  2 1/2 pounds boneless, skinless chicken thighs, trimmed of excess fat
-   and cut in half crosswise
--  Salt and ground black pepper
--  5 tablespoons unsalted butter
--  24 Frozen pearl onions, thawed, drained, and patted dry (about 1
-   cup)\ *(see note below)*
--  8 ounces cremini mushrooms, wiped clean, stems trimmed, quartered
-   *(halved if small)*
--  2 medium cloves garlic, minced or pressed through garlic press (about
-   2 teaspoons)
--  1 tablespoon tomato paste
--  2 tablespoons all-purpose flour
+- 1 bottle fruity, smooth, medium-bodied red wine (see note below)
+- 2 cups low-sodium chicken broth
+- 10 sprigs fresh flat leaf parsley leaves
+- 2 tablespoons minced fresh flat leaf parsley leaves
+- 2 sprigs fresh thyme
+- 1 bay leaf
+- 4 ounces bacon, preferably thick-cut, cut crosswise into 1/4-inch
+  pieces
+- 2 1/2 pounds (1.1 kg) boneless, skinless chicken thighs, trimmed of excess fat
+  and cut in half crosswise
+- Salt and ground black pepper
+- 5 tablespoons unsalted butter
+- 24 Frozen pearl onions, thawed, drained, and patted dry (about 1
+  cup)\ *(see note below)*
+- 8 ounces cremini mushrooms, wiped clean, stems trimmed, quartered
+  *(halved if small)*
+- 2 medium cloves garlic, minced or pressed through garlic press (about
+  2 teaspoons)
+- 1 tablespoon tomato paste
+- 2 tablespoons all-purpose flour
 
 Directions
 ----------
@@ -65,7 +64,6 @@ Directions
    Season to taste with salt. Return chicken to pot and top with minced
    parsley. Serve immediately with egg noodles or mashed potatoes.
 
-
 Notes
 -----
 
@@ -79,4 +77,3 @@ from root to stem. Remove any remaining outer skin (it's like peeling
 off a jacket). If neither frozen nor fresh pearl onions are available,
 substitute one large onion cut into 1/2-inch pieces. (Do not use jarred
 pearl onions, which will turn mushy and disintegrate into the sauce.)
-

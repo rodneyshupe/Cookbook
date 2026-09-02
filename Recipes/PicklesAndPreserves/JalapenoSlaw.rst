@@ -1,22 +1,22 @@
 Jalapeno Slaw
 =============
 
-+-----------------------+------------------------+-----------+--------------------------+
-| Prep Time: 10 minutes | Total Time: 40 minutes | Yield: ?? | Ferment Time: 10-15 Days |
-+-----------------------+------------------------+-----------+--------------------------+
++-----------------------+------------------------+--------------------------+
+| Prep Time: 10 minutes | Total Time: 40 minutes | Ferment Time: 10-15 Days |
++-----------------------+------------------------+--------------------------+
 
 Ingredients
 -----------
 
--  1/2 white cabbage- sliced and shredded
--  1/4 napa cabbage - sliced and shredded
--  1.5-2 tablespoons of salt
--  1 large red onion sliced fine
--  2 jalapenos - remove seeds for less spice
--  1 bunch of cilantro thinly chopped
--  4 radishes sliced and julianed
--  1/2 teaspoon of dried crushed chipotle powder
--  1/2 teaspoon of dried crushed jalapeno chile
+- 1/2 white cabbage- sliced and shredded
+- 1/4 napa cabbage - sliced and shredded
+- 1 1/2 - 2 tablespoons of salt
+- 1 large red onion sliced fine
+- 2 jalapenos - remove seeds for less spice
+- 1 bunch of cilantro thinly chopped
+- 4 radishes sliced and julienned
+- 1/2 teaspoon of dried crushed chipotle powder
+- 1/2 teaspoon of dried crushed jalapeno chile
 
 Directions
 ----------

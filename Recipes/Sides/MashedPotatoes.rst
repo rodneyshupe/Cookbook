@@ -8,11 +8,11 @@ Mashed Potatoes
 Ingredients
 -----------
 
--  2 pounds Yukon Gold potatoes (4 to 6 medium), peeled, cut into 1-inch chunks, rinsed well, and drained (may substitute Russets or White potatoes, do not use red potatoes)
--  4 tablespoons unsalted butter, melted
--  Table salt
--  2/3 cup whole milk, warm
--  Ground black pepper
+- 2 pounds Yukon Gold potatoes (4 to 6 medium), peeled, cut into 1-inch chunks, rinsed well, and drained (may substitute Russets or White potatoes, do not use red potatoes)
+- 4 tablespoons unsalted butter, melted
+- Table salt
+- 2/3 cup whole milk, warm
+- Ground black pepper
 
 Directions
 ----------

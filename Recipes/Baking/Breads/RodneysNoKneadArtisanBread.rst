@@ -7,6 +7,7 @@ Rodney's No-Knead Artisan Bread
 
 Ingredients
 -----------
+
 - 400 grams (2 1/2 cups + 3 tablespoons) bread flour (can sub all purpose)
 - 1 gram (1/4 teaspoon) instant yeast
 - 10 grams salt
@@ -14,10 +15,11 @@ Ingredients
 
 Directions
 ----------
+
 1. In a large bowl whisk together flour, yeast and salt. Add liquids, and
    stir until blended; dough will be shaggy and sticky. Cover bowl with
    plastic wrap. Let dough rest at least 10 - 12 hours, at warm room
-   temperature, about 70 degrees.
+   temperature, about 70F.
 2. You can continue with step 3 immediately, but for a better flavour
    and texture, I strongly recommend letting this risen dough rest in the
    refrigerator for at least 12 hours and up to 3 days. Then getting ready
@@ -33,7 +35,7 @@ Directions
    more flour, bran or cornmeal. Cover with cotton towel and let rise for
    about 2 hours. When it is ready, dough will be more than double in size
    and will not readily spring back when poked with a finger.
-4. At least a half-hour before dough is ready, heat oven to 450 degrees. Put
+4. At least a half-hour before dough is ready, heat oven to 450F. Put
    a 6 to 8 quart dutch oven (or heavy covered pot, enamel, Pyrex or ceramic)
    in oven as it heats. When dough is ready, carefully remove pot from oven.
    Pick up parchment and dough and lower into the pot.  Using a sharp knife
@@ -68,6 +70,7 @@ Additional Flavours
 ^^^^^^^^^^^^^^^^^^^
 Before pouring in the water in step 1, add any of the following
 ingredients/combination of ingredients to the dry ingredients in the bowl:
+
 - 4 cloves minced garlic + 3 Tablespoons chopped rosemary
 - 3 Tablespoons your favourite fresh herb (chopped)
 - 1 cup your favourite shredded cheese
@@ -94,7 +97,7 @@ Notes
   use a metal 9x13 baking pan) on the bottom oven rack. Carefully and quickly
   pour 3-4 cups of boiling water into it. Place the scored dough/baking pan on
   a higher rack and quickly shut the oven, trapping the steam inside. The
-  team helps create a crispier crust.
+  steam helps create a crispier crust.
 
 References
 ----------

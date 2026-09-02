@@ -16,7 +16,7 @@ Ingredients
 Directions
 ----------
 
-1. Combine all the ingredients and stir until evenly mixed. 
+1. Combine all the ingredients and stir until evenly mixed.
 
 Notes
 -----

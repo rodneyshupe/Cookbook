@@ -2,7 +2,7 @@ Paella Valenciana
 =================
 
 +-----------------------+------------------------+---------------------+
-| Prep Time: 15 minutes | Total Time: 30 minutes | Yield: 3-4 services |
+| Prep Time: 15 minutes | Total Time: 30 minutes | Yield: 3-4 servings |
 +-----------------------+------------------------+---------------------+
 
 Source: `J. Kenji Lopez-Alt <https://www.youtube.com/watch?v=ASP74I0B7zo>`__
@@ -17,9 +17,9 @@ Ingredients
 - 1/4 pound (125g) fresh or frozen lima, butter, or fava beans
 - A few cloves of garlic, finely minced
 - 1 ripe Roma tomato, split in half, the cut-side rubbed through the large holes of a box grater, skins discarded
-- 1 teaspoons Spanish smoked paprika
+- 1 teaspoon Spanish smoked paprika
 - Pinch saffron threads
-- 1 cups (around 400g) short grain rice, preferably Bomba (arborio or any other rice will do fine)
+- 1 cup (around 400g) short grain rice, preferably Bomba (arborio or any other rice will do fine)
 - 2.5 cups (1200ml) water
 - 2-3 rosemary sprigs
 - Lemon wedges for serving
@@ -45,7 +45,7 @@ Directions
    sprigs. Use a wooden spoon or spatula to scrape up any browned bits from
    the bottom and stir everything together well, making sure that the rice is
    all submerged.
-5. Bring to a simmer and cook without stirring g until the rice is tender
+5. Bring to a simmer and cook without stirring until the rice is tender
    and the liquid is absorbed (you may need to add more liquid if it gets too
    dry before the rice is fully cooked; just pour it evenly around the top),
    15 to 20 minutes total.

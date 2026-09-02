@@ -39,4 +39,5 @@ Directions
 
 Notes
 -----
+
 Carb count 7 g per serving

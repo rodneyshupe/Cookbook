@@ -28,12 +28,12 @@ Directions
    a medium saucepan, and add the sugar and salt. Bring to a boil over
    medium-high heat and let cook until the sugar fully dissolves, 5
    minutes.
-2. Sprinkle the pectin over the mixture and continue to cook until fully 
+2. Sprinkle the pectin over the mixture and continue to cook until fully
    incorporated, 1 to 2 minutes more.
-3. Divide the jelly between 2 mason jars, pressing the mixture down until 
+3. Divide the jelly between 2 mason jars, pressing the mixture down until
    there is only about 1/2 inch of space left at the top of each jar. Wipe
    the rim then affix the lid on each jar.
-4. Bring a stockpot filled with enough water for the jars to be completely 
+4. Bring a stockpot filled with enough water for the jars to be completely
    submerged to a boil. Arrange the jars on a wire rack and lower into the
    water. Boil for about 15 minutes.
 5. Carefully remove the jars and let them cool to room temperature on a

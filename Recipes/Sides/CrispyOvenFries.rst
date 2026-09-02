@@ -5,16 +5,15 @@ Crispy Oven Fries
 | Prep Time: 15 minutes | Cook Time: 45 minutes | Yield: 4 |
 +-----------------------+-----------------------+----------+
 
-Source: `Cooks Country <https://www.cookscountry.com/recipes/4837-crispy-oven-fries>`__
+Source: `Cook's Country <https://www.cookscountry.com/recipes/4837-crispy-oven-fries>`__
 
 Ingredients
 -----------
 
--  4 russet potatoes (6 to 8 ounces each), peeled and cut into 1/2-inch-thick fries
--  6 tablespoons vegetable oil
--  1 tablespoon cornstarch
--  1 teaspoon salt
-
+- 4 russet potatoes (6 to 8 ounces each), peeled and cut into 1/2-inch-thick fries
+- 6 tablespoons vegetable oil
+- 1 tablespoon cornstarch
+- 1 teaspoon salt
 
 Directions
 ----------

@@ -9,7 +9,7 @@ Source: `Alton Brown <https://altonbrown.com/roasted-bacon-recipe/>`__
 
 Ingredients
 -----------
-- 1 pound thick-cut bacon
+- 1 pound (450 g) thick-cut bacon
 - 1/2 teaspoon black pepper (coarsely ground, separated into 1/4 measurements)
 - 4 tablespoons dark muscovado sugar (plus 3 tablespoons)
 - 1/4 teaspoon red pepper flakes (or more if you're up to it)
@@ -17,7 +17,7 @@ Ingredients
 Directions
 ----------
 
-1. Set the oven temperature to 400 degrees F.
+1. Set the oven temperature to 400F.
 2. Line a half sheet pan with parchment paper and lay the bacon in a single
    layer so that there's little or no space between the pieces on a cooling
    rack set in the pan.

@@ -7,7 +7,6 @@ Com Do (Vietnamese Red Rice)
 
 Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/11896-vietnamese-red-rice-com-do>`__
 
-
 Ingredients
 -----------
 

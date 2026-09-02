@@ -24,8 +24,8 @@ Broth
 Ramen
 ^^^^^
 
-- 4 baby bok choy (about 12 oz. total), quartered lengthwise
-- 4 5-oz. packages fresh ramen noodles
+- 4 baby bok choy (about 12 ounces total), quartered lengthwise
+- 4 5-ounce packages fresh ramen noodles
 - toasted nori sheets, and/or cilantro (for serving; optional)
 - 1 cup corn kernels
 - `Garlic Chilli Oil <#garlic-chili-oil>`__ or Saracha
@@ -35,7 +35,7 @@ Directions
 
 1. Trim dark green parts from scallions and thinly slice; set aside
    for serving. Coarsely chop white and pale green parts. Heat remaining
-   2 oil in reserved pot over medium-high. Cook chopped scallions and ginger,
+   2 tablespoons oil in reserved pot over medium-high. Cook chopped scallions and ginger,
    stirring often, until scallions are charred in spots, about 4 minutes.
    Add tomato paste and cook, stirring occasionally, until it begins to
    stick to the bottom of pot and darkens slightly, about 2 minutes. Add
@@ -44,8 +44,7 @@ Directions
    minutes. Remove and discard kombu if using.
 2. Using a slotted spoon, transfer solids to a blender. Add a ladleful or 2
    of broth to blender and puree until smooth. Stir puree back into broth
-   in pot and bring to a simmer over medium heat. Add butter a piece at a
-   time, whisking to combine after each addition before adding more. Stir
+   in pot and bring to a simmer over medium heat. Stir
    in soy sauce; season with salt. Reduce heat to low and keep warm until
    ready to serve.
 3. Meanwhile, bring a large pot of water to a boil. Add bok choy and

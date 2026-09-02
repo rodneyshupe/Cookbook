@@ -1,24 +1,24 @@
-Grandmas Dill Pickles
-=====================
+Grandma's Dill Pickles
+======================
 
-+-----------------------+-----------------------+----------------------+-------------------------------+
-| Prep Time: 45 minutes | Cook Time: 25 minutes | Total Time: 12 hours | Yield: about seven 16 oz jars |
-+-----------------------+-----------------------+----------------------+-------------------------------+
++-----------------------+-----------------------+----------------------+----------------------------------+
+| Prep Time: 45 minutes | Cook Time: 25 minutes | Total Time: 12 hours | Yield: about seven 16 ounce jars |
++-----------------------+-----------------------+----------------------+----------------------------------+
 
 Ingredients
 -----------
 
--  8lbs pickling cucumbers (3 to 4 inches),trimmed
--  16 cups ice cubes or chipped ice
--  1 1/4 cups pickling or canning salt, divided
--  12 cups water, divided
--  2 tablespoons `pickling spice <#homemade-pickling-spice>`__
--  6 cups white vinegar
--  1/4 cup granulated sugar
--  7 tsp mustard seeds
--  10 1/2 fresh dill heads (or 7 tablespoons dill seeds or finely chopped
-   dillweed), divided
--  7 cloves garlic, divided (optional)
+- 8 pounds pickling cucumbers (3 to 4 inches),trimmed
+- 16 cups ice cubes or chipped ice
+- 1 1/4 cups pickling or canning salt, divided
+- 12 cups water, divided
+- 2 tablespoons `pickling spice <#homemade-pickling-spice>`__
+- 6 cups white vinegar
+- 1/4 cup granulated sugar
+- 7 teaspoons mustard seeds
+- 10 1/2 fresh dill heads (or 7 tablespoons dill seeds or finely chopped
+  dillweed), divided
+- 7 cloves garlic, divided (optional)
 
 Directions
 ----------
@@ -36,19 +36,19 @@ Day 1
    Refrigerate (or let stand in a cool place) for at least 12 hours, but
    no longer than 18 hours.
 
-Day2
-^^^^
+Day 2
+^^^^^
 
 1. Prepare canner, jars and lids.
 2. Tie pickling spice in a square of cheesecloth, creating a spice bag.
 3. In a large stainless steel saucepan, combine remaining 8 cups (2 L)
-   water, vinegar, remaining %cup (175 mL) pickling salt, sugar and
+   water, vinegar, remaining 3/4 cup (175 mL) pickling salt, sugar and
    spice bag. Bring to a boil over medium-high heat, stirring to
    dissolve salt and sugar. Reduce heat, cover and boil gently for 15
    minutes, until spices have infused the liquid.
 4. Transfer cucumbers to a colander placed over a sink and drain. Rinse
    with cool running water and drain thoroughly. Pack cucumbers into
-   jars to within a generous 1/2 inch of top of jar. Add 1 tsp mustard
+   jars to within a generous 1/2 inch of top of jar. Add 1 teaspoon mustard
    seeds, 1 1/2 fresh dill heads (or 1 tablespoons dill seeds or finely chopped
    dillweed) and 1 clove garlic, if using, to each hot jar. Ladle hot
    pickling liquid into hot jar to cover cucumbers, leaving 1/2 inch

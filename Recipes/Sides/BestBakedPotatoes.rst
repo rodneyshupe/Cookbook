@@ -1,4 +1,4 @@
-Best Baked potatoes
+Best Baked Potatoes
 ===================
 
 +-----------------------+-------------------+-------------------+
@@ -8,19 +8,19 @@ Best Baked potatoes
 Ingredients
 -----------
 
--  4 (7- to 9-ounce) russet potatoes, unpeeled, each lightly pricked with fork in 6 places
--  2 tablespoons salt
--  1 tablespoon vegetable oil
+- 4 (7- to 9-ounce) russet potatoes, unpeeled, each lightly pricked with fork in 6 places
+- 2 tablespoons salt
+- 1 tablespoon vegetable oil
 
 Optional Topping
 ^^^^^^^^^^^^^^^^
 
--  4 oz goat cheese
--  2 tablespoons olive oil
--  2 tablespoons flat leaf parsley, chopped
--  1 tablespoon shallot, minced
--  1/2 teaspoon lemon zested
--  salt and pepper
+- 4 ounces goat cheese
+- 2 tablespoons olive oil
+- 2 tablespoons flat leaf parsley, chopped
+- 1 tablespoon shallot, minced
+- 1/2 teaspoon lemon zested
+- salt and pepper
 
 Directions
 ----------
@@ -37,5 +37,5 @@ Directions
    squeeze slightly to push flesh up and out. Season with salt and
    pepper to taste. Serve immediately.
 4. For topping break up cheese with a fork. Combine with other
-   ingredients until thoughly mixed. Spoon onto potatoes.
+   ingredients until thoroughly mixed. Spoon onto potatoes.
 

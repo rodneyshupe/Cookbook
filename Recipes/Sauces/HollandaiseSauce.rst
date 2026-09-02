@@ -8,13 +8,13 @@ Hollandaise Sauce
 Ingredients
 -----------
 
--  1 egg yolk
--  1 teaspoon water
--  1 teaspoon lemon juice from 1 lemon
--  Kosher salt
--  8 tablespoons butter (1 stick)
--  Pinch cayenne pepper or 1 dash hot sauce (if desired)
--  1 dash worcestershire sauce (if desired)
+- 1 egg yolk
+- 1 teaspoon water
+- 1 teaspoon lemon juice from 1 lemon
+- Kosher salt
+- 8 tablespoons butter (1 stick)
+- Pinch cayenne pepper or 1 dash hot sauce (if desired)
+- 1 dash worcestershire sauce (if desired)
 
 Directions
 ----------
@@ -36,5 +36,5 @@ Directions
 
 Variation
 ---------
-For a simple Bearnaise Sauce, add 1 tbsp. chopped tarragon, and 1 tbsp. chopped parsley
+For a simple Bearnaise Sauce, add 1 tablespoon chopped tarragon, and 1 tablespoon chopped parsley
 

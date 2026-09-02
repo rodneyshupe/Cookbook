@@ -8,15 +8,15 @@ Classic Risotto
 Ingredients
 -----------
 
--  2 Tbsp extra virgin olive oil
--  1 onion, chopped
--  4 clove garlic, minced
--  2 cup Arborio rice
--  1 cup Italian white wine
--  8 cup real chicken broth, simmering hot
--  1 cup good quality Parmigiano-Reggiano cheese, shredded
--  1 Tbsp (or so) of butter
--  a few sprigs of fresh thyme or any fresh herb, minced
+- 2 tablespoons extra virgin olive oil
+- 1 onion, chopped
+- 4 clove garlic, minced
+- 2 cup Arborio rice
+- 1 cup Italian white wine
+- 8 cup real chicken broth, simmering hot
+- 1 cup good quality Parmigiano-Reggiano cheese, shredded
+- 1 tablespoon (or so) of butter
+- a few sprigs of fresh thyme or any fresh herb, minced
 
 Directions
 ----------
@@ -45,9 +45,9 @@ Directions
 Variations
 ----------
 
-1. Cook 1 diced chorizo before step 2 in the pan. Remove choizo and set
+1. Cook 1 diced chorizo before step 2 in the pan. Remove chorizo and set
    aside. In step 2 use rendered fat in place of some of the olive oil.
-   Re-add chorico when adding last batch of liquid in step 3. Add 1 cup
+   Re-add chorizo when adding last batch of liquid in step 3. Add 1 cup
    of cooked peas in step 4 instead of herbs.
 2. Add chopped meat from 1 lobster tail to risotto mixture in step 3
    half way through adding the liquids.

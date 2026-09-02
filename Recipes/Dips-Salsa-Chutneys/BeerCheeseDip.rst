@@ -8,10 +8,10 @@ Beer Cheese Dip
 Ingredients
 -----------
 
--  1/2 bottle of beer (lager)
--  8oz of cream cheese
--  8oz cheddar cheese shredded
--  green onion, sliced for garnish (optional)
+- 1/2 bottle of beer (lager)
+- 8 ounces of cream cheese
+- 8 ounces cheddar cheese shredded
+- green onion, sliced for garnish (optional)
 
 Directions
 ----------

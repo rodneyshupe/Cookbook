@@ -12,10 +12,9 @@ Sous-Vide (immersion circulator), Vacuum Sealer
 Ingredients
 -----------
 
--  1 eye of Round Roast 3-5 pounds
--  2 tbsp kosher salt
--  2 tsp fresh ground black pepper
-
+- 1 eye of Round Roast 3-5 pounds (1.35 to 2.25 kg)
+- 2 tablespoons kosher salt
+- 2 teaspoons fresh ground black pepper
 
 Directions
 ----------
@@ -29,7 +28,6 @@ Directions
    over and cooking on the other side for 2 more minutes. Remove from
    heat. If you're using the blow torch, just graze the roast with the
    flame until browned. Slice and serve.
-
 
 Notes
 -----

@@ -1,4 +1,4 @@
-Sesame bean sprouts
+Sesame Bean Sprouts
 ===================
 
 +-----------------------+-------------------+-------------------+
@@ -8,14 +8,13 @@ Sesame bean sprouts
 Ingredients
 -----------
 
--  2 bags (12 ounce) soybean sprouts
--  4 cloves garlic, chopped fine
--  2 scallions, sliced into thin rounds
--  2 teaspoons gochugaru chile flakes
--  1/4 cup soy sauce
--  1 tablespoon sesame oil
--  1 tablespooon toasted sesame seeds
-
+- 2 bags (12 ounce / 355 ml) soybean sprouts
+- 4 cloves garlic, chopped fine
+- 2 scallions, sliced into thin rounds
+- 2 teaspoons gochugaru chile flakes
+- 1/4 cup soy sauce
+- 1 tablespoon sesame oil
+- 1 tablespoon toasted sesame seeds
 
 Directions
 ----------

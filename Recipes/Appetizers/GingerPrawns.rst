@@ -8,7 +8,7 @@ Ginger Prawns with Sweet Chilli Sauce and Shredded Daikon
 Ingredients
 -----------
 
-- 3/4 lb prawns, deveined
+- 3/4 pound (340 g) prawns, deveined
 - 1 tablespoon extra virgin olive oil
 - 1 tablespoon walnut oil
 - sea salt

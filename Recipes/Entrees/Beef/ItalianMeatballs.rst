@@ -40,8 +40,8 @@ Directions
 
 Notes
 -----
+
 - When cooking the meatballs you can use less oil and a non stick pan.  Use
   about 3-4 tablespoons of vegetable oil in the pan.
 - Serve with `Simple Tomato Sauce <#simple-tomato-sauce>`__ alone or on
   spaghitti with or without `Garlic Bread <#garlic-bread>`__.
-

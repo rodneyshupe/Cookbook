@@ -7,7 +7,6 @@ Bacon-Cheddar Potato Skins
 
 Source: `Cook's Country <https://www.cookscountry.com/recipes/4645-bacon-cheddar-potato-skins>`__
 
-
 Ingredients
 -----------
 
@@ -23,7 +22,7 @@ Directions
 ----------
 
 1. MICROWAVE POTATOES Adjust oven rack to upper-middle position and heat
-   oven to 475 degrees. Set rimmed baking sheet inside oven. Prick potatoes
+   oven to 475F. Set rimmed baking sheet inside oven. Prick potatoes
    all over with fork, place on paper towel, and microwave until tender, 10
    to 15 minutes, turning potatoes over after 5 minutes.
 2. FRY BACON Cook bacon in large skillet over medium heat until crisp,

@@ -1,23 +1,23 @@
 Mustard Pickles
 ===============
 
-+-----------------------+-----------------------+---------------------+------------------------------+
-| Prep Time: 20 minutes | Cook Time: 10 minutes | Total Time: 8 hours | Yield: about four 16 oz jars |
-+-----------------------+-----------------------+---------------------+------------------------------+
++-----------------------+-----------------------+---------------------+---------------------------------+
+| Prep Time: 20 minutes | Cook Time: 10 minutes | Total Time: 8 hours | Yield: about four 16 ounce jars |
++-----------------------+-----------------------+---------------------+---------------------------------+
 
 Ingredients
 -----------
 
--  4 large cucumbers, sliced
--  2 cups sliced onion
--  1 tablespoons pickling salt
--  1 cups white sugar
--  1 tablespoons all-purpose flour
--  1 cups white vinegar
--  1/2 tablespoon ground dried turmeric
--  1/2 tablespoon dry mustard powder
--  1/4 teaspoon celery seed
--  1 quarts cold water, or as needed
+- 4 large cucumbers, sliced
+- 2 cups sliced onion
+- 1 tablespoon pickling salt
+- 1 cup white sugar
+- 1 tablespoon all-purpose flour
+- 1 cup white vinegar
+- 1/2 tablespoon ground dried turmeric
+- 1/2 tablespoon dry mustard powder
+- 1/4 teaspoon celery seed
+- 1 quarts cold water, or as needed
 
 Directions
 ----------

@@ -7,7 +7,6 @@ Murgh Makhani (Indian Butter Chicken)
 
 Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/11519-indian-butter-chicken-murgh-makhani>`__
 
-
 Ingredients
 -----------
 
@@ -25,7 +24,7 @@ Ingredients
 - 1 tablespoon sugar
 - 2 teaspoons table salt, divided
 - 1 cup heavy cream
-- 2 pounds boneless, skinless chicken thigh, trimmed
+- 2 pounds (900 g) boneless, skinless chicken thigh, trimmed
 - 1/2 cup plain Greek yogurt
 - 3 tablespoons chopped fresh cilantro, divided
 
@@ -47,7 +46,7 @@ Directions
    chicken, yogurt, and remaining 1 teaspoon salt in bowl and toss well to
    coat. Using tongs, transfer chicken to wire rack set in aluminum
    foil-lined rimmed baking sheet. Broil until chicken is evenly charred on
-   both sides and registers 175 degrees, 16 to 20 minutes, flipping chicken
+   both sides and registers 175F, 16 to 20 minutes, flipping chicken
    halfway through broiling.
 3. Let chicken rest for 5 minutes. While chicken rests, warm sauce over
    medium-low heat. Cut chicken into 3/4-inch chunks and stir into sauce.

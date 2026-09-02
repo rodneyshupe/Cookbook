@@ -5,8 +5,6 @@ Classic Waffles
 | Prep Time: 15 minutes | Cook Time: 15 minutes | Yield: 6 waffles |
 +-----------------------+-----------------------+------------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/9473-perfect-poached-eggs>`__
-
 Equipment
 ---------
 Waffle Iron
@@ -14,13 +12,13 @@ Waffle Iron
 Ingredients
 -----------
 
--  2 cups unbleached all-purpose flour
--  2 tablespoon cornmeal
--  1 teaspoon table salt
--  2 teaspoon baking soda
--  2 egg, separated
--  1 3/4 cup buttermilk
--  4 tablespoons unsalted butter, melted
+- 2 cups unbleached all-purpose flour
+- 2 tablespoon cornmeal
+- 1 teaspoon table salt
+- 2 teaspoon baking soda
+- 2 egg, separated
+- 1 3/4 cup buttermilk
+- 4 tablespoons unsalted butter, melted
 
 *If you're out of buttermilk, substitute a little less milk (1 1/2 scant
 cup) and add 4 teaspoons cream of tartar to the dry ingredients.*
@@ -42,4 +40,3 @@ Directions
    manufacturer's instructions, cook waffle until golden brown, 2 to 5
    minutes. Serve immediately. (You can keep waffles warm on a wire rack
    in a 200F oven for up to 5 minutes.)
-

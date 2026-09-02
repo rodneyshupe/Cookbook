@@ -12,7 +12,7 @@ Ingredients
 - 1 Lemon
 - 1/4 cup Olive oil
 - pinch of salt
-- 2 oz Parmesean Cheese Grated (about 1/3 cup)
+- 2 ounces Parmesean Cheese Grated (about 1/3 cup)
 
 Directions
 ----------

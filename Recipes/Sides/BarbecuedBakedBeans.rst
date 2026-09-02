@@ -8,17 +8,17 @@ Barbecued Baked Beans
 Ingredients
 -----------
 
--  4 ounces bacon (4 slices), chopped fine
--  1 onion, minced
--  4 cloves garlic, minced
--  1 pound dried small white beans (2 cups), rinsed and picked over
--  8 cups water
--  1 cup strong coffee (black)
--  1/2 cup barbecue sauce, plus extra for seasoning
--  1/4 cup packed dark brown sugar
--  4 1/2 teaspoons brown mustard (prepared)
--  1 tablespoon mild molasses
--  Tabasco sauce (or something similar)
+- 4 ounces bacon (4 slices), chopped fine
+- 1 onion, minced
+- 4 cloves garlic, minced
+- 1 pound dried small white beans (2 cups), rinsed and picked over
+- 8 cups water
+- 1 cup strong coffee (black)
+- 1/2 cup barbecue sauce, plus extra for seasoning
+- 1/4 cup packed dark brown sugar
+- 4 1/2 teaspoons brown mustard (prepared)
+- 1 tablespoon mild molasses
+- Tabasco sauce (or something similar)
 
 Directions
 ----------

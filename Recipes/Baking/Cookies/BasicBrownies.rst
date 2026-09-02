@@ -1,12 +1,11 @@
 Basic Brownies
 ==============
 
-+-----------------+--------------------------+
-| Total Time: TBD | Yield: Makes 16 brownies |
-+-----------------+--------------------------+
++---------------------+
+| Yield: 16 brownies  |
++---------------------+
 
 Source: `Cook's Country <https://www.cookscountry.com/recipes/2108-basic-brownies>`__
-
 
 Ingredients
 -----------
@@ -23,7 +22,7 @@ Ingredients
 Directions
 ----------
 
-1. Adjust oven rack to middle position and heat oven to 350 degrees. Line
+1. Adjust oven rack to middle position and heat oven to 350F. Line
    8-inch baking dish with foil and coat foil with cooking spray.
 2. Melt chocolate and butter in small bowl in microwave or in heatproof
    bowl set over pan of simmering water, stirring occasionally to combine.
@@ -38,4 +37,3 @@ Directions
    cutting board. Slide foil out from under brownies and cut brownies into
    2-inch squares. (Brownies can be stored in airtight container for
    several days.)
-

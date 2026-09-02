@@ -8,12 +8,12 @@ Stromboli
 Ingredients
 -----------
 
-- 1 lb `pizza dough <#pizza-dough>`__
+- 1 pound `pizza dough <#pizza-dough>`__
 - 3 tablespoons unsalted butter, melted
 - 2 garlic cloves, minced (or 1/2 teaspoon garlic powder)
 - 1/2 cup grated Parmesan, plus extra for the tops
 - 2 teaspoons chopped fresh parsley (or 1 teaspoon dried)
-- 1 pound thinly sliced meats such as Italian cold cuts, deli ham, or large pepperoni slices*
+- 1 pound (450 g) thinly sliced meats such as Italian cold cuts, deli ham, or large pepperoni slices*
 - 3/4 - 1 pound cheese deli cheese like provolone or mozzarella (about 3 cups shredded or about 16-20 slices)*
 - 1 large egg beaten
 - 1 tablespoon water
@@ -48,7 +48,7 @@ Directions
    tightly and refrigerate for up to 8 hours.
 9. Bake for about 25 minutes or until the crust is golden brown; if you
    have an instant-read thermometer, the center of the stromboli should
-   be at least 200oF. If baking both at the same time, rotate pans
+   be at least 200F. If baking both at the same time, rotate pans
    halfway through baking and extend bake time (if needed) by
    2-3 minutes.
 10. Remove from the oven and cool on baking sheets for 5 minutes before

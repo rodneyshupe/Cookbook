@@ -8,10 +8,10 @@ Pan Seared Salmon
 Ingredients
 -----------
 
--  Kosher salt and pepper
--  4 skin-on salmon fillets 6 to 8 ounce (170g to 225g)
--  Lemon wedges Or `Mango Mint Salsa <#mango-mint-salsa>`__ Or
-   `Cilantro-Mint Chutney <#cilantro-mint-chutney>`__
+- Kosher salt and pepper
+- 4 skin-on salmon fillets 6 to 8 ounces (170g to 225g)
+- Lemon wedges Or `Mango Mint Salsa <#mango-mint-salsa>`__ Or
+  `Cilantro-Mint Chutney <#cilantro-mint-chutney>`__
 
 Directions
 ----------
@@ -31,4 +31,3 @@ Directions
    skin side down to serving platter and let rest for 5 minutes before
    serving with lemon wedges Or `mango mint salsa <#mango-mint-salsa>`__
    Or `cilantro-mint chutney <#cilantro-mint-chutney>`__.
-

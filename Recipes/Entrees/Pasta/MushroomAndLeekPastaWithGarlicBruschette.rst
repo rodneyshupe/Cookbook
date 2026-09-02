@@ -22,6 +22,7 @@ Ingredients
 
 For the garlic bruschette
 ^^^^^^^^^^^^^^^^^^^^^^^^^
+
 - 3-4 slices bread, such as ciabatta, French, or Italian loaf
 - olive oil
 - 1 garlic clove, peeled and halved
@@ -32,7 +33,7 @@ Directions
 1. Heat a large frying pan and add a dash of oil. Season the mushrooms with
    salt and pepper and start to saute them, adding the garlic after 2
    minutes and the leek a minute later. Cook for 6-8 minutes until the leek
-   is soft and the mushrooms are colored on the outside Taste and adjust
+   is soft and the mushrooms are coloured on the outside Taste and adjust
    the seasoning.
 2. Add the stock and boil for 5 minutes until reduced by half.
 3. Meanwhile, cook the lasagne sheets in a large saucepan of boiling salted
@@ -47,4 +48,3 @@ Directions
    and toast for 1-2 minutes on each side until golden brown.
 7. To serve, spoon the lasagne and mushroom mixture onto serving plates.
    Serve the toasted bruschette slices on the side.
-

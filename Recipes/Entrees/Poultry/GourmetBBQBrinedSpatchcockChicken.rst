@@ -22,6 +22,7 @@ Ingredients
 
 Directions
 ----------
+
 1. Mix brine ingredients together in a glass bowl Place chicken in a Ziploc
    bag and pour in brine solution. Seal and place in the fridge for 4-5 hours.
 2. Remove, rinse with fresh water, pat dry and stand upright over a dish or
@@ -37,9 +38,9 @@ Directions
 
 Notes
 -----
+
 - The length of brining will determine the saltiness of the bird and how moist
   it will be, if you are going to smoke cook it, you could brine it for longer.
 - You can adapt this for Turkey by doubling the quantity and brine the turkey
   for 8 hours instead of 4-5.
 - A variation is to add fresh herbs or Chinese 5 spice to the brine.
-

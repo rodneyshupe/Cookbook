@@ -19,19 +19,20 @@ Richard Foster, owner of the Foster Awning Company, was a frequent
 customer of Brennan's and a very good friend of Owen.
 
 Little did anyone realize that Bananas Foster would become an
-international favorite and is the most requested item on the
+international favourite and is the most requested item on the
 restaurant's menu. Thirty-five thousand pounds of bananas are flamed
 each year at Brennan's in the preparation of its world-famous dessert.
 
 Ingredients
 -----------
 
--  1/2 cup (1/2 stick) butter
--  1 cup brown sugar
--  1/2 teaspoon cinnamon
--  1/4 cup brandy
--  4 bananas, cut in half lengthwise, then halved
--  4 scoops vanilla ice cream
+- 1/2 cup (1/2 stick) butter
+- 1 cup brown sugar
+- 1/2 teaspoon cinnamon
+- 2 tablespoons banana liqueur (optional)
+- 1/4 cup rum or brandy
+- 4 bananas, cut in half lengthwise, then halved
+- 4 scoops vanilla ice cream
 
 Directions
 ----------

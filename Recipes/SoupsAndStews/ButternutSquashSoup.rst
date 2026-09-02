@@ -5,24 +5,23 @@ Butternut Squash Soup
 | Prep Time: 15 minutes | Cook Time: 1 1/4 hours | Yield: 6-8 servings |
 +-----------------------+------------------------+---------------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/6686-butternut-squash-soup>`__
-
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/6686-butternut-squash-soup>`__
 
 Ingredients
 -----------
 
--  2 1/2 pounds butternut squash, peeled, seeded, and cut into 2-inch
-   chunks (about 7 cups)
--  2 tablespoons unsalted butter
--  1 leek, white and green parts only, quartered lengthwise, sliced
-   thin, and washed thoroughly (about 1 1/2 cups)
--  Salt and pepper
--  4 cups vegetable broth
--  1 - 2 cups water
--  2 sprigs fresh thyme
--  1 bay leaf
--  pinch cayenne pepper
--  Sour cream
+- 2 1/2 pounds butternut squash, peeled, seeded, and cut into 2-inch
+  chunks (about 7 cups)
+- 2 tablespoons unsalted butter
+- 1 leek, white and green parts only, quartered lengthwise, sliced
+  thin, and washed thoroughly (about 1 1/2 cups)
+- Salt and pepper
+- 4 cups vegetable broth
+- 1 - 2 cups water
+- 2 sprigs fresh thyme
+- 1 bay leaf
+- pinch cayenne pepper
+- Sour cream
 
 Directions
 ----------

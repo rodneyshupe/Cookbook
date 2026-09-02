@@ -35,13 +35,13 @@ Directions
    and pepper. Cook for 20 to 25 minutes or until the onions are golden,
    stirring occasionally. Stir in the garlic and sugar and increase the
    heat to medium. Cook for five to 10 minutes, stirring frequently, until
-   deeply golden brown and well caramelized. 
+   deeply golden brown and well caramelised.
 4. Deglaze the pan with brandy and allow to cook away for one to two
    minutes. Sprinkle the flour over the onions and stir well to combine.
    While stirring, slowly pour in two and a half cups of beef broth. Add
    the roast back into the pan and, if needed, add more beef broth halfway
    up the roast. Stir in the thyme and bay leaves, turn the heat to
-   medium-high, and bring to a simmer. 
+   medium-high, and bring to a simmer.
 5. Place the lid on the pan and transfer the roast to the oven for three
    to three hours or until the roast is fork-tender. When tender, remove
    the roast from the oven, leave the lid on, and set aside to rest while

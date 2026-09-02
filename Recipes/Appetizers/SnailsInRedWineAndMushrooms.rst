@@ -9,11 +9,11 @@ Snails in Red Wine and Mushrooms
 Ingredients
 -----------
 - Salt and pepper
-- 1 tablespoons olive oil
+- 1 tablespoon olive oil
 - 5 ounces crimini mushrooms, sliced thin
 - 1 shallot, chopped fine
 - 1/2 tablespoon tomato paste
-- 1 tablespoons all-purpose flour
+- 1 tablespoon all-purpose flour
 - 1 (125 g) cans of Snails, drained and rinsed
 - 1/2 cups low-sodium beef broth
 - 1/2 cup red wine

@@ -7,14 +7,13 @@ Jennifer Lawrence's Roast Chicken with Shallot Fried Rice
 
 Source: `Food Network <https://www.foodnetwork.com/recipes/jennifer-lawrences-roast-chicken-with-shallot-fried-rice-8708252>`__
 
-
 Ingredients
 -----------
 
 Chicken
 ^^^^^^^
 
-- 1 whole chicken (about 3 pounds)
+- 1 whole chicken (about 3 pounds / 1.35 kg)
 - 1/4 cups olive oil
 - 4 tablespoons unsalted butter, softened and cut into pieces
 - Kosher salt
@@ -36,7 +35,7 @@ Shallot Fried Rice
 Directions
 ----------
 
-1. For the chicken: Preheat the oven to 400 degrees F.
+1. For the chicken: Preheat the oven to 400F.
 2. Dry off the chicken well with paper towels. Put it in a roasting pan and
    massage with some of the oil, some of the butter and 2 tablespoons salt.
 3. Add the onion halves to the pan, drizzle in the remaining oil and
@@ -44,9 +43,9 @@ Directions
    the juice from the lemon halves over the chicken and into the pan, then
    place the lemon halves in the cavity of the chicken along with the thyme
    sprigs. Add the white wine to the pan.
-4. Put the chicken in the oven, reduce the temperature to 350 degrees F and
+4. Put the chicken in the oven, reduce the temperature to 350F and
    roast, basting halfway with the pan juices, until the thickest part of
-   the chicken measures 160 degrees F, about 1 hour. Allow to rest 20
+   the chicken measures 160F, about 1 hour. Allow to rest 20
    minutes before carving.
 5. For the shallot fried rice: Put the rice in a medium saucepan with 2
    cups water and bring to a simmer over medium-high heat. Cover the pan,
@@ -60,4 +59,3 @@ Directions
    remaining oil in the pan and cook, stirring occasionally, until browned.
 7. Mix together the rice, mushrooms and shallots in a serving bowl. Serve
    the chicken tossed with the arugula along with the shallot fried rice.
-

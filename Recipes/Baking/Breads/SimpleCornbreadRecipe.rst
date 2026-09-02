@@ -11,7 +11,7 @@ Ingredients
 -----------
 
 - 1 cup (120g) cornmeal
-- 1 cup (125g) all-purpose flour (spoon &amp; leveled)
+- 1 cup (125g) all-purpose flour (spoon & leveled)
 - 1 teaspoon baking powder
 - 1/2 teaspoon baking soda
 - 1/8 teaspoon salt

@@ -9,6 +9,7 @@ Source: `Tasty <https://tasty.co/recipe/homemade-soft-pretzels>`__
 
 Ingredients
 -----------
+
 - 1 1/2 cups water (360 grams), warm
 - 1 tablespoon salt
 - 1 tablespoon sugar
@@ -21,6 +22,7 @@ Ingredients
 
 Directions
 ----------
+
 1. In a bowl, mix water, salt, and sugar until combined. Add yeast, and let
    rest 5 minutes until yeast starts to foam.
 2. Add flour and 2 tablespoons of oil, and mix thoroughly until a dough forms.

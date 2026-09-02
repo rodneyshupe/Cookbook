@@ -1,23 +1,21 @@
 Garlic Smashed Potatoes
 =======================
 
-+------------------+-------------+--------------+-----------+--------+
-| Prep Time: 20    | Cook: 60    | Total: 80    | Servings: | Temp:  |
-| minutes          | minutes     | minutes      | 4-6       | 190F   |
-+------------------+-------------+--------------+-----------+--------+
++-----------------------+-----------------------+------------------------+---------------------+
+| Prep Time: 20 minutes | Cook Time: 60 minutes | Total Time: 80 minutes | Yield: 4-6 servings |
++-----------------------+-----------------------+------------------------+---------------------+
 
 Equipment
 ---------
-Sous-Vide (immersion circulator)
+Sous-Vide (immersion circulator) set to 190F
 
 Ingredients
 -----------
 
--  1 pound small Yukon gold or Red Bliss potatoes
--  5 cloves garlic, peeled and smashed
--  2 tablespoons extra virgin olive oil
--  2 teaspoons kosher salt
-
+- 1 pound small Yukon gold or Red Bliss potatoes
+- 5 cloves garlic, peeled and smashed
+- 2 tablespoons extra virgin olive oil
+- 2 teaspoons kosher salt
 
 Directions
 ----------

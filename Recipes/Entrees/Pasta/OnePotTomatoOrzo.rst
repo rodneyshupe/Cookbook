@@ -10,9 +10,10 @@ Source: `Mary Berg <https://more.ctv.ca/food/recipes/2024/the-good-stuff/one-pot
 Ingredients
 -----------
 - 2 tablespoons olive oil
-- 1 pint cherry tomatoes, halvedSalt and pepper
+- 1 pint cherry tomatoes, halved
+- Salt and pepper
 - 4 garlic cloves, thinly sliced
-- 1 can tomato paste
+- 1 (6 ounces / approximately 156 ml) can tomato paste
 - 1 teaspoon dry Italian seasoning
 - 1/2 teaspoon crushed red pepper flakes
 - 1 1/2 cups orzo

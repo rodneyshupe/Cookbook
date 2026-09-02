@@ -8,21 +8,21 @@ Crispy Salt and Pepper Shrimp
 Ingredients
 -----------
 
--  1 pound shell-on shrimp (31 to 40 per pound)
--  2 tablespoons Chinese rice wine or dry sherry
--  Kosher salt
--  2 1/2 teaspoons black peppercorns
--  2 teaspoons Sichuan peppercorns
--  2 teaspoons sugar
--  1/4 teaspoon cayenne pepper
--  4 cups vegetable oil
--  5 tablespoons cornstarch
--  2 jalapeno chiles, stemmed, seeded, and sliced into 1/8-inch-thick
+- 1 pound (450 g) shell-on shrimp (31 to 40 per pound)
+- 2 tablespoons Chinese rice wine or dry sherry
+- Kosher salt
+- 2 1/2 teaspoons black peppercorns
+- 2 teaspoons Sichuan peppercorns
+- 2 teaspoons sugar
+- 1/4 teaspoon cayenne pepper
+- 4 cups vegetable oil
+- 5 tablespoons cornstarch
+- 2 jalapeno chiles, stemmed, seeded, and sliced into 1/8-inch-thick
    rings
--  3 garlic cloves, minced
--  1 tablespoon grated fresh ginger
--  2 scallions, sliced thin on bias
--  1/4 head iceberg lettuce, shredded (1 1/2 cups)
+- 3 garlic cloves, minced
+- 1 tablespoon grated fresh ginger
+- 2 scallions, sliced thin on bias
+- 1/4 head iceberg lettuce, shredded (1 1/2 cups)
 
 Directions
 ----------

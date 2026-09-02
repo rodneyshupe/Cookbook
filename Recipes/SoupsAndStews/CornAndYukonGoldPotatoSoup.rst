@@ -22,7 +22,7 @@ Ingredients
 - 1/4 teaspoon fresh thyme leaves
 - 1 1/2 cups of heavy whipping cream
 - 2 threads of saffron
-- 3 oz butter
+- 3 ounces butter
 
 Directions
 ----------

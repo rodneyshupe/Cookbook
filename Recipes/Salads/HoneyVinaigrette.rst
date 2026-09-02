@@ -12,7 +12,7 @@ Ingredients
 - 1/4 cup olive oil
 - 1/2 cup vegetable oil or grapeseed oil
 - 2 tablespoons Honey
-- 1 teaspoons dijon mustard
+- 1 teaspoon dijon mustard
 - 1/2 teaspoon kosher salt
 
 Directions

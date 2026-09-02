@@ -16,10 +16,10 @@ Ingredients
 - 1 cup `Corn Stock <#corn-stock>`__ (can substitute vegetable stock)
 - 2 tablespoons corn puree
 - 1/4 cup corn kernels
-- 2oz parmesan grated
+- 2 ounces parmesan grated
 - 2 tablespoons butter
 - 1/2 to 1 tablespoon miso (the amount will be to taste)
-- 1 tablespoon crispy bacon (may substitute sauted mushrooms)
+- 1 tablespoon crispy bacon (may substitute sauteed mushrooms)
 
 Directions
 ----------

@@ -8,25 +8,24 @@ That F%cking Soup
 Great soup from my friend Dave. This was just an experiment that turned
 out great.
 
-
 Ingredients
 -----------
 
--  4 cups chicken stock
--  4 cups beef stock
--  1 cinnamon sticks
--  5 star anise
--  1 teaspoons cloves
--  1 teaspoon 5 spice,
--  2 bay leaves
--  3 medium cloves garlic
--  1 tablespoons ginger in chunks
--  2 teaspoons fish sauce
--  2 teaspoons soy sauce
--  1 teaspoon balsamic vinegar (optional)
--  1 teaspoon sesame oil
--  1 1/2 pounds chuck steak (sirloin steak tips or other tough cut of
-   beef) trimmed and cut into 1/2-inch pieces
+- 4 cups chicken stock
+- 4 cups beef stock
+- 1 cinnamon sticks
+- 5 star anise
+- 1 teaspoon cloves
+- 1 teaspoon 5 spice,
+- 2 bay leaves
+- 3 medium cloves garlic
+- 1 tablespoon ginger in chunks
+- 2 teaspoons fish sauce
+- 2 teaspoons soy sauce
+- 1 teaspoon balsamic vinegar (optional)
+- 1 teaspoon sesame oil
+- 1 1/2 pounds (680 g) chuck steak (sirloin steak tips or other tough cut of
+  beef) trimmed and cut into 1/2-inch pieces
 
 Directions
 ----------

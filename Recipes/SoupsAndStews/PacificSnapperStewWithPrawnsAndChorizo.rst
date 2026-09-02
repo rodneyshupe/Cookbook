@@ -1,5 +1,5 @@
 Pacific Snapper Stew with Prawns and Chorizo
-=============================================
+============================================
 
 +-----------------------+-----------------------+---------------------+
 | Prep Time: 25 minutes | Cook Time: 30 minutes | Yield: 4-6 servings |
@@ -9,7 +9,7 @@ Ingredients
 -----------
 
 - 1 tablespoon olive oil
-- 4 oz cured chorizo sausage, diced
+- 4 ounces cured chorizo sausage, diced
 - 1 yellow onion, diced
 - 2 cloves garlic, minced
 - 1 leek (white and light green parts only), sliced
@@ -19,10 +19,10 @@ Ingredients
 - 1 tablespoon of tomato paste
 - 1 cup dry white wine
 - 4 cups low-sodium chicken broth
-- 1 (14.5 oz) can diced tomatoes (with juices)
+- 1 (13.5 fluid ounces / 400 ml) can diced tomatoes (with juices)
 - 1 cup water
-- 1 pound Pacific snapper fillets, cut into bite-sized pieces (Can substitute cod or halibut)
-- 1 pound large prawns, peeled and deveined (deveining optional)
+- 1 pound (450 g) Pacific snapper fillets, cut into bite-sized pieces (Can substitute cod or halibut)
+- 1 pound (450 g) large prawns, peeled and deveined (deveining optional)
 - 1/2 cup chopped fresh parsley
 - Salt and freshly ground black pepper, to taste
 - crusty bread for serving.
@@ -35,7 +35,7 @@ Directions
    with a slotted spoon and set aside.
 2. Add onion, garlic, leek, and fennel to the pot. Saute for 5-7 minutes, or
    until softened and translucent. Stir in thyme saffron and tomato paste,
-   cook for an additional minute to release the flavors.
+   cook for an additional minute to release the flavours.
 3. Pour in white wine and cook for a few minutes, scraping up any browned
    bits from the bottom of the pot. Add chicken broth, diced tomatoes, and
    water. Bring to a simmer.

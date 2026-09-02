@@ -8,13 +8,13 @@ Sirloin Steak with Boursin Mashed Potatoes
 Ingredients
 -----------
 
--  2 pounds (900g) russet potatoes, peeled and sliced 3/4 inch thick
--  Salt and pepper
--  1 boneless shell sirloin steak, 1 to 1 1/4 inches thick, 2 pounds (900g), trimmed and halved widthwise
--  1 tablespoon vegetable oil
--  3/4 cup heavy cream
--  1/2 (5.2-ounce) package Boursin Garlic and Fine Herbs cheese
--  2 tablespoons minced fresh chives
+- 2 pounds (900g) russet potatoes, peeled and sliced 3/4 inch thick
+- Salt and pepper
+- 1 boneless shell sirloin steak, 1 to 1 1/4 inches thick, 2 pounds (900g), trimmed and halved widthwise
+- 1 tablespoon vegetable oil
+- 3/4 cup heavy cream
+- 1/2 (5.2-ounce / 147 g) package Boursin Garlic and Fine Herbs cheese
+- 2 tablespoons minced fresh chives
 
 Directions
 ----------
@@ -35,4 +35,3 @@ Directions
    and Boursin together in bowl until hot, about 1 minute, then gently
    fold into potatoes. Fold chives, 1/2 teaspoon salt, and 1/4 teaspoon
    pepper into potatoes. Serve with steak.
-

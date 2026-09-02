@@ -13,7 +13,7 @@ Salad
 
 - 1/3 cup spring salad mix
 - 1/2 avocado, cubed
-- 4 oz lobster, cooked meat diced ( you may substitute 100g cooked peeled shrimp)
+- 4 ounces lobster, cooked meat diced ( you may substitute 100g cooked peeled shrimp)
 - 1 stalk celery, finely chopped
 
 Lime and passion fruit Dressing
@@ -43,5 +43,6 @@ Salad
 
 Notes
 -----
+
 Carb count 4.7g. per serving
 

@@ -15,7 +15,6 @@ Ingredients
 - 1/4 teaspoon black pepper
 - 2 teaspoons fresh lemon juice
 
-
 Directions
 ----------
 

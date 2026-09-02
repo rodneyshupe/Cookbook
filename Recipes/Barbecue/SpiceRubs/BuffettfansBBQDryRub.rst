@@ -18,9 +18,9 @@ Ingredients
 - 2 tablespoons white sugar
 - 1 1/2 tablespoons kosher salt (more or less to taste)
 - 1 1/2 tablespoons celery seed
-- 1 tablespoons garlic powder
-- 1 tablespoons dry mustard
-- 1 tablespoons onion powder
+- 1 tablespoon garlic powder
+- 1 tablespoon dry mustard
+- 1 tablespoon onion powder
 - 3/4 teaspoons cumin
 - 1/2 teaspoons cayenne pepper (More or less to taste)
 

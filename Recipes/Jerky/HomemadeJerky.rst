@@ -12,9 +12,9 @@ Dehydrator
 Ingredients
 -----------
 
--  2 1/4 lbs (1kg) Beef, flank, top round or any other cheaper non-fatty
-   type works best
--  Marinade
+- 2 1/4 pounds (1kg) Beef, flank, top round or any other cheaper non-fatty
+  type works best
+- Marinade
 
 Directions
 ----------
@@ -42,7 +42,7 @@ Dehydration
    the vent is fully open and no water in the drip bowl. If using the
    oven leave the door open slightly using a wooden spoon to allow
    moisture to escape.
-3. If smoke is required use smoker as above but use hickory flavor
+3. If smoke is required use smoker as above but use hickory flavour
    bisquettes for 2-3 hours and then just heat for remaining time.
 4. Dehydration can take approximately 6 to 8 hours. But rotate the racks
    every hour.

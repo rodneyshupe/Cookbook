@@ -17,7 +17,7 @@ Ingredients
 - 1 teaspoon Sriracha or other hot sauce
 - 1 teaspoon toasted sesame oil
 - Pinch of crushed red pepper (optional)
-- 1 5oz can ounces no-salt-added water-packed tuna, drained
+- 1 (5 ounce / 148 ml) can no-salt-added water-packed tuna, drained
 - 2 toasted whole-wheat English muffin
 
 Directions

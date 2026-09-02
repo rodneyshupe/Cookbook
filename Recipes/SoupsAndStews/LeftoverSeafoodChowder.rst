@@ -5,21 +5,20 @@ Leftover Seafood Chowder
 | Prep Time: 10 minutes | Cook Time: 30 minutes | Yield: 4 servings |
 +-----------------------+-----------------------+-------------------+
 
-
 Ingredients
 -----------
 
--  4 rashers of thick cut bacon, cut into 1/4 inch pieces
--  1 medium onion, minced
--  2 cloves garlic
--  1 1/2 tablespoons flour
--  2 cups clam/seafood juices
--  1 cup vegetable broth (or water)
--  1/2 pound potatoes (can be left overs)
--  1 medium ears corn cooked
--  1 cup heavy cream
--  1 1/2 pounds left over mussels, clams, prawns, and/or crab shells
-   removed
+- 4 rashers of thick cut bacon, cut into 1/4 inch pieces
+- 1 medium onion, minced
+- 2 cloves garlic
+- 1 1/2 tablespoons flour
+- 2 cups clam/seafood juices
+- 1 cup vegetable broth (or water)
+- 1/2 pound potatoes (can be left overs)
+- 1 medium ears corn cooked
+- 1 cup heavy cream
+- 1 1/2 pounds (680 g) left over mussels, clams, prawns, and/or crab shells
+  removed
 
 Directions
 ----------

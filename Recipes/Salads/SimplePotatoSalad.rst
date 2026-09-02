@@ -7,6 +7,7 @@ Simple Potato Salad
 
 Ingredients
 -----------
+
 - 1.5 pounds baby or pee wee or small potatoes
 - 3 celery stalks, diced
 - 1/4 cup chopped curly parsley
@@ -20,9 +21,10 @@ Ingredients
 
 Directions
 ----------
-1. Cook potatoes in boiling water until soft enough for a fork to pierce 
+
+1. Cook potatoes in boiling water until soft enough for a fork to pierce
    easily. Drain, run cool water over them, and when cool enough to handle.
-   Halve the smaller ones and 1/4 the larger ones, 
+   Halve the smaller ones and 1/4 the larger ones,
 2. Put potatoes pieces in a large bowl and add celery, parsley, dill
    and bacon.
 3. Combine honey, mustard, garlic, lemon juice, salt & pepper to taste. Mix

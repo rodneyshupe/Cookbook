@@ -5,8 +5,7 @@ Vegetable Fajitas
 | Prep Time: 5 minutes | Total Time: 15 minutes | Yield: 4 |
 +----------------------+------------------------+----------+
 
-Source: `Same the Cooking Guy <https://www.thecookingguy.com/cookbook/vegetable-fajitas>`__
-
+Source: `Sam the Cooking Guy <https://www.thecookingguy.com/cookbook/vegetable-fajitas>`__
 
 Ingredients
 -----------
@@ -18,7 +17,7 @@ Ingredients
 - 1/2 teaspoon each cumin, garlic powder, oregano & cayenne
 - Sour cream
 - Monterey Jack cheese, shredded
-- 2 Tablespoons olive oil
+- 2 tablespoons olive oil
 - Tortillas
 
 Directions
@@ -34,4 +33,3 @@ Directions
 6. Turn down heat, and warm your tortillas
 7. Place a little sour cream, some vegetables and a little cheese in each
    cooked tortilla and roll up
-

@@ -11,11 +11,11 @@ less of the chili powder or by using hot or mild.
 Ingredients
 -----------
 
--  1/3 cup brown sugar
--  1/3 cup salt (coarse salt works best)
--  1/3 cup paprika
--  1/3 cup chili powder
--  1/3 cup ground black pepper
+- 1/3 cup brown sugar
+- 1/3 cup salt (coarse salt works best)
+- 1/3 cup paprika
+- 1/3 cup chili powder
+- 1/3 cup ground black pepper
 
 Directions
 ----------

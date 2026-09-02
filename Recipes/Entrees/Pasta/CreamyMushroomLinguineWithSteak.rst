@@ -1,9 +1,9 @@
 Creamy Mushroom Linguine with Steak
 ===================================
 
-+-----------------+-------------------+
-| Total Time: TBD | Yield: 4 servings |
-+-----------------+-------------------+
++-------------------+
+| Yield: 4 servings |
++-------------------+
 
 Source: `Clodagh McKenna <https://www.clodaghmckenna.com/blog/steak-wih-creamy-mushroom-linguine>`__
 
@@ -15,7 +15,7 @@ favourite!
 Ingredients
 -----------
 
-- 2 stiploin steaks (10oz/300g each), cooked to medium rare
+- 2 stiploin steaks (10 ounces/300g each), cooked to medium rare
 - 400 grams of linguine
 - 1 tablespoon olive oil
 - 1 onion, diced
@@ -55,9 +55,8 @@ Directions
 Variations
 ----------
 
-* Prawns: Substitute 1lb prawns (peeled and deveined) for the steak, add
+- Prawns: Substitute 1 pound prawns (peeled and deveined) for the steak, add
   them to mushroom mixture with cream to cook.
-* Ham/Capicola: Replace mushrooms with 1/2lb ham or capicola, cubed into
+- Ham/Capicola: Replace mushrooms with 1/2 pound ham or capicola, cubed into
   1/2 pieces. Remove steak, but add 1/2 cup peas (thawed from frozen) to
   sauce right before adding pasta.
-

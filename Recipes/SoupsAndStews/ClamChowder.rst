@@ -1,9 +1,9 @@
 New England Clam Chowder
 ========================
 
-+-----------------+---------------------+
-| Total Time: TBD | Yield: 3-4 servings |
-+-----------------+---------------------+
++---------------------+
+| Yield: 3-4 servings |
++---------------------+
 
 Source: `Bon Appetit (Mary-Frances Heck) <https://www.bonappetit.com/recipe/new-england-clam-chowder>`__
 
@@ -16,7 +16,7 @@ Ingredients
 -----------
 
 - 8 pounds cherrystone clams, scrubbed
-- 1 tbsp unsalted butter
+- 1 tablespoon unsalted butter
 - 4 ounces bacon, cut into 1/2-inch pieces
 - 1 celery stalks, minced
 - 1/2 large onion, minced
@@ -24,8 +24,8 @@ Ingredients
 - 1 1/4 pounds Yukon Gold potatoes, peeled, cut into 1/2-inch pieces
 - 1/2 tablespoon chopped fresh thyme
 - 1 bay leaf
-- 1 tablespoons cornstarch
-- 1 cups heavy cream
+- 1 tablespoon cornstarch
+- 1 cup heavy cream
 - Kosher salt, freshly ground pepper
 - Chopped fresh chives
 - Oyster crackers or Vermont Common Crackers

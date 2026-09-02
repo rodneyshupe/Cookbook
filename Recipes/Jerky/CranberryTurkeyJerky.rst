@@ -1,9 +1,9 @@
 Cranberry Turkey Jerky
 ======================
 
-+-----------------------+---------------------------+----------------------+---------------------------+
-| Prep Time: 20 minutes | Marinate Time: 8-24 hours | Drying Time: 4 hours | Yield: about 1/3 lb jerky |
-+-----------------------+---------------------------+----------------------+---------------------------+
++-----------------------+---------------------------+----------------------+------------------------------+
+| Prep Time: 20 minutes | Marinate Time: 8-24 hours | Drying Time: 4 hours | Yield: about 1/3 pound jerky |
++-----------------------+---------------------------+----------------------+------------------------------+
 
 Equipment
 ---------
@@ -12,14 +12,14 @@ Dehydrator
 Ingredients
 -----------
 
--  1 lb. Turkey Breast
--  1 cup cranberry sauce
--  1/4 cup orange juice
--  10 juniper berries (crushed into very small pieces)
--  1/4 cup honey
--  1 tablespoons brown sugar
--  1/2 teaspoons allspice
--  1/4 teaspoons curing salt (prague powder #1) (optional)
+- 1 pound (450 g) Turkey Breast
+- 1 cup cranberry sauce
+- 1/4 cup orange juice
+- 10 juniper berries (crushed into very small pieces)
+- 1/4 cup honey
+- 1 tablespoon brown sugar
+- 1/2 teaspoons allspice
+- 1/4 teaspoons curing salt (prague powder #1) (optional)
 
 Directions
 ----------
@@ -36,7 +36,7 @@ Directions
 6. Place turkey strips on a baking rack on top of a aluminum foil lined
    baking sheet. Bake in the oven for 20 minutes or until the strips
    reach an internal temperature of 165F.
-7. Remove from the oven and dry with you favorite jerky making method.
+7. Remove from the oven and dry with you favourite jerky making method.
    Dehydrate for 4 hours at 145F.
 8. The jerky is finished when it bends and cracks, but does not break in
    half.

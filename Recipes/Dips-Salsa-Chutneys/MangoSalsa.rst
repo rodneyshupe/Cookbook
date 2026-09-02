@@ -8,13 +8,13 @@ Mango Salsa
 Ingredients
 -----------
 
--  2 ripe mangos
--  1/4 - 1/2 red onion
--  1-2 jalapeno or serrano peppers
--  fresh lemon or lime juice
--  salt
--  fresh cilantro to taste
--  cayenne pepper to taste (optional but awesome)
+- 2 ripe mangos
+- 1/4 - 1/2 red onion
+- 1-2 jalapeno or serrano peppers
+- fresh lemon or lime juice
+- salt
+- fresh cilantro to taste
+- cayenne pepper to taste (optional but awesome)
 
 Directions
 ----------

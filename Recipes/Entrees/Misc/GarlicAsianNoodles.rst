@@ -16,22 +16,22 @@ Electric Pressure Cooker
 Ingredients
 -----------
 
-- 2 tablespoons peanut oil (or vegetable, corn, or canola oil) )
+- 2 tablespoons peanut oil (or vegetable, corn, or canola oil)
 - 2 tablespoons sesame oil (any kind)
-- 8 - 12 oz shiitake or baby bella mushrooms, sliced
+- 8 - 12 ounces shiitake or baby bella mushrooms, sliced
 - 1 large bell pepper, sliced into matchsticks
 - 5 cloves garlic, minced or pressed
 - 1 1/4 cups garlic or chicken broth (I used 2 1/2 teaspoons of Garlic Better Than Bouillon + 2 cups water)
-- 8 oz spaghetti
-- 1 tablespoons (1/4 stick) salted butter
-- 1 teaspoons dried tarragon
+- 8 ounces spaghetti
+- 1 tablespoon (1/4 stick) salted butter
+- 1 teaspoon dried tarragon
 - 2 tablespoons oyster sauce
 - 2 tablespoons hoisin sauce
-- 1 1/2 teaspoon low-sodium soy sauce
-- 1 1/2 teaspoon ginger, minced or graded
-- 1 teaspoons chili-garlic sauce or sriracha (optional, for spice)
+- 1 1/2 teaspoons low-sodium soy sauce
+- 1 1/2 teaspoons ginger, minced or grated
+- 1 teaspoon chili-garlic sauce or sriracha (optional, for spice)
 - 4 green onions, sliced with some reserved for garnish
-- 1 tablespoons sesame seeds, with some reserved for garnish
+- 1 tablespoon sesame seeds, with some reserved for garnish
 
 Directions
 ----------

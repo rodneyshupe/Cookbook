@@ -8,20 +8,20 @@ Shrimp Scampi
 Ingredients
 -----------
 
--  3 tablespoons salt
--  2 tablespoons sugar
--  1 1/2 pounds shell-on jumbo shrimp (16 to 20 per pound), peeled,
+- 3 tablespoons salt
+- 2 tablespoons sugar
+- 1 1/2 pounds (680 g) shell-on jumbo shrimp (16 to 20 per pound), peeled,
    deveined, and tails removed, shells reserved
--  2 tablespoons extra-virgin olive oil
--  1 cup dry white wine
--  4 sprigs fresh thyme
--  3 tablespoons lemon juice, plus lemon wedges for serving
--  1 teaspoon cornstarch
--  8 garlic cloves, sliced thin
--  1/2 teaspoon red pepper flakes
--  1/4 teaspoon pepper
--  4 tablespoons unsalted butter, cut into 1/2-inch pieces
--  1 tablespoon chopped fresh flat leaf parsley
+- 2 tablespoons extra-virgin olive oil
+- 1 cup dry white wine
+- 4 sprigs fresh thyme
+- 3 tablespoons lemon juice, plus lemon wedges for serving
+- 1 teaspoon cornstarch
+- 8 garlic cloves, sliced thin
+- 1/2 teaspoon red pepper flakes
+- 1/4 teaspoon pepper
+- 4 tablespoons unsalted butter, cut into 1/2-inch pieces
+- 1 tablespoon chopped fresh flat leaf parsley
 
 Directions
 ----------

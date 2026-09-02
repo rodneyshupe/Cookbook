@@ -12,7 +12,7 @@ Slow Cooker
 Ingredients
 -----------
 
-- 2 lbs top sirloin steak cut into 1/4 inch thick slices 2 inches long
+- 2 pounds (900 g) top sirloin steak cut into 1/4 inch thick slices 2 inches long
 - 1 tablespoon cornstarch
 - 1/2 cup water
 - 2 teaspoons beter than bulion beef
@@ -23,9 +23,8 @@ Ingredients
 - 1/4 teaspoon pepper
 - 2 teaspoons brown sugar
 - 1 medium onion, cut unto 1 inch square pieces
-- 1 green pepper, cut unto 1 inch square pieces 
+- 1 green pepper, cut unto 1 inch square pieces
 - 1 red pepper, cut unto 1 inch square pieces
-
 
 - 1 1/2 tablespoons vegetable oil
 - 2 cloves garlic, minced
@@ -46,4 +45,3 @@ Directions
    cooked and tender. With 1 1/2 hours remaining add in sliced onion and
    peppers.
 5. Serve over white rice.
-

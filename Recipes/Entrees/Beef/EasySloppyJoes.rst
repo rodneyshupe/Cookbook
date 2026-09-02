@@ -7,7 +7,8 @@ Easy Sloppy Joes
 
 Ingredients
 -----------
-- 1 pound lean ground beef
+
+- 1 pound (450 g) lean ground beef
 - 1/4 cup chopped onion
 - 1/4 cup chopped green bell pepper
 - 3/4 cup ketchup, or to taste
@@ -19,6 +20,7 @@ Ingredients
 
 Directions
 ----------
+
 1. Heat a large skillet over medium heat. Cook and stir lean ground beef in
    the hot skillet until some of the fat starts to render, 3 to 4 minutes.
    Add onion and bell pepper; continue to cook until vegetables have softened

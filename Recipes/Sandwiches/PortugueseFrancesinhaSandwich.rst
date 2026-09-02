@@ -5,7 +5,6 @@ Portuguese Francesinha Sandwich
 | Prep Time: 5 minutes | Total Time: 30 minutes | Yield: 2 people |
 +----------------------+------------------------+-----------------+
 
-
 Ingredients
 -----------
 
@@ -14,14 +13,14 @@ Sauce
 
 - 1 large blonde beer
 - 1 cup canned tomato soup concentrate
-- 2 tbsp port wine
+- 2 tablespoons port wine
 - 1/2 cup beef broth
-- 1 tbsp salted butter
+- 1 tablespoon salted butter
 - 1 onion chopped
 - 1 clove garlic minced
-- 1 tbsp cornstarch
-- 1/2 tbsp olive oil
-- 1 tbsp piripiri sauce (Portuguese chili)
+- 1 tablespoon cornstarch
+- 1/2 tablespoon olive oil
+- 1 tablespoon piripiri sauce (Portuguese chili)
 
 Francesinhas
 ^^^^^^^^^^^^
@@ -29,7 +28,7 @@ Francesinhas
 - 2 slices of white bread
 - 4 slices of ham
 - 8 slices of edem cheese
-- 5-6 oz beef striploin
+- 5-6 ounces (140-170 g) beef striploin
 - 4-6 linguicas (Portuguese sausage) (can substitute chorizo)
 - kosher salt
 - black pepper
@@ -51,7 +50,7 @@ Sauce
 Francesinhas
 ^^^^^^^^^^^^
 
-1. Preheat the oven to 180 C (350 F)
+1. Preheat the oven to 180 C (350F)
 2. Cook the beef chopped in small strings. Season with salt and black pepper.
 3. Cook the linguicas sliced in half lengthwise.
 4. Fill the bread with the sausages, the beef and the ham roughly chopped.

@@ -11,7 +11,7 @@ Ingredients
 Caramel sauce
 ^^^^^^^^^^^^^
 
-- 5 1/4 oz butter, (unsalted)
+- 5 1/4 ounces butter, (unsalted)
 - 1 1/4 cup brown sugar
 - 1/3 cup golden syrup
 - 3/4 cup heavy cream
@@ -24,7 +24,7 @@ Caramel sauce
 Directions
 ----------
 
-1. Prepare pastry creamas per recipe. Whip cream and icing sugar together until stiff peaks. Fold in whipped cream gently.
+1. Prepare pastry cream as per recipe. Whip cream and icing sugar together until stiff peaks. Fold in whipped cream gently.
 2. Fold in mango to finished pastry cream, cover and refrigerate.
 3. Meanwhile prepare the caramel sauce; in a pot add all the ingredients. Stir over low- medium heat until the sugar dissolves. Simmer 3 minutes. Chill in fridge for 30 minutes and fold into mousse.
 4. Pipe into chocolate baskets with round piping tube large enough not to catch the pieces of mango

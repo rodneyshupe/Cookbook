@@ -8,12 +8,12 @@ Green Beans with Sauteed Shallots and Vermouth
 Ingredients
 -----------
 
--  1 teaspoon table salt
--  1 pound green beans, stem ends snapped off
--  4 tablespoons unsalted butter
--  4 large shallots, sliced thin (about 2 cups)
--  Salt and ground black pepper
--  2 tablespoons dry vermouth
+- 1 teaspoon table salt
+- 1 pound green beans, stem ends snapped off
+- 4 tablespoons unsalted butter
+- 4 large shallots, sliced thin (about 2 cups)
+- Salt and ground black pepper
+- 2 tablespoons dry vermouth
 
 Directions
 ----------

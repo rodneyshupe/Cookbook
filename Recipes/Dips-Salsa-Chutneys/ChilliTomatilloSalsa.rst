@@ -11,7 +11,7 @@ Ingredients
 - 1 tablespoon vegetable oil
 - 2 Dried Kashmiri red chillies
 - 2 Dried Bedgi red chillies
-- 1/2 lb tomatillos, washed
+- 1/2 pound tomatillos, washed
 - 3 cloves garlic
 - 1 tablespoon pepitas or pumpkin seeds
 - 1/2 teaspoon cumin seeds
@@ -28,7 +28,7 @@ Directions
    the cumin seeds, pumpkin seeds and finally the tomatillos. Cook the
    tomatillos until they are squishy soft and start to fall apart when
    you stir them around. At this stage, tip the contents of the frying
-   pan into a blender and whizz with 2 tbsp vinegar and salt. Taste and
+   pan into a blender and whizz with 2 tablespoons vinegar and salt. Taste and
    adjust the salt as per your liking.
 
 Notes

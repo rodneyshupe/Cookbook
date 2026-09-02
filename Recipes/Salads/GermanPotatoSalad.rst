@@ -7,24 +7,24 @@ German Potato Salad
 
 Source: `Jaclyn <https://www.cookingclassy.com/german-potato-salad/>`__
 
-Made with creamy red or yellow potatoes, richly flavorful bacon, parsley
+Made with creamy red or yellow potatoes, richly flavourful bacon, parsley
 that's brimming with freshness, vibrant red onions and a simple, yet
 perfectly tasty dressing.
 
 Ingredients
 -----------
 
-- 2 lbs red potatoes (or Yukon gold potatoes) each about the same size for even cooking
+- 2 pounds red potatoes (or Yukon gold potatoes) each about the same size for even cooking
 - 6 slices bacon, (chopped)
 - 2 cups chopped red onion
-- 2 tsp minced garlic
+- 2 teaspoons minced garlic
 - 1/2 cup chicken broth
 - 1/4 cup apple cider vinegar
-- 1 Tbsp dijon mustard
-- 2 tsp granulated sugar
+- 1 tablespoon dijon mustard
+- 2 teaspoons granulated sugar
 - Salt and pepper to taste
 - 1/2 cup chopped fresh parsley
-- 2 Tbsp olive oil
+- 2 tablespoons olive oil
 
 Directions
 ----------

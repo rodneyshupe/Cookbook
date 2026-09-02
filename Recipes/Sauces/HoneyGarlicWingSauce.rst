@@ -9,7 +9,7 @@ Ingredients
 -----------
 
 - 2 tablespoons honey
-- 1 tablespoons soy sauce
+- 1 tablespoon soy sauce
 - 1 large garlic clove crushed
 - 3/4 teaspoon ginger finely diced
 - 1/8 teaspoon chili flakes

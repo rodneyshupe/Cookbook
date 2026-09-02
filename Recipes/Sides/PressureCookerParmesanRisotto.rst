@@ -5,10 +5,11 @@ Pressure-Cooker Parmesan Risotto
 | Prep Time: 10 minutes | Cook Time: 25 minutes | Yield: 4-6 servings |
 +-----------------------+-----------------------+---------------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/7535-pressure-cooker-parmesan-risotto>`__
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/7535-pressure-cooker-parmesan-risotto>`__
 
 Ingredients
 -----------
+
 - 2 tablespoons unsalted butter
 - 1 small onion, chopped fine
 - 3 garlic cloves, minced
@@ -20,7 +21,8 @@ Ingredients
 
 Directions
 ----------
-1. BUILD FLAVOR: Melt butter in pressure-cooker pot over medium-high heat.
+
+1. BUILD FLAVOUR: Melt butter in pressure-cooker pot over medium-high heat.
    Add onion and cook until softened, about 5 minutes. Stir in garlic and
    cook until fragrant, about 30 seconds. Stir in rice and toast lightly,
    about 3 minutes. Stir in wine and cook until almost evaporated, about
@@ -34,7 +36,7 @@ Directions
    then carefully remove lid, allowing steam to escape away from you.
 4. BEFORE SERVING: Continue to cook risotto over medium heat, stirring
    constantly, until rice is tender and liquid has thickened, about
-   6 minutes. Stir in Parmesan and season with salt and pep- per to taste.
+   6 minutes. Stir in Parmesan and season with salt and pepper to taste.
    Before serving, add remaining 3/4 cup broth as needed to loosen risotto
    consistency.
 

@@ -7,14 +7,13 @@ Tzatziki Sauce
 
 Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/3853-tzatziki-sauce>`__
 
-
 Ingredients
 -----------
 
 - 1/2 medium cucumber (or 1/3 english cucumber), peeled, halved lengthwise, and seeded
 - 1/2 cup plain whole-milk yogurt, Greek or Greek-style (see note)
-- 1 tablespoons extra-virgin olive oil
-- 1 tablespoons finely chopped fresh mint leaves and/or dill leaves
+- 1 tablespoon extra-virgin olive oil
+- 1 tablespoon finely chopped fresh mint leaves and/or dill leaves
 - 1 small garlic clove, minced or pressed through a garlic press (about 1/2 teaspoon)
 
 Directions

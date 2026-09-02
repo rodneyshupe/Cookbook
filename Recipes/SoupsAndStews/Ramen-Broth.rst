@@ -7,13 +7,14 @@ Pressure Cooker Ramen Recipe
 
 Equipment
 ---------
+
 Electric Pressure Cooker
 
 Ingredients
 -----------
 
-- 2 1/2 pounds pork spareribs (cut into 2" pieces)
-- 1 1/2 pounds chicken wings
+- 2 1/2 pounds (1.15 kg) pork spareribs (cut into 2" pieces)
+- 1 1/2 pounds (680 g) chicken wings
 - 2 tablespoons cooking oil
 - 2 large onions (peeled, thick sliced)
 - 3 cloves garlic (smashed)

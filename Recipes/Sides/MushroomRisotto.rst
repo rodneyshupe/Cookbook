@@ -5,10 +5,11 @@ Mushroom Risotto
 | Prep Time: 20 minutes | Cook Time: 45 minutes | Yield: 6 servings |
 +-----------------------+-----------------------+-------------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/922-mushroom-risotto>`__
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/922-mushroom-risotto>`__
 
 Ingredients
 -----------
+
 - 2 bay leaves
 - 6 sprigs fresh thyme
 - 4 sprigs fresh parsley leaves
@@ -28,6 +29,7 @@ Ingredients
 
 Directions
 ----------
+
 1. Tie together bay leaves, thyme sprigs, and parsley sprigs with kitchen
    twine. Bring bundled herbs, porcini mushrooms, chicken broth, soy sauce,
    and 3 1/2 cups water to boil in medium saucepan over medium-high heat;
@@ -36,7 +38,7 @@ Directions
    strain broth through fine-mesh strainer set over medium bowl (you should
    have about 6 1/2 cups strained liquid); return liquid to saucepan and
    keep warm over low heat. Finely mince porcini and set aside.
-2. Adjust oven rack to middle position and heat oven to 200 degrees. Heat
+2. Adjust oven rack to middle position and heat oven to 200F. Heat
    2 tablespoons butter in 12-inch nonstick skillet over medium-high heat.
    When foaming subsides, add cremini mushrooms, 1 cup onions, and
    1/2 teaspoon salt; cook, stirring occasionally, until moisture released

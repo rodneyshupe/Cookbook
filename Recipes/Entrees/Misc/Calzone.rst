@@ -8,11 +8,11 @@ Calzone
 Ingredients
 -----------
 
-- 1 lb `pizza dough <#pizza-dough>`__
+- 1 pound `pizza dough <#pizza-dough>`__
 - 1/2 cup pizza sauce
 - 1/2 cup pepperoni
 - 1/4 cup salami
-- 1 cups shredded mozzarella
+- 1 cup shredded mozzarella
 - 1/2 cup ricotta cheese
 - 1 tablespoon oil
 - 1/4 cup parmesan cheese
@@ -22,10 +22,10 @@ Ingredients
 Directions
 ----------
 
-1. Preheat the oven to 475 F. Line the baking sheet with parchment paper
+1. Preheat the oven to 475F. Line the baking sheet with parchment paper
    or spray it with oil.
 2. Divide the dough into 4 equally sized pieces. Roll each piece into a
-   1/4in thick circle.
+   1/4 inch thick circle.
 3. Place the filling on half of each circle (pizza sauce, ricotta,
    pepperoni, salami and shredded mozzarella). Make sure to leave the edges
    clean to allow for sealing the calzone. Combine egg and water and brush

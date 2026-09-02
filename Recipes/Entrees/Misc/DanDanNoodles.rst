@@ -10,7 +10,7 @@ Source: `The Instant Pot Bible by Bruce Weinstein <https://recipes.instantpot.co
 Hot, spicy, and satisfying, this streamlined version of the classic Sichuan
 dish will take the chill off any evening. It's traditionally made with
 fresh noodles; but by cooking dried spaghetti right in the sauce, the
-flavors meld into some cross between a pasta casserole and a Chinese
+flavours meld into some cross between a pasta casserole and a Chinese
 classic. Have lots of beer on hand!
 
 Equipment
@@ -20,10 +20,10 @@ Electric Pressure Cooker
 Ingredients
 -----------
 
-- 2 tablespoons peanut oil (or vegetable, corn, or canola oil) )
-- 1 lb lean ground pork
+- 2 tablespoons peanut oil (or vegetable, corn, or canola oil)
+- 1 pound (450 g) lean ground pork
 - 6 medium scallions
-- 1 1/2 tbsp Sriracha
+- 1 1/2 tablespoons Sriracha
 - 3 medium garlic cloves, minced (about 1 tablespoon)
 - 1 tablespoon peeled fresh ginger (minced)
 - 1/4 cup tahini

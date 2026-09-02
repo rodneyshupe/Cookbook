@@ -1,4 +1,4 @@
-Quick pickled radish and pear
+Quick Pickled Radish and Pear
 =============================
 
 +-----------------------+-----------------------+-------------------+
@@ -8,14 +8,13 @@ Quick pickled radish and pear
 Ingredients
 -----------
 
--  1 cup rice wine vinegar
--  1/2 cup sugar
--  1 tablespooon kosher salt
--  2 Korean radishes (or 1 daikon), peeled and sliced into thin rounds
-   about 1/16-inch thick (use a mandoline if you have one)
--  2 Asian pears, peeled, cored, quartered, and sliced into thin rounds
-   about 1/16-inch thick (use a mandoline if you have one)
-
+- 1 cup rice wine vinegar
+- 1/2 cup sugar
+- 1 tablespoon kosher salt
+- 2 Korean radishes (or 1 daikon), peeled and sliced into thin rounds
+  about 1/16-inch thick (use a mandoline if you have one)
+- 2 Asian pears, peeled, cored, quartered, and sliced into thin rounds
+  about 1/16-inch thick (use a mandoline if you have one)
 
 Directions
 ----------

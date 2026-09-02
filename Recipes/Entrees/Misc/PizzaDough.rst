@@ -8,13 +8,13 @@ Pizza Dough
 Ingredients
 -----------
 
--  2 cups (11 ounce or 311g) all purpose or bread flour, plus extra for work surface
--  1 teaspoon instant or rapid rise yeast
--  1 teaspoon kosher salt
--  1 tablespoon garlic powder (option)
--  1 teaspoon sugar (optional)
--  2 tablespoons olive oil, plus extra for bowl
--  1 cup warm water
+- 2 cups (11 ounce or 311g) all purpose or bread flour, plus extra for work surface
+- 1 teaspoon instant or rapid rise yeast
+- 1 teaspoon kosher salt
+- 1 tablespoon garlic powder (option)
+- 1 teaspoon sugar (optional)
+- 2 tablespoons olive oil, plus extra for bowl
+- 1 cup warm water
 
 Directions
 ----------
@@ -39,10 +39,10 @@ Directions
 Notes
 -----
 
-* FREEZE DOUGH: Divide dough in half and shape half or halves into a ball(s). 
+* FREEZE DOUGH: Divide dough in half and shape half or halves into a ball(s).
   Lightly coat all sides of the dough ball(s) with nonstick spray or olive
   oil. Place the dough ball(s) in a zipped-top bag and seal tightly,
   squeezing out all the air. Freeze for up to 3 months.
   To thaw, place the frozen pizza dough in the refrigerator for about
   8 hours or overnight. When ready to make use, remove the dough from the
-  refrigerator and allow to rest for 30 minutes on the counter. 
+  refrigerator and allow to rest for 30 minutes on the counter.

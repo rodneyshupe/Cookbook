@@ -8,12 +8,12 @@ Teriyaki Beef Jerky
 Ingredients
 -----------
 
--  3/4 cups `teriyaki sauce <#teriyaki-sauce>`__
--  3/8 cups brown sugar
--  3/4 tbs hickory flavor liquid smoke
--  1/2 tbs onion powder
--  1/2 tbs garlic powder
--  1/2 tbs pepper (optional)
+- 3/4 cups `teriyaki sauce <#teriyaki-sauce>`__
+- 3/8 cups brown sugar
+- 3/4 tablespoon hickory flavour liquid smoke
+- 1/2 tablespoon onion powder
+- 1/2 tablespoon garlic powder
+- 1/2 tablespoon pepper (optional)
 
 Directions
 ----------

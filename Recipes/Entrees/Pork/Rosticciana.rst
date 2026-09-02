@@ -5,20 +5,22 @@ Rosticciana (Tuscan Grilled Pork Ribs)
 | Prep Time: 10 + 1 hour | Cook Time: 30 minutes | Yield: 4-6 |
 +------------------------+-----------------------+------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/11517-tuscan-grilled-pork-ribs-rosticciana#>`__
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/11517-tuscan-grilled-pork-ribs-rosticciana#>`__
 
 Ingredients
 -----------
 
 Ribs
 ^^^^
-- 2 (2 1/2 to 3 pound) racks St. Louis-style spareribs, trimmed, membrane removed, and each rack cut into 2-rib sections
+
+- 2 (2 1/2 to 3 pound / 1.1 to 1.35 kg) racks St. Louis-style spareribs, trimmed, membrane removed, and each rack cut into 2-rib sections
 - 2 teaspoons kosher salt
 - 1 tablespoon vegetable oil
 - 1 teaspoon pepper
 
 Vinaigrette
 ^^^^^^^^^^^
+
 - 1/4 cup extra-virgin olive oil
 - 2 garlic cloves, minced
 - 1 teaspoon minced fresh rosemary
@@ -42,7 +44,6 @@ Directions
    side is lightly browned, 4 to 6 minutes, moving ribs as needed to ensure
    even browning. Flip again and cook, covered, until meat side is deeply
    browned with slight charring and thick ends of ribs register
-   175 to 185 degrees, 4 to 6 minutes.
+   175 to 185F, 4 to 6 minutes.
 5. Transfer ribs to cutting board and let rest for 10 minutes. Cut ribs
    between bones and serve, passing vinaigrette separately.
-

@@ -8,11 +8,11 @@ Barbecue Ribs
 Ingredients
 -----------
 
--  2 racks pork ribs (I prefer to use side ribs)
--  1 cup `Basic Barbecue Rub <#basic-barbecue-rub>`__
--  1 cup `Kansas City Style Sweet and Smoky Barbecue Sauce <#kansas-city-style-sweet-and-smoky-barbecue-sauce>`__
--  2 cups wood chips, preferably apple wood, soaked in 2 cups apple
-   cider for 1 hour then drained
+- 2 racks pork ribs (I prefer to use side ribs)
+- 1 cup `Basic Barbecue Rub <#basic-barbecue-rub>`__
+- 1 cup `Kansas City Style Sweet and Smoky Barbecue Sauce <#kansas-city-style-sweet-and-smoky-barbecue-sauce>`__
+- 2 cups wood chips, preferably apple wood, soaked in 2 cups apple
+  cider for 1 hour then drained
 
 Directions
 ----------
@@ -35,4 +35,3 @@ Directions
    have pulled back from the ends of the bones.
 7. Transfer the ribs to a platter. Sprinkle with the remaining rub and
    serve with the other half cup of barbecue sauce.
-

@@ -5,7 +5,7 @@ Skillet Apple Crisp
 | Prep Time: 20 minutes | Cook Time: 40 minutes | Yield: 6 to 8 servings |
 +-----------------------+-----------------------+------------------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/6146-skillet-apple-crisp>`__
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/6146-skillet-apple-crisp>`__
 
 Ingredients
 -----------
@@ -13,35 +13,35 @@ Ingredients
 Topping
 ^^^^^^^
 
--  3/4 cup (3 3/4 ounces) unbleached all-purpose flour
--  3/4 cup pecans, chopped fine
--  3/4 cup old-fashioned rolled oats (see note)
--  1/2 cup (3 1/2 ounces) packed light brown sugar
--  1/4 cup (1 3/4 ounces) granulated sugar
--  1/2 teaspoon ground cinnamon
--  1/2 teaspoon table salt
--  8 tablespoons (1 stick) unsalted butter, melted
+- 3/4 cup (3 3/4 ounces) unbleached all-purpose flour
+- 3/4 cup pecans, chopped fine
+- 3/4 cup old-fashioned rolled oats (see note)
+- 1/2 cup (3 1/2 ounces) packed light brown sugar
+- 1/4 cup (1 3/4 ounces) granulated sugar
+- 1/2 teaspoon ground cinnamon
+- 1/2 teaspoon table salt
+- 8 tablespoons (1 stick) unsalted butter, melted
 
 Filling
 ^^^^^^^
 
--  3 pounds Golden Delicious apples (about 7 medium), peeled, cored,
-   halved, and cut into 1/2-inch-thick wedges (see note)
--  1/4 cup (1 3/4 ounces) granulated sugar
--  1/4 teaspoon ground cinnamon (optional)
--  1 cup apple cider
--  2 teaspoons juice from 1 lemon
--  2 tablespoons unsalted butter
+- 3 pounds Golden Delicious apples (about 7 medium), peeled, cored,
+  halved, and cut into 1/2-inch-thick wedges (see note)
+- 1/4 cup (1 3/4 ounces) granulated sugar
+- 1/4 teaspoon ground cinnamon (optional)
+- 1 cup apple cider
+- 2 teaspoons juice from 1 lemon
+- 2 tablespoons unsalted butter
 
 Directions
 ----------
 
-1. FOR THe TOPPING: Adjust oven rack to middle position and heat oven to
+1. FOR THE TOPPING: Adjust oven rack to middle position and heat oven to
    450F. Combine flour, pecans, oats, brown sugar, granulated sugar,
    cinnamon, and salt in medium bowl. Stir in butter until mixture is
    thoroughly moistened and crumbly. Set aside while preparing fruit
    filling.
-2. FOR THe FILLING: Toss apples, granulated sugar, and cinnamon (if
+2. FOR THE FILLING: Toss apples, granulated sugar, and cinnamon (if
    using) together in large bowl; set aside. Bring cider to simmer in
    12-inch ovensafe skillet over medium heat; cook until reduced to 1/2
    cup, about 5 minutes. Transfer reduced cider to bowl or liquid

@@ -5,7 +5,7 @@ Baked Jalapeno Poppers
 | Prep Time: 20 minutes | Cook Time: 25 minutes | Yield: 24 poppers |
 +-----------------------+-----------------------+-------------------+
 
-Source: `Cooks Country <https://www.cookscountry.com/recipes/7886-baked-jalapeno-poppers>`__
+Source: `Cook's Country <https://www.cookscountry.com/recipes/7886-baked-jalapeno-poppers>`__
 
 Ingredients
 -----------
@@ -25,13 +25,13 @@ Ingredients
 Directions
 ----------
 
-1. Adjust oven rack to upper-middle position and heat oven to 500 degrees. Set
+1. Adjust oven rack to upper-middle position and heat oven to 500F. Set
    wire rack in rimmed baking sheet. Cook bacon in 12-inch nonstick skillet
    over medium heat until crispy, 7 to 9 minutes. Transfer to paper towel-lined
    plate. When bacon is cool enough to handle, chop fine and set aside.
 2. Season jalapenos with salt and place cut side down on wire rack. Bake until
    just beginning to soften, about 5 minutes. Remove jalapenos from oven and
-   reduce oven temperature to 450 degrees. When cool enough to handle, flip
+   reduce oven temperature to 450F. When cool enough to handle, flip
    jalapenos cut side up.
 3. Mix cheddar, Monterey Jack, cream cheese, scallions, cilantro, panko,
    egg yolk, lime juice, cumin, and bacon together in bowl until thoroughly

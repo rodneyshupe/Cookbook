@@ -1,5 +1,5 @@
-One Ingredient Chocolate Mouse
-==============================
+One Ingredient Chocolate Mousse
+===============================
 
 +----------------------+----------------------+-------------------+
 | Prep Time: 5 minutes | Cook Time: 5 minutes | Yield: 4 servings |
@@ -10,8 +10,8 @@ Source: `NY Times <http://cooking.nytimes.com/recipes/1014542-bittersweet-chocol
 Ingredients
 -----------
 
--  285 grams bittersweet chocolate (about 10 ounces), roughly chopped,
-   more as needed (see note)
+- 285 grams bittersweet chocolate (about 10 ounces), roughly chopped,
+  more as needed (see note)
 
 Directions
 ----------

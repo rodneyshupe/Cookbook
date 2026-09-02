@@ -7,12 +7,13 @@ Easy Slowcooker Chili
 
 Equipment
 ---------
+
 Slow Cooker
 
 Ingredients
 -----------
 
-- 1 1/5 lb sirloin tip, cut into 1/2 cubes
+- 1 1/5 pound (540 g) sirloin tip, cut into 1/2 cubes
 - 1 medium onion, diced
 - 1 green pepper, diced
 - 2 tablespoon tomato paste
@@ -20,10 +21,10 @@ Ingredients
 - 1 teaspoon garlic powder
 - 2-4 tablespoons beer
 - 1 chipotle pepper canned in adobo sauce, chopped
-- 1 12oz can tomato soup
-- 1 14oz can stewed tomatoes
-- 1 19oz can kidney beans
-- 1 4oz can green chilies
+- 1 12-ounce (355 ml) can tomato soup
+- 1 14-ounce (414 ml) can stewed tomatoes
+- 1 19-ounce (562 ml) can kidney beans
+- 1 4-ounce (118 ml) can green chilies
 - 2 teaspoons Better than Bouillon Beef Base
 - 2 teaspoons coco powder (optional)
 - salt & pepper
@@ -37,19 +38,19 @@ Directions
 2. Cook onions and green pepper until soft. Add tomato paste, chili powder
    and garlic powder and cook till fragrant, 1-2 minutes. Add onion mixture
    to slow cooker and deglaze the pan with 2-4 tablespoons beer and add to
-   the slow cooker. 
+   the slow cooker.
 3. Stir in all other ingredients and set slow cooker to med and cook for at
    least 8 hours.
 4. Serve topped with your choice of diced white onion, grated cheese, and/or
    nacho chips.  Goes well with `cornbread <#simple-cornbread-recipe>`__.
 
-Variation
----------
+Variations
+----------
 
-* **Vegetarian**: Remove meat and replace with 4oz (227g) each of Cremini 
+* **Vegetarian**: Remove meat and replace with 4 ounces (227g) each of Cremini
   and Shiitake Mushrooms, chopped into bite size pieces and sauteed.  If you
   don't want to use mushrooms try substituting 1/2 cup of bulgur. Replace
-  Beef Base with 1 tablespoon soy paste and 1/2oz (14g) dried shiitake
+  Beef Base with 1 tablespoon soy paste and 1/2 ounce (14g) dried shiitake
   mushrooms which have been finely chopped into almost a powder. Change
-  beans to 14oz can each of Kidney or Black Beans and Cannellini (two cans
+  beans to 14-ounce can each of Kidney or Black Beans and Cannellini (two cans
   total).

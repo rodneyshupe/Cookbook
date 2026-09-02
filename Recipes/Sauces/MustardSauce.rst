@@ -9,7 +9,7 @@ Ingredients
 -----------
 
 - 1/4 cup (60 grams) Dijon mustard
-- 1 tablespoons olive oil
+- 1 tablespoon olive oil
 - 2 tablespoons whole grain mustard
 - 1 1/2 tablespoons red wine vinegar
 - 1/4 teaspoon chili flakes

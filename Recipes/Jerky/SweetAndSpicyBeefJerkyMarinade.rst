@@ -12,16 +12,16 @@ Dehydrator
 Ingredients
 -----------
 
--  2 tablespoons of onion powder
--  2 tablespoons of garlic powder
--  1/2 cup Worcestershire sauce
--  1/2 cup `teriyaki sauce <#teriyaki-sauce>`__
--  2/3 cup balsamic vinegar
--  1/2 cup pineapple juice
--  1/2 cup brown sugar
--  1 1/3 cup soy sauce
--  2 teaspoons red pepper flakes
--  4 teaspoons pepper
+- 2 tablespoons of onion powder
+- 2 tablespoons of garlic powder
+- 1/2 cup Worcestershire sauce
+- 1/2 cup `teriyaki sauce <#teriyaki-sauce>`__
+- 2/3 cup balsamic vinegar
+- 1/2 cup pineapple juice
+- 1/2 cup brown sugar
+- 1 1/3 cup soy sauce
+- 2 teaspoons red pepper flakes
+- 4 teaspoons pepper
 
 Directions
 ----------

@@ -1,12 +1,11 @@
 Chicken Noodle Soup
 ===================
 
-Source: `Same the Cooking Guy <https://www.youtube.com/watch?v=qtCVEKqBztc>`__
-
 +----------------------+-----------------------+-------------------+
 | Prep Time: 5 minutes | Cook Time: 30 minutes | Yield: 6 servings |
 +----------------------+-----------------------+-------------------+
 
+Source: `Same the Cooking Guy <https://www.youtube.com/watch?v=qtCVEKqBztc>`__
 
 Ingredients
 -----------
@@ -20,7 +19,7 @@ Ingredients
 - 8 cups chicken broth
 - 2 cups shredded cooked chicken (perfect use of leftovers from a roast chicken)
 - 1/4 cup chopped fresh parsley leaves
-- 6 oz (approx. 3 packages) instant ramen noodles.
+- 6 ounces (approx. 3 packages) instant ramen noodles.
 - 1 tablespoon soy sauce
 - 2-3 tablespoons parsley, chopped
 - Salt and pepper to taste
@@ -32,7 +31,7 @@ Directions
    Saute until beginning to soften, approx. 5 minutes.
 2. Add bay leaf, thyme and chicken broth. Bring to a boil then reduce heat
    and simmer for 15 minutes.
-3. Remove bay leaf and add chicken and noodles. bring to a simmer and let 
+3. Remove bay leaf and add chicken and noodles. bring to a simmer and let
    simmer for 5 minutes.
 4. Remove from heat, stir in soy sauce and parsley.  Season with salt and
    pepper to taste then serve.

@@ -8,13 +8,13 @@ Tequila Garlic Prawns
 Ingredients
 -----------
 
--  1 - 2 lbs raw prawns peeled and deveined
--  2 cloves garlic, minced
--  1 teaspoon, fresh oregano
--  2 tablespoons tequila
--  2 tablespoons + 1 teaspoon olive oil
--  1/2 tablespoon unsalted butter
--  salt and pepper to taste
+- 1 - 2 pounds (450 g - 900 g) raw prawns peeled and deveined
+- 2 cloves garlic, minced
+- 1 teaspoon, fresh oregano
+- 2 tablespoons tequila
+- 2 tablespoons + 1 teaspoon olive oil
+- 1/2 tablespoon unsalted butter
+- salt and pepper to taste
 
 Directions
 ----------

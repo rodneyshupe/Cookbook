@@ -5,13 +5,14 @@ North Carolina Lemon Pie
 | Prep Time: 30 minutes | Cook Time: 35 minutes | Total Time: 4 3/4 hours | Yield: 8 servings |
 +-----------------------+-----------------------+-------------------------+-------------------+
 
-Source: `Cooks Country <https://www.cookscountry.com/recipes/8305-north-carolina-lemon-pie>`__
+Source: `Cook's Country <https://www.cookscountry.com/recipes/8305-north-carolina-lemon-pie>`__
 
 Ingredients
 -----------
 
 Crust
 ^^^^^
+
 - 6 ounces saltines
 - 1/8 teaspoon salt
 - 10 tablespoons unsalted butter, melted
@@ -19,7 +20,8 @@ Crust
 
 Filling
 ^^^^^^^
-- 1 (14-ounce) can sweetened condensed milk
+
+- 1 (14-ounce / 414 ml) can sweetened condensed milk
 - 4 large egg yolks
 - 1/4 cup heavy cream
 - 1 tablespoon grated lemon zest plus 1/2 cup juice (3 lemons)
@@ -27,12 +29,14 @@ Filling
 
 Topping
 ^^^^^^^
+
 - 1/2 cup heavy cream, chilled
 - 2 teaspoons sugar
 - 1/2 teaspoon vanilla extract
 
 Directions
 ----------
+
 1. FOR THE CRUST: Adjust oven rack to middle position and heat oven to 350F.
    Combine saltines and salt in food processor and pulse to coarse crumbs,
    about 15 pulses. Add melted butter and corn syrup and pulse until crumbs

@@ -5,16 +5,16 @@ Spicy Butter Sauce
 | Prep Time: 2 minutes | Cook Time: 5 minutes | Yield: about 1/3 cup |
 +----------------------+----------------------+----------------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/8724-spicy-butter-sauce>`__
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/8724-spicy-butter-sauce>`__
 
 Pairs great with roast chicken or as a spread on a burger.
 
 Ingredients
 -----------
 
--  3 tablespoons hot sauce
--  1 teaspoon cornstarch
--  3 tablespoons cold butter, cut into 3 pieces
+- 3 tablespoons hot sauce
+- 1 teaspoon cornstarch
+- 3 tablespoons cold butter, cut into 3 pieces
 
 Directions
 ----------

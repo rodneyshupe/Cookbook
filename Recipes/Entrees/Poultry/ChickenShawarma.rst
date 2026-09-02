@@ -8,7 +8,7 @@ Chicken Shawarma
 Ingredients
 -----------
 
-- 2 pounds boneless, skinless chicken thighs
+- 2 pounds (900 g) boneless, skinless chicken thighs
 - 1/2 cup plain yogurt
 - 5 cloves garlic, minced
 - 1 tablespoon coriander powder
@@ -30,4 +30,4 @@ Directions
    you have the time)
 3. When ready to cook, heat grill to medium high. Put the chicken onto the
    skewers, oil the grill and cook away - turning often until between
-   175 & 180 degrees, then remove and serve with the white garlic sauce.
+   175 & 180F, then remove and serve with the white garlic sauce.

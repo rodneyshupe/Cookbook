@@ -1,24 +1,22 @@
 Lemon Pot de Creme
 ==================
 
-+-----------------------+-------------------+-------------------------+-------------+
-| Prep Time: 10 minutes | Cook Time: 1 hour | Total Time: 1 1/2 hours | Temp: 175F  |
-+-----------------------+-------------------+-------------------------+-------------+
++-----------------------+-------------------+-------------------------+-------------------+
+| Prep Time: 10 minutes | Cook Time: 1 hour | Total Time: 1 1/2 hours | Yield: 6 servings |
++-----------------------+-------------------+-------------------------+-------------------+
 
 Source: `Glenn & Friends <https://www.youtube.com/watch?v=_aljez_GEhY>`__
 
-Yield: 6 servings
-
 Equipment
 ---------
-Sous-Vide (immersion circulator)
+Sous-Vide (immersion circulator) set to 175F
 
 Ingredients
 -----------
 
 - Finely grated zest of 2 lemons
 - 6 tablespoons fresh lemon juice
-- 6 tablespoons cup sugar
+- 6 tablespoons sugar
 - 1 3/4 cups 35% cream
 - 1/4 vanilla bean, seeds scraped and pod reserved
 - 5 large egg yolks
@@ -36,6 +34,6 @@ Directions
    strain through a fine sieve.
 5. Allow to rest for 20 minutes so the bubbles will dissipate.  Pre-heat your
    sous-vide bath to 175F
-6. Skim any foam from the surface and divide the mixture among 6 sealable 4oz
+6. Skim any foam from the surface and divide the mixture among 6 sealable 4 ounce
    Mason jars. Cook sous vide for 1 hour
 7. Remove the jars and place in an ice bath to chill.

@@ -9,23 +9,23 @@ Split Pea and Ham Soup
 Ingredients
 -----------
 
--  2 1/4 cups dried split peas
--  2 quarts cold water
--  1 1/2 - 2 pounds ham bone with meat
--  2 onions, thinly sliced
--  1/2 teaspoon salt
--  1/4 teaspoon ground black pepper
--  1 pinch dried marjoram
--  3 stalks celery, chopped
--  3 carrots, chopped
--  1 potato, diced
+- 2 1/4 cups dried split peas
+- 2 quarts cold water
+- 1 1/2 - 2 pounds (680 g - 900 g) ham bone with meat
+- 2 onions, thinly sliced
+- 1/2 teaspoon salt
+- 1/4 teaspoon ground black pepper
+- 1 pinch dried marjoram
+- 3 stalks celery, chopped
+- 3 carrots, chopped
+- 1 potato, diced
 
 Directions
 ----------
 
 1. In a large stock pot, cover peas with 2 quarts cold water and soak
    overnight. If you need a faster method, simmer the peas gently for 2
-   minutes, and then soak for l hour.
+   minutes, and then soak for 1 hour.
 2. Once peas are soaked, add ham bone, onion, salt, pepper and marjoram.
    Cover, bring to boil and then simmer for 1 1/2 hours, stirring
    occasionally.

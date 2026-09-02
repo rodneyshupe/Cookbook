@@ -12,7 +12,7 @@ Ingredients
 -----------
 
 - 1 chorizo sausage
-- 1/2 lb bacon cut into 1 in pieces
+- 1/2 pound (230 g) bacon cut into 1 in pieces
 - 2 medium yukon gold potatoes cut into 3/4 in pieces.
 - 1 carrot (, peeled and sliced into coins)
 - 1/2 onion (, sliced or chopped)
@@ -30,7 +30,7 @@ Directions
 1. Prepare 4 sheets of Heavy Duty Aluminum Foil into 12-inch sheets.
 2. Divide the ingredients among the four pieces of foil and place the food
    in the center of each piece, layering the butter, hamburger and or
-   sausage with the vegetables spices, herbs and flavorings of your choice.
+   sausage with the vegetables spices, herbs and flavourings of your choice.
    Fold the two long edges toward one another and fold over once or twice
    then crimp tightly. Fold and crimp each short end of the foil toward the
    middle so that the edges are all tightly sealed.
@@ -52,7 +52,7 @@ the basic steps:
 Step 1: Find Your Fat
 ^^^^^^^^^^^^^^^^^^^^^
 First you must have a fat so the raw ingredients don't stick to the foil as
-it cooks. Oil in most any form (plain or flavored), butter, and bacon fat
+it cooks. Oil in most any form (plain or flavoured), butter, and bacon fat
 are all likely contenders. Pesto because it does double duty with the
 inclusion of herbs and garlic to the oil.
 
@@ -74,7 +74,7 @@ ideas you can add to. Fresh, frozen, canned...any and all will do.
 Step 4: Spice It Up
 ^^^^^^^^^^^^^^^^^^^
 Beyond the absolute must of salt and pepper, you can add just about anything.
-Fresh or dried herbs such as thyme, rosemary, Basil, oregano. Try spices like
+Fresh or dried herbs such as thyme, rosemary, basil, oregano. Try spices like
 garlic powder, smoked paprika, cumin, chili powder, turmeric, or even cinnamon.
 Sauce it up with a sweet BBQ sauce, steak sauce or add a dash of
 Worcestershire. Wine, citrus, stock, sambal olek, sriracha, or soy sauce all
@@ -83,16 +83,15 @@ add a tasty umami to the dinner.
 Variations
 ----------
 
-- **Americana flavors**: BBQ sauces, sausages, cheeseburger or meatloaf
-  flavors, cajun, Southwest flavors, buffalo wing flavors, Hawaiian sweet
-  and sour, classic stew flavors
-- **Asian flavors**: Japanese with teriyaki or miso, soy sauce, Thai curry or
+- **Americana flavours**: BBQ sauces, sausages, cheeseburger or meatloaf
+  flavours, cajun, Southwest flavours, buffalo wing flavours, Hawaiian sweet
+  and sour, classic stew flavours
+- **Asian flavours**: Japanese with teriyaki or miso, soy sauce, Thai curry or
   chiles, Korean kim chee or gochujang or sriracha with cooked rice
-- **Indian flavors**: Tandoori flavors, garam masala, coconut, beans and
+- **Indian flavours**: Tandoori flavours, garam masala, coconut, beans and
   cooked rice
-- **Latin flavors**: Chimichurri, jerk sauce, beans, bananas, fresh herbs
-- **Mexican flavors**: Chiles, fresh salsas, tomatoes, corn, beans, cumin,
+- **Latin flavours**: Chimichurri, jerk sauce, beans, bananas, fresh herbs
+- **Mexican flavours**: Chiles, fresh salsas, tomatoes, corn, beans, cumin,
   oregano, cheese, chorizo and even tortillas or enchilada sauce
-- **Mediterranean and Italian flavors**: Wine, saffron, chorizo, fresh
+- **Mediterranean and Italian flavours**: Wine, saffron, chorizo, fresh
   veggies, oregano, olive oil drizzles, garlic, pesto sauces, Parmesan cheese
-

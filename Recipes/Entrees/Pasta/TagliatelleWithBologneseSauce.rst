@@ -5,10 +5,11 @@ Tagliatelle with Bolognese Sauce
 | Prep Time: 15 minutes | Cook Time: 1 1/4 hours | Yield: 4 servings |
 +-----------------------+------------------------+-------------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/9383-weeknight-tagliatelle-with-bolognese-sauce?extcode=MKSCZ00L0&ref=new_search_experience_2>`__
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/9383-weeknight-tagliatelle-with-bolognese-sauce?extcode=MKSCZ00L0&ref=new_search_experience_2>`__
 
 Ingredients
 -----------
+
 - 1 pound (450g) 93 percent lean ground beef
 - 2 tablespoons water
 - 1/4 teaspoon baking soda
@@ -27,6 +28,7 @@ Ingredients
 
 Directions
 ----------
+
 1. Toss beef with water, baking soda, and 1/4 teaspoon pepper in bowl until
    thoroughly combined. Set aside.
 2. While beef sits, bring broth to boil over high heat in large pot (this pot
@@ -46,7 +48,7 @@ Directions
    1 to 2 minutes.
 5. Reduce heat to medium, add beef, and cook, using wooden spoon to break meat
    into pieces no larger than 1/4 inch, until beef has just lost its raw pink
-   color, 4 to 7 minutes. Stir in wine, scraping up any browned bits, and
+   colour, 4 to 7 minutes. Stir in wine, scraping up any browned bits, and
    bring to simmer. Cook until wine has evaporated and sauce has thickened,
    about 5 minutes. Stir in broth and Parmesan. Return sauce to simmer; cover,
    reduce heat to low, and simmer for 30 minutes (sauce will look thin).

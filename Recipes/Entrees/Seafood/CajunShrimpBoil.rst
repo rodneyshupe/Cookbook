@@ -12,16 +12,16 @@ Ingredients
 
 - 1/4 cup Cajun or Louisiana Spice
 - 1/4 old bay
-- 1 tablespoons cayenne-pepper powder
+- 1 tablespoon cayenne-pepper powder
 - 2 tablespoons kosher salt
 - 1 onion, peeled and halved through root
 - 2 celery ribs, cut into 3-inch pieces
 - 1 lemon, quartered
 - 1 head garlic
 - 3 ears corn, shucked and cut into 1-inch pieces
-- 1 pounds small (2-inch) red potatoes
-- 1 12-ounce kielbasi, cut into 1-inch pieces
-- 3 pounds live spot prawns shrimp, preferably with shells on
+- 1 pound small (2-inch) red potatoes
+- 1 12-ounce (340 g) kielbasi, cut into 1-inch pieces
+- 3 pounds (1.35 kg) live spot prawns shrimp, preferably with shells on
 
 Directions
 ----------

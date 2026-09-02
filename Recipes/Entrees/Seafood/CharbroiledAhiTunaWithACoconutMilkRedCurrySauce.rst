@@ -1,4 +1,4 @@
-Charbroiled Ahi Tuna with a Coconut milk Red Curry sauce
+Charbroiled Ahi Tuna with a Coconut Milk Red Curry Sauce
 ========================================================
 
 +-----------------------+-----------------------+-------------------+
@@ -7,6 +7,7 @@ Charbroiled Ahi Tuna with a Coconut milk Red Curry sauce
 
 Ingredients
 -----------
+
 - 4 ahi tuna filets, 6 ounces (170g)
 - 1-2 tablespoon soy sauce, (kecap manis)
 - 1 stalk lemongrass
@@ -18,7 +19,7 @@ Ingredients
 - 1 tablespoon Ginger, chopped
 - 1 kaffir lime leaf, sliced
 - 2 clove garlic
-- 1/2 cup  white wine
+- 1/2 cup white wine
 - 1 tablespoon fish sauce
 - 3 cups chicken stock
 - 2 cups rice
@@ -34,4 +35,3 @@ Directions
 3. Place rice in rice cooker, season, and add chicken stock. The ratio is 1.5 parts liquid to 1 part rice. The rice should take approx. 15- 18 minutes.
 4. Prepare the vegetables; in a skillet add bacon, saute until golden. Add onions, season, and saute until golden. Add asparagus, 1/4 cup water, and cover 7 minutes before the dish is ready to assemble.
 5. Place tuna in a preheat oven at 350F and cook until desired temp. If you like your tuna rare you will only cook for 4-5 minutes. For medium approx. 7-8 minutes.
-

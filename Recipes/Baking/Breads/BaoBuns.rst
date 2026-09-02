@@ -7,18 +7,17 @@ Bao Buns
 
 Source: `Seonkyoung Longest <https://seonkyounglongest.com/bao-buns/>`__
 
-
 Ingredients
 -----------
 
 - 1/3 cup warm water
 - 1/2 cup warm milk
-- 1 tbsp active dry yeast
-- 4 tbsp sugar, divided half
-- 2 tbsp avocado, vegetable or canola oil
+- 1 tablespoon active dry yeast
+- 4 tablespoons sugar, divided half
+- 2 tablespoons avocado, vegetable or canola oil
 - 2 1/2 cups all purpose flour (use blenched flour if you want complete white buns)
-- 1/2 tsp baking powder
-- 1/4 tsp salt
+- 1/2 teaspoon baking powder
+- 1/4 teaspoon salt
 
 Directions
 ----------

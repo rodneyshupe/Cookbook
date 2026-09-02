@@ -16,13 +16,13 @@ anything, but is particularly excellent for pork.
 Ingredients
 -----------
 
--  1 1/2 cups prepared mustard
--  3/4 cups cider vinegar
--  1/2 cup brown sugar
--  3 tablespoons butter
--  3 tablespoons Worcestershire sauce
--  1 1/2 tablespoon lemon juice
--  1 1/2 teaspoon cyanne pepper
+- 1 1/2 cups prepared mustard
+- 3/4 cups cider vinegar
+- 1/2 cup brown sugar
+- 3 tablespoons butter
+- 3 tablespoons Worcestershire sauce
+- 1 1/2 tablespoon lemon juice
+- 1 1/2 teaspoon cayenne pepper
 
 Directions
 ----------

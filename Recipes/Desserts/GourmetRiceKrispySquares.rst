@@ -8,7 +8,7 @@ Gourmet Rice Krispy Squares
 Ingredients
 -----------
 
-- 4 tbsp butter
+- 4 tablespoons butter
 - 3 cups mini marshmallows
 - 4 cups rice krispys cereal
 

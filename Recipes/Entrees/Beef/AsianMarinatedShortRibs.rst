@@ -5,14 +5,15 @@ Asian Marinated Short Ribs
 | Prep Time: 20 minutes | Cook Time: 7 minutes | Marinate Time: 1-24 hours | Yield: 4 servings |
 +-----------------------+----------------------+---------------------------+-------------------+
 
-Source: `Rodney Bowers <https://beta.theloop.ca/food/recipes/marinated-short-ribs-with-peanut-salsa.html>`_
+Source: `Rodney Bowers <https://beta.theloop.ca/food/recipes/marinated-short-ribs-with-peanut-salsa.html>`__
 
 Ingredients
 -----------
 
 Marinade
 ^^^^^^^^
-- 2 lbs boneless beef short ribs cut 1 centimeter thick
+
+- 2 pounds (900 g) boneless beef short ribs cut 1 centimeter thick
 - 5 cloves of garlic finely minced
 - 1 small knob of ginger grated
 - 1/4 cup fresh lime juice
@@ -23,11 +24,12 @@ Marinade
 
 Peanut Salsa
 ^^^^^^^^^^^^
+
 - 1/3 cup extra-virgin olive oil
 - 1/3 cup chopped raw peanuts
 - 1 garlic clove, finely grated
 - 2 teaspoons toasted sesame seeds
-- 1 teaspoons red pepper flakes
+- 1 teaspoon red pepper flakes
 - 2 tablespoons fresh lime juice
 - 2 teaspoons honey
 - Salt to taste
@@ -36,6 +38,7 @@ Peanut Salsa
 
 Directions
 ----------
+
 1. Combine all marinade ingredients in a bowl and whisk to combine.  Add
    steaks to large ziplock bag and pour marinade over.  Push all air out
    and seal bag and place in fridge for at lease 1 hour but not longer
@@ -51,4 +54,3 @@ Directions
    Grill meat until charred underneath three to four minutes, then turn
    and grill just long enough to cook through two to three minutes.
 6. Transfer to a platter. Serve with green onion mixture and peanut salsa.
-

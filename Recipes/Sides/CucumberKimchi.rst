@@ -8,14 +8,14 @@ Cucumber Kimchi
 Ingredients
 -----------
 
--  6 pickling cucumbers
--  Kosher salt, to taste
--  1 onion, cut into thin crescents
--  1 carrot, cut into thin strips
--  12 scallions, cut into thin strips
--  1/4 cup fish sauce
--  1 tablespoon sugar
--  2/3 cup gochugaru chile flakes
+- 6 pickling cucumbers
+- Kosher salt, to taste
+- 1 onion, cut into thin crescents
+- 1 carrot, cut into thin strips
+- 12 scallions, cut into thin strips
+- 1/4 cup fish sauce
+- 1 tablespoon sugar
+- 2/3 cup gochugaru chile flakes
 
 Directions
 ----------

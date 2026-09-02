@@ -10,12 +10,14 @@ Ingredients
 
 Caramel Sauce
 ^^^^^^^^^^^^^
+
 - 1 1/4 cup brown sugar
 - 5 cup whipping cream
-- 3 1/2 oz butter, (unsalted) chopped
+- 3 1/2 ounces butter, (unsalted) chopped
 
 Banana Fritters
 ^^^^^^^^^^^^^^^
+
 - 1 cup Self Raising Flour
 - 1 egg, Beaten
 - 3/4 cup Soda Water
@@ -25,9 +27,10 @@ Banana Fritters
 
 Chocolate Cream Sauce
 ^^^^^^^^^^^^^^^^^^^^^
-- 4 oz Chocolate, melted
-- 1/4 cup  Baileys Liqueur
-- 1/4 cup  Whipping Cream
+
+- 4 ounces Chocolate, melted
+- 1/4 cup Baileys Liqueur
+- 1/4 cup Whipping Cream
 
 Directions
 ----------

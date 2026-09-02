@@ -8,7 +8,7 @@ Chicken Tinga Tacos
 Ingredients
 -----------
 
-- 2 pounds skinless, boneless chicken thighs
+- 2 pounds (900 g) skinless, boneless chicken thighs
 - 3 peeled whole garlic cloves
 - 1 large yellow onion, halved
 - 2 teaspoons kosher salt, plus more to taste
@@ -17,8 +17,8 @@ Ingredients
 - 1 cup water
 - 2 tablespoons olive oil
 - 1 large onion, diced
-- 1 (7 ounce) can chipotle peppers in adobo sauce
-- 1 (28 ounce) can peeled plum tomatoes (preferably San Marzano)
+- 1 (7 ounce / 207 ml) can chipotle peppers in adobo sauce
+- 1 (28 ounce / 828 ml) can peeled plum tomatoes (preferably San Marzano)
 - 2 tablespoons crumbled cotija cheese, or to taste
 - 3 tablespoons chopped fresh cilantro, or more to taste
 
@@ -47,4 +47,3 @@ Directions
 7. Tear chicken into bite-size pieces and add to the pot. Cook another 10
    to 15 minutes. Transfer to a serving dish; garnish with crumbled cotija
    cheese and cilantro.
-

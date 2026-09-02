@@ -8,12 +8,12 @@ Flour Tortillas
 Ingredients
 -----------
 
--  1 3/4 cups all-purpose flour
--  3/4 teaspoon salt
--  1/4 teaspoon baking powder
--  1/4 cup vegetable shortening
--  1/2 cup hot water
--  1/4 cup all-purpose flour for dusting
+- 1 3/4 cups all-purpose flour
+- 3/4 teaspoon salt
+- 1/4 teaspoon baking powder
+- 1/4 cup vegetable shortening
+- 1/2 cup hot water
+- 1/4 cup all-purpose flour for dusting
 
 Directions
 ----------

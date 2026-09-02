@@ -20,7 +20,6 @@ Ingredients
 - 1 tablespoon olive oil
 - Salt & pepper
 
-
 Directions
 ----------
 

@@ -11,7 +11,7 @@ Ingredients
 Tuna Salad
 ^^^^^^^^^^
 
-- 1 can 5oz tuna drained
+- 1 can 5 ounce (148 ml) tuna drained
 - 2 tablespoons onion finely diced
 - 2 tablespoons celery finely diced
 - 1/4 teaspoon celery salt
@@ -21,6 +21,7 @@ Tuna Salad
 
 Sandwich
 ^^^^^^^^
+
 - 2 slices american cheese
 - lettuce or spinach
 - sliced tomato (optional)

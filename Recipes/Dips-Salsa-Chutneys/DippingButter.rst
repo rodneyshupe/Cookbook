@@ -33,13 +33,13 @@ Variation
 Cowboy Butter
 ^^^^^^^^^^^^^
 
-- 8 tbsp Salted Butter, melted
+- 8 tablespoons Salted Butter, melted
 - 1 small Shallot, finely minced
 - 5 Chives, finely minced
 - 3 Garlic cloves, minced
-- 2-3 tbsp prepared horseradish
-- 2 tbsp Dijon mustard
-- 3 tsp minced fresh thyme
+- 2-3 tablespoons prepared horseradish
+- 2 tablespoons Dijon mustard
+- 3 teaspoons minced fresh thyme
 - pinch of cayenne pepper
 - Salt and Pepper to taste
 

@@ -11,38 +11,40 @@ Ingredients
 Meat
 ^^^^
 
--  3/4 pound (340g) boneless, skinless chicken breast, other meat, seafood, or
-   tofu, cut into small, even-sized pieces and drained
--  1 tablespoon soy sauce
--  1 tablespoon dry sherry
+- 3/4 pound (340g) boneless, skinless chicken breast, other meat, seafood, or
+  tofu, cut into small, even-sized pieces and drained
+- 1 tablespoon soy sauce
+- 1 tablespoon dry sherry
 
 Vegetable Categories
-^^^^^^^^^^^^^^^^^^^^
-
-*Use any combination from each of the four batch categories below for a
-total of 1 1/2 pounds)* - carrots, cauliflower, onions, or peppers
-(first batch) - asparagus, green beans, broccoli, or butternut squash
-(second batch) - cabbage, celery, chard, fennel, mushrooms, peas, sugar
-snap peas, summer squash, or zucchini (third batch) - scallions, fresh
-herbs, tender greens, or tomatoes (fourth batch)
-
-Remaining Ingredients
 ^^^^^^^^^^^^^^^^^^^^^
 
--  2 tablespoons chopped scallions, white part only
--  1 tablespoon minced garlic
--  1 tablespoon minced fresh ginger
--  2 - 4 tablespoons canola oil or peanut oil
+Use any combination from each of the four batch categories below for a total
+of 1 1/2 pounds:
+
+- carrots, cauliflower, onions, or peppers (first batch)
+- asparagus, green beans, broccoli, or butternut squash (second batch)
+- cabbage, celery, chard, fennel, mushrooms, peas, sugar snap peas, summer
+  squash, or zucchini (third batch)
+- scallions, fresh herbs, tender greens, or tomatoes (fourth batch)
+
+Remaining Ingredients
+^^^^^^^^^^^^^^^^^^^^^^
+
+- 2 tablespoons chopped scallions, white part only
+- 1 tablespoon minced garlic
+- 1 tablespoon minced fresh ginger
+- 2 - 4 tablespoons canola oil or peanut oil
 
 Ginger Sauce
 ^^^^^^^^^^^^
 
--  3 tablespoons soy sauce, light style if available
--  1/2 teaspoon granulated sugar
--  1 tablespoon dry sherry
--  1/4 cup minced fresh ginger
--  2 scallions, minced
--  2 tablespoons low-sodium chicken broth
+- 3 tablespoons soy sauce, light style if available
+- 1/2 teaspoon granulated sugar
+- 1 tablespoon dry sherry
+- 1/4 cup minced fresh ginger
+- 2 scallions, minced
+- 2 tablespoons low-sodium chicken broth
 
 .. include:: ../../../includes/recipePageBreak.rst
 
@@ -84,32 +86,56 @@ Directions
 Variations
 ----------
 
-**Orange Sauce** \* 1 large orange, zested to yield 2 teaspoons minced
-zest, juiced to yield 1/4 cup juice \* 1/2 teaspoon granulated sugar \*
-2 tablespoons low-sodium chicken broth \* 1 tablespoon soy sauce,
-preferably light style \* pinch table salt
+Orange Sauce
+^^^^^^^^^^^^
 
-**Hot-and-Sour Sauce** \* 2 tablespoons cider vinegar \* 2 teaspoons
-minced hot chiles \* 2 teaspoons granulated sugar \* 2 tablespoons
-low-sodium chicken broth \* 1 tablespoon soy sauce, light style if
-available \* Pinch table salt
+- 1 large orange, zested to yield 2 teaspoons minced zest, juiced to yield
+  1/4 cup juice
+- 1/2 teaspoon granulated sugar
+- 2 tablespoons low-sodium chicken broth
+- 1 tablespoon soy sauce, preferably light style
+- pinch table salt
 
-**Lemon Sauce** \* 1 large lemon, zested to yield 2 teaspoons minced
-zest, juiced to yield 3 tablespoons juice \* 1 teaspoon granulated sugar
-\* 2 tablespoons low-sodium chicken broth \* 1 tablespoon soy sauce,
-light style if available \* Pinch table salt
+Hot-and-Sour Sauce
+^^^^^^^^^^^^^^^^^^
 
-**Curry Sauce** \* 3 tablespoons soy sauce, light style if available \*
-1/2 teaspoon granulated sugar \* 1 tablespoon dry sherry \* 2 teaspoons
-curry powder \* 2 scallions, minced \* 2 tablespoons low-sodium chicken
-broth
+- 2 tablespoons cider vinegar
+- 2 teaspoons minced hot chiles
+- 2 teaspoons granulated sugar
+- 2 tablespoons low-sodium chicken broth
+- 1 tablespoon soy sauce, light style if available
+- Pinch table salt
 
-Note: Stir Fry Fundamentals
----------------------------
+Lemon Sauce
+^^^^^^^^^^^
 
-*No matter what you're stir-frying, follow these guidelines to ensure
-success.* - Be ready for quick cooking: Prep ingredients in advance. -
-For even browning, use a nonstick skillet, not a wok. - Limit stirring
-so meat and vegetables can develop color. - Sear in batches so meat
-doesn't steam. - Add aromatics last to preserve flavor and avoid
-scorching.
+- 1 large lemon, zested to yield 2 teaspoons minced zest, juiced to yield
+  3 tablespoons juice
+- 1 teaspoon granulated sugar
+- 2 tablespoons low-sodium chicken broth
+- 1 tablespoon soy sauce, light style if available
+- Pinch table salt
+
+Curry Sauce
+^^^^^^^^^^^
+
+- 3 tablespoons soy sauce, light style if available
+- 1/2 teaspoon granulated sugar
+- 1 tablespoon dry sherry
+- 2 teaspoons curry powder
+- 2 scallions, minced
+- 2 tablespoons low-sodium chicken broth
+
+Notes
+-----
+
+Stir Fry Fundamentals
+^^^^^^^^^^^^^^^^^^^^^
+
+No matter what you're stir-frying, follow these guidelines to ensure success:
+
+- Be ready for quick cooking: Prep ingredients in advance.
+- For even browning, use a nonstick skillet, not a wok.
+- Limit stirring so meat and vegetables can develop colour.
+- Sear in batches so meat doesn't steam.
+- Add aromatics last to preserve flavour and avoid scorching.

@@ -15,7 +15,7 @@ Ingredients
 - 1/4 cup onions, minced
 - 2 garlic cloves
 - 1/4 teaspoon salt
-- 1 cups water
+- 1 cup water
 - 1/4 cup white vinegar
 
 Directions

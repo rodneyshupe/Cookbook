@@ -8,16 +8,16 @@ Cabbage Kimchi
 Ingredients
 -----------
 
--  1 medium head (2 pounds) napa cabbage
--  1/4 cup kosher salt (see Recipe Notes)
--  Water (see Recipe Notes)
--  1 tablespoon grated garlic (5 to 6 cloves)
--  1 teaspoon grated ginger
--  1 teaspoon sugar
--  2 to 3 tablespoons seafood flavor or water (optional, see Recipe Notes)
--  1 to 5 tablespoons Korean red pepper flakes (gochugaru)
--  8 ounces Korean radish or daikon, peeled and cut into matchsticks
--  4 scallions, trimmed and cut into 1-inch pieces
+- 1 medium head (2 pounds) napa cabbage
+- 1/4 cup kosher salt (see Recipe Notes)
+- Water (see Recipe Notes)
+- 1 tablespoon grated garlic (5 to 6 cloves)
+- 1 teaspoon grated ginger
+- 1 teaspoon sugar
+- 2 to 3 tablespoons seafood flavour or water (optional, see Recipe Notes)
+- 1 to 5 tablespoons Korean red pepper flakes (gochugaru)
+- 8 ounces Korean radish or daikon, peeled and cut into matchsticks
+- 4 scallions, trimmed and cut into 1-inch pieces
 
 Directions
 ----------
@@ -31,7 +31,7 @@ Directions
    times and drain in a colander for 15 to 20 minutes. Rinse and dry the
    bowl you used for salting, and set it aside to use in step 5.
 3. Make the paste: Meanwhile, combine the garlic, ginger, sugar, and
-   seafood flavor (or 3 tablespoons water) in a small bowl and mix to
+   seafood flavour (or 3 tablespoons water) in a small bowl and mix to
    form a smooth paste. Mix in the gochugaru, using 1 tablespoon for
    mild and up to 5 tablespoons for spicy (I like about 3 1/2
    tablespoons).

@@ -1,25 +1,25 @@
-Peach tarte tatin with orange blossom cream
+Peach Tarte Tatin with Orange Blossom Cream
 ===========================================
 
-+-----------------+-------------------+
-| Total Time: TBD | Yield: 6 servings |
-+-----------------+-------------------+
++-------------------+
+| Yield: 6 servings |
++-------------------+
 
 Source: `Clodagh McKenna <https://www.clodaghmckenna.com/blog/peach-tart-tatin-with-orange-blossom-cream>`__
 
 This dessert is the definition of low effort and high payoff. With
-caramelized peaches, a crisp pastry base and orange blossom cream, you only
+caramelised peaches, a crisp pastry base and orange blossom cream, you only
 need a few simple ingredients to create this decadent and delicious dish!
 
 Ingredients
 -----------
 
-- 150 grams (5.5 oz) caster sugar
-- 70 grams (2.5 oz) unsalted butter
+- 150 grams (5.5 ounces) caster sugar
+- 70 grams (2.5 ounces) unsalted butter
 - 1/2 vanilla pod, cut in half lengthways
 - 6 peaches, halved
-- 325 grams (11.5 oz) ready-made puff pastry
-- 250 grams (9 oz) creme fraiche
+- 325 grams (11.5 ounces) ready-made puff pastry
+- 250 grams (9 ounces) creme fraiche
 - 2 tablespoons orange blossom water
 - 1 tablespoon orange zest
 
@@ -28,7 +28,7 @@ Directions
 
 1. Preheat the oven to 350F (180C).
 2. Place a cast-iron pan or an ovenproof frying pan over low heat and add
-   the caster sugar and 100 millilitres (3.5 oz) of water. Stir until the
+   the caster sugar and 100 millilitres (3.5 ounces) of water. Stir until the
    sugar has dissolved.
 3. Once the sugar has dissolved, increase the heat to high and simmer for
    12 to 14 minutes or until the syrup is a light golden-brown colour. Stir
@@ -40,7 +40,7 @@ Directions
    the pastry on top of the peaches and fold the edges down the sides so
    that you're tucking in the peaches.
 6. Make three small slits in the centre of the pastry with a sharp knife
-   and bake for 45 minutes until the peaches are caramelized and the pastry
+   and bake for 45 minutes until the peaches are caramelised and the pastry
    is golden.
 7. Meanwhile, to make the orange blossom cream, whisk the creme fraiche
    with the orange blossom water and orange zest, and set aside.

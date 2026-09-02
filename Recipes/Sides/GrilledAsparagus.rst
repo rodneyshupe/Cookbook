@@ -8,16 +8,17 @@ Grilled Asparagus
 Ingredients
 -----------
 
--  1 pound asparagus (the stalks shouldn't be too thin)
--  2 tablespoons Asian (dark) sesame oil
--  1 tablespoon soy sauce
--  1 clove garlic, minced
--  Coarse (kosher or sea) salt and freshly ground black pepper
--  2 tablespoons sesame seeds
+- 1 pound asparagus (the stalks shouldn't be too thin)
+- 2 tablespoons Asian (dark) sesame oil
+- 1 tablespoon soy sauce
+- 1 clove garlic, minced
+- Coarse (kosher or sea) salt and freshly ground black pepper
+- 2 tablespoons sesame seeds
 
 
 Directions
 ----------
+
 1. Set up the grill for direct grilling and preheat to high.
 2. Snap off the woody bases of the asparagus and discard. Trim the ends
    with a knife so the stalks are a uniform length. Skewer 4 or 5

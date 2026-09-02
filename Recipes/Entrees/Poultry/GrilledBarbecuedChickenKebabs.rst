@@ -5,13 +5,14 @@ Grilled Barbecued Chicken Kebabs
 | Prep Time: 30 minutes | Cook Time: 15 minutes | Marinate Time: 30 minutes - 1 hour | Yield: 4 servings |
 +-----------------------+-----------------------+------------------------------------+-------------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/6482-charcoal-grilled-barbecued-chicken-kebabs>`__
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/6482-charcoal-grilled-barbecued-chicken-kebabs>`__
 
 Ingredients
 -----------
 
 Sauce
 ^^^^^
+
 - 1/2 cup ketchup
 - 1/4 cup light or mild molasses
 - 2 tablespoons grated onion (see note)
@@ -22,6 +23,7 @@ Sauce
 
 Kebabs
 ^^^^^^
+
 - 2 pounds (900g) boneless, skinless chicken thighs or breasts, trimmed of excess
   fat and cut into 1-inch cubes (see note)
 - 2 teaspoons kosher salt
@@ -62,7 +64,6 @@ Directions
    with 1/4 cup sauce; flip and cook until sauce is brown in spots, about
    1 minute. Brush second side with remaining 1/4 cup sauce; flip and continue
    to cook until brown in spots and instant-read thermometer inserted in
-   center of meat registers 160 degrees for breasts and 175 degrees for
+   centre of meat registers 160F for breasts and 175F for
    thighs, about 1 minute longer. Remove kebabs from grill and let rest for
    5 minutes. Serve, passing reserved barbecue sauce separately.
-

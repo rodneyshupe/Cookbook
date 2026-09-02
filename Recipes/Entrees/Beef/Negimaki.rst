@@ -5,10 +5,11 @@ Negimaki (Japanese Grilled Steak and Green Onion Rolls)
 | Prep Time: 45 minutes | Cook Time: 20 minutes | Total Time: 30 minutes | Yield: 4 as a main dish, or 8 as an appetizer |
 +-----------------------+-----------------------+------------------------+-----------------------------------------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/11173-japanese-grilled-steak-and-scallion-rolls-negimaki>`__
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/11173-japanese-grilled-steak-and-scallion-rolls-negimaki>`__
 
 Ingredients
 -----------
+
 - 2 pound (900g) flank steak, trimmed
 - 1/2 cup soy sauce
 - 1/4 cup sugar
@@ -40,7 +41,7 @@ Directions
    to edge of counter, with white tips slightly hanging over edges of steak
    on either side. Starting from bottom edge and rolling away from you,
    roll into tight cylinder. Insert 3 equally spaced toothpicks into end
-   flaps and through center of roll. Transfer roll to platter and repeat
+   flaps and through centre of roll. Transfer roll to platter and repeat
    with remaining steak and scallions. (Assembled rolls can be refrigerated
    for up to 24 hours.)
 5. For a Gas Grill: Turn all burners to high, cover, and heat grill until
@@ -51,11 +52,10 @@ Directions
    beginning to char, 4 to 6 minutes. Cook remaining 2 sides, glazing after
    each turn, until all 4 sides of rolls are evenly charred and thermometer
    inserted from end of roll into scallions at core registers
-   150 to 155 degrees, 16 to 24 minutes total. Transfer rolls to cutting
+   150 to 155F, 16 to 24 minutes total. Transfer rolls to cutting
    board, tent with aluminum foil, and let rest for 5 minutes. Discard
    remaining glaze.
 7. Remove toothpicks from rolls and cut rolls crosswise into 3/4-inch-long
    pieces. Arrange rolls cut side down on clean platter, drizzle with
    2 tablespoons reserved glaze, sprinkle with sesame seeds, and serve,
    passing remaining reserved glaze separately.
-

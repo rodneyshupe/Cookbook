@@ -1,25 +1,23 @@
 Sweet Potato Soup
 =================
 
-+----------------+----------------+------------------------------------+
-| Prep Time: 10  | Cooking Time:  | Yield: 4-6 servings as a main8 as  |
-| minutes        | 1 hours        | a starter                          |
-+----------------+----------------+------------------------------------+
-
++-----------------------+-------------------+-----------------------------------------------+
+| Prep Time: 10 minutes | Cook Time: 1 hour | Yield: 4-6 servings as a main, 8 as a starter |
++-----------------------+-------------------+-----------------------------------------------+
 
 Ingredients
 -----------
 
--  4 tablespoons unsalted butter
--  1 shallot, sliced thin
--  4 sprigs fresh thyme
--  4 1/4 cups water
--  2 pounds sweet potatoes, peeled, halved lengthwise, and sliced 1/4
-   inch thick, 1/4 of peels reserved
--  1 tablespoon packed brown sugar
--  1/2 teaspoon cider vinegar
--  Salt and pepper
--  Minced fresh chives
+- 4 tablespoons unsalted butter
+- 1 shallot, sliced thin
+- 4 sprigs fresh thyme
+- 4 1/4 cups water
+- 2 pounds sweet potatoes, peeled, halved lengthwise, and sliced 1/4
+  inch thick, 1/4 of peels reserved
+- 1 tablespoon packed brown sugar
+- 1/2 teaspoon cider vinegar
+- Salt and pepper
+- Minced fresh chives
 
 Directions
 ----------

@@ -8,10 +8,10 @@ Chocolate Whipping Cream
 Ingredients
 -----------
 
--  2 cups heavy cream
--  1/4 cup cocoa powder
--  1/2 cup powdered sugar
--  1/2 teaspoon vanilla extract
+- 2 cups heavy cream
+- 1/4 cup cocoa powder
+- 1/2 cup powdered sugar
+- 1/2 teaspoon vanilla extract
 
 Directions
 ----------

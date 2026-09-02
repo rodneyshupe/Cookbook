@@ -11,20 +11,21 @@ Ingredients
 Chicken
 ^^^^^^^
 
--  1 tablespoon kosher salt
--  1/2 teaspoon pepper
--  3 1/2 to 4 pound (1.6 to 1.8kg) whole chicken, giblets discarded
--  1 tablespoon olive oil
+- 1 tablespoon kosher salt
+- 1/2 teaspoon pepper
+- 3 1/2 to 4 pound (1.6 to 1.8kg) whole chicken, giblets discarded
+- 1 tablespoon olive oil
 
 Pan Sauce
 ^^^^^^^^^
--  1 shallot, minced
--  1 cup low-sodium chicken broth
--  2 teaspoons Dijon mustard
--  2 tablespoons unsalted butter
--  2 teaspoons minced fresh tarragon
--  2 teaspoons lemon juice
--  Pepper
+
+- 1 shallot, minced
+- 1 cup low-sodium chicken broth
+- 2 teaspoons Dijon mustard
+- 2 tablespoons unsalted butter
+- 2 teaspoons minced fresh tarragon
+- 2 teaspoons lemon juice
+- Pepper
 
 Directions
 ----------
@@ -56,7 +57,6 @@ Variation
 Thyme-Sherry Vinegar Pan Sauce
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  In step 4 add 2 minced garlic cloves and 2 teaspoons chopped fresh
-   thyme to pan with shallot. In step 6 replace lemon juice with sherry
-   vinegar and leave out the tarragon.
-
+- In step 4 add 2 minced garlic cloves and 2 teaspoons chopped fresh
+  thyme to pan with shallot. In step 6 replace lemon juice with sherry
+  vinegar and leave out the tarragon.

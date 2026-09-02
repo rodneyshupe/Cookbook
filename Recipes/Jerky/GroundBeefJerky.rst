@@ -1,9 +1,9 @@
 Ground Beef Jerky
 =================
 
-+-----------------------+--------------------------+---------------------------+
-| Prep Time: 20 minutes | Drying Time: 3 1/2 hours | Yield: about 3/4 lb jerky |
-+-----------------------+--------------------------+---------------------------+
++-----------------------+--------------------------+------------------------------+
+| Prep Time: 20 minutes | Drying Time: 3 1/2 hours | Yield: about 3/4 pound jerky |
++-----------------------+--------------------------+------------------------------+
 
 Equipment
 ---------
@@ -12,17 +12,17 @@ Dehydrator
 Ingredients
 -----------
 
--  2 lb Lean ground beef (10% fat or less)
--  2 tablespoons soy sauce
--  2 tablespoons worcestershire sauce
--  3/8 teaspoons curing salt (prague powder #1)
--  2 teaspoons ground black pepper
--  2 teaspoons ground lemon pepper
--  2 teaspoons curry powder (red)
--  2 teaspoons ginger powder
--  1/2 teaspoons coriander
--  1 teaspoons garlic powder
--  1 teaspoons onion powder
+- 2 pounds (900 g) Lean ground beef (10% fat or less)
+- 2 tablespoons soy sauce
+- 2 tablespoons worcestershire sauce
+- 3/8 teaspoons curing salt (prague powder #1)
+- 2 teaspoons ground black pepper
+- 2 teaspoons ground lemon pepper
+- 2 teaspoons curry powder (red)
+- 2 teaspoons ginger powder
+- 1/2 teaspoons coriander
+- 1 teaspoon garlic powder
+- 1 teaspoon onion powder
 
 Directions
 ----------

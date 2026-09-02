@@ -7,7 +7,8 @@ Honey Glazed Roasted Sweet Potatoes
 
 Ingredients
 -----------
-- 2 lb sweet potatoes
+
+- 2 pounds sweet potatoes
 - 2 tablespoon butter
 - sea salt
 - fresh cracked pepper
@@ -18,6 +19,7 @@ Ingredients
 
 Directions
 ----------
+
 1. Preheat oven to 375F. Place sweet potatoes on a baking sheet. Cook
    until fork tender. Split the potatoes with a knife and remove the
    "meat". Place the meat in a bowl. Add lime juice, ginger, honey,

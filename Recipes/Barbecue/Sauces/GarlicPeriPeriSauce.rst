@@ -1,4 +1,4 @@
-Garlic Peri-Peri sauce
+Garlic Peri-Peri Sauce
 ======================
 
 +-----------------------+-------------------------+
@@ -8,13 +8,13 @@ Garlic Peri-Peri sauce
 Ingredients
 -----------
 
--  1 cup of olive oil
--  5 tablespoons of garlic power
--  3 lemons - squeeze the juice out.
--  2 tablespoon paprika
--  1 tablespoon of cayenne pepper (optional)
--  1 tablespoon of cider vinegar
--  12-18 thai chilli - cut up (medium heat; 24 up for high heat)
+- 1 cup of olive oil
+- 5 tablespoons of garlic powder
+- 3 lemons - squeeze the juice out.
+- 2 tablespoon paprika
+- 1 tablespoon of cayenne pepper (optional)
+- 1 tablespoon of cider vinegar
+- 12-18 thai chilli - cut up (medium heat; 24 up for high heat)
 
 Directions
 ----------

@@ -7,6 +7,7 @@ Garlic Bread
 
 Ingredients
 -----------
+
 - 9 - 10 medium cloves garlic (about the size of a plump cashew nut), skins left on
 - 6 tablespoons unsalted butter, softened
 - 2 tablespoons grated Parmesan cheese
@@ -15,9 +16,10 @@ Ingredients
 
 Directions
 ----------
+
 1. Adjust oven rack to middle position and heat oven to 500F. Meanwhile,
    toast garlic cloves in small skillet over medium heat, shaking pan
-   occasionally, until fragrant and color of cloves deepens slightly, about
+   occasionally, until fragrant and colour of cloves deepens slightly, about
    8 minutes. When cool enough to handle, skin and mince cloves (you should
    have about 3 tablespoons). Using dinner fork, mash garlic, butter, cheese,
    and salt in small bowl until thoroughly combined.

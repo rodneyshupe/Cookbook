@@ -17,7 +17,7 @@ Ingredients
 - Neutral oil
 - 1/4 cup finely diced white or yellow onion
 - 1/4 cup diced red pepper
-- 1 pound boneless, skinless chicken thighs, cut in very small pieces
+- 1 pound (450 g) boneless, skinless chicken thighs, cut in very small pieces
 - 2 large garlic cloves, chopped fine
 - 1/2 tablespoon fresh ginger, peeled and chopped fine
 - 1 head butter lettuce, separated into individual 'leaf cups'

@@ -28,7 +28,7 @@ Ingredients
 Directions
 ----------
 
-1.  Heat a skillet, add sesame oil. Season prawns in a bowl with sambel, salt, and pepper. Sear prawns for approx. 2 minutes or until the prawns have turned colour and firmed up.
+1. Heat a skillet, add sesame oil. Season prawns in a bowl with sambel, salt, and pepper. Sear prawns for approx. 2 minutes or until the prawns have turned colour and firmed up.
 2. Add white wine, lemon juice, and reduce for 1 minute. Put aside to cool.
 3. In a large bowl place Mache' lettuce, onions, nuts, tomatoes, yellow peppers, mangoes, and Thai basil. Season.
 4. In a small bowl add lime juice, olive oil, and red wine vinegar, whisk.

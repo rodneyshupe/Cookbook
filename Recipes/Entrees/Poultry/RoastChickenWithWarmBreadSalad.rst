@@ -5,10 +5,11 @@ Roast Chicken with Warm Bread Salad
 | Prep Time: 15 minutes + 24 hours | Cook Time: 1 1/2 hours | Yield: 4-6 servings |
 +----------------------------------+------------------------+---------------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/10920-roast-chicken-with-warm-bread-salad>`__
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/10920-roast-chicken-with-warm-bread-salad>`__
 
 Ingredients
 -----------
+
 - 4 pound (1.8kg) whole chickens, giblets discarded
 - Kosher salt and pepper
 - 4 (1-inch-thick) slices country-style bread, 8 ounces (225g), bottom crust removed, cut into 3/4 to 1 inch pieces (5 cups)
@@ -22,6 +23,7 @@ Ingredients
 
 Directions
 ----------
+
 1. Place chicken, breast side down, on cutting board. Using kitchen shears,
    cut through bones on either side of backbone; discard backbone. Do not
    trim off any excess fat or skin. Flip chicken over and press on breastbone
@@ -32,16 +34,16 @@ Directions
    and turn legs so drumsticks face inward toward breasts. Place chicken on
    wire rack set in rimmed baking sheet or on large plate and refrigerate,
    uncovered, for 24 hours.
-3. Adjust oven rack to middle position and heat oven to 475 degrees. Spray
+3. Adjust oven rack to middle position and heat oven to 475F. Spray
    12-inch skillet with vegetable oil spray. Toss bread with broth and
    2 tablespoons oil until pieces are evenly moistened. Arrange bread in
-   skillet in single layer, with majority of crusted pieces near center,
+   skillet in single layer, with majority of crusted pieces near centre,
    crust side up.
 4. Pat chicken dry with paper towels and place, skin side up, on top of
    bread. Brush 2 teaspoons oil over chicken skin and sprinkle with
    1/4 teaspoon salt and 1/4 teaspoon pepper. Roast chicken until skin is
-   deep golden brown and thickest part of breast registers 160 degrees
-   and thighs register 175 degrees, 45 to 50 minutes, rotating skillet
+   deep golden brown and thickest part of breast registers 160F
+   and thighs register 175F, 45 to 50 minutes, rotating skillet
    halfway through roasting.
 5. While chicken roasts, whisk vinegar, mustard, 1/4 teaspoon salt, and
    1/4 teaspoon pepper together in small bowl. Slowly whisk in remaining
@@ -53,4 +55,3 @@ Directions
    chicken and whisk any accumulated juices into vinaigrette. Add bread and
    vinaigrette to arugula and toss to evenly coat. Transfer salad to serving
    platter and serve with chicken.
-

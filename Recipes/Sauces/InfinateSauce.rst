@@ -10,9 +10,9 @@ Source: `America's Test Kitchen <https://www.americastestkitchen.com/articles/39
 Ingredients
 -----------
 
-- 4 tablespoons unsalted butter 
-- 1/2 tablespoon soy sauce 
-- 1/2 teaspoon lemon juice 
+- 4 tablespoons unsalted butter
+- 1/2 tablespoon soy sauce
+- 1/2 teaspoon lemon juice
 
 Directions
 ----------

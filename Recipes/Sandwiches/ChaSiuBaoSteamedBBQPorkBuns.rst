@@ -3,9 +3,9 @@ Cha Siu Bao
 
 Steamed BBQ Pork Buns
 
-+-----------------+---------------------+
-| Total Time: TBD | Yield: 14 pork buns |
-+-----------------+---------------------+
++---------------------+
+| Yield: 14 pork buns |
++---------------------+
 
 Source: `Seonkyoung Longest <https://seonkyounglongest.com/bbq-pork-buns/>`__
 
@@ -25,7 +25,7 @@ Ingredients
 - 2 tablespoons Cooking oil
 - 1 Medium size onion, small diced (Approximately 1 cup)
 - 1 Clove garlic, minced
-- 10 oz. Small chopped or ground pork. (You can use pork loin, shoulder or belly)
+- 10 ounces (285 g) Small chopped or ground pork. (You can use pork loin, shoulder or belly)
 - 14 pieces 2 1/2" cut parchment paper, cupcake paper cup or coffee filter
 
 Directions
@@ -45,7 +45,7 @@ Directions
    then simmer for 5 minutes or until it thickens. Stirling frequently.
    Transfer to a bowl and cover. Let it cool in a refrigerator for 1 to 2
    hours or in a freezer for 30 minutes.
-6. While filling is cooling, divide dough into 2 oz. of 14 equal portions.
+6. While filling is cooling, divide dough into 2 ounces of 14 equal portions.
    Roll each piece on your palm. Place them on a parchment paper/coffee
    filter lined baking sheet or a flat surface and cover with plastic wrap
    or a towel; let it rest for additional 20 minutes.

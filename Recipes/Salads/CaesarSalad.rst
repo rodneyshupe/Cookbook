@@ -11,28 +11,28 @@ Ingredients
 Dressing
 ^^^^^^^^
 
--  3 cloves garlic, peeled, divided
--  3/4 cup mayonnaise
--  5 anchovy fillets, minced (can substitute 2 1/2 teaspoons anchovy
-   paste)
--  6 tablespoons grated Parmesan cheese, divided
--  1 teaspoon Worcestershire sauce
--  1 teaspoon Dijon mustard
--  1 tablespoon lemon juice, or more to taste
--  salt to taste
--  ground black pepper to taste
+- 3 cloves garlic, peeled, divided
+- 3/4 cup mayonnaise
+- 5 anchovy fillets, minced (can substitute 2 1/2 teaspoons anchovy
+  paste)
+- 6 tablespoons grated Parmesan cheese, divided
+- 1 teaspoon Worcestershire sauce
+- 1 teaspoon Dijon mustard
+- 1 tablespoon lemon juice, or more to taste
+- salt to taste
+- ground black pepper to taste
 
 Croutons
 ^^^^^^^^
 
--  3 cloves garlic, peeled, divided
--  1/4 cup olive oil
--  4 cups day-old bread, cubed
+- 3 cloves garlic, peeled, divided
+- 1/4 cup olive oil
+- 4 cups day-old bread, cubed
 
 Salad
 ^^^^^
 
--  1 head romaine lettuce, torn into bite-size pieces
+- 1 head romaine lettuce, torn into bite-size pieces
 
 Directions
 ----------

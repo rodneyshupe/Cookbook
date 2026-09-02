@@ -8,14 +8,14 @@ Lemon-Herb Cod Fillets with Crispy Garlic Potatoes
 Ingredients
 -----------
 
--  1 1/2 pounds (680g) russet potatoes, unpeeled, sliced into 1/4-inch-thick rounds
--  2 tablespoons unsalted butter, melted, plus 3 tablespoons cut into
-   1/4-inch pieces
--  3 garlic cloves, minced
--  4 sprigs fresh thyme, plus 1 teaspoon minced
--  Salt and pepper
--  4 skinless cod fillets, 6 to 8 ounce (170g to 225g), 1 to 1 1/2 inches thick
--  1 lemon, thinly sliced
+- 1 1/2 pounds (680g) russet potatoes, unpeeled, sliced into 1/4-inch-thick rounds
+- 2 tablespoons unsalted butter, melted, plus 3 tablespoons cut into
+  1/4-inch pieces
+- 3 garlic cloves, minced
+- 4 sprigs fresh thyme, plus 1 teaspoon minced
+- Salt and pepper
+- 4 skinless cod fillets, 6 to 8 ounces (170g to 225g), 1 to 1 1/2 inches thick
+- 1 lemon, thinly sliced
 
 Directions
 ----------
@@ -34,4 +34,3 @@ Directions
    140F, about 15 minutes.
 4. To serve, slide spatula underneath potatoes and cod and gently
    transfer to individual plates.
-

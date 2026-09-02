@@ -5,31 +5,30 @@ Wild Rice and Mushroom Soup
 | Prep Time: 30 minutes | Cook Time: 2 1/4 hours | Yield: 6-8 servings |
 +-----------------------+------------------------+---------------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/7283-wild-rice-and-mushroom-soup>`__
-
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/7283-wild-rice-and-mushroom-soup>`__
 
 Ingredients
 -----------
 
--  1/4 ounce dried shiitake mushrooms, rinsed
--  4 1/4 cups water
--  1 sprig fresh thyme
--  1 bay leaf
--  1 garlic clove, peeled, plus 4 cloves, minced
--  Salt and pepper
--  1/4 teaspoons baking soda
--  1 cup wild rice
--  4 tablespoons unsalted butter
--  1 pound cremini mushrooms, trimmed and sliced 1/4 inch thick
--  1 onion, chopped fine
--  1 teaspoon tomato paste
--  2/3 cup dry sherry
--  4 cups low-sodium chicken broth
--  1 tablespoon soy sauce
--  1/4 cup cornstarch
--  1/2 cup heavy cream
--  1/4 cup minced fresh chives
--  1/4 teaspoon finely grated lemon zest
+- 1/4 ounce dried shiitake mushrooms, rinsed
+- 4 1/4 cups water
+- 1 sprig fresh thyme
+- 1 bay leaf
+- 1 garlic clove, peeled, plus 4 cloves, minced
+- Salt and pepper
+- 1/4 teaspoons baking soda
+- 1 cup wild rice
+- 4 tablespoons unsalted butter
+- 1 pound cremini mushrooms, trimmed and sliced 1/4 inch thick
+- 1 onion, chopped fine
+- 1 teaspoon tomato paste
+- 2/3 cup dry sherry
+- 4 cups low-sodium chicken broth
+- 1 tablespoon soy sauce
+- 1/4 cup cornstarch
+- 1/2 cup heavy cream
+- 1/4 cup minced fresh chives
+- 1/4 teaspoon finely grated lemon zest
 
 Directions
 ----------

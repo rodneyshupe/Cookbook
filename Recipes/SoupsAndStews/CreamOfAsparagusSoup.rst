@@ -5,16 +5,15 @@ Cream of Asparagus Soup
 | Prep Time: 20 minutes | Cook Time: 50 minutes | Yield: 4 |
 +-----------------------+-----------------------+----------+
 
-
 Ingredients
 -----------
 
--  2 pounds green asparagus
--  1 large onion, chopped
--  3 tablespoons unsalted butter
--  5 cups chicken broth
--  1/2 cup creme fraiche or heavy cream
--  1/4 teaspoon fresh lemon juice, or to taste
+- 2 pounds green asparagus
+- 1 large onion, chopped
+- 3 tablespoons unsalted butter
+- 5 cups chicken broth
+- 1/2 cup creme fraiche or heavy cream
+- 1/4 teaspoon fresh lemon juice, or to taste
 
 Directions
 ----------

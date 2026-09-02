@@ -30,7 +30,6 @@ Entrees - Misc
 
 .. include:: ../../../includes/recipePageBreak.rst
 
-.. include:: FoilPackDinners.rst
 .. include:: TheBestDIYFoilPacketDinners.rst
 
 .. include:: ../../../includes/recipePageBreak.rst

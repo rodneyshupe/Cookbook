@@ -8,11 +8,10 @@ Roasted Beets and Carrots
 Ingredients
 -----------
 
--  6 medium beats
--  2 1/2 pounds carrots, cut diagonally into 3/4 inch thick slices
--  2 tablespoons olive oil
--  Coarse (kosher or sea) salt and freshly ground black pepper
-
+- 6 medium beets
+- 2 1/2 pounds carrots, cut diagonally into 3/4 inch thick slices
+- 2 tablespoons olive oil
+- Coarse (kosher or sea) salt and freshly ground black pepper
 
 Directions
 ----------

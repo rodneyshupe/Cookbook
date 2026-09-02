@@ -5,23 +5,22 @@ Turkey Barley Soup
 | Prep Time: 15 minutes | Cook Time: 1 hour | Yield: 6 servings |
 +-----------------------+-------------------+-------------------+
 
-
 Ingredients
 -----------
 
--  2 tablespoons turkey fat
--  1 onion, chopped fine
--  1/2 teaspoon dried thyme
--  Pinch red pepper flakes
--  2 garlic cloves, minced
--  8 cups recipe `Simple Turkey Stock <#simple-turkey-stock>`__
--  3/4 cup pearled barley
--  1 bay leaf
--  2 celery ribs, cut into 1/4-inch pieces
--  2 carrots, peeled and cut into 1/4-inch pieces
--  2 cups shredded turkey
--  1 tablespoon lemon juice
--  Salt and pepper
+- 2 tablespoons turkey fat
+- 1 onion, chopped fine
+- 1/2 teaspoon dried thyme
+- Pinch red pepper flakes
+- 2 garlic cloves, minced
+- 8 cups recipe `Simple Turkey Stock <#simple-turkey-stock>`__
+- 3/4 cup pearled barley
+- 1 bay leaf
+- 2 celery ribs, cut into 1/4-inch pieces
+- 2 carrots, peeled and cut into 1/4-inch pieces
+- 2 cups shredded turkey
+- 1 tablespoon lemon juice
+- Salt and pepper
 
 Directions
 ----------

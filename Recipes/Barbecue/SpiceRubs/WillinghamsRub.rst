@@ -11,15 +11,15 @@ ribs). Recommend meats are: Beef round, Prime Rib, Pork Shoulders.
 Ingredients
 -----------
 
--  4 tablespoon cumin
--  4 tablespoon thyme
--  4 tablespoon garlic powder
--  4 tablespoon black pepper - freshly ground
--  2 tablespoon cayenne pepper
--  2 tablespoon salt
--  2 tablespoon curry powder
--  1 tablespoon onion powder
--  1 tablespoon MSG or other flavor enhancer
+- 4 tablespoon cumin
+- 4 tablespoon thyme
+- 4 tablespoon garlic powder
+- 4 tablespoon black pepper - freshly ground
+- 2 tablespoon cayenne pepper
+- 2 tablespoon salt
+- 2 tablespoon curry powder
+- 1 tablespoon onion powder
+- 1 tablespoon MSG or other flavour enhancer
 
 Notes
 -----

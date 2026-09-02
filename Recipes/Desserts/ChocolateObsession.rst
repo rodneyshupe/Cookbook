@@ -9,9 +9,9 @@ Ingredients
 -----------
 
 - 1/4 cup heavy cream
-- 8 oz butter
+- 8 ounces butter
 - 1 cup sugar
-- 8 oz semi-sweet chocolate
+- 8 ounces semi-sweet chocolate
 - 1/3 cup cocoa powder
 - 6 egg
 

@@ -24,7 +24,7 @@ Ingredients
 Directions
 ----------
 
-1. Adjust oven rack to center position and preheat oven to 350F (175C). 
+1. Adjust oven rack to center position and preheat oven to 350F (175C).
 2. Season chicken generously with salt and pepper. Heat oil in a 4 to
    5-quart straight-sided saute pan or Dutch oven over medium-high heat until
    shimmering. Add chicken, skin side down, and cook without moving it until

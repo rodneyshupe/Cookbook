@@ -37,4 +37,3 @@ Directions
 3. Add paprika, turmeric, cayenne pepper, and thyme, and cook for 30 seconds.
    Add orange juice, bring to a boil and simmer for 2 minutes, add prawns and
    scallops back to the pan along with peanuts and reheat. Serve over rice.
-

@@ -8,9 +8,9 @@ Pectin (from Green Apples)
 Ingredients
 -----------
 
--  7 tart green apples
--  4 cups water
--  2 tablespoons lemon juice
+- 7 tart green apples
+- 4 cups water
+- 2 tablespoons lemon juice
 
 *Note about apples: Crabapples are the best, but Granny Smith work well.
 Small green immature apples of most varieties work too.*
@@ -29,10 +29,10 @@ Directions
    refrigerator or freezer, or bottle them using a hot water bath such
    as Fowlers' Vacola.
 
-Variation Pectin from Oranges or Lemons
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Variation: Pectin from Oranges or Lemons
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-In citrus fruits, most pectin sites in the white membrane just under the
+In citrus fruits, most pectin sits in the white membrane just under the
 peel. By cooking the peel with the seeds and fruit membrane you can make
 your own pectin at home to use in recipes for jam or marmalade
 

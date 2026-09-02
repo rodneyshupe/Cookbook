@@ -21,5 +21,5 @@ Directions
 ----------
 
 Combine all ingredients in small bowl. Cover with plastic wrap and refrigerate
-until flavors meld, about 15 minutes.
+until flavours meld, about 15 minutes.
 

@@ -5,25 +5,27 @@ Hearty Beef Lasagna
 | Prep Time: 30 minutes | Cook Time: 1 hour | Yield: 8-12 servings, one 13x9 or two 8x8 pans |
 +-----------------------+-------------------+------------------------------------------------+
 
-Source: `Cooks Country <https://www.cookscountry.com/recipes/9407-hearty-beef-lasagna>`__
+Source: `Cook's Country <https://www.cookscountry.com/recipes/9407-hearty-beef-lasagna>`__
 
 Ingredients
 -----------
 
 Lasagna
 ^^^^^^^
+
 - Vegetable oil spray
 - 17 curly-edged lasagna noodles
 - 1 tablespoon salt
 - 12 ounces (340g) mozzarella cheese, shredded (3 cups)
-- 1/4 cup grated grated Pecorino Romano cheese (Can substitute Parmesan)
+- 1/4 cup grated Pecorino Romano cheese (Can substitute Parmesan)
 
 Meat Sauce
 ^^^^^^^^^^
-- 2	slices hearty white sandwich bread, torn into small pieces
-- 1/4	cup milk
+
+- 2 slices hearty white sandwich bread, torn into small pieces
+- 1/4 cup milk
 - 1 pound (450g) 90 percent lean ground beef
-- 1/2 pound (225g) hot italian sasage removed from casing
+- 1/2 pound (225g) hot italian sausage removed from casing
 - 3/4 teaspoon salt
 - 1/2 teaspoon pepper
 - 1 tablespoon extra-virgin olive oil
@@ -35,6 +37,7 @@ Meat Sauce
 
 Cream Sauce
 ^^^^^^^^^^^
+
 - 8 ounces (225g), approx 1 cup, cottage cheese
 - 4 ounces (113g) Pecorino Romano cheese, grated (2 cups) (Can substitute Parmesan)
 - 1 cup heavy cream
@@ -60,7 +63,7 @@ Directions
 3. Add beef mixture, breaking meat into small pieces with wooden spoon, and
    cook until no longer pink, about 4 minutes. Stir in tomatoes and bring to
    simmer, scraping up any browned bits. Reduce heat to medium-low and simmer
-   until flavors have melded, about 5 minutes.
+   until flavours have melded, about 5 minutes.
 4. **For the Cream Sauce**: Whisk all ingredients in bowl until combined.
 5. Lay 3 noodles lengthwise in prepared dish with ends touching 1 short side
    of dish, leaving gap at far end. Lay 1 half noodle crosswise to fill gap
@@ -79,9 +82,10 @@ Directions
 
 Notes
 -----
-* **Premade meat sauce:** Instead of making meat sauce you can substitute
+
+- **Premade meat sauce:** Instead of making meat sauce you can substitute
   6 cups premade `Bolognese Sauce <#bolognese-sauce>`__.
-* **To Make Ahead/Freeze:** At end of step 7, cover dish with greased
+- **To Make Ahead/Freeze:** At end of step 7, cover dish with greased
   aluminum foil and refrigerate for up to 24 hours or place in freezer. If
   freezing take out of freeze a day ahead and let thaw in the regrigerator.
   When ready to eat, bake lasagna as directed in step 8, increasing covered

@@ -5,15 +5,13 @@ Roasted Brussels Sprouts
 | Prep Time: 15 minutes | Cook Time: 25 minutes | Yield: 6-8 |
 +-----------------------+-----------------------+------------+
 
-
 Ingredients
 -----------
 
--  2 pounds Brussels sprouts, trimmed and halved
--  3 tablespoons olive oil
--  1 tablespoon water
--  Salt and pepper
-
+- 2 pounds Brussels sprouts, trimmed and halved
+- 3 tablespoons olive oil
+- 1 tablespoon water
+- Salt and pepper
 
 Directions
 ----------
@@ -28,13 +26,12 @@ Directions
    browned and tender, 10 to 12 minutes longer. Transfer to serving
    platter, season with salt and pepper to taste, and serve.
 
-
 Variations
 ----------
 
 **Roasted Brussels Sprouts with Walnuts and Lemon** \* After
 transferring to serving platter, toss with 3 tablespoons melted unsalted
-butter, 1 tbsp lemon juice, and 1/3 cup finely chopped roasted walnuts.
+butter, 1 tablespoon lemon juice, and 1/3 cup finely chopped roasted walnuts.
 
 **Roasted Brussels Sprouts with Garlic, Red Pepper Flakes, and
 Parmesan.** \* Between steps 1 and 2: heat 3 tablespoons of olive oil in
@@ -48,7 +45,7 @@ Parmesan cheese.
 and 2: cook 4 slices bacon in 10-inch skillet over medium heat until
 crisp, 7 to 10 minutes. Transfer bacon to paper towel-lined plate and
 reserve 1 tablespoon bacon fat. Finely chop bacon. \* After transferring
-to serving platter, toss with toss with remaining 2 tablespoons oil,
-reserved bacon fat, chopped bacon, and 1/2 cup finley chopped toasted
+to serving platter, toss with remaining 2 tablespoons oil,
+reserved bacon fat, chopped bacon, and 1/2 cup finely chopped toasted
 pecans.
 

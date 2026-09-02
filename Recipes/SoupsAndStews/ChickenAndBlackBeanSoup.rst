@@ -1,5 +1,3 @@
-:caption: Chicken and Black Bean Soup
-
 Chicken and Black Bean Soup
 ===========================
 
@@ -9,9 +7,10 @@ Chicken and Black Bean Soup
 
 Ingredients
 -----------
+
 - 2 cups shredded chicken
-- 1 can (15 ounces) black beans, rinsed and drained
-- 1 can (14.5 ounces) diced tomatoes
+- 1 can (15 ounces / 425 ml) black beans, rinsed and drained
+- 1 can (13.5 fluid ounces / 400 ml) diced tomatoes
 - 1 cup frozen corn kernels
 - 1 small onion, diced
 - 1 red bell pepper, diced
@@ -27,6 +26,7 @@ Ingredients
 
 Directions
 ----------
+
 1. Heat a large pot over medium heat. Add a splash of oil or a pat of butter.
 2. Add the onion, bell pepper, jalapeno (if using), and garlic to the pot and
    saute for 5 minutes, or until the vegetables are softened.

@@ -8,25 +8,25 @@ Chicken Yakiudon
 Ingredients
 -----------
 
--  1 pound (450g) boneless, skinless chicken breasts, patted dry with paper
-   towels, trimmed, and cut into 1-inch squares
--  2 tablespoons toasted sesame oil
--  1 tablespoon cornstarch
--  1 tablespoon all purpose flour
--  1/4 cup ketchup
--  1/4 cup soy sauce
--  2 tablespoons Worcestershire sauce
--  1 1/2 tablespoons packed brown sugar
--  3 garlic cloves, minced
--  3 anchovy fillets, rinsed, patted dry, and minced
--  1 teaspoon rice vinegar
--  1 pound (450g) fresh or 8 ounces (225g) dried udon noodles
--  2 tablespoon vegetable oil
--  6 ounces (170g) shiitake mushrooms, stemmed and sliced 1/4 inch thick
--  1 carrot, peeled and sliced 1/8 inch thick on bias
--  3/4 cup chicken broth
--  6 cups napa cabbage, sliced crosswise into 1/2-inch strips
--  7 scallions, cut on bias into 1-inch lengths
+- 1 pound (450g) boneless, skinless chicken breasts, patted dry with paper
+  towels, trimmed, and cut into 1-inch squares
+- 2 tablespoons toasted sesame oil
+- 1 tablespoon cornstarch
+- 1 tablespoon all purpose flour
+- 1/4 cup ketchup
+- 1/4 cup soy sauce
+- 2 tablespoons Worcestershire sauce
+- 1 1/2 tablespoons packed brown sugar
+- 3 garlic cloves, minced
+- 3 anchovy fillets, rinsed, patted dry, and minced
+- 1 teaspoon rice vinegar
+- 1 pound (450g) fresh or 8 ounces (225g) dried udon noodles
+- 2 tablespoon vegetable oil
+- 6 ounces (170g) shiitake mushrooms, stemmed and sliced 1/4 inch thick
+- 1 carrot, peeled and sliced 1/8 inch thick on bias
+- 3/4 cup chicken broth
+- 6 cups napa cabbage, sliced crosswise into 1/2-inch strips
+- 7 scallions, cut on bias into 1-inch lengths
 
 Directions
 ----------
@@ -36,7 +36,7 @@ Directions
    and vinegar together in second bowl. Stir 2 tablespoons sauce into
    chicken in a medium bowl and set aside remaining sauce.
 3. Bring 4 quarts water to boil in large pot. Add noodles and cook,
-   stirring often, until almost tender (center should still be firm with
+   stirring often, until almost tender (centre should still be firm with
    slightly opaque dot), 3 to 10 minutes (cooking times will vary
    depending on whether you are using fresh or dry noodles). Drain
    noodles and rinse under cold running water until water runs clear.
@@ -65,4 +65,3 @@ Directions
    are warmed through, about 1 minute. Transfer noodles to bowl with
    vegetables and chicken and toss to combine. Season with salt to
    taste, and serve immediately.
-

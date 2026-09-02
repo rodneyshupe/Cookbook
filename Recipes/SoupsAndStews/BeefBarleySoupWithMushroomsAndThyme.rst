@@ -6,8 +6,7 @@ Beef Barley Soup with Mushrooms and Thyme
 |                        | Soup Time: 1 hours     |                    |
 +------------------------+------------------------+--------------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/770-beef-barley-soup-with-mushrooms-and-thyme>`__
-
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/770-beef-barley-soup-with-mushrooms-and-thyme>`__
 
 Ingredients
 -----------
@@ -15,27 +14,26 @@ Ingredients
 Rich Beef Broth For Soup
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
--  2 tablespoons vegetable oil
--  6 pounds beef shank meat cut from bone in large chunks, or 4 pounds
-   chuck and 2 pounds of small marrow bones
--  1 large onion, halved
--  1/2 cup dry red wine
--  1/2 teaspoon table salt
-
+- 2 tablespoons vegetable oil
+- 6 pounds (2.7 kg) beef shank meat cut from bone in large chunks, or 4 pounds
+  chuck and 2 pounds of small marrow bones
+- 1 large onion, halved
+- 1/2 cup dry red wine
+- 1/2 teaspoon table salt
 
 Soup
 ^^^^
 
--  2 tablespoons vegetable oil
--  1 medium onion, cut into medium dice
--  2 medium carrots, cut into medium dice
--  12 ounces domestic mushrooms or wild mushrooms, stems removed, wiped
-   clean, and sliced thin
--  1/2 teaspoon dried thyme or 1 1/2 teaspoons minced fresh thyme
--  1/2 cup canned tomatoes, cut into medium dice
--  1/2 cup pearl barley
--  1/4 cup minced fresh flat leaf parsley leaves
--  Salt and ground black pepper
+- 2 tablespoons vegetable oil
+- 1 medium onion, cut into medium dice
+- 2 medium carrots, cut into medium dice
+- 12 ounces domestic mushrooms or wild mushrooms, stems removed, wiped
+  clean, and sliced thin
+- 1/2 teaspoon dried thyme or 1 1/2 teaspoons minced fresh thyme
+- 1/2 cup canned tomatoes, cut into medium dice
+- 1/2 cup pearl barley
+- 1/4 cup minced fresh flat leaf parsley leaves
+- Salt and ground black pepper
 
 Directions
 ----------
@@ -50,7 +48,7 @@ Broth
    and set aside. Add red wine to the empty kettle; cook until reduced
    to a syrup, 1 to 2 minutes. Return browned bones, meat, and onion to
    kettle. Reduce heat to low, then cover and sweat meat and onions
-   until they have released about 3/4 cup dark, very intensely flavored
+   until they have released about 3/4 cup dark, very intensely flavoured
    liquid, about 20 minutes. Increase heat to medium-high, add 2 quarts
    water and salt; bring to a simmer, reduce heat to very low, partially
    cover, and barely simmer until meat is tender, 1 1/2 to 2 hours.
@@ -60,7 +58,6 @@ Broth
    days.) Let broth stand until fat rises to the top; skim and discard
    fat. When the unreserved meat is cool enough to handle, shred into
    bite-size pieces. Reserve 2 cups shredded meat for soup.
-
 
 Soup
 ^^^^

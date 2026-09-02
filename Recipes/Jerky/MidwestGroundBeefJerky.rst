@@ -1,9 +1,9 @@
 Midwest Ground Beef Jerky
 =========================
 
-+-----------------------+--------------------------+---------------------------+
-| Prep Time: 20 minutes | Drying Time: 3 1/2 hours | Yield: about 3/4 lb jerky |
-+-----------------------+--------------------------+---------------------------+
++-----------------------+--------------------------+------------------------------+
+| Prep Time: 20 minutes | Drying Time: 3 1/2 hours | Yield: about 3/4 pound jerky |
++-----------------------+--------------------------+------------------------------+
 
 Equipment
 ---------
@@ -12,17 +12,17 @@ Dehydrator
 Ingredients
 -----------
 
--  2lb extra Lean ground beef (10% fat or less)
--  2 tablespoons cold water
--  4 teaspoons liquid smoke (hickory)
--  2 tablespoons brown sugar
--  1 teaspoons kosher salt
--  2 teaspoons garlic powder
--  2 teaspoons onion powder
--  2 teaspoons ground black pepper
--  2 teaspoons cayenne pepper
--  3/8 teaspoons curing salt (prague powder #1)
--  1 teaspoons corn syrup solids (optional)
+- 2 pounds (900 g) extra Lean ground beef (10% fat or less)
+- 2 tablespoons cold water
+- 4 teaspoons liquid smoke (hickory)
+- 2 tablespoons brown sugar
+- 1 teaspoon kosher salt
+- 2 teaspoons garlic powder
+- 2 teaspoons onion powder
+- 2 teaspoons ground black pepper
+- 2 teaspoons cayenne pepper
+- 3/8 teaspoons curing salt (prague powder #1)
+- 1 teaspoon corn syrup solids (optional)
 
 Directions
 ----------

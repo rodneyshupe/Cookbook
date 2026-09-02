@@ -1,5 +1,5 @@
-Presure Cooker (or Slow Cooker) Chili
-=====================================
+Pressure Cooker (or Slow Cooker) Chili
+======================================
 
 +-----------------------+--------------------+-------------------------------------+
 | Prep Time: 15 minutes | Total Time: 1 hour | Yield: Makes around 7 cups of chili |
@@ -7,11 +7,12 @@ Presure Cooker (or Slow Cooker) Chili
 
 Source: `365 Days of Slow and Pressure Cooking <https://www.365daysofcrockpot.com/down-home-instant-pot-chili/>`__
 
-A fast and easy chili recipe that has lots of flavor but isn't too spicy!
+A fast and easy chili recipe that has lots of flavour but isn't too spicy!
 Perfect for any night of the week or for the chili cook-off contest.
 
 Equipment
 ---------
+
 Electric Pressure Cooker
 
 Ingredients
@@ -19,20 +20,20 @@ Ingredients
 
 - 1 rasher bacon chopped
 - 1 cup diced yellow onion
-- 2 pounds lean ground beef
-- 2 tsp kosher salt
-- 1 tsp black pepper
-- 1 Tbsp chili powder
-- 1 Tbsp cumin
-- 2 tsp garlic powder
-- 2 tsp Better than Bouillon Beef Base
+- 2 pounds (900 g) lean ground beef
+- 2 teaspoons kosher salt
+- 1 teaspoon black pepper
+- 1 tablespoon chili powder
+- 1 tablespoon cumin
+- 2 teaspoons garlic powder
+- 2 teaspoons Better than Bouillon Beef Base
 - 1 chipotle pepper canned in adobo sauce, chopped
 - 1 cup water
-- 2 (15.5 oz) cans chili beans
-- 1 (28 oz) can crushed tomatoes
-- 1 (6 oz) can tomato paste
-- 1/2 tsp cinnamon
-- 1 tsp cocoa powder
+- 2 (15.5 ounce / 458 ml) cans chili beans
+- 1 (28 ounce / 828 ml) can crushed tomatoes
+- 1 (6 ounces / approximately 156 ml) can tomato paste
+- 1/2 teaspoon cinnamon
+- 1 teaspoon cocoa powder
 - Toppings: Fritos, grated cheese, sour cream, diced green or red onions
 
 Directions
@@ -43,7 +44,7 @@ Directions
    bacon grease. Stir for a couple of minutes and then add in the beef.
    Break up the beef and brown it for 5-10 minutes. If there is excess
    grease spoon it off and discard. Leave the bacon in there for added
-   flavor.
+   flavour.
 2. Add in the kosher salt, pepper, chili powder, cumin, garlic powder,
    Better than Bouillon and adobo. Stir to really coat the beef in all the
    seasonings.
@@ -58,7 +59,7 @@ Directions
    move the valve to venting. Remove the lid.
 6. Stir the chili really well. Then ladle into bowls and serve with
    toppings. If desired refrigerate the chili and warm up the next day and
-   serve for even better flavor.
+   serve for even better flavour.
 
 Notes
 -----
@@ -76,4 +77,4 @@ Slow Cooker Directions:
 4. Cover the slow cooker and cook on low for 6-8 hours.
 5. Remove the lid. Stir the chili really well. Then ladle into bowls and
    serve with toppings. If desired refrigerate the chili and warm up the
-   next day and serve for even better flavor.
+   next day and serve for even better flavour.

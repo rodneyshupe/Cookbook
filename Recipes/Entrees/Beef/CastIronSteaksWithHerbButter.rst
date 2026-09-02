@@ -9,6 +9,7 @@ Source: `Americas Test Kitchen <https://www.americastestkitchen.com/recipes/9249
 
 Ingredients
 -----------
+
 - 2 boneless strip steaks 1 pound (450g) ea, 1 1/2 inches thick, trimmed
 - Kosher salt and pepper
 - 4 tablespoons unsalted butter, softened
@@ -20,6 +21,7 @@ Ingredients
 
 Directions
 ----------
+
 1. Sprinkle entire surface of each steak with 1 teaspoon salt. Let sit at
    room temperature for at least 30 minutes and up to 1 hour.
 2. Adjust oven rack to middle position, place 12-inch cast-iron skillet on
@@ -37,4 +39,3 @@ Directions
    carving board, dollop 2 tablespoons herb butter on each steak, tent with
    aluminum foil, and let rest for 5 to 10 minutes. Slice steaks 1/2 inch
    thick and serve.
-

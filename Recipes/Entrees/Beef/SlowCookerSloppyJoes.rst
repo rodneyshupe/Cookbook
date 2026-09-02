@@ -11,6 +11,7 @@ Slow Cooker
 
 Ingredients
 -----------
+
 - 2 slices high-quality white sandwich bread, torn into quarters
 - 1/4 cup whole milk
 - 2 pounds (900g) 85 percent lean ground beef
@@ -19,7 +20,7 @@ Ingredients
 - 2 onions, minced
 - 4 garlic cloves, minced
 - 1 teaspoon chili powder
-- 1 (15-ounce) can tomato sauce
+- 1 (15-ounce / 425 ml) can tomato sauce
 - 1 cup ketchup
 - 2 teaspoons brown sugar
 - 1/2 teaspoon hot sauce
@@ -27,6 +28,7 @@ Ingredients
 
 Directions
 ----------
+
 1. Mash bread and milk into paste in large bowl using fork. Mix in
    ground beef, 1/2 teaspoon salt, and 1/2 teaspoon pepper using hands.
 2. Heat oil in 12-inch skillet over medium-high heat until shimmering. Add

@@ -10,11 +10,13 @@ Ingredients
 
 Flour Paste
 ^^^^^^^^^^^
+
 - 1/2 cup water
 - 3 tablespoons bread flour
 
 Dough
 ^^^^^
+
 - 1/2 cup cold milk
 - 1 large egg
 - 2 cups (11 ounces) bread flour
@@ -53,7 +55,7 @@ Directions
    center. Cover with plastic and let rise until doubled, 45 minutes to
    1 hour.
 6. When rolls are nearly doubled, adjust oven rack to lowest position and
-   heat oven to 375 degrees. Bake rolls until deep golden brown,
+   heat oven to 375F. Bake rolls until deep golden brown,
    25 to 30 minutes. Let rolls cool in pan on wire rack for 3 minutes;
    invert rolls onto rack, then reinvert. Brush tops and sides of rolls with
    melted butter. Let rolls cool for at least 20 minutes before serving.

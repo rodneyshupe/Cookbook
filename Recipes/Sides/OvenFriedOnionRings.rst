@@ -5,21 +5,20 @@ Oven-Fried Onion Rings
 | Prep Time: 10 minutes | Cook Time: 25 minutes | Yield: 4-6 |
 +-----------------------+-----------------------+------------+
 
-Source: `Cooks Country <https://www.americastestkitchen.com/recipes/2938-oven-fried-onion-rings>`__
-
+Source: `Cook's Country <https://www.americastestkitchen.com/recipes/2938-oven-fried-onion-rings>`__
 
 Ingredients
 -----------
 
--  1/2 cup all-purpose flour
--  1 large egg, at room temperature
--  1/2 cup buttermilk, at room temperature  (substitute 3/4 teaspoons of cream of tartar and 1/2 cup milk)
--  1/4 teaspoon cayenne pepper
--  Salt and pepper
--  30 saltines
--  4 cups kettle-cooked potato chips
--  2 large yellow onions cut into 24 large rings (see note)
--  6 tablespoons vegetable oil
+- 1/2 cup all-purpose flour
+- 1 large egg, at room temperature
+- 1/2 cup buttermilk, at room temperature  (substitute 3/4 teaspoons of cream of tartar and 1/2 cup milk)
+- 1/4 teaspoon cayenne pepper
+- Salt and pepper
+- 30 saltines
+- 4 cups kettle-cooked potato chips
+- 2 large yellow onions cut into 24 large rings (see note)
+- 6 tablespoons vegetable oil
 
 Directions
 ----------

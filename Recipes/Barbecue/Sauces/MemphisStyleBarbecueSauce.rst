@@ -15,27 +15,27 @@ vinegar, creates a sauce where seasonings and spice are more defined and
 achieves a pleasing balance between the main defining aspects of a
 barbecue sauce.
 
-This thinner sauce bakes into tasty layers and caramelizes beautifully.
-It creates a flavor-packed sheen when finished on ribs and is an
+This thinner sauce bakes into tasty layers and caramelises beautifully.
+It creates a flavour-packed sheen when finished on ribs and is an
 excellent consistency for dipping. Slop it on a pile of pulled pork.
 
 Ingredients
 -----------
 
--  2 tablespoons unsalted butter
--  1 small onion, finely chopped
--  2 cloves garlic, minced
--  2 cups tomato sauce
--  1/2 cup cider vinegar
--  1/3 cup rice vinegar
--  1/3 cup molasses
--  3 tablespoons Worcestershire sauce
--  2 tablespoons packed dark brown sugar
--  2 teaspoons yellow mustard
--  1 teaspoon Louisiana hot sauce
--  1 teaspoon Kosher salt
--  1 teaspoon freshly ground black pepper
--  1/4 teaspoon cayenne pepper
+- 2 tablespoons unsalted butter
+- 1 small onion, finely chopped
+- 2 cloves garlic, minced
+- 2 cups tomato sauce
+- 1/2 cup cider vinegar
+- 1/3 cup rice vinegar
+- 1/3 cup molasses
+- 3 tablespoons Worcestershire sauce
+- 2 tablespoons packed dark brown sugar
+- 2 teaspoons yellow mustard
+- 1 teaspoon Louisiana hot sauce
+- 1 teaspoon Kosher salt
+- 1 teaspoon freshly ground black pepper
+- 1/4 teaspoon cayenne pepper
 
 Directions
 ----------

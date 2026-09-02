@@ -5,21 +5,20 @@ Quick Bacon and Corn Chowder
 | Prep Time: 10 minutes | Cook Time: 30 minutes | Yield: 4 servings |
 +-----------------------+-----------------------+-------------------+
 
-Source: `Cooks Country <https://www.cookscountry.com/recipes/4297-quick-corn-chowder-with-bacon>`__
-
+Source: `Cook's Country <https://www.cookscountry.com/recipes/4297-quick-corn-chowder-with-bacon>`__
 
 Ingredients
 -----------
 
--  8 cups frozen corn kernels (about 2 pounds), thawed (see note)
--  3 cups low-sodium chicken broth
--  6 slices bacon, chopped fine
--  1 onion, chopped fine
--  2 pounds russet potatoes, peeled and cut into 1/2-inch chunks
--  1/2 cup heavy cream
--  1 teaspoon minced fresh thyme
--  1/8 teaspoon cayenne pepper
--  Salt and pepper
+- 8 cups frozen corn kernels (about 2 pounds), thawed (see note)
+- 3 cups low-sodium chicken broth
+- 6 slices bacon, chopped fine
+- 1 onion, chopped fine
+- 2 pounds russet potatoes, peeled and cut into 1/2-inch chunks
+- 1/2 cup heavy cream
+- 1 teaspoon minced fresh thyme
+- 1/8 teaspoon cayenne pepper
+- Salt and pepper
 
 Directions
 ----------
@@ -34,7 +33,6 @@ Directions
    remaining corn and cook until corn is heated through, about 2
    minutes. Season with salt and pepper. Sprinkle with crisp bacon.
    Serve.
-
 
 Notes
 -----

@@ -46,10 +46,6 @@ Soups and Stews
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: GuinnessBeefStewWithCheddarHerbDumplings.rst
-
-.. include:: ../../includes/recipePageBreak.rst
-
 .. include:: SlowCookerIrishBeefStew.rst
 
 .. include:: ../../includes/recipePageBreak.rst

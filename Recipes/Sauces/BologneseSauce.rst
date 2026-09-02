@@ -15,9 +15,9 @@ Ingredients
 - 1 stalk celery, rough chopped
 - 1 tablespoon vegetable oil
 - 2 cloves garlic, minced
-- 1 pound 80/20 ground beef
+- 1 pound (450 g) 80/20 ground beef
 - 1/2 cup dry white wine or dry vermouth
-- 1 - 15 ounce can crushed tomatoes
+- 1 - 15 ounce (425 ml) can crushed tomatoes
 - 3 tablespoons tomato paste
 - 2 cups beef broth
 - 1 bay leaf
@@ -25,7 +25,7 @@ Ingredients
 - 1 teaspoon red pepper flakes
 - 3 tablespoons balsamic vinegar
 - 1 1/2 cups milk
-- 1 1/2 teaspoons kosher salt 
+- 1 1/2 teaspoons kosher salt
 - 1/2 teaspoon freshly ground black pepper
 
 Directions

@@ -14,7 +14,7 @@ Ingredients
 -----------
 
 - 1 cup shredded chicken, leftover
-- 8 oz cream cheese, softened
+- 8 ounces cream cheese, softened
 - 1/2 cup ranch dressing
 - 1/2 cup buffalo sauce
 - cheddar cheese

@@ -12,7 +12,7 @@ Ingredients
 - 12 slices provolone cheese
 - 1 can artichokes, drained & quartered
 - 1 bunch basil, chopped
-- 4 oz Butter, softened
+- 4 ounces Butter, softened
 - 2 clove garlic
 - 2 chorizo sausage, sliced
 - kosher salt

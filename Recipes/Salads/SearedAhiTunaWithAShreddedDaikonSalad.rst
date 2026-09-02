@@ -8,7 +8,7 @@ Seared Ahi Tuna with a Shredded Daikon Salad
 Ingredients
 -----------
 
-- 4 6 oz ahi tuna
+- 4 6-ounce (170 g) ahi tuna
 - kosher salt
 - fresh cracked pepper
 - 1 daikon, shredded

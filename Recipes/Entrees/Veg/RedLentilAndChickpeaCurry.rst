@@ -22,7 +22,7 @@ Ingredients
 - 1 teaspoon sea salt
 - 1 teaspoon sugar (optional, can also use honey, agave, maple syrup)
 - 1 1/2 cups crushed tomatoes (I like POM brand in a box)
-- 1 14 ounce can chickpeas, drained and rinsed (I usually rinse these in a small colander)
+- 1 14 ounce (414 ml) can chickpeas, drained and rinsed (I usually rinse these in a small colander)
 - Cooked grain (quinoa, farro, black rice, brown rice) or cauliflower rice
 - Chopped fresh cilantro for garnish
 - **Optional 2 cups fresh baby spinach leaves, sweet potato (orange or purple, cut into squares, and roasted for 30 minutes in oven)**
@@ -35,7 +35,7 @@ Directions
    to medium, cover, and simmer for 10-15 minutes until tender. Drain excess
    water.
 2. If adding sweet potato, cut into bite size squares and cook on baking
-   sheet with nonstick foil or parchment paper at 350 degrees for 25 minutes.
+   sheet with nonstick foil or parchment paper at 350F for 25 minutes.
 3. In a large skillet, heat oil over medium heat (you can omit oil and saute
    in nonstick pan, adding water if needed to prevent sticking), add onion
    and saute 3-5 minutes until soft and translucent. Add garlic and cook for
@@ -49,4 +49,3 @@ Directions
 6. Add sweet potatoes and 2 cups of spinach if using. Mix in until spinach
    is wilted.
 7. Serve over a grain or cauliflower rice and top with cilantro.
-

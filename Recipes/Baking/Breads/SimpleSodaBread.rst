@@ -11,8 +11,8 @@ Ingredients
 -----------
 
 - 2 cups all-purpose flour ($0.27)
-- 1/2 tsp baking soda ($0.01)
-- 1/2 tsp salt ($0.06)
+- 1/2 teaspoon baking soda ($0.01)
+- 1/2 teaspoon salt ($0.06)
 - 1 cup buttermilk* ($0.32)
 
 Directions
@@ -34,4 +34,3 @@ Directions
 6. Bake for 10 minutes at 450F. Then lower the oven temperature to 400F
    and continue baking until the bread is golden brown and crusty on the
    outside, about 20 minutes. Transfer to a rack and cool.
-   

@@ -1,18 +1,18 @@
 Fermented Sweet Pepper Salsa
 ============================
 
-+-----------------------+------------------------+-----------+--------------------------+
-| Prep Time: 10 minutes | Total Time: 20 minutes | Yield: ?? | Ferment Time: 14-21 Days |
-+-----------------------+------------------------+-----------+--------------------------+
++-----------------------+------------------------+--------------------------+
+| Prep Time: 10 minutes | Total Time: 20 minutes | Ferment Time: 14-21 Days |
++-----------------------+------------------------+--------------------------+
 
 Ingredients
 -----------
 
--  5 Medium sweet red peppers
--  5 Jalapenos - Seeds removed
--  1 Medium sweet onion
--  1-2 cloves garlic - minced
--  1/2 to 3/4 tablespoons of kosher or pickling salt
+- 5 Medium sweet red peppers
+- 5 Jalapenos - Seeds removed
+- 1 Medium sweet onion
+- 1-2 cloves garlic - minced
+- 1/2 to 3/4 tablespoons of kosher or pickling salt
 
 Directions
 ----------

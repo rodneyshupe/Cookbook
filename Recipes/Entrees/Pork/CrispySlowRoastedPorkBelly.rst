@@ -1,17 +1,16 @@
 Crispy Slow-Roasted Pork Belly
 ==============================
 
-+-----------------------------------------------------+-----------------------+
-| Total Time: 4 to 4 1/2 hours, plus 12 hours brining | Yield: Serves 8 to 10 |
-+-----------------------------------------------------+-----------------------+
++-----------------------------------------------------+-------------------------+
+| Total Time: 4 to 4 1/2 hours, plus 12 hours brining | Yield: 8 to 10 servings |
++-----------------------------------------------------+-------------------------+
 
 Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/8116-crispy-slow-roasted-pork-belly>`__
-
 
 Ingredients
 -----------
 
-- 1 (3-pound) skin-on center-cut fresh pork belly, about 1 1/2 inches thick
+- 1 (3-pound / 1.35 kg) skin-on center-cut fresh pork belly, about 1 1/2 inches thick
 - Kosher salt
 - 2 tablespoons packed dark brown sugar
 - Vegetable oil
@@ -27,9 +26,9 @@ Directions
    teaspoon salt. Place pork belly, skin side up, in 13 by 9-inch baking
    dish and refrigerate, uncovered, for at least 12 hours or up to 24
    hours.
-2. Adjust oven rack to middle position and heat oven to 250 degrees.
+2. Adjust oven rack to middle position and heat oven to 250F.
    Transfer pork belly, skin side up, to lightly greased wire rack set in
-   rimmed baking sheet. Roast pork belly until meat registers 195 degrees
+   rimmed baking sheet. Roast pork belly until meat registers 195F
    and paring knife inserted in meat meets little resistance, 3 to 3 1/2
    hours, rotating sheet halfway through roasting.
 3. Transfer pork belly, skin side up, to large plate. (Pork belly can be

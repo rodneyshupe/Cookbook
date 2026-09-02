@@ -1,33 +1,32 @@
 Red Lentil Soup with North African Spices
 =========================================
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/8661-red-lentil-soup-with-north-african-spices>`__
-
 +-----------------------+-------------------+------------+
 | Prep Time: 30 minutes | Cook Time: 1 hour | Yield: 4-6 |
 +-----------------------+-------------------+------------+
 
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/8661-red-lentil-soup-with-north-african-spices>`__
 
 Ingredients
 -----------
 
--  4 tablespoons unsalted butter
--  1 large onion, chopped fine
--  Salt and pepper
--  3/4 teaspoon ground coriander
--  1/2 teaspoon ground cumin
--  1/4 teaspoon ground ginger
--  1/8 teaspoon ground cinnamon
--  Pinch cayenne
--  1 tablespoon tomato paste
--  1 garlic clove, minced
--  4 cups chicken broth
--  2 cups water
--  10 1/2 ounces (1 1/2 cups) red lentils, picked over and rinsed
--  2 tablespoons lemon juice, plus extra for seasoning
--  1 1/2 teaspoons dried mint, crumbled
--  1 teaspoon paprika
--  1/4 cup chopped fresh cilantro
+- 4 tablespoons unsalted butter
+- 1 large onion, chopped fine
+- Salt and pepper
+- 3/4 teaspoon ground coriander
+- 1/2 teaspoon ground cumin
+- 1/4 teaspoon ground ginger
+- 1/8 teaspoon ground cinnamon
+- Pinch cayenne
+- 1 tablespoon tomato paste
+- 1 garlic clove, minced
+- 4 cups chicken broth
+- 2 cups water
+- 10 1/2 ounces (1 1/2 cups) red lentils, picked over and rinsed
+- 2 tablespoons lemon juice, plus extra for seasoning
+- 1 1/2 teaspoons dried mint, crumbled
+- 1 teaspoon paprika
+- 1/4 cup chopped fresh cilantro
 
 Directions
 ----------

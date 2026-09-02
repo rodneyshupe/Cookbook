@@ -5,8 +5,7 @@ Prime Rib
 | Prep Time: 5 minutes + 24 - 96 hours | Cook Time: 4 1/2 - 6 hours | Yield: 6 TO 8 servings |
 +--------------------------------------+----------------------------+------------------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/6843-best-prime-rib>`__
-
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/6843-best-prime-rib>`__
 
 Ingredients
 -----------
@@ -47,8 +46,8 @@ Directions
 
 Notes
 -----
+
 - Look for a roast with an untrimmed fat cap (ideally 1/2 inch thick).
 - To remove the bones from the roast, use a sharp knife and run it down the
   length of the bones, following the contours as closely as possible until
   the meat is separated.
-

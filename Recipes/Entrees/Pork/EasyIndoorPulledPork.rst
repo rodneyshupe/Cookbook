@@ -76,9 +76,8 @@ Notes
 -----
 
 - Use a high-quality liquid smoke, with no ingredients other than water and
-  smoke. Avoid brands with molasses or vinegar, as these can affect flavor.
-- For a stronger smoke flavor, combine 2 tablespoons (30ml) liquid smoke and
+  smoke. Avoid brands with molasses or vinegar, as these can affect flavour.
+- For a stronger smoke flavour, combine 2 tablespoons (30ml) liquid smoke and
   3/4 cup kosher salt (7 1/2 ounces; 210g) with 1 gallon (3.75L) cold water.
   Submerge uncooked pork and let rest in refrigerator for at least 1 hour and
   up to 8.
-

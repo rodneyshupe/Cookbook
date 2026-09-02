@@ -15,7 +15,7 @@ sweet and succulent glaze.
 Ingredients
 -----------
 
-- 5 pounds chicken wings
+- 5 pounds (2.25 kg) chicken wings
 - 2 tablespoons olive oil
 - 2 tablespoons soy sauce
 - 2 tablespoons white wine vinegar
@@ -31,7 +31,7 @@ Ingredients
 Directions
 ----------
 
-1. For the chicken wings: Preheat the oven to 400 degrees F.
+1. For the chicken wings: Preheat the oven to 400F.
 2. Allow the wings to come to room temperature for 15 minutes. Line a sheet
    tray with foil.
 3. Toss the wings in the olive oil, soy sauce, vinegar, honey and a healthy
@@ -39,7 +39,7 @@ Directions
    tray and arrange them in a single layer (use 2 sheet trays if
    necessary). Bake the wings for 30 minutes, then remove them from the
    oven and carefully flip over.
-4. Increase the oven temperature to 425 degrees F and cook the wings until
+4. Increase the oven temperature to 425F and cook the wings until
    golden brown, the meat is falling off the bone and the glaze has reduced
    to a syrup, about 30 minutes more. Allow to cool for 10 minutes.
 5. For the yogurt sauce: Meanwhile, mix the yogurt, shallots, parsley,
@@ -47,4 +47,3 @@ Directions
    aside.
 6. After the wings have cooled, toss them with the yogurt sauce in a large
    bowl. Serve with lime wedges.
-

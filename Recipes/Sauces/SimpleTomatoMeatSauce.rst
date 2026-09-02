@@ -7,14 +7,14 @@ Simple Tomato Meat Sauce
 
 Ingredients
 -----------
-- 1/2 pound lean ground beef
-- 1/2 pound italian sausage
+- 1/2 pound (230 g) lean ground beef
+- 1/2 pound (230 g) italian sausage
 - 1/2 onion, diced
 - 3 garlic cloves minced
 - 2 teaspoons dried oregano
 - 1/8 teaspoon red pepper flakes (optional)
 - 1/2 cup red wine
-- 1 28oz can crushed tomatoes
+- 1 28-ounce (828 ml) can crushed tomatoes
 
 Directions
 ----------

@@ -1,9 +1,9 @@
 Prosciutto Bread
 ================
 
-+---------------------+-----------------------+
-| Total Time: 3 hours | Yield: Makes 2 loaves |
-+---------------------+-----------------------+
++---------------------+------------------+
+| Total Time: 3 hours | Yield: 2 loaves  |
++---------------------+------------------+
 
 Source: `Cook's Country <https://www.cookscountry.com/recipes/10560-prosciutto-bread>`__
 
@@ -55,10 +55,10 @@ Directions
    inches from first loaf on sheet. Cover with greased plastic and let rise
    at room temperature until puffy and dough springs back slowly when
    pressed lightly with your finger, about 45 minutes.
-7. Adjust oven rack to middle position and heat oven to 450 degrees. Using
+7. Adjust oven rack to middle position and heat oven to 450F. Using
    sharp paring knife in swift, fluid motion, make 1/2-inch-deep lengthwise
    slash along top of each loaf, starting and stopping about 1 1/2 inches
-   from ends. Bake until loaves register 205 to 210 degrees, 22 to 25
+   from ends. Bake until loaves register 205 to 210F, 22 to 25
    minutes. Transfer loaves to wire rack and let cool completely, about 3
    hours. Serve.
 8. TO MAKE AHEAD: Make dough through step 3, form into ball, and place seam

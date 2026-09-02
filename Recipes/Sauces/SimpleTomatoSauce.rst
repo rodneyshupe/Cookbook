@@ -11,7 +11,7 @@ Ingredients
 - 2 tablespoons olive oil
 - 1 medium yellow onion, diced
 - 3 large cloves garlic, minced
-- One 28-oz can whole peeled tomatoes
+- One 28-ounce (828 ml) can whole peeled tomatoes
 - 2 tablespoons tomato paste
 - 2 tablespoons balsamic vinegar
 - 1/4 - 1/2 teaspoon red pepper flakes

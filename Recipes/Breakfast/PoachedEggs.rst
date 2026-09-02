@@ -1,19 +1,19 @@
-Poached eggs
+Poached Eggs
 ============
 
 +----------------------+----------------------+---------------+
 | Prep Time: 5 minutes | Cook Time: 5 minutes | Yield: 4 eggs |
 +----------------------+----------------------+---------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/9473-perfect-poached-eggs>`__
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/9473-perfect-poached-eggs>`__
 
 Ingredients
 -----------
 
--  4 large eggs
--  1 tablespoon distilled white vinegar
--  1 teaspoon salt
--  Salt and pepper (to taste)
+- 4 large eggs
+- 1 tablespoon distilled white vinegar
+- 1 teaspoon salt
+- Salt and pepper (to taste)
 
 Directions
 ----------

@@ -5,21 +5,20 @@ Cauliflower Soup
 | Prep Time: 15 minutes | Cook Time: 1 1/2 hours | Yield: 4-6 servings |
 +-----------------------+------------------------+---------------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/7491-cauliflower-soup>`__
-
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/7491-cauliflower-soup>`__
 
 Ingredients
 -----------
 
--  1 head cauliflower (2 pounds)
--  8 tablespoons unsalted butter, cut into 8 pieces
--  1 leek, white and light green parts only, halved lengthwise, sliced
-   thin, and washed thoroughly
--  1 small onion, halved and sliced thin
--  Salt and pepper
--  4 1/2 - 5 cups water
--  1/2 teaspoon sherry vinegar (or white wine vinegar)
--  3 tablespoons minced fresh chives
+- 1 head cauliflower (2 pounds)
+- 8 tablespoons unsalted butter, cut into 8 pieces
+- 1 leek, white and light green parts only, halved lengthwise, sliced
+  thin, and washed thoroughly
+- 1 small onion, halved and sliced thin
+- Salt and pepper
+- 4 1/2 - 5 cups water
+- 1/2 teaspoon sherry vinegar (or white wine vinegar)
+- 3 tablespoons minced fresh chives
 
 Directions
 ----------

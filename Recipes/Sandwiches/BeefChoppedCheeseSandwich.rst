@@ -8,7 +8,7 @@ Beef Chopped Cheese Sandwich
 Ingredients
 -----------
 
-- 1 pounds ground chuck (80% lean)
+- 1 pound (450 g) ground chuck (80% lean)
 - 1 small onion, thinly sliced
 - 2 tablespoons butter
 - 4 hoagie buns
@@ -35,5 +35,5 @@ Directions
    mixture (about 3 minutes). Once no pink remains, divide ground beef and
    onion mixture into 4 even portions while still in pan, add 2 slices of
    cheese to each portion, melt another 2 minutes.
-4. Spread mayonnaise on insides of buns, add beef and top with lettuce and 
+4. Spread mayonnaise on insides of buns, add beef and top with lettuce and
    tomato. Press together and serve.

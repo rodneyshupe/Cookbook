@@ -8,7 +8,7 @@ Baked Chicken Shawarma
 Ingredients
 -----------
 
-- 1 1/2 lbs boneless, skinless chicken thighs (approx. 6)
+- 1 1/2 pounds (680 g) boneless, skinless chicken thighs (approx. 6)
 - 2 tablespoons cornstarch
 - 1 1/2 teaspoons salt
 - 1 1/2 teaspoons cumin

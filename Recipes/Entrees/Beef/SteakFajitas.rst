@@ -25,6 +25,7 @@ Ingredients
 
 Directions
 ----------
+
 1. In a small bowl, combine chili powder, cumin, paprika, garlic powder,
    1 teaspoon salt and 1/2 teaspoon pepper.
    Season steak with chili powder mixture.
@@ -38,4 +39,3 @@ Directions
 4. Thinly slice steak against the grain and toss back into the pan to reheat
    slightly. Serve immediately from the pan with tortillas and sides of salsa
    and crema.
-

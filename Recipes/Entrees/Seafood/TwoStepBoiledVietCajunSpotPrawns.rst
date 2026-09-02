@@ -16,7 +16,7 @@ Ingredients
 - 4 slices lemon
 - 1/2 cup sliced yellow onion
 - 1/2 cup roughly chopped green onion
-- 3 pounds seasoned and cooked Cajun Prawns (see below)
+- 3 pounds (1.35 kg) seasoned and cooked Cajun Prawns (see below)
 - 1 cup reserved prawn boil cooking liquid or water
 
 Directions
@@ -30,4 +30,3 @@ Directions
    thin out the sauce and add more spice, if needed.
 3. To serve, mound the prawns on a platter or large bowl and pour over the
    sauce.
-

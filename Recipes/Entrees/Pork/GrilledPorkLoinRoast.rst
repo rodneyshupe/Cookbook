@@ -8,7 +8,7 @@ Grilled Pork Loin Roast
 Ingredients
 -----------
 
-- 1 3lb Pork Loin Roast
+- 1 3-pound (1.35 kg) Pork Loin Roast
 - 8-10 rashers Bacon
 - Kosher Salt
 - fresh cracked pepper
@@ -23,4 +23,3 @@ Directions
 3. Roll roast back up. Wrap with Bacon and tie with butcher twine.
 4. Roast on indirect heat with a pan under nether to catch the drippings
    until pork has an internal temperature 160F (approx 1 hour)
-

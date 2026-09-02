@@ -5,17 +5,17 @@ Broiled Pork Tenderloin for Two
 | Prep Time: 10 minutes | Cook Time: 20 minutes | Yield: 2 servings |
 +-----------------------+-----------------------+-------------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/8032-broiled-pork-tenderloin-for-two>`__
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/8032-broiled-pork-tenderloin-for-two>`__
 
 Ingredients
 -----------
 
--  1 pound (450g) pork tenderloin, trimmed
--  1 teaspoon kosher salt
--  3/4 teaspoon vegetable oil
--  1/4 teaspoon pepper
--  1/8 teaspoon baking soda
--  1 (13 by 9-inch) disposable aluminum roasting pan
+- 1 pound (450g) pork tenderloin, trimmed
+- 1 teaspoon kosher salt
+- 3/4 teaspoon vegetable oil
+- 1/4 teaspoon pepper
+- 1/8 teaspoon baking soda
+- 1 (13 by 9-inch) disposable aluminum roasting pan
 
 Directions
 ----------
@@ -35,4 +35,3 @@ Directions
    Remove disposable pan from oven, tent loosely with aluminum foil, and
    let rest for 10 minutes. Remove twine, slice tenderloin into
    1/2-inch-thick slices, and serve.
-

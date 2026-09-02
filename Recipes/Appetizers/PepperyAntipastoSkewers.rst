@@ -1,20 +1,19 @@
 Peppery Antipasto Skewers
 =========================
 
-
 +------------------------+---------------------+
 | Total Time: 30 minutes | Yield: 4-6 servings |
 +------------------------+---------------------+
 
 Ingredients
-------------
+-----------
 
-- 1 1 1/2 lb. boneless rib-eye steak, room temperature
+- 1 (1 1/2 pounds / 680 g) boneless rib-eye steak, room temperature
 - Kosher salt
 - 1 1/2 teaspoon coarsely ground black pepper, plus more
 - 3 tablespoon vegetable oil
-- 8 oz semifirm cheese (such as cheddar or Comte), cut into 3/4" cubes
-- 4 oz pickled sweet cherry peppers or peperoncini, cut into 3/4" pieces
+- 8 ounces semifirm cheese (such as cheddar or Comte), cut into 3/4" cubes
+- 4 ounces pickled sweet cherry peppers or peperoncini, cut into 3/4" pieces
 - Extra-virgin olive oil (for drizzling)
 - Flaky sea salt
 
@@ -22,7 +21,7 @@ Directions
 ----------
 
 1. Pat steak dry with paper towels and generously season all over with
-   kosher salt and 1 1/2 tsp. black pepper (or more if you like). Let sit
+   kosher salt and 1 1/2 teaspoons black pepper (or more if you like). Let sit
    15 minutes.
 2. Heat oil in a medium skillet, preferably cast iron, over medium-high.
    Cook steak, undisturbed, until a deep golden brown crust forms

@@ -8,14 +8,14 @@ Mango Mint Salsa
 Ingredients
 -----------
 
--  1 mango, peeled, pitted, and cut into 1/4-inch pieces
--  1 shallot, minced
--  3 tablespoons juice from 2 limes
--  2 tablespoons chopped fresh mint
--  1 jalapeno chile, stemmed, seeds reserved, and minced
--  1 tablespoon extra-virgin olive oil
--  1 garlic clove, minced
--  1/2 teaspoon salt
+- 1 mango, peeled, pitted, and cut into 1/4-inch pieces
+- 1 shallot, minced
+- 3 tablespoons juice from 2 limes
+- 2 tablespoons chopped fresh mint
+- 1 jalapeno chile, stemmed, seeds reserved, and minced
+- 1 tablespoon extra-virgin olive oil
+- 1 garlic clove, minced
+- 1/2 teaspoon salt
 
 Directions
 ----------

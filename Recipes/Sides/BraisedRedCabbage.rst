@@ -8,14 +8,14 @@ Braised Red Cabbage
 Ingredients
 -----------
 
--  2 tbsp butter
--  1 small Red cabbage, sliced thin, about a 1 1/4 pounds
--  1/3 cup water
--  1/4 cup red wine
--  2 tbsp red wine vinegar, or to taste
--  2 tbsp white sugar
--  pinch of caraway seeds
--  salt and pepper to taste
+- 2 tablespoons butter
+- 1 small Red cabbage, sliced thin, about a 1 1/4 pounds
+- 1/3 cup water
+- 1/4 cup red wine
+- 2 tablespoons red wine vinegar, or to taste
+- 2 tablespoons white sugar
+- pinch of caraway seeds
+- salt and pepper to taste
 
 Directions
 ----------

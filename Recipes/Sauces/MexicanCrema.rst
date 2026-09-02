@@ -18,7 +18,7 @@ Directions
 ----------
 
 1. Put the heavy cream in a 16-ounce microwave-safe glass jar. Microwave on
-   high until the cream is just under 100 degrees F, about 30 to 40 seconds.
+   high until the cream is just under 100F, about 30 to 40 seconds.
    Add the buttermilk, close the jar, and store in a warm place for 24 hours.
    The cream will have thickened to the consistency of thin yogurt.
 2. Add the chipotle chile and salt and process with an immersion blender, in

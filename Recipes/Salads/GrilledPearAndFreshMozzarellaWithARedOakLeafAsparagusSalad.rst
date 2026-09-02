@@ -1,5 +1,5 @@
 Grilled Pear and Fresh Mozzarella with a Red Oak Leaf Asparagus Salad
-======================================================================
+=====================================================================
 
 +-----------------------+-----------------------+-------------------+
 | Prep Time: 20 minutes | Cook Time: 10 minutes | Yield: 4 servings |
@@ -17,7 +17,7 @@ Ingredients
 - 1 bunch asparagus, trimmed
 - 1 red pepper, julienne
 - 2 tablespoon mint, fresh, chopped
-- 1/4 cup  basil grapeseed oil
+- 1/4 cup basil grapeseed oil
 - 2 tablespoon red wine vinegar
 - 1 teaspoon grainy dijon mustard
 
@@ -31,5 +31,6 @@ Directions
 
 Notes
 -----
+
 Carb count 7g. per serving
 

@@ -33,5 +33,5 @@ Directions
    so they are not overlapping.
 4. Bake for 35 to 45 minutes, turning once halfway through to prevent
    burning. We are looking for a golden crisp coating on the gnocchi and
-   caramelized veggies.
+   caramelised veggies.
 5. Allow to cool and then garnish with fresh herbs and crumbled feta!

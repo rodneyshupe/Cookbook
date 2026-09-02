@@ -8,25 +8,25 @@ Beef Stew
 Ingredients
 -----------
 
--  1 (3 1/2-4 pound) boneless beef chuck eye roast, trimmed and cut into
-   1 1/2 inch pieces
--  salt and ground black pepper
--  3 tablespoons vegetable oil
--  2 medium onions, minced
--  3 medium garlic cloves, minced or pressed through a garlic press
-   (about 1 tablespoon)
--  1 tablespoon minced fresh thyme leaves, or 1 teaspoon dried
--  3 tablespoons unbleached all-purpose flour
--  1 tablespoon tomato paste
--  1 cup dry red wine
--  1 1/4 cups low sodium chicken broth
--  1 1/4 cups low sodium beef broth
--  2 bay leaves
--  1 1/2 pounds red potatoes (about 5 medium), scrubbed and cut into 1
-   inch pieces
--  1 pound carrots (about 6 medium), peeled and sliced 1 inch thick
--  1 cup frozen peas, thawed
--  1/4 cup minced fresh flat leaf parsley leaves
+- 1 (3 1/2-4 pound / 1.6 kg - 1.8 kg) boneless beef chuck eye roast, trimmed and cut into
+  1 1/2 inch pieces
+- salt and ground black pepper
+- 3 tablespoons vegetable oil
+- 2 medium onions, minced
+- 3 medium garlic cloves, minced or pressed through a garlic press
+  (about 1 tablespoon)
+- 1 tablespoon minced fresh thyme leaves, or 1 teaspoon dried
+- 3 tablespoons unbleached all-purpose flour
+- 1 tablespoon tomato paste
+- 1 cup dry red wine
+- 1 1/4 cups low sodium chicken broth
+- 1 1/4 cups low sodium beef broth
+- 2 bay leaves
+- 1 1/2 pounds red potatoes (about 5 medium), scrubbed and cut into 1
+  inch pieces
+- 1 pound carrots (about 6 medium), peeled and sliced 1 inch thick
+- 1 cup frozen peas, thawed
+- 1/4 cup minced fresh flat leaf parsley leaves
 
 Directions
 ----------

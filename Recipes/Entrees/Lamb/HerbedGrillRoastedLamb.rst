@@ -5,13 +5,13 @@ Herbed Grill-Roasted Lamb
 | Total Time: 1 hour | Yield: 4 servings |
 +--------------------+-------------------+
 
-Based on: `Molly Stevens <https://www.finecooking.com/recipe/herbed-grill-roasted-lamb>`__
+Source: `Molly Stevens <https://www.finecooking.com/recipe/herbed-grill-roasted-lamb>`__
 
 Ingredients
 -----------
 
 - `Herb Mustard Rub <#herb-mustard-rub>`__
-- 1 2-lb. boneless butterflied leg of lamb
+- 1 2-pound (900 g) boneless butterflied leg of lamb
 
 Directions
 ----------
@@ -36,4 +36,3 @@ Directions
    briefly over the hot side of the fire to sear the outside, turning it
    until all sides are seared, about 2 minutes per side. Cover the lamb
    with foil and let it rest for 10 to 15 minutes before carving.
-

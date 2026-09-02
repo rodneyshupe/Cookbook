@@ -16,24 +16,25 @@ liquid reduced, the steam kept them warm.
 
 Ingredients
 -----------
--  1 1/2 pounds (680g) boneless, skinless chicken thighs, trimmed and halved crosswise
--  Salt and pepper
--  12 ounces (340g) jumbo shrimp (16 to 20 per pound), peeled and deveined
--  6 tablespoons extra-virgin olive oil
--  6 garlic cloves, minced
--  1 3/4 teaspoons hot smoked paprika
--  3 tablespoons tomato paste
--  4 cups chicken broth
--  1 bottle, 8 ounce (236ml) clam juice
--  2/3 cup dry sherry
--  Pinch saffron threads (optional)
--  1 onion, chopped fine
--  1/2 cup jarred roasted red peppers, chopped fine
--  3 cups Arborio rice
--  1 pound (450g) littleneck clams, scrubbed
--  1 pound (450g) Spanish-style chorizo sausage, cut into 1/2-inch pieces
--  1 cup frozen peas, thawed
--  Lemon wedges
+
+- 1 1/2 pounds (680g) boneless, skinless chicken thighs, trimmed and halved crosswise
+- Salt and pepper
+- 12 ounces (340g) jumbo shrimp (16 to 20 per pound), peeled and deveined
+- 6 tablespoons extra-virgin olive oil
+- 6 garlic cloves, minced
+- 1 3/4 teaspoons hot smoked paprika
+- 3 tablespoons tomato paste
+- 4 cups chicken broth
+- 1 bottle, 8 ounce (236ml) clam juice
+- 2/3 cup dry sherry
+- Pinch saffron threads (optional)
+- 1 onion, chopped fine
+- 1/2 cup jarred roasted red peppers, chopped fine
+- 3 cups Arborio rice
+- 1 pound (450g) littleneck clams, scrubbed
+- 1 pound (450g) Spanish-style chorizo sausage, cut into 1/2-inch pieces
+- 1 cup frozen peas, thawed
+- Lemon wedges
 
 Directions
 ----------
@@ -77,4 +78,3 @@ Directions
    longer. (Rotate and slide pan around grill as necessary to ensure
    even crust formation.) Remove pan from grill, cover with aluminum
    foil, and let stand for 10 minutes. Serve with lemon wedges.
-

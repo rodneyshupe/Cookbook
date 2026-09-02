@@ -8,11 +8,11 @@ Beef Barley Soup
 Ingredients
 -----------
 
-- 1 1/2 pounds sirloin steak tips, trimmed and cut into 1/2-inch pieces
+- 1 1/2 pounds (680 g) sirloin steak tips, trimmed and cut into 1/2-inch pieces
 - 3 carrots, peeled and cut into 1/4-inch pieces
 - 1 onion, chopped fine
 - 1 celery rib chopped into 1/4 inch pieces
-- 4oz crimini mushrooms chopped
+- 4 ounces crimini mushrooms chopped
 - 1/4 cup olive oil
 - 1 tablespoon minced fresh thyme or 1 teaspoon dried
 - 2 garlic cloves, minced

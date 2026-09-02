@@ -9,13 +9,14 @@ Source: `Savory Nothings <https://www.savorynothings.com/slow-cooker-irish-beef-
 
 Equipment
 ---------
+
 Slow Cooker
 
 Ingredients
 -----------
 
 - 1 tablespoon oil
-- 1.5 lbs beef stew meat in 1-2 inch cubes
+- 1.5 pounds (680 g) beef stew meat in 1-2 inch cubes
 - 2 small-medium onions peeled and cut into slim wedges
 - 2 cloves garlic crushed
 - 1 pound waxy potatoes peeled and cut into chunks

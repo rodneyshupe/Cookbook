@@ -1,9 +1,9 @@
 Slim Jim Clone
 ==============
 
-+-----------------------+----------------------+----------------------------+
-| Prep Time: 20 minutes | Drying Time: 5 hours | Yield: about 3/4 lb sticks |
-+-----------------------+----------------------+----------------------------+
++-----------------------+----------------------+-------------------------------+
+| Prep Time: 20 minutes | Drying Time: 5 hours | Yield: about 3/4 pound sticks |
++-----------------------+----------------------+-------------------------------+
 
 Equipment
 ---------
@@ -12,17 +12,17 @@ Dehydrator
 Ingredients
 -----------
 
--  2 pounds of ground lean meat
--  2 tablespoons cold water
--  1 tablespoon liquid smoke (hickory)
--  3/8 teaspoons curing salt (prague powder #1)
--  2 1/2 tablespoons paprika
--  1 3/4 tablespoons ground mustard
--  1/4 teaspoons celery seed
--  1/4 teaspoons black pepper
--  1/4 teaspoons white pepper
--  1/4 teaspoons red pepper
--  1 tablespoons corn syrup
+- 2 pounds (900 g) of ground lean meat
+- 2 tablespoons cold water
+- 1 tablespoon liquid smoke (hickory)
+- 3/8 teaspoons curing salt (prague powder #1)
+- 2 1/2 tablespoons paprika
+- 1 3/4 tablespoons ground mustard
+- 1/4 teaspoons celery seed
+- 1/4 teaspoons black pepper
+- 1/4 teaspoons white pepper
+- 1/4 teaspoons red pepper
+- 1 tablespoon corn syrup
 
 Directions
 ----------

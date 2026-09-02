@@ -5,14 +5,14 @@ Pan-Seared Thick-Cut Strip Steaks
 | Prep Time: 5 minutes | Cook Time: 35 minutes | Yield: 4 servings |
 +----------------------+-----------------------+-------------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/3564-pan-seared-thick-cut-strip-steaks>`__
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/3564-pan-seared-thick-cut-strip-steaks>`__
 
 Ingredients
 -----------
 
--  2 boneless strip steaks 1 pound (450g) and 1 1/2 to 1 3/4 inches thick (see note above)
--  Kosher salt and ground black pepper
--  1 tablespoon vegetable oil
+- 2 boneless strip steaks 1 pound (450g) and 1 1/2 to 1 3/4 inches thick (see note above)
+- Kosher salt and ground black pepper
+- 1 tablespoon vegetable oil
 
 Directions
 ----------
@@ -23,7 +23,7 @@ Directions
    with salt and pepper; gently press sides of steaks until uniform 1
    1/2 inches thick. Place steaks on wire rack set in rimmed baking
    sheet; transfer baking sheet to oven. Cook until instant-read
-   thermometer inserted in center of steak registers 90 to 95F
+   thermometer inserted in centre of steak registers 90 to 95F
    for rare to medium-rare, 20 to 25 minutes, or 100 to 105F for
    medium, 25 to 30 minutes.
 2. Heat oil in 12-inch heavy-bottomed skillet over high heat until
@@ -43,13 +43,12 @@ Directions
 Notes
 -----
 
--  Rib-eye or filet mignon of similar thickness can be substituted for
-   strip steaks. If using filet mignon, buying a 2 pound center-cut
-   tenderloin roast and portioning it into four 8 ounce steaks yourself
-   will produce more consistent results. If using filet mignon, increase
-   the oven time by about 5 minutes.
--  When cooking lean strip steaks (without an external fat cap) or filet
-   mignon, add an extra tablespoon of oil to the pan.
--  If desired, serve with a pan sauce, relish, or butter; see related
-   recipes.
-
+- Rib-eye or filet mignon of similar thickness can be substituted for
+  strip steaks. If using filet mignon, buying a 2 pound centre-cut
+  tenderloin roast and portioning it into four 8 ounce steaks yourself
+  will produce more consistent results. If using filet mignon, increase
+  the oven time by about 5 minutes.
+- When cooking lean strip steaks (without an external fat cap) or filet
+  mignon, add an extra tablespoon of oil to the pan.
+- If desired, serve with a pan sauce, relish, or butter; see related
+  recipes.

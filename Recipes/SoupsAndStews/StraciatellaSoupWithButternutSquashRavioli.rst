@@ -7,13 +7,14 @@ Straciatella Soup with Butternut Squash Ravioli
 
 Ingredients
 -----------
+
 - 4 cups chicken stock, or veggie stock
 - 1/2 onion, sliced
 - extra virgin olive oil
 - 1 carrot, sliced
 - 1 stalk celery, sliced
 - 3 egg, beaten
-- 4 oz butternut squash ravioli
+- 4 ounces butternut squash ravioli
 - kosher salt
 - fresh cracked pepper
 - reggiano parmesan, freshly grated
@@ -24,6 +25,7 @@ Ingredients
 
 Directions
 ----------
+
 1. Cook pasta as per directions, rinse and strain. Put aside
 2. In a stock pot add olive oil and heat, add onion and sear for 2 minutes, season
 3. Add carrots, and celery and sear for 1 minute, season. Add stock and bring to a boil

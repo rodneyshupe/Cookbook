@@ -17,7 +17,7 @@ Ingredients
 - 1/2 teaspoon cumin
 - 1/2 teaspoon dried oregano
 - 1/4 teaspoons chili flakes
-- 1lb ground chicken or turkey
+- 1 pound (450 g) ground chicken or turkey
 - 2 tablespoons dill, chopped
 - 2 tablespoons mint, chopped
 - 1 lemon
@@ -27,10 +27,9 @@ Ingredients
 - Greek Salad
 - `Mayo Yogurt Sauce <#mayo-yogurt-sauce>`__ or `Tzatziki Sauce <#tzatziki-sauce>`__
 
-
-
 Directions
 ----------
+
 1. Heat your oven to 400F and line a sheet pan with parchment paper or
    lightly grease with non-stick cooking spray.
 2. In a medium bowl add panko and egg and mix together. Add salt, pepper,

@@ -43,4 +43,3 @@ Directions
    for 2 minutes to warm.
 5. Assemble the gyro, by adding onions, cucumber, tomato, letuce and Tzatziki Sauce
    to pitas.
-

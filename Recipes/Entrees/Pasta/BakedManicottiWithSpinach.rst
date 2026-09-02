@@ -5,15 +5,15 @@ Baked Manicotti with Spinach
 | Prep Time: 5 minutes | Cook Time: 2 hours | Yield: 6-8 servings |
 +----------------------+--------------------+---------------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/4250-baked-manicotti-with-spinach>`__
-
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/4250-baked-manicotti-with-spinach>`__
 
 Ingredients
 -----------
 
 Tomato Sauce
 ^^^^^^^^^^^^
-- 2 28-ounce cans diced tomatoes (in juice)
+
+- 2 28-ounce (828 ml) cans diced tomatoes (in juice)
 - 2 tablespoons extra-virgin olive oil
 - 3 medium cloves garlic, minced or pressed through garlic press (about 1 tablespoon)
 - 1/2 teaspoon hot red pepper flakes, optional
@@ -22,11 +22,12 @@ Tomato Sauce
 
 Filling and Pasta
 ^^^^^^^^^^^^^^^^^
+
 - 3 cups part-skim ricotta cheese
 - 4 ounces grated Parmesan cheese (about 2 cups)
 - 8 ounces shredded mozzarella cheese (about 2 cups)
 - 2 large eggs, lightly beaten
-- 1 (10-ounce) package frozen chopped spinach, thawed, squeezed dry, and chopped fine
+- 1 (10-ounce / 284 g) package frozen chopped spinach, thawed, squeezed dry, and chopped fine
 - 2 tablespoons chopped fresh basil
 - Pinch ground nutmeg
 - 16 Barilla no-boil lasagna noodles
@@ -35,7 +36,7 @@ Directions
 ----------
 
 1. For the sauce Adjust oven rack to middle position and heat oven to
-   375 degrees. Pulse 1 can tomatoes with their juice in food processor until
+   375F. Pulse 1 can tomatoes with their juice in food processor until
    coarsely chopped, 3 or 4 pulses. Transfer to bowl. Repeat with remaining
    can tomatoes.
 2. Heat oil, garlic, and pepper flakes (if using) in large saucepan over
@@ -70,5 +71,3 @@ parchment paper, wrapped in aluminum foil, and refrigerated for up to 3 days
 or frozen for up to 1 month. (If frozen, thaw the manicotti in the
 refrigerator for 1 to 2 days.) To bake, remove the parchment, replace the
 aluminum foil, and increase baking time to 1 to 1 1/4 hours.
-
-

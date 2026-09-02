@@ -26,4 +26,4 @@ Directions
    thickens and almost doubles in size, 4 to 5 minutes. It should
    be opaque and easily coat the back of a wooden spoon.
 2. Freeze for 3 hours, or until hardened. Scoop out ice cream with a
-   spoon and serve with your favorite ice cream toppings.
+   spoon and serve with your favourite ice cream toppings.

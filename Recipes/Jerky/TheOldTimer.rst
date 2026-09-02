@@ -9,6 +9,7 @@ Source: Bon Appetit
 
 Ingredients
 -----------
+
 - 6 tablespoons pure maple syrup
 - 1/2 cup Worcestershire sauce
 - 2 teaspoons garlic powder
@@ -19,5 +20,5 @@ Ingredients
 - 2 teaspoons chili powder
 - 1/2 teaspoon cayenne pepper
 - 1 teaspoon dried oregano
-- 1 tablespoon ground Tellicherry pepper (substitute gound black pepper)
+- 1 tablespoon ground Tellicherry pepper (substitute ground black pepper)
 

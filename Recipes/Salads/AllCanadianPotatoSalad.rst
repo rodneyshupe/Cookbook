@@ -8,8 +8,8 @@ All Canadian Potato Salad
 Ingredients
 -----------
 
-- 1.5kg (3 lbs) Yukon gold potatoes, cut into 1/2 inch pieces or baby potatoes
-- 1/4 cup  + 2 tablespoons apple cider vinegar
+- 1.5kg (3 pounds) Yukon gold potatoes, cut into 1/2 inch pieces or baby potatoes
+- 1/4 cup + 2 tablespoons apple cider vinegar
 - 3 green onions, sliced
 - 1/3 cup grainy mustard
 - 2 tablespoons of liquid honey

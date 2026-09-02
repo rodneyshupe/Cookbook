@@ -16,11 +16,11 @@ Ingredients
 
 - 5 1/2 cups (about 2 pounds) chopped tomatillos, husked and cores removed
 - 1 cup chopped onion
-- 1 cup chopped peppers (i used a mix of green bell, jalapenos, and thai chilies)
+- 1 cup chopped peppers (I used a mix of green bell, jalapenos, and thai chilies)
 - 6 cloves garlic, minced
 - 1/3 cup minced cilantro
 - 1 tablespoon cumin
-- 1 teaspoon smoked spanish paprika
+- 1 teaspoon smoked Spanish paprika
 - 1/2 teaspoon kosher salt
 - 1/2 cup white vinegar
 - 4 tablespoons lime juice
@@ -29,7 +29,7 @@ Directions
 ----------
 
 1. Have jars ready for canning, sterilized and hot.
-2. Preheat oven to 500 degrees F. Place 3/4 of the chopped tomatillos on a
+2. Preheat oven to 500F. Place 3/4 of the chopped tomatillos on a
    baking sheet, reserve remaining 1/4. Roast in the oven for about 20
    minutes or until they are slightly charred and their juices are seeping
    out.

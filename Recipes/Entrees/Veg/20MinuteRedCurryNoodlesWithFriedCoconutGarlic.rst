@@ -20,7 +20,7 @@ Ingredients
 - 2 cups chopped zucchini or summer squash diced
 - 1 tablespoon fresh grated ginger
 - 2-3 tablespoons Thai red curry paste
-- 1 (14 ounce) can full fat coconut milk
+- 1 (13.5 fluid ounces / 400 ml) can full fat coconut milk
 - 1 tablespoon low sodium soy sauce or tamari
 - 2 teaspoons agave syrup (honey can be used but not vegan friendly)
 - juice from 1 lime
@@ -44,4 +44,3 @@ Directions
    thin. Remove from the heat and stir in the lime juice and basil.
 5. To serve, divide the noodles and sauce between bowls. Top with peppers,
    fresh basil, and the fried garlic.
-

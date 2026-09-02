@@ -7,19 +7,20 @@ Southern-Style Cornbread
 
 Ingredients
 -----------
--  1 1/2 cups stone-ground cornmeal
--  1 cup all-purpose flour
--  2 tablespoons sugar
--  1 1/2 teaspoons baking powder
--  1/4 teaspoon baking soda
--  1 1/4 teaspoons salt
--  3 ears corn, kernels cut from cobs (2 1/4 cups) (can substitute 14oz can of corn niblets)
--  6 tablespoons unsalted butter, cut into 6 pieces
--  1 cup buttermilk (substitute 1 1/2 teaspoons of cream of tartar and 1 cup regular milk)
--  2 large eggs plus 1 large yolk
+- 1 1/2 cups stone-ground cornmeal
+- 1 cup all-purpose flour
+- 2 tablespoons sugar
+- 1 1/2 teaspoons baking powder
+- 1/4 teaspoon baking soda
+- 1 1/4 teaspoons salt
+- 3 ears corn, kernels cut from cobs (2 1/4 cups) (can substitute 14 ounce (414 ml) can of corn niblets)
+- 6 tablespoons unsalted butter, cut into 6 pieces
+- 1 cup buttermilk (substitute 1 1/2 teaspoons of cream of tartar and 1 cup regular milk)
+- 2 large eggs plus 1 large yolk
 
 Directions
 ----------
+
 1. Adjust oven rack to middle position and heat oven to 400F. Whisk
    cornmeal, flour, sugar, baking powder, baking soda, and salt together
    in large bowl.

@@ -1,25 +1,25 @@
 Chunky Mustard Pickles
 ======================
 
-+-----------------------+-----------------------+-------------------------+-------------------------------+
-| Prep Time: 30 minutes | Cook Time: 10 minutes | Total Time: 1 1/2 hours | Yield: about seven 16 oz jars |
-+-----------------------+-----------------------+-------------------------+-------------------------------+
++-----------------------+-----------------------+-------------------------+----------------------------------+
+| Prep Time: 30 minutes | Cook Time: 10 minutes | Total Time: 1 1/2 hours | Yield: about seven 16 ounce jars |
++-----------------------+-----------------------+-------------------------+----------------------------------+
 
 Ingredients
 -----------
 
--  14 cups pickling or field cucumbers (seeded peeled and cut into
-   1/2-inch cubes)
--  6 cups onions finely chopped
--  1/4 cup pickling or canning salt
--  3 cups granulated sugar
--  4 tablespoons ClearJel
--  1/4 cup dry mustard
--  1 tablespoons ground ginger
--  1 tsp ground turmeric
--  1/2 cup water
--  2 cups white vinegar
--  1 red bell pepper, seeded and finely chopped
+- 14 cups pickling or field cucumbers (seeded peeled and cut into
+  1/2-inch cubes)
+- 6 cups onions finely chopped
+- 1/4 cup pickling or canning salt
+- 3 cups granulated sugar
+- 4 tablespoons ClearJel
+- 1/4 cup dry mustard
+- 1 tablespoon ground ginger
+- 1 teaspoon ground turmeric
+- 1/2 cup water
+- 2 cups white vinegar
+- 1 red bell pepper, seeded and finely chopped
 
 Directions
 ----------
@@ -44,9 +44,9 @@ Directions
    water. Bring to a boil and process for 10 minutes. Remove canner lid.
    Wait 5 minutes, then remove jars, cool and store.
 
-Variation
----------
+Variations
+----------
 
--  Chunky Zucchini Pickles: Substitute unpeeled, seeded zucchini for the
-   cucumber.
+- Chunky Zucchini Pickles: Substitute unpeeled, seeded zucchini for the
+  cucumber.
 

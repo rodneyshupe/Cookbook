@@ -7,6 +7,7 @@ Grilled Caesar Salad
 
 Ingredients
 -----------
+
 - 3 cups cubed French bread, about 1 1/2-inch cubes
 - 1 tablespoon unsalted butter
 - 2 tablespoons olive oil, divided
@@ -24,6 +25,7 @@ Ingredients
 
 Directions
 ----------
+
 1. Preheat your grill or a griddle pan to medium and toss the bread into
    a bowl and set aside. In a small microwave safe dish, melt together
    the butter, 1 tablespoon of olive oil, and garlic powder for 15 to 20

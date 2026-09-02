@@ -5,7 +5,7 @@ Salsa
 | Prep Time: 10 minutes | Yield: about 3 cups |
 +-----------------------+---------------------+
 
-Source: `Cooks Country <https://www.cookscountry.com/recipes/6722-five-minute-fresh-tomato-salsa>`__
+Source: `Cook's Country <https://www.cookscountry.com/recipes/6722-five-minute-fresh-tomato-salsa>`__
 
 Ingredients
 -----------
@@ -15,7 +15,7 @@ Ingredients
 - 2 tablespoons lime juice
 - 2 garlic cloves, peeled
 - 1/2 teaspoon salt
-- 2 pounds fresh tomatoes, cored, seeded, and chopped OR 2 (15oz) cans diced tomatoes
+- 2 pounds fresh tomatoes, cored, seeded, and chopped OR 2 (13.5 fluid ounces / 400 ml) cans diced tomatoes
 
 Directions
 ----------

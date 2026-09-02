@@ -1,30 +1,29 @@
 Mushroom Bisque
 ===============
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/8111-mushroom-bisque>`__
-
 +-----------------------+-------------------+-------------+
 | Prep Time: 30 minutes | Cook Time: 1 hour | Yield: 6-10 |
 +-----------------------+-------------------+-------------+
 
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/8111-mushroom-bisque>`__
 
 Ingredients
 -----------
 
--  1 pound white mushrooms, trimmed
--  8 ounces cremini mushrooms, trimmed
--  8 ounces shiitake mushrooms, stemmed
--  Kosher salt and pepper
--  2 tablespoons vegetable oil
--  1 small onion, chopped fine
--  1 sprig fresh thyme, tied with kitchen twine
--  2 tablespoons dry sherry
--  4 cups water
--  3 1/2 cups chicken broth
--  2/3 cup heavy cream, plus extra for serving
--  2 large egg yolks
--  1 teaspoon lemon juice
--  Chopped fresh chives
+- 1 pound white mushrooms, trimmed
+- 8 ounces cremini mushrooms, trimmed
+- 8 ounces shiitake mushrooms, stemmed
+- Kosher salt and pepper
+- 2 tablespoons vegetable oil
+- 1 small onion, chopped fine
+- 1 sprig fresh thyme, tied with kitchen twine
+- 2 tablespoons dry sherry
+- 4 cups water
+- 3 1/2 cups chicken broth
+- 2/3 cup heavy cream, plus extra for serving
+- 2 large egg yolks
+- 1 teaspoon lemon juice
+- Chopped fresh chives
 
 Directions
 ----------

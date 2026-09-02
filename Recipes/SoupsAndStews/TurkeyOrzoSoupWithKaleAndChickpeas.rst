@@ -5,23 +5,22 @@ Turkey Orzo Soup with Kale and Chickpeas
 | Prep Time: 15 minutes | Cook Time: 20 minutes | Yield: 6 servings |
 +-----------------------+-----------------------+-------------------+
 
-
 Ingredients
 -----------
 
--  2 tablespoons turkey fat
--  1 onion, chopped fine
--  Pinch red pepper flakes
--  3 garlic cloves, minced
--  1/4 teaspoon ground cumin
--  1/4 teaspoon ground coriander
--  8 cups recipe `Simple Turkey Stock <#simple-turkey-stock>`__
--  3 ounces curly kale, stemmed and cut into 1/2-inch pieces (6 cups)
--  1 (15-ounce) can chickpeas, rinsed
--  1/2 cup orzo
--  2 cups shredded turkey
--  2 tablespoons lemon juice
--  Salt and pepper
+- 2 tablespoons turkey fat
+- 1 onion, chopped fine
+- Pinch red pepper flakes
+- 3 garlic cloves, minced
+- 1/4 teaspoon ground cumin
+- 1/4 teaspoon ground coriander
+- 8 cups recipe `Simple Turkey Stock <#simple-turkey-stock>`__
+- 3 ounces curly kale, stemmed and cut into 1/2-inch pieces (6 cups)
+- 1 (15-ounce / 425 ml) can chickpeas, rinsed
+- 1/2 cup orzo
+- 2 cups shredded turkey
+- 2 tablespoons lemon juice
+- Salt and pepper
 
 Directions
 ----------

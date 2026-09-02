@@ -6,15 +6,14 @@ Goat Cheese and Salami Stuffed Dates
 +------------------------+-------------------+
 
 Ingredients
-------------
+-----------
 
 - 3 tablespoons raw pistachios
-- 4 oz goat cheese
-- 3 oz thinly sliced Calabrese or other spicy salami, finely chopped
+- 4 ounces goat cheese
+- 3 ounces thinly sliced Calabrese or other spicy salami, finely chopped
 - 1 teaspoon finely grated lemon zest
-- 24 large dates (about 6 oz.), preferably Medjool, pitted
+- 24 large dates (about 6 ounces), preferably Medjool, pitted
 - Honey (for drizzling)
-
 
 Directions
 ----------

@@ -5,7 +5,7 @@ Spiced Pork Lettuce Wraps
 | Prep Time: 15 minutes | Cook Time: 10 minutes | Yield: 4 servings |
 +-----------------------+-----------------------+-------------------+
 
-Source: `Cooks Country <https://www.cookscountry.com/recipes/9802-spiced-pork-lettuce-wraps>`__
+Source: `Cook's Country <https://www.cookscountry.com/recipes/9802-spiced-pork-lettuce-wraps>`__
 
 Ingredients
 -----------
@@ -33,4 +33,3 @@ Directions
    1/2 teaspoon pepper and cook until fragrant, about 2 minutes. Transfer
    to 1 side of large serving platter. Arrange lettuce, avocado, and mango
    on empty side of platter. Serve, passing sour cream mixture separately.
-

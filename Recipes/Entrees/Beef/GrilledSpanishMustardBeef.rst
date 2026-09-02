@@ -11,22 +11,22 @@ Ingredients
 Marinade
 ^^^^^^^^
 
--  2 tablespoons Dijon Mustard
--  2 tablespoons Smoked Paprika
--  4 cloves minced, crushed garlic, optional
--  1/4 cup Sherry Vinegar
--  1/4 cup light olive oil
--  salt and freshly ground black pepper to tastes
+- 2 tablespoons Dijon Mustard
+- 2 tablespoons Smoked Paprika
+- 4 cloves minced, crushed garlic, optional
+- 1/4 cup Sherry Vinegar
+- 1/4 cup light olive oil
+- salt and freshly ground black pepper to tastes
 
 Steak
 ^^^^^
 
--  2 pounds (900g) thin sliced beef (any thin flap meat, skirt steak, flank
-   steak, round steak, etc.)
--  8 `Flour Tortillas <#flour-tortillas>`__
--  1/4 cup chopped cilantro
--  hot sauce to taste
--  1 avocado sliced (optional)
+- 2 pounds (900g) thin sliced beef (any thin flap meat, skirt steak, flank
+  steak, round steak, etc.)
+- 8 `Flour Tortillas <#flour-tortillas>`__
+- 1/4 cup chopped cilantro
+- hot sauce to taste
+- 1 avocado sliced (optional)
 
 Directions
 ----------
@@ -38,4 +38,3 @@ Directions
 4. Let rest for 5 minutes and then slice against the grain.
 5. Serve on tortillas with some hot sauce and cilantro and optionally
    sliced avocado.
-

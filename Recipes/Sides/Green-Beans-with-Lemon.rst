@@ -1,24 +1,23 @@
 Green Beans with Lemon
 ======================
 
-+-----------------+--------------+--------------+-----------+---------+
-| Prep Time: 5    | Cook: 90     | Total: 95    | Servings: | Temp:   |
-| minutes         | minutes      | minutes      | 4-6       | 180F    |
-+-----------------+--------------+--------------+-----------+---------+
++----------------------+-----------------------+------------------------+---------------------+
+| Prep Time: 5 minutes | Cook Time: 90 minutes | Total Time: 95 minutes | Yield: 4-6 servings |
++----------------------+-----------------------+------------------------+---------------------+
 
 Equipment
 ---------
-Sous-Vide (immersion circulator), Vacuum Sealer
+Sous-Vide (immersion circulator) set to 180F, Vacuum Sealer
 
 Ingredients
 -----------
 
--  1 pound fresh slender green beans, washed and trimmed
--  2 tbsp olive oil
--  1 tbsp lemon zest
--  1 tsp salt
--  2 tbsp lemon juice
--  1/2 cup toasted almonds, roughly chopped
+- 1 pound fresh slender green beans, washed and trimmed
+- 2 tablespoons olive oil
+- 1 tablespoon lemon zest
+- 1 teaspoon salt
+- 2 tablespoons lemon juice
+- 1/2 cup toasted almonds, roughly chopped
 
 
 Directions

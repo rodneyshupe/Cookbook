@@ -14,7 +14,7 @@ Ingredients
 - 1 tablespoon apple cider vinegar
 - 1/2 teaspoon ground black pepper
 - 1/4 teaspoon salt
-- 14oz bag coleslaw mix
+- 14-ounce (414 ml) bag coleslaw mix
 
 Directions
 ----------

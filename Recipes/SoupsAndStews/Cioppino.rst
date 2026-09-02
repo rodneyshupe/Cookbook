@@ -1,12 +1,11 @@
 Cioppino
 ========
 
-Source: `Same the Cooking Guy <https://www.youtube.com/watch?v=E6LtW0DaH4U>`__
-
 +-----------------------+-----------------------+-------------------+
 | Prep Time: 15 minutes | Cook Time: 30 minutes | Yield: 6 servings |
 +-----------------------+-----------------------+-------------------+
 
+Source: `Same the Cooking Guy <https://www.youtube.com/watch?v=E6LtW0DaH4U>`__
 
 Ingredients
 -----------
@@ -22,15 +21,15 @@ Ingredients
 - 1/2 teaspoon smoked paprika
 - 2 tablespoons tomato paste
 - 1 1/2 cups dry white wine
-- 28 ounce can crushed tomatoes
-- 1 - 10 ounce bottle clam juice
+- 28 ounce (828 ml) can crushed tomatoes
+- 1 - 10 ounce (296 ml) bottle clam juice
 - 16 ounces Clamato juice
 - 1 1/2 teaspoons kosher salt
 - 1/2 teaspoon coarse ground black
-- 1 pound large shrimp, peeled & de-veined
-- 1 1/2 pounds cod/halibut/rockfish - any firm white fish
-- 1 pound large scallops, sliced into thin half horizontally
-- 1 pound mussels, rinsed, beards removed
+- 1 pound (450 g) large shrimp, peeled & de-veined
+- 1 1/2 pounds (680 g) cod/halibut/rockfish - any firm white fish
+- 1 pound (450 g) large scallops, sliced into thin half horizontally
+- 1 pound (450 g) mussels, rinsed, beards removed
 - Chopped parsley and diced green onion for garnish
 - Crusty bread for serving
 

@@ -11,7 +11,7 @@ Ingredients
 - 1/4 cup Diamond Crystal kosher salt
 - 1/4 cup sugar
 - 2 lemons
-- 1 lb. jumbo shell-on shrimp, deveined
+- 1 pound (450 g) jumbo shell-on shrimp, deveined
 - `Cocktail Sauce <#cocktail-sauce>`__
 - Lemon wedges (for serving)
 
@@ -28,7 +28,6 @@ Directions
    and peel. Pat dry again. Cover and chill until ready to serve.
 3. Serve shrimp on cracked ice with lemon wedges and cocktail sauce
    alongside.
-
 
 Notes
 -----

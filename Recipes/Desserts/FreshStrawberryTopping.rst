@@ -7,6 +7,7 @@ Fresh Strawberry Topping
 
 Ingredients
 -----------
+
 - 2 pounds fresh strawberries, cleaned, hulled, and cut lengthwise into 1/4-to 1/8-inch slices
 - 1/2 cup granulated sugar
 - Pinch table salt
@@ -15,6 +16,7 @@ Ingredients
 
 Directions
 ----------
+
 1. Toss berries, sugar, and salt in medium bowl; let stand until berries have
    released juice and sugar has dissolved, about 30 minutes, tossing
    occasionally to combine.

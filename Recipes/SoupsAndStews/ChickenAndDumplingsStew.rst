@@ -5,7 +5,6 @@ Chicken and Dumplings Stew
 | Prep Time: 20 minutes | Cook Time: 1 hour 45 minutes | Yield: 6 servings |
 +-----------------------+------------------------------+-------------------+
 
-
 Ingredients
 -----------
 
@@ -21,7 +20,7 @@ Stew
 - 1/4 cup dry sherry
 - 6 cups low-sodium chicken broth
 - 1 teaspoon minced fresh thyme leaves
-- 1 pound chicken wings (see note)
+- 1 pound (450 g) chicken wings (see note)
 - 1/4 cup chopped fresh parsley leaves
 
 Dumplings
@@ -45,7 +44,7 @@ Directions
    turn chicken pieces and brown on second side, 5 to 7 minutes longer;
    transfer to large plate. Discard all but 1 teaspoon fat from pot.
 2. Add onions, carrots, and celery to now-empty pot; cook, stirring
-   occasionally, until caramelized, 7 to 9 minutes. Stir in sherry, scraping
+   occasionally, until caramelised, 7 to 9 minutes. Stir in sherry, scraping
    up any browned bits. Stir in broth and thyme. Return chicken thighs, with
    any accumulated juices, to pot and add chicken wings. Bring to simmer,
    cover, and cook until thigh meat offers no resistance when poked with tip
@@ -70,16 +69,16 @@ Directions
 
 Notes
 -----
+
 We strongly recommend buttermilk for the dumplings, but it's acceptable to
 substitute 1/2 cup plain yogurt thinned with 1/4 cup milk. If you want to
-include white meat (and don't mind losing a bit of flavor in the process),
+include white meat (and don't mind losing a bit of flavour in the process),
 replace 2 chicken thighs with 2 boneless, skinless chicken breast halves
 (about 8 ounces each). Brown the chicken breasts along with the thighs and
 remove them from the stew once they reach an internal temperature of
-160 degrees, 20 to 30 minutes. The collagen in the wings helps thicken the
+160F, 20 to 30 minutes. The collagen in the wings helps thicken the
 stew; do not omit or substitute. Since the wings yield only about 1 cup of
 meat, using their meat is optional. The stew can be prepared through
 step 3 up to 2 days in advance; bring the stew back to a simmer before
 proceeding with the recipe.
-
 

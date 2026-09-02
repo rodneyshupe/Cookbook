@@ -14,14 +14,14 @@ chicken easily.
 Ingredients
 -----------
 
-- 1 tablespoons olive oil
+- 1 tablespoon olive oil
 - 1/2 large yellow onion, diced
 - 1 stalks celery with leaves, diced
 - 1 carrots, diced
 - 3/4 teaspoons minced garlic
 - 3 cups water
-- 1 cups French green lentils
-- 1 tablespoons chopped fresh parsley
+- 1 cup French green lentils
+- 1 tablespoon chopped fresh parsley
 - 1/2 tablespoon salt, or more to taste
 - 1/2 tablespoon ground coriander
 - 1/2 tablespoon ground cumin
@@ -30,7 +30,7 @@ Ingredients
 - 2 tablespoons butter
 - 1/2 cup all-purpose flour
 - 1/2 lemon, cut into wedges
-- 1 tablespoons chopped fresh parsley
+- 1 tablespoon chopped fresh parsley
 - freshly ground black pepper
 
 Directions

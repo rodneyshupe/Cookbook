@@ -14,18 +14,18 @@ broiler.
 Ingredients
 -----------
 
--  2 tbsp unsalted butter
--  1/2 cup diced shallots
--  8 oz button mushrooms, sliced
--  salt and pepper to taste
--  1 cup white wine (sauvignon blanc works well and is a good pairing)
--  1 pound sea scallops (about 12 scallops or 3 per person)
--  1/2 cup heavy cream
--  1 egg yolk
--  cayenne to taste
--  2 tsp minced tarragon
--  1 tsp lemon zest
--  1/4 cup grated Gruyere cheese
+- 2 tablespoons unsalted butter
+- 1/2 cup diced shallots
+- 8 ounces button mushrooms, sliced
+- salt and pepper to taste
+- 1 cup white wine (sauvignon blanc works well and is a good pairing)
+- 1 pound (450 g) sea scallops (about 12 scallops or 3 per person)
+- 1/2 cup heavy cream
+- 1 egg yolk
+- cayenne to taste
+- 2 teaspoons minced tarragon
+- 1 teaspoon lemon zest
+- 1/4 cup grated Gruyere cheese
 
 Directions
 ----------

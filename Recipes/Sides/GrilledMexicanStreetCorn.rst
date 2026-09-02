@@ -9,13 +9,13 @@ Ingredients
 -----------
 
 - 4 ears corn, shucked
-- 1 tablespoons vegetable oil
+- 1 tablespoon vegetable oil
 - Kosher salt and freshly ground black pepper, to taste
 - 1/2 cup crumbled cotija cheese, divided (can substitute Feta)
 - 1/4 cup mayo
 - 1/4 cup sour cream
 - 1/4 cup cilantro leaves, minced, plus more for garnish
-- 1 teaspoons lime zest
+- 1 teaspoon lime zest
 - 1/2 teaspoon ancho chile powder
 - Lime wedges, for serving
 

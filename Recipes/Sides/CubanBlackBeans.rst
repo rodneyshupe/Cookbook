@@ -8,17 +8,17 @@ Cuban Black Beans
 Ingredients
 -----------
 
--  1 pound dried black beans picked over and rinsed
--  1 green bell pepper quartered lengthwise
--  2 Bay Leaves
--  1/2 cup plus 2 tablespoons olive oil
--  1 red, 1 green and 1 yellow pepper minced
--  1 large white onion minced
--  1 tablespoon ground cumin
--  1 tablespoon oregano
--  1/2 cup minced garlic
--  1/4 cup tomato paste
--  Salt
+- 1 pound dried black beans picked over and rinsed
+- 1 green bell pepper quartered lengthwise
+- 2 Bay Leaves
+- 1/2 cup plus 2 tablespoons olive oil
+- 1 red, 1 green and 1 yellow pepper minced
+- 1 large white onion minced
+- 1 tablespoon ground cumin
+- 1 tablespoon oregano
+- 1/2 cup minced garlic
+- 1/4 cup tomato paste
+- Salt
 
 Directions
 ----------
@@ -41,5 +41,5 @@ Directions
 Notes
 -----
 
-In a pinch you can substitute 3 19oz cans of black beans and don't add
+In a pinch you can substitute 3 19 ounce cans of black beans and don't add
 the water. Still simmer with the green onion to infuse the flavour.

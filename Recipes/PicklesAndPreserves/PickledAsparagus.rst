@@ -1,26 +1,26 @@
 Pickled Asparagus
 =================
 
-+-----------------------+-----------------------+--------------------+-----------------------------+
-| Prep Time: 30 minutes | Cook Time: 10 minutes | Total Time: 1 hour | Yield: about six 16 oz jars |
-+-----------------------+-----------------------+--------------------+-----------------------------+
++-----------------------+-----------------------+--------------------+--------------------------------+
+| Prep Time: 30 minutes | Cook Time: 10 minutes | Total Time: 1 hour | Yield: about six 16 ounce jars |
++-----------------------+-----------------------+--------------------+--------------------------------+
 
 Ingredients
 -----------
 
--  7 lbs asparagus
--  Ice water
--  4 tablespoons red bell pepper, seeded and finely chopped
--  2 tablespoons green bell pepper, seeded and finely chopped
--  2 tablespoons hot chili pepper, such as jalapeno or cayenne, seeded and
-   finely chopped
--  3 tablespoons garlic, finely chopped
--  5 cups white vinegar
--  1 2/3 cups water
--  1 2/3 cups granulated sugar
--  4 tsp pickling or canning salt
--  2 tablespoons dill seeds
--  2 tablespoons mustard seeds
+- 7 pounds asparagus
+- Ice water
+- 4 tablespoons red bell pepper, seeded and finely chopped
+- 2 tablespoons green bell pepper, seeded and finely chopped
+- 2 tablespoons hot chili pepper, such as jalapeno or cayenne, seeded and
+  finely chopped
+- 3 tablespoons garlic, finely chopped
+- 5 cups white vinegar
+- 1 2/3 cups water
+- 1 2/3 cups granulated sugar
+- 4 teaspoons pickling or canning salt
+- 2 tablespoons dill seeds
+- 2 tablespoons mustard seeds
 
 Directions
 ----------
@@ -36,8 +36,8 @@ Directions
    and salt. Stir well and bring to a boil over medium-high heat. Reduce
    heat and boil gently for 5 minutes. Add asparagus and return to a
    boil. Boil for 2 minutes or until asparagus is heated through.
-5. Place 2 tablespoons (30 mL) chopped pepper mixture, 1 tsp (5 mL) dill seeds
-   and 1 tsp (5 mL) mustard seeds into each hot jar. Pack asparagus,
+5. Place 2 tablespoons (30 mL) chopped pepper mixture, 1 teaspoon (5 mL) dill seeds
+   and 1 teaspoon (5 mL) mustard seeds into each hot jar. Pack asparagus,
    tips down, into hot jars to within a generous 1/2 inch (1 cm) of top
    of jar. Ladle hot pickling liquid into jar to cover asparagus,
    leaving 1/2 inch (1 cm) headspace. Remove air bubbles and adjust

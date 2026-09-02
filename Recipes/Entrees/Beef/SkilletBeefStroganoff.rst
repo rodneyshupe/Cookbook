@@ -9,6 +9,7 @@ Source: `Americas Test Kitchen <https://www.americastestkitchen.com/recipes/3543
 
 Ingredients
 -----------
+
 - 1 1/2 pounds (680g) sirloin steak tips
 - Salt and pepper
 - 4 tablespoons vegetable oil
@@ -24,6 +25,7 @@ Ingredients
 
 Directions
 ----------
+
 1. Use a meat pounder to pound the meat to an even 1/2-inch thickness.
    Cutting with the grain, slice the pounded meat into strips about 2 inches
    wide.  Slice each strip of meat against the grain into 1/2-inch pieces.
@@ -42,5 +44,3 @@ Directions
 4. Stir noodles into beef mixture, cover, and cook, stirring occasionally,
    until noodles are tender, 10 to 12 minutes. Off heat, stir in sour cream
    and lemon juice. Season with salt and pepper. Serve.
-
-

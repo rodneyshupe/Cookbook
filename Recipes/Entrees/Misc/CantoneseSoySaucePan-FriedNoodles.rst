@@ -9,7 +9,7 @@ Source: `Sarah <https://thewoksoflife.com/cantonese-soy-sauce-pan-fried-noodles/
 
 These Cantonese soy sauce pan-fried noodles are so easy to make, with
 simple ingredients. Just make sure you have a HOT wok to get that seared
-"wok hay" flavor that everyone loves and craves.
+"wok hay" flavour that everyone loves and craves.
 
 Ingredients
 -----------
@@ -23,7 +23,7 @@ Ingredients
 - 1/2 teaspoon sugar
 - 1 tablespoon shaoxing rice wine
 - 1/2 teaspoon white pepper
-- 1 lb fresh thin Hong Kong Style Egg Noodles
+- 1 pound fresh thin Hong Kong Style Egg Noodles
 - 6 tablespoons vegetable oil
 
 Directions
@@ -40,7 +40,7 @@ Directions
    noodles in a thin, even layer on the wok and tilt the wok in a circular
    motion to distribute the oil and crisp the bottom layer of the noodles
    evenly. It should take about 5 minutes for the first side.
-4. Flip the noodles over. add another tablespoon of oil around the
+4. Flip the noodles over. Add another tablespoon of oil around the
    perimeter of the wok, and let the other side crisp up. Don't stress if
    you can't turn the noodles over in one shot. The goal here is just to
    get an even crispness and to dry out the noodles during this cooking

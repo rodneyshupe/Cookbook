@@ -11,55 +11,55 @@ Ingredients
 Roast
 ^^^^^
 
--  1 ham bone-in with skin, 6 to 8 pounds (2.7 to 3.6 kg), preferably shank end, rinsed
+- 1 ham bone-in with skin, 6 to 8 pounds (2.7 to 3.6 kg), preferably shank end, rinsed
 
 Brine
 -----
 
--  4 cups kosher salt or 2 cups table salt
--  3 cups packed brown sugar (dark or light)
--  2 heads garlic, cloves separated, lightly crushed and peeled
--  10 bay leaves
--  1/2 cup whole black peppercorns, crushed
+- 4 cups kosher salt or 2 cups table salt
+- 3 cups packed brown sugar (dark or light)
+- 2 heads garlic, cloves separated, lightly crushed and peeled
+- 10 bay leaves
+- 1/2 cup whole black peppercorns, crushed
 
 Garlic and Herb Rub
 -------------------
 
--  1 cup fresh sage leaves from 1 large bunch, packed lightly
--  1/2 cup fresh flat leaf parsley leaves from 1 bunch
--  8 medium cloves garlic, peeled
--  1 tablespoon kosher salt or 1 1/2 teaspoons table salt
--  1/2 tablespoon ground black pepper
--  1/4 cup olive oil
+- 1 cup fresh sage leaves from 1 large bunch, packed lightly
+- 1/2 cup fresh flat leaf parsley leaves from 1 bunch
+- 8 medium cloves garlic, peeled
+- 1 tablespoon kosher salt or 1 1/2 teaspoons table salt
+- 1/2 tablespoon ground black pepper
+- 1/4 cup olive oil
 
 Glaze
 -----
 
--  1 Glaze (see glaze ingredients)
+- 1 Glaze (see glaze ingredients)
 
 Orange, Cinnamon, and Star Anise Glaze
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  1 cup orange juice
--  1 tablespoon grated orange zest
--  2 cups packed brown sugar (dark or light)
--  4 star anise (pods)
--  1 cinnamon stick (3-inches)
+- 1 cup orange juice
+- 1 tablespoon grated orange zest
+- 2 cups packed brown sugar (dark or light)
+- 4 star anise (pods)
+- 1 cinnamon stick (3-inches)
 
 Spicy Pineapple-Ginger Glaze
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  1 cup pineapple juice
--  2 cups packed brown sugar (dark or light)
--  1 inch piece fresh ginger, grated (about 1 tablespoon)
--  1 tablespoon red pepper flakes
+- 1 cup pineapple juice
+- 2 cups packed brown sugar (dark or light)
+- 1 inch piece fresh ginger, grated (about 1 tablespoon)
+- 1 tablespoon red pepper flakes
 
 Apple Cider and Brown Sugar Glaze
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  1 cup apple cider
--  2 cups packed brown sugar (dark or light)
--  5 whole cloves
+- 1 cup apple cider
+- 2 cups packed brown sugar (dark or light)
+- 5 whole cloves
 
 Directions
 ----------
@@ -100,12 +100,11 @@ Variations
 Coca Cola Brine
 ^^^^^^^^^^^^^^^
 
--  3 cups kosher salt or 1 1/2 cups table salt
--  6 liters Coca-Cola
--  2 heads garlic, cloves separated, lightly crushed and peeled
--  10 bay leaves
--  1/2 cup whole black peppercorns, crushed
+- 3 cups kosher salt or 1 1/2 cups table salt
+- 6 liters Coca-Cola
+- 2 heads garlic, cloves separated, lightly crushed and peeled
+- 10 bay leaves
+- 1/2 cup whole black peppercorns, crushed
 
 1. Dissolve salt and coca-cola. Add garlic, bay leaves and black pepper.
 2. Use Apple Cider and Brown Sugar Glaze.
-

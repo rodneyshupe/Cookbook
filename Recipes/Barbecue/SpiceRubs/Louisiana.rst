@@ -9,11 +9,12 @@ Source: `Cook's Country <https://www.cookscountry.com/recipes/8216-louisiana-sea
 
 Ingredients
 -----------
+
 - 5 teaspoons paprika
 - 2 teaspoons garlic powder
-- 1 teaspoons dried thyme
-- 1 teaspoons cayenne pepper
-- 1 teaspoons celery salt
-- 1 teaspoons salt
-- 1 teaspoons pepper
+- 1 teaspoon dried thyme
+- 1 teaspoon cayenne pepper
+- 1 teaspoon celery salt
+- 1 teaspoon salt
+- 1 teaspoon pepper
 

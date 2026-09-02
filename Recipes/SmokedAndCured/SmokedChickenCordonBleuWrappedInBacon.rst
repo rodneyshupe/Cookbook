@@ -12,7 +12,8 @@ Smoker
 Ingredients
 -----------
 
-*(per cordon blue)*
+*(per cordon bleu)*
+
 - 1 boneless/skinless chicken breast, sliced in half and pounded flat.
 - 5 pieces of bacon
 - 2 slices of ham
@@ -23,7 +24,7 @@ Directions
 
 1. Layout 4 slices of bacon side by side. Then lay 1 slice across the
    middle of the 4 slices.
-2. Lay 1 slice of chick on the bacon. Next lay down slice of ham, then
+2. Lay 1 slice of chicken on the bacon. Next lay down slice of ham, then
    cheese. Finally add second slice of chicken, ham and cheese.
 3. Roll chicken, ham and cheese into a tight roll.
 4. Wrap 4 bacon slices around the roll then close off end with the single

@@ -8,12 +8,12 @@ Dave's BBQ Chicken Wings
 Ingredients
 -----------
 
--  6 tablespoons table salt (or 12 tablespoons kosher salt)
--  6 tablespoons sugar
--  12 whole chicken wings
--  `Basic Barbecue Rub <#basic-barbecue-rub>`__
--  `Cajun Spice Mix <#louisiana-cajun-or-creole-seasoning-spice-mix>`__
--  Bacon Fat
+- 6 tablespoons table salt (or 12 tablespoons kosher salt)
+- 6 tablespoons sugar
+- 12 whole chicken wings
+- `Basic Barbecue Rub <#basic-barbecue-rub>`__
+- `Cajun Spice Mix <#louisiana-cajun-or-creole-seasoning-spice-mix>`__
+- Bacon Fat
 
 Directions
 ----------
@@ -47,4 +47,3 @@ Variation
 ---------
 
 Alternate brine: Substitute sugar with 1/4 cup Worcestershire sauce.
-

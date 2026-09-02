@@ -7,6 +7,7 @@ Lingcod Cheeks with Asparagus, Chickpeas, and Kale Chips
 
 Ingredients
 -----------
+
 - 1 head of Kale
 - 1 cup diced asparagus
 - 1 cup chickpeas
@@ -18,7 +19,8 @@ Ingredients
 
 Directions
 ----------
-1. Pre-heat your oven to 300 degrees F. Tear the kale into bite size pieces,
+
+1. Pre-heat your oven to 300F. Tear the kale into bite size pieces,
    toss in olive oil, season with sea salt and cracked pepper. Place on a
    baking sheet and bake in the oven until light golden brown and crispy.
 2. In a medium-sized fry pan, saute the shallots, chickpeas, diced asparagus
@@ -31,4 +33,3 @@ Directions
    over the fish) while they rest in the pan for a few seconds.
 5. Place the veggies on a plate or platter, lay the cheeks on top and arrange
    the kale chips around.
-

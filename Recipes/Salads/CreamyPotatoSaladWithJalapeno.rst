@@ -10,16 +10,16 @@ Source: `Son of a Southern Chef <https://www.sonofasouthernchef.com/food/creamy-
 Ingredients
 -----------
 
--  2 pounds Yukon Gold potatoes (about 4 large), peeled, and cut into
-   1-inch by 1-inch cubes
--  Kosher salt
--  1/4 cup mayonnaise
--  1 teaspoons dijon mustard (made with white wine)
--  1 table spoon lemon juice
--  1 jalapeno, sliced into rounds (remove seeds for less spice)
--  2 teaspoons chopped dill
--  2 teaspoons chopped parsley
--  1/4 teaspoon freshly ground black pepper
+- 2 pounds Yukon Gold potatoes (about 4 large), peeled, and cut into
+  1-inch by 1-inch cubes
+- Kosher salt
+- 1/4 cup mayonnaise
+- 1 teaspoon dijon mustard (made with white wine)
+- 1 tablespoon lemon juice
+- 1 jalapeno, sliced into rounds (remove seeds for less spice)
+- 2 teaspoons chopped dill
+- 2 teaspoons chopped parsley
+- 1/4 teaspoon freshly ground black pepper
 
 Directions
 ----------

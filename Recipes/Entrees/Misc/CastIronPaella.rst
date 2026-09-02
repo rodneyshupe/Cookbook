@@ -14,22 +14,22 @@ during the course of cooking the recipe without any extra steps.
 Ingredients
 -----------
 
--  12 ounce (340g) extra large shrimp (21 to 25 per pound), peeled and deveined
--  9 garlic cloves, minced
--  3 tablespoons vegetable oil
--  Salt and pepper
--  12 ounce (340g) boneless, skinless chicken thighs, trimmed and halved crosswise
--  8 ounce (225g) Spanish-style chorizo sausage, cut into 1/2-inch pieces
--  1 red bell pepper, stemmed, seeded and chopped fine
--  1 onion, chopped fine
--  2 1/4 cups Arborio rice
--  1/2 teaspoon saffron threads
--  1 can, 14.5 ounce (428ml) diced tomatoes, drained
--  2 1/4 cups chicken broth
--  1/4 cup dry white wine
--  12 mussels, scrubbed and debearded
--  1/2 cup frozen peas, thawed
--  Lemon wedges
+- 12 ounce (340g) extra large shrimp (21 to 25 per pound), peeled and deveined
+- 9 garlic cloves, minced
+- 3 tablespoons vegetable oil
+- Salt and pepper
+- 12 ounce (340g) boneless, skinless chicken thighs, trimmed and halved crosswise
+- 8 ounce (225g) Spanish-style chorizo sausage, cut into 1/2-inch pieces
+- 1 red bell pepper, stemmed, seeded and chopped fine
+- 1 onion, chopped fine
+- 2 1/4 cups Arborio rice
+- 1/2 teaspoon saffron threads
+- 1 can, 13.5 fluid ounces (400 ml) diced tomatoes, drained
+- 2 1/4 cups chicken broth
+- 1/4 cup dry white wine
+- 12 mussels, scrubbed and debearded
+- 1/2 cup frozen peas, thawed
+- Lemon wedges
 
 Directions
 ----------
@@ -56,4 +56,3 @@ Directions
 5. Off heat, discard any mussels that refuse to open. Scatter peas over
    rice, cover, and let sit until heated through, about 5 minutes. Serve
    immediately with lemon wedges.
-

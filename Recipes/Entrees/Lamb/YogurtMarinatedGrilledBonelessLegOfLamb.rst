@@ -9,16 +9,18 @@ Source: `West of the Loop <https://www.westoftheloop.com/2015/12/15/grilled-bone
 
 Ingredients
 -----------
-- 5 lb. boneless leg of lamb
+
+- 5 pounds (2.25 kg) boneless leg of lamb
 - 1 cup Greek yogurt
 - Zest and juice of one lemon
 - 1/4 cup extra virgin olive oil
 - 3 cloves garlic, minced
-- 2 tsp oregano, preferably Greek
+- 2 teaspoons oregano, preferably Greek
 - Salt and pepper
 
 Directions
 ----------
+
 1. Lay the lamb flat on a cutting board and trim the visible pockets of
    interior fat, leaving the fat cap on the exterior. Season the lamb well
    with salt and pepper.
@@ -28,7 +30,7 @@ Directions
    least one hour and up to 3 hours.
 3. Remove lamb prior to cooking and allow to come to room temperature. Heat
    grill to medium heat. Cook lamb, turning once, until it reaches an
-   internal temperature of 125 degrees for medium-rare, about 20 minutes.
+   internal temperature of 125F for medium-rare, about 20 minutes.
 4. Allow lamb to rest, loosely tented with foil, for at least twenty minutes
    prior to carving. Slice against the grain into thin slices and serve.
    (Tzatziki sauce, harissa or mint jelly all make nice accompaniments.)

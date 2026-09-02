@@ -6,7 +6,7 @@ Prosciutto-Wrapped Shrimp with Smoked Paprika
 +-----------------------+----------------------+------------------------+------------------+
 
 The combination of cured pork and paprika gives these shrimp bites a
-flavor reminiscent of Spanish chorizo: a little spicy and very savory.
+flavour reminiscent of Spanish chorizo: a little spicy and very savory.
 Broil for a few minutes and the shrimp are ready to serve. They can be
 completely prepped ahead of time, so they make a perfect party snack.
 Serve these savory bites with a slightly sweet cocktail.
@@ -14,13 +14,13 @@ Serve these savory bites with a slightly sweet cocktail.
 Ingredients
 -----------
 
--  35 to 40 (6-inch) wooden skewers
--  1 tablespoon olive oil
--  2 teaspoons smoked paprika
--  1 1/2 teaspoons freshly ground black pepper
--  1 pound peeled and deveined shrimp (about 35 to 40 large shrimp)
-   (26-30 per lb sized shrimp will also work well)
--  6 ounces very thinly sliced prosciutto or pancetta
+- 35 to 40 (6-inch) wooden skewers
+- 1 tablespoon olive oil
+- 2 teaspoons smoked paprika
+- 1 1/2 teaspoons freshly ground black pepper
+- 1 pound (450 g) peeled and deveined shrimp (about 35 to 40 large shrimp)
+   (26-30 per pound sized shrimp will also work well)
+- 6 ounces very thinly sliced prosciutto or pancetta
 
 Directions
 ----------

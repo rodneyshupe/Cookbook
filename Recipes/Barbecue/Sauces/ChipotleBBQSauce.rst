@@ -8,19 +8,19 @@ Chipotle Barbecue Sauce
 Ingredients
 -----------
 
-- 1 large onion 
-- 1/3 cup malt vinegar 
-- 1/2 cup apple cider vinegar 
-- 2/3 cup water 
+- 1 large onion
+- 1/3 cup malt vinegar
+- 1/2 cup apple cider vinegar
+- 2/3 cup water
 - 2 cups ketchup
-- 2 1/2 tablespoons molasses 
-- 6 oz can of Chipotle in adobo 
-- 1/3 cup soy sauce 
-- 1/3 cup dark brown sugar 
+- 2 1/2 tablespoons molasses
+- 6 ounce (177 ml) can of Chipotle in adobo
+- 1/3 cup soy sauce
+- 1/3 cup dark brown sugar
 - 2 tablespoons honey
 - 1 1/2 tablespoons onion powder
 - 2 teaspoons garlic powder
-- 1 teaspoons black pepper
+- 1 teaspoon black pepper
 
 Directions
 ----------

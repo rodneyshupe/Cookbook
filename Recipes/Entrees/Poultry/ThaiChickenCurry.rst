@@ -13,7 +13,7 @@ Ingredients
 - 1 clove garlic, crushed
 - 1 tablespoon flour
 - 2 tablespoons curry powder
-- 1-14 ounce can coconut milk
+- 1 (13.5 fluid ounces / 400 ml) can coconut milk
 - 1 tablespoon saracha (or 1/2 teaspoon cayenne, see note)
 - 3 tablespoons apricot jam
 - 2 cups diced or shredded cooked chicken (or lamb, or whatever you like)
@@ -31,4 +31,4 @@ Directions
 Notes
 -----
 
-If using cayenne instead of saracha, add with flour in step 2. 
+If using cayenne instead of saracha, add with flour in step 2.

@@ -7,23 +7,24 @@ Slow Cooker Bacon and Corn Chowder
 
 Equipment
 ---------
+
 Slow Cooker
 
 Ingredients
 -----------
 
--  1/2 lb bacon, cut into 1-inch pieces
--  2 cups cubed peeled potatoes
--  2 cups frozen corn (from 12-oz bag), thawed
--  1 medium onion, chopped (1/2 cup)
--  1/2 cup chopped carrots
--  1/2 cup chopped red bell pepper
--  1 can (18 oz) Progresso Recipe Starters creamy roasted garlic cooking
-   sauce (if you can not find this in your country substitute for use
-   cream of mushroom soup)
--  1 can (14.75 oz) cream style sweet corn
--  1 tablespoon sugar
--  1 cup milk
+- 1/2 pound (230 g) bacon, cut into 1-inch pieces
+- 2 cups cubed peeled potatoes
+- 2 cups frozen corn (from 12-ounce (355 ml) bag), thawed
+- 1 medium onion, chopped (1/2 cup)
+- 1/2 cup chopped carrots
+- 1/2 cup chopped red bell pepper
+- 1 can (18 ounces / 532 ml) Progresso Recipe Starters creamy roasted garlic cooking
+  sauce (if you can not find this in your country substitute for use
+  cream of mushroom soup)
+- 1 can (14.75 ounces / 436 ml) cream style sweet corn
+- 1 tablespoon sugar
+- 1 cup milk
 
 Directions
 ----------

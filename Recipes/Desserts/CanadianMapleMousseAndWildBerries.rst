@@ -8,7 +8,7 @@ Canadian Maple Mousse and Wild Berries
 Ingredients
 -----------
 
-- 1/2 cup  maple syrup
+- 1/2 cup maple syrup
 - 1 vanilla bean
 - 2 cups whipping cream
 - 5 teaspoons icing sugar

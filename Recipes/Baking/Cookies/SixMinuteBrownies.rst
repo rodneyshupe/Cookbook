@@ -10,16 +10,16 @@ These brownies are best served warm!
 Ingredients
 -----------
 
--  2/3 cup of melted butter
--  1/3 cup of cocoa
--  2 eggs
--  3/4 cup of sugar
--  1/2 cup of flour
--  1 teaspoon of baking powder
--  1 teaspoon of vanilla
--  1 cup of chocolate chips
--  1 cup of chopped nuts (optional)
--  Vanilla ice cream
+- 2/3 cup of melted butter
+- 1/3 cup of cocoa
+- 2 eggs
+- 3/4 cup of sugar
+- 1/2 cup of flour
+- 1 teaspoon of baking powder
+- 1 teaspoon of vanilla
+- 1 cup of chocolate chips
+- 1 cup of chopped nuts (optional)
+- Vanilla ice cream
 
 Directions
 ----------
@@ -40,4 +40,3 @@ Directions
    on high.
 6. Remove brownies from microwave. Cut into the desired amount of pieces
    and serve with a generous amount of vanilla ice cream.
-

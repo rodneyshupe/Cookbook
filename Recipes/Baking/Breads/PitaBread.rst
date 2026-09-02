@@ -11,7 +11,7 @@ Ingredients
 - 2 1/4 teaspoons active dry yeast (1 packet or 8 grams)
 - 1/2 teaspoon sugar
 - 35 grams whole-wheat flour (1/4 cup), preferably freshly milled
-- 310 grams unbleached all-purposed flour (2 1/2 cups)
+- 310 grams unbleached all-purpose flour (2 1/2 cups)
 - 1 teaspoon kosher salt
 - 2 tablespoons olive oil
 
@@ -35,12 +35,12 @@ Directions
 4. Clean the mixing bowl and put dough back in it. Cover bowl tightly with
    plastic wrap, then cover with a towel. Put bowl in a warm (not hot) place.
    Leave until dough has doubled in size, about 1 hour.
-5. Heat oven to 475 degrees. On bottom shelf of oven, place a heavy-duty
+5. Heat oven to 475F. On bottom shelf of oven, place a heavy-duty
    baking sheet, large cast-iron pan or ceramic baking tile. Punch down dough
    and divide into 8 pieces of equal size. Form each piece into a little
    ball. Place dough balls on work surface, cover with a damp towel and leave
    for 10 minutes.
-6. Remove 1 ball (keeping others covered) and press into a flat diskc with
+6. Remove 1 ball (keeping others covered) and press into a flat disk with
    rolling pin. Roll to a 6-inch circle, then to an 8-inch diameter, about
    1/8 inch thick, dusting with flour if necessary. (The dough will shrink
    a bit while baking.)

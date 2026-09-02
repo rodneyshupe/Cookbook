@@ -8,14 +8,14 @@ Bearnaise Sauce
 Ingredients
 -----------
 
--  1/4 cup white wine vinegar
--  1/2 cup dry white wine
--  4 sprigs tarragon, leaves finely minced, stems reserved separately
--  1 small shallot, roughly chopped
--  1/2 teaspoon whole black peppercorns
--  2 egg yolks
--  Kosher salt
--  1 1/2 sticks (12 tablespoons) unsalted butter
+- 1/4 cup white wine vinegar
+- 1/2 cup dry white wine
+- 4 sprigs tarragon, leaves finely minced, stems reserved separately
+- 1 small shallot, roughly chopped
+- 1/2 teaspoon whole black peppercorns
+- 2 egg yolks
+- Kosher salt
+- 1 1/2 sticks (12 tablespoons) unsalted butter
 
 Directions
 ----------

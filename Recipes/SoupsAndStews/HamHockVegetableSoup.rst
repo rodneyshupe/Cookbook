@@ -8,7 +8,7 @@ Ham Hock Vegetable Soup
 Ingredients
 -----------
 
-- 2 pounds of Smoked Pork Ham Hocks
+- 2 pounds (900 g) of Smoked Pork Ham Hocks
 - 1 tablespoon vegetable oil
 - 5 cloves garlic, chopped
 - 1 onion, diced
@@ -17,8 +17,8 @@ Ingredients
 - 8 ounces Frozen Corn
 - 8 ounces Frozen Green Beans
 - 8 ounces Green Peas
-- 1 can Black Beans Drained and Rinsed (you can use any bean you choose)
-- 1 can Diced Tomatoes
+- 1 (15 ounce / 425 ml) can Black Beans Drained and Rinsed (you can use any bean you choose)
+- 1 (13.5 fluid ounces / 400 ml) can Diced Tomatoes
 - 1 teaspoon dried Chili Flakes (optional)
 - 2 quarts Chicken Stock or Broth
 

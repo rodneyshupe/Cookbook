@@ -1,22 +1,21 @@
 Sesame-Pepper Bean Sprouts
 ==========================
 
-Source: `Bon Appetit <https://www.bonappetit.com/recipe/sesame-pepper-bean-sprouts>`__
-
 +----------------------+-----------------------+-------------------+
 | Prep Time: 5 minutes | Cook Time: 10 minutes | Yield: 8 servings |
 +----------------------+-----------------------+-------------------+
 
+Source: `Bon Appetit <https://www.bonappetit.com/recipe/sesame-pepper-bean-sprouts>`__
+
 Ingredients
 -----------
 
--  2 tablespoons toasted sesame seeds
--  1/2 teaspoon kosher salt
--  1/4 teaspoon freshly ground black pepper
--  6 cups mung bean sprouts (about 12 ounces)
--  2 teaspoons toasted sesame oil
--  Gochugaru (coarse Korean red pepper powder)
-
+- 2 tablespoons toasted sesame seeds
+- 1/2 teaspoon kosher salt
+- 1/4 teaspoon freshly ground black pepper
+- 6 cups mung bean sprouts (about 12 ounces)
+- 2 teaspoons toasted sesame oil
+- Gochugaru (coarse Korean red pepper powder)
 
 Directions
 ----------

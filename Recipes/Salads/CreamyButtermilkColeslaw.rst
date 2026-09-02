@@ -8,19 +8,19 @@ Creamy Buttermilk Coleslaw
 Ingredients
 -----------
 
--  1 pound cabbage (about 1/2 medium head), red or green, shredded fine
-   (6 cups)
--  table salt
--  1 medium carrot, shredded on box grater
--  1/2 cup buttermilk
--  2 tablespoons mayonnaise
--  2 tablespoons sour cream
--  1 small shallot, minced (about 2 tablespoons)
--  2 tablespoons minced fresh flat leaf parsley leaves
--  1/2 teaspoon cider vinegar
--  1/2 teaspoon granulated sugar
--  1/4 teaspoon Dijon mustard
--  1/8 teaspoon ground black pepper
+- 1 pound cabbage (about 1/2 medium head), red or green, shredded fine
+  (6 cups)
+- table salt
+- 1 medium carrot, shredded on box grater
+- 1/2 cup buttermilk
+- 2 tablespoons mayonnaise
+- 2 tablespoons sour cream
+- 1 small shallot, minced (about 2 tablespoons)
+- 2 tablespoons minced fresh flat leaf parsley leaves
+- 1/2 teaspoon cider vinegar
+- 1/2 teaspoon granulated sugar
+- 1/4 teaspoon Dijon mustard
+- 1/8 teaspoon ground black pepper
 
 Directions
 ----------

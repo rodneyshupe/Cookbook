@@ -1,30 +1,29 @@
 French Onion Soup
 =================
 
-For the best flavor, make the soup a day or 2 in advance. Alternatively,
-the onions can be prepared through step 1, cooled in the pot, and
-refrigerated for up to 3 days before proceeding with the recipe.
-
 +-----------------------+------------------------+---------------------+
 | Prep Time: 15 minutes | Cook Time: 4 1/2 hours | Yield: 4-6 servings |
 +-----------------------+------------------------+---------------------+
 
+For the best flavour, make the soup a day or 2 in advance. Alternatively,
+the onions can be prepared through step 1, cooled in the pot, and
+refrigerated for up to 3 days before proceeding with the recipe.
 
 Ingredients
 -----------
 
--  3 tablespoons unsalted butter, cut into 3 pieces
--  6 large yellow onions (about 4 pounds), halved and cut pole to pole into 1/4-inch-thick slices
--  Table salt
--  2 cups water, plus extra for deglazing
--  1/2 cup dry sherry
--  4 cups low-sodium chicken broth (see note)
--  2 cups beef broth (see note)
--  6 sprigs fresh thyme, tied with kitchen twine
--  1 bay leaf
--  Ground black pepper
--  1 small baguette, cut into 1/2-inch slices
--  8 ounces shredded Gruyere cheese (about 2 1/2 cups)
+- 3 tablespoons unsalted butter, cut into 3 pieces
+- 6 large yellow onions (about 4 pounds), halved and cut pole to pole into 1/4-inch-thick slices
+- Table salt
+- 2 cups water, plus extra for deglazing
+- 1/2 cup dry sherry
+- 4 cups low-sodium chicken broth (see note)
+- 2 cups beef broth (see note)
+- 6 sprigs fresh thyme, tied with kitchen twine
+- 1 bay leaf
+- Ground black pepper
+- 1 small baguette, cut into 1/2-inch slices
+- 8 ounces shredded Gruyere cheese (about 2 1/2 cups)
 
 Directions
 ----------
@@ -65,7 +64,6 @@ Directions
    Broil until cheese is melted and bubbly around edges, 3 to 5 minutes.
    Let cool 5 minutes before serving.
 
-
 Notes
 -----
 
@@ -77,7 +75,7 @@ onions are soft and wilted, stirring halfway through cooking. (Use oven
 mitts to remove bowl from microwave and remove plate away from you to
 avoid steam burn.) Drain onions (about 1/2 cup liquid should drain off).
 Place Dutch oven over medium-high heat and melt butter before adding
-wilted onions. Proceed with step #2. The soup's flavor, however, will
+wilted onions. Proceed with step #2. The soup's flavour, however, will
 not be quite as deep as with the stove-top method. If you don't have a
 microwave-safe bowl large enough to accommodate all of the onions, cook
 in a smaller bowl in 2 batches.

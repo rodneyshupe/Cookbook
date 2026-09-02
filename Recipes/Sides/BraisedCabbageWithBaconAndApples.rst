@@ -8,14 +8,14 @@ Braised Cabbage with Bacon and Apples
 Ingredients
 -----------
 
--  8 slices thick sliced bacon, cut into 1/2 inch pieces
--  3 tablespoons olive oil
--  1 onion thinly sliced
--  2 cloves garlic minced
--  1 small Red cabbage, sliced thin, about a 1 1/4 pounds
--  2 apples, cut around the core and thinly sliced
--  1/2 cup apple cider vinegar
--  2 sprigs thyme
+- 8 slices thick sliced bacon, cut into 1/2 inch pieces
+- 3 tablespoons olive oil
+- 1 onion thinly sliced
+- 2 cloves garlic minced
+- 1 small Red cabbage, sliced thin, about a 1 1/4 pounds
+- 2 apples, cut around the core and thinly sliced
+- 1/2 cup apple cider vinegar
+- 2 sprigs thyme
 
 Directions
 ----------

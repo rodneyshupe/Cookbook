@@ -12,7 +12,8 @@ Ingredients
 
 Chicken Balls
 ^^^^^^^^^^^^^
-- 1 lb ground chicken
+
+- 1 pound (450 g) ground chicken
 - 2 green onions finely chopped
 - 2 garlic gloves finely minced
 - 1 tablespoon finely grated ginger
@@ -23,6 +24,7 @@ Chicken Balls
 
 Sauce
 ^^^^^
+
 - 1/4 soy sauce
 - 1 tablespoon rice wine vinegar
 - 1 clove garlic
@@ -31,9 +33,9 @@ Sauce
 - 1/4 cup hoisin sauce
 - 2 tablespoons honey
 
-
 Directions
 ----------
+
 1. Heat your oven to 400F and line a sheet pan with parchment paper or
    lightly grease with non-stick cooking spray.
 2. Add the ground chicken, green onions, garlic, ginger, soy sauce,

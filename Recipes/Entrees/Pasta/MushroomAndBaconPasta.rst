@@ -24,7 +24,7 @@ Ingredients
 Directions
 ----------
 
-1. Bring a pot of water to a boil and add pasta, cook as per 
+1. Bring a pot of water to a boil and add pasta, cook as per
    instructions on package.  Strain and sprinkle with a bit of oil and
    set aside.
 2. Heat oil in 12-inch saute pan over medium-high heat until shimmering.
@@ -36,7 +36,7 @@ Directions
    will cook in the residual heat.
 4. Return to medium high heat, add wine and reduce till wine is almost
    gone.
-5. Add pasta and cream.  Continue to heat until cream has reduce until 
+5. Add pasta and cream.  Continue to heat until cream has reduce until
    sauce has thickened. Stir in lemon and herbs.  Top with arugula and
    serve.
 
@@ -48,4 +48,3 @@ Notes
   and refrigerate for up to 2 days or frozen up to a month.
 - Vegitarian: Remove bacon and replace with 2-3 tablespoons vegetable
   oil in step 2.  Add 1 cup cooked peas with lemon and herbs.
-

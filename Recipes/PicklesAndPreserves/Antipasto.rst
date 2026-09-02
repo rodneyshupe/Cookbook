@@ -1,24 +1,24 @@
 Antipasto
 =========
 
-+-----------------------+-----------------------+------------------------------+
-| Prep Time: 20 minutes | Cook Time: 40 minutes | Yield: about eight 8 oz jars |
-+-----------------------+-----------------------+------------------------------+
++-----------------------+-----------------------+---------------------------------+
+| Prep Time: 20 minutes | Cook Time: 40 minutes | Yield: about eight 8 ounce jars |
++-----------------------+-----------------------+---------------------------------+
 
 Ingredients
 -----------
 
--  1/2 lb (1/2 head) cauliflower cut into small florets
--  1 can (14oz) black olives whole (rinsed and sliced)
--  1 jar (8oz) green olives with pamentos (rinsed)
--  1 jar (8oz) sweet small pickled onions drained
--  3 3/4 cups ketchup
--  1 green pepper chopped fine
--  1/2 cup olive oil
--  1/4 cup white vinegar
--  2 cans (7oz ea) canned chunky tuna
--  1 10oz can sliced mushrooms drained
--  1 7oz can shrimp drained
+- 1/2 pound (1/2 head) cauliflower cut into small florets
+- 1 can (14 ounce / 414 ml) black olives whole (rinsed and sliced)
+- 1 jar (8 ounce / 237 ml) green olives with pimentos (rinsed)
+- 1 jar (8 ounce / 237 ml) sweet small pickled onions drained
+- 3 3/4 cups ketchup
+- 1 green pepper chopped fine
+- 1/2 cup olive oil
+- 1/4 cup white vinegar
+- 2 cans (7 ounce ea / 207 ml) canned chunky tuna
+- 1 10 ounce (296 ml) can sliced mushrooms drained
+- 1 7 ounce (207 ml) can shrimp drained
 
 Directions
 ----------

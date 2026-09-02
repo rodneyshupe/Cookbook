@@ -9,7 +9,7 @@ Ingredients
 -----------
 
 - 1/4 ounce packet active yeast (or 1 2/3 teaspoons instant yeast)
-- 1/2 cup warm water, about 110 degrees (too hot will kill the yeast)
+- 1/2 cup warm water, about 110F (too hot will kill the yeast)
 - 1 teaspoon sugar
 - 2 1/4 cups all purpose flour
 - 1/2 cup non-fat Greek yogurt
@@ -22,7 +22,7 @@ Directions
 
 1. Combine yeast, water and sugar - give a quick mix and set aside until
    foamy, about 10 minutes. (If using instant yeast just add these ingredients
-   to flour in step 2) 
+   to flour in step 2)
 2. Add to flour, yogurt, oil & salt in a mixer - and using dough hook mix
    about 10 minutes or until smooth and pulled away from the sides and in a
    ball

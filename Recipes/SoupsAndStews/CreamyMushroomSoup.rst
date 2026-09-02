@@ -5,33 +5,32 @@ Creamy Mushroom Soup
 | Prep Time: 30 minutes | Cook Time: 1 hour | Yield: 8 cups 6-8 servings |
 +-----------------------+-------------------+----------------------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/315-creamy-mushroom-soup>`__
-
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/315-creamy-mushroom-soup>`__
 
 Ingredients
 -----------
 
--  6 tablespoons unsalted butter
--  6 large shallots, minced (about 3/4 cup)
--  2 small cloves garlic, minced (about 1 1/2 teaspoons)
--  1/2 teaspoon ground nutmeg, freshly grated
--  2 pounds white button mushrooms, wiped clean and sliced 1/4 inch
-   thick
--  3 1/2 cups chicken stock or canned low-sodium chicken broth
--  4 cups hot water
--  1/2 ounce dried porcini mushrooms, rinsed well
--  1/3 cup dry sherry or Madeira
--  1 cup heavy cream
--  2 teaspoons lemon juice from 1 lemon
--  Salt and ground black pepper
+- 6 tablespoons unsalted butter
+- 6 large shallots, minced (about 3/4 cup)
+- 2 small cloves garlic, minced (about 1 1/2 teaspoons)
+- 1/2 teaspoon ground nutmeg, freshly grated
+- 2 pounds white button mushrooms, wiped clean and sliced 1/4 inch
+  thick
+- 3 1/2 cups chicken stock or canned low-sodium chicken broth
+- 4 cups hot water
+- 1/2 ounce dried porcini mushrooms, rinsed well
+- 1/3 cup dry sherry or Madeira
+- 1 cup heavy cream
+- 2 teaspoons lemon juice from 1 lemon
+- Salt and ground black pepper
 
 Sauteed Wild Mushroom Garnish (optional)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  2 tablespoons unsalted butter
--  8 ounces shiitake mushrooms or chanterelle, oyster, or cremini
-   mushrooms, stems trimmed and discarded, mushrooms wiped clean and
-   sliced thin
+- 2 tablespoons unsalted butter
+- 8 ounces shiitake mushrooms or chanterelle, oyster, or cremini
+  mushrooms, stems trimmed and discarded, mushrooms wiped clean and
+  sliced thin
 
 Directions
 ----------

@@ -7,6 +7,7 @@ Mary's Rib Rub
 
 Ingredients
 -----------
+
 - 1/4 cup dark brown sugar
 - 4 teaspoons dry mustard powder
 - 4 teaspoons smoked paprika

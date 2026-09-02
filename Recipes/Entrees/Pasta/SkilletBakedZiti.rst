@@ -5,10 +5,11 @@ Skillet Baked Ziti
 | Prep Time: 5 minutes | Cook Time: 35-40 minutes | Yield: 4-6 servings |
 +----------------------+--------------------------+---------------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/3989-skillet-baked-ziti>`__
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/3989-skillet-baked-ziti>`__
 
 Ingredients
 -----------
+
 - 1 tablespoon olive oil
 - 6 garlic cloves, minced
 - 1/4 teaspoon red pepper flakes
@@ -22,6 +23,7 @@ Ingredients
 
 Directions
 ----------
+
 1. Adjust oven rack to middle position and heat oven to 475F.
 2. Combine oil, garlic, pepper flakes, and 1/2 teaspoon salt in 12-inch,
    ovensafe nonstick skillet and saute over medium-high heat until fragrant,
@@ -36,4 +38,3 @@ Notes
 -----
 If your skillet is not ovensafe, transfer the pasta mixture into a shallow
 2-quart casserole dish before sprinkling with the cheese and baking.
-

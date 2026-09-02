@@ -7,7 +7,7 @@ Gochujang Pork Shoulder Steaks
 
 Source: `Bon Appetit <https://www.bonappetit.com/recipe/gochujang-pork-shoulder-steaks>`__
 
-The centerpiece of Korean barbecue is the meat, but it doesn't have to
+The centrepiece of Korean barbecue is the meat, but it doesn't have to
 be steak; Seattle chef Rachel Yang recommends grilling pork shoulder.
 Keep an eye on the edge of the meat where it touches the grill: When
 it's browned, turn the pork over.
@@ -15,13 +15,13 @@ it's browned, turn the pork over.
 Ingredients
 -----------
 
--  8 garlic cloves, peeled, crushed
--  1 2" piece ginger, peeled, sliced
--  1/2 cup dry sake
--  1/2 cup gochujang (Korean hot pepper paste)
--  1/2 cup mirin (sweet Japanese rice wine)
--  1/4 cup vegetable oil, plus more for grilling
--  1 1/2 pound (680g) skinless, boneless pork shoulder (Boston butt), sliced 3/4" thick
+- 8 garlic cloves, peeled, crushed
+- 1 2" piece ginger, peeled, sliced
+- 1/2 cup dry sake
+- 1/2 cup gochujang (Korean hot pepper paste)
+- 1/2 cup mirin (sweet Japanese rice wine)
+- 1/4 cup vegetable oil, plus more for grilling
+- 1 1/2 pounds (680g) skinless, boneless pork shoulder (Boston butt), sliced 3/4" thick
 
 Directions
 ----------
@@ -37,4 +37,3 @@ Directions
    until cooked to desired doneness, 8-10 minutes for medium-rare.
 3. Transfer pork to a cutting board and let rest 5 minutes before thinly
    slicing against the grain.
-

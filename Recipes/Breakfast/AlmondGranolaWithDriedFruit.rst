@@ -5,19 +5,19 @@ Almond Granola with Dried Fruit
 | Prep Time: 10 minutes | Cook Time: 45 minutes | Total Time: 2 hours | Yield: 9 cups |
 +-----------------------+-----------------------+---------------------+---------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/6977-almond-granola-with-dried-fruit>`__
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/6977-almond-granola-with-dried-fruit>`__
 
 Ingredients
 -----------
 
--  1/3 cup maple syrup
--  1/3 cup packed (2 1/3 ounces) light brown sugar
--  4 teaspoons vanilla extract
--  1/2 teaspoon salt
--  1/2 cup vegetable oil
--  5 cups old-fashioned rolled oats
--  2 cups (10 ounces) raw almonds, chopped coarse
--  2 cups raisins or other dried fruit, chopped
+- 1/3 cup maple syrup
+- 1/3 cup packed (2 1/3 ounces) light brown sugar
+- 4 teaspoons vanilla extract
+- 1/2 teaspoon salt
+- 1/2 cup vegetable oil
+- 5 cups old-fashioned rolled oats
+- 2 cups (10 ounces) raw almonds, chopped coarse
+- 2 cups raisins or other dried fruit, chopped
 
 Directions
 ----------
@@ -35,4 +35,3 @@ Directions
    in dried fruit.
 
 *Granola can be stored in airtight container for up to 2 weeks.*
-

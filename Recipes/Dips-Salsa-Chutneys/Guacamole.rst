@@ -9,16 +9,16 @@ I got this recipe from my friend Scott. According to him: *This recipe
 is the best guacamole ever.*
 
 Ingredients
-------------
+-----------
 
--  3 medium avocados, ripe
--  2 tablespoons minced onion
--  1 medium clove garlic, minced
--  1 small jalapeno chili, minced (1 to 1 1/2 teaspoons)
--  1/4 cup minced fresh cilantro leaves
--  1/4 teaspoon table salt
--  1/2 - 3/4 teaspoon ground cumin
--  2 tablespoons lime juice
+- 3 medium avocados, ripe
+- 2 tablespoons minced onion
+- 1 medium clove garlic, minced
+- 1 small jalapeno chili, minced (1 to 1 1/2 teaspoons)
+- 1/4 cup minced fresh cilantro leaves
+- 1/4 teaspoon table salt
+- 1/2 - 3/4 teaspoon ground cumin
+- 2 tablespoons lime juice
 
 Directions
 ----------

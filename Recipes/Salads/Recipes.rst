@@ -30,7 +30,7 @@ Salads
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: ButternutSquashAndBarrataSalad.rst
+.. include:: ButternutSquashAndBurrataSalad.rst
 
 ----
 

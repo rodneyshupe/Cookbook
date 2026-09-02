@@ -1,21 +1,21 @@
 Preserved Lemons
 ================
 
-+-----------------------+-----------------------+--------------------+-----------------------------+
-| Prep Time: 20 minutes | Cook Time: 45 minutes | Total Time: 1 week | Yield: about six 16 oz jars |
-+-----------------------+-----------------------+--------------------+-----------------------------+
++-----------------------+-----------------------+--------------------+--------------------------------+
+| Prep Time: 20 minutes | Cook Time: 45 minutes | Total Time: 1 week | Yield: about six 16 ounce jars |
++-----------------------+-----------------------+--------------------+--------------------------------+
 
 Ingredients
 -----------
 
--  10-12 Lemons
--  3 tablespoons Coriander Seed
--  3 tablespoons Pink Peppercorns
--  1 tablespoon Ground Cumin
--  6 whole Star Anise
--  2 cups white sugar
--  1/4 cup white wine vinegar
--  1 teaspoon salt
+- 10-12 Lemons
+- 3 tablespoons Coriander Seed
+- 3 tablespoons Pink Peppercorns
+- 1 tablespoon Ground Cumin
+- 6 whole Star Anise
+- 2 cups white sugar
+- 1/4 cup white wine vinegar
+- 1 teaspoon salt
 
 Directions
 ----------

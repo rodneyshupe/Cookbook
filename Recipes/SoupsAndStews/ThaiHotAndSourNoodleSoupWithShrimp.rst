@@ -5,7 +5,7 @@ Thai Hot and Sour Noodle Soup with Shrimp (Guay Tiew Tom Yum Goong)
 | Prep Time: 15 minutes | Cook Time: 1 1/4 hours | Yield: 4-6 servings |
 +-----------------------+------------------------+---------------------+
 
-Source: `Cooks Country <https://www.cookscountry.com/recipes/5833-asian-beef-and-noodle-soup>`__
+Source: `Cook's Country <https://www.cookscountry.com/recipes/5833-asian-beef-and-noodle-soup>`__
 
 
 Ingredients
@@ -18,10 +18,10 @@ Ingredients
 - 2 Thai chiles, stemmed (1 left whole, 1 sliced thin), divided, plus 2 Thai chiles, stemmed and sliced thin, for serving (optional)
 - 1 (2-inch) piece fresh galangal, peeled and sliced into 1/4-inch-thick rounds (substitute fresh ginger)
 - 8 cups chicken broth
-- 1 tablespoon sugar, plus extra f or seasoning
+- 1 tablespoon sugar, plus extra for seasoning
 - 8 ounces oyster mushrooms, trimmed and torn into 1-inch pieces
 - 3 tablespoons fish sauce, plus extra for seasoning
-- 1 pound extra-large shrimp (21 to 25 per pound), peeled, deveined, and tails removed
+- 1 pound (450 g) extra-large shrimp (21 to 25 per pound), peeled, deveined, and tails removed
 - 12 ounces cherry tomatoes, halved
 - 2 tablespoons lime juice, plus extra for seasoning, plus lime wedges for serving
 - 1/2 cup fresh cilantro leaves
@@ -31,7 +31,7 @@ Directions
 ----------
 
 1. Bring 4 quarts water to boil in large pot. Remove from heat, add vermicelli,
-   and let sit, stir- ring occasionally, until vermicelli are fully tender,
+   and let sit, stirring occasionally, until vermicelli are fully tender,
    10 to 15 minutes. Drain, rinse with cold water, drain again, and distribute
    evenly among large soup bowls.
 2. Place lemon grass, scallion whites, lime leaves, whole Thai chile, and

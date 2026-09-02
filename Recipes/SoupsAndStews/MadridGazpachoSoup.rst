@@ -7,7 +7,8 @@ Madrid Gazpacho soup (cold soup)
 
 Ingredients
 -----------
-- 3 lb tomato, peeled, chunks (6 cups)
+
+- 3 pounds tomato, peeled, chunks (6 cups)
 - 1 onion, cut in chunks
 - 1/2 cup green pepper, cut in chunks
 - 1/2 cup cucumber, cut in chunks
@@ -21,6 +22,7 @@ Ingredients
 
 Garnish
 ^^^^^^^
+
 - 1 cup tomato, peeled, small diced
 - 1/2 cup onion, small diced
 - 1/2 cup green pepper, small diced
@@ -28,6 +30,7 @@ Garnish
 
 Croutons
 ^^^^^^^^
+
 - 6 slices white bread
 - 1/2 cup clarified butter
 - 2 clove garlic, minced
@@ -35,6 +38,7 @@ Croutons
 
 Directions
 ----------
+
 1. Combine tomato, onion, green pepper, and cucumber chunks. Puree them
    in a blender or food mill until smooth. Transfer the mixture to a large
    bowl or tureen and stir until well blended and smooth. Add tomato

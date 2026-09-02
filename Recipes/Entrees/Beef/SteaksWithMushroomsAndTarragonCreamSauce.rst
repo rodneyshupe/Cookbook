@@ -8,25 +8,25 @@ Steaks with Mushrooms and Tarragon Cream Sauce
 Equipment
 ---------
 
--  12" frying pan (use stainless or cast iron, not Teflon or other
-   non-stick)
--  Grill (if this is unavailable use the alternate method utilizing the
-   frying pan.)
+- 12" frying pan (use stainless or cast iron, not Teflon or other
+  non-stick)
+- Grill (if this is unavailable use the alternate method utilizing the
+  frying pan.)
 
 Ingredients
 -----------
 
--  4 steaks 8oz ea.
--  2 tablespoon extra virgin olive oil
--  2 cloves garlic, minced
--  1 medium shallot, finely chopped
--  2 cups chanterelle mushrooms (you may substitute shiitake or crimini
-   mushrooms) leave whole if possible.
--  Coarse salt (kosher or sea) and freshly ground black pepper
--  1/4 cup dry sherry
--  1/4 cup heavy cream
--  1 teaspoon dijon mustard
--  2 tablespoons finely chopped tarragon
+- 4 steaks 8 ounces (225 g) ea.
+- 2 tablespoon extra virgin olive oil
+- 2 cloves garlic, minced
+- 1 medium shallot, finely chopped
+- 2 cups chanterelle mushrooms (you may substitute shiitake or crimini
+  mushrooms) leave whole if possible.
+- Coarse salt (kosher or sea) and freshly ground black pepper
+- 1/4 cup dry sherry
+- 1/4 cup heavy cream
+- 1 teaspoon dijon mustard
+- 2 tablespoons finely chopped tarragon
 
 Directions
 ----------
@@ -42,6 +42,5 @@ Directions
 6. On the grill cook steaks on high till desired doneness approximately
    3 minutes per side for medium rare. (Alternate method use the frying
    pan at high heat until almost done, then transfer to a rack and keep
-   warm in the oven, do not wash pan as this will add extra flavor.)
+   warm in the oven, do not wash pan as this will add extra flavour.)
 7. Add tarragon to sauce and spoon over steaks and serve immediately.
-

@@ -9,7 +9,7 @@ Ingredients
 -----------
 
 - 1 teaspoon dry mustard
-- 1 tablespoons hot sauce
+- 1 tablespoon hot sauce
 - 2 tablespoons butter (melted)
 - 1 sleeve saltines
 

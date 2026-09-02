@@ -5,33 +5,32 @@ Farmhouse Vegetable and Barley Soup
 | Prep Time: 30 minutes | Cook Time: 1 hours | Yield: 6-8 servings |
 +-----------------------+--------------------+---------------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/6834-farmhouse-vegetable-and-barley-soup>`__
-
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/6834-farmhouse-vegetable-and-barley-soup>`__
 
 Ingredients
 -----------
 
--  1/8 ounce dried porcini mushrooms
--  8 sprigs fresh flat leaf parsley plus 3 tablespoons chopped
--  4 sprigs fresh thyme
--  1 bay leaf
--  2 tablespoons unsalted butter
--  1 1/2 pounds leeks, white and light green parts sliced 1/2 inch thick
-   and washed thoroughly
--  2 carrots, peeled and cut into 1/2-inch pieces
--  2 celery ribs, cut into 1/4-inch pieces
--  1/3 cup dry white wine
--  2 teaspoons soy sauce
--  Salt and pepper
--  6 cups water
--  4 cups low-sodium chicken broth or vegetable broth
--  1/2 cup pearl barley
--  1 garlic clove, peeled and smashed
--  1 1/2 pounds Yukon Gold potatoes, peeled and cut into 1/2-inch pieces
--  1 turnip, peeled and cut into 3/4-inch pieces
--  1 1/2 cups chopped green cabbage
--  1 cup frozen peas
--  1 teaspoon lemon juice
+- 1/8 ounce dried porcini mushrooms
+- 8 sprigs fresh flat leaf parsley plus 3 tablespoons chopped
+- 4 sprigs fresh thyme
+- 1 bay leaf
+- 2 tablespoons unsalted butter
+- 1 1/2 pounds leeks, white and light green parts sliced 1/2 inch thick
+  and washed thoroughly
+- 2 carrots, peeled and cut into 1/2-inch pieces
+- 2 celery ribs, cut into 1/4-inch pieces
+- 1/3 cup dry white wine
+- 2 teaspoons soy sauce
+- Salt and pepper
+- 6 cups water
+- 4 cups low-sodium chicken broth or vegetable broth
+- 1/2 cup pearl barley
+- 1 garlic clove, peeled and smashed
+- 1 1/2 pounds Yukon Gold potatoes, peeled and cut into 1/2-inch pieces
+- 1 turnip, peeled and cut into 3/4-inch pieces
+- 1 1/2 cups chopped green cabbage
+- 1 cup frozen peas
+- 1 teaspoon lemon juice
 
 Directions
 ----------

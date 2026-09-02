@@ -1,9 +1,9 @@
 Pancetta
 ========
 
-+-----------------------+--------------------+---------------------+-----------------------------+
-| Prep Time: 30 minutes | Cure Time: 2 weeks | Dry Time: 4-8 weeks | Yield: about 6 lbs pancetta |
-+-----------------------+--------------------+---------------------+-----------------------------+
++-----------------------+--------------------+---------------------+--------------------------------+
+| Prep Time: 30 minutes | Cure Time: 2 weeks | Dry Time: 4-8 weeks | Yield: about 6 pounds pancetta |
++-----------------------+--------------------+---------------------+--------------------------------+
 
 This traditional pork belly preparation can be made either as a slab (stesa)
 or roll (arrotolata), as you prefer.
@@ -17,7 +17,7 @@ UMAi Dry Bag, Vacuum Sealer
 Ingredients
 -----------
 
-- 4.5kg (approx 10 lb) pork belly
+- 4.5kg (approx 10 pounds) pork belly
 - Garlic, minced 4 cloves
 - 11g (0.25% of meat weight) InstaCure #2
 - 120g (3% of meat weight) Kosher salt

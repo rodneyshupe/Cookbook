@@ -9,7 +9,7 @@ Ingredients
 -----------
 
 - 2 cups All Purpose Flour
-- 4 teaspoons baking power
+- 4 teaspoons baking powder
 - 2/3 cup milk (needs to 2%, if using 1% add additional oil)
 - 1/3 cup vegetable oil
 - 1/4 cup cheddar cheese, shredded (optional)

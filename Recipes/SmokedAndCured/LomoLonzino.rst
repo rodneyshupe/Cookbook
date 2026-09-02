@@ -17,11 +17,11 @@ UMAi Dry Bag, Vacuum Sealer
 Ingredients
 -----------
 
-- 1 lb (454g) Pork loin, trimmed, 2-3 in / 4-5cm diameter
-- Kosher salt 1 1/2 tbsp (15g)
+- 1 pound (454g) Pork loin, trimmed, 2-3 in / 4-5cm diameter
+- Kosher salt 1 1/2 tablespoons (15g)
 - 1g (0.25% of meat weight) InstaCure #2
 - 1 teaspoon Sugar
-- 2 /14 teaspoons Black pepper, coarsely ground
+- 2 1/4 teaspoons Black pepper, coarsely ground
 - 1 teaspoon Garlic powder
 - 1 teaspoon Dried thyme
 - 1/2 teaspoon Ground cloves

@@ -8,12 +8,12 @@ Pan Seared Striploin Steaks with Sauted Mushrooms
 Ingredients
 -----------
 
-- 8oz mixed mushrooms, cut into large chunks (a good choice are crimini)
+- 8 ounces mixed mushrooms, cut into large chunks (a good choice are crimini)
 - 1 shallot, minced
-- 1 tablespoons butter
+- 1 tablespoon butter
 - small handful of chives, sliced
 - 1/4 cup vegetable oil
-- 2 Striploin Steaks, approx. 8oz each
+- 2 Striploin Steaks, approx. 8 ounces (225 g) each
 - 2-4 tablespoons vermouth
 
 Directions
@@ -30,4 +30,3 @@ Directions
    10 minutes.  While the steak is in the oven deglaze the pan with vermouth
    and reserved jus.
 5. Server steaks with mushrooms and jus on top.
-

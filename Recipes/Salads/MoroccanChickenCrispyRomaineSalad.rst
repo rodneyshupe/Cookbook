@@ -29,7 +29,7 @@ Mango , Lemon, Cumin Dressing
 - 1-2 mango, cleaned, cubed
 - sea salt
 - fresh cracked pepper
-- 1/4 cup  extra virgin olive oil
+- 1/4 cup extra virgin olive oil
 - 1 lemon, juiced
 - 1 tablespoon Ginger, minced
 - pinch ground coriander
@@ -46,5 +46,6 @@ Directions
 
 Notes
 -----
+
 Carb count 5g. per serving
 

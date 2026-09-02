@@ -5,10 +5,11 @@ Baked Gnocchi with Tomato and Basil
 | Prep Time: 20 minutes | Cook Time: 30 minutes | Yield: 4 servings |
 +-----------------------+-----------------------+-------------------+
 
-Source: `Cooks Country <https://www.cookscountry.com/recipes/4480-baked-gnocchi-with-tomato-and-basil>`__
+Source: `Cook's Country <https://www.cookscountry.com/recipes/4480-baked-gnocchi-with-tomato-and-basil>`__
 
 Ingredients
 -----------
+
 - 3 tablespoons extra virgin olive oil
 - 1 pound (450g) vacuum-packet gnocchi (see note)
 - 1 onion, chopped fine
@@ -22,7 +23,7 @@ Ingredients
 Directions
 ----------
 
-1. Adjust oven rack to upper-middle position and heat oven to 475 degrees.
+1. Adjust oven rack to upper-middle position and heat oven to 475F.
    Heat 2 tablespoons oil in large ovensafe nonstick skillet over medium-high
    heat until shimmering. Cook gnocchi, stirring occasionally, until lightly
    browned, about 4 minutes; transfer to plate.
@@ -39,4 +40,3 @@ Notes
 -----
 If you do not have an ovensafe skillet, in step 3 transfer the gnocchi to a
 casserole dish for baking.
-

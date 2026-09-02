@@ -5,7 +5,7 @@ Indoor Pulled Chicken
 | Prep Time: 10 minutes | Cook Time: 1 hour | Yield: 6-8 servings |
 +-----------------------+-------------------+---------------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/10594-indoor-pulled-chicken-with-sweet-and-tangy-barbecue-sauce#>`__
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/10594-indoor-pulled-chicken-with-sweet-and-tangy-barbecue-sauce#>`__
 
 Ingredients
 -----------
@@ -13,24 +13,24 @@ Ingredients
 Sauce
 ^^^^^
 
--  1 1/2 cups ketchup
--  1/4 cup molasses
--  2 tablespoons Worcestershire sauce
--  1 tablespoon hot sauce
--  1/2 teaspoon salt
--  1/2 teaspoon pepper
+- 1 1/2 cups ketchup
+- 1/4 cup molasses
+- 2 tablespoons Worcestershire sauce
+- 1 tablespoon hot sauce
+- 1/2 teaspoon salt
+- 1/2 teaspoon pepper
 
 Chicken
 ^^^^^^^
 
--  1 cup chicken broth
--  2 tablespoons molasses
--  1 tablespoon sugar
--  1 tablespoon liquid smoke
--  1 teaspoon unflavored gelatin (ClearJel)
--  Salt and pepper
--  2 pounds (900g) boneless, skinless chicken thighs, halved crosswise
--  Hot sauce
+- 1 cup chicken broth
+- 2 tablespoons molasses
+- 1 tablespoon sugar
+- 1 tablespoon liquid smoke
+- 1 teaspoon unflavored gelatin (ClearJel)
+- Salt and pepper
+- 2 pounds (900g) boneless, skinless chicken thighs, halved crosswise
+- Hot sauce
 
 Directions
 ----------
@@ -62,22 +62,21 @@ Other Sauce Ingredients
 Lexington Vinegar Barbecue Sauce
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  1 cup cider vinegar
--  1/2 cup ketchup
--  1/2 cup water
--  1 tablespoon sugar
--  3/4 teaspoon salt
--  3/4 teaspoon red pepper flakes
--  1/2 teaspoon pepper
+- 1 cup cider vinegar
+- 1/2 cup ketchup
+- 1/2 cup water
+- 1 tablespoon sugar
+- 3/4 teaspoon salt
+- 3/4 teaspoon red pepper flakes
+- 1/2 teaspoon pepper
 
 South Carolina Mustard Barbecue Sauce
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  1 cup yellow mustard
--  1/2 cup distilled white vinegar
--  1/4 cup packed brown sugar
--  1/4 cup Worcestershire sauce
--  2 tablespoons hot sauce
--  1 teaspoon salt
--  1 teaspoon pepper
-
+- 1 cup yellow mustard
+- 1/2 cup distilled white vinegar
+- 1/4 cup packed brown sugar
+- 1/4 cup Worcestershire sauce
+- 2 tablespoons hot sauce
+- 1 teaspoon salt
+- 1 teaspoon pepper

@@ -20,8 +20,8 @@ Ingredients
 - 2 jalapenos, seeded and diced
 - 2 tablespoons garlic paste, or 3 cloves garlic minced
 - 1 1/2 teaspoons chipotle chili powder
-- One 15 oz can diced tomatoes & green chilies
-- One 15 oz can red enchilada sauce
+- One 13.5-ounces (400 ml) can diced tomatoes & green chilies
+- One 15-ounce (425 ml) can red enchilada sauce
 - 4 cup chicken broth
 - 1 cup Masa Harina (corn flour)
 - 2 cups water
@@ -29,6 +29,7 @@ Ingredients
 
 For Serving
 ^^^^^^^^^^^
+
 - Shredded Monterey jack cheese
 - Diced avocado
 - Chopped cilantro
@@ -39,14 +40,14 @@ For Serving
 Directions
 ----------
 
-1. Combine 1 1/2 teaspoons paprika, 11 1/2 teaspoons garlic powder,
+1. Combine 1 1/2 teaspoons paprika, 1 1/2 teaspoons garlic powder,
    cayenne, cumin, onion powder and 1 teaspoon of the salt in a small
    bowl, mix well.
 2. Put chicken in a large zippered bag, and flatten chicken to a wide,
    even thickness.
 3. Heat a cast iron pan to high. Lightly oil both sides of chicken, season
    really well with mix, (turn on your stove fan) and put into the pan.
-   Let cook until dark on both sides, and cooked to 160 degrees - remove,
+   Let cook until dark on both sides, and cooked to 160F - remove,
    set aside and when cool, dice up.
 4. Heat a tablespoon of oil in a medium pot, and add the onions and
    jalapenos, stir a couple minutes until just beginning to soften.

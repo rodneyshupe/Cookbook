@@ -8,8 +8,8 @@ Creamy Spicy Tomato Soup
 Ingredients
 -----------
 
-- 1 28oz can whole tomatoes
-- 1 can coconut milk, chilled in fridge for at least 30 minutes
+- 1 28-ounce (828 ml) can whole tomatoes
+- 1 (13.5 fluid ounces / 400 ml) can coconut milk, chilled in fridge for at least 30 minutes
 - 1-2 teaspoons red curry paste
 - 2 cups chicken broth
 - 1/2 medium onion, large dice
@@ -22,7 +22,7 @@ Directions
 1. Take thick fatty part of coconut milk from the top part of the can and
    add to medium size sauce pan and place over medium heat.
 2. Add curry paste and whisk to combine. Cook until fats begin to separate
-   and the mixture is a darker golden color.
+   and the mixture is a darker golden colour.
 3. Deglaze pan with some of the chicken broth before adding the rest along
    with the rest of the coconut milk.
 4. Add whole tomatoes, Stir to combine.  Bring to a simmer and then add

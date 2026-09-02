@@ -5,7 +5,7 @@ Sauce Base (Demi-glace)
 | Prep Time: 15 minutes | Cook Time: 50 minutes | Yield: about 1 1/4 cups |
 +-----------------------+-----------------------+-------------------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/1431-sauce-base-for-steak-diane-demi-glace>`__
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/1431-sauce-base-for-steak-diane-demi-glace>`__
 
 This recipe yields a sauce base that is an excellent facsimile of a demi-glace,
 a very labor-intensive and time-consuming classic French sauce base. Because
@@ -58,6 +58,6 @@ Notes
   cubes in a small skillet and finish by whisking in 1/2 tablespoon unsalted
   butter. For a less rich sauce that can serve four, melt two demi-glace
   cubes with 2 tablespoons water and then finish with 1/2 tablespoon butter.
-  Either way, the sauce base already has highly concentrated flavors, so you
+  Either way, the sauce base already has highly concentrated flavours, so you
   will probably not need to season this quick sauce with salt and pepper.
 

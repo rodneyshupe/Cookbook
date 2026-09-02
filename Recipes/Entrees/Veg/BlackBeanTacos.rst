@@ -10,8 +10,8 @@ Ingredients
 
 - 1 green pepper (or 1 pablano and 1/2 green pepper) sliced
 - 1/2 medium onion, sliced
-- salt and paper
-- 1 can black beans, rinsed
+- salt and pepper
+- 1 (15 ounce / 425 ml) can black beans, rinsed
 - 1 cup corn kernels (optional)
 - 10 small flour tortillas
 - 1 cup feta cheese.

@@ -5,7 +5,7 @@ Pecan Bars
 | Prep Time: 25 minutes | Cook Time: 25 minutes | Total Time: 2 1/2 hours | Yield: 24 bars |
 +-----------------------+-----------------------+-------------------------+----------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/8571-ultranutty-pecan-bars?incode=MCSCD00L0>`__
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/8571-ultranutty-pecan-bars?incode=MCSCD00L0>`__
 
 Ingredients
 -----------
@@ -13,26 +13,26 @@ Ingredients
 Crust
 ^^^^^
 
--  1 3/4 cups (8 3/4 ounces) all-purpose flour
--  6 tablespoons (2 2/3 ounces) sugar
--  1/2 teaspoon salt
--  8 tablespoons unsalted butter, melted
+- 1 3/4 cups (8 3/4 ounces) all-purpose flour
+- 6 tablespoons (2 2/3 ounces) sugar
+- 1/2 teaspoon salt
+- 8 tablespoons unsalted butter, melted
 
 Topping
 ^^^^^^^
 
--  3/4 cup packed (5 1/4 ounces) light brown sugar
--  1/2 cup light corn syrup
--  7 tablespoons unsalted butter, melted and hot
--  1 teaspoon vanilla extract
--  1/2 teaspoon salt
--  4 cups (1 pound) pecan halves, toasted
--  1/2 teaspoon flake sea salt (optional)
+- 3/4 cup packed (5 1/4 ounces) light brown sugar
+- 1/2 cup light corn syrup
+- 7 tablespoons unsalted butter, melted and hot
+- 1 teaspoon vanilla extract
+- 1/2 teaspoon salt
+- 4 cups (1 pound) pecan halves, toasted
+- 1/2 teaspoon flake sea salt (optional)
 
 Directions
 ----------
 
-1. FOR THe CRUST: Adjust oven rack to lowest position and heat oven to
+1. FOR THE CRUST: Adjust oven rack to lowest position and heat oven to
    350F. Make foil sling for 13 by 9-inch baking pan by folding 2 long
    sheets of aluminum foil; first sheet should be 13 inches wide and
    second sheet should be 9 inches wide. Lay sheets of foil in pan
@@ -46,7 +46,7 @@ Directions
    evenly scatter tablespoon-size pieces of dough over surface of pan.
    Using your fingertips and palm of your hand, press and smooth dough
    into even thickness in bottom of pan.
-3. FOR THe TOPPING: Whisk sugar, corn syrup, melted butter, vanilla, and
+3. FOR THE TOPPING: Whisk sugar, corn syrup, melted butter, vanilla, and
    salt together in medium bowl until smooth (mixture will look
    separated at first but will become homogeneous), about 20 seconds.
    Fold pecans into sugar mixture until nuts are evenly coated.
@@ -68,4 +68,3 @@ will be slightly firmer than the center. If desired, trim 1/4 inch from
 the edges before cutting into bars. Toast the pecans on a rimmed baking
 sheet in a 350F oven until fragrant, 8 to 12 minutes, shaking the sheet
 halfway through.*
-

@@ -12,12 +12,12 @@ layers.
 Ingredients
 -----------
 
--  3 large eggs
--  1 cup sugar
--  Zest from 2 lemons
--  3/4 cup lemon juice (juice from the two lemons + Santa Cruz Organic
-   Leon Juice)
--  2 tbsp unsalted butter
+- 3 large eggs
+- 1 cup sugar
+- Zest from 2 lemons
+- 3/4 cup lemon juice (juice from the two lemons + Santa Cruz Organic
+  Leon Juice)
+- 2 tablespoons unsalted butter
 
 Directions
 ----------

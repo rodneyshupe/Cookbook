@@ -8,19 +8,19 @@ All-Purpose Gravy
 Ingredients
 -----------
 
--  1 small carrot, peeled and chopped into rough 1/2-inch pieces (about
+- 1 small carrot, peeled and chopped into rough 1/2-inch pieces (about
    1/2 cup)
--  1 small rib celery, chopped into rough 1/2-inch pieces (about 1/2
+- 1 small rib celery, chopped into rough 1/2-inch pieces (about 1/2
    cup)
--  1 small onion, chopped into rough 1/2-inch pieces (about 3/4 cup)
--  3 tablespoons unsalted butter
--  1/4 cup unbleached all-purpose flour
--  2 cups low-sodium chicken broth
--  2 cups low-sodium beef broth
--  1 bay leaf
--  1/4 teaspoon dried thyme
--  5 whole black peppercorns
--  Salt and ground black pepper
+- 1 small onion, chopped into rough 1/2-inch pieces (about 3/4 cup)
+- 3 tablespoons unsalted butter
+- 1/4 cup unbleached all-purpose flour
+- 2 cups low-sodium chicken broth
+- 2 cups low-sodium beef broth
+- 1 bay leaf
+- 1/4 teaspoon dried thyme
+- 5 whole black peppercorns
+- Salt and ground black pepper
 
 Directions
 ----------

@@ -5,13 +5,14 @@ Thai-Style Grilled Chicken (Gai Yang)
 | Prep Time: 15 minutes | Marinate Time: 6-24 hours | Cook Time: 45 minutes | Yield: 4 servings |
 +-----------------------+---------------------------+-----------------------+-------------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/9710-thai-grilled-cornish-hens-with-chili-dipping-sauce-gai-yang>`__
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/9710-thai-grilled-cornish-hens-with-chili-dipping-sauce-gai-yang>`__
 
 Ingredients
 -----------
 
 Hens
 ^^^^
+
 - 4 Cornish game hens, 1 1/4 to 1 1/2 pounds (570g to 680g) each, giblets discarded
 - 1 cup fresh cilantro leaves and stems, chopped coarse
 - 12 garlic cloves, peeled
@@ -23,6 +24,7 @@ Hens
 
 Dipping Sauce
 ^^^^^^^^^^^^^
+
 - 1/2 cup distilled white vinegar
 - 1/2 cup granulated sugar
 - 1 tablespoon minced Thai chiles
@@ -31,6 +33,7 @@ Dipping Sauce
 
 Directions
 ----------
+
 1. FOR THE HENS: Working with 1 hen at a time, place hens breast side down on
    cutting board and use kitchen shears to cut through bones on either side of
    backbones; discard backbones. Flip hens and press on breastbones to
@@ -67,4 +70,3 @@ Directions
 8. Transfer hens, skin side up, to cutting board; tent with aluminum foil
    and let rest for 10 minutes. Slice each hen in half or into 4 pieces and
    serve, passing dipping sauce separately.
-

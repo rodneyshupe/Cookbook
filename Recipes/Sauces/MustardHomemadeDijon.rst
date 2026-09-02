@@ -28,7 +28,7 @@ Directions
    from heat and allow to cool to room temperature. Strain the mixture
    through a fine-mesh sieve, pressing on the onions and garlic to extract
    all the juices. Discard the onion and garlic.
-2. Combine the flavored vinegar liquid, mustard seed, dry mustard, garlic
+2. Combine the flavoured vinegar liquid, mustard seed, dry mustard, garlic
    powder and salt in a quart-size mason jar. Cover and let stand at room
    temperature for 24 to 48 hours.
 3. Pour the mixture into a blender and puree until it a creamy consistency.

@@ -5,21 +5,21 @@ Kalbi Korean-style short ribs (CI version)
 | Prep Time: 20 minutes | Cook Time: 30 minutes | Marinate Time: 4-12 hours | Yield: 4-6 servings |
 +-----------------------+-----------------------+---------------------------+---------------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/3570-korean-grilled-short-ribs-for-gas-grill-kalbi>`__
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/3570-korean-grilled-short-ribs-for-gas-grill-kalbi>`__
 
 Ingredients
 -----------
 
--  1 medium pear (ripe), peeled, halved, cored, and roughly chopped
--  6 medium cloves garlic, peeled
--  4 teaspoons minced fresh ginger
--  1/2 cup soy sauce
--  2 tablespoons toasted sesame oil
--  6 tablespoons sugar
--  1 tablespoon rice vinegar
--  3 scallions, green and white parts sliced thin
--  2 1/2 pounds (1.13kg)  Korean-style beef short ribs that are trimmed of excess
-   fat and cut no more than 1/4 inch thick.
+- 1 medium pear (ripe), peeled, halved, cored, and roughly chopped
+- 6 medium cloves garlic, peeled
+- 4 teaspoons minced fresh ginger
+- 1/2 cup soy sauce
+- 2 tablespoons toasted sesame oil
+- 6 tablespoons sugar
+- 1 tablespoon rice vinegar
+- 3 scallions, green and white parts sliced thin
+- 2 1/2 pounds (1.13kg)  Korean-style beef short ribs that are trimmed of excess
+  fat and cut no more than 1/4 inch thick.
 
 Directions
 ----------
@@ -43,4 +43,3 @@ Directions
    repeating browning with second batch. Transfer second batch of meat
    to platter. Return first batch of meat to grill and warm for 30
    seconds; transfer to platter and serve immediately.
-

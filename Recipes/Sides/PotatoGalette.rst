@@ -5,17 +5,17 @@ Potato Galette
 | Prep Time: 15 minutes | Cook Time: 50 minutes | Yield: 6-8 servings |
 +-----------------------+-----------------------+---------------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/36-scalloped-potatoes>`__
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/36-scalloped-potatoes>`__
 
 Ingredients
 -----------
 
--  2 1/2 pounds (5-6 large) Yukon Gold potatoes, scrubbed and sliced 1/8 inch thick (see note)
--  5 tablespoons unsalted butter, melted
--  1 tablespoon cornstarch
--  1 teaspoon table salt
--  1/2 teaspoon ground black pepper
--  1 1/2 teaspoons chopped fresh rosemary leaves (optional)
+- 2 1/2 pounds (5-6 large) Yukon Gold potatoes, scrubbed and sliced 1/8 inch thick (see note)
+- 5 tablespoons unsalted butter, melted
+- 1 tablespoon cornstarch
+- 1 teaspoon table salt
+- 1/2 teaspoon ground black pepper
+- 1 1/2 teaspoons chopped fresh rosemary leaves (optional)
 
 Directions
 ----------
@@ -29,7 +29,7 @@ Directions
    thoroughly coated. Place remaining tablespoon butter in heavy
    bottomed 10-inch ovenproof nonstick skillet and swirl to coat. Place
    1 potato slice in center of skillet then overlap slices in circle
-   around center slice, -followed by outer circle of overlapping slices.
+   around center slice, followed by outer circle of overlapping slices.
    Gently place remaining sliced potatoes on top of first layer,
    arranging so they form even thickness.
 3. Place skillet over medium-high heat and cook until sizzling and

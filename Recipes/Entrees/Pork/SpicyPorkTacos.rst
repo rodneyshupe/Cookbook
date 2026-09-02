@@ -1,12 +1,11 @@
 Spicy Pork Tacos (al Pastor)
 ============================
 
-+-------------------------+----------------------+
-| Total Time: 3 1/2 hours | Yield: Serves 6 to 8 |
-+-------------------------+----------------------+
++-------------------------+------------------------+
+| Total Time: 3 1/2 hours | Yield: 6 to 8 servings |
++-------------------------+------------------------+
 
 Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/6952-spicy-pork-tacos-al-pastor>`__
-
 
 Ingredients
 -----------
@@ -20,7 +19,7 @@ Ingredients
 - 3/4 teaspoon sugar
 - 1/2 teaspoon ground cumin
 - 1/8 teaspoon ground cloves
-- 3 pounds boneless pork butt roast
+- 3 pounds (1.35 kg) boneless pork butt roast
 - 1 lime, cut into 8 wedges
 - 1/2 pineapple, peeled, cored, and cut into 1/2-inch-thick rings
 - Vegetable oil
@@ -64,7 +63,7 @@ Directions
    browned and crisp, 5 to 7 minutes longer. Transfer to cutting board.
    Meanwhile, brush both sides of pineapple rings with vegetable oil and
    season with salt to taste. Place on other half of grill and cook until
-   pineapple is softened and caramelized, 5 to 7 minutes per side; transfer
+   pineapple is softened and caramelised, 5 to 7 minutes per side; transfer
    pineapple to cutting board.
 8. Coarsely chop grilled pineapple and transfer to serving bowl. Using
    tongs or carving fork to steady hot pork, slice each piece crosswise
@@ -82,4 +81,3 @@ chiles, New Mexican chiles may be substituted, although the dish may be
 spicier. To warm tortillas, place them on a plate, cover with a damp
 kitchen towel, and microwave for 60 to 90 seconds. Keep tortillas covered
 and serve immediately.
-

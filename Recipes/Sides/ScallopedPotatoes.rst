@@ -5,22 +5,22 @@ Scalloped Potatoes
 | Prep Time: 20 minutes | Cook Time: 25 minutes | Yield: 4 to 6 servings |
 +-----------------------+-----------------------+------------------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/36-scalloped-potatoes>`__
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/36-scalloped-potatoes>`__
 
 Ingredients
 -----------
 
--  2 tablespoons unsalted butter
--  1 medium onion, minced (about 1 cup)
--  2 medium cloves garlic, minced or pressed through garlic press (about 2 teaspoons)
--  1 tablespoon chopped fresh thyme leaves
--  1 1/4 teaspoons table salt
--  1/4 teaspoon ground black pepper
--  2 1/2 pounds russet potatoes (about 5 medium), peeled and sliced 1/8-inch thick (see photos below)
--  1 cup low-sodium chicken broth
--  1 cup heavy cream
--  2 bay leaves
--  4 ounces grated cheddar cheese, shredded (1 cup)
+- 2 tablespoons unsalted butter
+- 1 medium onion, minced (about 1 cup)
+- 2 medium cloves garlic, minced or pressed through garlic press (about 2 teaspoons)
+- 1 tablespoon chopped fresh thyme leaves
+- 1 1/4 teaspoons table salt
+- 1/4 teaspoon ground black pepper
+- 2 1/2 pounds russet potatoes (about 5 medium), peeled and sliced 1/8-inch thick (see photos below)
+- 1 cup low-sodium chicken broth
+- 1 cup heavy cream
+- 2 bay leaves
+- 4 ounces grated cheddar cheese, shredded (1 cup)
 
 Directions
 ----------

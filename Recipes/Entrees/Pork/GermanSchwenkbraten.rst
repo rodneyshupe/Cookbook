@@ -8,11 +8,11 @@ German Schwenkbraten (Pork Steak Barbecue)
 Ingredients
 -----------
 
-- 2.2 pounds/1 kg pork shoulder steaks
+- 2.2 pounds (1 kg) pork shoulder steaks
 - 1/2 cup oil
 - 2 garlic cloves, minced
 - 1 tablespoon spicy mustard
-- 1 teaspoons ground paprika
+- 1 teaspoon ground paprika
 - 1/4 teaspoon cayenne pepper
 - 1/4 teaspoon black pepper, freshly ground
 - 8 juniper berries, crushed
@@ -34,4 +34,3 @@ Notes
 If you cannot find pork steaks already cut, buy a whole pork shoulder roast
 (or similar roast), debone it, and cut the meat crosswise, 1/2 to 3/4 inches
 thick to make steaks.
-

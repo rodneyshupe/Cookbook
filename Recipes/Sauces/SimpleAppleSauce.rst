@@ -14,7 +14,7 @@ Ingredients
 - Pinch table salt
 - 1 cup water
 
-Optional Flavorings
+Optional Flavourings
 --------------------
 - 2 tablespoons unsalted butter - stir into finished sauce
 - 3 inch cinnamon sticks (2) -- cook with apples and remove prior to pureeing

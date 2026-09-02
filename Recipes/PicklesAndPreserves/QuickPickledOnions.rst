@@ -19,7 +19,7 @@ Directions
 1. Place onion in medium heatproof bowl. Bring vinegar, sugar, and salt to
    boil in small saucepan over medium-high heat, stirring occasionally
    until sugar dissolves.
-2. Pour vinegar mixture over onion and cover loosely. Let onion cool 
+2. Pour vinegar mixture over onion and cover loosely. Let onion cool
    completely, about 30 minutes. (The onions will keep for several months,
    but they're best the week they're made.)
 

@@ -5,20 +5,20 @@ Pan-Seared Flank Steak with Mustard-Chive Butter
 | Prep Time: 15 minutes | Cook Time: 45 minutes | Yield: 4 servings |
 +-----------------------+-----------------------+-------------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/8495-pan-seared-flank-steak-with-mustard-chive-butter>`__
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/8495-pan-seared-flank-steak-with-mustard-chive-butter>`__
 
 Ingredients
 -----------
 
--  1 1/2 to 1 3/4 pound (680g to 800g) flank steak, trimmed
--  2 teaspoons kosher salt
--  1 teaspoon sugar
--  1/2 teaspoon pepper
--  3 tablespoons unsalted butter, softened
--  3 tablespoons chopped fresh chives
--  2 teaspoons Dijon mustard
--  1/2 teaspoon grated lemon zest plus 1 teaspoon juice
--  2 tablespoons vegetable oil
+- 1 1/2 to 1 3/4 pound (680g to 800g) flank steak, trimmed
+- 2 teaspoons kosher salt
+- 1 teaspoon sugar
+- 1/2 teaspoon pepper
+- 3 tablespoons unsalted butter, softened
+- 3 tablespoons chopped fresh chives
+- 2 teaspoons Dijon mustard
+- 1/2 teaspoon grated lemon zest plus 1 teaspoon juice
+- 2 tablespoons vegetable oil
 
 Directions
 ----------
@@ -30,7 +30,7 @@ Directions
    press gently to adhere. Flip steaks and repeat with remaining salt
    mixture. Place steaks on wire rack set in rimmed baking sheet;
    transfer sheet to oven. Cook until thermometer inserted through side
-   into center of thickest steak registers 120F, 30 to 40 minutes.
+   into centre of thickest steak registers 120F, 30 to 40 minutes.
 2. Meanwhile, combine butter, 1 tablespoon chives, mustard, and lemon
    zest and juice in small bowl.
 3. Heat oil in 12-inch skillet over medium-high heat until just smoking.
@@ -42,4 +42,3 @@ Directions
    Slice steak as thin as possible against grain. Transfer sliced steak
    to warm platter, dot with remaining butter mixture, sprinkle with
    remaining 2 tablespoons chives, and serve.
-

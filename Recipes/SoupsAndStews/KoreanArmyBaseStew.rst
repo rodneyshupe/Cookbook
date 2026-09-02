@@ -14,6 +14,7 @@ Ingredients
 
 Sauce
 ^^^^^
+
 - 1 tablespoon Gochugaru (Korean chili flakes)
 - 1 tablespoon soy sauce
 - 1 tablespoon maggi sauce (substitute 1/2 tablespoon each of soy sauce and worcestershire)
@@ -23,10 +24,11 @@ Sauce
 
 Stew
 ^^^^
+
 - 200 g SPAM (thinly sliced)
 - 2 hot dogs (150g) thinly and diagonally sliced)
 - 250 g tofu, sliced (about 1.5cm, 1/2 inch thickness) (optional)
-- 200 g enoki mushrooms (base stem removed &amp; stems separated,)
+- 200 g enoki mushrooms (base stem removed & stems separated,)
 - 200 g king oyster mushrooms (thinly sliced lengthways)
 - 100 g shiitake mushroom caps (thinly sliced)
 - 1/2 cup Kimchi (ripened bite-sized)
@@ -34,7 +36,7 @@ Stew
 - 110 g instant ramen noodles
 - 50 g Korean rice cakes for soup (soaked in cold water for 15 mins if it was frozen)
 - 4 cups stock (see note)
-- 30 g green onion (thinly &amp; diagonally sliced)
+- 30 g green onion (thinly & diagonally sliced)
 - 1 to 2 american cheese slice
 
 Directions

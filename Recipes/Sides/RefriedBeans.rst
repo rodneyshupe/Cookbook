@@ -16,11 +16,12 @@ Ingredients
 
 Directions
 ----------
-1. In a medium skillet, render bacon over medium heat. Remove bacon and 
+
+1. In a medium skillet, render bacon over medium heat. Remove bacon and
    reserve for another purpose, keeping fat in pan.
 2. Add pinto beans to skillet, then stir in garlic powder, cumin, salt and
    pepper. Heat for 1-2 minutes and then use a potato masher to mash beans
-   until smooth adding 1/2 cup of canning juice, if mixture is to dry.
+   until smooth adding 1/2 cup of canning juice, if mixture is too dry.
    Cook until ...(they look like refried beans.)
 
 Notes

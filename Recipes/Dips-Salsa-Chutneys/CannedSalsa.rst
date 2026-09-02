@@ -20,7 +20,7 @@ Ingredients
 - 6 pounds fresh tomatoes, peeled and chopped
 - 2 banana peppers, chopped
 - 3 green bell peppers, chopped
-- 3 (6 ounce) cans tomato paste
+- 3 (6 ounces / approximately 156 ml) cans tomato paste
 - 1/2 cup white vinegar
 - 2 tablespoons garlic powder
 - 1 1/2 tablespoons salt

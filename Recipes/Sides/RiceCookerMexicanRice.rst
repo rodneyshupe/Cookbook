@@ -12,14 +12,14 @@ Ingredients
 
 - 1 cup rice (I used long grain rice)
 - 2 1/4 cups low sodium chicken broth
-- 1/2 (6 ounce) can tomato paste
+- 1/2 (6 ounces / approximately 156 ml) can tomato paste
 - 2 tablespoons butter
 - 1/2 cup onion, diced small
 - 1 garlic clove, minced
-- 1/2 (4 ounce) can diced green chilies
+- 1/2 (4 ounce / 118 ml) can diced green chilies
 - 1 dash pepper
 - 1 dash red pepper flakes
-- cilantro or parsley, for color
+- cilantro or parsley, for colour
 
 Directions
 ----------

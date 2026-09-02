@@ -9,6 +9,7 @@ Source: `Delish <https://www.delish.com/cooking/recipe-ideas/recipes/a47430/gril
 
 Ingredients
 -----------
+
 - 1 1/2 pounds (680g) Seafood. (large peeled and deveined shrimp, little neck clams, mussles)
 - 2 cloves garlic, minced
 - 2 smoked andouille sausages, thinly sliced (chorizo can be substituted)
@@ -24,6 +25,7 @@ Ingredients
 
 Directions
 ----------
+
 1. Preheat grill over high heat.
 2. Cut 4 sheets of foil about 12 inches long. Divide shrimp, garlic, sausage,
    corn, and potatoes evenly over the foil sheets. Drizzle with olive oil.
@@ -40,4 +42,3 @@ Notes
 -----
 Use 1 1/2 pounds of seafood.  This can be all shrimp, call clams, mix of clams,
 mussels and shrimp.  What ever is your fancy.
-

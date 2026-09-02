@@ -17,15 +17,16 @@ Pork
 - 2 teaspoons garlic powder
 - 2 teaspoons chili powder
 - 1 teaspoon cumin
-- 1 teaspoons kosher salt
+- 1 teaspoon kosher salt
 - 1/2 teaspoon freshly ground black pepper, divided
-- 2 lb. (900g) boneless pork roast
+- 2 pounds (900g) boneless pork roast
 - 6 cups no-sodium chicken broth
 - 2 tablespoons canola oil
 - 6 soft buns
 
 Sauce
 ^^^^^
+
 - 2 tablespoons brown sugar
 - 1/2 cup balsamic vinegar
 - 1/2 cup barbecue sauce (homemade or Bulleye original)
@@ -50,4 +51,3 @@ Directions
    low heat. Cook until thickened, about 20 to 25 minutes.
 6. Drain pork juices and shred pork with two forks. Add sauce and stir to
    combine. Spoon mixture onto buns to serve.
-

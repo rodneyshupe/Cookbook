@@ -1,16 +1,16 @@
 Sauerkraut
 ==========
 
-+----------------------+------------------------+-----------+-------------------------+
-| Prep Time: 5 minutes | Total Time: 40 minutes | Yield: ?? | Ferment Time: 3-10 Days |
-+----------------------+------------------------+-----------+-------------------------+
++----------------------+------------------------+-------------------------+
+| Prep Time: 5 minutes | Total Time: 40 minutes | Ferment Time: 3-10 Days |
++----------------------+------------------------+-------------------------+
 
 Ingredients
 -----------
 
--  1 medium head green cabbage (about 3 pounds)
--  1 1/2 tablespoons kosher salt
--  1 tablespoon caraway seeds (optional, for flavor)
+- 1 medium head green cabbage (about 3 pounds)
+- 1 1/2 tablespoons kosher salt
+- 1 tablespoon caraway seeds (optional, for flavour)
 
 Directions
 ----------
@@ -83,15 +83,15 @@ for longer storage.
 Notes
 -----
 
--  Sauerkraut with other cabbages: Red cabbage, napa cabbage, and other
-   cabbages all make great sauerkraut. Make individual batches or mix
-   them up for a multi-colored sauerkraut!
--  Larger or smaller batches: To make larger or smaller batches of
-   sauerkraut, keep the same ratio of cabbage to salt and adjust the
-   size of the container. Smaller batches will ferment more quickly and
-   larger batches will take longer.
--  Hot and cold temperatures: Do everything you can to store sauerkraut
-   at a cool room temperature. At high temperatures, the sauerkraut can
-   sometimes become unappetizingly mushy or go bad. Low temperatures
-   (above freezing) are fine, but fermentation will proceed more slowly.
+- Sauerkraut with other cabbages: Red cabbage, napa cabbage, and other
+  cabbages all make great sauerkraut. Make individual batches or mix
+  them up for a multi-coloured sauerkraut!
+- Larger or smaller batches: To make larger or smaller batches of
+  sauerkraut, keep the same ratio of cabbage to salt and adjust the
+  size of the container. Smaller batches will ferment more quickly and
+  larger batches will take longer.
+- Hot and cold temperatures: Do everything you can to store sauerkraut
+  at a cool room temperature. At high temperatures, the sauerkraut can
+  sometimes become unappetizingly mushy or go bad. Low temperatures
+  (above freezing) are fine, but fermentation will proceed more slowly.
 

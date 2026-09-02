@@ -11,8 +11,8 @@ Ingredients
 Sauce
 ^^^^^
 
-- 1/4 cup sambal oelek 
-- 1/4 cup soy sauce 
+- 1/4 cup sambal oelek
+- 1/4 cup soy sauce
 - 2 teaspoon oyster sauce
 - 2 teaspoon coconut sugar (substitute brown sugar)
 - 2 tablespoon tomato paste
@@ -23,9 +23,9 @@ Rice
 - 2 tablespoon vegetable oil
 - 1 medium yellow onion diced
 - 5 cloves garlic minced
-- 1 lb stirfry beef(cut into small strips) OR 1 lb chicken breast and/or thighs. cubed
+- 1 pound (450 g) stirfry beef(cut into small strips) OR 1 pound (450 g) chicken breast and/or thighs. cubed
 - 2 medium carrot diced OR 1 cup shredded cabbage
-- 6 cups cooked rice refrigerate overnight (see notes)**
+- 6 cups cooked rice refrigerate overnight (see notes)
 - 2 stalk green onion chopped (optional)
 
 Directions
@@ -44,8 +44,8 @@ Directions
 6. Now, add in cooked rice along with sauce. Saute for 3-4 minutes, or until rice is warmed
 7. Remove from heat and stir in chopped green onion. Add some salt to taste, if needed.
 
-Variation
----------
+Variations
+----------
 
-* For vegan version leave out meat (or you can substitute 10oz mushrooms) 
+* For vegan version leave out meat (or you can substitute 10 ounces mushrooms)
   and substitute the oyster sauce with Lee Kum Kee Vegetarian Stir-fry Sauce.

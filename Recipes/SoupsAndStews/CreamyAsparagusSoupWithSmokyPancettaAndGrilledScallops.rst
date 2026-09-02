@@ -7,11 +7,12 @@ Creamy Asparagus Soup with Smoky Pancetta and Grilled Scallops
 
 Ingredients
 -----------
+
 - 4 cups chicken stock
 - 2 bunch asparagus
 - 1 onion, sliced
-- 7 oz pancetta, sliced, julienne
-- 7 oz sea scallops
+- 7 ounces pancetta, sliced, julienne
+- 7 ounces sea scallops
 - 1/3 cup whipping cream
 - 3 tablespoon Butter
 - 3 tablespoon Flour
@@ -19,9 +20,10 @@ Ingredients
 
 Directions
 ----------
+
 1. Trim the asparagus, cut in half. Reserve the bottom half for the soup
    base. Cut the top half in three segments and put aside.
-2. In a small pot add 2 tbsp. olive oil, heat, add asparagus, (soup base)
+2. In a small pot add 2 tablespoons olive oil, heat, add asparagus, (soup base)
    season, and saute for 3 minutes. Add the chicken stock and bring to a
    boil. Turn down to a slow roll.
 3. Prepare the ROUX; in a small pan melt the butter and stir in the flour
@@ -30,11 +32,11 @@ Directions
    only one minute. Put aside.
 5. Whisk roux into the soup base. The soup base will start to thicken.
    Keep on medium heat.
-6. In a stock pot add 2 tbsp olive oil, heat, add pancetta and cook until
+6. In a stock pot add 2 tablespoons olive oil, heat, add pancetta and cook until
    crispy. Add onions, season, and saute until golden.
 7. Strain soup base with fine sieve into the onions and pancetta. Discard
    soup stock asparagus.
 8. Let simmer for 5 minutes. Add scallops, and asparagus tips (fresh),
    stir, bring to high heat. Stir in whipping cream, adjust seasoning
-   if needed.Serve 4-6.
+   if needed. Serve 4-6.
 

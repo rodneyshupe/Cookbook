@@ -17,7 +17,7 @@ Ingredients
 - 2 teaspoons minced fresh thyme or 3/4 teaspoon dried
 - 2 bay leaves
 - 6 cups vegetable broth
-- 2 (15-ounce) cans chickpeas, rinsed
+- 2 (15-ounce / 425 ml) cans chickpeas, rinsed
 - 2 ounces (1/2 cup) ditalini pasta
 - 2 tablespoons minced fresh parsley
 
@@ -29,7 +29,7 @@ Directions
    until softened, 5 to 7 minutes. Stir in nutritional yeast, thyme, and
    bay leaves and cook until fragrant, about 30 seconds.
 2. Stir in broth and chickpeas and bring to boil. Reduce heat to medium-low
-   and simmer, partially covered, until flavors meld, about 10 minutes.
+   and simmer, partially covered, until flavours meld, about 10 minutes.
 3. Stir in pasta, increase heat to medium-high, and boil until just tender,
    about 10 minutes. Off heat, discard bay leaves and stir in parsley.
    Season with salt and pepper to taste, and serve.

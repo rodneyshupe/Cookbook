@@ -10,7 +10,7 @@ Ingredients
 
 - 6 tablespoons unsalted butter (3/4 stick), melted
 - 2 medium cloves garlic, minced or pressed through a garlic press (about 2 teaspoons)
-- 2 live lobsters (each 1 1/2 to 2 pounds)
+- 2 live lobsters (each 1 1/2 to 2 pounds / 680 to 900 g)
 - 1/4 cup fresh bread crumbs
 - 2 tablespoons minced fresh parsley leaves
 - Vegetable oil for cooking grate
@@ -49,24 +49,26 @@ Variations
 
 Tarragon-Chive Butter
 ^^^^^^^^^^^^^^^^^^^^^
-* In step 2, add 2 teaspoons minced fresh chives and 1 teaspoon minced fresh
+
+- In step 2, add 2 teaspoons minced fresh chives and 1 teaspoon minced fresh
   tarragon to garlic butter. Replace parsley in breadcrumb mixture with
   2 tablespoons minced fresh chives and 2 teaspoons minced fresh tarragon
   leaves.
 
 Chili Butter
 ^^^^^^^^^^^^
-* In step 2, add 1 1/2 teaspoons chili powder and 1/4 - 1/2 teaspoon cayenne
+
+- In step 2, add 1 1/2 teaspoons chili powder and 1/4 - 1/2 teaspoon cayenne
   pepper to garlic butter. Serve lobsters with lime wedges rather than lemon
   wedges.
 
 Gin and Tonic Butter
 ^^^^^^^^^^^^^^^^^^^^
-* In step 2, while splitting the lobsters place 2 whole lemons and 2 whole
+
+- In step 2, while splitting the lobsters place 2 whole lemons and 2 whole
   limes on grill to heat up. Then instead of garlic add 3 tablespoons each
   of gin and tonic to butter. Skip combining Add breadcrumbs, parsley, butter
   and tomalley. Instead inject butter mixture into the lemons and limes.
-* In step 3, brush lobster with olive oil.
-* In step 4, instead of basing in butter, breadcrumbs and tomalley mixture,
+- In step 3, brush lobster with olive oil.
+- In step 4, instead of basing in butter, breadcrumbs and tomalley mixture,
   cut limes and squeeze over the lobster.
-

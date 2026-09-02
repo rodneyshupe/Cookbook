@@ -5,7 +5,7 @@ From the Freezer Stuffed Peppers
 | Prep Time: 20 + 45 minutes | Cook Time: 45 minutes | Yield: 4-6 servings |
 +----------------------------+-----------------------+---------------------+
 
-Source: `Cooks Country <https://www.cookscountry.com/recipes/3111-from-the-freezer-stuffed-peppers>`__
+Source: `Cook's Country <https://www.cookscountry.com/recipes/3111-from-the-freezer-stuffed-peppers>`__
 
 Ingredients
 -----------
@@ -20,7 +20,7 @@ Peppers and Stuffing
 - Salt and pepper
 - 4 cloves garlic, minced
 - 2 cups cooked long-grain rice
-- 1 can, 14.5 ounce (428ml), diced tomatoes, drained
+- 1 can, 13.5 fluid ounces (400 ml), diced tomatoes, drained
 - 1 cup shredded mozzarella cheese
 - 1/2 cup grated Parmesan cheese
 - 3 tablespoons chopped fresh parsley leaves
@@ -35,6 +35,7 @@ For Serving
 
 Directions
 ----------
+
 1. For the peppers: Heat oil in large skillet over medium heat until
    shimmering. Cook onion until softened and beginning to brown, about
    5 minutes. Increase heat to medium-high and add beef, sausage,
@@ -49,7 +50,7 @@ Directions
    plastic wrap and 1 layer of foil. Place in baking dish and freeze until
    firm. Transfer to zipper-lock plastic bag and freeze up to 2 months.
 4. When ready to serve: Adjust oven rack to middle position and heat oven to
-   450 degrees. Cut 8 pieces foil large enough to just cover stuffing in
+   450F. Cut 8 pieces foil large enough to just cover stuffing in
    peppers, and spray with cooking spray. Unwrap peppers and cover filling
    sides with new foil squares. Using skewer, poke several holes through foil.
    Place peppers, foil side down, over vents of slotted broiler-pan top set
@@ -59,9 +60,9 @@ Directions
    Bake until cheese is melted, about 5 minutes. Let rest 5 minutes before
    serving.
 
-Variation
----------
-For a vegetarian version replace beef and pork with 1 can, 15 ounce (443ml),
-cannellini beans, drained and rinsed.  In step 1 add garlic to onions and
-cook as instructed then stir in beans.
+Variations
+----------
 
+For a vegetarian version replace beef and pork with 1 can, 15 ounce (443ml),
+cannellini beans, drained and rinsed. In step 1 add garlic to onions and
+cook as instructed then stir in beans.

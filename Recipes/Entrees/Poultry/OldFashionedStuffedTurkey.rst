@@ -11,26 +11,26 @@ Ingredients
 Turkey
 ^^^^^^
 
--  1 turkey, 12 to 15 pounds (5.4 to 6.8kg), giblets and neck reserved for gravy, if making
--  3 tablespoons plus 2 teaspoons kosher salt
--  2 teaspoons baking powder
--  12 ounces (340g) salt pork, cut into 1/4-inch-thick slices and rinsed
+- 1 turkey, 12 to 15 pounds (5.4 to 6.8kg), giblets and neck reserved for gravy, if making
+- 3 tablespoons plus 2 teaspoons kosher salt
+- 2 teaspoons baking powder
+- 12 ounces (340g) salt pork, cut into 1/4-inch-thick slices and rinsed
 
 Stuffing
 ^^^^^^^^
 
--  1 1/2 pounds (680g) white sandwich bread (about 15 slices), cut into
-   1/2-inch cubes (about 12 cups)
--  4 tablespoons unsalted butter, plus extra for baking dish
--  1 medium onion, chopped fine (about 1 cup)
--  2 celery ribs, chopped fine (about 1 cup)
--  Kosher salt and ground black pepper
--  2 tablespoons minced fresh thyme leaves
--  1 tablespoon minced fresh marjoram leaves
--  1 tablespoon minced fresh sage leaves
--  1 1/2 cups low-sodium chicken broth
--  1 36-inch square cheesecloth, folded in quarters
--  2 large eggs
+- 1 1/2 pounds (680g) white sandwich bread (about 15 slices), cut into
+  1/2-inch cubes (about 12 cups)
+- 4 tablespoons unsalted butter, plus extra for baking dish
+- 1 medium onion, chopped fine (about 1 cup)
+- 2 celery ribs, chopped fine (about 1 cup)
+- Kosher salt and ground black pepper
+- 2 tablespoons minced fresh thyme leaves
+- 1 tablespoon minced fresh marjoram leaves
+- 1 tablespoon minced fresh sage leaves
+- 1 1/2 cups low-sodium chicken broth
+- 1 36-inch square cheesecloth, folded in quarters
+- 2 large eggs
 
 Directions
 ----------
@@ -43,7 +43,7 @@ Directions
    refrigerate 24 to 48 hours.
 2. FOR THe STUFFING: Adjust oven rack to lowest position and heat oven
    to 250F. Spread bread cubes in single layer on baking sheet; bake
-   until edges have dried but centers are slightly moist (cubes should
+   until edges have dried but centres are slightly moist (cubes should
    yield to pressure), about 45 minutes, stirring several times during
    baking. Transfer to large bowl and increase oven temperature to
    325F.
@@ -92,4 +92,3 @@ Notes
 
 To roast a kosher or self-basting turkey (such as a frozen Butterball),
 do not salt it in step 1.
-

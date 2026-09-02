@@ -16,8 +16,8 @@ Ingredients
 - 4 garlic cloves, peeled, halved lengthwise, and sliced thin
 - 2 anchovy fillets, rinsed, patted dry, and minced
 - 1/4 teaspoon red pepper flakes
-- 2 cans cannellini beans,  15 ounce (444ml), (1 can drained and rinsed, 1 can left undrained)
-- 1 can diced tomatoes, 14.5 ounce (428ml), drained
+- 2 cans cannellini beans, 15 ounce (444ml), (1 can drained and rinsed, 1 can left undrained)
+- 1 can diced tomatoes, 13.5 fluid ounces (400 ml), drained
 - 1/4 cup shredded fresh basil
 - 1/2 teaspoon grated lemon zest plus 1 tablespoon juice
 
@@ -46,4 +46,3 @@ Directions
    from heat and stir in basil and lemon zest and juice. Season with salt
    and pepper to taste. Transfer to serving dish, drizzle with remaining
    1 tablespoon oil, and serve.
-

@@ -5,7 +5,7 @@ No-Churn Ice Cream
 | Prep Time: 5 hours | Total Time: 5 hours 15 minutes | Yield: 12 servings (6 cups total) |
 +--------------------+--------------------------------+-----------------------------------+
 
-Source: `Cooks Country <https://www.americastestkitchen.com/cookscountry/recipes/11749-vanilla-no-churn-ice-cream>`__
+Source: `Cook's Country <https://www.americastestkitchen.com/cookscountry/recipes/11749-vanilla-no-churn-ice-cream>`__
 
 No special equipment is needed to make this ultra-creamy ice cream. Eat
 it plain or add some of our fun suggested stir-ins.
@@ -49,27 +49,27 @@ Salted Caramel-Coconut
 ^^^^^^^^^^^^^^^^^^^^^^
 
 - In step one, replace liquid sugar with caramel sauce and increase the salt
-  to 1/2 teaspoon. 
+  to 1/2 teaspoon.
 - In step two, once mixture is poured into the loaf pan, dollop 1/4 cup
   caramel over top and swirl into cream mixture using tines of fork.
 
 Milk Chocolate
 ^^^^^^^^^^^^^^
 
-- In step one when mixing in sugar and additional flavours add 6oz melted
+- In step one when mixing in sugar and additional flavours add 6 ounces melted
   milk chocolate.
 
 Dark Chocolate
 ^^^^^^^^^^^^^^
 
-- In step one when mixing in sugar and additional flavours add 6oz melted
+- In step one when mixing in sugar and additional flavours add 6 ounces melted
   bittersweet chocolate and 1/2 teaspoon instant espresso powder.
 
 Mint-Cookie
 ^^^^^^^^^^^
 
 - In step one, replace vanilla extract with 3/4 teaspoon peppermint extract
-  and add 1/8 teaspoon green food coloring. 
+  and add 1/8 teaspoon green food colouring.
 - In step two, once mixture is poured into the loaf pan, gently stir in
   4 crushed (coarse) Oreo cookies.
 

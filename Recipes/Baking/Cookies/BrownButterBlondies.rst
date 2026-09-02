@@ -7,7 +7,6 @@ Brown Butter Blondies
 
 Source: `Tastemade <https://www.tastemade.com/shows/marys-kitchen-crush/marys-kitchen-crush-s-1-e25/recipes/brown-butter-blondies>`__
 
-
 Ingredients
 -----------
 
@@ -44,4 +43,3 @@ Directions
    pan.
 9. Bake until the edges are golden and the middle is set, about 30 to 35
    minutes. Cool and cut to serve.
-

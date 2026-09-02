@@ -34,7 +34,7 @@ Directions
 Notes
 -----
 - Seasoning the sliced cucumbers and onion before marinating is key to a
-  much better flavor.  
+  much better flavour.
 - Avoid pouring the sugar/vinegar mix over the cucumbers when boiling hot.
   That will make the cucumbers way too soggy.
 - This salad gets even better after a couple of days in the fridge.

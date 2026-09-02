@@ -13,9 +13,9 @@ Ingredients
 - 2 tablespoons sesame oil
 - 1/2 tablespoons honey
 - 2 teaspoons toasted sesame seeds
-- 1/2 tsp minced garlic
+- 1/2 teaspoon minced garlic
 - 1 tablespoon onion, chopped
-- 2 tablespoons walnuts or your choice of nuts - this will add more nutty flavor and creamier texture (optional)
+- 2 tablespoons walnuts or your choice of nuts - this will add more nutty flavour and creamier texture (optional)
 
 Directions
 ----------

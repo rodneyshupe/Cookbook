@@ -19,6 +19,6 @@ Ingredients
 Directions
 ----------
 1. Mix seeds together, and pulse in a spice grinder to break apart
-   the seeds. Blend remaining ingredients in a 1 pint (16oz) jar.
+   the seeds. Blend remaining ingredients in a 1 pint (16 ounces) jar.
 2. Cover and ferment for 1 day and up to a week.
 

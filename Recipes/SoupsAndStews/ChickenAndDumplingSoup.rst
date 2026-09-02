@@ -5,10 +5,11 @@ Instant Pot Chicken and Dumpling Soup
 | Prep Time: 10 minutes | Total Time: 40 minutes | Yield: 6 servings |
 +-----------------------+------------------------+-------------------+
 
-Source: `Pressue Luck Cooking <https://pressureluckcooking.com/recipe/instant-pot-chicken-dumplings/>`__
+Source: `Pressure Luck Cooking <https://pressureluckcooking.com/recipe/instant-pot-chicken-dumplings/>`__
 
 Equipment
 ---------
+
 Electric Pressure Cooker
 
 Ingredients
@@ -16,30 +17,32 @@ Ingredients
 
 The Chicken
 ^^^^^^^^^^^
-- 4 tbsp of butter
+
+- 4 tablespoons of butter
 - 1 yellow onion, diced
 - 2 large carrots, peeled and diced
 - 3 stalks of celery, sliced into 1/4" pieces (with leafy tops reserved)
-- 1 tbsp of crushed garlic
-- 6 cups of reduced-sodium chicken broth (I used 2 tbsp of Chicken Better Than Bouillon + 6 cups of water)
+- 1 tablespoon of crushed garlic
+- 6 cups of reduced-sodium chicken broth (I used 2 tablespoons of Chicken Better Than Bouillon + 6 cups of water)
 - 3 bay leaves
 - 1/2 cup of Sherry wine (if you leave it out, add in another 1/2 cup of broth)
-- 1/2 tbsp of seasoned salt
-- 1/2 tbsp of poultry seasoning (salt-free)
-- 1/2 tbsp of black pepper
-- 1/2 tbsp of rubbed sage
-- 1 tsp of dried thyme
-- 1 tsp of dried parsley
-- Whole chicken (3-4 lbs), chopped into pieces with skin on
-- 3 tbsp of cornstarch + 3 tbsp of water to form a slurry
+- 1/2 tablespoon of seasoned salt
+- 1/2 tablespoon of poultry seasoning (salt-free)
+- 1/2 tablespoon of black pepper
+- 1/2 tablespoon of rubbed sage
+- 1 teaspoon of dried thyme
+- 1 teaspoon of dried parsley
+- Whole chicken (3-4 pounds / 1.35 kg - 1.8 kg), chopped into pieces with skin on
+- 3 tablespoons of cornstarch + 3 tablespoons of water to form a slurry
 - 1/2 cup of heavy cream
 
 The Dumplings
 ^^^^^^^^^^^^^
+
 - 1 1/4 cups of all-purpose flour
-- 2 tsp of baking powder (NOT to be confused with baking soda!)
-- 1 tsp of salt
-- 2 tbsp (1/4 stick) of salted butter
+- 2 teaspoons of baking powder (NOT to be confused with baking soda!)
+- 1 teaspoon of salt
+- 2 tablespoons (1/4 stick) of salted butter
 - 1/2 cup of whole milk
 
 Directions

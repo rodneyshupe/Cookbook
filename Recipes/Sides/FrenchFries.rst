@@ -8,10 +8,10 @@ French Fries
 Ingredients
 -----------
 
--  2 1/2 pounds Yukon Gold potatoes (about 6 medium), scrubbed, dried, sides squared off, and cut lengthwise into 1/4-inch by 1/4-inch batons
--  6 cups peanut oil
--  1/4 cup bacon fat, strained (optional)
--  Kosher salt
+- 2 1/2 pounds Yukon Gold potatoes (about 6 medium), scrubbed, dried, sides squared off, and cut lengthwise into 1/4-inch by 1/4-inch batons
+- 6 cups peanut oil
+- 1/4 cup bacon fat, strained (optional)
+- Kosher salt
 
 Directions
 ----------
@@ -29,7 +29,7 @@ Directions
 Notes
 -----
 
-Flavoring the oil with bacon fat (optional) gives the fries a mild meaty
-flavor. It is best to use peanut oil for frying, but vegetable or canola
+Flavouring the oil with bacon fat (optional) gives the fries a mild meaty
+flavour. It is best to use peanut oil for frying, but vegetable or canola
 oil can be substituted.
 

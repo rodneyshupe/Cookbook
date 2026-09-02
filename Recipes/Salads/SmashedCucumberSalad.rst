@@ -33,7 +33,7 @@ Directions
    red pepper flakes in a large bowl; whisk together thoroughly.
 4. Transfer drained cucumbers into the bowl with dressing. Toss to coat.
    Cover with plastic wrap; refrigerate for about 30 minutes to allow
-   flavors to mingle.
+   flavours to mingle.
 5. Place cucumbers in a serving bowl and sprinkle with sesame seeds.
 
 Notes

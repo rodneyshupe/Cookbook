@@ -10,6 +10,7 @@ Ingredients
 
 Marinade
 ^^^^^^^^
+
 - 2 tablespoons olive oil
 - 2 teaspoons soy sauce
 - 1 teaspoon lemon juice
@@ -24,8 +25,8 @@ Marinade
 Roast
 ^^^^^
 
-- 1 3lb Pork Loin Roast
-- 1 tablespoon vegetable oil 
+- 1 3-pound (1.35 kg) Pork Loin Roast
+- 1 tablespoon vegetable oil
 - 2-3 red peppers, sliced to 4 sides pieces.
 - 200g mozzarella or jack cheese, grated
 - 1/2 cup flat leaf parsley, chopped
@@ -60,4 +61,3 @@ Directions
 7. Remove foil and brush with remaining marinade and return to oven for
    20 minutes.
 8. Remove twine and slice.  Serve along with potatoes.
-

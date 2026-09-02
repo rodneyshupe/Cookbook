@@ -5,16 +5,17 @@ Stuffed Peppers
 | Prep Time: 20 minutes | Cook Time: 1 hour | Yield: 4 servings |
 +-----------------------+-------------------+-------------------+
 
-Source: Combination of recipres from `Cooks Country <https://www.cookscountry.com/recipes/6637-slow-cooker-stuffed-peppers>`__
-and `Cooks Illustrated <https://www.cooksillustrated.com/recipes/225-classic-stuffed-bell-peppers>`__
+Source: Combination of recipes from `Cook's Country <https://www.cookscountry.com/recipes/6637-slow-cooker-stuffed-peppers>`__
+and `Cook's Illustrated <https://www.cooksillustrated.com/recipes/225-classic-stuffed-bell-peppers>`__
 
 Ingredients
 -----------
+
 - 4 red, yellow, or orange bell peppers
 - 1 1/2 cups low-sodium chicken broth
 - 3/4 cup Arborio rice
 - 8 ounces (225g) hot Italian sausage, casings removed
-- 1	medium onion, chopped fine (about 1 cup)
+- 1 medium onion, chopped fine (about 1 cup)
 - 3 garlic cloves, minced
 - 1/4 teaspoon dried oregano
 - Salt and pepper
@@ -25,6 +26,7 @@ Ingredients
 
 Directions
 ----------
+
 1. Bring 4 quarts water to boil in large stockpot or Dutch oven over high
    heat. Adjust oven rack to middle position and heat oven to 350F.
 2. While water is coming to a boil, cut off top 1/2 inch of bell peppers.
@@ -49,4 +51,3 @@ Directions
    over each filled pepper and sprinkle each with 1 tablespoon of remaining
    cheese. Bake until cheese is browned and filling is heated through,
    25 to 30 minutes. Serve immediately.
-

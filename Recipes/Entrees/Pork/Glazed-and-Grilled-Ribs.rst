@@ -1,9 +1,9 @@
 Instant Pot Glazed and Grilled Ribs
 ===================================
 
-+-----------------+-------------------+
-| Total Time: TBD | Yield: 4 servings |
-+-----------------+-------------------+
++-------------------+
+| Yield: 4 servings |
++-------------------+
 
 Source: `Bon Appetit (Carla Lalli Music) <https://www.bonappetit.com/recipe/instant-pot-glazed-and-grilled-ribs>`__
 
@@ -20,19 +20,21 @@ Ingredients
 
 Ribs
 ^^^^
-- 1 tablespoons garlic powder
-- 1 tablespoons sugar
+
+- 1 tablespoon garlic powder
+- 1 tablespoon sugar
 - 2 tablespoons mustard powder
 - 1 1/2 tablespoons kosher salt
-- 4 lb. pork spareribs, cut into 3- or 4-rib sections (you can also use beef back ribs)
+- 4 pounds (1.8 kg) pork spareribs, cut into 3- or 4-rib sections (you can also use beef back ribs)
 - 1/4 cup mirin (sweet Japanese rice wine)
 
 Glaze
 ^^^^^
-- 2 Tbsp. distilled white vinegar
-- 2 Tbsp. Sriracha
-- 1 Tbsp. fish sauce
-- 1 Tbsp. sugar
+
+- 2 tablespoons distilled white vinegar
+- 2 tablespoons Sriracha
+- 1 tablespoon fish sauce
+- 1 tablespoon sugar
 - 2 3" pieces ginger, scrubbed, bruised with the dull side of a chef's knife, sliced into 1/2"-thick rounds
 - Kosher salt (optional)
 

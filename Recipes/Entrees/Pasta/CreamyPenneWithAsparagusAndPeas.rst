@@ -8,19 +8,19 @@ Creamy Penne with Asparagus and Peas
 Ingredients
 -----------
 
--  2 tablespoons extra-virgin olive oil
--  2 shallots, sliced thin
--  3 garlic cloves, minced
--  1 1/2 tablespoons all-purpose flour
--  1 1/2 cups chicken broth
--  1/2 package, 5.2 ounce (150g) Boursin Garlic and Fine Herbs cheese, crumbled
--  1 ounce (28g) Parmesan cheese, grated (1/2 cup), plus extra for serving
--  1 cup frozen peas, thawed
--  1 pound (450g) asparagus, trimmed and cut on bias into 1-inch lengths
--  Salt and pepper
--  1 pound (450g) penne
--  2 tablespoons minced fresh chives
--  1 tablespoon lemon zest
+- 2 tablespoons extra-virgin olive oil
+- 2 shallots, sliced thin
+- 3 garlic cloves, minced
+- 1 1/2 tablespoons all-purpose flour
+- 1 1/2 cups chicken broth
+- 1/2 package, 5.2 ounce (150g) Boursin Garlic and Fine Herbs cheese, crumbled
+- 1 ounce (28g) Parmesan cheese, grated (1/2 cup), plus extra for serving
+- 1 cup frozen peas, thawed
+- 1 pound (450g) asparagus, trimmed and cut on bias into 1-inch lengths
+- Salt and pepper
+- 1 pound (450g) penne
+- 2 tablespoons minced fresh chives
+- 1 tablespoon lemon zest
 
 Directions
 ----------
@@ -43,4 +43,3 @@ Directions
    teaspoon pepper to pasta and toss to coat. Adjust consistency with
    reserved cooking water as needed and season with salt and pepper to
    taste. Serve with extra Parmesan.
-

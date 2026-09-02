@@ -31,4 +31,4 @@ Directions
    and creamy. Switch to a heat-proof spatula or wooden spoon and gradually
    stir in the grated cheese, adding a handful at a time. Season the
    potatoes with salt to taste and, if needed, add more cream or buttermilk
-   until the potatoes reach your desired consistency. 
+   until the potatoes reach your desired consistency.

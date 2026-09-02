@@ -5,18 +5,17 @@ Grilled Vegetables
 | Prep Time: 15 minutes | Cook Time: 8 minutes | Yield: 4 servings |
 +-----------------------+----------------------+-------------------+
 
-
 Ingredients
 -----------
 
--  1 red bell pepper (roughly chopped)
--  1 yellow bell pepper (roughly chopped)
--  1 green bell pepper (roughly chopped)
--  1 red onion (roughly chopped)
--  6 stalks of asparagus (trimmed)
--  3 tablespoons olive oil
--  fresh cracked pepper
--  salt
+- 1 red bell pepper (roughly chopped)
+- 1 yellow bell pepper (roughly chopped)
+- 1 green bell pepper (roughly chopped)
+- 1 red onion (roughly chopped)
+- 6 stalks of asparagus (trimmed)
+- 3 tablespoons olive oil
+- fresh cracked pepper
+- salt
 
 
 Directions

@@ -1,13 +1,13 @@
 Prosciuttini (Little Prosciutto)
 ================================
 
-+-----------------------+--------------------+---------------------+----------------------------------+
-| Prep Time: 20 minutes | Cure Time: 2 weeks | Dry Time: 4-8 weeks | Yield: about 4 1/2 lbs cured ham |
-+-----------------------+--------------------+---------------------+----------------------------------+
-
-Delicious "Little Prosciutto" that's easy to make with no need to age for years in a cave!
++-----------------------+--------------------+---------------------+-------------------------------------+
+| Prep Time: 20 minutes | Cure Time: 2 weeks | Dry Time: 4-8 weeks | Yield: about 4 1/2 pounds cured ham |
++-----------------------+--------------------+---------------------+-------------------------------------+
 
 Source: `UMAi Charcuterie <https://www.drybagsteak.com/recipe-charcuterie-prosciutto-prosciuttini.php>`__
+
+Delicious "Little Prosciutto" that's easy to make with no need to age for years in a cave!
 
 Equipment
 ---------
@@ -16,7 +16,7 @@ UMAi Dry Bag, Vacuum Sealer
 Ingredients
 -----------
 
-- 3kg (approx. 7 lb) Boneless "green" ham
+- 3kg (approx. 7 pounds) Boneless "green" ham
 - 90g (3% of meat weight) Kosher salt
 - 8g (0.25% of meat weight) Instacure #2
 - 1 tablespoon Black pepper

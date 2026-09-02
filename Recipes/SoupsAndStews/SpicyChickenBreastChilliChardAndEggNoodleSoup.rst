@@ -7,19 +7,21 @@ Spicy Chicken Breast, Chilli, Chard and Egg Noodle Soup
 
 Ingredients
 -----------
-- 7 oz chicken breast, sliced
+
+- 7 ounces chicken breast, sliced
 - sea salt
 - fresh cracked pepper
 - 3 tablespoon extra virgin olive oil
 - 1 onion, finely chopped
 - 1 medium red chili, chopped
 - 12 litres chicken stock
-- 5 1/4 oz chard, chopped
-- 9 oz egg noodles
+- 5 1/4 ounces chard, chopped
+- 9 ounces egg noodles
 - parmesan cheese, grated
 
 Directions
 ----------
+
 1. Cook the egg noodles as per directions, drain and put aside
 2. Heat the oil and saute the onions, season
 3. Add the chicken breast, season, and saute for 3 minutes

@@ -10,20 +10,19 @@ ahead and taken to work. Just add boiling water, seal it up for three
 minutes, add the contents of the fresh herb packet, and you've got a hot
 lunch ready.
 
-
 Ingredients
 -----------
 
--  4 tablespoons high quality chicken base such as Better Than Bouillon
--  1 cup frozen peas
--  1 small onion, thinly sliced
--  12 ounces shredded chicken meat from 1 rotisserie chicken
--  4 small nests rice noodles or pre-cooked ramen or Italian pasta (see
-   note above)
--  Kosher salt and freshly ground black pepper
--  1/2 cup minced fresh dill leaves
--  4 Resealable 16oz Jars
--  4 small ziplock bags
+- 4 tablespoons high quality chicken base such as Better Than Bouillon
+- 1 cup frozen peas
+- 1 small onion, thinly sliced
+- 12 ounces shredded chicken meat from 1 rotisserie chicken
+- 4 small nests rice noodles or pre-cooked ramen or Italian pasta (see
+  note above)
+- Kosher salt and freshly ground black pepper
+- 1/2 cup minced fresh dill leaves
+- 4 Resealable 16-ounce Jars
+- 4 small ziplock bags
 
 Directions
 ----------

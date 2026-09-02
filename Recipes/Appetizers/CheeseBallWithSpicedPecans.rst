@@ -6,9 +6,9 @@ Classic Cheese Ball with Spiced Pecans
 +-----------------------+-----------------------+---------------------+-------------------+
 
 Ingredients
-------------
+-----------
 
-- 1 (8-ounce) package cream cheese, softened
+- 1 (8-ounce / 236 ml) package cream cheese, softened
 - 8 ounces extra-sharp Cheddar cheese, grated (about 2 cups)
 - 1/4 cup mayonnaise
 - 1 teaspoon Worcestershire sauce
@@ -45,4 +45,4 @@ Directions
 Notes
 -----
 This cheese ball can be made up to 2 days in advance. Store in an airtight
-container in the refrigerator.   
+container in the refrigerator.

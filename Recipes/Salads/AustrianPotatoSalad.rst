@@ -13,19 +13,19 @@ very tender.
 Ingredients
 -----------
 
--  2 pounds Yukon Gold potatoes (about 4 large), peeled, quartered
-   lengthwise, and cut into 1/2-inch-thick slices
--  1 cup low-sodium chicken broth
--  1 cup water
--  Table salt
--  1 tablespoon sugar
--  2 tablespoons white wine vinegar
--  1 tablespoon Dijon mustard
--  1/4 cup vegetable oil
--  1 small red onion, chopped fine (about 3/4 cup)
--  6 cornichons, minced (about 2 tablespoons)
--  2 tablespoons minced fresh chives
--  Ground black pepper
+- 2 pounds Yukon Gold potatoes (about 4 large), peeled, quartered
+  lengthwise, and cut into 1/2-inch-thick slices
+- 1 cup low-sodium chicken broth
+- 1 cup water
+- Table salt
+- 1 tablespoon sugar
+- 2 tablespoons white wine vinegar
+- 1 tablespoon Dijon mustard
+- 1/4 cup vegetable oil
+- 1 small red onion, chopped fine (about 3/4 cup)
+- 6 cornichons, minced (about 2 tablespoons)
+- 2 tablespoons minced fresh chives
+- Ground black pepper
 
 Directions
 ----------

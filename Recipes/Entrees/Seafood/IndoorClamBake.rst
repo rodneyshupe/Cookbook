@@ -8,13 +8,13 @@ Indoor Clam Bake
 Ingredients
 -----------
 
--  2 pounds (900g) live spot prawns or 2 dungeness crabs (1 pound each) (or 1 two pound)
--  2 pounds (900g) small littleneck or cherry stone clams, scrubbed
--  2 pounds (900g) mussels, scrubbed and beards removed
--  1 pound (450g) chorizo or kielbasa, sliced into 1/2 inch-thick rounds
--  1 pound (450g) small new or red potatoes, cut into 1-inch pieces
--  4 medium ears corn, silk and all but the last layer of husk removed
--  8 tablespoons (1 stick) salted butter, melted
+- 2 pounds (900g) live spot prawns or 2 dungeness crabs (1 pound each) (or 1 two pound)
+- 2 pounds (900g) small littleneck or cherry stone clams, scrubbed
+- 2 pounds (900g) mussels, scrubbed and beards removed
+- 1 pound (450g) chorizo or kielbasa, sliced into 1/2 inch-thick rounds
+- 1 pound (450g) small new or red potatoes, cut into 1-inch pieces
+- 4 medium ears corn, silk and all but the last layer of husk removed
+- 8 tablespoons (1 stick) salted butter, melted
 
 Directions
 ----------
@@ -36,8 +36,8 @@ Directions
    remaining steaming liquid in pot over clams and mussels. Arrange crab
    parts and prawns on platter. Serve immediately with melted butter.
 
-Variation
----------
+Variations
+----------
 
 Substitute spot prawns and crab with 2 live lobsters (about 1 1/2 pounds
 each). Freeze lobsters for 10 to 15 minutes to sedate them (do not over
@@ -47,8 +47,7 @@ your hand, twist and remove lobster tails, claws, and legs (if desired).
 Notes
 -----
 
--  Choose a large, narrow stockpot in which you can easily layer the
-   ingredients. The recipe can be cut in half and layered in an 8-quart
-   Dutch oven, but it should cook for the same amount of time.
--  Use left overs for `Leftover Seafood Chowder <#leftover-seafood-chowder>`__.
-
+- Choose a large, narrow stockpot in which you can easily layer the
+  ingredients. The recipe can be cut in half and layered in an 8-quart
+  Dutch oven, but it should cook for the same amount of time.
+- Use left overs for `Leftover Seafood Chowder <#leftover-seafood-chowder>`__.

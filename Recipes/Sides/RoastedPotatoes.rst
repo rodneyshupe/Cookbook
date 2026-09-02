@@ -8,31 +8,31 @@ Roasted Potatoes
 Ingredients
 -----------
 
--  3lb. White potatoes, peeled
--  Sea salt and freshly ground black pepper
--  Olive oil
--  1 bulb of garlic, broken into cloves
--  Red wine vinegar
+- 3 pounds White potatoes, peeled
+- Sea salt and freshly ground black pepper
+- Olive oil
+- 1 bulb of garlic, broken into cloves
+- Red wine vinegar
 
-Flavor Combo1
--------------
+Flavour Combo 1
+---------------
 
--  A good couple of lugs of olive oil
--  A bunch of fresh rosemary, leaves picked
+- A good couple of lugs of olive oil
+- A bunch of fresh rosemary, leaves picked
 
-Flavor Combo 2
---------------
+Flavour Combo 2
+---------------
 
--  50g butter, cut into little cubes
--  A bunch of fresh sage, roughly torn
--  1 clementine
+- 50g butter, cut into little cubes
+- A bunch of fresh sage, roughly torn
+- 1 clementine
 
-Flavor Combo 3
---------------
+Flavour Combo 3
+---------------
 
--  2 tablespoons goose fat
--  A bunch of fresh thyme, leaves picked
--  A couple of fresh bay leaves
+- 2 tablespoons goose fat
+- A bunch of fresh thyme, leaves picked
+- A couple of fresh bay leaves
 
 Directions
 ----------

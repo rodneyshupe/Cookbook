@@ -8,13 +8,13 @@ Simple Tomato Sauce v2
 Ingredients
 -----------
 
--  1 (28-ounce) can diced tomatoes or whole tomatoes (1 can), not packed
+- 1 (28-ounce / 828 ml) can diced tomatoes or whole tomatoes (1 can), not packed
    in puree or sauce
--  2 medium cloves garlic, peeled and chopped coarse
--  3 tablespoons extra-virgin olive oil
--  2 tablespoons coarsely chopped fresh basil leaves, (about 8 leaves)
--  1/4 teaspoon granulated sugar
--  1 1/2 teaspoons table salt
+- 2 medium cloves garlic, peeled and chopped coarse
+- 3 tablespoons extra-virgin olive oil
+- 2 tablespoons coarsely chopped fresh basil leaves, (about 8 leaves)
+- 1/4 teaspoon granulated sugar
+- 1 1/2 teaspoons table salt
 
 Directions
 ----------

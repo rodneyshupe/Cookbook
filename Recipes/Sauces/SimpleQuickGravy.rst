@@ -19,7 +19,7 @@ Ingredients
 - 2-3 teaspoons Worcestershire sauce
 - 1/4 cup cold water
 - 2-3 tablespoons cornstarch
-- 1 tablespoons cold unsalted butter (optional)
+- 1 tablespoon cold unsalted butter (optional)
 - salt and pepper to taste
 
 Directions
@@ -39,19 +39,19 @@ Variations
 ----------
 
 * ROUX - If you want to use a roux, start out with 2 tablespoons unsalted
-  butter in the saucepan, and heat until melted.  Whisk in 2 Tbsp all
+  butter in the saucepan, and heat until melted.  Whisk in 2 tablespoons all
   purpose flour and cook about 1 minute. Slowly add in broths, whisking
   the mixture as you pour, until mixture is smooth.  Proceed with recipe as
   written, omitting the water and cornstarch.
 * DRIPPINGS - Substitute them for some of the broth.
-* BROTH - for a beefier flavor, try using all beef broth (2 cups).  For a
-  lighter flavor, and color, increase the amount of chicken broth and
+* BROTH - for a beefier flavour, try using all beef broth (2 cups).  For a
+  lighter flavour, and colour, increase the amount of chicken broth and
   reduce the amount of beef.  Just keep it at 2 cups total.
 * ONION - Finely mince some onion and saute it in the saucepan with a drizzle
   of oil over MED heat for about 5 minutes.  Then add broth and continue with
   the recipe as written.
 * FRESH HERBS - try adding a sprig or two of fresh thyme or rosemary to the
-  saucepan with the broth.  It adds a beautiful herby flavor!  Just remember
+  saucepan with the broth.  It adds a beautiful herby flavour!  Just remember
   to remove the woody stems before serving.
 * MUSHROOMS - Saute sliced mushrooms in the saucepan with a drizzle of oil
   over MED heat for about 5 minutes.  Then add broth and continue with the

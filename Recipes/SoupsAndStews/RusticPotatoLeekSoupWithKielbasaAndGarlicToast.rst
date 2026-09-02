@@ -8,16 +8,16 @@ Rustic Potato-Leek Soup with Kielbasa and Garlic Toast
 Ingredients
 -----------
 
--  1 (12-inch) baguette, sliced 1 inch thick on bias
--  1 garlic clove, peeled
--  2 tablespoons extra-virgin olive oil
--  4 tablespoons unsalted butter
--  8 ounces kielbasa sausage, halved lengthwise and sliced 1/2 inch
-   thick
--  2 pounds leeks
--  5 cups chicken broth
--  1/2 pound red potatoes, unpeeled, cut into 3/4-inch pieces
--  Salt and pepper
+- 1 (12-inch) baguette, sliced 1 inch thick on bias
+- 1 garlic clove, peeled
+- 2 tablespoons extra-virgin olive oil
+- 4 tablespoons unsalted butter
+- 8 ounces kielbasa sausage, halved lengthwise and sliced 1/2 inch
+  thick
+- 2 pounds leeks
+- 5 cups chicken broth
+- 1/2 pound red potatoes, unpeeled, cut into 3/4-inch pieces
+- Salt and pepper
 
 Directions
 ----------
@@ -37,7 +37,7 @@ Directions
 4. Stir in broth, scraping up any browned bits. Stir in potatoes and
    bring to simmer. Cover, reduce heat to medium-low, and simmer gently
    until potatoes are almost tender, 5 to 7 minutes.
-5. Off heat, let sit until potatoes are tender and flavors meld, 10 to
+5. Off heat, let sit until potatoes are tender and flavours meld, 10 to
    15 minutes. Season with salt and pepper to taste and serve with
    garlic toast.
 

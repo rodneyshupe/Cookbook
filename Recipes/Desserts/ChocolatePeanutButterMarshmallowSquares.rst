@@ -9,10 +9,13 @@ Ingredients
 -----------
 
 - one batch of `Rice Krispy Squares <#gourmet-rice-krispy-squares>`__ uncut
-- 4 oz milk chocolate
+- 4 ounces milk chocolate
 - 1/2 cup creamy peanut butter
-- 4 tbsp butter
-- 3 oz bittersweet chocolate (about a 1/2 cup, measured)
+- 4 tablespoons butter
+- 3 ounces bittersweet chocolate (about a 1/2 cup, measured)
+
+Directions
+----------
 
 1. While the Rice Krispy Squares cool while you start on the peanut butter
    chocolate layer. Melt the milk chocolate and peanut butter in a double

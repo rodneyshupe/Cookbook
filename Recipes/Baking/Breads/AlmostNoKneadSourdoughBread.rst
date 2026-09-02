@@ -5,10 +5,11 @@ Almost No-Knead Sourdough Bread
 | Prep Time: 20 minutes | Cook Time: 1 hour | Total Time: 16 hours | Yield: 1 loaf |
 +-----------------------+-------------------+----------------------+---------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/9075-sourdough-starter>`__
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/9075-sourdough-starter>`__
 
 Ingredients
 -----------
+
 - 3 2/3 cups (18 1/3 ounces) all-purpose flour or bread flour
 - 1 3/4 teaspoons salt
 - 1 1/2 cups plus 4 teaspoons (12 2/3 ounces) water, room temperature
@@ -16,6 +17,7 @@ Ingredients
 
 Directions
 ----------
+
 1. Whisk flour and salt together in medium bowl. Whisk room-temperature water
    and starter in large bowl until smooth. Add flour mixture to water mixture
    and stir using wooden spoon, scraping up dry flour from bottom of bowl
@@ -35,9 +37,9 @@ Directions
 4. Remove pot and water pan from oven; discard plastic from pot. Lightly flour
    top of dough and, using razor blade or sharp knife, make one 7-inch-long,
    1/2-inch-deep slit along top of dough. Cover pot and place on middle rack
-   in oven. Heat oven to 425 degrees. Bake bread for 30 minutes (starting
+   in oven. Heat oven to 425F. Bake bread for 30 minutes (starting
    timing as soon as you turn on oven).
 5. Remove lid and continue to bake until loaf is deep brown and registers
-   210 degrees, 20 to 30 minutes longer. Carefully remove bread from pot;
+   210F, 20 to 30 minutes longer. Carefully remove bread from pot;
    transfer to wire rack and let cool completely before serving.
 

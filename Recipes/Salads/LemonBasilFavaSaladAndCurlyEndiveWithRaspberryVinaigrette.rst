@@ -18,8 +18,8 @@ Ingredients
 - fresh cracked pepper
 - 1/2 bunch basil, chopped
 - 1/2 yellow pepper, julienne
-- 1/2 cup  artichokes, sliced
-- 1/4 cup  sundried tomatoes
+- 1/2 cup artichokes, sliced
+- 1/4 cup sundried tomatoes
 - 2 tablespoons extra virgin olive oil
 - 15 ml Balsamic vinegar
 - 2 clove garlic, chopped

@@ -5,20 +5,20 @@ Asian-Style Dumpling Soup
 | Prep Time: 15 minutes | Cook Time: 30 minutes | Yield: 4 servings |
 +-----------------------+-----------------------+-------------------+
 
-Source: `Cooks Country <https://www.cookscountry.com/recipes/5833-asian-beef-and-noodle-soup>`__
+Source: `Cook's Country <https://www.cookscountry.com/recipes/5833-asian-beef-and-noodle-soup>`__
 
 Ingredients
 -----------
 
--  4 slices bacon, cut into 1/2-inch pieces
--  3 scallions, white and green parts separated, sliced thin on bias
--  2 teaspoons grated fresh ginger
--  1/4 teaspoon red pepper flakes
--  4 ounces shiitake mushrooms, stemmed and sliced thin
--  6 cups chicken broth
--  2 (8-ounce) bags frozen Asian-style dumplings or potstickers
--  2 tablespoons fish sauce
--  2 tablespoons lime juice
+- 4 slices bacon, cut into 1/2-inch pieces
+- 3 scallions, white and green parts separated, sliced thin on bias
+- 2 teaspoons grated fresh ginger
+- 1/4 teaspoon red pepper flakes
+- 4 ounces shiitake mushrooms, stemmed and sliced thin
+- 6 cups chicken broth
+- 2 (8-ounce / 236 ml) bags frozen Asian-style dumplings or potstickers
+- 2 tablespoons fish sauce
+- 2 tablespoons lime juice
 
 Directions
 ----------

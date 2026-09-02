@@ -5,22 +5,22 @@ Gingered Shrimp Toasts
 | Prep Time: 25 minutes | Yield: 36 pieces |
 +-----------------------+------------------+
 
-Source: `Cooks Country <https://www.cookscountry.com/recipes/2375-gingered-shrimp-toasts>`__
+Source: `Cook's Country <https://www.cookscountry.com/recipes/2375-gingered-shrimp-toasts>`__
 
 Ingredients
 -----------
 
--  1 thin baguette, sliced into 1/2-inch-thick rounds
--  1/2 cup extra-virgin olive oil
--  1 tablespoon grated fresh ginger
--  1 clove garlic, peeled
--  1/4 small onion
--  4 ounces cream cheese, at room temperature
--  1/2 teaspoon lemon juice plus 1 additional tablespoon
--  Table salt
--  1/2 pound cooked medium shrimp, each sliced in half lengthwise
--  1 tablespoon chopped fresh basil
--  1 tablespoon chopped fresh chives
+- 1 thin baguette, sliced into 1/2-inch-thick rounds
+- 1/2 cup extra-virgin olive oil
+- 1 tablespoon grated fresh ginger
+- 1 clove garlic, peeled
+- 1/4 small onion
+- 4 ounces cream cheese, at room temperature
+- 1/2 teaspoon lemon juice plus 1 additional tablespoon
+- Table salt
+- 1/2 pound (230 g) cooked medium shrimp, each sliced in half lengthwise
+- 1 tablespoon chopped fresh basil
+- 1 tablespoon chopped fresh chives
 
 Directions
 ----------

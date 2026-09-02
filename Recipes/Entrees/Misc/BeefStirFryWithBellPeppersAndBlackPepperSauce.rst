@@ -8,24 +8,24 @@ Beef Stir Fry with Bell Peppers and Black Pepper Sauce
 Ingredients
 -----------
 
--  1 tablespoon plus 1/4 cup water
--  1/4 teaspoon baking soda
--  1 pound (450g) flank steak, trimmed, cut into 2 to 2 1/2-inch strips with
-   grain, each strip cut crosswise against grain into 1/4-inch-thick slices
--  3 tablespoons soy sauce
--  3 tablespoons dry sherry or Chinese rice wine
--  3 teaspoons cornstarch
--  2 1/2 teaspoons packed light brown sugar
--  1 tablespoon oyster sauce
--  2 teaspoons rice vinegar
--  1 1/2 teaspoons toasted sesame oil
--  2 teaspoons coarsely ground pepper
--  3 tablespoons plus 1 teaspoon vegetable oil
--  1 red bell pepper, stemmed, seeded, and cut into 1/4-inch-wide strips
--  1 green bell pepper, stemmed, seeded, and cut into 1/4-inch-wide strips
--  6 scallions, white parts sliced thin on bias, green parts cut into 2-inch pieces
--  3 garlic cloves, minced
--  1 tablespoon grated fresh ginger
+- 1 tablespoon plus 1/4 cup water
+- 1/4 teaspoon baking soda
+- 1 pound (450g) flank steak, trimmed, cut into 2 to 2 1/2-inch strips with
+  grain, each strip cut crosswise against grain into 1/4-inch-thick slices
+- 3 tablespoons soy sauce
+- 3 tablespoons dry sherry or Chinese rice wine
+- 3 teaspoons cornstarch
+- 2 1/2 teaspoons packed light brown sugar
+- 1 tablespoon oyster sauce
+- 2 teaspoons rice vinegar
+- 1 1/2 teaspoons toasted sesame oil
+- 2 teaspoons coarsely ground pepper
+- 3 tablespoons plus 1 teaspoon vegetable oil
+- 1 red bell pepper, stemmed, seeded, and cut into 1/4-inch-wide strips
+- 1 green bell pepper, stemmed, seeded, and cut into 1/4-inch-wide strips
+- 6 scallions, white parts sliced thin on bias, green parts cut into 2-inch pieces
+- 3 garlic cloves, minced
+- 1 tablespoon grated fresh ginger
 
 Directions
 ----------
@@ -63,4 +63,3 @@ Note: Technique: Cutting Flank Steak for Stir Fry
 
 Cut steak with grain into 2 to 2 1/2 inch strips, then cut each strip
 crosswise against grain into 1/4-inch-thick slices.
-

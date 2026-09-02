@@ -28,6 +28,7 @@ Ingredients:
 
 Directions
 ----------
+
 1. Preheat the oven to 425F and line a baking sheet with a baking rack. Lay
    out the chicken and pat each piece dry with a piece of paper towel.
 2. In a large bowl, combine the flour, cornstarch, cayenne pepper, paprika,
@@ -47,4 +48,3 @@ Directions
    reaches 165F and the coating is golden brown.
 6. Immediately season the chicken with a pinch of kosher salt and allow it
    to rest for about 5 minutes before digging in!
-

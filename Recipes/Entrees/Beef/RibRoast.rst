@@ -9,7 +9,7 @@ Ingredients
 -----------
 
 - 1 first-cut beef standing rib roast 7 pound (3.2kg) aprox. 3 bones
-- 1 (3- to 4-bone) standing rib roast, preferably from the loin end, with the fat cap in place, 7 to 10 pounds
+- 1 (3- to 4-bone) standing rib roast, preferably from the loin end, with the fat cap in place, 7 to 10 pounds (3.15 to 4.5 kg)
 - 2 tablespoons neutral oil, to coat the roast, plus more if needed
 - Kosher salt, 2 teaspoons per bone
 - 1 tablespoon freshly ground black pepper
@@ -25,7 +25,7 @@ Directions
    to rub the bones with oil, as well. Once the roast is completely coated
    with oil, cover the roast with kosher salt, using about 2 teaspoons per
    bone, and the pepper. Let sit at room temperature for 1 hour.
-3. Place a probe thermometer into the center of the roast and set its alarm
+3. Place a probe thermometer into the centre of the roast and set its alarm
    for 118F. Set the roast on the lower middle rack in a cold oven and
    turn the oven to 250F. Let roast until the meat hits its target
    temperature, about 3 hours for a 3-bone roast or up to about 4 hours for
@@ -46,4 +46,3 @@ Directions
    your oven to run.
 6. Return the roast to the board, carve, and serve with Yorkshire pudding.
    And no, you don't need to rest it again.
-

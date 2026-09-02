@@ -8,9 +8,9 @@ Chanterelle Mushrooms With Seared Baby Spinach
 Ingredients
 -----------
 
-- 10 1/2 oz chanterelle mushrooms
-- 4 oz baby spinach leaves
-- 2 oz Yellow pepper, julienne
+- 10 1/2 ounces chanterelle mushrooms
+- 4 ounces baby spinach leaves
+- 2 ounces Yellow pepper, julienne
 - 1 lemon, juiced
 - 1/2 red onion, sliced
 - 1 clove garlic, minced
@@ -19,7 +19,7 @@ Ingredients
 - extra virgin olive oil
 - aged balsamic vinegar
 - 1 bunch basil, fresh, chopped
-- 1/4 cup  white wine
+- 1/4 cup white wine
 
 Directions
 ----------

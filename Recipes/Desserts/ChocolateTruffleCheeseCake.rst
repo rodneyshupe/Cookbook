@@ -1,19 +1,19 @@
 Chocolate Truffle Cheese Cake
 =============================
 
-If you are a chocolate fan it does not get any better than this cheese
-cake and is the best chocolate cheese cake I have had. It is one of the
-richest deserts out there and goes nicely with a ice wine.
-
 +-----------------------+-----------------------+--------------------+
 | Prep Time: 10 minutes | Cook Time: 60 minutes | Yield: 12 servings |
 +-----------------------+-----------------------+--------------------+
 
+If you are a chocolate fan it does not get any better than this cheese
+cake and is the best chocolate cheese cake I have had. It is one of the
+richest desserts out there and goes nicely with an ice wine.
+
 Equipment
 ---------
 
--  9 inch spring form pan
--  Mixing bowls
+- 9 inch spring form pan
+- Mixing bowls
 
 Ingredients
 -----------
@@ -21,25 +21,25 @@ Ingredients
 Crust
 ^^^^^
 
--  1 cup graham wafer crumbs
--  1/3 cup butter, melted
--  1/2 cup pecans or hazelnuts, crushed
+- 1 cup graham wafer crumbs
+- 1/3 cup butter, melted
+- 1/2 cup pecans or hazelnuts, crushed
 
 Cheese Cake Filling
--------------------
+^^^^^^^^^^^^^^^^^^^
 
--  1 lb. of cream cheese, softened
--  1 cup sugar
--  3 large eggs
--  2 tablespoons amaretto
--  8 oz. bitter sweet chocolate, melted
--  1/2 cup sour cream
+- 1 pound of cream cheese, softened
+- 1 cup sugar
+- 3 large eggs
+- 2 tablespoons amaretto
+- 8 ounces bitter sweet chocolate, melted
+- 1/2 cup sour cream
 
 Chocolate Ganache Topping
--------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  1/2 cup whipping cream
--  4 oz. chocolate
+- 1/2 cup whipping cream
+- 4 ounces chocolate
 
 Directions
 ----------

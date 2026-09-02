@@ -8,12 +8,12 @@ Pacific Snapper with Blood Orange and Fennel En Papillote
 Ingredients
 -----------
 
-- 1 blood orange, 
+- 1 blood orange
 - 1 small fennel bulb, sliced thin
 - 2 pacific snapper fillets, halved length wise (to create 2 slim pieces)
 - olive oil
 - salt and pepper
-  
+
 Directions
 ----------
 
@@ -35,5 +35,5 @@ Directions
 5. Place the parchment packet(s) on a baking sheet and bake for 15 minutes.
    Carefully transfer the packet to a plate and open it with a knife (steam
    will be released, so be cautious).
-6. Serve the fish directly from the parchment paper, enjoying the flavorful
+6. Serve the fish directly from the parchment paper, enjoying the flavourful
    juices and vegetables cooked alongside.

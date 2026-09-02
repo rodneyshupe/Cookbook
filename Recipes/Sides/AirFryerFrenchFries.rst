@@ -30,13 +30,13 @@ Directions
    thoroughly pat dry.
 3. Toss potatoes with 1 tablespoon oil in clean, dry bowl, then transfer
    to air-fryer basket. Place basket in air fryer, set temperature to
-   350 degrees, and cook for 8 minutes. Transfer potatoes to now-empty bowl
+   350F, and cook for 8 minutes. Transfer potatoes to now-empty bowl
    and gently toss to redistribute. Return potatoes to air fryer and cook
    until softened and potatoes have turned from white to blond (potatoes
    may be spotty brown at tips), 5 to 10 minutes.
 4. Transfer potatoes to now-empty bowl and toss with remaining 1 tablespoon
    oil and 1/2 teaspoon salt. Return potatoes to air fryer, increase
-   temperature to 400 degrees, and cook until golden brown and crisp,
+   temperature to 400F, and cook until golden brown and crisp,
    15 to 20 minutes, tossing gently in bowl to redistribute every
    5 minutes. Transfer fries to large plate and season with salt and pepper
    to taste. Serve immediately.

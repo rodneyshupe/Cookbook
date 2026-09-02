@@ -5,8 +5,7 @@ Creme Brulee
 | Prep Time: 15 minutes | Cook Time: 1 hour | Total Time: 5 1/2 hours | Temp: 183F  |
 +-----------------------+-------------------+-------------------------+-------------+
 
-Source: `Avona
-Culinary <https://recipes.anovaculinary.com/recipe/sous-vide-ultimate-creme-brulee-with-variations>`__
+Source: `Anova Culinary <https://recipes.anovaculinary.com/recipe/sous-vide-ultimate-creme-brulee-with-variations>`__
 
 Equipment
 ---------
@@ -15,15 +14,14 @@ Sous-Vide (immersion circulator)
 Ingredients
 -----------
 
--  2 cups heavy whipping cream
--  4 large egg yolks
--  1/4 cups granulated sugar
--  1/4 tsp salt
--  seeds from one vanilla bean (you can substitute 1 tsp pure vanilla
-   extract or 1/2 teaspoon ground vanilla)
--  Topping/Garnish: berries, chocolate chips, crystallized ginger, mint
-   leaves
-
+- 2 cups heavy whipping cream
+- 4 large egg yolks
+- 1/4 cups granulated sugar
+- 1/4 teaspoon salt
+- seeds from one vanilla bean (you can substitute 1 teaspoon pure vanilla
+  extract or 1/2 teaspoon ground vanilla)
+- Topping/Garnish: berries, chocolate chips, crystallized ginger, mint
+  leaves
 
 Directions
 ----------
@@ -55,35 +53,34 @@ Directions
    remove the lid. If the surface is not smooth, this can be remedied by
    grazing the surface with the back of a heated spoon (as in dipped in
    hot water).
-9. Sprinkle 1/2 tsp - 1 tsp sugar on the top of each custard. Caramelize
+9. Sprinkle 1/2 teaspoon - 1 teaspoon sugar on the top of each custard. Caramelize
    with a blow torch or underneath a preheated broiler.
 
-Flavour Variations:
--------------------
+Variations
+----------
 
--  1 tbsp Ameretto
--  2 tsp Kahlua
--  1 tbsp citrus zest of your choosing: lemon, lime, orange, etc.
--  1 tbsp fresh ginger
--  1/4 tsp flavor extract such as almond, peppermint, anise, orange, etc
--  sprig of herb such as: fresh basil, thyme, rosemary, mint, tarragon
--  pinch spices: saffron, pumpkin pie spice, nutmeg, ground ginger
--  1 tsp Florals: rose water or orange blossom water
--  1 earl Grey tea bag
--  fresh or dried bay leaves
--  teaspoon dried lavender
--  *the potential list goes on*
+- 1 tablespoon Ameretto
+- 2 teaspoons Kahlua
+- 1 tablespoon citrus zest of your choosing: lemon, lime, orange, etc.
+- 1 tablespoon fresh ginger
+- 1/4 teaspoon flavour extract such as almond, peppermint, anise, orange, etc
+- sprig of herb such as: fresh basil, thyme, rosemary, mint, tarragon
+- pinch spices: saffron, pumpkin pie spice, nutmeg, ground ginger
+- 1 teaspoon Florals: rose water or orange blossom water
+- 1 earl Grey tea bag
+- fresh or dried bay leaves
+- teaspoon dried lavender
+- *the potential list goes on*
 
+Notes
+-----
 
-Notes:
-------
+- This is a perfect temp that allows you to cook with `Glazed
+  Carrots <#glazed-carrots>`__.
 
--  This is a perfect temp that allows you to cook with `Glazed
-   Carrots <#glazed-carrots>`__.
+- If in a hurry you can cook this at 195F (90.5C) for 45 minutes.
 
--  If in a hurry you can cook this at 195F (90.5C) for 45 minutes.
-
--  Instead of putting in mason jars, put mixture into a ziplock bag and
-   cook in 183F water bath for 60 minutes agitating the bag halfway
-   through. Once cooked cut corner of bag a pour into four 4 oz ramekins
-   and place in refrigerator.
+- Instead of putting in mason jars, put mixture into a ziplock bag and
+  cook in 183F water bath for 60 minutes agitating the bag halfway
+  through. Once cooked cut corner of bag a pour into four 4 ounce ramekins
+  and place in refrigerator.

@@ -8,13 +8,13 @@ Scallion Pancakes
 Ingredients
 -----------
 
--  1 1/2 cups (7 1/2 ounces) plus 1 tablespoon all-purpose flour
--  1/4 cup boiling water
--  7 tablespoons vegetable oil
--  1 tablespoon toasted sesame oil
--  1 teaspoon kosher salt
--  4 medium scallions, sliced thin
--  `Dipping Sauce <#asian-dipping-sauce>`__
+- 1 1/2 cups (7 1/2 ounces) plus 1 tablespoon all-purpose flour
+- 1/4 cup boiling water
+- 7 tablespoons vegetable oil
+- 1 tablespoon toasted sesame oil
+- 1 teaspoon kosher salt
+- 4 medium scallions, sliced thin
+- `Dipping Sauce <#asian-dipping-sauce>`__
 
 Directions
 ----------

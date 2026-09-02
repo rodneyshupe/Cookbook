@@ -1,9 +1,9 @@
 Chickpea Curry
 ==============
 
-+------------------------+-----------------+
-| Total Time: 30 minutes | Yield: Serves 4 |
-+------------------------+-----------------+
++------------------------+-------------------+
+| Total Time: 30 minutes | Yield: 4 servings |
++------------------------+-------------------+
 
 Source: `Cook's Country <https://www.cookscountry.com/recipes/11291-chickpea-curry>`__
 
@@ -17,9 +17,9 @@ Ingredients
 - 4 garlic clove, minced
 - 1 tablespoon grated fresh ginger
 - 1 tablespoon curry powder
-- 2 (15 ounce) can chickpeas, rinsed
-- 1 (14.5-ounce) can diced tomatoes
-- 1 (14-ounce) can coconut milk
+- 2 (15 ounce / 425 ml) can chickpeas, rinsed
+- 1 (13.5 fluid ounces / 400 ml) can diced tomatoes
+- 1 (13.5 fluid ounces / 400 ml) can coconut milk
 - Fresh chopped cilantro
 
 Directions
@@ -33,4 +33,3 @@ Directions
    boil. Cover, reduce heat to medium-low, and simmer until bell peppers
    are tender and flavours have melded, about 20 minutes, stirring
    occasionally. Serve with rice and chopped fresh cilantro.
-

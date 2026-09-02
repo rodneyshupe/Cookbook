@@ -14,7 +14,7 @@ Ingredients
 - sea salt
 - fresh cracked pepper
 - 1 tablespoon extra virgin olive oil
-- 7 oz goats cheese
+- 7 ounces goats cheese
 - 1/2 lemon, juiced
 
 Red pepper Coulis/ or drizzled 20 year old Balsamic Vinegar

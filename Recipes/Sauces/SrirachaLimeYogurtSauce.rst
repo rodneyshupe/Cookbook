@@ -5,7 +5,7 @@ Sriracha-Lime Yogurt Sauce
 | Prep Time: 5 minutes | Yield: 2/3 cup |
 +----------------------+----------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/9720-sriracha-lime-yogurt-sauce>`__
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/9720-sriracha-lime-yogurt-sauce>`__
 
 Ingredients
 -----------

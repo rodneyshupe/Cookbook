@@ -2,26 +2,26 @@ Chinese-Style Barbecued Spareribs
 =================================
 
 +----------------+----------------+-------------------------+
-| Prep Time: 10  | Cooking Time:  | Yield: 6-8 as Appetizer |
+| Prep Time: 10  | Cook Time:     | Yield: 6-8 as Appetizer |
 | minutes        | 2 hours        | 4-6 as main course      |
 +----------------+----------------+-------------------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/10314-chinese-style-barbecued-spareribs#>`__
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/10314-chinese-style-barbecued-spareribs#>`__
 
 Ingredients
 -----------
 
--  1 (6-inch) piece fresh ginger, peeled and sliced thin
--  8 garlic cloves, peeled
--  1 cup honey
--  3/4 cup hoisin sauce
--  3/4 cup soy sauce
--  1/2 cup Chinese rice wine or dry sherry
--  2 teaspoons five-spice powder
--  1 teaspoon red food coloring (optional)
--  1 teaspoon ground white pepper
--  2 racks St. Louis-style spareribs, 2 1/2 to 3 pound (1.1 to 1.4 kg), cut into individual ribs
--  2 tablespoons toasted sesame oil
+- 1 (6-inch) piece fresh ginger, peeled and sliced thin
+- 8 garlic cloves, peeled
+- 1 cup honey
+- 3/4 cup hoisin sauce
+- 3/4 cup soy sauce
+- 1/2 cup Chinese rice wine or dry sherry
+- 2 teaspoons five-spice powder
+- 1 teaspoon red food colouring (optional)
+- 1 teaspoon ground white pepper
+- 2 racks St. Louis-style spareribs, 2 1/2 to 3 pounds (1.1 to 1.4 kg), cut into individual ribs
+- 2 tablespoons toasted sesame oil
 
 Directions
 ----------
@@ -47,8 +47,8 @@ Directions
    cup water into sheet. Transfer half of ribs to pot with braising
    liquid and toss to coat. Arrange ribs, bone sides up, on prepared
    rack, letting excess glaze drip off. Roast until edges of ribs start
-   to caramelize, 5 to 7 minutes. Flip ribs and continue to roast until
-   second side starts to caramelize, 5 to 7 minutes longer. Transfer
+   to caramelise, 5 to 7 minutes. Flip ribs and continue to roast until
+   second side starts to caramelise, 5 to 7 minutes longer. Transfer
    ribs to serving platter; repeat process with remaining ribs. Serve.
 
 Make Ahead
@@ -69,4 +69,3 @@ to the baking sheet during roasting helps prevent smoking. Serve the
 ribs alone as an appetizer or with vegetables and rice as a main course.
 You can serve the first batch immediately or tent them with foil to keep
 them warm.
-

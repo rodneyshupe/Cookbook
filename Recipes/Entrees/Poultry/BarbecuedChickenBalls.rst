@@ -2,7 +2,7 @@ Barbecued Chicken Balls
 =======================
 
 This is a great chicken recipes and creates the most tender and
-flavorful pieces of chicken.
+flavourful pieces of chicken.
 
 +----------------------+-----------------------+-------------------+
 | Prep Time: 5 minutes | Cook Time: 20 minutes | Yield: 2 servings |
@@ -16,10 +16,10 @@ Disposable muffin tin
 Ingredients
 -----------
 
--  6 chicken thighs
--  1/4 cup `Basic Barbecue Rub <#basic-barbecue-rub>`__
--  6 tablespoons unsalted butter
--  1/2 cup `Kansas City Style Sweet and Smoky Barbecue Sauce <#kansas-city-style-sweet-and-smoky-barbecue-sauce>`__
+- 6 chicken thighs
+- 1/4 cup `Basic Barbecue Rub <#basic-barbecue-rub>`__
+- 6 tablespoons unsalted butter
+- 1/2 cup `Kansas City Style Sweet and Smoky Barbecue Sauce <#kansas-city-style-sweet-and-smoky-barbecue-sauce>`__
 
 Directions
 ----------
@@ -36,6 +36,4 @@ Directions
    side. Toss with 1 cup sauce and season with salt and pepper. Serve,
    passing remaining sauce separately.
 5. Move back to indirect heat and baste with barbecue sauce. Cook till
-   sauce begins to caramelize, (approximately 2 minutes per side)
-
-
+   sauce begins to caramelise, (approximately 2 minutes per side)

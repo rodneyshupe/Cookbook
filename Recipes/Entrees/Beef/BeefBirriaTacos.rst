@@ -13,16 +13,16 @@ Ingredients
 - 4 dried guajillo chiles
 - 2 dried pasilla chiles
 - 2 cups boiling beef broth
-- 3 pounds boneless short rib
+- 3 pounds (1.35 kg) boneless short rib
 - 1 yellow onion
-- 6 cloves garlic, minced 
+- 6 cloves garlic, minced
 - 3 tablespoons apple cider vinegar
 - 1 tablespoon oregano
 - 1 teaspoon cumin
 - 2 teaspoons coriander
 - 2 chipotle chiles in adobo sauce
-- Kosher & pepper 
-- 15 oz. can diced fire roasted tomatoes
+- Kosher & pepper
+- 13.5 fluid ounces (400 ml) can diced fire roasted tomatoes
 - Corn tortillas
 - Monterey Jack cheese, shredded
 - Diced white onion

@@ -5,12 +5,11 @@ Simple Turkey Stock
 | Cook Time: 2 1/2 hours | Yield: 8 cups |
 +------------------------+---------------+
 
-
 Ingredients
 -----------
 
--  1 carcass from 12- to 14-pound turkey
--  10 cups water
+- 1 carcass from 12- to 14-pound turkey
+- 10 cups water
 
 Directions
 ----------
@@ -40,10 +39,10 @@ months.
 
 * **Ice Cube Tray:** After the cubes have frozen, transfer them to a
   zipper-lock bag. Use the 2-tablespoon portions for pan sauces or
-  stir-fry sauces. 
+  stir-fry sauces.
 * **Muffin Tin:** Once frozen, transfer the 1-cup portions to a
   zipper-lock bag. Use them for rice, risotto, grains, couscous, or
-  casseroles or as a braising liquid. 
+  casseroles or as a braising liquid.
 * **Zipper-Lock Bag:** Line a 4-cup measuring cup with a zipper-lock bag;
   pour in the cooled stock. Lay the bag flat to freeze. Use for soups, stews,
   or gravy.

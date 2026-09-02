@@ -10,6 +10,7 @@ Ingredients
 
 Chicken and Gravy
 ^^^^^^^^^^^^^^^^^
+
 - 5 chicken thighs
 - Salt & Pepper
 - 1 teaspoon smoked paprika
@@ -25,6 +26,7 @@ Chicken and Gravy
 
 Pot Pie
 ^^^^^^^
+
 - 3-4 rashers thick cut bacon, diced
 - 1 leek, light part only, cleaned and chopped (can substitute 1 small yellow onion diced)
 - 2 carrots, peeled and chopped
@@ -36,8 +38,8 @@ Pot Pie
 Directions
 ----------
 
-1. CHICKEN: Season chicken thighs on each side with salt, pepper, 
-   1/2 teaspoon smoked paprika, and 1/2 teaspoon garlic powder. Heat a 
+1. CHICKEN: Season chicken thighs on each side with salt, pepper,
+   1/2 teaspoon smoked paprika, and 1/2 teaspoon garlic powder. Heat a
    large frying pan over medium high heat and add 1 tablespoon oil then
    chicken.  Cook until almost done flipping halfway. (NOTE: does not need
    to be completely cooked as this will bake in the oven.)  Once cooked
@@ -46,7 +48,7 @@ Directions
    30 seconds. Add vermouth and reduce by 1/2. Add 1 cup chicken broth.  In
    a separate bowl combine remaining 1/4 cup chicken broth and cornstarch.
    Stir in half the slurry into the gravy add more until desired thickness.
-3. POT PIE: Preheat oven to 425. Heat a pan over medium heat and cook bacon 
+3. POT PIE: Preheat oven to 425. Heat a pan over medium heat and cook bacon
    until just getting crispy. Remove from pan and drain on paper towels.
    Keep 1 tablespoon of the bacon grease in pan and add the leek, carrots
    and mushrooms. Cook, stirring, until vegetables are softened.

@@ -2,21 +2,21 @@ Red Beans and Rice
 ==================
 
 +-----------------------+--------------------+-------------------+
-| Prep Time: 15 minutes | Cook Time: 1 hours | Yield: 6 servings |
+| Prep Time: 15 minutes | Cook Time: 1 hour  | Yield: 6 servings |
 +-----------------------+--------------------+-------------------+
 
 Ingredients
 -----------
 
 - 1 tablespoon vegetable oil
-- 1 (12.8-ounce) package smoked andouille sausage, thinly sliced
+- 1 (12.8-ounce / 363 g) package smoked andouille sausage, thinly sliced
 - 1 medium sweet onion, diced
 - 1 green bell pepper, diced
 - 2 celery ribs, diced
 - 2 tablespoons tomato paste
 - 3 cloves garlic, minced
 - 1 1/2 teaspoons Cajun seasoning, salt-free
-- 3 (15-ounce) cans red beans, drained and rinsed
+- 3 (15-ounce / 425 ml) cans red beans, drained and rinsed
 - 3 cups chicken stock
 - 1 teaspoon hot sauce
 - 1 bay leaf
@@ -49,4 +49,3 @@ Notes
   off.
 * If substituting andouille with kabasa use about 1 teaspoon liquid smoke
   when adding broth.
-

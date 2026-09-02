@@ -5,15 +5,15 @@ Baked Brie Cups
 | Prep Time: 20 minutes | Cook Time: 15 minutes | Yield: 30 pieces |
 +-----------------------+-----------------------+------------------+
 
-Source: `Cooks Country <https://www.cookscountry.com/recipes/2363-baked-brie-cups>`__
+Source: `Cook's Country <https://www.cookscountry.com/recipes/2363-baked-brie-cups>`__
 
 Ingredients
 -----------
 
--  1/3 cup red currant jelly
--  2 (2.1-ounce) boxes frozen mini phyllo cups
--  1 (8-ounce) wheel firm Brie, rind trimmed, cheese cut into 1/2-inch cubes
--  1/4 cup coarsely chopped smokehouse almonds
+- 1/3 cup red currant jelly
+- 2 (2.1-ounce / 62 ml) boxes frozen mini phyllo cups
+- 1 (8-ounce / 236 ml) wheel firm Brie, rind trimmed, cheese cut into 1/2-inch cubes
+- 1/4 cup coarsely chopped smokehouse almonds
 
 Directions
 ----------

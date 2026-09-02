@@ -25,7 +25,7 @@ Sauce
 To Serve
 ^^^^^^^^
 
-- 1 lb pasta
+- 1 pound pasta
 - Pecorino Romano To Taste
 - Salt to taste
 - 1 Tablespoon of Cold Butter
@@ -51,7 +51,7 @@ Sauce
 Serving
 ^^^^^^^
 
-1. Get a pot of salted water up to a boil add 1 lb pasta (tube based basta
+1. Get a pot of salted water up to a boil add 1 pound pasta (tube based basta
    works best here such as Cavatappi, Penne or Rigatoni) to the water and
    start to cook the pasta.
 2. Add the sauce back to the pan and get it on a lower heat until the pasta

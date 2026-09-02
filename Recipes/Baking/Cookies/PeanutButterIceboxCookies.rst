@@ -21,12 +21,16 @@ Ingredients
 Directions
 ----------
 
-1. Combine first flour, baking soda and salt in a bowl; stir well, and set aside.
-2. Combine margarine and peanut butter in a large bowl; beat at medium speed of a mixer until light and fluffy.
+1. Combine first flour, baking soda and salt in a bowl; stir well, and set
+   aside.
+2. Combine margarine and peanut butter in a large bowl; beat at medium speed
+   of a mixer until light and fluffy.
 3. Gradually add sugars, beating at medium speed until well blended.
-4. Add vanilla and egg white; beat well. stir in flour mixture.
-5. Turn dough out onto wax paper; shape into a 6" log. wrap log in wax paper; freeze 3 hours.
+4. Add vanilla and egg white; beat well. Stir in flour mixture.
+5. Turn dough out onto wax paper; shape into a 6" log. Wrap log in wax paper;
+   freeze 3 hours.
 6. Preheat oven to 350F.
-7. Cut log into 24 (1/4" thick) slices. place slices 1" apart on a baking sheet coated with cooking spray. Bake at 350F for 8 minutes.
+7. Cut log into 24 (1/4" thick) slices. Place slices 1" apart on a baking
+   sheet coated with cooking spray. Bake at 350F for 8 minutes.
 8. Remove cookies from pan, and let cool on wire rack.
 

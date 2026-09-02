@@ -19,8 +19,9 @@ Ingredients
 - 2 cloves garlic, chopped
 
 Directions
------------
-1. Preheat oven to 250 degrees.
+----------
+
+1. Preheat oven to 250F.
 2. Place each slab of baby back ribs on a piece of heavy-duty aluminum foil,
    shiny side down. Sprinkle each side generously with the dry rub. Pat the
    dry rub into the meat. Refrigerate the ribs for a minimum of 1 hour but
@@ -34,6 +35,5 @@ Directions
 5. Transfer the braising liquid into a medium saucepot. Bring the liquid to
    a simmer and reduce by half or until of a thick syrup consistency. Brush
    the glaze onto the ribs. Place under the broiler just until the glaze
-   caramelizes lightly. Slice each slab into 2 rib bone portions. Place the
+   caramelises lightly. Slice each slab into 2 rib bone portions. Place the
    remaining hot glaze into a bowl and toss the rib portions in the glaze.
-

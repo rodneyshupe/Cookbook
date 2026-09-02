@@ -7,18 +7,20 @@ Jackson Potatoes
 
 Ingredients
 -----------
+
 - 2 russet potatoes, washed, scrubbed
 - 2 tablespoon onion, diced
 - 1-2 tablespoon sour cream
 - 1 tablespoon butter
 - sea salt
 - fresh cracked pepper
-- 2 oz bacon, diced
+- 2 ounces bacon, diced
 - 1 tablespoon flat leaf parsley, chopped
 - 1 egg yolk
 
 Directions
 ----------
+
 1. Preheat oven to 400F. Place potatoes onto a baking sheet and into
    the oven. Cook until fork tender.  Remove from the oven and let cool
    slightly (5 minutes)

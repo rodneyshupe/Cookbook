@@ -24,4 +24,3 @@ Directions
    ssam sauce and cook for an additional 20 minutes or until internal temp
    is 145F.
 4. Slice and serve.
-

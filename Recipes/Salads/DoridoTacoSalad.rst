@@ -8,12 +8,12 @@ Dorido Taco Salad
 Ingredients
 -----------
 
-- 1 lb 95% lean ground beef
-- 1 (1.25 oz) packet reduced sodium taco seasoning
+- 1 pound (450 g) 95% lean ground beef
+- 1 (1.25 ounce / 37 ml) packet reduced sodium taco seasoning
 - 1 medium-large head of iceberg lettuce, chopped into bite sized pieces
 - 1 medium-large tomato, diced
-- 4 oz sharp cheddar cheese, shredded
-- 4 oz nacho cheese Doritos, broken up a bit into bite sized pieces
+- 4 ounces sharp cheddar cheese, shredded
+- 4 ounces nacho cheese Doritos, broken up a bit into bite sized pieces
 - 1 cup thousand island dressing
 
 Directions

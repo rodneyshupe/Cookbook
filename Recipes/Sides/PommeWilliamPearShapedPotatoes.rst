@@ -8,7 +8,7 @@ Pomme William/ Pear Shaped Potatoes
 Ingredients
 -----------
 
-- 1 lb potatoes, peeled
+- 1 pound potatoes, peeled
 - sea salt
 - fresh cracked pepper
 - 1 pinch ground nutmeg

@@ -8,7 +8,7 @@ Pepper Steak
 Ingredients
 -----------
 
-- 2 lbs top sirloin steak cut into 1/4 inch thick slices 2 inches long
+- 2 pounds (900 g) top sirloin steak cut into 1/4 inch thick slices 2 inches long
 - 3 tablespoons vegetable oil, divided
 - 2 tablespoons honey
 - 3 1/2 tablespoons cornstarch, divided

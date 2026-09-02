@@ -43,7 +43,7 @@ Directions
 4. Remove from fridge at least 30 minutes before cooking
 5. Grill on a very hot grill, turning often and brushing with reserved
    marinade once chicken is grilled on both sides - cook until chicken hits
-   165 degrees
+   165F
 6. Remove, brush again and use
 
 Notes

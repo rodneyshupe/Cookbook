@@ -11,7 +11,7 @@ Ingredients
 Marinade
 ^^^^^^^^
 
-- 1 lb (450 g) boneless skinless chicken breast (or thigh)
+- 1 pound (450 g) boneless skinless chicken breast (or thigh)
 - 1 tablespoon Shaoxing wine (or dry sherry)
 - 1/2 teaspoon salt
 - 1 teaspoon cornstarch
@@ -53,7 +53,7 @@ Directions
    or until the bottom side is browned. Flip to cook the other side for a
    few seconds. Stir and cook until the surface is lightly charred and the
    inside is still pink.
-5. Add the garlic and ginger. Stir a few times to release the flavor and
+5. Add the garlic and ginger. Stir a few times to release the flavour and
    fragrance.
 6. Return the broccoli to the pan. Stir the sauce again to dissolve the
    cornstarch completely and pour it into the skillet. Cook and stir until

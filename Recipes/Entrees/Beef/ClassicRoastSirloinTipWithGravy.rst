@@ -24,6 +24,7 @@ Ingredients
 
 Directions
 ----------
+
 1. Rub beef all over with oil, garlic, thyme, salt and half of the pepper.
    Place on greased rack in roasting pan. Roast in 450F oven until beginning
    to brown, about 19 minutes. Reduce heat to 275F and roast, basting
@@ -37,4 +38,3 @@ Directions
    occasionally, until thickened, about 5 minutes. Strain through fine-mesh
    sieve; stir in parsley, mustard and any accumulated juices from cutting
    board. Serve with beef.
-

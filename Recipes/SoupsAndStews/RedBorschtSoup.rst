@@ -8,16 +8,16 @@ Red Borscht Soup
 Ingredients
 -----------
 
-- 1 lb package ground pork
+- 1 pound (450 g) package ground pork
 - 3 medium beets, peeled and shredded
 - 3 carrots, peeled and shredded
 - 3 medium baking potatoes, peeled and cubed
 - 1 tablespoon vegetable oil
 - 1 medium onion, chopped
-- 1 (6 ounce) can tomato paste
+- 1 (6 ounces / approximately 156 ml) can tomato paste
 - 3/4 cup water
 - 1/2 medium head cabbage, cored and shredded
-- 1 (8 ounce) can diced tomatoes, drained
+- 1 (8 ounce / 236 ml) can diced tomatoes, drained
 - 3 cloves garlic, minced
 - salt and pepper to taste
 - 1 teaspoon white sugar, or to taste
@@ -29,7 +29,7 @@ Directions
 
 1. Crumble the sausage (if using) into a skillet over medium-high heat.
    Cook and stir until no longer pink. Remove from the heat and set aside.
-2. Fill a large pot halfway with water(about 2 quarts), and bring to a
+2. Fill a large pot halfway with water (about 2 quarts), and bring to a
    boil. Add the sausage, and cover the pot. Return to a boil. Add the
    beets carrots and potatoes, and cook until tender, about 15 minutes.
 3. Add the cabbage, and the can of diced tomatoes.

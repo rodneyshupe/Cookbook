@@ -8,24 +8,24 @@ Chicken Stew
 Ingredients
 -----------
 
--  2 pounds boneless, skinless chicken thighs, halved crosswise and
-   trimmed
--  Kosher salt and pepper
--  3 slices bacon, chopped
--  1 pound chicken wings, halved at joint
--  1 onion, chopped fine
--  1 celery rib, minced
--  2 garlic cloves, minced
--  2 teaspoons anchovy paste
--  1 teaspoon minced fresh thyme
--  5 cups chicken broth
--  1 cup dry white wine, plus extra for seasoning
--  1 tablespoon soy sauce
--  3 tablespoons unsalted butter, cut into 3 pieces
--  1/3 cup all-purpose flour
--  1 pound small red potatoes, unpeeled, quartered
--  4 carrots, peeled and cut into 1/2-inch pieces
--  2 tablespoons chopped fresh flat leaf parsley
+- 2 pounds (900 g) boneless, skinless chicken thighs, halved crosswise and
+  trimmed
+- Kosher salt and pepper
+- 3 slices bacon, chopped
+- 1 pound (450 g) chicken wings, halved at joint
+- 1 onion, chopped fine
+- 1 celery rib, minced
+- 2 garlic cloves, minced
+- 2 teaspoons anchovy paste
+- 1 teaspoon minced fresh thyme
+- 5 cups chicken broth
+- 1 cup dry white wine, plus extra for seasoning
+- 1 tablespoon soy sauce
+- 3 tablespoons unsalted butter, cut into 3 pieces
+- 1/3 cup all-purpose flour
+- 1 pound small red potatoes, unpeeled, quartered
+- 4 carrots, peeled and cut into 1/2-inch pieces
+- 2 tablespoons chopped fresh flat leaf parsley
 
 Directions
 ----------

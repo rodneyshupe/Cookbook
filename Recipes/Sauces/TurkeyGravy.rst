@@ -8,16 +8,16 @@ Turkey Gravy
 Ingredients
 -----------
 
--  1 tablespoon vegetable oil
--  Reserved turkey giblets and neck
--  1 onion, unpeeled and chopped
--  4 cups low-sodium chicken broth
--  2 cups water
--  2 sprigs fresh thyme
--  8 parsley stems
--  3 tablespoons unsalted butter
--  1/4 cup all-purpose flour
--  1 cup dry white wine
+- 1 tablespoon vegetable oil
+- Reserved turkey giblets and neck
+- 1 onion, unpeeled and chopped
+- 4 cups low-sodium chicken broth
+- 2 cups water
+- 2 sprigs fresh thyme
+- 8 parsley stems
+- 3 tablespoons unsalted butter
+- 1/4 cup all-purpose flour
+- 1 cup dry white wine
 
 Directions
 ----------

@@ -1,19 +1,19 @@
 Self-Buttering Corn on the Cob
 ==============================
 
-+----------------------+-----------------------+------------------------+---------------+
-| Prep Time: 5 minutes | Cook Time: 30 minutes | Total Time: 35 minutes | Temp: 181.4F  |
-+----------------------+-----------------------+------------------------+---------------+
++----------------------+-----------------------+------------------------+-------------------+
+| Prep Time: 5 minutes | Cook Time: 30 minutes | Total Time: 35 minutes | Yield: 2 servings |
++----------------------+-----------------------+------------------------+-------------------+
 
 Equipment
 ---------
-Sous-Vide (immersion circulator), Vacuum Sealer
+Sous-Vide (immersion circulator) set to 181.4F, Vacuum Sealer
 
 Ingredients
 -----------
 
--  2 ears of corn, shucked
--  2 to 4 tablespoons cold butter, depending on your preference.
+- 2 ears of corn, shucked
+- 2 to 4 tablespoons cold butter, depending on your preference.
 
 
 Directions
@@ -24,4 +24,4 @@ Directions
    bag and vacuum seal.
 3. When the pot of water has reached optimum temperature, add the bag of
    corn, and allow to cook for 30 minutes.
-4. Remove from bag an serve.
+4. Remove from bag and serve.

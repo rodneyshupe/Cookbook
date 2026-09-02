@@ -21,8 +21,8 @@ Lentils
 - 1 onion, diced small
 - 2 shallots, diced small
 - 4 cloves garlic, minced
-- 1 400ml can plum tomatoes 
-- 2 1/2 cups water 
+- 1 400ml can plum tomatoes
+- 2 1/2 cups water
 - 1/2-3/4 cups tortilla chips, crushed
 
 Tacos

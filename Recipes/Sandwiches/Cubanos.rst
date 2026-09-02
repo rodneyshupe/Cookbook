@@ -1,14 +1,15 @@
 Cubanos (Cuban Sandwiches)
 ==========================
 
-Source: `Cook's Country <https://www.cookscountry.com/recipes/2924-cuban-sandwiches>`__
-
 +-----------------------+-----------------------+---------------------+
 | Prep Time: 15 minutes | Cook Time: 10 minutes | Yield: 4 sandwiches |
 +-----------------------+-----------------------+---------------------+
 
+Source: `Cook's Country <https://www.cookscountry.com/recipes/2924-cuban-sandwiches>`__
+
 Ingredients
 -----------
+
 - 1/3 cup diced dill pickles
 - 1/3 cup diced jarred banana peppers
 - 4 potato sandwich rolls (Kaiser rolls can be substituted)
@@ -21,6 +22,7 @@ Ingredients
 
 Directions
 ----------
+
 1. Combine pickles and peppers in small bowl. Split rolls in half; spread top
    half with mayonnaise and bottom half with mustard. Layer ham, roast pork,
    pickle mixture, and cheese onto bottom half, finishing with cheese on top.
@@ -34,4 +36,3 @@ Directions
    5 minutes. Remove pot, flip sandwiches over, replace pot on top of
    sandwiches, and cook until golden brown, 3 to 4 minutes.
    Serve immediately.
-

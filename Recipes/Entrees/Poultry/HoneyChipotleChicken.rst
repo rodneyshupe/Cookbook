@@ -28,7 +28,7 @@ Directions
 3. Reduce heat to medium and place chicken in skillet. Do not overcrowd the
    skillet. Work in batches if necessary. Cook chicken over medium heat for
    about 5 - 6 minutes on each side.
-4. While chicken is cooking, mix the lime juice, honey, and the other 
+4. While chicken is cooking, mix the lime juice, honey, and the other
    tablespoon of chipotle powder seasoning.
 5. After chicken is done, place it on a plate and brush with the honey
    chipotle mixture. You can serve it with your favorite side of vegetables,

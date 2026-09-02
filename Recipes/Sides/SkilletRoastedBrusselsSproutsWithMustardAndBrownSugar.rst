@@ -8,13 +8,13 @@ Skillet-Roasted Brussels Sprouts with Mustard and Brown Sugar
 Ingredients
 -----------
 
--  1 pound small (1 to 1 1/2 inches in diameter) Brussels sprouts, trimmed and halved
--  5 tablespoons extra-virgin olive oil
--  1 tablespoon Dijon mustard
--  1 tablespoon packed brown sugar
--  2 teaspoons white wine vinegar
--  1/8 teaspoon cayenne pepper
--  Salt
+- 1 pound small (1 to 1 1/2 inches in diameter) Brussels sprouts, trimmed and halved
+- 5 tablespoons extra-virgin olive oil
+- 1 tablespoon Dijon mustard
+- 1 tablespoon packed brown sugar
+- 2 teaspoons white wine vinegar
+- 1/8 teaspoon cayenne pepper
+- Salt
 
 Directions
 ----------
@@ -33,23 +33,22 @@ Directions
    sprouts. Season with salt to taste. Transfer sprouts to large plate
    and serve.
 
-
 Variations
 ----------
 
 **Skillet-Roasted Brussels Sprouts with Maple Syrup and Smoked Almonds**
-\* In step 2, replace mustard, sugar, vinegar, and cayenne, with 1 tbsp
-maple syrup and 1 tbsp sherry vinegar. \* In step 3 once plated,
+\* In step 2, replace mustard, sugar, vinegar, and cayenne, with 1 tablespoon
+maple syrup and 1 tablespoon sherry vinegar. \* In step 3 once plated,
 sprinkle with 1/4 cup smoked almonds (chopped fine).
 
 **Skillet-Roasted Brussels Sprouts with Pomegranate and Pistachios** \*
-In step 2, replace mustard, sugar, vinegar, and cayenne, with 1 tbsp
+In step 2, replace mustard, sugar, vinegar, and cayenne, with 1 tablespoon
 pomegranate molasses and 1/2 teaspoon ground cumin. \* In step 3 once
 plated, sprinkle with 1/4 cup shelled pistachios (toasted and chopped
 fine) and 2 tablespoons pomegranate seeds.
 
 **Skillet-Roasted Brussels Sprouts with Lemon and Pecorino Romano** \*
-In step 2, replace mustard, sugar, vinegar, and cayenne, with 1 tbsp
+In step 2, replace mustard, sugar, vinegar, and cayenne, with 1 tablespoon
 lemon juice. \* In step 3 once plated, sprinkle with 1/4 cup shredded
 Pecorino Romano cheese.
 

@@ -6,13 +6,13 @@ Baked Brie
 +-----------------------+-----------------------+---------------------+
 
 Ingredients
-------------
+-----------
 
--  1 small wheel brie
--  1 medium clove garlic , minced
--  1/4 teaspoon table salt
--  2-3 sun-dried tomatoes (in oil) , minced
--  2 tablespoons minced fresh cilantro leaves
+- 1 small wheel brie
+- 1 medium clove garlic , minced
+- 1/4 teaspoon table salt
+- 2-3 sun-dried tomatoes (in oil) , minced
+- 2 tablespoons minced fresh cilantro leaves
 
 Directions
 ----------

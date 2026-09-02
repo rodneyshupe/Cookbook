@@ -5,20 +5,19 @@ Basic Turkey Stock
 | Prep Time: 20 minutes | Cook Time: 2 1/2 hours | Yield: 8-10 cups |
 +-----------------------+------------------------+------------------+
 
-
 Ingredients
 -----------
 
--  1 turkey carcass from 12- to 14-pound turkey, cut into 4 or 5 rough
-   pieces to fit into pot
--  1 large onion, peeled and halved
--  1 large carrot, peeled and chopped coarse
--  3 medium cloves garlic, unpeeled and smashed
--  1 large rib celery, about 4 ounces, chopped coarse
--  2 cups dry white wine
--  1 bay leaf
--  5 sprigs fresh flat leaf parsley leaves
--  3 sprigs fresh thyme
+- 1 turkey carcass from 12- to 14-pound turkey, cut into 4 or 5 rough
+  pieces to fit into pot
+- 1 large onion, peeled and halved
+- 1 large carrot, peeled and chopped coarse
+- 3 medium cloves garlic, unpeeled and smashed
+- 1 large rib celery, about 4 ounces, chopped coarse
+- 2 cups dry white wine
+- 1 bay leaf
+- 5 sprigs fresh flat leaf parsley leaves
+- 3 sprigs fresh thyme
 
 Directions
 ----------
@@ -28,7 +27,7 @@ Directions
    heat, skimming fat or foam that rises to surface. Reduce heat to low
    and simmer, uncovered, 2 hours, continuing to skim surface as
    necessary. Add parsley and thyme; continue to simmer until stock is
-   rich and flavorful, about 2 hours longer, continuing to skim surface
+   rich and flavourful, about 2 hours longer, continuing to skim surface
    as necessary.
 2. Strain stock through large-mesh strainer into large bowl or
    container; remove meat from strained solids, shred into bite-sized

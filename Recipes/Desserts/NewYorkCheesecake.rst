@@ -35,7 +35,7 @@ Directions
 ----------
 
 1. FOR THE CRUST: Adjust oven racks to upper-middle and lower-middle
-   positions and heat oven to 325 degrees. Process cracker pieces and sugar
+   positions and heat oven to 325F. Process cracker pieces and sugar
    in food processor until finely ground, about 30 seconds. Add flour and
    salt and pulse to combine, 2 pulses. Add 6 tablespoons melted butter and
    pulse until crumbs are evenly moistened, about 10 pulses. Brush bottom
@@ -44,7 +44,7 @@ Directions
    measuring cup or ramekin, firmly pack crust into pan. Bake on
    lower-middle rack until fragrant and beginning to brown around edges,
    about 13 minutes. Transfer to rimmed baking sheet and set aside to cool
-   completely. Reduce oven temperature to 200 degrees.
+   completely. Reduce oven temperature to 200F.
 2. FOR THE FILLING: Using stand mixer fitted with paddle, beat cream cheese,
    3/4 cup sugar, and salt at medium-low speed until combined, about
    1 minute. Beat in remaining 3/4 cup sugar until combined, about 1 minute.
@@ -59,12 +59,12 @@ Directions
    butter. Pour filling into crust and set aside for 10 minutes to allow air
    bubbles to rise to top. Gently draw tines of fork across surface of cake
    to pop air bubbles that have risen to surface.
-4. When oven thermometer reads 200 degrees, bake cheesecake on lower rack
+4. When oven thermometer reads 200F, bake cheesecake on lower rack
    for 45 minutes. After 45 minutes, remove cake from oven and use toothpick
    to pierce any bubbles that have risen to surface. Return to oven and
-   continue to bake until center registers 165 degrees, 2 1/4 to 2 3/4 hours
-   longer. Remove cake from oven and increase oven temperature to 500 degrees.
-5. When oven is at 500 degrees, bake cheesecake on upper rack until top is
+   continue to bake until center registers 165F, 2 1/4 to 2 3/4 hours
+   longer. Remove cake from oven and increase oven temperature to 500F.
+5. When oven is at 500F, bake cheesecake on upper rack until top is
    evenly browned, 4 to 12 minutes, placing rimmed baking sheet on lower rack
    to catch any drips. Let cool for 5 minutes; run paring knife between
    cheesecake and side of springform pan. Let cheesecake cool until barely

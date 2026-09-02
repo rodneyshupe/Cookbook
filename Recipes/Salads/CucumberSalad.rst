@@ -31,6 +31,6 @@ Directions
 
 Notes
 -----
-- If serving immediately you can skip step 1.  
+- If serving immediately you can skip step 1.
 - This salad gets even better after a couple of days in the fridge.
   Leftovers can be saved for up to 5 days.

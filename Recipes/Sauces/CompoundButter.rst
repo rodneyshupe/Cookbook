@@ -55,7 +55,7 @@ Chipotle Butter
 
 - 1 clove garlic, minced
 - 1 chipotle peppers, finely minced
-- 1 tablespoons cilantro, minced
+- 1 tablespoon cilantro, minced
 - Juice from 1/2 lime
 - Kosher salt & fresh ground pepper
 - 2 teaspoons tequila (optional, and requires a bunch more mixing to incorporate)

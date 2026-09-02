@@ -10,7 +10,7 @@ Source: `Neli Howard <https://www.deliciousmeetshealthy.com/maple-mustard-glazed
 Ingredients
 -----------
 
-- 1 lb salmon, about 4 filets
+- 1 pound (450 g) salmon, about 4 filets
 - salt and freshly ground black pepper, to taste
 
 Mustard Maple Glaze
@@ -24,9 +24,9 @@ Mustard Maple Glaze
 Directions
 ----------
 
-1. Preheat oven to 400 F. Mix glaze ingredients in a small bowl.
+1. Preheat oven to 400F. Mix glaze ingredients in a small bowl.
 2. Season salmon fillets with salt and pepper on both sides. Brush salmon
    with glaze.
 3. Place salmon on a baking sheet lined with parchment paper, and bake at
-   400 F for about 10 -12 minutes, or until internal temperature reaches
-   145 F.
+   400F for about 10 -12 minutes, or until internal temperature reaches
+   145F.

@@ -26,7 +26,7 @@ Directions
 ----------
 
 1. Start by deboning you chicken thighs.
-2. Pat dry the chicken and then place them into a bowl with the soy sauce, 
+2. Pat dry the chicken and then place them into a bowl with the soy sauce,
    five spice, sugar, minced garlic and ginger. Give it a good mix and let
    it sit for at least 30 minutes. You can make some rice in the meantime.
 3. Spray the air fryer container with some oil and place the chicken thighs

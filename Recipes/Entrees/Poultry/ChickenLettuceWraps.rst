@@ -24,7 +24,7 @@ Wraps
 ^^^^^
 
 - 1 tablespoon toasted sesame oil
-- lb (450g) ground chicken
+- 1 lb (450g) ground chicken
 - 3 green onions, thinly sliced
 - 1 red bell pepper, finely diced
 - 1 garlic clove, minced

@@ -7,19 +7,20 @@ Faith's Simple Chili
 
 Equipment
 ---------
+
 Slow Cooker
 
 Ingredients
 -----------
 
-- 1 lb ground Beef
+- 1 pound (450 g) ground Beef
 - 1 medium onion, diced
-- 1 12oz can tomato soup
-- 1 14oz can stewed tomatoes
-- 1 19oz can kidney beans
-- 2 tbsp chili powder
-- 4oz mushrooms, sliced
-- 1 tsp chili flakes
+- 1 12-ounce (355 ml) can tomato soup
+- 1 14-ounce (414 ml) can stewed tomatoes
+- 1 19-ounce (562 ml) can kidney beans
+- 2 tablespoons chili powder
+- 4 ounces mushrooms, sliced
+- 1 teaspoon chili flakes
 - salt & pepper
 
 Directions

@@ -1,9 +1,9 @@
 Detroit-Style Pizza
 ===================
 
-+----------------------------------------------+-----------------+
-| Total Time: 1 1/2 hours, plus 2 hours rising | Yield: Serves 4 |
-+----------------------------------------------+-----------------+
++----------------------------------------------+-------------------+
+| Total Time: 1 1/2 hours, plus 2 hours rising | Yield: 4 servings |
++----------------------------------------------+-------------------+
 
 Ingredients
 -----------
@@ -35,8 +35,7 @@ Directions
    (If dough resists stretching, let it rest for another 10 minutes before
    trying again to stretch.) Cover with plastic and let dough rise at room
    temperature until nearly tripled in volume and large bubbles form, 2 to
-   3 hours. Adjust oven rack to lowest position and heat oven to 500
-   degrees.
+   3 hours. Adjust oven rack to lowest position and heat oven to 500F.
 4. Sprinkle Monterey Jack evenly over dough to edges of pan. Spoon three
    1-inch-wide strips of sauce, using 1/3 cup sauce for each, over cheese
    evenly down length of pan.
@@ -50,4 +49,3 @@ Notes
 
 To add more toppings, such as pepperoni or sausage, to your pizza, press
 them into the dough before adding the cheese.
-

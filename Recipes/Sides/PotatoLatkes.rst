@@ -8,12 +8,12 @@ Potato Latkes
 Ingredients
 -----------
 
--  2 pounds russet potatoes, unpeeled, scrubbed, and shredded
--  1/2 cup grated onion
--  Salt and pepper
--  2 large eggs, lightly beaten
--  2 teaspoons minced fresh parsley
--  Vegetable oil
+- 2 pounds russet potatoes, unpeeled, scrubbed, and shredded
+- 1/2 cup grated onion
+- Salt and pepper
+- 2 large eggs, lightly beaten
+- 2 teaspoons minced fresh parsley
+- Vegetable oil
 
 Directions
 ----------
@@ -53,7 +53,7 @@ Make Ahead
 Cooled latkes can be covered loosely with plastic wrap and held at room
 temperature for up to 4 hours. Alternatively, they can be frozen on
 baking sheet until firm, transferred to zipper-lock bag, and frozen for
-up to 1 month. Reheat latkes in 375-degree oven until crisp and hot, 3
+up to 1 month. Reheat latkes in 375F oven until crisp and hot, 3
 minutes per side for room-temperature latkes and 6 minutes per side for
 frozen latkes.
 

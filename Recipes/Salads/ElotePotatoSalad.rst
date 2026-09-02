@@ -10,7 +10,7 @@ Inspired by Mexican Street Corn.
 Ingredients
 -----------
 
-- 1/2 pound bacon, chopped
+- 1/2 pound (230 g) bacon, chopped
 - 2 pounds baby Yukon gold potatoes, halved or quartered
 - 3 ears of corn, husked & silk removed
 - 1/3 cup mayo

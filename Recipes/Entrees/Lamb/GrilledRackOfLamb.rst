@@ -8,15 +8,15 @@ Grilled Rack of Lamb
 Ingredients
 -----------
 
--  1 rack lamb separated into individual chops
--  4 cloves garlic, crushed
--  1 teaspoon salt
--  1/4 cup dijon mustard
--  2 tablespoons red wine vinegar
--  3 teaspoons fresh rosemary, chopped
--  2 tablespoons lemon juice
--  2 teaspoons sugar
--  1/3 cup olive oil
+- 1 rack lamb separated into individual chops
+- 4 cloves garlic, crushed
+- 1 teaspoon salt
+- 1/4 cup dijon mustard
+- 2 tablespoons red wine vinegar
+- 3 teaspoons fresh rosemary, chopped
+- 2 tablespoons lemon juice
+- 2 teaspoons sugar
+- 1/3 cup olive oil
 
 Directions
 ----------
@@ -34,4 +34,3 @@ Directions
    racks over and repeat. Let rest tented with foil for 5 minutes before
    carving into individual chops.
 4. Garnish with sprigs of fresh rosemary and serve.
-

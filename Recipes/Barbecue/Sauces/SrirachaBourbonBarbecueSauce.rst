@@ -11,7 +11,7 @@ Ingredients
 -----------
 
 - 2 cups ketchup
-- 1/2 cup mild-flavored (light) molasses
+- 1/2 cup mild-flavoured (light) molasses
 - 1/3 cup bourbon
 - 1/4 cup Dijon mustard
 - 2 - 4 tablespoons Sriracha sauce or the hot sauce of your choice
@@ -25,6 +25,6 @@ Directions
 
 1. Combine all ingredients in heavy large saucepan. Bring to boil over
    medium heat, stirring occasionally. Reduce heat to medium-low; simmer
-   uncovered until sauce thickens and flavors blend, stirring frequently,
+   uncovered until sauce thickens and flavours blend, stirring frequently,
    about 15 minutes. (Can be made 1 week ahead. Cover; chill.)
 

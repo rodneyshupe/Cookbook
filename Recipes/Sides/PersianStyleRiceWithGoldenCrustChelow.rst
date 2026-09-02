@@ -5,7 +5,7 @@ Persian-Style Rice with Golden Crust - Chelow
 | Prep Time: 20 minutes | Cook Time: 50 minutes | Total Time: 1 1/2 hours | Yield: 6 servings |
 +-----------------------+-----------------------+-------------------------+-------------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/8718-persian-style-rice-with-golden-crust-chelow>`__
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/8718-persian-style-rice-with-golden-crust-chelow>`__
 
 *Chelow* is a classic Iranian dish that marries an unusually light and
 fluffy rice pilaf with a golden-brown, crispy crust (which is known as
@@ -13,16 +13,18 @@ tahdig). It is, in essence, two dishes in one.
 
 Ingredients
 -----------
--  2 cups basmati rice
--  Salt
--  1 tablespoon plus 1/4 cup vegetable oil
--  1/4 cup plain Greek yogurt
--  1 1/2 teaspoons cumin seeds
--  2 tablespoons unsalted butter, cut into 8 cubes
--  1/4 cup minced fresh flat leaf parsley
+
+- 2 cups basmati rice
+- Salt
+- 1 tablespoon plus 1/4 cup vegetable oil
+- 1/4 cup plain Greek yogurt
+- 1 1/2 teaspoons cumin seeds
+- 2 tablespoons unsalted butter, cut into 8 cubes
+- 1/4 cup minced fresh flat leaf parsley
 
 Directions
 ----------
+
 1. Place rice in fine-mesh strainer and rinse under cold running water
    until water runs clear. Place rinsed rice and 1 tablespoon salt in
    medium bowl and cover with 4 cups hot tap water. Stir gently to

@@ -26,7 +26,7 @@ Salad
 Vinaigrette
 ^^^^^^^^^^^
 
-- 40 ml aged balsamic vinegar, (3 tbsp)
+- 40 ml aged balsamic vinegar, (3 tablespoons)
 - 5 tablespoons extra virgin olive oil
 
 Directions

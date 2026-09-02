@@ -5,18 +5,17 @@ Smoked Paprika and Rutabaga Bisque
 | Prep Time: 20 minutes | Cook Time: 60 minutes | Yield: 6-8 servings |
 +-----------------------+-----------------------+---------------------+
 
-
 Ingredients
 -----------
 
--  3 tablespoons unsalted butter
--  1 medium yellow onion, coarsely chopped
--  2 medium celery stalks, coarsely chopped
--  1 1/2 pounds rutabaga, peeled and coarsely chopped (about 4 1/4 cups)
--  4 cups (1 quart) low-sodium vegetable broth
--  2 cups half-and-half
--  2 1/2 teaspoons high-quality smoked paprika
--  1 teaspoon ground white pepper
+- 3 tablespoons unsalted butter
+- 1 medium yellow onion, coarsely chopped
+- 2 medium celery stalks, coarsely chopped
+- 1 1/2 pounds rutabaga, peeled and coarsely chopped (about 4 1/4 cups)
+- 4 cups (1 quart) low-sodium vegetable broth
+- 2 cups half-and-half
+- 2 1/2 teaspoons high-quality smoked paprika
+- 1 teaspoon ground white pepper
 
 Directions
 ----------

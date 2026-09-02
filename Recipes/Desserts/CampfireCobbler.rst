@@ -9,19 +9,21 @@ Source: `Delish <https://www.delish.com/cooking/recipe-ideas/recipes/a53626/camp
 
 Ingredients
 -----------
+
 - 6 peaches, chopped
-- 2 c. raspberries
-- 1 c. blueberries
-- 1 c. chopped strawberries
-- 1/4 c. plus 2 tbsp. sugar, divided
-- 2 tbsp. cornstarch
-- 2 tsp. ground cinnamon
+- 2 cups raspberries
+- 1 cup blueberries
+- 1 cup chopped strawberries
+- 1/4 cup plus 2 tablespoons sugar, divided
+- 2 tablespoons cornstarch
+- 2 teaspoons ground cinnamon
 - pinch of kosher salt
-- 2 1/3 c. Bisquick Mix
-- 1/2 c. milk
+- 2 1/3 cups Bisquick Mix
+- 1/2 cup milk
 
 Directions
 ----------
+
 1. In a large resealable plastic bag, combine fruit, 1/4 cup sugar,
    cornstarch, cinnamon, and salt. Seal tightly and shake bag until fruit
    is evenly coated.

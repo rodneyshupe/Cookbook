@@ -7,6 +7,7 @@ Chicken and White Bean Chili
 
 Equipment
 ---------
+
 Slow Cooker
 
 Ingredients
@@ -34,11 +35,11 @@ Directions
    hot, add chicken, season well with salt and pepper, and once browned all
    over, add onion, garlic, jalapeno, banana peppers, cumin, oregano and
    coriander and cook for three to four minutes or until onions and pepper
-   have softened. 
+   have softened.
 2. Transfer chicken mixture, beans, canned chillies, and chicken broth to a
-   six-quart slow cooker, cover it, and cook on low for four hours. 
+   six-quart slow cooker, cover it, and cook on low for four hours.
 3. Uncover and slightly mash some of the white beans using the back of a
    wooden spoon. Cover and cook on high for 30 minutes or until slightly
-   thickened. 
+   thickened.
 4. Serve topped with cilantro, diced avocado, sour cream, corn chips, thinly
    sliced radish and lime wedges. Enjoy!

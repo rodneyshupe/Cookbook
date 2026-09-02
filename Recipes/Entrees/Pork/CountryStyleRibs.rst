@@ -9,9 +9,10 @@ Source: `Fire Escape Griller <https://www.youtube.com/watch?v=dr9d94wDCG0>`__
 
 Ingredients
 -----------
+
 - Country Style Ribs
 - 1 bottle of BBQ Sauce (I use Bull's-Eye Original Bold) or 1 1/2 cup homemade `Barbecue Sauce <#kansas-city-style-sweet-and-smoky-barbecue-sauce>`__
-- 1/2 bottle favorite beer (you can use water or even pineapple juice)
+- 1/2 bottle favourite beer (you can use water or even pineapple juice)
 - 1/2 onion roughly chopped
 - 2 teaspoons liquid smoke (optional)
 
@@ -27,5 +28,3 @@ Directions
 3. Adjust heat to high and remove ribs from pan and place on grill.  Grill
    each side for 2 minutes.
 4. Serve with additional sauce from pan.
-
-

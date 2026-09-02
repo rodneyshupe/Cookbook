@@ -13,7 +13,7 @@ Ingredients
 Beef Marinade
 ^^^^^^^^^^^^^
 
-- 1 lb (450g) skirt steak, sliced into 1/4-inch pieces against the grain
+- 1 pound (450g) skirt steak, sliced into 1/4-inch pieces against the grain
 - 1 1/2 teaspoon light soy sauce or shoyu
 - 1 1/2 teaspoon sesame oil
 - 1 tablespoon Shaoxing wine
@@ -26,7 +26,7 @@ Sauce
 ^^^^^
 
 - 1 tablespoon dark soy sauce
-- 1 tablespoon light soy sauce 
+- 1 tablespoon light soy sauce
 - 2 tablespoons oyster sauce
 - 1 tablespoon sugar
 - 1 tablespoon cornstarch
@@ -35,7 +35,7 @@ Sauce
 Stir Fry
 ^^^^^^^^
 
-- 1 lb (450g) broccoli or broccolini, florets separated and stems sliced on a sharp bias into 1-inch pieces (peel stems if they are tough
+- 1 pound (450g) broccoli or broccolini, florets separated and stems sliced on a sharp bias into 1-inch pieces (peel stems if they are tough
 - 3 tablespoons peanut, or vegetable oil
 - 1 1/2 tablespoons minced fresh garlic (4-6 medium cloves)
 - 1 tablespoon minced fresh ginger (about 1/2-inch segment, minced)

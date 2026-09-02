@@ -12,11 +12,11 @@ Sous-Vide (immersion circulator)
 Ingredients
 -----------
 
--  1 brisket, 4-6 pounds
--  1/3 cup coarsely ground black pepper
--  1/4 cup kosher salt
--  1/4 oz instacure no. 1 (prague powder no. 1) (optional)
--  1/4 teaspoon liquid smoke (optional, if using oven to finish)
+- 1 brisket, 4-6 pounds (1.8 to 2.7 kg)
+- 1/3 cup coarsely ground black pepper
+- 1/4 cup kosher salt
+- 1/4 ounce instacure no. 1 (prague powder no. 1) (optional)
+- 1/4 teaspoon liquid smoke (optional, if using oven to finish)
 
 Directions
 ----------
@@ -31,16 +31,16 @@ Directions
 5. While brisket is in ice bath, pre-heat smoker or oven to 225F
 6. Remove brisket from bag, pat dry, and add additional rub as
    necessary.
-7. Place in smoker or oven for 3 hours until exterior has nice color.
+7. Place in smoker or oven for 3 hours until exterior has nice colour.
 8. Slice against the grain, and enjoy!
 
-Variation:
+Variations
 ----------
 
--  Substitute salt and pepper with the following rub mixture:
+- Substitute salt and pepper with the following rub mixture:
 
-   -  2 tbsps brown sugar
-   -  2 tbsps kosher salt
-   -  2 tbsps paprika (use smoked paprika, if using oven to finish)
-   -  2 tbsps chili powder
-   -  2 tbsps ground black pepper
+   - 2 tablespoons brown sugar
+   - 2 tablespoons kosher salt
+   - 2 tablespoons paprika (use smoked paprika, if using oven to finish)
+   - 2 tablespoons chili powder
+   - 2 tablespoons ground black pepper

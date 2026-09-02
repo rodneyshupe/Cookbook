@@ -8,16 +8,16 @@
 Source: `Delish (Lena Abraham) <https://www.delish.com/cooking/recipe-ideas/a22075262/fried-ice-cream-recipe/>`__
 
 Fried Ice Cream is shockingly simple and let's you use any of your
-favorite cereal or ice cream!
+favourite cereal or ice cream!
 
 Ingredients
 -----------
 
 - 1 pint ice cream (such as Breyers Delights Vanilla Cupcake Ice Cream)
-- 1 1/2 tbsp. butter
-- 1 1/4 c. corn cereal, crushed
-- 1/2 tsp. ground cinnamon
-- 2 tsp. granulated sugar
+- 1 1/2 tablespoons butter
+- 1 1/4 cups corn cereal, crushed
+- 1/2 teaspoon ground cinnamon
+- 2 teaspoons granulated sugar
 - Whipped cream, for garnish
 - Sprinkles, for garnish
 - 4 maraschino cherries, for garnish

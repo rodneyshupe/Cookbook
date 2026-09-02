@@ -1,4 +1,4 @@
-Bacon explosion
+Bacon Explosion
 ===============
 
 +-----------------------+--------------------+--------------------+
@@ -8,10 +8,10 @@ Bacon explosion
 Ingredients
 -----------
 
--  2 pounds (900g) thick-cut sliced bacon
--  1 1/2 pounds (680g) Italian sausage, casings removed
--  3 tablespoons barbecue rub
--  3/4 cup barbecue sauce.
+- 2 pounds (900g) thick-cut sliced bacon
+- 1 1/2 pounds (680g) Italian sausage, casings removed
+- 3 tablespoons barbecue rub
+- 3/4 cup barbecue sauce
 
 Directions
 ----------
@@ -42,4 +42,3 @@ Directions
    internal temperature reaches 165F on a meat thermometer, about 1
    hour for each inch of thickness. When done, glaze roll with more
    sauce. To serve, slice into 1/4 to 1/2-inch rounds.
-

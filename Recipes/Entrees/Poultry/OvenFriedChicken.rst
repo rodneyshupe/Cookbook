@@ -5,7 +5,7 @@ Oven-Fried Chicken
 | Prep Time: 15 minutes | Marinate Time: 1 hour + | Cook Time: 45 minutes | Yield: 8 |
 +-----------------------+-------------------------+-----------------------+----------+
 
-Source: `Cooks Country <https://www.cookscountry.com/recipes/2320-oven-fried-chicken>`__
+Source: `Cook's Country <https://www.cookscountry.com/recipes/2320-oven-fried-chicken>`__
 
 Ingredients
 -----------
@@ -13,24 +13,24 @@ Ingredients
 Marinade
 ^^^^^^^^
 
--  2 cups buttermilk  (substitute 1 tablespoon of cream of tartar and 2 cups regular milk)
--  2 tablespoons Dijon mustard
--  2 teaspoons table salt
--  1 1/2 teaspoons garlic powder
--  1 1/2 teaspoons ground black pepper
--  1 teaspoon hot pepper sauce
--  8 split bone-in chicken breasts, 10 to 12 ounces (280g to 340g) each, skin removed and ribs trimmed with kitchen shears
+- 2 cups buttermilk  (substitute 1 tablespoon of cream of tartar and 2 cups regular milk)
+- 2 tablespoons Dijon mustard
+- 2 teaspoons table salt
+- 1 1/2 teaspoons garlic powder
+- 1 1/2 teaspoons ground black pepper
+- 1 teaspoon hot pepper sauce
+- 8 split bone-in chicken breasts, 10 to 12 ounces (280g to 340g) each, skin removed and ribs trimmed with kitchen shears
 
 Seasoned flour
 ^^^^^^^^^^^^^^
 
--  2 1/2 cups crushed corn flakes
--  3/4 cup fresh bread crumbs
--  1/4 teaspoons table salt
--  1/2 teaspoon ground poultry seasoning
--  1/2 teaspoon paprika
--  1/8 teaspoon cayenne pepper
--  2 tablespoons vegetable oil
+- 2 1/2 cups crushed corn flakes
+- 3/4 cup fresh bread crumbs
+- 1/4 teaspoons table salt
+- 1/2 teaspoon ground poultry seasoning
+- 1/2 teaspoon paprika
+- 1/8 teaspoon cayenne pepper
+- 2 tablespoons vegetable oil
 
 Directions
 ----------
@@ -60,4 +60,3 @@ Variation
 To create a spicier version adjust the breading by leaving out salt and
 increasing cayenne pepper to 1/4 teaspoon and adding 1/2 teaspoon chili
 powder.
-

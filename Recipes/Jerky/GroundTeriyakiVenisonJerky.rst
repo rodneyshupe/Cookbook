@@ -1,9 +1,9 @@
 Ground Teriyaki Venison Jerky
 =============================
 
-+-----------------------+--------------------------+------------------------+---------------------------+
-| Prep Time: 15 minutes | Marinate Time: overnight | Drying Time: 4-8 hours | Yield: about 3/4 lb jerky |
-+-----------------------+--------------------------+------------------------+---------------------------+
++-----------------------+--------------------------+------------------------+------------------------------+
+| Prep Time: 15 minutes | Marinate Time: overnight | Drying Time: 4-8 hours | Yield: about 3/4 pound jerky |
++-----------------------+--------------------------+------------------------+------------------------------+
 
 Equipment
 ---------
@@ -12,19 +12,21 @@ Dehydrator
 Ingredients
 -----------
 
--  2 lb (1 kg) of ground venison.
--  2 tablespoons table salt
--  2 tablespoons brown sugar
--  4 tablespoons `teriyaki sauce <#teriyaki-sauce>`__
--  Optional seasoning pepper
+- 2 pounds (1 kg) of ground venison.
+- 2 tablespoons table salt
+- 2 tablespoons brown sugar
+- 4 tablespoons `teriyaki sauce <#teriyaki-sauce>`__
+- Optional seasoning pepper
 
 Directions
 ----------
 
-Using your hands, mix all ingredients into the ground meat evenly and
-thoroughly. Place in refrigerator overnight. Next morning, using a jerky
-gun or rolling the meat into strips no more than 3/16" thick and lay
-onto greased smoker trays. Dehydrate as above.
+1. Using your hands, mix all ingredients into the ground meat evenly and
+   thoroughly.
+2. Place in refrigerator overnight.
+3. Next morning, using a jerky gun or rolling the meat into strips no more
+   than 3/16" thick and lay onto greased smoker trays.
+4. Dehydrate as above.
 
 Notes
 -----

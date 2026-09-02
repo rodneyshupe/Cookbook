@@ -5,26 +5,26 @@ Thai Green Curry with Prawns and Salmon
 | Prep Time: 15 minutes | Cook Time: 15 minutes | Yield: 4 servings |
 +-----------------------+-----------------------+-------------------+
 
-This is a recipe that is defiantly a favorite of of Jeaniene and I. It
+This is a recipe that is defiantly a favourite of Jeaniene and I. It
 combines the west coast seafood with a nice Thai curry sauce and makes a
 great entree.
 
 Ingredients
 -----------
 
--  1 can unsweetened coconut milk
--  1/4 cup Shallot minced
--  1 teaspoon Ginger fresh, minced
--  1 teaspoon Garlic
--  2-3 teaspoons Thai green curry paste (or to taste)
--  2 tablespoons Fish Sauce
--  1 tablespoon Lime Juice
--  1/2 pound (225g) Salmon fillet, cubed
--  1/2 pound (225g) Prawns (or large shrimp) shelled and de-veined
--  4 ounces (113g) snow peas (small) cut in half on the diagonal
--  2 tablespoons Cilantro fresh chopped
--  2 tablespoons Basil chopped
--  4 cups jasmine rice cooked
+- 1 (13.5 fluid ounces / 400 ml) can unsweetened coconut milk
+- 1/4 cup Shallot minced
+- 1 teaspoon Ginger fresh, minced
+- 1 teaspoon Garlic
+- 2-3 teaspoons Thai green curry paste (or to taste)
+- 2 tablespoons Fish Sauce
+- 1 tablespoon Lime Juice
+- 1/2 pound (225g) Salmon fillet, cubed
+- 1/2 pound (225g) Prawns (or large shrimp) shelled and de-veined
+- 4 ounces (113g) snow peas (small) cut in half on the diagonal
+- 2 tablespoons Cilantro fresh chopped
+- 2 tablespoons Basil chopped
+- 4 cups jasmine rice cooked
 
 Directions
 ----------
@@ -41,4 +41,3 @@ Directions
    cooked through.
 6. Stir in cilantro and basil.
 7. Serve over rice.
-

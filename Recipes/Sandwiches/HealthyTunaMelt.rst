@@ -8,7 +8,7 @@ Healthier Tuna Melt
 Ingredients
 -----------
 
-- 1 can 5oz tuna drained
+- 1 can 5 ounce (148 ml) tuna drained
 - 1 small celery stalk, chopped
 - 2 tablespoons chopped jarred roasted red pepper
 - 1 scallion, minced

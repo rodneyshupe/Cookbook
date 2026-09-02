@@ -10,31 +10,31 @@ Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/9384-chick
 Ingredients
 -----------
 
--  1 cup (5 ounces or 145g) all-purpose flour
--  1 tablespoon vegetable oil
--  1 onion, chopped fine
--  1 green bell pepper, chopped fine
--  2 celery ribs, chopped fine
--  1 tablespoon minced fresh thyme
--  3 garlic cloves, minced
--  1 teaspoon paprika
--  2 bay leaves
--  1/2 teaspoon cayenne pepper
--  Salt and pepper
--  4 cups chicken broth, room temperature
--  2 pounds (900g) boneless, skinless chicken thighs, trimmed
--  8 ounces (225g) andouille sausage, halved and sliced 1/4 inch thick
--  6 scallions, sliced thin
--  1 teaspoon distilled white vinegar
--  Hot sauce
+- 1 cup (5 ounces or 145g) all-purpose flour
+- 1 tablespoon vegetable oil
+- 1 onion, chopped fine
+- 1 green bell pepper, chopped fine
+- 2 celery ribs, chopped fine
+- 1 tablespoon minced fresh thyme
+- 3 garlic cloves, minced
+- 1 teaspoon paprika
+- 2 bay leaves
+- 1/2 teaspoon cayenne pepper
+- Salt and pepper
+- 4 cups chicken broth, room temperature
+- 2 pounds (900g) boneless, skinless chicken thighs, trimmed
+- 8 ounces (225g) andouille sausage, halved and sliced 1/4 inch thick
+- 6 scallions, sliced thin
+- 1 teaspoon distilled white vinegar
+- Hot sauce
 
 Directions
 ----------
 
 1. Adjust oven rack to middle position and heat oven to 425F.
    Place flour in 12-inch skillet and bake, stirring occasionally, until
-   color of ground cinnamon, 40 to 55 minutes. (As flour approaches
-   desired color, it will take on very nutty aroma that will smell
+   colour of ground cinnamon, 40 to 55 minutes. (As flour approaches
+   desired colour, it will take on very nutty aroma that will smell
    faintly of burnt popcorn, and it will need to be stirred more
    frequently.) Transfer flour to medium bowl and let cool. (Toasted
    flour can be stored in airtight container in cool, dark place for up
@@ -57,4 +57,3 @@ Directions
    vinegar, and season with salt to taste. Discard bay leaves. Serve,
    passing hot sauce separately. (Gumbo can be refrigerated in airtight
    container for up to 3 days.)
-

@@ -12,24 +12,24 @@ Smoker
 Ingredients
 -----------
 
--  2 racks pork ribs (I prefer to use side ribs)
--  1 cup `Basic Barbecue Rub <#basic-barbecue-rub>`__
--  1 cup `Kansas City Style Sweet and Smoky Barbecue Sauce <#kansas-city-style-sweet-and-smoky-barbecue-sauce>`__
--  2 cups wood chips, preferably apple wood, soaked in 2 cups apple
-   cider for 1 hour then drained
--  4 tbsp butter, softened
--  3 tbsp brown sugar
--  3 tbsp agave syrup (may substitute with honey)
+- 2 racks pork ribs (I prefer to use side ribs)
+- 1 cup `Basic Barbecue Rub <#basic-barbecue-rub>`__
+- 1 cup `Kansas City Style Sweet and Smoky Barbecue Sauce <#kansas-city-style-sweet-and-smoky-barbecue-sauce>`__
+- 2 cups wood chips, preferably apple wood, soaked in 2 cups apple
+  cider for 1 hour then drained
+- 4 tablespoons butter, softened
+- 3 tablespoons brown sugar
+- 3 tablespoons agave syrup (may substitute with honey)
 
 Mop Sauce
 ^^^^^^^^^
 
--  1/2 cup Apple Cider Vinegar
--  1/2 tbsp vegetable oil
--  1 tbsp `Basic Barbecue Rub <#basic-barbecue-rub>`__
--  1/4 tbsp lemon juice
--  1/2 cup Coke
--  1/2 tbsp Worcestershire sauce
+- 1/2 cup Apple Cider Vinegar
+- 1/2 tablespoon vegetable oil
+- 1 tablespoon `Basic Barbecue Rub <#basic-barbecue-rub>`__
+- 1/4 tablespoon lemon juice
+- 1/2 cup Coke
+- 1/2 tablespoon Worcestershire sauce
 
 Directions
 ----------

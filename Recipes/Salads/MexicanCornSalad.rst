@@ -5,25 +5,27 @@ Mexican Corn Salad (Esquites)
 | Prep Time: 15 minutes | Cook Time: 5 minutes | Total Time: 30 minutes | Yield: 3-4 servings |
 +-----------------------+----------------------+------------------------+---------------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/11067-mexican-corn-salad-esquites>`__
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/11067-mexican-corn-salad-esquites>`__
 
 Ingredients
 -----------
-1 1/2 tablespoons lime juice, plus extra for seasoning (2 limes)
-1 1/2 tablespoons sour cream
-1/2 tablespoon mayonnaise
-1 serrano chiles, stemmed and cut into 1/8-inch-thick rings
-Salt
-1 tablespoons plus 1 teaspoon vegetable oil
-3 ears corn, kernels cut from cobs (3 cups)
-1 garlic cloves, minced
-1/4 teaspoon chili powder
-2 ounces cotija cheese, crumbled (1/2 cup)
-1/4 cup coarsely chopped fresh cilantro leaves
-1 scallions, sliced thin
+
+- 1 1/2 tablespoons lime juice, plus extra for seasoning (2 limes)
+- 1 1/2 tablespoons sour cream
+- 1/2 tablespoon mayonnaise
+- 1 serrano chiles, stemmed and cut into 1/8-inch-thick rings
+- Salt
+- 1 tablespoon plus 1 teaspoon vegetable oil
+- 3 ears corn, kernels cut from cobs (3 cups)
+- 1 garlic cloves, minced
+- 1/4 teaspoon chili powder
+- 2 ounces cotija cheese, crumbled (1/2 cup)
+- 1/4 cup coarsely chopped fresh cilantro leaves
+- 1 scallions, sliced thin
 
 Directions
 ----------
+
 1. Combine lime juice, sour cream, mayonnaise, serrano(s), and
    1/8 teaspoon salt in large bowl. Set aside.
 2. Heat 1 tablespoon oil in 12-inch nonstick skillet over high heat until
@@ -42,6 +44,7 @@ Directions
 
 Notes
 -----
+
 If desired, substitute plain Greek yogurt for the sour cream. I like serrano
 chiles here, but you can substitute a jalapeno chile that has been halved
 lengthwise and sliced into 1/8-inch-thick half-moons. Adjust the amount of

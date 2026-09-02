@@ -8,12 +8,12 @@ Buffalo Style Chicken Wings
 Ingredients
 -----------
 
--  6 tablespoons table salt (or 12 tablespoons kosher salt)
--  6 tablespoons sugar
--  12 whole chicken wings, about 2 1/2 pounds (1.1kg), separated into sections
-   wingtips discarded
--  Ground black pepper
--  3 tablespoons `Buffalo Sauce <#buffalo-sauce>`__
+- 6 tablespoons table salt (or 12 tablespoons kosher salt)
+- 6 tablespoons sugar
+- 12 whole chicken wings, about 2 1/2 pounds (1.1kg), separated into sections
+  wingtips discarded
+- Ground black pepper
+- 3 tablespoons `Buffalo Sauce <#buffalo-sauce>`__
 
 Directions
 ----------
@@ -25,7 +25,7 @@ Directions
    towels, and season with pepper.
 2. Turn all burners on grill to high, close lid, and heat grill until
    hot, 10 to 15 minutes. Adjust one burner to medium and grill chicken
-   pieces over it, turning once, until color is light spotty brown, skin
+   pieces over it, turning once, until colour is light spotty brown, skin
    has thinned, and fat has rendered, 15 to 20 minutes. Using tongs,
    move chicken pieces over burner still set on high, turning constantly
    to prevent charring, until wings are dark spotty brown and skin has
@@ -38,4 +38,3 @@ Variations
 For plain wings, serve with a squeeze of lemon or lime, or with an
 accompanying dipping sauce, if desired. If you want BBQ style, in step
 two brush with your favorite BBQ Sauce.
-

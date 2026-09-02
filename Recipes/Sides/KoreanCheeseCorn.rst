@@ -1,4 +1,4 @@
-Korean cheese corn
+Korean Cheese Corn
 ==================
 
 +-----------------------+-----------------------+-------------------+
@@ -11,13 +11,13 @@ snack in Korea.
 Ingredients
 -----------
 
--  2 tablespoons mayonnaise
--  4 ears corn
--  1 tablespoon butter
--  1 clove garlic, sliced very thin
--  Salt and pepper, to taste
--  1 teaspoon sugar (if needed)
--  2 ounces shredded mozzarella
+- 2 tablespoons mayonnaise
+- 4 ears corn
+- 1 tablespoon butter
+- 1 clove garlic, sliced very thin
+- Salt and pepper, to taste
+- 1 teaspoon sugar (if needed)
+- 2 ounces shredded mozzarella
 
 Directions
 ----------

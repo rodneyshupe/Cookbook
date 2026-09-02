@@ -28,6 +28,7 @@ Marinade
 
 Directions
 ----------
+
 1. Slice chicken into strips 1/2 inch wide. Mix marinade ingredients and
    marinade chicken for one hour.
 2. Cut green pepper and onions into strips. Saute and set a side.
@@ -39,7 +40,6 @@ Directions
 5. Roll up and place in microwave safe baking dish.
 6. Microwave to heat for approx 8 minutes (1 minute per to roll)
 7. Remove from microwave and cover with salsa and Monterey Jack cheese.
-8. Add to preheated to 400 degree oven, for 5 minutes (or until cheese is
+8. Add to preheated to 400F oven, for 5 minutes (or until cheese is
    bubbling.)
 9. Serve with sour cream.
-

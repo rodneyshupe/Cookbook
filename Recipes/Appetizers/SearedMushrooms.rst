@@ -8,15 +8,15 @@ Seared Mushrooms with Egg Yolk
 Ingredients
 -----------
 
--  3 tablespoons olive oil plus more for sage
--  1/4 cup (loosely packed) fresh sage leaves
--  2 pounds (900g) mix of wild mushrooms (such as chanterelle, cremini,
+- 3 tablespoons olive oil plus more for sage
+- 1/4 cup (loosely packed) fresh sage leaves
+- 2 pounds (900g) mix of wild mushrooms (such as chanterelle, cremini,
    portobello, shiitake, enoki, oyster, hen of the woods, and porcini),
    cleaned, stems trimmed
--  2 tbsp Sherry
--  1/2 tbsp Sherry Vinegar
--  4 baguette slices, toasted (french or sourdough)
--  4 eggs
+- 2 tablespoons Sherry
+- 1/2 tablespoon Sherry Vinegar
+- 4 baguette slices, toasted (french or sourdough)
+- 4 eggs
 
 Directions
 ----------
@@ -26,7 +26,7 @@ Directions
    crisp, about 30 seconds (do not brown). Transfer sage to paper towels
    to drain. Strain oil through a fine-mesh sieve into a small bowl; set
    sage oil aside.
-2. In a medium to large skillet heat 1 tbsp olive oil over medium heat.
+2. In a medium to large skillet heat 1 tablespoon olive oil over medium heat.
    Add mushrooms and season with salt and pepper. Sear till they start
    to release their liquid. Add Sherry and reduce 30 - 60 seconds. Add
    Vinegar and deglaze the pan.

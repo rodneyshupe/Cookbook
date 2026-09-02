@@ -5,52 +5,51 @@ Chicken Bouillabaisse
 | Prep Time: 30 minutes | Cook Time: 1 hour | Yield: 4-6 servings |
 +-----------------------+-------------------+---------------------+
 
-
 Ingredients
 -----------
 
 Bouillabaisse
--------------
+^^^^^^^^^^^^^
 
--  3 pounds bone-in, skin-on chicken pieces (breasts, thighs, and
-   drumsticks, with breasts cut in half), trimmed of excess fat
--  Table salt and ground black pepper
--  2 tablespoons olive oil
--  1 large leek (white and light green parts only), halved lengthwise,
-   rinsed, and sliced thin (about 1 cup)
--  1 small fennel bulb, halved lengthwise, cored, and sliced thin (about
-   2 cups)
--  1/4 teaspoon saffron threads
--  1/4 teaspoon cayenne pepper
--  1 tablespoon unbleached all-purpose flour
--  4 medium cloves garlic, minced or pressed through garlic press (about
-   4 teaspoons)
--  1 tablespoon tomato paste
--  1 (14.5-ounce) can diced tomatoes, drained
--  1/2 cup dry white wine
--  3 cups low-sodium chicken broth
--  1 strip orange zest (from 1 orange), removed with vegetable peeler,
-   about 3 inches long, cleaned of white pith
--  1/4 cup pastis or Pernod (see note)
--  3/4 pound Yukon Gold potato (1 large or 2 small), cut into 3/4-inch
-   cubes
--  1 tablespoon chopped fresh tarragon leaves or parsley leaves
+- 3 pounds (1.35 kg) bone-in, skin-on chicken pieces (breasts, thighs, and
+  drumsticks, with breasts cut in half), trimmed of excess fat
+- Table salt and ground black pepper
+- 2 tablespoons olive oil
+- 1 large leek (white and light green parts only), halved lengthwise,
+  rinsed, and sliced thin (about 1 cup)
+- 1 small fennel bulb, halved lengthwise, cored, and sliced thin (about
+  2 cups)
+- 1/4 teaspoon saffron threads
+- 1/4 teaspoon cayenne pepper
+- 1 tablespoon unbleached all-purpose flour
+- 4 medium cloves garlic, minced or pressed through garlic press (about
+  4 teaspoons)
+- 1 tablespoon tomato paste
+- 1 (13.5 fluid ounces / 400 ml) can diced tomatoes, drained
+- 1/2 cup dry white wine
+- 3 cups low-sodium chicken broth
+- 1 strip orange zest (from 1 orange), removed with vegetable peeler,
+  about 3 inches long, cleaned of white pith
+- 1/4 cup pastis or Pernod (see note)
+- 3/4 pound Yukon Gold potato (1 large or 2 small), cut into 3/4-inch
+  cubes
+- 1 tablespoon chopped fresh tarragon leaves or parsley leaves
 
 Rouille and Croutons
 ^^^^^^^^^^^^^^^^^^^^
 
--  3 tablespoons water
--  1/4 teaspoon saffron threads
--  1 baguette
--  4 teaspoons juice from 1 lemon
--  2 teaspoons Dijon mustard
--  1 large egg yolk
--  1/4 teaspoon cayenne pepper
--  2 small cloves garlic, minced or pressed through garlic press (about
-   1 1/2 teaspoons)
--  1/2 cup vegetable oil
--  1/2 cup plus 2 tablespoons extra-virgin olive oil
--  Table salt and ground black pepper
+- 3 tablespoons water
+- 1/4 teaspoon saffron threads
+- 1 baguette
+- 4 teaspoons juice from 1 lemon
+- 2 teaspoons Dijon mustard
+- 1 large egg yolk
+- 1/4 teaspoon cayenne pepper
+- 2 small cloves garlic, minced or pressed through garlic press (about
+  1 1/2 teaspoons)
+- 1/2 cup vegetable oil
+- 1/2 cup plus 2 tablespoons extra-virgin olive oil
+- Table salt and ground black pepper
 
 Directions
 ----------

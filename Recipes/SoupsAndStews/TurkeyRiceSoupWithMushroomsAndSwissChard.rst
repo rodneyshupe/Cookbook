@@ -5,23 +5,22 @@ Turkey Rice Soup with Mushrooms and Swiss Chard
 | Prep Time: 15 minutes | Cook Time: 30 minutes | Yield: 6 servings |
 +-----------------------+-----------------------+-------------------+
 
-
 Ingredients
 -----------
 
--  2 tablespoons turkey fat
--  1 onion, chopped fine
--  1/2 teaspoon dried sage
--  Pinch Red pepper flakes
--  3 garlic cloves, minced
--  8 cups recipe `Simple Turkey Stock <#simple-turkey-stock>`__
--  3/4 cup long-grain white rice
--  4 ounces cremini mushrooms, trimmed and sliced thin
--  3 ounces Swiss chard, stems chopped fine, leaves sliced into
-   1/2-inch-wide strips (5 cups)
--  2 cups shredded turkey
--  2 tablespoons lemon juice
--  Salt and pepper
+- 2 tablespoons turkey fat
+- 1 onion, chopped fine
+- 1/2 teaspoon dried sage
+- Pinch Red pepper flakes
+- 3 garlic cloves, minced
+- 8 cups recipe `Simple Turkey Stock <#simple-turkey-stock>`__
+- 3/4 cup long-grain white rice
+- 4 ounces cremini mushrooms, trimmed and sliced thin
+- 3 ounces Swiss chard, stems chopped fine, leaves sliced into
+  1/2-inch-wide strips (5 cups)
+- 2 cups shredded turkey
+- 2 tablespoons lemon juice
+- Salt and pepper
 
 Directions
 ----------

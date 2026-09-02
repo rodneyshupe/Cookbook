@@ -6,23 +6,22 @@ Creamy Green Pea Soup
 | minutes           | minutes              | servings                  |
 +-------------------+----------------------+---------------------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/568-creamy-green-pea-soup>`__
-
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/568-creamy-green-pea-soup>`__
 
 Ingredients
 -----------
 
--  4 tablespoons unsalted butter
--  8 medium shallots (about 5 ounces), minced (about 1 cup), or 1 medium
-   leek, white and light green parts chopped fine (about 1 1/3 cups)
--  2 tablespoons unbleached all-purpose flour
--  3 1/2 cups low-sodium chicken broth
--  1 1/2 pounds frozen peas (about 4 1/2 cups), partially thawed at room
-   temperature for 10 minutes (see note)
--  12 leaves Boston lettuce (about 3 ounces) from 1 small head, leaves
-   washed and dried
--  1/2 cup heavy cream
--  Salt and ground black pepper
+- 4 tablespoons unsalted butter
+- 8 medium shallots (about 5 ounces), minced (about 1 cup), or 1 medium
+  leek, white and light green parts chopped fine (about 1 1/3 cups)
+- 2 tablespoons unbleached all-purpose flour
+- 3 1/2 cups low-sodium chicken broth
+- 1 1/2 pounds frozen peas (about 4 1/2 cups), partially thawed at room
+  temperature for 10 minutes (see note)
+- 12 leaves Boston lettuce (about 3 ounces) from 1 small head, leaves
+  washed and dried
+- 1/2 cup heavy cream
+- Salt and ground black pepper
 
 Directions
 ----------

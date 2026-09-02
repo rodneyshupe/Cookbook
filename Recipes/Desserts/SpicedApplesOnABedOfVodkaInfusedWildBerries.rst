@@ -12,13 +12,13 @@ Ingredients
 - 2 ml ground nutmeg
 - 1 cinnamon stick
 - 300 ml water
-- 1/4 cup  berry sugar
+- 1/4 cup berry sugar
 - 1 lemon, rind
 - 5 teaspoons marsala wine
 - 1 vanilla bean, split
 - 4 whole cloves
 - Seasonal berries, washed patted dry
-- 1/2 cup  vodka
+- 1/2 cup vodka
 - several sprig mint, fresh
 - whipping cream
 - Vanilla cream

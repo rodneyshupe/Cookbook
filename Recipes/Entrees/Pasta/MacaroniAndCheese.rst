@@ -8,17 +8,17 @@ Macaroni and Cheese
 Ingredients
 -----------
 
--  1 1/2 cups water
--  1 cup milk
--  8 ounces (225g) elbow macaroni
--  4 ounces (113g) velveeta, shredded *(to shred put in freezer for 30 min)*
--  1/2 teaspoon Dijon mustard
--  Small pinch cayenne pepper
--  4 ounces (113g) extra-sharp cheddar cheese, shredded (1 cup)
--  1/3 cup panko bread crumbs
--  1 tablespoon extra-virgin olive oil
--  Salt and pepper
--  2 tablespoons grated Parmesan cheese
+- 1 1/2 cups water
+- 1 cup milk
+- 8 ounces (225g) elbow macaroni
+- 4 ounces (113g) velveeta, shredded *(to shred put in freezer for 30 min)*
+- 1/2 teaspoon Dijon mustard
+- Small pinch cayenne pepper
+- 4 ounces (113g) extra-sharp cheddar cheese, shredded (1 cup)
+- 1/3 cup panko bread crumbs
+- 1 tablespoon extra-virgin olive oil
+- Salt and pepper
+- 2 tablespoons grated Parmesan cheese
 
 Directions
 ----------
@@ -39,4 +39,3 @@ Directions
    thicken as it cools). Season with salt and pepper to taste. Transfer
    to warm serving dish and sprinkle panko mixture over top. Serve
    immediately.
-

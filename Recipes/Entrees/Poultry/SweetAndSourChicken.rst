@@ -12,6 +12,7 @@ Ingredients
 
 Sauce
 ^^^^^
+
 - 1 tablespoon vegetable oil
 - 1/2 each green & red pepper, diced
 - 1/2 small yellow onion, sliced
@@ -27,14 +28,16 @@ Sauce
 
 Chicken
 ^^^^^^^
+
 - Neutral oil for frying
-- 1 pound boneless skinless chicken thighs, cut into bite-sized pieces
+- 1 pound (450 g) boneless skinless chicken thighs, cut into bite-sized pieces
 - 1/4 cup cornstarch
 - salt and pepper, to taste
 - Diced green onions and sesame seeds for garnish
 
 Directions
 ----------
+
 1. SAUCE: Heat a tablespoon of oil in a large skillet over medium high
    heat, add the peppers & onions and cook over until softened, about
    5 minutes - remove to a bowl

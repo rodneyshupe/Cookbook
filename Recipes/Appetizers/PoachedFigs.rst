@@ -7,11 +7,11 @@ Poached Figs served with Greek Manouri Cheese
 
 Ingredients
 -----------
-- 12 oz Dried greek figs
+- 12 ounces Dried greek figs
 - 2/3 cup mavrodaphne wine
 - 1 cinnamon stick
 - 2-3 whole cloves
-- 1-2 lb manouri cheese
+- 1-2 pounds manouri cheese
 - mint, fresh for garnish
 - 1/3 cup granulated sugar
 

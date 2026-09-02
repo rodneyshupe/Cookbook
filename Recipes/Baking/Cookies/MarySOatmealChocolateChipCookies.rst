@@ -7,6 +7,7 @@ Mary's Oatmeal Chocolate Chip Cookies
 
 Ingredients
 -----------
+
 - 2 cups all-purpose flour
 - 1/2 teaspoon salt
 - 1/2 teaspoon baking soda
@@ -38,4 +39,3 @@ Directions
    rotating sheet halfway through baking. Let cookies cool on sheet on
    wire rack for 5 minutes; using wide metal spatula, transfer cookies
    to wire rack and let cool completely.
-

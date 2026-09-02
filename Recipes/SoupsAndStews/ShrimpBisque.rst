@@ -1,34 +1,33 @@
 Shrimp Bisque
 =============
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/735-rich-and-velvety-shrimp-bisque>`__
++-----------------------+-------------------+------------------------------------+
+| Prep Time: 30 minutes | Cook Time: 1 hour | Yield: 4-6 servings (about 6 cups) |
++-----------------------+-------------------+------------------------------------+
 
-+-----------------------+-------------------+------------+--------------+
-| Prep Time: 30 minutes | Cook Time: 1 hour | Yield: 4-6 | Makes 6 cups |
-+-----------------------+-------------------+------------+--------------+
-
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/735-rich-and-velvety-shrimp-bisque>`__
 
 Ingredients
 -----------
 
--  2 pounds shell-on shrimp, preferably Gulf or Mexican Whites
--  3 tablespoons olive oil
--  1/3 cup brandy or cognac, warmed
--  2 tablespoons unsalted butter
--  1 small carrot, chopped fine (about 3 tablespoons)
--  1 small rib celery, chopped fine (about 3 tablespoons)
--  1 small onion, minced (about 6 tablespoons)
--  1 medium clove garlic, minced
--  1/2 cup unbleached all-purpose flour
--  1 1/2 cups dry white wine
--  4 bottles clam juice (8-ounce, 4 cups total)
--  1 can (14 1/2 ounces) diced tomatoes, drained
--  1 sprig fresh tarragon leaves
--  1 cup heavy cream
--  1 tablespoon lemon juice from 1/2 lemon
--  pinch cayenne pepper
--  2 tablespoons dry sherry or Madeira
--  Salt and ground black pepper
+- 2 pounds (900 g) shell-on shrimp, preferably Gulf or Mexican Whites
+- 3 tablespoons olive oil
+- 1/3 cup brandy or cognac, warmed
+- 2 tablespoons unsalted butter
+- 1 small carrot, chopped fine (about 3 tablespoons)
+- 1 small rib celery, chopped fine (about 3 tablespoons)
+- 1 small onion, minced (about 6 tablespoons)
+- 1 medium clove garlic, minced
+- 1/2 cup unbleached all-purpose flour
+- 1 1/2 cups dry white wine
+- 4 bottles clam juice (8-ounce / 236 ml, 4 cups total)
+- 1 can (13.5 fluid ounces / 400 ml) diced tomatoes, drained
+- 1 sprig fresh tarragon leaves
+- 1 cup heavy cream
+- 1 tablespoon lemon juice from 1/2 lemon
+- pinch cayenne pepper
+- 2 tablespoons dry sherry or Madeira
+- Salt and ground black pepper
 
 Directions
 ----------
@@ -54,7 +53,7 @@ Directions
    Stir in wine, clam juice, and tomatoes, scraping pan bottom with
    wooden spoon to loosen browned bits, if any exist. Cover, increase
    heat to medium-high, and bring to boil; then reduce heat to low and
-   simmer, stirring frequently, until thickened and flavors meld, about
+   simmer, stirring frequently, until thickened and flavours meld, about
    20 minutes.
 4. Strain bisque through chinois into medium container, pressing on
    solids with back of ladle to extract all liquid. Wash and dry

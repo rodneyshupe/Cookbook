@@ -11,12 +11,12 @@ Sous-Vide (immersion circulator), Vacuum Sealer
 Ingredients
 -----------
 **Beef**
-- 1 eye of Round Roast 1-2 pounds
-- 2 tbsp kosher salt
-- 2 tsp fresh ground black pepper
-- 1 tsp smoker paprika
-- 1 tsp onion powder
-- 1 tsp garlic powder
+- 1 eye of Round Roast 1-2 pounds (450 to 900 g)
+- 2 tablespoons kosher salt
+- 2 teaspoons fresh ground black pepper
+- 1 teaspoon smoker paprika
+- 1 teaspoon onion powder
+- 1 teaspoon garlic powder
 
 **Horseradish Sauce**
 - 1 cup sour cream
@@ -25,7 +25,7 @@ Ingredients
 - 1/4 teaspoon freshly cracked black pepper
 
 **Au Jus**
-- 1 tsp Onion Powder
+- 1 teaspoon Onion Powder
 - 3 cups beef broth
 - 1/2 teaspoon granulated sugar
 - 2 teaspoons Worcestershire sauce, plus more to taste
@@ -33,7 +33,6 @@ Ingredients
 - 1 tablespoon sherry
 - 1/8 teaspoon salt, plus more to taste
 - Freshly cracked black pepper
-
 
 Directions
 ----------

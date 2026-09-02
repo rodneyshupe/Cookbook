@@ -5,16 +5,18 @@ Sourdough Starter
 | Prep Time: 10 minutes | Total Time: 10-14 days | Yield: about 2 cups starter |
 +-----------------------+------------------------+-----------------------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/9075-sourdough-starter>`__
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/9075-sourdough-starter>`__
 
 Ingredients
 -----------
+
 - 4 1/2 cups (24 3/4 ounces) whole-wheat flour
 - 5 cups (25 ounces) all-purpose flour, plus extra for maintaining starter
 - Water, room temperature
 
 Directions
 ----------
+
 1. Combine whole-wheat flour and all-purpose flour in large container. Using
    wooden spoon, mix 1 cup (5 ounces) flour mixture and 2/3 cup (5 1/3 ounces)
    room-temperature water in glass bowl until no dry flour remains (reserve

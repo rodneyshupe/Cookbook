@@ -5,22 +5,22 @@ Oatmeal Cookies
 | Prep Time: 20 minutes | Cook Time: 10 minutes | Yield: 20 cookies |
 +-----------------------+-----------------------+-------------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/9077-classic-chewy-oatmeal-cookies>`__
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/9077-classic-chewy-oatmeal-cookies>`__
 
 Ingredients
 -----------
 
--  1 cup (5 ounces) all-purpose flour
--  1/4 teaspoon salt
--  1/2 teaspoon baking soda
--  4 tablespoons unsalted butter
--  1/4 teaspoon ground cinnamon
--  3/4 cup (5 1/4 ounces) dark brown sugar
--  1/2 cup (3 1/2 ounces) granulated sugar
--  1/2 cup Vegetable oil
--  1 large egg plus 1 large yolk
--  1 teaspoon vanilla extract
--  3 cups (9 ounces) old-fashioned rolled oats
+- 1 cup (5 ounces) all-purpose flour
+- 1/4 teaspoon salt
+- 1/2 teaspoon baking soda
+- 4 tablespoons unsalted butter
+- 1/4 teaspoon ground cinnamon
+- 3/4 cup (5 1/4 ounces) dark brown sugar
+- 1/2 cup (3 1/2 ounces) granulated sugar
+- 1/2 cup Vegetable oil
+- 1 large egg plus 1 large yolk
+- 1 teaspoon vanilla extract
+- 3 cups (9 ounces) old-fashioned rolled oats
 
 Directions
 ----------
@@ -48,4 +48,3 @@ Directions
    rotating sheet halfway through baking. Let cookies cool on sheet on
    wire rack for 5 minutes; using wide metal spatula, transfer cookies
    to wire rack and let cool completely.
-

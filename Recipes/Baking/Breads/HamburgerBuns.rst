@@ -22,6 +22,7 @@ Ingredients
 
 Directions
 ----------
+
 1. Whisk flour and yeast together in bowl of stand mixer, then add
    room-temperature water and 2 eggs. Fit mixer with dough hook and mix on
    low speed until dough comes together and no dry flour remains, about
@@ -47,11 +48,11 @@ Directions
    with tip of paring knife.
 4. Cover loosely with plastic and let rise at room temperature until
    doubled in size, about 1 hour. Adjust oven racks to upper-middle and
-   lower-middle positions and heat oven to 350 degrees.
+   lower-middle positions and heat oven to 350F.
 5. Discard plastic and brush tops and sides of dough balls with beaten egg
    (you do not need to use all of it). Sprinkle tops of dough balls with
    sesame seeds, if using.
-6. Bake until buns are deep golden brown and register 205 to 210 degrees
+6. Bake until buns are deep golden brown and register 205 to 210F
    in center, 18 to 20 minutes, switching and rotating sheets halfway
    through baking. Transfer sheets to wire racks and let cool completely,
    about 30 minutes. Serve. (Buns can be stored in zipper-lock bags at

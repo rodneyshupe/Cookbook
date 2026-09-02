@@ -15,11 +15,11 @@ flavours are out of this world!
 Ingredients
 -----------
 
-- 4 6 ounce salmon fillets
-- 2 Tablespoons olive oil
-- 1 Tablespoon Chili Powder
-- 1 Tablespoon Paprika
-- 1 Tablespoon Onion Powder
+- 4 6 ounce (170 g) salmon fillets
+- 2 tablespoons olive oil
+- 1 tablespoon Chili Powder
+- 1 tablespoon Paprika
+- 1 tablespoon Onion Powder
 - 1 teaspoon garlic powder
 - 1 teaspoon salt
 - 1/4 teaspoon pepper
@@ -40,4 +40,3 @@ Directions
 3. Assemble the tacos with a flour tortilla and flake the salmon into
    pieces. Top with `pineapple salsa <#grilled-pineapple-avocado-salsa>`__
    or `mango salsa <#mango-salsa>`__. and serve immediately.
-

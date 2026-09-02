@@ -20,7 +20,7 @@ Ingredients
 - 4 tablespoon grapeseed oil
 - 2 tablespoon Red wine vinegar
 - 1 teaspoon grainy dijon mustard
-- 1 lb Dungeness crab meat
+- 1 pound (450 g) Dungeness crab meat
 
 Directions
 ----------
@@ -32,5 +32,6 @@ Directions
 
 Notes
 -----
+
 Carb count 7g per serving
 

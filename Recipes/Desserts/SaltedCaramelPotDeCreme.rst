@@ -1,16 +1,17 @@
 Salted Caramel Pot de Creme
 ===========================
 
-+-----------------------+-------------------+-------------------------+-------------+-------------------+
-| Prep Time: 10 minutes | Cook Time: 1 hour | Total Time: 1 1/2 hours | Temp: 175F | Yield: 4 servings  |
-+-----------------------+-------------------+-------------------------+-------------+-------------------+
++-----------------------+-------------------+-------------------------+-------------------+
+| Prep Time: 10 minutes | Cook Time: 1 hour | Total Time: 1 1/2 hours | Yield: 4 servings |
++-----------------------+-------------------+-------------------------+-------------------+
 
 Equipment
 ---------
-Sous-Vide (immersion circulator)
+Sous-Vide (immersion circulator) set to 175F
 
 Ingredients
 -----------
+
 - 6 large egg yolks
 - 1/2 cup white sugar
 - 1 1/3 cups heavy cream
@@ -32,6 +33,6 @@ Directions
 4. Strain to remove any lumps. Allow to rest at room temp 20 minutes, so
    that any bubbles in the mixture can rise to the top.
 5. Heat sous vide water bath to 175F / 80C.  Skim away any remaining
-   bubbles. Divide mixture among 6 sealable 4oz jars. Place jars into the
+   bubbles. Divide mixture among 6 sealable 4 ounce jars. Place jars into the
    sous vide bath and cook for one hour.
 6. Remove the jars and place in an ice bath to chill.

@@ -9,6 +9,7 @@ Source: `Tasty <https://tasty.co/recipe/pesto-chicken-garlic-knot-sliders>`__
 
 Ingredients
 -----------
+
 - 1 1/2 pounds (680g) pizza dough
 - 3 cups rotisserie chicken, shredded
 - 8 ounces (237ml) pesto, 1 jar
@@ -45,4 +46,3 @@ Directions
 10. Bake at 350F (180C) for an additional 10 minutes until the tops of the
     knots are golden brown and cheese is melted.
 11. Pull apart for individual sliders.
-

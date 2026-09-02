@@ -9,6 +9,7 @@ Source: `Salt Fat Acid Heat <https://www.saltfatacidheat.com/salt/soy-braised-sh
 
 Ingredients
 -----------
+
 - 5 pounds (2.26 kg) meaty short ribs on the bone, 2-3 inches thick
 - Salt
 - Neutral tasting oil, such as canola or grapeseed
@@ -25,6 +26,7 @@ Ingredients
 
 Directions
 ----------
+
 1. Prep the ribs the day before you want to cook. Season the meat lightly
    with salt and let it sit for 30 minutes. Keep in mind that the marinade
    consists mostly of soy sauce, which is salty, so use only about half as
@@ -56,6 +58,7 @@ Directions
 
 Making Dashi
 ------------
+
 1. Place water and 6" piece of kombu in a medium saucepan and set over
    medium-high heat. Just before the water comes to a boil, remove the kombu
    and discard. Add the a handful (1/2 cup) of dried bonito shavings and simmer
@@ -64,4 +67,3 @@ Making Dashi
    cup. You should have 1 1/3 cups (304 grams) dashi. If you do not, add water
    (pouring through the strainer holding the strained katsuobushi) to make the
    amount of liquid needed. Keep chilled in the fridge, use within a day or so.
-

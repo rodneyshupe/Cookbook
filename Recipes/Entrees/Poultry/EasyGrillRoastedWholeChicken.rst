@@ -7,13 +7,12 @@ Easy Grill-Roasted Whole Chicken
 
 Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/11725-easy-grill-roasted-whole-chicken>`__
 
-
 Ingredients
 -----------
 
 - 1 tablespoon kosher salt
 - 1/2 teaspoon pepper
-- 1 (3 1/2- to 4 1/2-pound) whole chicken, giblets discarded
+- 1 (3 1/2- to 4 1/2-pound / 1.6 to 2 kg) whole chicken, giblets discarded
 - 1 tablespoon vegetable oil
 - 1/2 - 1/4 cup wood chip
 
@@ -32,12 +31,12 @@ Directions
    burner. Set grate in place, turn all burners to high, cover, and heat
    grill until hot and wood chips are smoking, about 15 minutes. Turn
    primary burners (two outside burners) to medium-high and turn off
-   secondary (center) burner. (Adjust primary burners as needed to maintain
-   grill temperature between 400 and 425 degrees.)
+   secondary (centre) burner. (Adjust primary burners as needed to maintain
+   grill temperature between 400 and 425F.)
 4. Clean and oil cooking grate. Place chicken, breast side up with cavity
-   facing toward you, in center of grill, making sure chicken is centered
+   facing toward you, in centre of grill, making sure chicken is centred
    between hotter sides of grill. Cover (position lid vent over chicken if
-   using charcoal) and cook until breast registers 130 degrees, 45 to 55
+   using charcoal) and cook until breast registers 130F, 45 to 55
    minutes.
 5. Using long grill tongs, reach into cavity and carefully lift chicken by
    breast. Holding chicken over bowl or container, tilt chicken toward you
@@ -46,11 +45,10 @@ Directions
    covered, until back is deep golden brown, about 5 minutes. Using tongs,
    flip chicken breast side down; cover and continue to cook over hotter
    side of grill until breast is deep golden brown, about 5 minutes longer.
-   Using tongs, flip chicken breast side up and return it to center of
-   grill; take internal temperature of breast. If breast registers 155
-   degrees, transfer chicken to carving board. If breast registers less
-   than 155 degrees, cover and continue to cook in center of grill,
-   checking temperature every 2 minutes, until it registers 155 degrees, 2
+   Using tongs, flip chicken breast side up and return it to centre of
+   grill; take internal temperature of breast. If breast registers 155F,
+   transfer chicken to carving board. If breast registers less
+   than 155F, cover and continue to cook in centre of grill,
+   checking temperature every 2 minutes, until it registers 155F, 2
    to 10 minutes longer. Let chicken rest, uncovered, for 20 minutes. Carve
    chicken and serve.
-

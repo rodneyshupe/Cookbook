@@ -28,4 +28,4 @@ Directions
 2. In a large resealable plastic bag, combine ice and salt. Place small
    bag inside the bigger bag and shake vigorously, 7 to 10 minutes,
    until ice cream has hardened.
-3. Remove from bag and enjoy with your favorite ice cream toppings.
+3. Remove from bag and enjoy with your favourite ice cream toppings.

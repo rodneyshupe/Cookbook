@@ -8,17 +8,17 @@ Lamb Curry
 Ingredients
 -----------
 
--  2 1/2 pounds (1.1 kg) boneless lamb roast, trimmed and cut into 3/4 inch pieces
--  salt and ground black pepper
--  3 tablespoons vegetable oil
--  1 medium onion, chopped
--  4 medium garlic cloves, minced or pressed through a garlic press (about 1 1/2 tablespoons)
--  1 tablespoon ginger, minced
--  1 teaspoon Turmeric powder
--  2 tablespoon Garam Masala
--  1 teaspoon chilly powder
--  cilantro chopped
--  2 cups water
+- 2 1/2 pounds (1.1 kg) boneless lamb roast, trimmed and cut into 3/4 inch pieces
+- salt and ground black pepper
+- 3 tablespoons vegetable oil
+- 1 medium onion, chopped
+- 4 medium garlic cloves, minced or pressed through a garlic press (about 1 1/2 tablespoons)
+- 1 tablespoon ginger, minced
+- 1 teaspoon Turmeric powder
+- 2 tablespoon Garam Masala
+- 1 teaspoon chilly powder
+- cilantro chopped
+- 2 cups water
 
 Directions
 ----------
@@ -48,6 +48,6 @@ Directions
 
 Variations
 ----------
+
 Add 1 can of chickpeas and 1 additional cup of water 1 1/2 hours into
 cooking process.
-

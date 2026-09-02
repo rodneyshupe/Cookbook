@@ -8,9 +8,9 @@ Crab Cakes with Fresh Herb Provencale and Roasted Pepper Coulis
 Ingredients
 -----------
 
-- 12 oz crab meat
+- 12 ounces crab meat
 - 3 egg, lightly beaten
-- 4 1/4 oz bread crumbs
+- 4 1/4 ounces bread crumbs
 - 2/3 cups red pepper, roasted
 - 5 teaspoons basil, fresh, chopped
 - 5 teaspoons oregano, fresh, chopped

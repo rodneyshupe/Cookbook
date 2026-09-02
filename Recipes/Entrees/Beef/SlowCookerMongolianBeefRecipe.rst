@@ -18,7 +18,7 @@ Slow Cooker
 Ingredients
 -----------
 
-- 1 1/2 lbs flank steak cut into 1/4 inch thick slices 2 inches long.
+- 1 1/2 pounds (680 g) flank steak cut into 1/4 inch thick slices 2 inches long.
 - 1/4 cup cornstarch
 - 1 tablespoon vegetable oil
 - 3-4 cloves garlic, minced
@@ -44,4 +44,3 @@ Directions
    until steak is cooked and tender.
 5. Serve over white rice and garnished with green onions and sesame seeds
    if desired.
-

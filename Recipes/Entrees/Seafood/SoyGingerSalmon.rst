@@ -9,7 +9,7 @@ Source: `Food Network Kitchen <https://www.foodnetwork.com/recipes/food-network-
 
 Frozen salmon will cook very quickly and beautifully in the Instant Pot(R).
 We took advantage of the pressure-cooker function, which can infuse so much
-flavor, by adding savory ingredients like soy sauce and lime. Make note
+flavour, by adding savoury ingredients like soy sauce and lime. Make note
 that fattier, thicker fish fillets (preferably center cut) hold up to
 pressure cooking best.
 
@@ -26,7 +26,7 @@ Ingredients
 - 2 tablespoons sesame oil
 - 1 teaspoon finely grated peeled fresh ginger
 - 1/4 teaspoon freshly ground black pepper
-- 4 frozen skinless salmon fillets, preferably thick center-cut pieces (about 6 ounces each)
+- 4 frozen skinless salmon fillets, preferably thick center-cut pieces (about 6 ounces / 170 g each)
 - 2 tablespoons finely chopped scallions
 - 3 tablespoons cilantro leaves
 - Cooked rice, for serving

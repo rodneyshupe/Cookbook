@@ -9,6 +9,7 @@ Source: `Americas Test Kitchen <https://www.americastestkitchen.com/recipes/9459
 
 Ingredients
 -----------
+
 - 2 tablespoons extra-virgin olive oil
 - 1 teaspoon minced fresh rosemary
 - 1 garlic clove, minced
@@ -17,6 +18,7 @@ Ingredients
 
 Directions
 ----------
+
 1. Adjust oven rack to lowest position, place 12-inch cast-iron skillet on
    rack, and heat oven to 500F. Meanwhile, combine 1 tablespoon oil,
    rosemary, and garlic in bowl; set aside.
@@ -34,4 +36,3 @@ Directions
    registers 160F and thighs register 175F, about 10 minutes.
    Transfer chicken to carving board, tent loosely with aluminum foil, and
    let rest for 15 minutes. Carve chicken and serve.
-

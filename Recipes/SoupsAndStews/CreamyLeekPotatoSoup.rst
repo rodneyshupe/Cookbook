@@ -5,26 +5,26 @@ Creamy Leek-Potato Soup
 | Prep Time: 15 minutes | Cook Time: 1 hour | Yield: 4-6 servings |
 +-----------------------+-------------------+---------------------+
 
-Source: `Cooks Illustrated <https://www.cooksillustrated.com/recipes/5871-creamy-leek-potato-soup>`__
+Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/5871-creamy-leek-potato-soup>`__
 
 Ingredients
 -----------
 
--  4 medium leeks, white and light-green parts halved lengthwise,
-   washed, and sliced thin (about 4 cups), dark green parts halved,
-   washed, and cut into 2-inch pieces
--  2 cups low-sodium chicken broth
--  2 cups water
--  4 tablespoons (1/2 stick) unsalted butter
--  1 medium onion, chopped medium (about 1 cup)
--  Table salt
--  1 small russet potato (about 6 ounces), peeled, halved lengthwise,
-   and cut into 1/4-inch slices
--  1 bay leaf
--  1 (4-inch) sprig fresh thyme or tarragon
--  1 large slice high-quality sandwich bread slice, lightly toasted and
-   torn into 1/2-inch pieces (see note)
--  Ground black pepper
+- 4 medium leeks, white and light-green parts halved lengthwise,
+  washed, and sliced thin (about 4 cups), dark green parts halved,
+  washed, and cut into 2-inch pieces
+- 2 cups low-sodium chicken broth
+- 2 cups water
+- 4 tablespoons (1/2 stick) unsalted butter
+- 1 medium onion, chopped medium (about 1 cup)
+- Table salt
+- 1 small russet potato (about 6 ounces), peeled, halved lengthwise,
+  and cut into 1/4-inch slices
+- 1 bay leaf
+- 1 (4-inch) sprig fresh thyme or tarragon
+- 1 large slice high-quality sandwich bread slice, lightly toasted and
+  torn into 1/2-inch pieces (see note)
+- Ground black pepper
 
 Directions
 ----------

@@ -24,7 +24,7 @@ Ingredients
 - 1 1/2 teaspoons ground coriander
 - 1/2 teaspoon ground cumin
 - 1/4 teaspoon turmeric
-- 1 1/2 cups water (or vegetable broth for extra flavor)
+- 1 1/2 cups water (or vegetable broth for extra flavour)
 - 2 tablespoons heavy cream (optional)
 - Salt to taste
 - Fresh cilantro, chopped, for garnish (optional)
@@ -42,7 +42,7 @@ Directions
    turmeric. Cook for another minute, allowing the spices to release their
    fragrance.
 4. Add the chopped tomatoes (or tomato puree) and cook for 2-3 minutes,
-   until the tomatoes soften and become slightly caramelized.
+   until the tomatoes soften and become slightly caramelised.
 5. Add the rinsed red lentils and kidney beans, along with the water (or
    vegetable broth). Season with salt to taste.
 6. Close the Instant Pot lid and cook on high pressure for 5 minutes. Let
@@ -57,12 +57,12 @@ Directions
 9. Stir in the heavy cream, if using, and adjust the salt to taste.
 10. Serve hot, garnished with chopped fresh cilantro (optional).
 
-Tips
-----
+Notes
+-----
 
 - You can adjust the amount of red chili powder for your desired level of
   spice.
 - To make this recipe vegan, omit the butter or ghee and use coconut milk
   instead of heavy cream.
-- Leftovers of Dal Makhani taste even better the next day, as the flavors
+- Leftovers of Dal Makhani taste even better the next day, as the flavours
   develop further. So make a big batch and enjoy throughout the week!

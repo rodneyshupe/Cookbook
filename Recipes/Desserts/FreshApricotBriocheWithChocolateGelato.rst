@@ -8,13 +8,13 @@ Fresh Apricot Brioche with Chocolate Gelato
 Ingredients
 -----------
 
-- 2 lb Apricots, halved and stoned
+- 2 pounds Apricots, halved and stoned
 - 1 tablespoon Lemon juice
 - 1/3 cup caster sugar
 - 12 slice brioche, Sliced 1cm thick
 - 4 tablespoons butter, (soft) chopped
 - almonds, (flaked) roasted
-- mascarpone cream,  or Devonshire cream
+- mascarpone cream, or Devonshire cream
 - 1 cup chocolate gelato
 - 1 cup assorted wild berries
 

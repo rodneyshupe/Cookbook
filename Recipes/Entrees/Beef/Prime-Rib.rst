@@ -12,12 +12,12 @@ Sous-Vide (immersion circulator)
 Ingredients
 -----------
 
-- 3-pound bone-in beef ribeye roast
+- 3-pound (1.35 kg) bone-in beef ribeye roast
 - Kosher salt
 - 1 tablespoon black peppercorns, coarsely ground
 - 1 tablespoon green peppercorns, coarsely ground
 - 1 tablespoon pink peppercorns, coarsely ground
-- 1 tablespoons dried celery seeds
+- 1 tablespoon dried celery seeds
 - 2 tablespoons dried garlic powder
 - 4 sprigs fresh rosemary, finely minced
 - 1 quart beef stock (low-sodium)

@@ -9,7 +9,7 @@ Ingredients
 -----------
 - 1 avocado
 - 1/4 cup greek yogurt
-- 2 tablespoons milk 
+- 2 tablespoons milk
 - juice from half a lime.
 - 1-2 tablespoons cilantro chopped
 - salt and pepper

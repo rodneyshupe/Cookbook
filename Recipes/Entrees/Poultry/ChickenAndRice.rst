@@ -8,7 +8,7 @@ Chicken and Rice
 Ingredients
 -----------
 
-- 1 lb of chicken drumsticks
+- 1 pound (450 g) of chicken drumsticks
 - 1 tablespoon of salt
 - 1/2 teaspoon of cumin seeds
 - 1 teaspoon of whole peppercorn

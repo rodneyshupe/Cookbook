@@ -7,6 +7,7 @@ Tuscan Minestra Soup
 
 Ingredients
 -----------
+
 - 1 1/2 cups chicken stock, or vegetable stock
 - sea salt
 - fresh cracked pepper
@@ -27,6 +28,7 @@ Ingredients
 
 Directions
 ----------
+
 1. Cook pasta and put aside. In a soup pot add and heat the olive oil.
 2. Add onions , season and sear for 2 minutes, add garlic and sear for
    1 minute. Add celery, carrots, red peppers and sear for 1 minute,

@@ -12,13 +12,13 @@ Gua Bao like you will have in a night market in Taiwan!!
 Ingredients
 -----------
 
-- 2 lb pork belly or pork shoulder cut into 1-inch cubes
+- 2 pounds (900 g) pork belly or pork shoulder cut into 1-inch cubes
 - 1 small onion, chopped
 - 8 garlic cloves, chopped
 - 1/2 cup chicken stock
 - 2 tablespoons oyster sauce
 - 2 tablespoons hoisin sauce
-- 2 tablespoons dark soy sauce (dark in color no sweetness)
+- 2 tablespoons dark soy sauce (dark in colour no sweetness)
 - 2 tablespoons honey
 - 2 tablespoons shaoxing wine (substitute dry sherry or sake)
 - pinch Chinese 5 spice (optional)
