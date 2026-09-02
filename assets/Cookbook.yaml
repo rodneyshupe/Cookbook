@@ -16,7 +16,7 @@ pageTemplates:
   coverPage:
     frames:
     - [ 0cm, 33.34%, 100%, 33.34% ]
-    background: Cover.png
+    background: assets/Cover.png
     showHeader: false
     showFooter: false
     headerSeparator: false
