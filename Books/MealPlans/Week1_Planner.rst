@@ -49,6 +49,8 @@ Weekly Shopping List
 - Rice (for serving with Beef and Broccoli)
 - Sugar, salt, black pepper
 
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: ../../Recipes/Entrees/Pasta/CreamySausagePenne.rst
 
 .. include:: ../../includes/recipePageBreak.rst

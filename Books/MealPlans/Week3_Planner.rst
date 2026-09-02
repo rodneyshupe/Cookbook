@@ -52,6 +52,8 @@ Weekly Shopping List
 - Spices: Chipotle chili powder, garlic powder, paprika, ground cumin, red pepper flakes, salt, black pepper
 - Avocado cream (optional, for tacos)
 
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: ../../Recipes/Entrees/Pasta/OnePanSausageAndOrzo.rst
 
 .. include:: ../../includes/recipePageBreak.rst

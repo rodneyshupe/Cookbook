@@ -59,6 +59,8 @@ Weekly Shopping List
 - Naan bread or pita (for Greek Chicken)
 - Guacamole and hot sauce (optional, for serving)
 
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: ../../Recipes/Entrees/Pasta/SkilletBakedZiti.rst
 
 .. include:: ../../includes/recipePageBreak.rst

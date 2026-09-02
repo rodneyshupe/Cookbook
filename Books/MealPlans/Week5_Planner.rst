@@ -56,6 +56,8 @@ Weekly Shopping List
 - 1 disposable aluminum roasting pan (13x9-inch)
 - Spices: dried oregano, ground cumin, ground coriander, crushed red pepper flakes, smoked paprika, kosher salt, black pepper, flaky salt
 
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: ../../Recipes/Entrees/Pasta/VodkaPasta.rst
 
 .. include:: ../../includes/recipePageBreak.rst

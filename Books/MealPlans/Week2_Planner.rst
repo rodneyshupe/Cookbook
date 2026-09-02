@@ -53,6 +53,8 @@ Weekly Shopping List
 - Spices: Chili powder, ground cumin, smoked paprika, garlic powder, dried oregano, red pepper flakes, salt, black pepper
 - Salsa (optional, for serving)
 
+.. include:: ../../includes/recipePageBreak.rst
+
 .. include:: ../../Recipes/Entrees/Pasta/OnePanSausageGnocchi.rst
 
 .. include:: ../../includes/recipePageBreak.rst
