@@ -52,28 +52,28 @@ Weekly Shopping List
 
 Monday Dinner: One Pan Sausage Gnocchi
 --------------------------------------
-.. include:: ../Recipes/Entrees/Pasta/OnePanSausageGnocchi.rst
+.. include:: ../../Recipes/Entrees/Pasta/OnePanSausageGnocchi.rst
 
-.. include:: ../includes/recipePageBreak.rst
+.. include:: ../../includes/recipePageBreak.rst
 
 Tuesday Dinner: Chicken Tinga Tacos
 ------------------------------------
-.. include:: ../Recipes/Entrees/Poultry/ChickenTingaTacos.rst
+.. include:: ../../Recipes/Entrees/Poultry/ChickenTingaTacos.rst
 
-.. include:: ../includes/recipePageBreak.rst
+.. include:: ../../includes/recipePageBreak.rst
 
 Wednesday Dinner: Steak Fajitas
 --------------------------------
-.. include:: ../Recipes/Entrees/Beef/SteakFajitas.rst
+.. include:: ../../Recipes/Entrees/Beef/SteakFajitas.rst
 
-.. include:: ../includes/recipePageBreak.rst
+.. include:: ../../includes/recipePageBreak.rst
 
 Thursday Dinner: Chicken Lettuce Wraps
 ---------------------------------------
-.. include:: ../Recipes/Entrees/Poultry/ChickenLettuceWraps.rst
+.. include:: ../../Recipes/Entrees/Poultry/ChickenLettuceWraps.rst
 
-.. include:: ../includes/recipePageBreak.rst
+.. include:: ../../includes/recipePageBreak.rst
 
 Friday Dinner: Baked Gnocchi with Tomato and Basil
 ---------------------------------------------------
-.. include:: ../Recipes/Entrees/Veg/BakedGnocchiWithTomatoAndBasil.rst
+.. include:: ../../Recipes/Entrees/Veg/BakedGnocchiWithTomatoAndBasil.rst

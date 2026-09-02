@@ -58,28 +58,28 @@ Weekly Shopping List
 
 Monday Dinner: Skillet Baked Ziti
 ----------------------------------
-.. include:: ../Recipes/Entrees/Pasta/SkilletBakedZiti.rst
+.. include:: ../../Recipes/Entrees/Pasta/SkilletBakedZiti.rst
 
-.. include:: ../includes/recipePageBreak.rst
+.. include:: ../../includes/recipePageBreak.rst
 
 Tuesday Dinner: Black Bean Tacos
 ----------------------------------
-.. include:: ../Recipes/Entrees/Veg/BlackBeanTacos.rst
+.. include:: ../../Recipes/Entrees/Veg/BlackBeanTacos.rst
 
-.. include:: ../includes/recipePageBreak.rst
+.. include:: ../../includes/recipePageBreak.rst
 
 Wednesday Dinner: Spiced Pork Lettuce Wraps
 --------------------------------------------
-.. include:: ../Recipes/Entrees/Pork/SpicedPorkLettuceWraps.rst
+.. include:: ../../Recipes/Entrees/Pork/SpicedPorkLettuceWraps.rst
 
-.. include:: ../includes/recipePageBreak.rst
+.. include:: ../../includes/recipePageBreak.rst
 
 Thursday Dinner: Stir-Fried Shrimp and Asparagus in Garlic Sauce
 -----------------------------------------------------------------
-.. include:: ../Recipes/Entrees/Seafood/StirFriedShrimpAndAsparagusInGarlicSauce.rst
+.. include:: ../../Recipes/Entrees/Seafood/StirFriedShrimpAndAsparagusInGarlicSauce.rst
 
-.. include:: ../includes/recipePageBreak.rst
+.. include:: ../../includes/recipePageBreak.rst
 
 Friday Dinner: Greek Chicken
 -----------------------------
-.. include:: ../Recipes/Entrees/Poultry/GreekChicken.rst
+.. include:: ../../Recipes/Entrees/Poultry/GreekChicken.rst

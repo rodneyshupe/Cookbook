@@ -48,28 +48,28 @@ Weekly Shopping List
 
 Monday Dinner: Creamy Sausage Penne
 -----------------------------------
-.. include:: ../Recipes/Entrees/Pasta/CreamySausagePenne.rst
+.. include:: ../../Recipes/Entrees/Pasta/CreamySausagePenne.rst
 
-.. include:: ../includes/recipePageBreak.rst
+.. include:: ../../includes/recipePageBreak.rst
 
 Tuesday Dinner: Fish Tacos
 ---------------------------
-.. include:: ../Recipes/Entrees/Seafood/FishTacos.rst
+.. include:: ../../Recipes/Entrees/Seafood/FishTacos.rst
 
-.. include:: ../includes/recipePageBreak.rst
+.. include:: ../../includes/recipePageBreak.rst
 
 Wednesday Dinner: Beef and Broccoli
 ------------------------------------
-.. include:: ../Recipes/Entrees/Beef/BeefAndBroccoli.rst
+.. include:: ../../Recipes/Entrees/Beef/BeefAndBroccoli.rst
 
-.. include:: ../includes/recipePageBreak.rst
+.. include:: ../../includes/recipePageBreak.rst
 
 Thursday Dinner: Honey Sriracha Salmon
 --------------------------------------
-.. include:: ../Recipes/Entrees/Seafood/HoneySrirachaSalmon.rst
+.. include:: ../../Recipes/Entrees/Seafood/HoneySrirachaSalmon.rst
 
-.. include:: ../includes/recipePageBreak.rst
+.. include:: ../../includes/recipePageBreak.rst
 
 Friday Dinner: Chickpea Curry
 ------------------------------
-.. include:: ../Recipes/Entrees/Veg/ChickpeaCurry.rst
+.. include:: ../../Recipes/Entrees/Veg/ChickpeaCurry.rst

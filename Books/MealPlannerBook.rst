@@ -100,20 +100,20 @@ A 5-Week Curated Meal Planner, Shopping Guide, and No-Repeat Modular Recipes
 
    <p style="page-break-before: always"/>
 
-.. include:: ../MealPlans/Week1_Planner.rst
+.. include:: MealPlans/Week1_Planner.rst
 
 .. include:: ../includes/recipePageBreak.rst
 
-.. include:: ../MealPlans/Week2_Planner.rst
+.. include:: MealPlans/Week2_Planner.rst
 
 .. include:: ../includes/recipePageBreak.rst
 
-.. include:: ../MealPlans/Week3_Planner.rst
+.. include:: MealPlans/Week3_Planner.rst
 
 .. include:: ../includes/recipePageBreak.rst
 
-.. include:: ../MealPlans/Week4_Planner.rst
+.. include:: MealPlans/Week4_Planner.rst
 
 .. include:: ../includes/recipePageBreak.rst
 
-.. include:: ../MealPlans/Week5_Planner.rst
+.. include:: MealPlans/Week5_Planner.rst
