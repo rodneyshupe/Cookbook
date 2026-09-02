@@ -7,6 +7,7 @@ Weekly Shopping List
 --------------------
 
 **Produce:**
+
 - 1 head fresh garlic
 - 1 bulb fresh ginger root
 - 3 medium onions (red and/or yellow)
@@ -20,6 +21,7 @@ Weekly Shopping List
 - 3 fresh limes (for fajitas)
 
 **Meat, Seafood, & Dairy:**
+
 - 1/2 lb hot Italian sausage
 - 2 lb boneless skinless chicken thighs (for Chicken Tinga Tacos)
 - 1 lb ground chicken (for Chicken Lettuce Wraps)
@@ -31,6 +33,7 @@ Weekly Shopping List
 - Sour cream and/or Mexican Crema (for fajitas)
 
 **Pantry & Spices:**
+
 - 2 packages (16 oz each) vacuum-packet gnocchi
 - 1 can (14 oz) crushed tomatoes (for Monday gnocchi)
 - 1 can (28 oz) crushed tomatoes (for Friday gnocchi)

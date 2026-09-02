@@ -7,6 +7,7 @@ Weekly Shopping List
 --------------------
 
 **Produce:**
+
 - 1 head fresh garlic
 - 1 bulb fresh ginger root
 - 1 large yellow onion (for Beef Birria)
@@ -20,6 +21,7 @@ Weekly Shopping List
 - Fresno peppers (for serving garnish)
 
 **Meat, Seafood, & Dairy:**
+
 - 3 lbs boneless short ribs (for Beef Birria Tacos)
 - 1 lb pork tenderloin (trimmed)
 - 12 oz ling cod (2 x 6 oz fillets)
@@ -31,6 +33,7 @@ Weekly Shopping List
 - 1 cup shredded Monterey Jack cheese (for Birria tacos)
 
 **Pantry & Spices:**
+
 - 1 lb rigatoni or penne pasta (for Vodka Pasta)
 - 8 oz rice noodles (for Red Curry Noodles)
 - Corn tortillas (for Birria tacos)

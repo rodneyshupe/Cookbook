@@ -7,6 +7,7 @@ Weekly Shopping List
 --------------------
 
 **Produce:**
+
 - 1 head fresh garlic
 - 1 bulb fresh ginger root
 - 2 yellow or white onions
@@ -27,6 +28,7 @@ Weekly Shopping List
 - 2 fresh lemons (for Greek Chicken marinade)
 
 **Meat, Seafood, & Dairy:**
+
 - 2 chicken breasts (for Greek Chicken)
 - 1 lb ground pork (for pork wraps)
 - 1 lb large shrimp (peeled, deveined, tails removed)
@@ -38,6 +40,7 @@ Weekly Shopping List
 - Mayonnaise and Greek yogurt (for Greek Chicken mayo-yogurt sauce)
 
 **Pantry & Spices:**
+
 - 12 oz Ziti pasta (or Penne)
 - 10 small flour or corn tortillas (for black bean tacos)
 - 1 can (28 oz) crushed tomatoes (for ziti)

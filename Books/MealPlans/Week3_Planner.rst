@@ -7,6 +7,7 @@ Weekly Shopping List
 --------------------
 
 **Produce:**
+
 - 1 head fresh garlic
 - 1 bulb fresh ginger root
 - 2 yellow or white onions
@@ -23,6 +24,7 @@ Weekly Shopping List
 - Fresh or dried oregano & rosemary
 
 **Meat, Seafood, & Dairy:**
+
 - 1 lb Italian sausage
 - 4 chicken thighs (approx. 1 lb)
 - 1 1/2 lbs flank steak
@@ -32,6 +34,7 @@ Weekly Shopping List
 - Shredded cheese (Jack/Cheddar mix)
 
 **Pantry & Spices:**
+
 - Orzo pasta (at least 1 cup needed)
 - 1 package (16 oz) vacuum-packet gnocchi
 - 10 small tortillas (flour or corn)

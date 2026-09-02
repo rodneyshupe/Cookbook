@@ -7,6 +7,7 @@ Weekly Shopping List
 --------------------
 
 **Produce:**
+
 - 2 bulbs fresh garlic
 - 1 bulb fresh ginger root
 - 1 large head fresh broccoli (for Beef and Broccoli)
@@ -16,6 +17,7 @@ Weekly Shopping List
 - 1/2 head fresh red cabbage, shredded (for Fish Tacos)
 
 **Meat, Seafood, & Dairy:**
+
 - 2/3 lb Italian sausage
 - 1 package raw bacon (at least 4 slices needed)
 - 1 lb skirt steak, sliced thin against the grain (for Beef and Broccoli)
@@ -26,6 +28,7 @@ Weekly Shopping List
 - 1 wedge or container Parmesan cheese
 
 **Pantry & Spices:**
+
 - Penne pasta (at least 2/3 lb needed)
 - 8 small flour tortillas (for Fish Tacos)
 - 2 cans (15 oz each) chickpeas
