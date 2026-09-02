@@ -53,30 +53,20 @@ Weekly Shopping List
 - 1 disposable aluminum roasting pan (13x9-inch)
 - Spices: dried oregano, ground cumin, ground coriander, crushed red pepper flakes, smoked paprika, kosher salt, black pepper, flaky salt
 
-Monday Dinner: Spicy Vodka Pasta
----------------------------------
 .. include:: ../../Recipes/Entrees/Pasta/VodkaPasta.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
-Tuesday Dinner: Beef Birria Tacos
-----------------------------------
 .. include:: ../../Recipes/Entrees/Beef/BeefBirriaTacos.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
-Wednesday Dinner: Broiled Pork Tenderloin for Two
---------------------------------------------------
 .. include:: ../../Recipes/Entrees/Pork/BroiledPorkTenderloinForTwo.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
-Thursday Dinner: Prosciutto Wrapped Lingcod
---------------------------------------------
 .. include:: ../../Recipes/Entrees/Seafood/ProsciuttoWrappedLingcod.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
-Friday Dinner: 20 Minute Red Curry Noodles with Fried Coconut Garlic
----------------------------------------------------------------------
 .. include:: ../../Recipes/Entrees/Veg/20MinuteRedCurryNoodlesWithFriedCoconutGarlic.rst

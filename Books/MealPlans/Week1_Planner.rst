@@ -46,30 +46,20 @@ Weekly Shopping List
 - Rice (for serving with Beef and Broccoli)
 - Sugar, salt, black pepper
 
-Monday Dinner: Creamy Sausage Penne
------------------------------------
 .. include:: ../../Recipes/Entrees/Pasta/CreamySausagePenne.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
-Tuesday Dinner: Fish Tacos
----------------------------
 .. include:: ../../Recipes/Entrees/Seafood/FishTacos.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
-Wednesday Dinner: Beef and Broccoli
-------------------------------------
 .. include:: ../../Recipes/Entrees/Beef/BeefAndBroccoli.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
-Thursday Dinner: Honey Sriracha Salmon
---------------------------------------
 .. include:: ../../Recipes/Entrees/Seafood/HoneySrirachaSalmon.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
-Friday Dinner: Chickpea Curry
-------------------------------
 .. include:: ../../Recipes/Entrees/Veg/ChickpeaCurry.rst

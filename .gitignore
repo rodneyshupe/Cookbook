@@ -7,3 +7,5 @@ rst2pdf_default_styles.style
 *.tmp
 temp_substitutions.rst
 .python-version
+__pycache__/
+*.pyc

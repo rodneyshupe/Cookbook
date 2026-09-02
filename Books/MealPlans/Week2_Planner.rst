@@ -50,30 +50,20 @@ Weekly Shopping List
 - Spices: Chili powder, ground cumin, smoked paprika, garlic powder, dried oregano, red pepper flakes, salt, black pepper
 - Salsa (optional, for serving)
 
-Monday Dinner: One Pan Sausage Gnocchi
---------------------------------------
 .. include:: ../../Recipes/Entrees/Pasta/OnePanSausageGnocchi.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
-Tuesday Dinner: Chicken Tinga Tacos
-------------------------------------
 .. include:: ../../Recipes/Entrees/Poultry/ChickenTingaTacos.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
-Wednesday Dinner: Steak Fajitas
---------------------------------
 .. include:: ../../Recipes/Entrees/Beef/SteakFajitas.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
-Thursday Dinner: Chicken Lettuce Wraps
----------------------------------------
 .. include:: ../../Recipes/Entrees/Poultry/ChickenLettuceWraps.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
-Friday Dinner: Baked Gnocchi with Tomato and Basil
----------------------------------------------------
 .. include:: ../../Recipes/Entrees/Veg/BakedGnocchiWithTomatoAndBasil.rst

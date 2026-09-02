@@ -112,6 +112,17 @@ jobs:
           "${{ steps.cover.outputs.cover }}" > cover_overlay.yaml
         echo "--- cover_overlay.yaml ---"; cat cover_overlay.yaml
 
+    - name: Select per-book rst2pdf extensions
+      id: ext
+      run: |
+        # The MealPlanner uses a transform that nests each recipe under its
+        # week in the ToC. Other books don't need it.
+        if [ "${{ matrix.book }}" = "MealPlannerBook" ]; then
+          echo "extra=--extension-module=scripts/mealplanner_toc.py" >> "$GITHUB_OUTPUT"
+        else
+          echo "extra=" >> "$GITHUB_OUTPUT"
+        fi
+
     - name: Build pdf
       run: |
         rm -fR *.build_temp
@@ -125,7 +136,8 @@ jobs:
           --stylesheets=${{ steps.style.outputs.sheet }},cover_overlay.yaml \
           --output="${{ matrix.book }}.pdf" \
           --strip-elements-with-class=handout \
-          --extension-module=preprocess
+          --extension-module=preprocess \
+          ${{ steps.ext.outputs.extra }}
         rm -fR *.build_temp
 
     - name: Save Published pdf files

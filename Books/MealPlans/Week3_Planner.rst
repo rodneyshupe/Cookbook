@@ -49,30 +49,20 @@ Weekly Shopping List
 - Spices: Chipotle chili powder, garlic powder, paprika, ground cumin, red pepper flakes, salt, black pepper
 - Avocado cream (optional, for tacos)
 
-Monday Dinner: One Pan Sausage and Orzo
----------------------------------------
 .. include:: ../../Recipes/Entrees/Pasta/OnePanSausageAndOrzo.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
-Tuesday Dinner: Chipotle Chicken Tacos
---------------------------------------
 .. include:: ../../Recipes/Entrees/Poultry/ChipotleChickenTacos.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
-Wednesday Dinner: Slow Cooker Mongolian Beef
---------------------------------------------
 .. include:: ../../Recipes/Entrees/Beef/SlowCookerMongolianBeefRecipe.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
-Thursday Dinner: Tuscan Shrimp and Beans
-----------------------------------------
 .. include:: ../../Recipes/Entrees/Seafood/TuscanShrimpAndBeans.rst
 
 .. include:: ../../includes/recipePageBreak.rst
 
-Friday Dinner: Mediterranean Sheet Pan Gnocchi
-----------------------------------------------
 .. include:: ../../Recipes/Entrees/Veg/SheetPanGnocchi.rst

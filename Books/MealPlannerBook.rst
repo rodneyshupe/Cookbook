@@ -100,7 +100,7 @@ A 5-Week Curated Meal Planner, Shopping Guide, and No-Repeat Modular Recipes
    <p style="page-break-before: always"/>
 
 .. contents:: Table of Contents
-   :depth: 1
+   :depth: 2
 
 .. raw:: pdf
 

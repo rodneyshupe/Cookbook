@@ -106,6 +106,9 @@ def book_deps(book):
     deps.add("assets/%s.css" % book)
     # optional per-book epub cover override
     deps.add("assets/%s.Cover.png" % book)
+    # the MealPlanner PDF is built with a custom rst2pdf ToC extension
+    if book == "MealPlannerBook":
+        deps.add("scripts/mealplanner_toc.py")
     return deps
 
 
