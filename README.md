@@ -2,7 +2,7 @@
 
 This is a collection of recipes containing the favorites of Rodney Shupe and family
 
-<img src="assets/Cover.png" alt="Cover" width="400"/>
+<img src="assets/CollectionCover.jpg" alt="The Messy Chef cookbook collection" width="400"/>
 
 Releases are created automatically via github actions.
 
