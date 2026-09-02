@@ -134,6 +134,38 @@ Ingredients
   metric equivalents the source gives in parentheses: ``1 1/2 pounds (750 g)``.
 - Preparation notes follow the item, comma-separated:
   ``2 cloves garlic, minced``.
+- **Metric equivalents for shopping (canned goods and meat weights)**: to make
+  shopping easier, add a metric equivalent in parentheses immediately after the
+  imperial measure for two cases:
+
+  - **Canned/packaged goods sized by weight or volume** — put the metric
+    equivalent right after the size, before the container word:
+
+    - ``1 (15 ounce) can chickpeas`` → ``1 (15 ounce / 444 ml) can chickpeas``
+    - ``1 (14.5 ounce) can diced tomatoes`` →
+      ``1 (14.5 ounce / 429 ml) can diced tomatoes``
+    - ``28 ounce can crushed tomatoes`` →
+      ``28 ounce (828 ml) can crushed tomatoes``
+
+    For consistency, convert all can/jar/bottle/package ounce sizes by volume:
+    1 (fluid) ounce ≈ 29.6 ml, rounded to a whole number. (US canned goods are
+    often labelled by net weight, but converting uniformly by volume keeps the
+    whole cookbook consistent for shopping.) Use ``g`` only when a package is
+    explicitly labelled by weight (1 ounce ≈ 28.35 g), e.g. a block of cheese
+    or frozen spinach.
+
+  - **Meat and other main-protein weights** — put the metric weight in grams
+    (or kg) right after the pounds, before the ingredient name:
+
+    - ``1 pound ground beef`` → ``1 pound (450 g) ground beef``
+    - ``2 pounds boneless beef chuck`` → ``2 pounds (900 g) boneless beef chuck``
+    - ``1 1/2 pounds chicken thighs`` → ``1 1/2 pounds (680 g) chicken thighs``
+
+    Round to a sensible figure (nearest 10 g, or nearest 50 g for larger cuts);
+    1 pound ≈ 454 g but ``450 g`` is the conventional rounded value used here.
+
+  Only add the equivalent when it isn't already present. Leave a single space
+  before the parenthesis and keep the existing quantity/unit unchanged.
 - Sub-group multi-part recipes with a caret (``^``) sub-heading whose
   underline matches the heading length:
 
