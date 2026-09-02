@@ -196,7 +196,7 @@ jobs:
       id: meta
       run: |
         case "${{ matrix.book }}" in
-          RodneyFavoriteRecipes)
+          TheMessyChef)
             echo 'title=Recipes From the Messy Chef' >> "$GITHUB_OUTPUT"
             echo 'comments=A collection of recipes containing the favorites of Rodney Shupe and family.' >> "$GITHUB_OUTPUT" ;;
           AirFryerRecipes)

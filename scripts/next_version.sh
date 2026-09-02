@@ -5,8 +5,9 @@
 #
 # Bump rule: take the highest existing MAJOR.MINOR for the book and increment
 # MINOR. If the book has no tag yet, seed it:
-#   - RodneyFavoriteRecipes continues the legacy global series: seed 3.65
-#     (so its first new version becomes 3.66).
+#   - TheMessyChef (formerly RodneyFavoriteRecipes) was on the legacy global
+#     series at v3.65; the rename bumps the major to 4, so its first new
+#     version becomes 4.0.
 #   - Every other book starts at 1.0.
 #
 # The computation is deterministic for a given tag state, so every job in a
@@ -28,9 +29,10 @@ latest="$(git tag --list "${BOOK}-v*" \
 
 if [ -z "${latest}" ]; then
   # No tag yet: seed.
-  if [ "${BOOK}" = "RodneyFavoriteRecipes" ]; then
-    # Legacy global series was at v3.65; continue from there.
-    echo "3.66"
+  if [ "${BOOK}" = "TheMessyChef" ]; then
+    # Legacy series (formerly RodneyFavoriteRecipes) was at v3.65; the rename
+    # bumps the major version to 4.
+    echo "4.0"
   else
     echo "1.0"
   fi
