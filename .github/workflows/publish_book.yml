@@ -221,6 +221,15 @@ jobs:
       with:
         name: published-files-html-${{ matrix.book }}
 
+    - name: Select cover (per-book override or shared)
+      id: cover
+      run: |
+        if [ -f "assets/${{ matrix.book }}.Cover.png" ]; then
+          echo "cover=assets/${{ matrix.book }}.Cover.png" >> "$GITHUB_OUTPUT"
+        else
+          echo "cover=assets/Cover.png" >> "$GITHUB_OUTPUT"
+        fi
+
     - name: Build epub
       run: |
         ebook-convert "${{ matrix.book }}.html" "${{ matrix.book }}.epub" \
@@ -230,7 +239,7 @@ jobs:
           --language English \
           --comments "${{ steps.meta.outputs.comments }}" \
           --tags Cookbook,Cooking,Recipes \
-          --cover assets/Cover.png \
+          --cover ${{ steps.cover.outputs.cover }} \
           --max-toc-links 29 \
           --embed-all-fonts > /dev/null
 

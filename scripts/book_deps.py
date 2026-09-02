@@ -104,6 +104,8 @@ def book_deps(book):
     # optional per-book style overrides
     deps.add("assets/%s.yaml" % book)
     deps.add("assets/%s.css" % book)
+    # optional per-book epub cover override
+    deps.add("assets/%s.Cover.png" % book)
     return deps
 
 
