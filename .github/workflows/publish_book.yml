@@ -145,7 +145,7 @@ jobs:
     - name: Build pdf
       run: |
         rm -fR *.build_temp
-        rst2pdf ${{ matrix.book }}.rst \
+        rst2pdf Books/${{ matrix.book }}.rst \
           --break-level=1 \
           --section-header-depth=1 \
           --fit-background-mode=scale \
@@ -209,7 +209,7 @@ jobs:
             --stylesheet-inline=Cookbook.css \
             --strip-elements-with-class=handout \
             --strip-comments \
-            ${{ matrix.book }}.html.rst \
+            Books/${{ matrix.book }}.html.rst \
             "${{ matrix.book }}.html"
         rm -fR *.build_temp
 

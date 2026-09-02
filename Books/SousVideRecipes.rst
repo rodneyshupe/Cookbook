@@ -5,7 +5,7 @@
 
     SetPageCounter 0 lowerroman
 
-.. include:: temp_substitutions.rst
+.. include:: ../temp_substitutions.rst
 
 .. header::
 
@@ -123,59 +123,59 @@ and texture.
 
    <p style="page-break-before: always"/>
 
-.. include:: Recipes/Entrees/Beef/Brisket.rst
+.. include:: ../Recipes/Entrees/Beef/Brisket.rst
 
-.. include:: includes/recipePageBreak.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/Entrees/Beef/Eye-of-Round-Roast.rst
+.. include:: ../Recipes/Entrees/Beef/Eye-of-Round-Roast.rst
 
-.. include:: includes/recipePageBreak.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/Entrees/Beef/Prime-Rib.rst
+.. include:: ../Recipes/Entrees/Beef/Prime-Rib.rst
 
-.. include:: includes/recipePageBreak.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/Entrees/Beef/French-Beef-Dip.rst
+.. include:: ../Recipes/Entrees/Beef/French-Beef-Dip.rst
 
-.. include:: includes/recipePageBreak.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/Sides/Glazed-Carrots.rst
+.. include:: ../Recipes/Sides/Glazed-Carrots.rst
 
-.. include:: includes/recipePageBreak.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/Sides/Green-Beans-with-Lemon.rst
+.. include:: ../Recipes/Sides/Green-Beans-with-Lemon.rst
 
-.. include:: includes/recipePageBreak.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/Sides/Garlic-Smashed-Potatoes.rst
+.. include:: ../Recipes/Sides/Garlic-Smashed-Potatoes.rst
 
 ----
 
-.. include:: Recipes/Sides/Self-Buttering-Corn-on-the-Cob.rst
+.. include:: ../Recipes/Sides/Self-Buttering-Corn-on-the-Cob.rst
 
-.. include:: includes/recipePageBreak.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/Sides/Butternut-Squash-Puree.rst
+.. include:: ../Recipes/Sides/Butternut-Squash-Puree.rst
 
-.. include:: includes/recipePageBreak.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/Desserts/Creme-Brulee.rst
+.. include:: ../Recipes/Desserts/Creme-Brulee.rst
 
-.. include:: includes/recipePageBreak.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/Desserts/PotDeCreme.rst
+.. include:: ../Recipes/Desserts/PotDeCreme.rst
 
-.. include:: includes/recipePageBreak.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/Desserts/LemonPotDeCreme.rst
+.. include:: ../Recipes/Desserts/LemonPotDeCreme.rst
 
-.. include:: includes/recipePageBreak.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/Desserts/ChocolatePotDeCreme.rst
+.. include:: ../Recipes/Desserts/ChocolatePotDeCreme.rst
 
-.. include:: includes/recipePageBreak.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/Desserts/SaltedCaramelPotDeCreme.rst
+.. include:: ../Recipes/Desserts/SaltedCaramelPotDeCreme.rst
 
 .. raw:: pdf
 
@@ -200,8 +200,8 @@ convenience.
 
    <p style="page-break-before: always"/>
 
-.. include:: Recipes/Sauces/AllPurposeGravy.rst
+.. include:: ../Recipes/Sauces/AllPurposeGravy.rst
 
-.. include:: includes/recipePageBreak.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/Baking/Breads/PopOvers.rst
+.. include:: ../Recipes/Baking/Breads/PopOvers.rst

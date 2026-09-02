@@ -1,11 +1,11 @@
 ..
-   Recipes from the Messy Chef: a collection of recipes containing the favourites of Rodney Shupe and family
+   Weekly Meal Planner Book: A 5-Week Curated Meal Planner and Shopping Guide
 
 .. raw:: pdf
 
     SetPageCounter 0 lowerroman
 
-.. include:: temp_substitutions.rst
+.. include:: ../temp_substitutions.rst
 
 .. header::
 
@@ -58,27 +58,18 @@
 
 |
 
-.. raw:: pdf
-
-   PageBreak cutePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
-
-|
-
 |
 
 |
 
 .. class:: title center
 
-Recipes from the Messy Chef
+Weekly Meal Planner
+===================
 
 .. class:: center
 
-a collection of recipes containing the favourites of Rodney Shupe and family
+A 5-Week Curated Meal Planner, Shopping Guide, and No-Repeat Modular Recipes
 
 |
 
@@ -105,59 +96,24 @@ a collection of recipes containing the favourites of Rodney Shupe and family
 
    SetPageCounter 1 arabic
 
-.. include:: Recipes/Appetizers/Recipes.rst
-.. include:: Recipes/Canapes-Tapas/Recipes.rst
-.. include:: Recipes/Dips-Salsa-Chutneys/Recipes.rst
-.. include:: Recipes/Sauces/Recipes.rst
+.. raw:: html
 
-.. include:: Recipes/Salads/Recipes.rst
+   <p style="page-break-before: always"/>
 
-.. include:: Recipes/SoupsAndStews/Recipes.rst
+.. include:: ../MealPlans/Week1_Planner.rst
 
-.. include:: Recipes/Sandwiches/Recipes.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/Entrees/Poultry/Recipes.rst
-.. include:: Recipes/Entrees/Beef/Recipes.rst
-.. include:: Recipes/Entrees/Lamb/Recipes.rst
-.. include:: Recipes/Entrees/Pork/Recipes.rst
-.. include:: Recipes/Entrees/Seafood/Recipes.rst
-.. include:: Recipes/Entrees/Pasta/Recipes.rst
-.. include:: Recipes/Entrees/Veg/Recipes.rst
-.. include:: Recipes/Entrees/Misc/Recipes.rst
+.. include:: ../MealPlans/Week2_Planner.rst
 
-.. include:: Recipes/Sides/Recipes.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/SmokedAndCured/Recipes.rst
+.. include:: ../MealPlans/Week3_Planner.rst
 
-.. include:: Recipes/Breakfast/Recipes.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/Baking/Breads/Recipes.rst
-.. include:: Recipes/Baking/Cookies/Recipes.rst
+.. include:: ../MealPlans/Week4_Planner.rst
 
-.. include:: Recipes/Desserts/Recipes.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/PicklesAndPreserves/Recipes.rst
-
-.. include:: Recipes/Barbecue/SpiceRubs/Recipes.rst
-
-.. include:: Recipes/Barbecue/Sauces/Recipes.rst
-
-.. include:: Recipes/Jerky/Recipes.rst
-
-.. include:: Appendix/A_MealPlans.rst
-
-.. include:: Appendix/B_Conversions-Substitutions.rst
-
-.. include:: Appendix/C_Maintenance.rst
-
-.. include:: Appendix/D_MeatAndPoultryTemperatureGuide.rst
-
-.. include:: Appendix/E_MeatCuringSalts.rst
-
-.. include:: Appendix/F_PantryItems.rst
-
-.. include:: Appendix/G_RecipesUnderDevelopment.rst
-.. include:: Appendix/G_RecipesToTry.rst
-
-.. This is commented out for now.
-   include:: Appendix/H_UrbanFareRecipes.rst
+.. include:: ../MealPlans/Week5_Planner.rst

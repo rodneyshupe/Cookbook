@@ -5,7 +5,7 @@
 
     SetPageCounter 0 lowerroman
 
-.. include:: temp_substitutions.rst
+.. include:: ../temp_substitutions.rst
 
 .. header::
 
@@ -122,35 +122,35 @@ reheating leftovers without sogginess.
 
    <p style="page-break-before: always"/>
 
-.. include:: Recipes/Sides/AirFryerFrenchFries.rst
+.. include:: ../Recipes/Sides/AirFryerFrenchFries.rst
 
-.. include:: includes/recipePageBreak.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/Sides/AirFryerBakedPotatoes.rst
+.. include:: ../Recipes/Sides/AirFryerBakedPotatoes.rst
 
 ----
 
-.. include:: Recipes/Sides/AirFryerTwiceBakedPotatoes.rst
+.. include:: ../Recipes/Sides/AirFryerTwiceBakedPotatoes.rst
 
-.. include:: includes/recipePageBreak.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/Breakfast/AirFryerBacon.rst
+.. include:: ../Recipes/Breakfast/AirFryerBacon.rst
 
-.. include:: includes/recipePageBreak.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/Appetizers/ChickenWings.rst
+.. include:: ../Recipes/Appetizers/ChickenWings.rst
 
-.. include:: includes/recipePageBreak.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/Appetizers/AirFryerChickenTaquitos.rst
+.. include:: ../Recipes/Appetizers/AirFryerChickenTaquitos.rst
 
-.. include:: includes/recipePageBreak.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/Entrees/Seafood/AirFryerSalmon.rst
+.. include:: ../Recipes/Entrees/Seafood/AirFryerSalmon.rst
 
-.. include:: includes/recipePageBreak.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/Desserts/AirFryerDonuts.rst
+.. include:: ../Recipes/Desserts/AirFryerDonuts.rst
 
 .. raw:: pdf
 
@@ -175,24 +175,24 @@ convenience.
 
    <p style="page-break-before: always"/>
 
-.. include:: Recipes/Barbecue/SpiceRubs/ChickenWingSeasoning.rst
+.. include:: ../Recipes/Barbecue/SpiceRubs/ChickenWingSeasoning.rst
 
-.. include:: includes/recipePageBreak.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/Sauces/BuffaloSauce.rst
+.. include:: ../Recipes/Sauces/BuffaloSauce.rst
 
-.. include:: includes/recipePageBreak.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/Sauces/GochujangWingSauce.rst
+.. include:: ../Recipes/Sauces/GochujangWingSauce.rst
 
-.. include:: includes/recipePageBreak.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/Sauces/HoisinWingSauce.rst
+.. include:: ../Recipes/Sauces/HoisinWingSauce.rst
 
-.. include:: includes/recipePageBreak.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/Sauces/HoneyGarlicWingSauce.rst
+.. include:: ../Recipes/Sauces/HoneyGarlicWingSauce.rst
 
-.. include:: includes/recipePageBreak.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/Sauces/InfinateSauce.rst
+.. include:: ../Recipes/Sauces/InfinateSauce.rst

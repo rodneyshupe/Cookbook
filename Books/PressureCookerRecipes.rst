@@ -5,7 +5,7 @@
 
     SetPageCounter 0 lowerroman
 
-.. include:: temp_substitutions.rst
+.. include:: ../temp_substitutions.rst
 
 .. header::
 
@@ -123,40 +123,40 @@ readily to a stovetop model.
 
    <p style="page-break-before: always"/>
 
-.. include:: Recipes/SoupsAndStews/Ramen-Broth.rst
+.. include:: ../Recipes/SoupsAndStews/Ramen-Broth.rst
 
-.. include:: includes/recipePageBreak.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/Entrees/Pork/Glazed-and-Grilled-Ribs.rst
+.. include:: ../Recipes/Entrees/Pork/Glazed-and-Grilled-Ribs.rst
 
-.. include:: includes/recipePageBreak.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/Entrees/Poultry/ChickenBlackBeanandRiceBurritoBowls.rst
+.. include:: ../Recipes/Entrees/Poultry/ChickenBlackBeanandRiceBurritoBowls.rst
 
-.. include:: includes/recipePageBreak.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/SoupsAndStews/PressureCookerChili.rst
+.. include:: ../Recipes/SoupsAndStews/PressureCookerChili.rst
 
-.. include:: includes/recipePageBreak.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/Entrees/Misc/PressureCookerJambalaya.rst
+.. include:: ../Recipes/Entrees/Misc/PressureCookerJambalaya.rst
 
-.. include:: includes/recipePageBreak.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/Entrees/Seafood/ShrimpandGrits.rst
+.. include:: ../Recipes/Entrees/Seafood/ShrimpandGrits.rst
 
-.. include:: includes/recipePageBreak.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/Entrees/Seafood/SoyGingerSalmon.rst
+.. include:: ../Recipes/Entrees/Seafood/SoyGingerSalmon.rst
 
-.. include:: includes/recipePageBreak.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/Entrees/Misc/GarlicAsianNoodles.rst
+.. include:: ../Recipes/Entrees/Misc/GarlicAsianNoodles.rst
 
-.. include:: includes/recipePageBreak.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/Entrees/Misc/DanDanNoodles.rst
+.. include:: ../Recipes/Entrees/Misc/DanDanNoodles.rst
 
-.. include:: includes/recipePageBreak.rst
+.. include:: ../includes/recipePageBreak.rst
 
-.. include:: Recipes/SoupsAndStews/ChickenAndDumplingSoup.rst
+.. include:: ../Recipes/SoupsAndStews/ChickenAndDumplingSoup.rst
