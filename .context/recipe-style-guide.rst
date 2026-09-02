@@ -208,12 +208,25 @@ Tone & voice
 - **Concise**: trim filler. Keep useful sensory/technique cues
   (``until golden``, ``until fragrant``) and doneness signals with times
   (``about 8 minutes``).
-- **Consistent terminology**: pick one name for an ingredient/tool and use it
-  throughout a recipe (``cilantro`` vs ``coriander`` — keep one, optionally
-  noting the other once).
-- Spelling can retain the author's Canadian style (``flavour``, ``colour``)
-  where already present; do not "correct" it, just keep it consistent within a
-  file.
+- **Consistent terminology (cookbook-wide)**: use the same name for a given
+  ingredient or tool across **every** recipe, not just within one file. Pick
+  one term (e.g. ``cilantro``, not ``coriander``; ``skillet``, not ``frying
+  pan``) and use it everywhere; optionally note an alternate name once, in
+  parentheses, at first use in a recipe. When adding or rewriting a recipe,
+  match the term already used by the rest of the cookbook rather than
+  introducing a synonym.
+- **Consistent spelling (cookbook-wide)**: standardize on Canadian English
+  across all recipes (``flavour``, ``colour``, ``caramelise`` →
+  keep ``-our``/``-ise`` forms). Apply this everywhere, not per file — when you
+  touch a recipe that uses a different spelling, normalize it to the cookbook
+  standard.
+
+.. note::
+
+   Terminology and spelling are **global** conventions. A change is only
+   "consistent" if it agrees with the rest of the cookbook, so when in doubt
+   grep the ``Recipes/`` tree for how a term is already spelled/used and follow
+   the majority (or fix the outliers to match the chosen standard).
 
 Known inconsistencies to normalize
 ===================================
