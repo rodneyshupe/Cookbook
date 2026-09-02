@@ -1,5 +1,5 @@
 Week 5: Ultra-Convenient Variety Plan
-====================================
+=====================================
 
 This week delivers an incredible array of vibrant, chef-inspired meals requiring minimal cleanup and quick prep times. You will enjoy a rich and spicy Roman-style vodka pasta, a festive Taco Tuesday featuring slow-braised beef birria tacos dipped in savory consommé, an amazingly succulent and rapid broiled pork tenderloin, prosciutto-wrapped crispy lingcod, and a cozy bowl of 20-minute red curry noodles with toasted coconut garlic.
 

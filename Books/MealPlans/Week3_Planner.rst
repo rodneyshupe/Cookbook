@@ -1,5 +1,5 @@
 Week 3: Ultra-Convenient Variety Plan
-====================================
+=====================================
 
 This week features a beautiful rotation of comforting, flavor-packed meals with absolute ease. You will enjoy a single-pan Italian sausage and orzo skillet, a 2-minute cook-time chipotle chicken taco (prepped up to 24h ahead), a tender slow-cooked sweet and savory Mongolian beef, a quick Tuscan shrimp and bean skillet, and a colorful hands-off Mediterranean sheet pan roasted gnocchi.
 

@@ -1,5 +1,5 @@
 Week 2: Ultra-Convenient Variety Plan
-====================================
+=====================================
 
 This week rotates beautifully between a comforting Italian sausage gnocchi skillet, a festive Taco Tuesday featuring rich and smoky chicken tinga, a sizzling pan of Tex-Mex steak fajitas, a quick Asian-style chicken lettuce wrap, and a hands-off bubbling baked tomato basil gnocchi.
 

@@ -1,5 +1,5 @@
 Week 4: Ultra-Convenient Variety Plan
-====================================
+=====================================
 
 This week celebrates vibrant textures and bold flavors with minimal kitchen time. You will enjoy a cheesy single-skillet baked ziti, a festive Taco Tuesday with vegetarian black bean tacos, spiced pork lettuce wraps topped with sweet fresh mango and avocado, a classic stir-fried garlic shrimp and asparagus, and finish the week with a flavourful marinated Greek chicken served with naan.
 

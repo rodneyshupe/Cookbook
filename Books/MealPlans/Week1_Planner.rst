@@ -1,5 +1,5 @@
 Week 1: Ultra-Convenient Variety Plan
-====================================
+=====================================
 
 This week delivers a beautiful rotation of distinct cuisines and proteins built around a Taco Tuesday tradition. Kick off with a rich Italian creamy sausage penne, celebrate Taco Tuesday with zesty tequila-lime fish tacos, follow with a sizzling wok-seared beef and broccoli stir-fry, finish seafood night with honey sriracha salmon, and close the week with a cozy Indian chickpea curry.
 
