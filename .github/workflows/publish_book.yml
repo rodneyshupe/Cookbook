@@ -94,6 +94,24 @@ jobs:
           echo "sheet=assets/Cookbook.yaml" >> "$GITHUB_OUTPUT"
         fi
 
+    - name: Select cover (per-book override or shared)
+      id: cover
+      run: |
+        if [ -f "assets/${{ matrix.book }}.Cover.png" ]; then
+          echo "cover=assets/${{ matrix.book }}.Cover.png" >> "$GITHUB_OUTPUT"
+        else
+          echo "cover=assets/Cover.png" >> "$GITHUB_OUTPUT"
+        fi
+
+    - name: Build cover overlay stylesheet
+      run: |
+        # Override only the cover page background so the base stylesheet's
+        # layout is preserved. Later --stylesheets entries win in rst2pdf.
+        # printf (not an indented heredoc) keeps the YAML left-aligned.
+        printf 'pageTemplates:\n  coverPage:\n    background: %s\n' \
+          "${{ steps.cover.outputs.cover }}" > cover_overlay.yaml
+        echo "--- cover_overlay.yaml ---"; cat cover_overlay.yaml
+
     - name: Build pdf
       run: |
         rm -fR *.build_temp
@@ -104,7 +122,7 @@ jobs:
           --smart-quotes=0 \
           --fit-literal-mode=shrink \
           --repeat-table-rows \
-          --stylesheets=${{ steps.style.outputs.sheet }} \
+          --stylesheets=${{ steps.style.outputs.sheet }},cover_overlay.yaml \
           --output="${{ matrix.book }}.pdf" \
           --strip-elements-with-class=handout \
           --extension-module=preprocess
