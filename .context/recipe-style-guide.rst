@@ -138,31 +138,42 @@ Ingredients
   shopping easier, add a metric equivalent in parentheses immediately after the
   imperial measure for two cases:
 
-  - **Canned/packaged goods sized by weight or volume** — put the metric
-    equivalent right after the size, before the container word:
+  - **Canned/packaged goods sized by volume** — put the metric equivalent
+    right after the size, before the container word:
 
-    - ``1 (15 ounce) can chickpeas`` → ``1 (15 ounce / 444 ml) can chickpeas``
-    - ``1 (14.5 ounce) can diced tomatoes`` →
-      ``1 (14.5 ounce / 429 ml) can diced tomatoes``
+    - ``1 (15 ounce) can chickpeas`` → ``1 (15 ounce / 425 ml) can chickpeas``
     - ``28 ounce can crushed tomatoes`` →
       ``28 ounce (828 ml) can crushed tomatoes``
 
-    For consistency, convert all can/jar/bottle/package ounce sizes by volume:
-    1 (fluid) ounce ≈ 29.6 ml, rounded to a whole number. (US canned goods are
-    often labelled by net weight, but converting uniformly by volume keeps the
-    whole cookbook consistent for shopping.) Use ``g`` only when a package is
+    Convert can/jar/bottle/package ounce sizes by volume: 1 (fluid) ounce
+    ≈ 29.6 ml, rounded to a whole number. Use ``g`` only when a package is
     explicitly labelled by weight (1 ounce ≈ 28.35 g), e.g. a block of cheese
     or frozen spinach.
 
-  - **Meat and other main-protein weights** — put the metric weight in grams
-    (or kg) right after the pounds, before the ingredient name:
+    **Canonical can sizes** — normalize these common cans to their standard
+    size and metric value (an unsized "1 can X" is assumed to be the canonical
+    size below):
 
-    - ``1 pound ground beef`` → ``1 pound (450 g) ground beef``
-    - ``2 pounds boneless beef chuck`` → ``2 pounds (900 g) boneless beef chuck``
-    - ``1 1/2 pounds chicken thighs`` → ``1 1/2 pounds (680 g) chicken thighs``
+    - 15 ounce can (beans, chickpeas, etc.): ``15 ounce (425 ml)``
+    - Diced tomatoes (standard can): ``13.5 fluid ounces (400 ml)`` — the
+      regular 14/14.5/15 ounce diced-tomato can normalizes to this; genuinely
+      large (28 ounce) or small (8 ounce) cans keep their own size.
+    - Coconut milk (standard can): ``13.5 fluid ounces (400 ml)``
+    - Tomato paste (small can): ``6 ounces (approximately 156 ml)``
 
-    Round to a sensible figure (nearest 10 g, or nearest 50 g for larger cuts);
-    1 pound ≈ 454 g but ``450 g`` is the conventional rounded value used here.
+  - **Meat and other main-protein weights** — put the metric weight right after
+    the imperial measure, before the ingredient name:
+
+    - Pounds → grams/kg: ``1 pound ground beef`` → ``1 pound (450 g) ground
+      beef``; ``2 pounds boneless beef chuck`` →
+      ``2 pounds (900 g) boneless beef chuck``. Round to nearest 10 g (or 50 g
+      for larger cuts); 1 pound ≈ 454 g but ``450 g`` is the rounded value used
+      here. Use kg above ~1000 g.
+    - **Proteins measured in ounces** also get a gram equivalent (1 ounce
+      ≈ 28.35 g, nearest 5 g): ``4 6 ounce salmon fillets`` →
+      ``4 6 ounce (170 g) salmon fillets``; ``8 ounces pork chop`` →
+      ``8 ounces (225 g) pork chop``; convert both ends of a range
+      (``12-16 ounces sausage`` → ``12-16 ounces (340-455 g) sausage``).
 
   Only add the equivalent when it isn't already present. Leave a single space
   before the parenthesis and keep the existing quantity/unit unchanged.
