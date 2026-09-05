@@ -18,4 +18,3 @@ Ingredients
 - 1 tablespoon garlic powder
 - 1 tablespoon onion powder
 - 1 teaspoon cayenne
-

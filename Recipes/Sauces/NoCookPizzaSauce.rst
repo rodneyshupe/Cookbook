@@ -20,5 +20,6 @@ Ingredients
 
 Directions
 ----------
-1. Combine all ingredients in bowl. (Sauce can be refrigerated for up to 24 hours.)
 
+1. Combine all ingredients in a bowl. Sauce can be refrigerated for up to 24
+   hours.

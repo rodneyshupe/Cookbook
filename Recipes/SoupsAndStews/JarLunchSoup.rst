@@ -27,12 +27,10 @@ Ingredients
 Directions
 ----------
 
-1. Divide chicken base, peas, onion, chicken, and noodles evenly between
-   4 resealable glass jars. Season lightly with salt and pepper. Divide
-   dill between 4 small zip-lock bags and seal bags, squeezing out all
-   of the air. Tuck bags into jars and seal. Refrigerate for up to 4
-   days.
-2. When ready to serve, remove dill packet and add boiling water to the
-   top of the jar. Seal jar and let sit 2 minutes. Open jar, stir in
-   dill, and serve.
-
+1. Divide the chicken base, peas, onion, chicken, and noodles evenly between 4
+   resealable glass jars. Season lightly with salt and pepper. Divide the dill
+   between 4 small zip-lock bags and seal them, squeezing out all of the air.
+   Tuck the bags into the jars and seal. Refrigerate for up to 4 days.
+2. When ready to serve, remove the dill packet and add boiling water to the
+   top of the jar. Seal the jar and let it sit 2 minutes. Open the jar, stir
+   in the dill, and serve.

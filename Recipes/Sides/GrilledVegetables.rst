@@ -17,11 +17,9 @@ Ingredients
 - fresh cracked pepper
 - salt
 
-
 Directions
 ----------
 
 1. Combine ingredients in a bowl and mix.
-2. Place mixture into a grill pan and grill on indirect heat until
-   peppers are tender (7-8 minutes.)
-
+2. Place mixture in a grill pan and grill over indirect heat until peppers are
+   tender, 7-8 minutes.

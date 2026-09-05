@@ -21,16 +21,15 @@ Ingredients
 Directions
 ----------
 
-1. Preheat oven to 350F.  Butter an 8x8 baking dish, or spray with
-   non-stick cooking spray.  Set aside.
-2. In a mixing bowl, add chopped apples, granulated sugar, 3/4 teaspoon of the
-   cinnamon and lemon juice.  Stir to combine, then transfer to prepared
-   baking dish.
+1. Preheat oven to 350F. Butter an 8x8 baking dish, or spray with non-stick
+   cooking spray; set aside.
+2. In a mixing bowl, combine chopped apples, granulated sugar, 3/4 teaspoon of
+   the cinnamon, and lemon juice; stir, then transfer to prepared baking dish.
 3. In a separate mixing bowl, add topping ingredients (brown sugar, oats,
-   flour, 1 teaspoon cinnamon, salt, and diced cold butter).  Use a pastry cutter
-   to cut the butter into the oat mixture, using a slight downward twisting
-   motion, until mixture resembled pea-sized crumbs.  Alternatively, you can
-   use two forks or even your hands to cut butter into the mixture.
-4. Spread topping over apples in baking dish, and gently pat to even it out.
-   Bake 40-50 minutes, until golden brown and bubbly.
-5. Serve warm and enjoy!
+   flour, 1 teaspoon cinnamon, salt, and diced cold butter) and cut the butter
+   in with a pastry cutter, using a slight downward twisting motion, until the
+   mixture resembles pea-sized crumbs; alternatively use two forks or your
+   hands.
+4. Spread topping over apples and gently pat to even it out, then bake until
+   golden brown and bubbly, 40 to 50 minutes.
+5. Serve warm and enjoy.

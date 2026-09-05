@@ -25,10 +25,9 @@ Ingredients
 Directions
 ----------
 
-1. Heat olive oil in a small saucepan over medium heat. Add onions and
-   cook until soft, about five minutes. Add garlic and cook for an
-   additional one minute.  Add bourbon and stir until absorbed, followed
-   by apple butter, ketchup, Dijon, vinegar, Worcestershire sauce, brown
-   sugar, cinnamon, salt and pepper. Bring mixture to a boil and reduce
-   heat to low. Simmer for 35 minutes, stirring occasionally.
-
+1. Heat the olive oil in a small saucepan over medium heat. Add the onions
+   and cook until soft, about five minutes. Add the garlic and cook one
+   minute more. Add the bourbon and stir until absorbed, then stir in the
+   apple butter, ketchup, Dijon, vinegar, Worcestershire sauce, brown
+   sugar, cinnamon, salt and pepper. Bring to a boil, then reduce heat to
+   low. Simmer until thickened, 35 minutes, stirring occasionally.

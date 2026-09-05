@@ -5,9 +5,7 @@ Gua Bao Pork Belly Steamed Buns
 | Total Time: 40 minutes | Yield: 16 baos |
 +------------------------+----------------+
 
-Source: `Seonkyoung Longest <https://seonkyounglongest.com/gua-bao/>`__
-
-Gua Bao like you will have in a night market in Taiwan!!
+Gua Bao like you will have in a night market in Taiwan.
 
 Ingredients
 -----------
@@ -32,20 +30,20 @@ Ingredients
 Directions
 ----------
 
-1. Heat a large thick bottom pot or dutch oven over high heat; add pork
-   belly and cook them until nice golden brown edges, about 20 minutes.
-2. Add onion and garlic into the pork, cook all together about 2 to 3
-   minutes stirring frequently.
+1. Heat a large thick-bottom pot or dutch oven over high heat, then add pork
+   belly and cook until nice golden brown edges, about 20 minutes.
+2. Add onion and garlic to the pork and cook together, stirring frequently,
+   about 2 to 3 minutes.
 3. Mix chicken stock, oyster sauce, hoisin sauce, dark soy sauce, honey and
    shaoxing wine in a measuring cup or mixing bowl. Add pinch of Chinese
    spice, if using.
-4. Pour the sauce over pork and deglaze the bottom of the pot, about 2
-   minutes. Add water. Mix well and bring it to boil over high heat, reduce
-   heat and simmer for 20 minutes with uncovered until pork belly is
-   tender and sauce thicken. Stir occasionally. Meanwhile, chop some
-   cilantro, julienne cucumber and slice some red/green chili. Also steam
-   your buns during this time.
-5. In the steamed buns, fill up with braised pork belly, cucumber, cilantro
-   and chili. Garnish with crushed peanut and it's ready to serve! You can
-   serve the braised pork on top of rice or make this sandwich on regular
-   sandwich roll or baguette too.
+4. Pour the sauce over the pork and deglaze the bottom of the pot, about 2
+   minutes. Add water, mix well and bring to a boil over high heat, then
+   reduce heat and simmer, uncovered, for 20 minutes until pork belly is
+   tender and sauce thickens, stirring occasionally. Meanwhile, chop some
+   cilantro, julienne cucumber and slice some red/green chili. Steam the buns
+   during this time.
+5. Fill the steamed buns with braised pork belly, cucumber, cilantro and
+   chili. Garnish with crushed peanut and serve. Serve the braised pork over
+   rice, or make this into a sandwich on a regular sandwich roll or baguette
+   too.

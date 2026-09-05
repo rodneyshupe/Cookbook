@@ -19,9 +19,8 @@ Ingredients
 Directions
 ----------
 
-1. In a small saucepan, combine the rice wine vinegar, sugar, and salt.
-   Over medium heat, bring to a boil. Stir, remove from heat, and let
-   cool slightly.
-2. Put sliced radish and pear in a wide bowl. Pour the vinegar mixture
+1. In a small saucepan, combine the rice wine vinegar, sugar, and salt. Bring
+   to a boil over medium heat, then stir, remove from heat, and let cool
+   slightly.
+2. Put the sliced radish and pear in a wide bowl; pour the vinegar mixture
    over and let sit for 30 minutes, or refrigerate for up to a week.
-

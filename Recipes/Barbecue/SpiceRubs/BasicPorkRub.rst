@@ -16,4 +16,3 @@ Ingredients
 - 2 tablespoons salt
 - 1 tablespoon cayenne
 - 2 teaspoons dry mustard
-

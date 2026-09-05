@@ -5,8 +5,6 @@ Mediterranean Sheet Pan Gnocchi
 | Prep Time: 10 minutes | Cook Time: 35 - 45 minutes | Yield: 4 servings |
 +-----------------------+----------------------------+-------------------+
 
-Source: `Dietetic Directions <https://dieteticdirections.com/mediterranean-sheet-pan-gnocchi-2/>`__
-
 Ingredients
 -----------
 - 500 gram package of gnocchi
@@ -23,15 +21,14 @@ Ingredients
 
 Directions
 ----------
-1. Preheat oven to 450F. In a large bowl, combine gnocchi, chopped red onion,
-   zucchini, peppers, asparagus and sundried tomatoes. Add olive oil and
+
+1. Preheat oven to 450F. In a large bowl, combine gnocchi, red onion,
+   zucchini, peppers, asparagus and sun-dried tomatoes; add olive oil,
    oregano, basil and red pepper flakes.
-2. Stir veggies and gnocchi in oil and spices until completely coated
-   However, you may need to add more oil or herbs if you're using more
-   veggies.
-3. On a parchment-lined baking sheet, spread out veggies and gnocchi evenly
-   so they are not overlapping.
-4. Bake for 35 to 45 minutes, turning once halfway through to prevent
-   burning. We are looking for a golden crisp coating on the gnocchi and
-   caramelised veggies.
-5. Allow to cool and then garnish with fresh herbs and crumbled feta!
+2. Stir until gnocchi and veggies are completely coated, adding more oil or
+   herbs if using more veggies.
+3. Spread evenly on a parchment-lined baking sheet so they are not
+   overlapping.
+4. Bake until golden and crisp with caramelised veggies, 35 to 45 minutes,
+   turning once halfway through to prevent burning.
+5. Cool, then garnish with fresh herbs and crumbled feta.

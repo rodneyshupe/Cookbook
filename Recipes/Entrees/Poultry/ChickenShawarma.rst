@@ -24,10 +24,9 @@ Ingredients
 Directions
 ----------
 
-1. Cut chicken into even pieces, 3/4 to 1 inch are perfect.
-2. Put into a bowl with remaining ingredients, mix well, cover and
-   refrigerate 2 hours up to overnight (and of course longer is better if
-   you have the time)
-3. When ready to cook, heat grill to medium high. Put the chicken onto the
-   skewers, oil the grill and cook away - turning often until between
-   175 & 180F, then remove and serve with the white garlic sauce.
+1. Cut chicken into even pieces, 3/4 to 1 inch are perfect. Put into a bowl
+   with the remaining ingredients, mix well, cover and refrigerate 2 hours up
+   to overnight (longer is better if you have the time).
+2. When ready to cook, heat grill to medium high. Thread the chicken onto the
+   skewers, oil the grill and cook, turning often, until the chicken is
+   between 175 & 180F. Remove and serve with the white garlic sauce.

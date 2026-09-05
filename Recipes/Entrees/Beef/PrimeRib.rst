@@ -5,8 +5,6 @@ Prime Rib
 | Prep Time: 5 minutes + 24 - 96 hours | Cook Time: 4 1/2 - 6 hours | Yield: 6 TO 8 servings |
 +--------------------------------------+----------------------------+------------------------+
 
-Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/6843-best-prime-rib>`__
-
 Ingredients
 -----------
 
@@ -18,31 +16,33 @@ Ingredients
 Directions
 ----------
 
-1. Using sharp knife, cut slits in surface layer of fat, spaced 1 inch apart,
-   in crosshatch pattern, being careful to cut down to, but not into, meat.
-   Rub 2 tablespoons salt over entire roast and into slits. Place meat back
-   on bones (to save space in refrigerator), transfer to large plate, and
-   refrigerate, uncovered, at least 24 hours and up to 96 hours.
-2. Adjust oven rack to middle position and heat oven to 200F. Heat oil
-   in 12-inch skillet over high heat until just smoking. Sear sides and top
-   of roast (reserving bone) until browned, 6 to 8 minutes total (do not sear
-   side where roast was cut from bone). Place meat back on ribs, so bones fit
-   where they were cut, and let cool for 10 minutes; tie meat to bones with
-   2 lengths of twine between ribs. Transfer roast, fat side up, to wire rack
-   set in rimmed baking sheet and season with pepper. Roast until meat
-   registers 110F, 3 to 4 hours.
-3. Turn off oven; leave roast in oven, opening door as little as possible,
-   until meat registers about 120F for rare or about 125F for
-   medium-rare, 30 to 75 minutes longer.
-4. Remove roast from oven (leave roast on baking sheet), tent loosely with
-   aluminum foil, and let rest for at least 30 minutes and up to 75 minutes.
-5. Adjust oven rack about 8 inches from broiler element and heat broiler.
-   Remove foil from roast, form into 3-inch ball, and place under ribs to
-   elevate fat cap. Broil until top of roast is well browned and crisp,
-   2 to 8 minutes.
-6. Transfer roast to carving board; cut twine and remove roast from ribs.
-   Slice meat into 3/4-inch-thick slices. Season with coarse salt to taste,
-   and serve.
+1. With a sharp knife, cut slits in the surface layer of fat, spaced 1 inch
+   apart in a crosshatch pattern, being careful to cut down to, but not into,
+   the meat, then rub 2 tablespoons salt over the entire roast and into the
+   slits. Set the meat back on the bones to save fridge space, transfer to a
+   large plate, and refrigerate, uncovered, at least 24 hours and up to 96
+   hours.
+2. Adjust an oven rack to the middle position and heat the oven to 200F. Heat
+   the oil in a 12-inch skillet over high heat until just smoking, then sear
+   the sides and top of the roast, reserving the bone, until browned, 6 to 8
+   minutes total; don't sear the side where the roast was cut from the bone.
+   Set the meat back on the ribs so the bones fit where they were cut, let cool
+   10 minutes, and tie the meat to the bones with 2 lengths of twine between
+   the ribs. Transfer the roast, fat side up, to a wire rack set in a rimmed
+   baking sheet, season with pepper, and roast until the meat registers 110F,
+   3 to 4 hours.
+3. Turn off the oven and leave the roast inside, opening the door as little as
+   possible, until the meat registers about 120F for rare or about 125F for
+   medium-rare, 30 to 75 minutes longer. Pull the roast from the oven, leaving
+   it on the baking sheet, tent loosely with foil, and let rest at least 30
+   minutes and up to 75 minutes.
+4. Adjust an oven rack about 8 inches from the broiler element and heat the
+   broiler. Remove the foil from the roast, form it into a 3-inch ball, and
+   place it under the ribs to elevate the fat cap, then broil until the top of
+   the roast is well browned and crisp, 2 to 8 minutes. Transfer the roast to
+   a carving board, cut the twine and remove the roast from the ribs, and slice
+   the meat into 3/4-inch-thick slices; season with coarse salt to taste, and
+   serve.
 
 Notes
 -----

@@ -8,8 +8,6 @@ Pancetta
 This traditional pork belly preparation can be made either as a slab (stesa)
 or roll (arrotolata), as you prefer.
 
-Source: `UMAi Charcuterie <https://www.drybagsteak.com/recipe-homemade-pancetta-charcuterie.php>`__
-
 Equipment
 ---------
 UMAi Dry Bag, Vacuum Sealer
@@ -31,14 +29,11 @@ Ingredients
 Directions
 ----------
 
-1. Mix Dry Cure Ingredients well and rub onto meat, making sure to cover all
-   nooks and crannies.
-2. Transfer meat into a Ziplock and place in your refrigerator for two weeks
-   to cure.
-3. After the curing process, remove meat from bag, and rinse off cure under
-   running water.
-4. Transfer to UMAi Dry bag and vacuum seal, then place place on an open
-   wire rack to dry in your refrigerator four to eight weeks, or until
-   35-40% reduction in weight.
-5. After drying is complete, slice thin and enjoy!
-
+1. Mix dry cure ingredients well, then rub onto meat, covering all nooks and
+   crannies.
+2. Transfer meat to a Ziplock and refrigerate two weeks to cure.
+3. Remove meat from bag and rinse off cure under running water.
+4. Transfer to UMAi Dry bag and vacuum seal, then set on an open wire rack to
+   dry in your refrigerator four to eight weeks, or until 35-40% reduction in
+   weight.
+5. Slice thin and enjoy.

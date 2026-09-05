@@ -5,8 +5,6 @@ German Potato Salad
 | Prep Time: 20 minutes | Total Time: 20 minutes | Yield: 6 |
 +-----------------------+------------------------+----------+
 
-Source: `Jaclyn <https://www.cookingclassy.com/german-potato-salad/>`__
-
 Made with creamy red or yellow potatoes, richly flavourful bacon, parsley
 that's brimming with freshness, vibrant red onions and a simple, yet
 perfectly tasty dressing.
@@ -23,28 +21,24 @@ Ingredients
 - 1 tablespoon dijon mustard
 - 2 teaspoons granulated sugar
 - Salt and pepper to taste
-- 1/2 cup chopped fresh parsley
 - 2 tablespoons olive oil
+- 1/2 cup chopped fresh parsley
 
 Directions
 ----------
 
 1. Place red potatoes on a steamer basket* set in a pot with about 1
-   1/2-inches of water. Bring water to a simmer over medium-high heat.
-2. Cover pot with a snug lid and let steam until potatoes are tender, about
-   20 - 25 minutes (test for doneness by piercing potatoes through center
-   with a knife, it should glide through). Set aside to cool just until
-   warm enough to cut into chunks.
-3. While potatoes are steaming, cook bacon in a 12-inch non-stick skillet
-   over medium-high heat until crisp (about 6 - 7 minutes). Remove bacon,
-   set aside and leave drippings in skillet.
-4. Add onions to skillet with drippings and cook 5 minutes. Add garlic and
-   cook 30 seconds longer.
-5. Pour in chicken broth, vinegar, dijon mustard and sugar. Bring to liquid
-   to a simmer and let reduce by about half for a minute or two.
-6. Add chopped potatoes, bacon and olive oil and toss. Season mixture with
-   salt and pepper to taste.
-7. Remove from heat, toss in parsley. Serve warm (or see notes to serve
-   chilled). If mixture seems to be just slightly dry you can either toss
-   in a little more olive oil or chicken broth.
-
+   1/2-inches of water and bring to a simmer over medium-high heat. Cover with
+   a snug lid and steam until potatoes are tender, about 20 - 25 minutes; a
+   knife should glide through the centre. Set aside to cool until just warm
+   enough to cut into chunks.
+2. Meanwhile, cook bacon in a 12-inch non-stick skillet over medium-high heat
+   until crisp, about 6 - 7 minutes. Remove the bacon and set aside, leaving
+   the drippings in the skillet.
+3. Add onions to the drippings and cook 5 minutes, then add garlic and cook 30
+   seconds longer. Pour in chicken broth, vinegar, dijon mustard and sugar,
+   bring to a simmer and let reduce by about half for a minute or two.
+4. Add the chopped potatoes, bacon and olive oil and toss, seasoning with salt
+   and pepper to taste. Remove from heat and toss in parsley. Serve warm (or
+   see notes to serve chilled); if the mixture seems slightly dry, toss in a
+   little more olive oil or chicken broth.

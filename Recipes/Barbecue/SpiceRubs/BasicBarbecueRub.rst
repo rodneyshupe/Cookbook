@@ -21,4 +21,3 @@ Ingredients
 - 1 tablespoon dried onion flakes
 - 1/2 to 1 teaspoon cayenne pepper
 - 1/2 teaspoon celery seeds
-

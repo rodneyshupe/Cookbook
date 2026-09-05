@@ -13,7 +13,7 @@ Slow Cooker
 Ingredients
 -----------
 
-- 1 1/5 pound (540 g) sirloin tip, cut into 1/2 cubes
+- 1 1/2 pound (540 g) sirloin tip, cut into 1/2 inch cubes
 - 1 medium onion, diced
 - 1 green pepper, diced
 - 2 tablespoon tomato paste
@@ -26,23 +26,23 @@ Ingredients
 - 1 19-ounce (562 ml) can kidney beans
 - 1 4-ounce (118 ml) can green chilies
 - 2 teaspoons Better than Bouillon Beef Base
-- 2 teaspoons coco powder (optional)
+- 2 teaspoons cocoa powder (optional)
 - salt & pepper
 
 Directions
 ----------
 
-1. Season meat with salt and pepper and then brown half the beef on all
-   sides in a medium high pan. Place into slow cooker, and repeat with
-   second half of the meat.
-2. Cook onions and green pepper until soft. Add tomato paste, chili powder
-   and garlic powder and cook till fragrant, 1-2 minutes. Add onion mixture
-   to slow cooker and deglaze the pan with 2-4 tablespoons beer and add to
-   the slow cooker.
+1. Season meat with salt and pepper and then brown half the beef on all sides
+   in a medium high pan. Place into slow cooker, and repeat with second half
+   of the meat.
+2. Cook onions and green pepper until soft. Add tomato paste, chili powder and
+   garlic powder and cook until fragrant, 1-2 minutes. Add onion mixture to
+   slow cooker and deglaze the pan with 2-4 tablespoons beer and add to the
+   slow cooker.
 3. Stir in all other ingredients and set slow cooker to med and cook for at
    least 8 hours.
 4. Serve topped with your choice of diced white onion, grated cheese, and/or
-   nacho chips.  Goes well with `cornbread <#simple-cornbread-recipe>`__.
+   nacho chips. Goes well with `cornbread <#simple-cornbread-recipe>`__.
 
 Variations
 ----------

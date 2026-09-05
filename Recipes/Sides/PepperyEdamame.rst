@@ -5,8 +5,6 @@ Peppery Edamame
 | Prep Time: 5 minutes | Cook Time: 5 minutes | Yield: 4 servings |
 +----------------------+----------------------+-------------------+
 
-Source: `Bon Appetit <https://www.bonappetit.com/recipe/peppery-edamame>`__
-
 Ingredients
 -----------
 
@@ -23,4 +21,3 @@ Directions
    to a large bowl.
 2. Add oil, pepper, salt, and sugar and toss to coat.
 3. Serve immediately.
-

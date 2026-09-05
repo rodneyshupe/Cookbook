@@ -36,16 +36,15 @@ Tacos
 Directions
 ----------
 
-1. Wash rinse and drain lentils.
-2. In a medium pot add oil over medium high heat until shimmering.  Add
-   cumin, chili powder, onion powder, salt and pepper and roast the spices
-   for 30 seconds.  Add in onion, shallots, and garlic and saute for 2
-   minutes, stirring occasionally.
-3. Add tomatoes to pot, one at a time by crushing them in your hand to
-   break them apart.  Add in water and lentils and bring to a simmer.
-   Cover stirring occasionally, until lentils are soft, approx. 45 minutes
-   to an hour.
-4. Remove from heat and let cool for 10 minutes.  Stir in crushed tortilla
-   chips.  Put in a container and place in fridge for at least 2 hours but
-   can be overnight.
-5. Stir in cheese and add to a tortilla. Fry taco to create a smashed taco.
+1. Wash, rinse and drain lentils.
+2. Heat oil in a medium pot over medium high heat until shimmering; add cumin,
+   chili powder, onion powder, salt and pepper and roast the spices 30
+   seconds, then add onion, shallots, and garlic and saute until fragrant,
+   about 2 minutes, stirring occasionally.
+3. Add tomatoes one at a time, crushing them in your hand to break them apart;
+   add water and lentils and bring to a simmer, then cover and cook until
+   lentils are soft, approx. 45 minutes to an hour, stirring occasionally.
+4. Remove from heat and let cool 10 minutes; stir in crushed tortilla chips,
+   then transfer to a container and refrigerate at least 2 hours or overnight.
+5. Stir in cheese and add to a tortilla, then fry the taco to create a smashed
+   taco.

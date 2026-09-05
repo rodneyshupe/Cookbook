@@ -15,4 +15,3 @@ Ingredients
 - 1 teaspoon crushed coriander
 - 1 teaspoon dill
 - 1 teaspoon crushed red pepper flakes
-

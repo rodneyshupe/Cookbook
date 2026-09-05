@@ -5,8 +5,6 @@ Pretzels
 | Prep Time: 25 minutes | Cook Time: 15 minutes | Total Time: 1 1/2 hours | Yield: 8 pretzels |
 +-----------------------+-----------------------+-------------------------+-------------------+
 
-Source: `Tasty <https://tasty.co/recipe/homemade-soft-pretzels>`__
-
 Ingredients
 -----------
 
@@ -23,17 +21,16 @@ Ingredients
 Directions
 ----------
 
-1. In a bowl, mix water, salt, and sugar until combined. Add yeast, and let
-   rest 5 minutes until yeast starts to foam.
-2. Add flour and 2 tablespoons of oil, and mix thoroughly until a dough forms.
-3. Remove the dough and use the remaining oil to cover the bowl.
-4. Cover bowl with plastic wrap, and leave in a warm place for 1 hour.
-5. Preheat oven to 450F (230C).
-6. Cut dough into 8 pieces and roll them out into thin ropes, twisting the
-   two ends to form a pretzel shape.
-7. Dissolve baking soda in 4 cups water in Dutch oven and bring to boil over
-   medium-high heat. Boil each pretzel for 30 seconds per side.
-8. Transfer pretzels to a baking sheet, brush with egg wash, and sprinkle
-   with salt. Bake for 10-15 minutes, until golden brown.
-9. Serve with `Mustard Dipping Sauce <#mustard-dipping-sauce>`__
-
+1. Mix water, salt, and sugar in a bowl until combined; add yeast and let rest
+   until it starts to foam, 5 minutes.
+2. Add flour and 2 tablespoons of oil, and mix thoroughly until a dough forms;
+   remove the dough, then use the remaining oil to coat the bowl.
+3. Cover the bowl with plastic wrap and leave in a warm place for 1 hour.
+4. Preheat oven to 450F (230C).
+5. Cut dough into 8 pieces and roll into thin ropes, twisting the two ends to
+   form a pretzel shape.
+6. Dissolve baking soda in 4 cups water in a Dutch oven and bring to a boil
+   over medium-high heat; boil each pretzel 30 seconds per side.
+7. Transfer pretzels to a baking sheet, brush with egg wash, and sprinkle with
+   salt; bake until golden brown, 10-15 minutes.
+8. Serve with `Mustard Dipping Sauce <#mustard-dipping-sauce>`__

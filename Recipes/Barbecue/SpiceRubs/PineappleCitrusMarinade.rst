@@ -23,5 +23,4 @@ Ingredients
 Directions
 ----------
 
-1. Mix all together.
-
+1. Whisk everything together.

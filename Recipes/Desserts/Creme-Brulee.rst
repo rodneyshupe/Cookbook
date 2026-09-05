@@ -5,8 +5,6 @@ Creme Brulee
 | Prep Time: 15 minutes | Cook Time: 1 hour | Total Time: 5 1/2 hours | Temp: 183F  |
 +-----------------------+-------------------+-------------------------+-------------+
 
-Source: `Anova Culinary <https://recipes.anovaculinary.com/recipe/sous-vide-ultimate-creme-brulee-with-variations>`__
-
 Equipment
 ---------
 Sous-Vide (immersion circulator)
@@ -14,10 +12,10 @@ Sous-Vide (immersion circulator)
 Ingredients
 -----------
 
-- 2 cups heavy whipping cream
 - 4 large egg yolks
 - 1/4 cups granulated sugar
 - 1/4 teaspoon salt
+- 2 cups heavy whipping cream
 - seeds from one vanilla bean (you can substitute 1 teaspoon pure vanilla
   extract or 1/2 teaspoon ground vanilla)
 - Topping/Garnish: berries, chocolate chips, crystallized ginger, mint
@@ -26,35 +24,32 @@ Ingredients
 Directions
 ----------
 
-1. Set your sous-vide to 183F (83C)
-2. In a medium-size mixing bowl, combine the egg yolks, sugar, and salt
-   and whisk until pale and well-combined. Set aside.
-3. Pour the heavy cream into a small saucepan with deep sides and place
-   over medium-high heat, bringing only to a simmer. Once the cream is
-   heated, add flavoring. *For basic creme brulee, stick with the
-   vanilla alone. Otherwise, choose any of the listed options (or even
-   try others of your own)*
-4. Simmer lowly for 3 - 4 minutes. Remove pan from the heat, and after
-   allowing to cool for a couple of minutes, pour a small amount (1/4
-   cup or so) of the cream through a fine-mesh sieve or strainer into
-   the yolks to temper them. Whisk to combine, and then continue the
-   straining and whisking process with the rest of the cream.
-5. Divide the mixture evenly between four 4 ounce (or two 8 ounce) mason
-   jars with two-part screw-top lids. Attach the lids and screw shut to
-   "fingertip tightness", the variable of "closed-ness" achieved by
-   using only your fingertips to screw on the lids.
-6. Place the jars into the bath. Cover the vessel with Saran Wrap and
-   set the timer for 1 hour.
-7. Remove the jars from the bath and dry off with a towel. Allow to cool
-   for a few minutes on the countertop before putting in the
-   refrigerator for a minimum of 4 hours. They will keep in the fridge
-   for up to 5 days.
-8. When you are ready to consume, take out of the refrigerator and
-   remove the lid. If the surface is not smooth, this can be remedied by
-   grazing the surface with the back of a heated spoon (as in dipped in
-   hot water).
-9. Sprinkle 1/2 teaspoon - 1 teaspoon sugar on the top of each custard. Caramelize
-   with a blow torch or underneath a preheated broiler.
+1. Set your sous-vide to 183F (83C).
+2. In a medium-size mixing bowl, whisk the egg yolks, sugar, and salt until
+   pale and well-combined; set aside.
+3. Pour the heavy cream into a small saucepan with deep sides and bring only
+   to a simmer over medium-high heat, then add flavoring once heated. *For
+   basic creme brulee, stick with the vanilla alone. Otherwise, choose any of
+   the listed options (or even try others of your own)*
+4. Simmer lowly for 3 to 4 minutes, then remove pan from the heat. After
+   allowing to cool for a couple of minutes, pour a small amount (1/4 cup or
+   so) of the cream through a fine-mesh sieve or strainer into the yolks to
+   temper them; whisk to combine, then continue the straining and whisking
+   process with the rest of the cream.
+5. Divide the mixture evenly between four 4 ounce (or two 8 ounce) mason jars
+   with two-part screw-top lids, then attach the lids and screw shut to
+   "fingertip tightness", the variable of "closed-ness" achieved by using only
+   your fingertips to screw on the lids.
+6. Place the jars into the bath, cover the vessel with Saran Wrap, and set the
+   timer for 1 hour.
+7. Remove the jars from the bath and dry off with a towel; allow to cool for a
+   few minutes on the countertop before putting in the refrigerator for a
+   minimum of 4 hours. They will keep in the fridge for up to 5 days.
+8. When you are ready to consume, take out of the refrigerator and remove the
+   lid. If the surface is not smooth, remedy it by grazing the surface with
+   the back of a heated spoon (as in dipped in hot water).
+9. Sprinkle 1/2 teaspoon to 1 teaspoon sugar on the top of each custard, then
+   caramelize with a blow torch or underneath a preheated broiler.
 
 Variations
 ----------

@@ -19,13 +19,12 @@ Ingredients
 Directions
 ----------
 
-1. Place the cheese cubes and salsa in a slow cooker or crockpot. Cover
-   and cook on HIGH, stirring occasionally until the cheese cubes are
-   melted and blended with the salsa, about 2 hours.
-2. Stir in fresh chopped cilantro after the cheese has melted or leave
-   them out.
-3. Serve hot, right from the slow cooker, with tortilla chips or corn
-   chips.
+1. Place the cheese cubes and salsa in the slow cooker. Cover and cook on
+   HIGH, stirring occasionally, until the cheese is melted and blended into
+   the salsa, about 2 hours.
+2. Stir in the fresh chopped cilantro once the cheese has melted, or leave
+   it out.
+3. Serve hot, right from the slow cooker, with tortilla chips or corn chips.
 
 Notes
 -----
@@ -50,4 +49,3 @@ Variations
    over medium heat; cook until the meat is no longer pink, stirring
    constantly. Add the meat to the slow cooker along with the cheese
    cubes and salsa.
-

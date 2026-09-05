@@ -5,8 +5,6 @@ Sriracha-Lime Yogurt Sauce
 | Prep Time: 5 minutes | Yield: 2/3 cup |
 +----------------------+----------------+
 
-Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/9720-sriracha-lime-yogurt-sauce>`__
-
 Ingredients
 -----------
 - 1/2 cup plain whole milk yogurt
@@ -18,5 +16,6 @@ Ingredients
 
 Directions
 ----------
-Mix all ingredients together.
 
+1. Whisk the yogurt, olive oil, lime juice, mint, and red onion together until
+   smooth, then season with salt and pepper to taste.

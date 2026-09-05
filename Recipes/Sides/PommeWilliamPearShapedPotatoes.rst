@@ -8,15 +8,15 @@ Pomme William/ Pear Shaped Potatoes
 Ingredients
 -----------
 
+- canola oil, deep frying
 - 1 pound potatoes, peeled
 - sea salt
 - fresh cracked pepper
 - 1 pinch ground nutmeg
-- 2 egg yolk
-- 1 tablespoon Butter
-- 1 tablespoon Sour cream
+- 1 tablespoon sour cream
+- 1 tablespoon butter
+- 2 egg yolks
 - 8 whole cloves
-- canola oil, deep frying
 
 Breading
 ^^^^^^^^
@@ -26,14 +26,13 @@ Breading
 Directions
 ----------
 
-1. In a small pot add canola oil and heat to 375F
-2. Cook potatoes in boiling, salted, water until fork tender
-3. Strain potatoes, mash and add seasoning, nutmeg, sour cream, butter and egg yolks. Blend well.
-4. Prepare breading station.
-5. Shape potatoes into pear shapes.
-6. Gently roll into flour and pat excess flour off
-7. Next add to beaten egg mixture, and finally add to breading.
-8. Spike a clove on the top of the pear shaped potatoes
-9. Place gently in canola oil until golden brown
-10. Makes 8 pear shaped potatoes
-
+1. In a small pot heat canola oil to 375F.
+2. Cook potatoes in boiling salted water until fork tender.
+3. Strain the potatoes, then mash and add salt, pepper, nutmeg, sour cream,
+   butter, and egg yolks; blend well.
+4. Prepare your breading station.
+5. Shape the potatoes into pears, then gently roll in flour and pat off the
+   excess; dip into the beaten egg, and finally coat in bread crumbs.
+6. Spike a clove on the top of each pear.
+7. Lower gently into the canola oil and fry until golden brown; makes 8 pear
+   shaped potatoes.

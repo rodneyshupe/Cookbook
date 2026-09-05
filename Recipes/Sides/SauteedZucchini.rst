@@ -8,16 +8,16 @@ Sauteed Zucchini
 Ingredients
 -----------
 
-- 1 medium zucchini into matchstick-size pieces
 - 2 tablespoons toasted sesame oil
+- 1 medium zucchini, cut into matchstick-size pieces
 - kosher salt
 - freshly ground black pepper
 - gochugaru (coarse Korean red pepper powder)
 
 Directions
 ----------
-1. Heat sesame oil in a large skillet, preferably nonstick, over medium
-   heat. Add zucchini; cook, stirring occasionally, until just tender,
+
+1. Heat the sesame oil in a large skillet, preferably nonstick, over medium
+   heat; add the zucchini and cook, stirring occasionally, until just tender,
    3-4 minutes.
 2. Season with kosher salt, freshly ground black pepper, and gochugaru.
-

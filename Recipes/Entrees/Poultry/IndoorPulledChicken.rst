@@ -5,8 +5,6 @@ Indoor Pulled Chicken
 | Prep Time: 10 minutes | Cook Time: 1 hour | Yield: 6-8 servings |
 +-----------------------+-------------------+---------------------+
 
-Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/10594-indoor-pulled-chicken-with-sweet-and-tangy-barbecue-sauce#>`__
-
 Ingredients
 -----------
 
@@ -35,24 +33,24 @@ Chicken
 Directions
 ----------
 
-1. FOR THE SAUCE: Whisk all ingredients together in bowl. Set aside.
-2. FOR THE CHICKEN: Bring broth, molasses, sugar, 2 teaspoons liquid
-   smoke, gelatin, and 1 teaspoon salt to boil in large Dutch oven over
-   high heat, stirring to dissolve sugar. Add chicken and return to
-   simmer. Reduce heat to medium-low, cover, and cook, stirring
-   occasionally, until chicken is easily shredded with fork, about 25
+1. For the sauce: Whisk all ingredients together in a bowl and set aside.
+2. For the chicken: Bring the broth, molasses, sugar, 2 teaspoons liquid
+   smoke, gelatin, and 1 teaspoon salt to a boil in a large Dutch oven over
+   high heat, stirring to dissolve the sugar. Add the chicken and return to a
+   simmer, then reduce heat to medium-low, cover, and cook, stirring
+   occasionally, until the chicken shreds easily with a fork, about 25
    minutes.
-3. Transfer chicken to medium bowl and set aside. Strain cooking liquid
-   through fine-mesh strainer set over bowl (do not wash pot). Let
-   liquid settle for 5 minutes; skim fat from surface. Set aside fat and
-   defatted liquid.
-4. Using tongs, squeeze chicken until shredded into bite-size pieces.
-   Transfer chicken, 1 cup sauce, 1/2 cup reserved defatted liquid, 3
-   tablespoons reserved fat, and remaining 1 teaspoon liquid smoke to
-   now-empty pot. Cook mixture over medium heat, stirring frequently,
-   until liquid has been absorbed and exterior of meat appears dry,
-   about 5 minutes. Season with salt, pepper, and hot sauce to taste.
-   Serve, passing remaining sauce separately.
+3. Transfer the chicken to a medium bowl and set aside. Strain the cooking
+   liquid through a fine-mesh strainer set over a bowl, leaving the pot
+   unwashed. Let the liquid settle for 5 minutes, then skim the fat from the
+   surface and set aside both the fat and the defatted liquid.
+4. Using tongs, squeeze the chicken until shredded into bite-size pieces.
+   Transfer the chicken, 1 cup sauce, 1/2 cup reserved defatted liquid, 3
+   tablespoons reserved fat, and the remaining 1 teaspoon liquid smoke to the
+   now-empty pot. Cook over medium heat, stirring frequently, until the liquid
+   has been absorbed and the exterior of the meat appears dry, about 5
+   minutes. Season with salt, pepper, and hot sauce to taste. Serve, passing
+   the remaining sauce separately.
 
 .. include:: ../../../includes/recipePageBreak.rst
 

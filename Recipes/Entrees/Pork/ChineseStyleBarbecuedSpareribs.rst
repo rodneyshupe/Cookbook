@@ -6,8 +6,6 @@ Chinese-Style Barbecued Spareribs
 | minutes        | 2 hours        | 4-6 as main course      |
 +----------------+----------------+-------------------------+
 
-Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/10314-chinese-style-barbecued-spareribs#>`__
-
 Ingredients
 -----------
 
@@ -26,30 +24,27 @@ Ingredients
 Directions
 ----------
 
-1. Pulse ginger and garlic in food processor until finely chopped, 10 to
-   12 pulses, scraping down sides of bowl as needed. Transfer
-   ginger-garlic mixture to Dutch oven. Add honey; hoisin; soy sauce;
-   1/2 cup water; rice wine; five-spice powder; food coloring, if using;
-   and pepper and whisk until combined. Add ribs and stir to coat (ribs
-   will not be fully submerged). Bring to simmer over high heat, then
-   reduce heat to low, cover, and cook for 1 1/4 hours, stirring
+1. Pulse ginger and garlic in food processor until finely chopped, 10 to 12
+   pulses, scraping down sides of bowl as needed. Transfer to Dutch oven. Add
+   honey, hoisin, soy sauce, 1/2 cup water, rice wine, five-spice powder, food
+   coloring, if using, and pepper; whisk until combined. Add ribs and stir to
+   coat (ribs will not be fully submerged). Bring to simmer over high heat,
+   then reduce heat to low, cover, and cook 1 1/4 hours, stirring
    occasionally.
-2. Adjust oven rack to middle position and heat oven to 425F.
-   Using tongs, transfer ribs to large bowl. Strain braising liquid
-   through fine-mesh strainer set over large container, pressing on
-   solids to extract as much liquid as possible; discard solids. Let
-   cooking liquid settle for 10 minutes. Using wide, shallow spoon, skim
-   fat from surface and discard.
-3. Return braising liquid to pot and add sesame oil. Bring to boil over
-   high heat and cook until syrupy and reduced to 2 1/2 cups, 16 to 20
-   minutes.
-4. Set wire rack in aluminum foil-lined rimmed baking sheet and pour 1/2
-   cup water into sheet. Transfer half of ribs to pot with braising
-   liquid and toss to coat. Arrange ribs, bone sides up, on prepared
-   rack, letting excess glaze drip off. Roast until edges of ribs start
-   to caramelise, 5 to 7 minutes. Flip ribs and continue to roast until
-   second side starts to caramelise, 5 to 7 minutes longer. Transfer
-   ribs to serving platter; repeat process with remaining ribs. Serve.
+2. Adjust oven rack to middle position and heat oven to 425F. Using tongs,
+   transfer ribs to large bowl. Strain braising liquid through fine-mesh
+   strainer set over large container, pressing on solids to extract as much
+   liquid as possible; discard solids. Let cooking liquid settle 10 minutes,
+   then skim fat from surface with wide, shallow spoon and discard.
+3. Return braising liquid to pot and add sesame oil. Bring to boil over high
+   heat and cook until syrupy and reduced to 2 1/2 cups, 16 to 20 minutes.
+4. Set wire rack in aluminum foil-lined rimmed baking sheet and pour 1/2 cup
+   water into sheet. Transfer half of ribs to pot with braising liquid and
+   toss to coat. Arrange ribs, bone sides up, on prepared rack, letting excess
+   glaze drip off. Roast until edges of ribs start to caramelise, 5 to 7
+   minutes. Flip ribs and roast until second side starts to caramelise, 5 to 7
+   minutes longer. Transfer to serving platter; repeat with remaining ribs.
+   Serve.
 
 Make Ahead
 ----------

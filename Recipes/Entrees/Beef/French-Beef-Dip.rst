@@ -37,26 +37,25 @@ Ingredients
 Directions
 ----------
 
-1. Preheat Sous-Vide to 140F
-2. Season beef thoroughly with the salt, pepper, paprika, garlic powder,
-   onion powder, and seal in vacuum seal bag using the vacuum sealer.
-   Let cook for at least 18 hours.
-3. While roast is cooking, prepare Horseradish Sauce. Combine the sour
-   cream, horseradish, salt and pepper in a medium bowl. Cover and
-   refrigerate to develop the flavors.
-4. Place cast iron skillet over high heat. Carefully remove the roast
-   from the water bath. When skillet is smoking, cut open the bag and
-   place the roast in the skillet. Cook for 2 minutes before flipping
-   over and cooking on the other side for 2 more minutes. Remove from
-   heat. If you're using the blow torch, just graze the roast with the
-   flame until browned.
+1. Preheat the sous-vide to 140F.
+2. Season the beef all over with the salt, pepper, paprika, garlic
+   powder, and onion powder, then seal in a vacuum bag with the vacuum
+   sealer. Cook for at least 18 hours.
+3. While the roast cooks, make the horseradish sauce. Combine the sour
+   cream, horseradish, salt, and pepper in a medium bowl. Cover and
+   refrigerate so the flavours develop.
+4. Set a cast iron skillet over high heat. Carefully pull the roast from
+   the water bath. Once the skillet is smoking, cut open the bag and lay
+   the roast in the skillet. Cook 2 minutes, then flip and cook the
+   other side 2 more minutes. Pull from the heat. If you're using a blow
+   torch, just graze the roast with the flame until browned.
 5. Combine the onion powder, beef broth, sugar, Worcestershire sauce,
-   salt and 3/4 cold water in a saucepan and bring to a boil over
-   medium-high heat. Reduce heat and simmer 5 minutes. Taste and season
-   with pepper and more salt if needed. Strain the mixture and discard
-   the onions (if there were any in the soup.) Cover and keep warm.
+   salt, and 3/4 cold water in a saucepan and bring to a boil over
+   medium-high heat. Reduce the heat and simmer 5 minutes. Taste and
+   season with pepper and more salt if needed. Strain and discard the
+   onions (if there were any in the soup). Cover and keep warm.
 6. Spread the horseradish sauce on one side of each baguette. Dip the
-   steak slices in the warm au jus and place on top of the bread with
-   horseradish sauce, then place the other slices of bread on top.
-   Transfer the remaining au jus to two dipping bowls and serve with the
+   steak slices in the warm au jus and set them on the bread with the
+   horseradish sauce, then top with the other slices of bread. Pour the
+   remaining au jus into two dipping bowls and serve alongside the
    sandwiches for dipping.

@@ -5,8 +5,6 @@ Easy No-Knead Focaccia
 | Prep Time: 20 minutes | Cook Time: 25 minutes | Total Time: 11 hours | Yield: 1 focaccia |
 +-----------------------+-----------------------+----------------------+-------------------+
 
-Source: `Bon Appetit <https://www.bonappetit.com/recipe/easy-no-knead-focaccia>`__
-
 Ingredients
 -----------
 
@@ -15,51 +13,46 @@ Ingredients
 - 5 cups (625 g) all-purpose flour
 - 5 teaspoons Diamond Crystal or 1 tablespoon Morton kosher salt
 - 6 tablespoons extra-virgin olive oil, divided, plus more for hands
-- 4 tablespoons unsalted butter, plus more for pan
 - Flaky sea salt
+- 4 tablespoons unsalted butter, plus more for pan
 - 2 garlic cloves
 
 Directions
 ----------
 
 1. Whisk one envelope active dry yeast, honey, and 2 1/2 cups lukewarm water
-   in a medium bowl and let sit 5 minutes (it should foam or at least get
-   creamy; if it doesn't your yeast is dead and you should start again-check
-   the expiration date!).
-2. Add flour and salt and mix with a rubber spatula until a shaggy dough
+   in a medium bowl; let sit 5 minutes. It should foam or at least get creamy;
+   if it doesn't, the yeast is dead, so start again and check the expiration
+   date.
+2. Add flour and salt, then mix with a rubber spatula until a shaggy dough
    forms and no dry streaks remain.
-3. Pour 4 tablespoons extra-virgin olive oil into a large bowl. Transfer dough to
-   bowl and turn to coat in oil. Cover with lid or plastic wrap and chill in
-   refrigerator until dough is doubled in size (it should look very bubbly
-   and alive), at least 8 hours and up to 1 day. If you're in a rush, you
-   can also let it rise at room temperature until doubled in size, 3-4 hours.
-4. Spray a 13x9" baking pan then pour 1 tablespoon extra-virgin olive oil into
-   center of pan. Keeping the dough in the bowl and using a fork in each
-   hand, gather up edges of dough farthest from you and lift up and over
-   into center of bowl. Give the bowl a quarter turn and repeat process. Do
-   this 2 more times; you want to deflate dough while you form it into a
-   rough ball. Transfer dough to prepared pan. Pour any oil left in bowl
-   over and turn dough to coat it in oil. Let rise, uncovered, in a dry,
-   warm spot until doubled in size, at least 1 1/2 hours and up to 4 hours.
-5. Place a rack in middle of oven; preheat to 450F. To see if the dough is
-   ready, poke it with your finger. It should spring back slowly, leaving a
-   small visible indentation. If it springs back quickly, the dough isn't
-   ready. (If at this point the dough is ready to bake but you aren't, you
-   can chill it up to 1 hour.) Lightly oil your hands. Gently stretch out
-   dough to fill baking pan, if needed. Dimple focaccia all over with your
-   fingers, like you're aggressively playing the piano, creating very deep
-   depressions in the dough (reach your fingers all the way to the bottom
-   of the pan). Drizzle with remaining 1 tablespoon extra-virgin olive oil and
-   sprinkle with flaky sea salt. Bake focaccia until puffed and golden
-   brown all over, 20-30 minutes.
-6. Hold off on this last step until you're ready to serve the focaccia:
-   Melt 4 tablespoons unsalted butter in a small saucepan over medium heat.
-   Remove from heat. Peel and grate in garlic cloves with a Microplane.
-   Return to medium heat and cook, stirring often, until garlic is just
-   lightly toasted, 30-45 seconds. (Or, if you prefer raw garlic to
-   toasted garlic, you can grate the garlic into the hot butter, off
-   heat, then brush right away.)
-7. Brush garlic-butter all over focaccia and slice into squares or
+3. Pour 4 tablespoons extra-virgin olive oil into a large bowl, then transfer
+   the dough and turn to coat. Cover with a lid or plastic wrap and chill
+   until doubled and very bubbly, at least 8 hours and up to 1 day. In a rush,
+   rise at room temperature until doubled, 3 to 4 hours.
+4. Spray a 13x9" baking pan and pour 1 tablespoon extra-virgin olive oil into
+   the centre. Keeping the dough in the bowl and using a fork in each hand,
+   gather the edges farthest from you, lift up and over into the centre, give
+   the bowl a quarter turn, and repeat; do this 2 more times to deflate the
+   dough as you form it into a rough ball. Transfer to the prepared pan, pour
+   any oil left in the bowl over, and turn to coat. Let rise uncovered in a
+   dry, warm spot until doubled, at least 1 1/2 hours and up to 4 hours.
+5. Place a rack in the middle of the oven and preheat to 450F. Poke the dough
+   to test it; it should spring back slowly, leaving a small indentation, and
+   if it springs back quickly it isn't ready. If the dough is ready but you
+   aren't, chill it up to 1 hour. Lightly oil your hands, then gently stretch
+   the dough to fill the pan if needed. Dimple all over with your fingers,
+   reaching all the way to the bottom of the pan to create very deep
+   depressions. Drizzle with the remaining 1 tablespoon extra-virgin olive oil
+   and sprinkle with flaky sea salt. Bake until puffed and golden brown all
+   over, 20 to 30 minutes.
+6. Hold off on this step until ready to serve. Melt 4 tablespoons unsalted
+   butter in a small saucepan over medium heat, then remove from heat. Peel
+   and grate in the garlic cloves with a Microplane. Return to medium heat and
+   cook, stirring often, until the garlic is just lightly toasted, 30 to 45
+   seconds. If you prefer raw garlic, grate it into the hot butter off heat,
+   then brush right away.
+7. Brush the garlic-butter all over the focaccia, then slice into squares or
    rectangles.
 
 Notes
@@ -72,4 +65,3 @@ sheet, for focaccia that's thinner, crispier, and great for snacking.
 Make Ahead: Focaccia is best eaten the day it's made, but keeps well in the
 freezer. Slice it into pieces, store it in a freezer-safe container, then
 reheat it on a baking sheet in a 300F oven.
-

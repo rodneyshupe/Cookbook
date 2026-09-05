@@ -5,8 +5,6 @@ Baked Manicotti with Spinach
 | Prep Time: 5 minutes | Cook Time: 2 hours | Yield: 6-8 servings |
 +----------------------+--------------------+---------------------+
 
-Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/4250-baked-manicotti-with-spinach>`__
-
 Ingredients
 -----------
 
@@ -35,28 +33,28 @@ Filling and Pasta
 Directions
 ----------
 
-1. For the sauce Adjust oven rack to middle position and heat oven to
-   375F. Pulse 1 can tomatoes with their juice in food processor until
-   coarsely chopped, 3 or 4 pulses. Transfer to bowl. Repeat with remaining
-   can tomatoes.
+1. For the sauce Adjust oven rack to middle position and heat oven to 375F.
+   Pulse 1 can tomatoes with their juice in food processor until coarsely
+   chopped, 3 or 4 pulses. Transfer to bowl and repeat with remaining can
+   tomatoes.
 2. Heat oil, garlic, and pepper flakes (if using) in large saucepan over
    medium heat until fragrant but not brown, 1 to 2 minutes. Stir in tomatoes
-   and 1/2 teaspoon salt and simmer until thickened slightly, about
-   15 minutes. Stir in basil; adjust seasoning with salt.
-3. For the filling: Combine ricotta, 1 cup Parmesan, mozzarella, eggs,
-   spinach, 1 teaspoon salt, 1/2 teaspoon pepper, basil, and nutmeg in medium
-   bowl; set aside.
-4. To assemble: Pour 1 inch boiling water into 13 by 9-inch broilersafe
-   baking dish, then add noodles one at a time. Let noodles soak until
-   pliable, about 5 minutes, separating noodles with tip of sharp knife to
-   prevent sticking. Remove noodles from water and place in single layer on
-   clean kitchen towels; discard water in baking dish and dry baking dish.
-5. Spread bottom of baking dish evenly with 1 1/2 cups sauce. Using
-   soupspoon, spread generous 1/4 cup cheese-spinach mixture evenly onto
-   bottom three-quarters of each noodle (with short side facing you),
-   leaving top quarter of noodle exposed. Roll into tube shape and arrange
-   in baking dish seam side down. Top evenly with remaining sauce, making
-   certain that pasta is completely covered.
+   and 1/2 teaspoon salt and simmer until thickened slightly, about 15
+   minutes. Stir in basil and adjust seasoning with salt.
+3. For the filling Combine ricotta, 1 cup Parmesan, mozzarella, eggs, spinach,
+   1 teaspoon salt, 1/2 teaspoon pepper, basil, and nutmeg in medium bowl and
+   set aside.
+4. To assemble Pour 1 inch boiling water into 13 by 9-inch broilersafe baking
+   dish, then add noodles one at a time. Soak noodles until pliable, about 5
+   minutes, separating them with tip of sharp knife to prevent sticking.
+   Remove noodles from water and place in single layer on clean kitchen
+   towels. Discard water in baking dish and dry baking dish.
+5. Spread bottom of baking dish evenly with 1 1/2 cups sauce. Using soupspoon,
+   spread generous 1/4 cup cheese-spinach mixture evenly onto bottom
+   three-quarters of each noodle (with short side facing you), leaving top
+   quarter exposed. Roll into tube shape and arrange in baking dish seam side
+   down. Top evenly with remaining sauce, making certain pasta is completely
+   covered.
 6. Cover manicotti with aluminum foil. Bake until bubbling, about 40 minutes,
    then remove foil. Remove baking dish, adjust oven rack to uppermost
    position (about 6 inches from heating element), and heat broiler. Sprinkle

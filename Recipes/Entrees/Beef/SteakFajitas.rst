@@ -26,16 +26,16 @@ Ingredients
 Directions
 ----------
 
-1. In a small bowl, combine chili powder, cumin, paprika, garlic powder,
-   1 teaspoon salt and 1/2 teaspoon pepper.
-   Season steak with chili powder mixture.
-2. Heat cask iron pan over medium high heat with 1 tablespoon of oil until
-   starting to smoke. Add steak to pan, and cook, flipping once, until
-   desired doneness, about 4-5 minutes per side for medium rare. Remove from
-   pan and let rest 5 minutes.
-3. Season bell peppers and onion with with salt and pepper, to taste. Add bell
-   peppers and onion to pan (add oil if required), and cook, tossing
-   occasionally, until charred and tender, about 6-8 minutes.
-4. Thinly slice steak against the grain and toss back into the pan to reheat
-   slightly. Serve immediately from the pan with tortillas and sides of salsa
-   and crema.
+1. Combine chili powder, cumin, paprika, garlic powder, 1 teaspoon salt, and
+   1/2 teaspoon pepper in a small bowl. Season the steak all over with the
+   chili powder mixture.
+2. Heat 1 tablespoon oil in a cast iron pan over medium-high heat until it
+   starts to smoke. Add the steak and cook, flipping once, until it reaches
+   your desired doneness, about 4 to 5 minutes per side for medium rare.
+   Remove from the pan and let rest 5 minutes.
+3. Season the bell peppers and onion with salt and pepper. Add them to the pan
+   (add oil if needed) and cook, tossing occasionally, until charred and
+   tender, 6 to 8 minutes.
+4. Slice the steak thinly against the grain and toss it back into the pan to
+   reheat slightly. Serve right away from the pan with tortillas and sides of
+   salsa and crema.

@@ -22,34 +22,35 @@ Ingredients
 Directions
 ----------
 
-1.  Make the Broth: Heat oil in large saucepan over medium-high heat.
-    Brown turkey giblets and neck for 5 minutes. Cook onion for 3
-    minutes. Cover and cook over low heat for 20 minutes.
-2.  Add chicken broth and water, scrape pan bottom, and bring to boil.
-    Add herbs and simmer, skimming foam from surface, for 30 minutes.
-3.  Pour broth through fine-mesh strainer. Reserve and dice heart and
-    gizzard. Refrigerate broth and diced giblets until ready to use.
-4.  Make the Roux and Thicken the Broth: Melt butter in large saucepan
-    over medium-low heat. Whisk in flour. Cook, stirring constantly,
-    until nutty brown and fragrant, 10 to 15 minutes. Bring reserved
-    turkey broth to simmer.
-5.  Gradually add hot turkey broth to roux. Vigorous and constant
-    whisking at this point is key to avoiding lumps. Reserve 1 cup of
-    broth for deglazing roasting pan (see #9).
-6.  Simmer gravy, stirring occasionally and skimming scum from surface
-    with spoon, until thickened, about 30 minutes. Set aside, covered,
-    until turkey is done.
-7.  Deglaze the Pan and Add the Drippings To the Gravy: Pour drippings
-    through mesh strainer set over measuring cup. Let liquid settle
-    until fat rises to top. Return vegetables in strainer to roasting
-    pan.
-8.  Tilt measuring cup and use wide, shallow soup spoon to skim fat off
-    surface. Reserve defatted drippings. Return gravy in saucepan to
-    simmer.
-9.  Place roasting pan over two burners at medium-high heat. Add wine
-    and reserved 1 cup broth and scrape up browned bits in pan. Boil
-    until liquid reduces by half, 5 minutes.
-10. Strain roasting pan liquid into gravy, pressing on solids to extract
-    all liquid. Add defatted drippings to taste. Stir in giblets and
-    serve.
-
+1. Make the broth: Heat oil in a large saucepan over medium-high heat, then
+   brown the turkey giblets and neck for 5 minutes. Cook the onion for 3
+   minutes, then cover and cook over low heat for 20 minutes.
+2. Add the chicken broth and water, scrape the pan bottom, and bring to a
+   boil. Add the herbs and simmer, skimming foam from the surface, for 30
+   minutes.
+3. Pour the broth through a fine-mesh strainer, then reserve and dice the
+   heart and gizzard. Refrigerate the broth and diced giblets until ready to
+   use.
+4. Make the roux and thicken the broth: Melt the butter in a large saucepan
+   over medium-low heat and whisk in the flour. Cook, stirring constantly,
+   until nutty brown and fragrant, 10 to 15 minutes, then bring the reserved
+   turkey broth to a simmer.
+5. Gradually add the hot turkey broth to the roux, whisking vigorously and
+   constantly to avoid lumps. Reserve 1 cup of broth for deglazing the
+   roasting pan (see #9).
+6. Simmer the gravy, stirring occasionally and skimming scum from the surface
+   with a spoon, until thickened, about 30 minutes. Set aside, covered, until
+   the turkey is done.
+7. Deglaze the pan and add the drippings to the gravy: Pour the drippings
+   through a mesh strainer set over a measuring cup and let the liquid settle
+   until the fat rises to the top. Return the vegetables in the strainer to
+   the roasting pan.
+8. Tilt the measuring cup and use a wide, shallow soup spoon to skim the fat
+   off the surface. Reserve the defatted drippings, then return the gravy in
+   the saucepan to a simmer.
+9. Place the roasting pan over two burners at medium-high heat. Add the wine
+   and reserved 1 cup broth and scrape up the browned bits in the pan. Boil
+   until the liquid reduces by half, 5 minutes.
+10. Strain the roasting pan liquid into the gravy, pressing on the solids to
+    extract all the liquid. Add the defatted drippings to taste, then stir in
+    the giblets and serve.

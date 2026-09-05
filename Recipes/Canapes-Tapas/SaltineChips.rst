@@ -16,11 +16,10 @@ Ingredients
 Directions
 ----------
 
-1. Preheat oven to 350F. In medium size bowl, combine dry mustard,
-   hot sauce and butter. Stir to combine.
-2. Add saltines to bowl and gently toss until the saltines are coated evenly.
-3. Line backing sheet with parchment paper and lay saltines out in one layer.
-   Transfer to oven and bake for 10 minutes.
-4. Let cool for at least 10 minutes.
+1. Preheat oven to 350F; combine dry mustard, hot sauce, and butter in a
+   medium bowl and stir together, then add the saltines and toss gently
+   until evenly coated.
+2. Line a baking sheet with parchment and lay the saltines out in one layer;
+   bake until crisp, 10 minutes, then let cool, at least 10 minutes.
 
-*To store completely cool and store in zip lock bag.*
+*To store, cool completely and keep in a zip lock bag.*

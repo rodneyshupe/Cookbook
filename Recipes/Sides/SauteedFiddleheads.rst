@@ -18,10 +18,9 @@ Ingredients
 Directions
 ----------
 
-1. Bring a large pot of salted water to a boil. Cook fiddlehead ferns in the
-   boiling water until barely tender, 7 to 10 minutes; drain.
-2. Heat olive oil in a large skillet over medium-high heat. Stir in the
-   prepared fiddlehead ferns, garlic, and the salt and pepper. Cook and stir
-   until ferns are tinged lightly brown and tender, about 5 minutes. Remove
-   from heat and sprinkle with lemon juice.
-
+1. Bring a large pot of salted water to a boil; cook fiddleheads until barely
+   tender, 7 to 10 minutes, then drain.
+2. Heat olive oil in a large skillet over medium-high heat; stir in the
+   fiddleheads, garlic, salt, and pepper. Cook and stir until ferns are tinged
+   lightly brown and tender, about 5 minutes, then remove from heat and
+   sprinkle with lemon juice.

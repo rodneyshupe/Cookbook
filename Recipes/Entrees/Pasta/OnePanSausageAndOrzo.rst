@@ -16,20 +16,20 @@ Ingredients
 - 2 garlic cloves, minced
 - 1 teaspoon red pepper flakes
 - 1 teaspoon paprika
-- 1 can, 14 ounce (414 ml), (about 2 cups) stewed tomatoes
 - 2 cups chicken broth
+- 1 can, 14 ounce (414 ml), (about 2 cups) stewed tomatoes
 - 2 green onions, thinly sliced as garnish
 
 Directions
 ----------
 
-1. In a large skillet heat oil over medium high heat.  Add sausage and begin
-   to cook until cooked half way through stirring often.  Add onion and bell
-   pepper and cook until onions are translucent but not started to brown.
-2. Add orzo, garlic, pepper flakes, and paprika, and stir until orzo is
-   coated in the oils from the sausage.
-3. Add chicken broth and scrape fond from the bottom of the pan.  Bring to a
-   simmer and then add stewed tomatoes.  Return to a simmer and reduce heat
-   to medium low and cover. Cook until orzo is tender and absorbed the
+1. Heat oil in a large skillet over medium high heat. Add sausage and cook,
+   stirring often, until cooked half way through. Add onion and bell pepper
+   and cook until onions are translucent but not starting to brown.
+2. Add orzo, garlic, pepper flakes, and paprika, and stir until orzo is coated
+   in the oils from the sausage.
+3. Add chicken broth and scrape the fond from the bottom of the pan. Bring to
+   a simmer, then add stewed tomatoes. Return to a simmer, reduce heat to
+   medium low, and cover. Cook until orzo is tender and has absorbed the
    liquid, about 15 to 18 minutes.
 4. Garnish with green onion and serve.

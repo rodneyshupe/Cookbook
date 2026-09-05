@@ -24,29 +24,26 @@ Ingredients
 Directions
 ----------
 
-1. In a large glass or stainless steel bowl, combine cucumbers and
-   onions. Sprinkle with pickling salt, cover and let stand at room
-   temperature for 1 hour. Transfer to a colander placed over a sink and
-   drain thoroughly.
+1. Combine cucumbers and onions in a large glass or stainless steel bowl;
+   sprinkle with pickling salt, cover, and let stand at room temperature for 1
+   hour, then drain thoroughly in a colander over a sink.
 2. Meanwhile, prepare canner, jars and lids.
-3. In a large stainless steel saucepan, combine sugar, ClearJel,
-   mustard, ginger and turmeric. Stir well. Gradually blend in water.
-   Add vinegar and red pepper. Bring to a boil over medium-high heat,
-   stirring frequently to dissolve sugar and prevent lumps from forming.
-   Reduce heat and boil gently, stirring frequently, until mixture
-   thickens, about 5 minutes. Add drained cucumber mixture and return to
-   a boil.
-4. Ladle cucumber mixture into hot jars, leaving 1/2 inch (1 cm)
-   headspace. Remove air bubbles and adjust headspace, if necessary, by
-   adding hot cucumber mixture. Wipe rim. Center lid on jar. Screw band
-   down until resistance is met, then increase to fingertip-tight.
-5. Place jars in canner, ensuring they are completely covered with
-   water. Bring to a boil and process for 10 minutes. Remove canner lid.
-   Wait 5 minutes, then remove jars, cool and store.
+3. Combine sugar, ClearJel, mustard, ginger and turmeric in a large stainless
+   steel saucepan and stir well; gradually blend in water, then add vinegar
+   and red pepper. Bring to a boil over medium-high heat, stirring frequently
+   to dissolve sugar and prevent lumps. Reduce heat and boil gently, stirring
+   frequently, until thickened, about 5 minutes, then add the drained cucumber
+   mixture and return to a boil.
+4. Ladle cucumber mixture into hot jars, leaving 1/2 inch (1 cm) headspace;
+   remove air bubbles and adjust headspace if necessary by adding hot cucumber
+   mixture, then wipe rim, center lid on jar, and screw band down until
+   resistance is met, increasing to fingertip-tight.
+5. Place jars in canner, ensuring they are completely covered with water.
+   Bring to a boil and process for 10 minutes, then remove canner lid, wait 5
+   minutes, and remove jars, cool and store.
 
 Variations
 ----------
 
 - Chunky Zucchini Pickles: Substitute unpeeled, seeded zucchini for the
   cucumber.
-

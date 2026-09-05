@@ -23,4 +23,3 @@ Ingredients
 - 1 tablespoon dried thyme
 - 1 tablespoon ground cumin
 - 1 tablespoon cayenne
-

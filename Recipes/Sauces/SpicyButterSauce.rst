@@ -19,8 +19,7 @@ Ingredients
 Directions
 ----------
 
-1. Whisk hot sauce and cornstarch together in small saucepan. Cook over
-   medium-low heat, whisking constantly, until mixture is bubbly and
-   thick, about 2 minutes. Off heat, whisk in butter, 1 piece at a time,
+1. Whisk the hot sauce and cornstarch together in a small saucepan. Cook over
+   medium-low heat, whisking constantly, until the mixture is bubbly and
+   thick, about 2 minutes. Off heat, whisk in the butter 1 piece at a time
    until melted. Serve warm.
-

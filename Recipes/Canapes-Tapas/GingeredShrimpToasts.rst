@@ -5,8 +5,6 @@ Gingered Shrimp Toasts
 | Prep Time: 25 minutes | Yield: 36 pieces |
 +-----------------------+------------------+
 
-Source: `Cook's Country <https://www.cookscountry.com/recipes/2375-gingered-shrimp-toasts>`__
-
 Ingredients
 -----------
 
@@ -26,19 +24,18 @@ Directions
 ----------
 
 1. Adjust oven rack to middle position and heat oven to 350F.
-   Brush bread slices with 1/4 cup oil. Bake on baking sheet until
+   Brush bread slices with 1/4 cup oil. Bake on a baking sheet until
    golden brown, about 10 minutes.
-2. Process ginger, garlic, and onion in food processor until smooth. Add
+2. Process ginger, garlic, and onion in a food processor until smooth. Add
    cream cheese, 1/2 teaspoon lemon juice, and 1/2 teaspoon salt and
-   process until smooth. Toss shrimp, remaining oil, 1 tablespoon lemon
-   juice, basil, chives, and salt and pepper to taste in bowl.
+   process until smooth. In a bowl, toss shrimp with remaining oil, 1
+   tablespoon lemon juice, basil, chives, and salt and pepper to taste.
 3. Spread each toast with cream cheese mixture and top with 1 sliced
-   shrimp. Serve. *If using raw shrip, cook shrimp by steaming for 5
-   minutes. The chill in an ice bath.*
+   shrimp. Serve. *If using raw shrimp, steam until cooked through, about
+   5 minutes, then chill in an ice bath.*
 
 Make Ahead
 ----------
 
 The cream cheese spread can be refrigerated for up to 2 days. The
 seasoned shrimp can be refrigerated for up to 1 day.
-

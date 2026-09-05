@@ -22,6 +22,5 @@ Ingredients
 Directions
 ----------
 
-1. Process all ingredients in blender until smooth, about 30 seconds,
-   scraping down sides of jar with spatula after 10 seconds.
-
+1. Blend all ingredients until smooth, about 30 seconds, scraping down the
+   sides of the jar with a spatula after 10 seconds.

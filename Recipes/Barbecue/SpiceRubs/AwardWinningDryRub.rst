@@ -33,4 +33,3 @@ Notes
 
 For Ribs - mix 1/2 cup + 2 tablespoons dark brown sugar and only 6
 tablespoons of seasoning salt.
-

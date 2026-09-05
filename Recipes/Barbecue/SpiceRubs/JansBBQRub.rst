@@ -5,8 +5,6 @@ Jans BBQ Rub
 | Prep Time: 5 minutes | Yield: about 3 1/2 cups |
 +----------------------+-------------------------+
 
-Source: `Smokin Pete BBQ <https://www.smokinpetebbq.com/wordpress/jans-original-dry-rub/>`__
-
 Ingredients
 -----------
 
@@ -35,4 +33,3 @@ Lawry's Substitute
 - 1/4 teaspoon onion powder
 - 1/4 teaspoon garlic powder
 - 1/4 teaspoon cornstarch
-

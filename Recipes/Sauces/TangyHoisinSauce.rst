@@ -13,10 +13,9 @@ Ingredients
 - 1/2 cup hoisin sauce
 - 4 teaspoons rice vinegar
 - 1 teaspoon grated fresh ginger
-- 2 scallion, sliced thin
+- 2 scallions, sliced thin
 
 Directions
 ----------
 
 1. Mix all ingredients together until smooth.
-

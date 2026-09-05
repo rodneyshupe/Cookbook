@@ -21,12 +21,12 @@ Ingredients
 Directions
 ----------
 
-1. Cook onion and garlic in oil until softened - but not too soft
-2. Mix flour and curry powder together, and add to onion mixture.
-   Stir well for a minute
-3. add the coconut milk. Stir in apricot jam and saracha.
-4. Add in chicken and allow all to warm through. Serve on rice and garnish
-   with a little fresh chopped cilantro
+1. Cook onion and garlic in oil until softened but not too soft. Mix flour and
+   curry powder together, add to the onion mixture, and stir well for a
+   minute.
+2. Add the coconut milk, then stir in apricot jam and saracha. Add chicken and
+   warm through. Serve on rice and garnish with a little fresh chopped
+   cilantro.
 
 Notes
 -----

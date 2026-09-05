@@ -5,8 +5,6 @@ Potato Galette
 | Prep Time: 15 minutes | Cook Time: 50 minutes | Yield: 6-8 servings |
 +-----------------------+-----------------------+---------------------+
 
-Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/36-scalloped-potatoes>`__
-
 Ingredients
 -----------
 
@@ -20,33 +18,27 @@ Ingredients
 Directions
 ----------
 
-1. Adjust oven rack to lowest position and heat oven to 450F.
-   Place potatoes in large bowl and fill with cold water. Using hands,
-   swirl to remove excess starch, then drain in colander. Spread
-   potatoes onto kitchen towels and thoroughly dry.
-2. Whisk 4 tablespoons butter, cornstarch, salt, pepper, and rosemary
-   (if using) together in large bowl. Add dried potatoes and toss until
-   thoroughly coated. Place remaining tablespoon butter in heavy
-   bottomed 10-inch ovenproof nonstick skillet and swirl to coat. Place
-   1 potato slice in center of skillet then overlap slices in circle
-   around center slice, followed by outer circle of overlapping slices.
-   Gently place remaining sliced potatoes on top of first layer,
-   arranging so they form even thickness.
-3. Place skillet over medium-high heat and cook until sizzling and
-   potatoes around edge of skillet start to turn translucent, about 5
-   minutes. Spray 12-inch square of foil with nonstick cooking spray.
-   Place foil, sprayed side down, on top of potatoes. Place 9-inch cake
-   pan on top of foil and fill with 2 cups pie weights. Firmly press
-   down on cake pan to compress potatoes. Transfer skillet to oven and
+1. Adjust oven rack to lowest position and heat oven to 450F. Place potatoes
+   in large bowl and fill with cold water. Swirl with hands to remove excess
+   starch, then drain in colander. Spread potatoes onto kitchen towels and dry
+   thoroughly.
+2. Whisk 4 tablespoons butter, cornstarch, salt, pepper, and rosemary (if
+   using) in large bowl. Add dried potatoes and toss until thoroughly coated.
+   Swirl remaining tablespoon butter in heavy bottomed 10-inch ovenproof
+   nonstick skillet to coat. Place 1 potato slice in center, then overlap
+   slices in circle around it, then add outer circle of overlapping slices.
+   Gently layer remaining potatoes on top, arranging to form even thickness.
+3. Set skillet over medium-high heat and cook until sizzling and potatoes
+   around edge start to turn translucent, about 5 minutes. Spray 12-inch
+   square of foil with nonstick cooking spray and place sprayed side down on
+   potatoes. Set 9-inch cake pan on foil and fill with 2 cups pie weights,
+   then firmly press down to compress potatoes. Transfer skillet to oven and
    bake 20 minutes.
-4. Remove cake pan and foil from skillet. Continue to cook until
-   potatoes are tender when paring knife is inserted in center, 20 to 25
-   minutes. Return skillet to medium heat on stovetop and cook, gently
-   shaking pan (use potholder-handle will be hot), until galette
-   releases from sides of pan, 2 to 3 minutes.
-5. Off heat, place cutting board over skillet. With hands protected by
-   oven mitts or potholders, using 1 hand to hold cutting board in place
-   and 1 hand on skillet handle, carefully invert skillet and cutting
-   board together. Lift skillet off galette. Using serrated knife,
-   gently cut into wedges and serve immediately.
-
+4. Remove cake pan and foil. Continue to cook until potatoes are tender when
+   paring knife is inserted in center, 20 to 25 minutes. Return skillet to
+   medium heat on stovetop and cook, gently shaking pan (use potholder, handle
+   will be hot), until galette releases from sides, 2 to 3 minutes.
+5. Off heat, place cutting board over skillet. With hands protected by oven
+   mitts or potholders, 1 hand holding cutting board and 1 hand on skillet
+   handle, carefully invert skillet and board together. Lift skillet off
+   galette. Cut into wedges with serrated knife and serve immediately.

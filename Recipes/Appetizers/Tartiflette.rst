@@ -22,23 +22,19 @@ Ingredients
 Directions
 ----------
 
-1. Preheat your oven to 400F and set a large pot of cold water on the stove.
-2. Add the potatoes to the pot, season the water with salt, and cover with a
-   lid. Bring the potatoes to a boil over high heat and cook until tender,
-   15 to 20 minutes. Drain the potatoes and allow them to cool slightly
-   before slicing about 1/4-inch thick.
-3. Meanwhile, place an 8-inch cast iron skillet or ovenproof frying pan on
-   the stove and add the bacon. Turn the heat on to medium and cook until the
-   bacon starts to sizzle. Add the butter and shallots and season with salt
-   and pepper. Cook the bacon and shallots until the shallots are golden
-   brown, 4 to 5 minutes. Add the garlic, cook for 1 minute just to soften,
-   then carefully deglaze the pan with the wine. Allow the wine to bubble
-   away until almost all of the liquid has evaporated, 4 to 5 minutes.
-4. Using a slotted spoon, remove the bacon and shallots from the pan and set
-   aside. Layer in half of the potatoes followed by half of the bacon and
-   shallot mixture. Lay half of the cheese on top, sprinkle on half of the
-   nutmeg, and repeat the layers to use up the remaining ingredients.
-   Carefully pour the cream over the whole lot and transfer the pan to the
-   oven. Bake the tartiflette until everything is bubbling and golden brown,
-   10 to 15 minutes. Allow the tartiflette to cool slightly for 5 to 10
-   minutes before servings
+1. Preheat the oven to 400F and set a large pot of cold water on the stove.
+2. Add the potatoes, season the water with salt, and cover; bring to a boil
+   over high heat and cook until tender, 15 to 20 minutes. Drain and cool
+   slightly, then slice about 1/4-inch thick.
+3. Meanwhile, add the bacon to an 8-inch cast iron skillet or ovenproof frying
+   pan; set over medium heat and cook until it starts to sizzle. Add the
+   butter and shallots, season with salt and pepper, and cook until the
+   shallots are golden brown, 4 to 5 minutes. Add the garlic and cook 1 minute
+   just to soften, then carefully deglaze with the wine and let it bubble away
+   until almost all the liquid has evaporated, 4 to 5 minutes.
+4. Using a slotted spoon, remove the bacon and shallots and set aside. Layer
+   in half the potatoes, half the bacon and shallot mixture, and half the
+   cheese; sprinkle on half the nutmeg, then repeat the layers with the
+   remaining ingredients. Carefully pour the cream over the whole lot and
+   transfer to the oven. Bake until everything is bubbling and golden brown,
+   10 to 15 minutes, then cool slightly before serving, 5 to 10 minutes.

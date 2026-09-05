@@ -10,16 +10,16 @@ Ingredients
 
 - 2 pablano peppers
 - 4 large flour tortillas
-- `Mexican Rice <#quick-mexican-rice>`__
 - `Refried Beans <#refried-beans>`__ (Note use vegetable oil instead of bacon)
-- 1 cup shreaded jackcheese.
-- tortilla chips.
+- `Mexican Rice <#quick-mexican-rice>`__
+- 1 cup shredded jack cheese
+- tortilla chips
 
 Directions
 ----------
 
-1. Blacken peppers on grill then leave in paper bag for 10 minutes
-   to steam, remove blackened skin. Slice into small strips.
-2. Heat tortillas.  Layer burrito; add beans, pepper strips, rice, cheese,
-   then second layer of beans, finially top with a few tortilla chips.
-   Roll burrito, by folding over ends and roll.
+1. Blacken peppers on grill, then steam in a paper bag 10 minutes; remove
+   blackened skin and slice into small strips.
+2. Heat tortillas, then layer each burrito: beans, pepper strips, rice,
+   cheese, a second layer of beans, and finally a few tortilla chips. Roll,
+   folding over the ends as you go.

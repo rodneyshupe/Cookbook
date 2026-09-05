@@ -5,8 +5,6 @@ Homemade Mustard
 | Prep Time: 10 minutes | Total Time: 2-3 days | Yield: about 1 1/2 cups |
 +-----------------------+----------------------+-------------------------+
 
-Source: `David Lebovitz <https://www.davidlebovitz.com/homemade-mustard-recipe-joe-beef/>`__
-
 Ingredients
 -----------
 
@@ -24,8 +22,7 @@ Directions
 ----------
 
 1. Combine all the ingredients, except the horseradish, in a stainless-steel
-   bowl. Cover, and let stand for 2-3 days.
-2. Put the ingredients in a blender and whiz until as smooth as possible. Add
-   2 to 4 tablespoons of water if the mustard is too thick. Blend in the
-   horseradish, if using.
-
+   bowl. Cover and let stand for 2-3 days.
+2. Transfer to a blender and whiz until as smooth as possible, adding 2 to 4
+   tablespoons of water if the mustard is too thick. Blend in the horseradish,
+   if using.

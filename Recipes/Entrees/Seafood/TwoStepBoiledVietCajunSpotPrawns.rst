@@ -7,6 +7,7 @@ Two-Step Boiled Viet-Cajun Spot Prawns
 
 Ingredients
 -----------
+
 - 3/4 cup softened butter to spread
 - 2 tablespoons minced garlic
 - 2 tablespoons Cajun Seasoning Blend
@@ -21,12 +22,12 @@ Ingredients
 
 Directions
 ----------
-1. In a large wok or Dutch oven over medium-high heat, add the butter, garlic,
+
+1. In large wok or Dutch oven over medium-high heat, add butter, garlic,
    Cajun seasoning, pepper, ginger, orange, lemon, and onions. Stirring
-   constantly, cook the ingredients until the onions begin to wilt and the
-   citrus fruit softens, about 5 minutes.
-2. Add the whole boiled prawns along with 1/2 cup of the cooking liquid. Stir to
-   coat the crawfish with the sauce and heat through. Add more cooking liquid to
-   thin out the sauce and add more spice, if needed.
-3. To serve, mound the prawns on a platter or large bowl and pour over the
-   sauce.
+   constantly, cook until onions begin to wilt and citrus fruit softens,
+   about 5 minutes.
+2. Add whole boiled prawns along with 1/2 cup of cooking liquid. Stir to coat
+   prawns with sauce and heat through. Add more cooking liquid to thin out
+   sauce and add more spice, if needed.
+3. To serve, mound prawns on platter or large bowl and pour sauce over top.

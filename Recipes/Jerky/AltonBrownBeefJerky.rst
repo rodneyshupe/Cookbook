@@ -5,8 +5,6 @@ Alton Brown Beef Jerky
 | Prep Time: 10 minutes | Yield: about 1 1/2 cups marinade |
 +-----------------------+----------------------------------+
 
-Source: `Alton Brown <https://altonbrown.com/beef-jerky-recipe/>`__
-
 Ingredients
 -----------
 
@@ -21,21 +19,17 @@ Ingredients
 Directions
 ----------
 
-1. Trim the steak of any excess fat, place in a 1-gallon plastic zip-top
-   bag, and place it in the freezer for 1 to 2 hours in order to firm up.
-   This makes the meat much easier to slice.
-2. Remove steak from the freezer and thinly slice, with the grain, into
+1. Trim the steak of excess fat, place in a 1-gallon plastic zip-top bag, and
+   freeze until firm, 1 to 2 hours; this makes the meat much easier to slice.
+2. Remove the steak from the freezer and thinly slice, with the grain, into
    long strips.
-3. Place the strips of meat, along with all of the remaining ingredients,
-   in the zip-top bag and move around to evenly distribute all of the
-   ingredients. Put the bag into the refrigerator for 3 to 6 hours.
-4. Remove the meat from the marinade and pat dry. Evenly distribute the
-   strips of meat on 3 of the air filters, laying them in the grooves and
-   then stacking the filters on top of one another. Top these with 1 empty
-   filter. Next, lay the box fan on its side and lay the filters on top of
-   it. Strap the filters to the fan with 2 bungee cords. Stand the fan
-   upright, plug it in, and set it to medium.
-5. Allow the meat to dry for 8 to 12 hours. If using a commercial
+3. Place the strips in the zip-top bag with all of the remaining ingredients,
+   then move around to evenly distribute; refrigerate 3 to 6 hours.
+4. Remove the meat from the marinade and pat dry, then evenly distribute the
+   strips on 3 of the air filters, laying them in the grooves and stacking the
+   filters on top of one another; top with 1 empty filter. Lay the box fan on
+   its side, set the filters on top, and strap them to the fan with 2 bungee
+   cords. Stand the fan upright, plug it in, and set it to medium.
+5. Dry until the meat is done, 8 to 12 hours. If using a commercial
    dehydrator, follow the manufacturer's directions.
-6. Once dry, store in an airtight container in a cool, dry place for up to
-   3 months.
+6. Store in an airtight container in a cool, dry place for up to 3 months.

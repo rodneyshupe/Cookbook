@@ -6,8 +6,6 @@ Creamy Green Pea Soup
 | minutes           | minutes              | servings                  |
 +-------------------+----------------------+---------------------------+
 
-Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/568-creamy-green-pea-soup>`__
-
 Ingredients
 -----------
 
@@ -26,20 +24,19 @@ Ingredients
 Directions
 ----------
 
-1. Heat butter in large saucepan over low heat until foaming; add
-   shallots or leeks and cook, covered, until softened, 8 to 10 minutes,
-   stirring occasionally. Add flour and cook, stirring constantly, until
-   thoroughly combined, about 30 seconds. Stirring constantly, gradually
-   add chicken broth. Increase heat to high and bring to boil; reduce
-   heat to medium-low and simmer 3 to 5 minutes.
-2. Meanwhile, in workbowl of food processor fitted with steel blade,
-   process partially thawed peas until coarsely chopped, about 20
-   seconds. Add peas and lettuce to simmering broth. Increase heat to
-   medium-high, cover and return to simmer; simmer 3 minutes. Uncover,
-   reduce heat to medium-low, and continue to simmer 2 minutes longer.
-3. Working in 2 batches, puree soup in blender until smooth; strain into
-   large bowl. Rinse out and wipe saucepan; return pureed mixture to
-   saucepan and stir in cream. Heat mixture over low heat until hot,
-   about 3 minutes. Season to taste with salt and pepper; serve
+1. Heat the butter in a large saucepan over low heat until foaming. Add the
+   shallots or leeks, cover, and cook until softened, 8 to 10 minutes,
+   stirring occasionally. Add the flour and cook, stirring constantly, until
+   thoroughly combined, about 30 seconds. Stirring constantly, gradually add
+   the chicken broth. Increase the heat to high and bring to a boil, then
+   reduce the heat to medium-low and simmer 3 to 5 minutes.
+2. Meanwhile, fit a food processor with the steel blade and process the
+   partially thawed peas until coarsely chopped, about 20 seconds. Add the
+   peas and lettuce to the simmering broth. Increase the heat to medium-high,
+   cover, and return to a simmer, then simmer 3 minutes. Uncover, reduce the
+   heat to medium-low, and continue to simmer 2 minutes longer.
+3. Working in 2 batches, puree the soup in a blender until smooth and strain
+   into a large bowl. Rinse out and wipe the saucepan, then return the pureed
+   mixture to the saucepan and stir in the cream. Heat over low heat until
+   hot, about 3 minutes. Season to taste with salt and pepper and serve
    immediately.
-

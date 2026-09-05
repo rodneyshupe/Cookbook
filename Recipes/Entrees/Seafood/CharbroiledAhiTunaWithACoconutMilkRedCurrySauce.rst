@@ -30,8 +30,8 @@ Ingredients
 Directions
 ----------
 
-1. Place ahi tuna filets in a bowl; season, add 2 tablespoon olive oil, parsley, toss. Place onto a preheated grill. Make criss- cross markings on top side of the fish (about 1minute on each side). Place onto a baking sheet and refrigerate. If cooking fish from start to finish on grill cook later to time dish with rice and asparagus.
-2. Meanwhile prepare the sauce; pound lemongrass with a mallet, cut in half. In a sauce pan add 2 tablespoon olive oil, heat. Add shallots, season, and saute until golden. Add ginger, garlic, lemongrass, season, and saute an additional 2 minutes. Add white wine, and reduce until most of the liquid is gone. Stir in red curry paste, add fish sauce, soy sauce, and coconut milk, season. Let cook on low- medium for 15 minutes. Add lime leaf 5 minutes before serving. Remove the lemongrass.
-3. Place rice in rice cooker, season, and add chicken stock. The ratio is 1.5 parts liquid to 1 part rice. The rice should take approx. 15- 18 minutes.
-4. Prepare the vegetables; in a skillet add bacon, saute until golden. Add onions, season, and saute until golden. Add asparagus, 1/4 cup water, and cover 7 minutes before the dish is ready to assemble.
-5. Place tuna in a preheat oven at 350F and cook until desired temp. If you like your tuna rare you will only cook for 4-5 minutes. For medium approx. 7-8 minutes.
+1. Place ahi tuna filets in a bowl, season, add 2 tablespoons olive oil and parsley, and toss. Place onto a preheated grill. Make criss-cross markings on the top side of the fish, about 1 minute on each side. Place onto a baking sheet and refrigerate. If cooking fish from start to finish on grill, cook later to time with rice and asparagus.
+2. Prepare the sauce: pound lemongrass with a mallet and cut in half. Heat 2 tablespoons olive oil in a saucepan. Add shallots, season, and sauté until golden. Add ginger, garlic, lemongrass, season, and sauté an additional 2 minutes. Add white wine and reduce until most of the liquid is gone. Stir in red curry paste, add fish sauce, soy sauce, and coconut milk, and season. Let cook on low-medium for 15 minutes. Add lime leaf 5 minutes before serving. Remove the lemongrass.
+3. Place rice in rice cooker, season, and add chicken stock. The ratio is 1.5 parts liquid to 1 part rice. Rice should take approximately 15 to 18 minutes.
+4. Prepare the vegetables: cook bacon in a skillet until golden. Add onions, season, and sauté until golden. Add asparagus, 1/4 cup water, and cover 7 minutes before the dish is ready to assemble.
+5. Place tuna in a preheated 350F oven and cook until desired temperature. For rare, cook 4 to 5 minutes. For medium, approximately 7 to 8 minutes.

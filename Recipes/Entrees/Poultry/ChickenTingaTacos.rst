@@ -27,23 +27,22 @@ Directions
 
 1. Place chicken thighs, garlic cloves, halved onion, salt, oregano, water,
    and chicken stock, and water in a large pot. Bring to a simmer over high
-   heat; reduce to medium-low. Simmer 30 minutes, stirring occasionally.
-   Remove from heat.
-2. Transfer onion halves to a bowl with a slotted spoon; transfer chicken
-   thighs to a separate bowl.
-3. Pour broth through a strainer into a large bowl.
-4. Heat olive oil in the same pot over medium heat. Add diced onions and
-   cook until beginning to soften, about 4 minutes. Transfer strained
-   liquid to onions. Bring mixture to a boil over high heat; turn heat to
-   medium-low; reduce broth by about half, about 20 minutes.
-5. Transfer reserved boiled onions to a blender. Add chipotle peppers and
-   the adobo sauce. Swirl a bit of water in the can and add to the blender.
-   Add tomatoes. Cover blender with the lid. Pulse on and off until mixture
-   is partially blended. Blend on medium speed until smooth, 1 or 2
-   minutes. Transfer to pot with broth and onions.
-6. Increase heat to medium-high. Simmer 15-30 minutes, depending on how
-   thick you want the sauce. Reduce heat to medium-low.  Remove approx.
-   half the sauce and reserve for another use.
-7. Tear chicken into bite-size pieces and add to the pot. Cook another 10
-   to 15 minutes. Transfer to a serving dish; garnish with crumbled cotija
+   heat, then reduce to medium-low. Simmer, stirring occasionally, 30 minutes,
+   then remove from heat.
+2. Transfer onion halves to a bowl with a slotted spoon, then transfer chicken
+   thighs to a separate bowl. Pour broth through a strainer into a large bowl.
+3. Heat olive oil in the same pot over medium heat. Add diced onions and cook
+   until beginning to soften, about 4 minutes. Transfer strained liquid to
+   onions. Bring to a boil over high heat, then turn heat to medium-low and
+   reduce broth by about half, about 20 minutes.
+4. Transfer reserved boiled onions to a blender. Add chipotle peppers and the
+   adobo sauce. Swirl a bit of water in the can and add to the blender. Add
+   tomatoes. Cover blender with the lid. Pulse on and off until mixture is
+   partially blended, then blend on medium speed until smooth, 1 or 2 minutes.
+   Transfer to pot with broth and onions.
+5. Increase heat to medium-high. Simmer 15-30 minutes, depending on how thick
+   you want the sauce, then reduce heat to medium-low. Remove approx. half the
+   sauce and reserve for another use.
+6. Tear chicken into bite-size pieces and add to the pot. Cook another 10 to
+   15 minutes. Transfer to a serving dish, then garnish with crumbled cotija
    cheese and cilantro.

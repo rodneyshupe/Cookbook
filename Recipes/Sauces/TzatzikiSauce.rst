@@ -5,8 +5,6 @@ Tzatziki Sauce
 | Total Time: 15 minutes, plus 1 hour chilling | Yield: Serves 3-4 (Makes about 1 cups) |
 +----------------------------------------------+----------------------------------------+
 
-Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/3853-tzatziki-sauce>`__
-
 Ingredients
 -----------
 
@@ -19,8 +17,7 @@ Ingredients
 Directions
 ----------
 
-1. Shred the cucumber on the large holes of a box grater. Whisk the yogurt,
-   oil, mint, and garlic together in a medium bowl. Stir in the cucumbers
+1. Shred the cucumber on the large holes of a box grater. Whisk together the
+   yogurt, oil, mint, and garlic in a medium bowl, then stir in the cucumber
    and season with salt and pepper to taste. Cover and refrigerate until
-   chilled, about 1 hour. (The sauce can be refrigerated for up to 2 days.)
-
+   chilled, about 1 hour. The sauce keeps, refrigerated, for up to 2 days.

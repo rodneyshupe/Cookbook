@@ -5,8 +5,6 @@ Canned Salsa
 | Prep Time: 45 minutes | Total Time: 6 hours 5 minutes | Yield: 8 pints |
 +-----------------------+-------------------------------+----------------+
 
-Source: `AllRecipes (Tami) <https://www.allrecipes.com/recipe/175547/rockin-salsa/>`__
-
 This is a recipe I came up with by combining two of my favourite recipes
 into one awesome recipe. You can make this salsa as hot as you want by
 adding more peppers.
@@ -33,24 +31,21 @@ Ingredients
 Directions
 ----------
 
-1. Combine red onion, white onion, yellow onion, tomatoes, banana peppers,
-   green peppers, tomato paste, white vinegar, garlic powder, salt, cayenne
-   pepper, cumin, brown sugar, and white sugar in a large pot. Simmer until
-   thick, about 3 hours.
-2. Sterilize the jars and lids in boiling water for at least 5 minutes.
-   Pack the salsa into the hot, sterilized jars, filling the jars to within
-   1/4 inch of the top. Run a knife or a thin spatula around the insides of
-   the jars after they have been filled to remove any air bubbles. Wipe the
-   rims of the jars with a moist paper towel to remove any food residue.
-   Top with lids, and screw on rings.
-3. Place a rack in the bottom of a large stockpot and fill halfway with
-   water. Bring to a boil over high heat, then carefully lower the jars
-   into the pot using a holder. Leave a 2 inch space between the jars. Pour
-   in more boiling water if necessary until the water level is at least 1
-   inch above the tops of the jars. Bring the water to a full boil, cover
-   the pot, and process for 10 to 15 minutes.
-4. Remove the jars from the stockpot and place onto a cloth-covered or wood
-   surface, several inches apart, until cool. Once cool, press the top of
-   each lid with a finger, ensuring that the seal is tight (lid does not
-   move up or down at all). Refrigerate after opening.
-
+1. Combine the red onion, white onion, yellow onion, tomatoes, banana
+   peppers, green peppers, tomato paste, white vinegar, garlic powder, salt,
+   cayenne pepper, cumin, brown sugar, and white sugar in a large pot. Simmer
+   until thick, about 3 hours.
+2. Sterilize the jars and lids in boiling water at least 5 minutes. Pack the
+   salsa into the hot, sterilized jars, filling to within 1/4 inch of the
+   top. Run a knife or thin spatula around the insides to release any air
+   bubbles. Wipe the rims with a moist paper towel to remove any food
+   residue. Top with lids and screw on the rings.
+3. Set a rack in the bottom of a large stockpot and fill halfway with water.
+   Bring to a boil over high heat, then carefully lower the jars in using a
+   holder, leaving a 2 inch space between them. Pour in more boiling water if
+   needed until the level sits at least 1 inch above the tops of the jars.
+   Bring to a full boil, cover, and process for 10 to 15 minutes.
+4. Lift the jars out and set them on a cloth-covered or wood surface, several
+   inches apart, until cool. Press the top of each lid with a finger to
+   confirm a tight seal (the lid should not move up or down at all).
+   Refrigerate after opening.

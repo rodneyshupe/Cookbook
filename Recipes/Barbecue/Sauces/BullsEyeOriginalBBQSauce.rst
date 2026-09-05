@@ -27,8 +27,7 @@ Directions
 ----------
 
 1. Combine all ingredients in a medium saucepan over high heat and whisk
-   until smooth.
-2. Bring the mixture to a boil, then reduce the heat and simmer uncovered
-   for 45 minutes or until thick.
+   smooth.
+2. Bring to a boil, then reduce the heat and simmer uncovered until thick,
+   about 45 minutes.
 3. Cool, then store in a covered container in the refrigerator overnight.
-

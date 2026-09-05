@@ -8,8 +8,6 @@ Lomo/Lonzino
 This Italian / Spanish cured pork loin either has a paprika coating (lomo)
 or not (lonzino)
 
-Source: `UMAi Charcuterie <https://www.drybagsteak.com/recipe-charcuterie-lomo-lonzino.php>`__
-
 Equipment
 ---------
 UMAi Dry Bag, Vacuum Sealer
@@ -31,14 +29,10 @@ Ingredients
 Directions
 ----------
 
-1. Mix Dry Cure Ingredients well and rub onto meat, making sure to cover all
-   nooks and crannies.
-2. Transfer meat into a Ziplock and place in your refrigerator for two weeks
-   to cure.
-3. After the curing process, remove meat from bag, and rinse off cure under
-   running water.
-4. Transfer to UMAi Dry bag and vacuum seal, then place place on an open
-   wire rack to dry in your refrigerator four to eight weeks, or until
-   35-40% reduction in weight.
-5. After drying is complete, slice thin and enjoy!
-
+1. Mix the dry cure ingredients well and rub onto the meat, covering all nooks
+   and crannies.
+2. Transfer to a Ziplock and refrigerate two weeks to cure.
+3. Remove from the bag and rinse off the cure under running water; transfer to
+   a UMAi Dry bag and vacuum seal, then set on an open wire rack to dry in the
+   refrigerator four to eight weeks, until reduced 35-40% in weight.
+4. Slice thin and enjoy.

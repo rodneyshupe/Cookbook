@@ -5,8 +5,6 @@ Air Fryer French Fries
 | Prep Time: 15 minutes | Cook Time: 40 minutes | Total Time: 1 hour | Yield: 2-4 servings |
 +-----------------------+-----------------------+--------------------+---------------------+
 
-Source: `America's Test Kitchen <https://www.americastestkitchen.com/recipes/11347-air-fryer-french-fries>`__
-
 Equipment
 ---------
 Air Fryer
@@ -21,22 +19,19 @@ Ingredients
 Directions
 ----------
 
-1. Cut potatoes lengthwise into 1/2-inch-thick planks. Stack 3 or 4 planks
-   and cut into 1/2-inch-thick sticks; repeat with remaining planks.
-2. Submerge potatoes in large bowl of water and rinse to remove excess
-   starch. Drain potatoes and repeat process as needed until water remains
-   clear. Cover potatoes with hot tap water and let sit for 10 minutes.
-   Drain potatoes, transfer to paper towel-lined rimmed baking sheet, and
-   thoroughly pat dry.
-3. Toss potatoes with 1 tablespoon oil in clean, dry bowl, then transfer
-   to air-fryer basket. Place basket in air fryer, set temperature to
-   350F, and cook for 8 minutes. Transfer potatoes to now-empty bowl
-   and gently toss to redistribute. Return potatoes to air fryer and cook
-   until softened and potatoes have turned from white to blond (potatoes
-   may be spotty brown at tips), 5 to 10 minutes.
-4. Transfer potatoes to now-empty bowl and toss with remaining 1 tablespoon
-   oil and 1/2 teaspoon salt. Return potatoes to air fryer, increase
-   temperature to 400F, and cook until golden brown and crisp,
-   15 to 20 minutes, tossing gently in bowl to redistribute every
-   5 minutes. Transfer fries to large plate and season with salt and pepper
-   to taste. Serve immediately.
+1. Cut potatoes lengthwise into 1/2-inch-thick planks; stack 3 or 4 planks and
+   cut into 1/2-inch-thick sticks, then repeat with remaining planks.
+2. Submerge potatoes in a large bowl of water and rinse to remove excess
+   starch; drain and repeat until the water runs clear. Cover with hot tap
+   water and let sit 10 minutes, then drain, transfer to a paper towel-lined
+   rimmed baking sheet, and pat thoroughly dry.
+3. Toss potatoes with 1 tablespoon oil in a clean, dry bowl, then transfer to
+   the air-fryer basket; set temperature to 350F and cook 8 minutes. Transfer
+   to the now-empty bowl and toss gently to redistribute, then return to the
+   air fryer and cook until softened and turned from white to blond (may be
+   spotty brown at the tips), 5 to 10 minutes.
+4. Transfer to the now-empty bowl and toss with remaining 1 tablespoon oil and
+   1/2 teaspoon salt; return to the air fryer, increase temperature to 400F,
+   and cook until golden brown and crisp, 15 to 20 minutes, tossing gently in
+   the bowl to redistribute every 5 minutes. Transfer to a large plate, season
+   with salt and pepper to taste, and serve immediately.

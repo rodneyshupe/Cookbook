@@ -14,6 +14,6 @@ Ingredients
 
 Directions
 ----------
-- Whisk all ingredients together in bowl. Cover and refrigerate until ready
-  to serve.
 
+1. Whisk all ingredients together in a bowl. Cover and refrigerate until ready
+   to serve.

@@ -5,8 +5,6 @@ Asian Marinated Short Ribs
 | Prep Time: 20 minutes | Cook Time: 7 minutes | Marinate Time: 1-24 hours | Yield: 4 servings |
 +-----------------------+----------------------+---------------------------+-------------------+
 
-Source: `Rodney Bowers <https://beta.theloop.ca/food/recipes/marinated-short-ribs-with-peanut-salsa.html>`__
-
 Ingredients
 -----------
 
@@ -39,18 +37,16 @@ Peanut Salsa
 Directions
 ----------
 
-1. Combine all marinade ingredients in a bowl and whisk to combine.  Add
-   steaks to large ziplock bag and pour marinade over.  Push all air out
-   and seal bag and place in fridge for at lease 1 hour but not longer
-   than 24 hours.
-2. While meat marinades, cook olive oil and peanuts in a small saucepan
-   over medium heat until golden.
-3. Remove from heat and stir in garlic, sesame seeds, and red pepper
-   flakes. Let cool. Stir in lime juice and honey. Season salsa with salt
-   and set aside.
-4. Wash the green onions under cold water and drain well. Toss in bowl
-   with cilantro and set aside.
-5. Take the short rib out of the marinade and place onto a baking sheet
-   Grill meat until charred underneath three to four minutes, then turn
-   and grill just long enough to cook through two to three minutes.
-6. Transfer to a platter. Serve with green onion mixture and peanut salsa.
+1. Whisk all marinade ingredients together in a bowl. Add the steaks to a
+   large ziplock bag and pour the marinade over, then push out all the air,
+   seal, and refrigerate at least 1 hour but no longer than 24 hours.
+2. While the meat marinates, cook the olive oil and peanuts in a small
+   saucepan over medium heat until golden. Off the heat, stir in the garlic,
+   sesame seeds, and red pepper flakes; let cool, then stir in the lime juice
+   and honey and season with salt, and set aside. Rinse the scallions under
+   cold water and drain well, then toss with the cilantro in a bowl and set
+   aside.
+3. Lift the short ribs from the marinade onto a baking sheet. Grill until
+   charred underneath, three to four minutes, then turn and grill just until
+   cooked through, two to three minutes. Transfer to a platter and serve with
+   the scallion mixture and peanut salsa.

@@ -34,20 +34,18 @@ Ingredients
 Directions
 ----------
 
-1. Add the soy sauce, lime zest and juice, brown sugar, sesame oil, ginger
-   and pepper to the bowl insert of a 6- or 8-quart Instant Pot(R). Set to
-   high saute for 3 minutes (see Cook's Note), stirring the sauce with a
-   wooden spoon to combine. Add the salmon fillets, turning them to coat
-   with the sauce (it's fine it they overlap).
-2. Follow the manufacturer's guide for locking the lid and preparing to
-   cook. Set to pressure cook on low for 1 minute. After the pressure-cook
-   cycle is complete, follow the manufacturer's guide for natural release.
-   After 2 minutes, being careful of any remaining steam, unlock and remove
-   the lid. Check one fillet for doneness by gently cutting into it. If you
-   prefer your salmon more well done, cook for another minute using the
-   high saute setting.
-3. Carefully transfer the salmon fillets to a serving platter using a metal
-   spatula. Set the pot to high saute for 3 minutes and reduce the sauce
-   until syrupy, stirring frequently. Spoon the sauce onto the salmon
-   fillets. Top with the scallions and cilantro and serve with the rice and
-   lime wedges.
+1. Add soy sauce, lime zest and juice, brown sugar, sesame oil, ginger, and
+   pepper to bowl insert of 6- or 8-quart Instant Pot(R). Set to high saute
+   for 3 minutes (see Cook's Note), stirring sauce with wooden spoon to
+   combine. Add salmon fillets, turning them to coat with sauce (it's fine if
+   they overlap).
+2. Follow manufacturer's guide for locking lid and preparing to cook. Set to
+   pressure cook on low for 1 minute. Once pressure-cook cycle is complete,
+   follow manufacturer's guide for natural release. After 2 minutes, being
+   careful of any remaining steam, unlock and remove lid. Check one fillet
+   for doneness by gently cutting into it. For more well-done salmon, cook
+   for another minute using high saute setting.
+3. Carefully transfer salmon fillets to serving platter using metal spatula.
+   Set pot to high saute for 3 minutes and reduce sauce until syrupy,
+   stirring frequently. Spoon sauce onto salmon fillets. Top with scallions
+   and cilantro and serve with rice and lime wedges.

@@ -33,16 +33,17 @@ Directions
 Lime and passion fruit Dressing
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Blend the olive, walnut oil, lime juice, passion fruit juice and seeds and chilli with salt and pepper until smooth.
+Blend the olive, walnut oil, lime juice, passion fruit juice and seeds
+and chilli with salt and pepper until smooth.
 
 Salad
 ^^^^^
 
 1. Arrange the mixed greens on a plate.
-2. Gently combine the avocado, lobster, and celery with the dressing, pile onto the greens and serve.
+2. Gently combine the avocado, lobster, and celery with the dressing,
+   pile onto the greens and serve.
 
 Notes
 -----
 
 Carb count 4.7g. per serving
-

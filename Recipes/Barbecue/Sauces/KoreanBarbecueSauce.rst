@@ -5,8 +5,6 @@ KB Sauce (Korean Barbecue Sauce)
 | Total Time: 10 minutes | Yield: 3 cups (enough to serve 4-5) |
 +------------------------+-------------------------------------+
 
-Source: Steven Raichlen
-
 Ingredients
 -----------
 
@@ -22,10 +20,8 @@ Ingredients
 Directions
 ----------
 
-1. Place the water, Sprite, sugars, and soy sauce in a heavy saucepan and
-   bring to a boil over high heat. Boil until the sugars are dissolved, 3
-   minutes, whisking well. Remove the pan from the heat and let cool
-   slightly, then whisk in the sesame oil, gochujang, and rice vinegar, if
-   using. Transfer the sauce to clean jars. Covered and kept refrigerated,
-   the sauce will keep for at least 1 month.
-
+1. Combine the water, Sprite, sugars, and soy sauce in a heavy saucepan and
+   bring to a boil over high heat, whisking well. Boil until the sugars
+   dissolve, 3 minutes. Pull off the heat and let cool slightly, then whisk
+   in the sesame oil, gochujang, and rice vinegar, if using. Transfer to
+   clean jars. Covered and refrigerated, it keeps at least 1 month.

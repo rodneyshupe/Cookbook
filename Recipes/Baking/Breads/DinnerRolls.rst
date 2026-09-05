@@ -28,35 +28,36 @@ Dough
 Directions
 ----------
 
-1. FOR THE FLOUR PASTE: Whisk water and flour together in small bowl until
-   no lumps remain. Microwave, whisking every 20 seconds, until mixture
-   thickens to stiff, smooth, pudding-like consistency that forms mound when
-   dropped from end of whisk into bowl, 40 to 80 seconds.
-2. FOR THE DOUGH: In bowl of stand mixer, whisk flour paste and milk
-   together until smooth. Add egg and whisk until incorporated. Add flour
-   and yeast. Fit stand mixer with dough hook and mix on low speed until all
-   flour is moistened, 1 to 2 minutes. Let stand for 15 minutes.
-3. Add sugar and salt and mix on medium-low speed for 5 minutes. With mixer
-   running, add softened butter, 1 tablespoon at a time. Continue to mix on
-   medium-low speed 5 minutes longer, scraping down dough hook and sides of
-   bowl occasionally (dough will stick to bottom of bowl).
-4. Transfer dough to very lightly floured counter. Knead briefly to form
-   ball and transfer, seam side down, to lightly greased bowl; lightly coat
-   surface of dough with vegetable oil spray and cover with plastic wrap.
-   Let rise until doubled in volume, about 1 hour.
-5. Grease 9-inch round cake pan and set aside. Transfer dough to counter.
-   Press dough gently but firmly to expel all air. Pat and stretch dough to
-   form 8 by 9-inch rectangle with short side facing you. Cut dough
-   lengthwise into 4 equal strips and cut each strip crosswise into 3 equal
-   pieces. Working with 1 piece at a time, stretch and press dough gently to
-   form 8 by 2-inch strip. Starting on short side, roll dough to form snug
-   cylinder and arrange shaped rolls seam side down in prepared pan, placing
-   10 rolls around edge of pan, pointing inward, and remaining 2 rolls in
-   center. Cover with plastic and let rise until doubled, 45 minutes to
-   1 hour.
-6. When rolls are nearly doubled, adjust oven rack to lowest position and
-   heat oven to 375F. Bake rolls until deep golden brown,
-   25 to 30 minutes. Let rolls cool in pan on wire rack for 3 minutes;
-   invert rolls onto rack, then reinvert. Brush tops and sides of rolls with
-   melted butter. Let rolls cool for at least 20 minutes before serving.
-
+1. For the flour paste: whisk water and flour together in a small bowl until
+   no lumps remain; microwave, whisking every 20 seconds, until the mixture
+   thickens to a stiff, smooth, pudding-like consistency that forms a mound
+   when dropped from the end of the whisk into the bowl, 40 to 80 seconds.
+2. For the dough: whisk the flour paste and milk together in the bowl of a
+   stand mixer until smooth, then add the egg and whisk until incorporated;
+   add the flour and yeast, fit the mixer with a dough hook, and mix on low
+   speed until all the flour is moistened, 1 to 2 minutes. Let stand for 15
+   minutes.
+3. Add the sugar and salt and mix on medium-low speed for 5 minutes; with the
+   mixer running, add the softened butter 1 tablespoon at a time, then
+   continue mixing on medium-low speed 5 minutes longer, scraping down the
+   dough hook and sides of the bowl occasionally (the dough will stick to the
+   bottom of the bowl).
+4. Transfer the dough to a very lightly floured counter and knead briefly to
+   form a ball; transfer seam side down to a lightly greased bowl, coat the
+   surface lightly with vegetable oil spray, and cover with plastic wrap. Let
+   rise until doubled in volume, about 1 hour.
+5. Grease a 9-inch round cake pan and set aside, then transfer the dough to
+   the counter and press it gently but firmly to expel all air. Pat and
+   stretch the dough into an 8 by 9-inch rectangle with the short side facing
+   you; cut lengthwise into 4 equal strips and cut each strip crosswise into 3
+   equal pieces. Working with 1 piece at a time, stretch and press the dough
+   gently into an 8 by 2-inch strip, then, starting on the short side, roll it
+   into a snug cylinder and arrange the shaped rolls seam side down in the
+   prepared pan, placing 10 rolls around the edge pointing inward and the
+   remaining 2 in the center. Cover with plastic and let rise until doubled,
+   45 minutes to 1 hour.
+6. When the rolls are nearly doubled, adjust the oven rack to the lowest
+   position and heat the oven to 375F. Bake until deep golden brown, 25 to 30
+   minutes. Let the rolls cool in the pan on a wire rack for 3 minutes; invert
+   the rolls onto the rack, then reinvert. Brush the tops and sides with
+   melted butter and let cool for at least 20 minutes before serving.

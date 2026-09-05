@@ -19,19 +19,16 @@ Ingredients
 Directions
 ----------
 
-1. Beat eggs, milk, and seasonings in a medium bowl. Stir in flour to
-   form a smooth but thick batter; let batter rest for 10 minutes.
-2. Meanwhile place 1 tablespoon butter into a bowl that has been rinsed
-   in hot water and dried. Heat water to boil medium pot small enough so that
-   the short ends of the spaetzle maker (or a large holed sieve or metal
-   grater) can rest on its rim.
-3. Salt boiling water, then spoon a portion of the batter into the
-   square container that runs along the grater track. With the machine
-   resting on the pan rim, move the metal container quickly back and
-   forth along the grater until about 1/6 of the dough is pressed
-   through the grater into the boiling water.
-4. With a slotted spoon transfer spaetzle that have floated to the
-   water's surface to the warm bowl. Repeat cooking in batches with
-   remaining batter, adding butter to each batch of cooked spaetzle.
-   Toss and serve.
-
+1. Beat eggs, milk, and seasonings in a medium bowl; stir in flour to form a
+   smooth but thick batter, then let it rest for 10 minutes.
+2. Meanwhile, drop 1 tablespoon butter into a bowl rinsed in hot water and
+   dried. Heat water to a boil in a medium pot small enough that the short
+   ends of the spaetzle maker (or a large holed sieve or metal grater) rest on
+   its rim.
+3. Salt the boiling water, then spoon a portion of batter into the square
+   container that runs along the grater track. Rest the machine on the pan rim
+   and move the container quickly back and forth until about 1/6 of the dough
+   presses through into the boiling water.
+4. Transfer spaetzle that float to the surface to the warm bowl with a slotted
+   spoon. Repeat in batches with the remaining batter, adding butter to each
+   batch of cooked spaetzle; toss and serve.

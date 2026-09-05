@@ -5,8 +5,8 @@ Willingham's Rub
 | Prep Time: 5 minutes | Yield: about 1 1/2 cups |
 +----------------------+-------------------------+
 
-This is stronger than most rubs. Not recommend it for thin cuts (like
-ribs). Recommend meats are: Beef round, Prime Rib, Pork Shoulders.
+This is stronger than most rubs. Not recommended for thin cuts (like
+ribs). Recommended meats are: Beef round, Prime Rib, Pork Shoulders.
 
 Ingredients
 -----------
@@ -25,7 +25,6 @@ Notes
 -----
 
 1. There is enough rub for five shoulders or four hams.
-2. After applying rub loosely covered in the refrigerator from
+2. After applying rub, loosely cover in the refrigerator from
    twenty-four to forty-eight hours.
 3. Smoke meat for 4 hours with your choice of wood.
-

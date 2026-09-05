@@ -22,14 +22,13 @@ Ingredients
 Directions
 ----------
 
-1. Preheat your grill. On a sheet pan, toss the corn with the oil, then
-   season with salt and pepper.
+1. Preheat the grill. On a sheet pan, toss the corn with the oil, then season
+   with salt and pepper.
 2. In a small bowl, stir together 1/3 cup of the cotija cheese with the mayo,
-   sour cream, cilantro, lime zest and chile powder to combine.
+   sour cream, cilantro, lime zest and chile powder until combined.
 3. Place the corn on the hottest part of the grill and cook, turning as
    needed, until cooked through and charred, 8 to 10 minutes.
-4. Remove the corn from the grill and immediately brush each cob liberally
-   with the cheese mixture and transfer to a platter. Garnish each cob with
-   a sprinkle of the remaining cheese and more cilantro, then serve with lime
+4. Remove the corn from the grill; immediately brush each cob liberally with
+   the cheese mixture and transfer to a platter. Garnish each cob with a
+   sprinkle of the remaining cheese and more cilantro, then serve with lime
    wedges.
-

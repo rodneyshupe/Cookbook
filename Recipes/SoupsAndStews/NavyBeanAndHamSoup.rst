@@ -8,6 +8,7 @@ Classic Navy Bean & Ham Soup
 Ingredients
 -----------
 
+- 1 tablespoon oil
 - 1 pound dried navy beans, soaked overnight and rinsed
 - 1 meaty leftover ham bone
 - 1 1/2 cups frozen corn
@@ -24,21 +25,19 @@ Ingredients
 Directions
 ----------
 
-1. Heat 1 tablespoon oil in a large Dutch oven over medium heat. Add
-   onion, carrots, and celery; cook until vegetables are softened,
-   about 8 minutes. Add garlic and cook until fragrant, about 1
-   minute.
-2. Stir in the soaked beans, ham bone, bay leaves, thyme, pepper, and
-   8 cups of liquid. Bring to a boil, then reduce heat to low and simmer,
-   partially covered, until beans are tender, about 1 1/2 to 2 hours.
-3. Remove the ham bone and bay leaves. Shred any meat from the bone,
-   discarding the bone and excess fat, and return the meat to the
-   pot.
-4. Add the frozen corn to the pot and continue to simmer for an
-   additional 10 to 15 minutes until the corn is heated through.
-5. For a creamier texture, use a potato masher to lightly crush a few
-   beans against the side of the pot. Stir in the apple cider vinegar.
-   Taste for seasoning and add salt only if necessary. Serve.
+1. Heat 1 tablespoon oil in a large Dutch oven over medium heat. Add the
+   onion, carrots, and celery, and cook until the vegetables are softened,
+   about 8 minutes. Add the garlic and cook until fragrant, about 1 minute.
+2. Stir in the soaked beans, ham bone, bay leaves, thyme, pepper, and 8 cups
+   of liquid. Bring to a boil, then reduce the heat to low and simmer,
+   partially covered, until the beans are tender, about 1 1/2 to 2 hours.
+3. Remove the ham bone and bay leaves. Shred any meat from the bone, discard
+   the bone and excess fat, and return the meat to the pot.
+4. Add the frozen corn and continue to simmer for an additional 10 to 15
+   minutes, until the corn is heated through.
+5. For a creamier texture, use a potato masher to lightly crush a few beans
+   against the side of the pot. Stir in the apple cider vinegar, then taste
+   for seasoning and add salt only if necessary. Serve.
 
 Notes
 -----

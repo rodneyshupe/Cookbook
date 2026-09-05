@@ -19,8 +19,8 @@ Ingredients
 Directions
 ----------
 
-1. Add 4 cups of water to a large sauce pan, and bring to a boil.
-2. Add green onion, ginger and bouillon, stir to dissolve bouillon. Let
-   boil for 2-3 minutes.
-3. Add dumplings and simmer for 1-2 minutes, add greens and simmer for an
+1. Add 4 cups of water to a large sauce pan and bring to a boil.
+2. Add green onion, ginger and bouillon; stir to dissolve bouillon. Let boil
+   for 2-3 minutes.
+3. Add dumplings and simmer for 1-2 minutes, then add greens and simmer for an
    additional 1-2 minutes until dumplings are heated through.

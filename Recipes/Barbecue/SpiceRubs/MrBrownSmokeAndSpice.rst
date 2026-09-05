@@ -22,4 +22,3 @@ Notes
 
 Cut back on the black pepper and cayenne pepper for less heat. This does not
 make a sweet bark. But you can always add more sugar.
-

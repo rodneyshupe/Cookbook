@@ -5,8 +5,6 @@ Skillet Apple Crisp
 | Prep Time: 20 minutes | Cook Time: 40 minutes | Yield: 6 to 8 servings |
 +-----------------------+-----------------------+------------------------+
 
-Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/6146-skillet-apple-crisp>`__
-
 Ingredients
 -----------
 
@@ -36,23 +34,21 @@ Filling
 Directions
 ----------
 
-1. FOR THE TOPPING: Adjust oven rack to middle position and heat oven to
-   450F. Combine flour, pecans, oats, brown sugar, granulated sugar,
-   cinnamon, and salt in medium bowl. Stir in butter until mixture is
-   thoroughly moistened and crumbly. Set aside while preparing fruit
-   filling.
-2. FOR THE FILLING: Toss apples, granulated sugar, and cinnamon (if
-   using) together in large bowl; set aside. Bring cider to simmer in
-   12-inch ovensafe skillet over medium heat; cook until reduced to 1/2
-   cup, about 5 minutes. Transfer reduced cider to bowl or liquid
-   measuring cup; stir in lemon juice and set aside.
-3. Heat butter in now-empty skillet over medium heat. When foaming
-   subsides, add apple mixture and cook, stirring frequently, until
-   apples begin to soften and become translucent, 12 to 14 minutes. (Do
-   not fully cook apples.) Remove pan from heat and gently stir in cider
-   mixture until apples are coated.
-4. Sprinkle topping evenly over fruit, breaking up any large chunks.
-   Place skillet on baking sheet and bake until fruit is tender and
-   topping is deep golden brown, 15 to 20 minutes. Cool on wire rack
-   until warm, at least 15 minutes, and serve.
-
+1. For the topping: adjust oven rack to middle position and heat oven to 450F.
+   Combine flour, pecans, oats, brown sugar, granulated sugar, cinnamon, and
+   salt in medium bowl, then stir in butter until mixture is thoroughly
+   moistened and crumbly; set aside while preparing the fruit filling.
+2. For the filling: toss apples, granulated sugar, and cinnamon (if using)
+   together in large bowl and set aside. Bring cider to simmer in 12-inch
+   ovensafe skillet over medium heat and cook until reduced to 1/2 cup, about
+   5 minutes; transfer reduced cider to bowl or liquid measuring cup, stir in
+   lemon juice, and set aside.
+3. Heat butter in now-empty skillet over medium heat. When foaming subsides,
+   add apple mixture and cook, stirring frequently, until apples begin to
+   soften and become translucent, 12 to 14 minutes. (Do not fully cook
+   apples.) Remove pan from heat and gently stir in cider mixture until apples
+   are coated.
+4. Sprinkle topping evenly over fruit, breaking up any large chunks. Place
+   skillet on baking sheet and bake until fruit is tender and topping is deep
+   golden brown, 15 to 20 minutes. Cool on wire rack until warm, at least 15
+   minutes, and serve.

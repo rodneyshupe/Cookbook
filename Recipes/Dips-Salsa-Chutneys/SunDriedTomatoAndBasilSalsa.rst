@@ -5,12 +5,9 @@ Sun-Dried Tomato and Basil Salsa
 | Prep Time: 10 minutes | Cook Time: 5 minutes | Yield: 1/2 cup |
 +-----------------------+----------------------+----------------+
 
-Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/8060-sun-dried-tomato-and-basil-salsa-for-two>`__
-
-For a twist on a traditional salsa made with fresh tomatoes, we use
-jarred sun-dried tomatoes. (We find that the oil-packed type have the
-best flavour.) Fresh basil and parsley add herbal depth, while balsamic
-vinegar and extra-virgin olive oil turn it into a sauce.
+A twist on traditional fresh-tomato salsa using jarred sun-dried tomatoes
+(oil-packed have the best flavour). Basil and parsley add herbal depth,
+while balsamic vinegar and olive oil turn it into a sauce.
 
 Ingredients
 -----------
@@ -26,6 +23,5 @@ Ingredients
 Directions
 ----------
 
-1. Combine all ingredients in bowl and season with salt and pepper to
+1. Combine all ingredients in a bowl and season with salt and pepper to
    taste.
-

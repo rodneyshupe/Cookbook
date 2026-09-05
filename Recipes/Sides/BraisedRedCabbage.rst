@@ -20,17 +20,16 @@ Ingredients
 Directions
 ----------
 
-1. Melt butter in a large skillet over medium heat; cook cabbage in the
-   hot butter until it begins to soften, 1 to 2 minutes. Season with
-   salt. Pour in water, red wine, and red wine vinegar. Stir to combine.
-   Mix in sugar and caraway seeds.
-2. Continue to cook and stir until liquid has evaporated and cabbage is
-   tender, about 5 minutes. If cabbage isn't quite tender, add a splash
-   of water and continue cooking a few more minutes.
+1. Melt butter in a large skillet over medium heat, then cook cabbage in the
+   hot butter until it begins to soften, 1 to 2 minutes. Season with salt.
+   Pour in water, red wine, and red wine vinegar; stir to combine, then mix in
+   sugar and caraway seeds.
+2. Cook and stir until liquid has evaporated and cabbage is tender, about 5
+   minutes. If cabbage isn't quite tender, add a splash of water and cook a
+   few more minutes.
 
 Notes
 -----
 
-There are many ways to tweak this recipe! Raisins, currants, shallots,
-onions, leeks, apples, and pears are just a few things that rock in this
-recipe.
+Lots of ways to tweak this one: raisins, currants, shallots, onions,
+leeks, apples, and pears all work well here.

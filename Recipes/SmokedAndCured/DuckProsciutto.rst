@@ -5,9 +5,6 @@ Duck Prosciutto
 | Prep Time: 15 minutes | Cure Time: 1 week | Dry Time: 4-8 weeks | Yield: 2 cured duck breasts |
 +-----------------------+-------------------+---------------------+-----------------------------+
 
-Source: `UMAi Charcuterie <https://www.drybagsteak.com/recipe-charcuterie-duck-prosciutto.php>`__
-and `Kosher Dosher <https://kosherdosher.blogspot.com/2014/04/duck-prosciutto.html>`__
-
 Equipment
 ---------
 UMAi Dry Bag, Vacuum Sealer
@@ -26,14 +23,10 @@ Ingredients
 Directions
 ----------
 
-1. Mix Dry Cure Ingredients well and rub onto meat, making sure to cover all
-   nooks and crannies.
-2. Transfer meat into a Ziplock and place in your refrigerator for one week
-   to cure.
-3. After the curing process, remove meat from bag, and rinse off cure under
-   running water.
-4. Transfer to UMAi Dry bag and vacuum seal, then place place on an open
-   wire rack to dry in your refrigerator four to eight weeks, or until
-   35-40% reduction in weight.
-5. After drying is complete, slice thin and enjoy!
-
+1. Mix dry cure ingredients well and rub onto meat, covering all nooks and
+   crannies; transfer to a Ziplock and refrigerate one week to cure.
+2. Remove meat from bag and rinse off cure under running water.
+3. Transfer to UMAi Dry bag and vacuum seal, then place on an open wire rack
+   to dry in your refrigerator four to eight weeks, or until 35-40% reduction
+   in weight.
+4. Slice thin and enjoy!

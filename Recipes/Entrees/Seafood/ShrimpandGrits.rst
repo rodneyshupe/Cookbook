@@ -36,23 +36,20 @@ Ingredients
 Directions
 ----------
 
-1. Cook the grits: Add the grits, 3 cups water, milk, salt and butter to an
-   oven safe pan* that fits inside your Instant Pot. Pour 1 1/2 cups water
-   into the bottom of your Instant Pot. Place the pan on a trivet with
-   handles and lower the trivet into the bottom of your Instant Pot. (See
-   picture above). Cover the Instant Pot and lock the lid into place. Set
-   valve to sealing. Set the manual/pressure cook button to 25 minutes on
-   high pressure. When the time is up let the pot sit for 10 minutes and
-   then move the valve to venting. Remove the pan from the Instant Pot.
-   Stir in the cheddar cheese, Tabasco and pepper. If you'd like to loosen
-   up the grits you can stir in extra milk.
-2. Cook the shrimp: Dump out the water in the bottom of the Instant Pot.
-   Wipe out the pot. Turn the Instant Pot to the saute setting (on
-   "more"). Add in the bacon and stir occasionally until crisp
-   about 5 minutes. Toss the shrimp with the flour until they are lightly
-   coated. Then toss the shrimp into the pan with the bacon. Cook until
-   they are pink and heated through. Add in the garlic and stir for 20
-   seconds. Remove the inner liner from the Instant Pot. Turn off the
-   Instant Pot. Stir in the lemon juice, Tabasco and green onions.
-3. Serve: Scoop the grits into a bowl and top with some of the shrimp.
-   Enjoy!
+1. Cook the grits: Add grits, 3 cups water, milk, salt, and butter to
+   oven-safe pan* that fits inside Instant Pot. Pour 1 1/2 cups water into
+   bottom of Instant Pot. Place pan on trivet with handles and lower trivet
+   into bottom of Instant Pot. (See picture above). Cover Instant Pot and
+   lock lid into place. Set valve to sealing. Set manual/pressure cook button
+   to 25 minutes on high pressure. When time is up, let pot sit for 10
+   minutes, then move valve to venting. Remove pan from Instant Pot. Stir in
+   cheddar cheese, Tabasco, and pepper. To loosen up grits, stir in extra
+   milk.
+2. Cook the shrimp: Dump out water in bottom of Instant Pot. Wipe out pot.
+   Turn Instant Pot to saute setting (on "more"). Add bacon and stir
+   occasionally until crisp, about 5 minutes. Toss shrimp with flour until
+   lightly coated, then toss into pan with bacon. Cook until pink and heated
+   through. Add garlic and stir for 20 seconds. Remove inner liner from
+   Instant Pot. Turn off Instant Pot. Stir in lemon juice, Tabasco, and green
+   onions.
+3. Serve: Scoop grits into bowl and top with some of the shrimp. Enjoy!

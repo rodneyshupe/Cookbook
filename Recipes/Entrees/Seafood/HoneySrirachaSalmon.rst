@@ -29,10 +29,9 @@ Directions
 
 1. Preheat oven to 400F. Mix glaze ingredients in a small bowl.
 2. Season salmon fillets with salt and pepper on both sides. Brush salmon
-   with 2/3 of the honey sriracha glaze.
-3. Place salmon on a baking sheet lined with parchment paper, and bake at
-   400F for about 10 -12 minutes, or until internal temperature reaches
-   145F.
-4. After the salmon is done, brush the salmon filets with the other 1/3 of
-   the glaze. You can sprinkle some sesame seeds and chopped green onions
-   on top. Serve warm with your favourite side.
+   with 2/3 of honey sriracha glaze.
+3. Place salmon on baking sheet lined with parchment paper and bake at 400F
+   for about 10 -12 minutes, until internal temperature reaches 145F.
+4. Once salmon is done, brush filets with other 1/3 of glaze. Sprinkle
+   sesame seeds and chopped green onions on top. Serve warm with favourite
+   side.

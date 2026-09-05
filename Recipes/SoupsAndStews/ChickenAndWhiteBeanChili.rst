@@ -31,15 +31,13 @@ Ingredients
 Directions
 ----------
 
-1. Add butter and oil to a large skillet placed over medium-high heat. Once
-   hot, add chicken, season well with salt and pepper, and once browned all
-   over, add onion, garlic, jalapeno, banana peppers, cumin, oregano and
-   coriander and cook for three to four minutes or until onions and pepper
-   have softened.
+1. Melt butter and oil in a large skillet over medium-high heat. Once hot, add
+   chicken, season well with salt and pepper, and brown all over. Add onion,
+   garlic, jalapeno, banana peppers, cumin, oregano and coriander; cook until
+   onions and pepper have softened, three to four minutes.
 2. Transfer chicken mixture, beans, canned chillies, and chicken broth to a
-   six-quart slow cooker, cover it, and cook on low for four hours.
-3. Uncover and slightly mash some of the white beans using the back of a
-   wooden spoon. Cover and cook on high for 30 minutes or until slightly
-   thickened.
+   six-quart slow cooker; cover and cook on low for four hours.
+3. Uncover and slightly mash some of the white beans with the back of a wooden
+   spoon. Cover and cook on high until slightly thickened, 30 minutes.
 4. Serve topped with cilantro, diced avocado, sour cream, corn chips, thinly
-   sliced radish and lime wedges. Enjoy!
+   sliced radish and lime wedges.

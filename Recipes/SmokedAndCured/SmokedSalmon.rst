@@ -20,13 +20,11 @@ Ingredients
 Directions
 ----------
 
-1. Create cure mixture by combining salt and sugar
-2. Place fish into a glass container
-3. Cover both sides in cure mixture and cover and place in fridge.
-4. Flip fish after 3 hours and let brine in refrigerator for an
-   additional 9 hours.
-5. Remove from brine and rinse with cold water.
-6. Place on a rack and return to the refrigerator to air dry in fridge
-   for approx 8-18 hours.
-7. Smoke at 200F for 2 hours with Maple (or Apple)
-
+1. Combine salt and sugar for the cure.
+2. Place fish into a glass container, then cover both sides in cure mixture;
+   cover and refrigerate.
+3. Flip fish after 3 hours and brine in the refrigerator an additional 9
+   hours.
+4. Remove from brine and rinse with cold water, then place on a rack and
+   return to the refrigerator to air dry, approx 8-18 hours.
+5. Smoke at 200F for 2 hours with Maple (or Apple).

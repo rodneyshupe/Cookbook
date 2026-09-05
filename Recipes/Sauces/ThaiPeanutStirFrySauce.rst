@@ -5,8 +5,6 @@ Thai Peanut Stir Fry Sauce
 | Prep Time: 5 minutes | Total Time: 10 minutes | Yield: 4 servings |
 +----------------------+------------------------+-------------------+
 
-Source: `AllRecipes (Bonnie Gertz) <https://www.allrecipes.com/recipe/239947/thai-peanut-stir-fry-sauce/>`__
-
 This is the best peanut stir fry sauce I ever tasted. I like to double this
 recipe to make more sauce to pour over rice.
 
@@ -24,8 +22,7 @@ Ingredients
 Directions
 ----------
 
-1. Combine vinegar, soy sauce, peanut butter, brown sugar, garlic powder,
-   ginger, cayenne pepper together in a saucepan over medium heat; cook and
-   stir until brown sugar is dissolved and sauce is smooth, about 5
+1. Combine the vinegar, soy sauce, peanut butter, brown sugar, garlic powder,
+   ginger, and cayenne pepper in a saucepan over medium heat. Cook and stir
+   until the brown sugar is dissolved and the sauce is smooth, about 5
    minutes.
-

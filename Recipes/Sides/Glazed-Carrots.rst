@@ -14,7 +14,7 @@ Sous-Vide (immersion circulator) set to 183F, Vacuum Sealer
 Ingredients
 -----------
 
-- 1 pound baby whole baby carrots, peeled or well-scrubbed, or 1 pound
+- 1 pound whole baby carrots, peeled or well-scrubbed, or 1 pound
   medium to large carrots, peeled and cut into 1-inch chunks
 - 2 tablespoons (30g) unsalted butter
 - 1 tablespoon (12g) granulated sugar
@@ -22,29 +22,25 @@ Ingredients
 - Freshly ground black pepper
 - 1 tablespoon (15ml) chopped flat leaf parsley (optional)
 
-
 Directions
 ----------
 
-1. Preheat sous-vide cooker to 183F. Place carrots, butter, sugar, and
-   1/2 teaspoon kosher salt in a vacuum bag and seal according to
-   manufacturer's instructions. Cook carrots in the water bath until
-   fully tender, about 1 hour. At this point, carrots can be stored in
-   refrigerator for up to 1 week.
-2. Empty entire contents of bag into a 12-inch, heavy-bottomed skillet
-   and cook over high heat, stirring constantly, until liquid has
-   reduced to a shiny glaze, about 2 minutes. Season to taste with salt
-   and pepper, stir in parsley, and serve. If glaze breaks and turns
-   greasy, add water a teaspoon at a time, shaking pan to re-form glaze.
-
+1. Preheat sous-vide cooker to 183F. Place carrots, butter, sugar, and 1/2
+   teaspoon kosher salt in a vacuum bag and seal according to manufacturer's
+   instructions. Cook in the water bath until fully tender, about 1 hour.
+   Carrots can be stored in the refrigerator for up to 1 week.
+2. Empty the entire contents of the bag into a 12-inch, heavy-bottomed skillet
+   and cook over high heat, stirring constantly, until the liquid has reduced
+   to a shiny glaze, about 2 minutes. Season to taste with salt and pepper,
+   stir in parsley, and serve. If the glaze breaks and turns greasy, add water
+   a teaspoon at a time, shaking the pan to re-form the glaze.
 
 Make Ahead
 ----------
 
-After step 1 quick chill the pouch, submerged in ice water (half
+After step 1, quick chill the pouch, submerged in ice water (half
 ice/half water) for 15 to 20 minutes and refrigerate up to 1 week. To
-serve reheat in water bath with protein and continue with Step 2.
-
+serve, reheat in the water bath with protein and continue with Step 2.
 
 Variations
 ----------
@@ -60,13 +56,12 @@ trimmed and quartered.
 Why this works
 --------------
 
-- at 183F, carrots will soften but not turn mushy.
-- Cooking carrots sous-vide cooks them in their own juices, packing
-  them with intense carrot flavour.
+- At 183F, carrots soften but don't turn mushy.
+- Cooking carrots sous-vide cooks them in their own juices, packing them
+  with intense carrot flavour.
 - Tossing the carrots in the skillet for a couple minutes after cooking
   glazes them in their reduced juices, enhancing their flavour and
-  appearance
-
+  appearance.
 
 Make Ahead
 ----------

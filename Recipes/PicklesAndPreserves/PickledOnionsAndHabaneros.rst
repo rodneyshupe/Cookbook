@@ -18,7 +18,6 @@ Ingredients
 Directions
 ----------
 
-1. Add the sliced red onion, habanero, and cilantro to a large bowl.
-2. Add the lime juice, salt, and sugar, if using. Mix to combine and store in
-   the fridge (will last at least a week and taste better as it sits!)
-
+1. Combine the sliced red onion, habanero, and cilantro in a large bowl.
+2. Add the lime juice, salt, and sugar, if using; mix to combine and store in
+   the fridge (will last at least a week and taste better as it sits).

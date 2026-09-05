@@ -5,8 +5,6 @@ Sriracha Bourbon Barbecue Sauce
 | Prep Time: 5 minutes | Cook Time: 15 minutes | Yield: 2 1/2 cups |
 +----------------------+-----------------------+-------------------+
 
-Based on: `Epicurious (Steve Raichlen) <https://www.epicurious.com/recipes/food/views/Bourbon-Barbecue-Sauce-103642>`__
-
 Ingredients
 -----------
 
@@ -23,8 +21,7 @@ Ingredients
 Directions
 ----------
 
-1. Combine all ingredients in heavy large saucepan. Bring to boil over
-   medium heat, stirring occasionally. Reduce heat to medium-low; simmer
-   uncovered until sauce thickens and flavours blend, stirring frequently,
-   about 15 minutes. (Can be made 1 week ahead. Cover; chill.)
-
+1. Combine everything in a heavy large saucepan. Bring to a boil over
+   medium heat, stirring occasionally. Reduce heat to medium-low and simmer
+   uncovered until the sauce thickens and the flavours blend, about 15
+   minutes, stirring frequently. (Can be made 1 week ahead. Cover and chill.)

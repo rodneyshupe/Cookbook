@@ -15,7 +15,6 @@ Ingredients
 Directions
 ----------
 
-1. Set up grill for indirect heat.  Place roast on and grill for 1 minute
-   per millimeter of width of the roast.
-2. Remove from grill and let rest under foil for 15-20 minutes.
-
+1. Set up the grill for indirect heat. Place the roast on and grill for
+   1 minute per millimeter of width of the roast.
+2. Pull it off the grill and let it rest under foil for 15 to 20 minutes.

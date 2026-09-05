@@ -30,12 +30,12 @@ Optional Flavourings
 
 Directions
 ----------
-1. Toss apples, sugar, salt, and water in large, heavy-bottomed nonreactive
-   Dutch oven. Cover pot and cook apples over medium-high heat until they
-   begin to break down, 15 to 20 minutes, checking and stirring occasionally
-   with wooden spoon to break up any large chunks.
-2. Process cooked apples through food mill fitted with medium disk. Season
-   with extra sugar or add water to adjust consistency as desired. Serve hot,
-   warm, at room temperature, or chilled. (Can be covered and refrigerated
-   for up to 5 days.)
 
+1. Toss apples, sugar, salt, and water in a large, heavy-bottomed nonreactive
+   Dutch oven. Cover the pot and cook the apples over medium-high heat until
+   they begin to break down, 15 to 20 minutes, checking and stirring
+   occasionally with a wooden spoon to break up any large chunks.
+2. Process the cooked apples through a food mill fitted with a medium disk.
+   Season with extra sugar or add water to adjust consistency as desired.
+   Serve hot, warm, at room temperature, or chilled. (Can be covered and
+   refrigerated for up to 5 days.)

@@ -18,11 +18,11 @@ Caramel Sauce
 Banana Fritters
 ^^^^^^^^^^^^^^^
 
+- Canola oil
 - 1 cup Self Raising Flour
 - 1 egg, Beaten
 - 3/4 cup Soda Water
 - 4 Bananas, cut into quarters
-- Canola oil
 - Vanilla gelato
 
 Chocolate Cream Sauce
@@ -35,18 +35,17 @@ Chocolate Cream Sauce
 Directions
 ----------
 
-1. In a large cooking pot or wok add canola oil, heat to 375F.
-   (Checked with a thermometer)
-2. Prepare caramel sauce; Combine all the ingredients in a small pan and
-   stir until the sugar has dissolved and the butter has melted. Bring
-   to a boil, reduce the heat and simmer for 2 minutes. Set aside.
-3. Prepare chocolate cream sauce; Melt the chocolate in a double boiler
-   Add the liqueur, blend. Add the whipping cream and blend. Set aside.
-4. Sift the flour into a bowl. Make a well and add the egg and soda water
-   all at once. Stir until all the liquid is incorporated and the batter
-   is free of lumps.
-5. Dip the bananas in the batter a few pieces at a time. Gently lower the
-   bananas into the oil and cook until golden brown.remove with a slotted
-   spoon and drain on paper towels and keep warm.
-6. Serve the fritters with the gelato, and drizzle the two sauces over.
-
+1. Add canola oil to a large cooking pot or wok and heat to 375F (checked with
+   a thermometer).
+2. Make the caramel sauce: combine all the ingredients in a small pan and stir
+   until the sugar has dissolved and the butter has melted; bring to a boil,
+   then reduce the heat and simmer for 2 minutes and set aside.
+3. Make the chocolate cream sauce: melt the chocolate in a double boiler, then
+   add the liqueur and blend; add the whipping cream and blend and set aside.
+4. Sift the flour into a bowl, make a well and add the egg and soda water all
+   at once, then stir until all the liquid is incorporated and the batter is
+   free of lumps.
+5. Dip the bananas in the batter a few pieces at a time, then gently lower
+   into the oil and cook until golden brown; remove with a slotted spoon,
+   drain on paper towels and keep warm.
+6. Serve with the gelato and drizzle the two sauces over.

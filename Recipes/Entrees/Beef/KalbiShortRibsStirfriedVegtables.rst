@@ -34,15 +34,14 @@ Stirfry
 Directions
 ----------
 
-1. Make marinade. Place all ingredients except green parts of green onion and
-   sesame seeds into a food processor or blender and pulse until smooth.
-   Stir in chopped green onions and sesame seeds.  Remove 3 tablespoons and
-   reserve.
-2. Place short ribs in a resealable plastic bag; pour marinade over. Seal bag;
-   turn to coat and chill 12-18 hours max. Let come to room temperature before
-   grilling.
-3. Grill over high heat for about 3 minutes per side.
-4. In a medium frying pan, add 1 tablespoons vegetable oil and heat to medium
-   high.  Add zucchini and cook for 1 minute and mushrooms and saute till
-   they release their liquid.  Add reserved marinade and reduce.
+1. Make the marinade. Pulse everything except the green parts of the green onion
+   and the sesame seeds in a food processor or blender until smooth. Stir in the
+   chopped green onions and sesame seeds. Remove 3 tablespoons and reserve.
+2. Drop the short ribs in a resealable plastic bag and pour the marinade over.
+   Seal, turn to coat, and chill 12-18 hours max. Let them come to room
+   temperature before grilling.
+3. Grill over high heat, about 3 minutes per side.
+4. Heat 1 tablespoon vegetable oil in a medium frying pan over medium-high. Add
+   the zucchini and cook 1 minute, then add the mushrooms and saute until they
+   release their liquid. Add the reserved marinade and reduce.
 5. Serve with rice and kimchi.

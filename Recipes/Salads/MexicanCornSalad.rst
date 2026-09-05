@@ -5,8 +5,6 @@ Mexican Corn Salad (Esquites)
 | Prep Time: 15 minutes | Cook Time: 5 minutes | Total Time: 30 minutes | Yield: 3-4 servings |
 +-----------------------+----------------------+------------------------+---------------------+
 
-Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/11067-mexican-corn-salad-esquites>`__
-
 Ingredients
 -----------
 
@@ -26,21 +24,21 @@ Ingredients
 Directions
 ----------
 
-1. Combine lime juice, sour cream, mayonnaise, serrano(s), and
-   1/8 teaspoon salt in large bowl. Set aside.
-2. Heat 1 tablespoon oil in 12-inch nonstick skillet over high heat until
-   shimmering. Add corn and spread into even layer. Sprinkle with
-   1/4 teaspoon salt. Cover and cook, without stirring, until corn touching
-   skillet is charred, about 3 minutes. Remove skillet from heat and let
-   stand, covered, for 15 seconds, until any popping subsides. Transfer
-   corn to bowl with sour cream mixture. If doubling the recipe repeat with
-   1 tablespoon oil, 1/4 teaspoon salt, and additional corn.
-3. Return now-empty skillet to medium heat and add remaining
-   1/2 teaspoon oil, garlic, and chili powder. Cook, stirring constantly,
-   until fragrant, about 30 seconds. Transfer garlic mixture to bowl with
-   corn mixture and toss to combine. Let cool for at least 15 minutes.
-4. Add cotija, cilantro, and scallions and toss to combine. Season salad
-   with salt and up to 1 tablespoon extra lime juice to taste. Serve.
+1. Combine the lime juice, sour cream, mayonnaise, serrano(s), and 1/8
+   teaspoon salt in a large bowl and set aside.
+2. Heat 1 tablespoon oil in a 12-inch nonstick skillet over high heat until
+   shimmering. Add the corn, spread into an even layer, and sprinkle with 1/4
+   teaspoon salt. Cover and cook, without stirring, until the corn touching
+   the skillet is charred, about 3 minutes. Remove the skillet from the heat
+   and let stand, covered, until any popping subsides, 15 seconds. Transfer
+   the corn to the bowl with the sour cream mixture. If doubling the recipe,
+   repeat with 1 tablespoon oil, 1/4 teaspoon salt, and additional corn.
+3. Return the now-empty skillet to medium heat and add the remaining 1/2
+   teaspoon oil, garlic, and chili powder. Cook, stirring constantly, until
+   fragrant, about 30 seconds. Transfer the garlic mixture to the bowl with
+   the corn mixture and toss to combine, then let cool at least 15 minutes.
+4. Add the cotija, cilantro, and scallions and toss to combine. Season with
+   salt and up to 1 tablespoon extra lime juice to taste, then serve.
 
 Notes
 -----
@@ -50,4 +48,3 @@ chiles here, but you can substitute a jalapeno chile that has been halved
 lengthwise and sliced into 1/8-inch-thick half-moons. Adjust the amount of
 chiles to suit your taste. If cotija cheese is unavailable, substitute
 feta cheese.
-

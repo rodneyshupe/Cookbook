@@ -8,8 +8,6 @@ up before then.
 | Total Time: 45 minutes | Yield: Makes about 1 1/2 cups |
 +------------------------+-------------------------------+
 
-Source: `Sam the Cooking Guy <https://www.thecookingguy.com/cookbook/2020/6/22/bacon-amp-onion-jam>`__
-
 Ingredients
 -----------
 
@@ -25,12 +23,12 @@ Ingredients
 Directions
 ----------
 
-1. Cook bacon in a large skilled until about 3/4 done, when it starts
-   getting super foamy you know you are there. Remove 3/4 of the grease
-   (save for something else) add the onions and mix well, cook 3-4 minutes.
-2. Add garlic, stir through for about a minute then add tomato. Mix well
-   then let simmer about 10 minutes, stirring occasionally until the colour
-   deepens.
-3. Add vinegar, cayenne, pepper and jam, stir well to combine and turn to
-   low and leave it mostly alone 10-15 minutes,  stirring occasionally.
-4. Put in a bowl and use either right away or at room temp later.
+1. Cook the bacon in a large skillet until about 3/4 done and getting super
+   foamy. Remove 3/4 of the grease and save it for something else, then add
+   the onions, mix well, and cook 3-4 minutes.
+2. Add the garlic and stir through about a minute, then add the tomato. Mix
+   well and let simmer until the colour deepens, about 10 minutes, stirring
+   occasionally.
+3. Add the vinegar, cayenne, pepper, and jam, stir well to combine, turn to
+   low, and leave it mostly alone 10-15 minutes, stirring occasionally.
+4. Transfer to a bowl and use right away or at room temp later.

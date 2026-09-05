@@ -12,22 +12,22 @@ Ingredients
 - 6 tablespoons unsalted butter, softened
 - 2 tablespoons grated Parmesan cheese
 - 1/2 teaspoon table salt
-- 1 loaf Italian bread (high-quality); about 1 pound, football-shaped), halved lengthwise
+- 1 loaf Italian bread (high-quality, about 1 pound, football-shaped), halved lengthwise
 
 Directions
 ----------
 
-1. Adjust oven rack to middle position and heat oven to 500F. Meanwhile,
-   toast garlic cloves in small skillet over medium heat, shaking pan
-   occasionally, until fragrant and colour of cloves deepens slightly, about
-   8 minutes. When cool enough to handle, skin and mince cloves (you should
-   have about 3 tablespoons). Using dinner fork, mash garlic, butter, cheese,
-   and salt in small bowl until thoroughly combined.
+1. Adjust oven rack to middle position and heat oven to 500F. Meanwhile, toast
+   garlic cloves in small skillet over medium heat, shaking pan occasionally,
+   until fragrant and colour of cloves deepens slightly, about 8 minutes. When
+   cool enough to handle, skin and mince cloves (you should have about 3
+   tablespoons). Using dinner fork, mash garlic, butter, cheese, and salt in
+   small bowl until thoroughly combined.
 2. Spread cut sides of loaf evenly with garlic butter mixture; season to taste
    with pepper. Transfer loaf halves, buttered side up, onto baking sheet;
    bake, reversing position of baking sheet in oven from front to back halfway
-   through baking time, until surface of bread is golden brown and toasted,
-   8 to 10 minutes. Cut each half into 2-inch slices; serve immediately.
+   through baking time, until surface of bread is golden brown and toasted, 8
+   to 10 minutes. Cut each half into 2-inch slices; serve immediately.
 
 Notes
 -----

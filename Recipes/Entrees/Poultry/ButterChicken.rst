@@ -5,8 +5,6 @@ Butter Chicken
 | Prep Time: 15 minutes | Cook Time: 25 minutes | Marinate Time: overnight | Yield: 4 servings |
 +-----------------------+-----------------------+--------------------------+-------------------+
 
-Source: `RecipeTinEats <https://www.recipetineats.com/butter-chicken/>`__
-
 Ingredients
 -----------
 
@@ -36,15 +34,15 @@ Curry
 Directions
 ----------
 
-1. Combine the Marinade ingredients except for chicken in a blender and puree
-   until smooth.  Combine marinade with the chicken in a bowl or ziplock bag.
-   Cover and refrigerate overnight, or up to 24 hours (minimum 3 hrs).
-2. Heat the ghee (butter or oil) over high heat in a large fry pan. Take the
-   chicken out of the Marinade but do not wipe or shake off the marinade from
-   the chicken (but don't pour the Marinade left in the bowl into the fry pan).
-3. Place chicken in the fry pan and cook for around 3 minutes, or until the
-   chicken is white all over (it doesn't really brown because of the Marinade).
-4. Add the tomato puree, cream, sugar and salt. Turn down to low and simmer
-   for 20 minutes. Do a taste test to see if it needs more salt.
-5. Garnish with coriander/cilantro leaves if using. Serve with basmati rice
-   and/or `Naan Bread <#basic-flatbread>`__.
+1. Combine the marinade ingredients except the chicken in a blender and puree
+   until smooth. Toss with the chicken in a bowl or ziplock bag, then cover
+   and refrigerate overnight, or up to 24 hours (minimum 3 hrs).
+2. Heat the ghee (butter or oil) over high heat in a large fry pan. Lift the
+   chicken from the marinade without wiping or shaking it off, leaving the
+   marinade left in the bowl behind.
+3. Add the chicken to the pan and cook until white all over, around 3 minutes;
+   it won't really brown because of the marinade.
+4. Stir in the tomato puree, cream, sugar and salt, turn down to low, and
+   simmer for 20 minutes. Taste and add more salt if needed.
+5. Garnish with coriander/cilantro leaves if using, and serve with basmati
+   rice and/or `Naan Bread <#basic-flatbread>`__.

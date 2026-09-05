@@ -29,7 +29,7 @@ Directions
 2. Whisk in the ramen "fire" sauce a little at a time, tasting as you go,
    until the heat and saltiness are balanced to your liking. Thin with a
    teaspoon or two of water if the sauce is too thick to brush.
-3. Use immediately as a glaze or dipping sauce, or refrigerate in an
+3. Use right away as a glaze or dipping sauce, or refrigerate in an
    airtight container for up to 1 week.
 
 Notes

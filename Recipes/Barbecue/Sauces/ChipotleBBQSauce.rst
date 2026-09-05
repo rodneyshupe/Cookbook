@@ -25,16 +25,13 @@ Ingredients
 Directions
 ----------
 
-1. Place the all the ingredients in a heavy nonreactive saucepan and
-   whisk to mix.
-2. Slowly bring sauce to a boil over medium heat. Let the sauce simmer
-   gently until thick and richly flavoured, about 15-20 minutes,
-   whisking several times.
-3. Taste for seasoning, adding more of any of the ingredients you may
-   desire. Pour though a fine mesh strainer into a large measuring cup,
-   press solids to extract all the liquid.  Reserve solids for another
-   purpose.
-4. Transfer the hot sauce to glass jars. Tightly cover the jar and let
-   the sauce cool to room temperature.
-5. Once the jar is opened, refrigerate the sauce; it will keep for
-   several months.
+1. Put all the ingredients in a heavy nonreactive saucepan and whisk to
+   mix, then slowly bring to a boil over medium heat and simmer gently
+   until thick and richly flavoured, about 15-20 minutes, whisking
+   several times. Taste for seasoning and add more of anything you want;
+   pour through a fine mesh strainer into a large measuring cup, pressing
+   the solids to extract all the liquid, and reserve the solids for
+   another purpose.
+2. Transfer the hot sauce to glass jars, cover tightly, and let cool to
+   room temperature. Once opened, refrigerate; it will keep for several
+   months.

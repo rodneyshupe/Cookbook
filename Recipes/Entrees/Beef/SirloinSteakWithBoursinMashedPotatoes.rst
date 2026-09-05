@@ -19,19 +19,19 @@ Ingredients
 Directions
 ----------
 
-1. Place potatoes in large saucepan and add water to cover by 1 inch.
-   Add 1 teaspoon salt and bring to boil. Reduce to gentle simmer and
-   cook until potatoes are tender, 15 to 20 minutes.
-2. Meanwhile, pat steaks dry with paper towels and season with salt and
-   pepper. Heat oil in 12-inch skillet over medium-high heat until just
-   smoking. Brown steaks well on first side, 3 to 5 minutes. Flip
-   steaks, reduce heat to medium, and continue to cook until steaks
-   register 120F to 125F (for medium-rare), 5 to 7 minutes. Transfer
-   steaks to carving board, tent loosely with aluminum foil, and let
-   rest for 5 to 10 minutes. Slice steaks thin against grain.
-3. Drain potatoes and return to saucepan. Cook over low heat, stirring
-   constantly, until potatoes are thoroughly dried, about 2 minutes. Off
-   heat, mash potatoes with potato masher until smooth. Microwave cream
-   and Boursin together in bowl until hot, about 1 minute, then gently
-   fold into potatoes. Fold chives, 1/2 teaspoon salt, and 1/4 teaspoon
-   pepper into potatoes. Serve with steak.
+1. Put potatoes in a large saucepan and cover with water by 1 inch. Add
+   1 teaspoon salt and bring to a boil. Drop to a gentle simmer and cook
+   until tender, 15 to 20 minutes.
+2. Meanwhile, pat the steaks dry and season with salt and pepper. Heat
+   the oil in a 12-inch skillet over medium-high until just smoking.
+   Brown the steaks well on the first side, 3 to 5 minutes. Flip them,
+   reduce heat to medium, and cook until they register 120F to 125F for
+   medium-rare, 5 to 7 minutes. Move the steaks to a carving board, tent
+   loosely with foil, and rest 5 to 10 minutes. Slice thin against the
+   grain.
+3. Drain the potatoes and return them to the saucepan. Over low heat,
+   stir constantly until thoroughly dried, about 2 minutes. Off heat,
+   mash smooth with a potato masher. Microwave the cream and Boursin
+   together in a bowl until hot, about 1 minute, then gently fold into
+   the potatoes. Fold in the chives, 1/2 teaspoon salt, and 1/4 teaspoon
+   pepper. Serve with the steak.

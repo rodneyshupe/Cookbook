@@ -5,11 +5,6 @@ Ice Cream in a Bag
 | Prep Time: 5 minutes | Total Time: 15 minutes | Yield: 1 serving |
 +----------------------+------------------------+------------------+
 
-Source: `Delish (Lena Abraham) <https://www.delish.com/cooking/recipe-ideas/recipes/a54721/ice-cream-in-a-bag-recipe/>`__
-
-This hack from Delish.com is the most fun you'll have making ice cream
-this summer.
-
 Ingredients
 -----------
 
@@ -24,8 +19,8 @@ Directions
 ----------
 
 1. In a small resealable plastic bag, combine half-and-half, sugar, and
-   vanilla. Push out excess air and seal.
-2. In a large resealable plastic bag, combine ice and salt. Place small
-   bag inside the bigger bag and shake vigorously, 7 to 10 minutes,
-   until ice cream has hardened.
-3. Remove from bag and enjoy with your favourite ice cream toppings.
+   vanilla; push out excess air and seal.
+2. In a large resealable plastic bag, combine ice and salt, then place the
+   small bag inside and shake vigorously until the ice cream has hardened, 7
+   to 10 minutes.
+3. Remove from the bag and enjoy with your favourite ice cream toppings.

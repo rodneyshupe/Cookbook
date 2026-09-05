@@ -12,7 +12,7 @@ Ingredients
 - 1 clove garlic, minced
 - 2 scallions, chopped, whites and greens separated
 - 1/2 teaspoon minced ginger
-- 2 tablespoons cup hoisin
+- 2 tablespoons hoisin
 - 2 tablespoons honey
 - 1 tablespoon soy sauce
 - 1/2 tablespoon distilled white vinegar
@@ -21,7 +21,7 @@ Ingredients
 Directions
 ----------
 
-1. Melt the butter in a small saucepan over medium-high heat. Add the
-   garlic, scallion whites and ginger and cook, stirring, until golden,
-   about 2 minutes. Add the hoisin, honey, soy sauce, vinegar and
-   sambal oelek and bring just to a simmer. Remove from the heat.
+1. Melt the butter in a small saucepan over medium-high heat. Add the garlic,
+   scallion whites and ginger and cook, stirring, until golden, about 2
+   minutes. Stir in the hoisin, honey, soy sauce, vinegar and sambal oelek and
+   bring just to a simmer, then remove from the heat.

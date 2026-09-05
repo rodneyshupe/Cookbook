@@ -5,8 +5,6 @@ Cioppino
 | Prep Time: 15 minutes | Cook Time: 30 minutes | Yield: 6 servings |
 +-----------------------+-----------------------+-------------------+
 
-Source: `Same the Cooking Guy <https://www.youtube.com/watch?v=E6LtW0DaH4U>`__
-
 Ingredients
 -----------
 
@@ -25,7 +23,7 @@ Ingredients
 - 1 - 10 ounce (296 ml) bottle clam juice
 - 16 ounces Clamato juice
 - 1 1/2 teaspoons kosher salt
-- 1/2 teaspoon coarse ground black
+- 1/2 teaspoon coarse ground black pepper
 - 1 pound (450 g) large shrimp, peeled & de-veined
 - 1 1/2 pounds (680 g) cod/halibut/rockfish - any firm white fish
 - 1 pound (450 g) large scallops, sliced into thin half horizontally
@@ -36,23 +34,23 @@ Ingredients
 Directions
 ----------
 
-1. Heat a couple tablespoons of oil in a large heavy pot over medium heat,
-   and add the onion, fennel, jalapenos and red pepper - cook until
-   softened 4-5 minutes
-2. Add the garlic and mix in until fragrant, about 45 seconds
-3. Add the celery seed, red pepper flakes, smoked paprika and let it infuse
-   in the oil about a minute, then stir in the tomato paste - mix in well
-4. Add the wine, bring to a simmer and cook 2-3 minutes or until wine is
+1. Heat a couple tablespoons of oil in a large heavy pot over medium heat; add
+   the onion, fennel, jalapenos and red pepper and cook until softened, 4-5
+   minutes
+2. Add the garlic and stir until fragrant, about 45 seconds
+3. Add the celery seed, red pepper flakes and smoked paprika; let infuse in
+   the oil about a minute, then stir in the tomato paste and mix well
+4. Add the wine, bring to a simmer and cook 2-3 minutes, until the wine is
    mostly evaporated
-5. Now you can add the tomatoes, clam juice and Clamato juice, mix well,
-   return to a simmer and cover for 10 - 15 minutes
-6. Add salt and pepper to taste, reduce heat to low then add the fish, and
-   gently dunk into the broth - cover for 2 minutes
-7. Now add everything else giving them a gentle push into the broth - you
-   don't want to break the fish
-8. Bring to a simmer, cover and let poach for 3-4 mins or until the mussels
-   are fully opened and the rest of the fish is opaque - if you need more
-   time, just cover it up again
-9. When ready, gently ladle into a bowl (discarding any mussels that didn't
-   open) and garnish with the parsley & green onion
-10. Serve with the  bread
+5. Add the tomatoes, clam juice and Clamato juice; mix well, return to a
+   simmer and cover for 10 - 15 minutes
+6. Season with salt and pepper to taste, reduce heat to low, then add the fish
+   and gently dunk into the broth; cover for 2 minutes
+7. Add everything else, giving each a gentle push into the broth; take care
+   not to break the fish
+8. Bring to a simmer, cover and poach 3-4 mins, until the mussels are fully
+   opened and the rest of the fish is opaque; cover again if it needs more
+   time
+9. Gently ladle into a bowl, discarding any mussels that didn't open, and
+   garnish with the parsley and green onion
+10. Serve with the bread

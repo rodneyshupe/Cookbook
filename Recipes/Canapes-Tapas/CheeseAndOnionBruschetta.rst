@@ -18,8 +18,6 @@ Ingredients
 Directions
 ----------
 
-1. In a medium bowl, mix together all the ingredients except for the
-   baguette.
-2. Spread on baguette slices
-3. Broil in oven until mixture begins to melt (approx 5-10 min.)
-
+1. Mix everything except the baguette together in a medium bowl.
+2. Spread onto the baguette slices.
+3. Broil until the mixture starts to melt, about 5-10 min.

@@ -15,20 +15,16 @@ Ingredients
 - Coarse (kosher or sea) salt and freshly ground black pepper
 - 2 tablespoons sesame seeds
 
-
 Directions
 ----------
 
 1. Set up the grill for direct grilling and preheat to high.
-2. Snap off the woody bases of the asparagus and discard. Trim the ends
-   with a knife so the stalks are a uniform length. Skewer 4 or 5
-   asparagus spears together, using toothpicks or bamboo skewers. (Think
-   of a Huck Finn-type raft!)
-3. In a small bowl, combine the sesame oil, soy sauce, and garlic and
-   stir with a fork to mix. Brush this mixture on the asparagus rafts on
-   both sides. Season the rafts with a little salt and lots of pepper.
-4. When ready to cook, place the rafts on the hot grate and grill until
-   nicely browned on both sides, 2 to 4 minutes per side. Sprinkle the
-   asparagus rafts with the sesame seeds as they grill. You can serve
-   the asparagus as rafts, or unskewered.
-
+2. Snap off the woody bases of the asparagus and discard; trim the ends with a
+   knife so the stalks are a uniform length. Skewer 4 or 5 asparagus spears
+   together with toothpicks or bamboo skewers.
+3. Combine the sesame oil, soy sauce, and garlic in a small bowl and stir with
+   a fork to mix. Brush this mixture on both sides of the asparagus rafts,
+   then season with a little salt and lots of pepper.
+4. Place the rafts on the hot grate and grill until nicely browned on both
+   sides, 2 to 4 minutes per side, sprinkling with the sesame seeds as they
+   grill. Serve as rafts or unskewered.

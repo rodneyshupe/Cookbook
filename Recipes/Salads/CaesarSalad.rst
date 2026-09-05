@@ -25,8 +25,8 @@ Dressing
 Croutons
 ^^^^^^^^
 
-- 3 cloves garlic, peeled, divided
 - 1/4 cup olive oil
+- 3 cloves garlic, peeled, divided
 - 4 cups day-old bread, cubed
 
 Salad
@@ -37,15 +37,14 @@ Salad
 Directions
 ----------
 
-1. Mince 3 cloves of garlic, and combine in a small bowl with
-   mayonnaise, anchovies, 2 tablespoons of the Parmesan cheese,
-   Worcestershire sauce, mustard, and lemon juice. Season to taste with
-   salt and black pepper. Refrigerate until ready to use.
-2. Heat oil in a large skillet over medium heat. Cut the remaining 3
-   cloves of garlic into quarters, and add to hot oil. Cook and stir
-   until brown, and then remove garlic from pan. Add bread cubes to the
-   hot oil. Cook, turning frequently, until lightly browned. Remove
-   bread cubes from oil, and season with salt and pepper.
+1. Mince 3 cloves of garlic and combine in a small bowl with mayonnaise,
+   anchovies, 2 tablespoons of the Parmesan cheese, Worcestershire sauce,
+   mustard, and lemon juice. Season to taste with salt and black pepper, then
+   refrigerate until ready to use.
+2. Heat oil in a large skillet over medium heat. Cut the remaining 3 cloves of
+   garlic into quarters and add to the hot oil, cooking and stirring until
+   brown, then remove garlic from the pan. Add bread cubes to the hot oil and
+   cook, turning frequently, until lightly browned. Remove bread cubes from
+   oil and season with salt and pepper.
 3. Place lettuce in a large bowl. Toss with dressing, remaining Parmesan
    cheese, and seasoned bread cubes.
-

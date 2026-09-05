@@ -5,8 +5,6 @@ Feta-Mint Dip with Yogurt
 | Prep Time: 10 minutes | Total Time: 8-24 hours | Yield: about 2 cups |
 +-----------------------+------------------------+---------------------+
 
-Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/359-feta-mint-dip-with-yogurt>`__
-
 Ingredients
 -----------
 - 1 cup plain whole-milk yogurt
@@ -18,11 +16,12 @@ Ingredients
 
 Directions
 ----------
-1. Place yogurt in fine-mesh strainer or cheesecloth-lined colander set over
-   bowl. Cover with plastic wrap and refrigerate 8 to 24 hours; discard
-   liquid in bowl.
-2. Process all ingredients in food processor until smooth and creamy, about
-   30 seconds. Transfer dip to serving bowl, cover with plastic wrap, and
-   refrigerate until flavours are blended, at least 1 hour; serve cold with
-   crudites. (Can be refrigerated in airtight container for up to 2 days.)
 
+1. Place yogurt in fine-mesh strainer or cheesecloth-lined colander set over
+   bowl, cover with plastic wrap, and refrigerate 8 to 24 hours. Discard
+   liquid in bowl.
+2. Process all ingredients in food processor until smooth and creamy, about 30
+   seconds. Transfer dip to serving bowl, cover with plastic wrap, and
+   refrigerate until flavours are blended, at least 1 hour, then serve cold
+   with crudites. (Can be refrigerated in airtight container for up to 2
+   days.)

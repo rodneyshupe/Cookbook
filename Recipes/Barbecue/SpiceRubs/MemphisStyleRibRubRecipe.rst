@@ -5,8 +5,7 @@ Memphis Style Rib Rub Recipe
 | Prep Time: 5 minutes | Yield: about 2/3 cup |
 +----------------------+----------------------+
 
-This recipe come from Off the Grill Magazine, and is the perfect start
-to a perfect rack of Memphis Style BBQ Ribs.
+The perfect start to a perfect rack of Memphis Style BBQ Ribs.
 
 Ingredients
 -----------
@@ -18,4 +17,3 @@ Ingredients
 - 1/2 tablespoon freshly ground black pepper
 - 1 tablespoon garlic powder
 - 1 tablespoon onion powder
-

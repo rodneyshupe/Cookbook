@@ -22,11 +22,11 @@ Ingredients
 Directions
 ----------
 
-1. Stir tuna, celery, roasted red pepper, scallion, yogurt, mustard and
-   pepper together in a medium bowl until well blended.
+1. Stir tuna, celery, roasted red pepper, scallion, yogurt, mustard and pepper
+   together in a medium bowl until well blended.
 2. Spread 1 teaspoon mayonnaise (or butter) on one side of each slice of
-   bread. Flip 2 of the slices and top each with half of the tuna mixture,
-   1 slice cheese and another slice of bread, mayonnaise-side up.
-3. Heat a large skillet over medium heat. Place the sandwiches in the pan
-   and cook, turning once, until the cheese is melted and the bread is
-   golden, 3 to 5 minutes per side. Serve immediately
+   bread; flip 2 of the slices and top each with half of the tuna mixture, 1
+   slice cheese and another slice of bread, mayonnaise-side up.
+3. Heat a large skillet over medium heat, then add the sandwiches and cook,
+   turning once, until the cheese is melted and the bread is golden, 3 to 5
+   minutes per side. Serve immediately.

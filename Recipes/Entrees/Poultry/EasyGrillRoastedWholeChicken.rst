@@ -5,8 +5,6 @@ Easy Grill-Roasted Whole Chicken
 | Total Time: 2 hours | Yield: Serves 4 |
 +---------------------+-----------------+
 
-Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/11725-easy-grill-roasted-whole-chicken>`__
-
 Ingredients
 -----------
 
@@ -19,36 +17,34 @@ Ingredients
 Directions
 ----------
 
-1. Combine salt and pepper in bowl. Pat chicken dry with paper towels, then
-   rub entire surface of chicken with oil. Sprinkle salt mixture all over
-   chicken and rub in mixture with your hands to evenly coat. Tie legs
-   together with kitchen twine and tuck wingtips behind back.
-2. Using large piece of heavy-duty aluminum foil, wrap chips ( 1/4 cup if
-   using charcoal; 1/2 cup if using gas) in 8 by 4 1/2-inch foil packet.
-   (Make sure chips do not poke holes in sides or bottom of packet.) Cut 2
-   evenly spaced 2-inch slits in top of packet.
-3. Remove cooking grate and place wood chip packet directly on 1 primary
-   burner. Set grate in place, turn all burners to high, cover, and heat
-   grill until hot and wood chips are smoking, about 15 minutes. Turn
-   primary burners (two outside burners) to medium-high and turn off
-   secondary (centre) burner. (Adjust primary burners as needed to maintain
-   grill temperature between 400 and 425F.)
-4. Clean and oil cooking grate. Place chicken, breast side up with cavity
-   facing toward you, in centre of grill, making sure chicken is centred
-   between hotter sides of grill. Cover (position lid vent over chicken if
-   using charcoal) and cook until breast registers 130F, 45 to 55
-   minutes.
-5. Using long grill tongs, reach into cavity and carefully lift chicken by
-   breast. Holding chicken over bowl or container, tilt chicken toward you
-   to allow fat and juices to drain from cavity. Transfer chicken, breast
-   side up, to hotter side of grill (without wood chip packet) and cook,
-   covered, until back is deep golden brown, about 5 minutes. Using tongs,
-   flip chicken breast side down; cover and continue to cook over hotter
-   side of grill until breast is deep golden brown, about 5 minutes longer.
-   Using tongs, flip chicken breast side up and return it to centre of
-   grill; take internal temperature of breast. If breast registers 155F,
-   transfer chicken to carving board. If breast registers less
-   than 155F, cover and continue to cook in centre of grill,
-   checking temperature every 2 minutes, until it registers 155F, 2
-   to 10 minutes longer. Let chicken rest, uncovered, for 20 minutes. Carve
-   chicken and serve.
+1. Combine the salt and pepper in a bowl. Pat the chicken dry with paper
+   towels, then rub the entire surface with oil. Sprinkle the salt mixture all
+   over and rub it in with your hands to coat evenly. Tie the legs together
+   with kitchen twine and tuck the wingtips behind the back.
+2. Wrap the chips (1/4 cup if using charcoal; 1/2 cup if using gas) in an 8 by
+   4 1/2-inch packet of heavy-duty aluminum foil, making sure the chips do not
+   poke holes in the sides or bottom. Cut 2 evenly spaced 2-inch slits in the
+   top.
+3. Remove the cooking grate and place the wood chip packet directly on 1
+   primary burner. Set the grate in place, turn all burners to high, cover,
+   and heat until the grill is hot and the chips are smoking, about 15
+   minutes. Turn the primary burners (the two outside burners) to medium-high
+   and turn off the secondary (centre) burner, adjusting the primary burners
+   as needed to hold the grill temperature between 400 and 425F.
+4. Clean and oil the cooking grate. Place the chicken breast side up with the
+   cavity facing toward you, centred between the hotter sides of the grill.
+   Cover (position the lid vent over the chicken if using charcoal) and cook
+   until the breast registers 130F, 45 to 55 minutes.
+5. Using long grill tongs, reach into the cavity and carefully lift the
+   chicken by the breast. Holding it over a bowl or container, tilt the
+   chicken toward you to drain the fat and juices from the cavity. Transfer it
+   breast side up to the hotter side of the grill (without the wood chip
+   packet) and cook, covered, until the back is deep golden brown, about 5
+   minutes. Flip the chicken breast side down; cover and continue to cook over
+   the hotter side until the breast is deep golden brown, about 5 minutes
+   longer. Flip the chicken breast side up and return it to the centre of the
+   grill, then take the internal temperature of the breast. If the breast
+   registers 155F, transfer the chicken to a carving board. If it registers
+   less than 155F, cover and continue to cook in the centre of the grill,
+   checking every 2 minutes, until it registers 155F, 2 to 10 minutes longer.
+   Let the chicken rest, uncovered, for 20 minutes, then carve and serve.

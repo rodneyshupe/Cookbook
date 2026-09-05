@@ -31,16 +31,17 @@ Ingredients
 Directions
 ----------
 
-1. In a frying pan, add 1 tablespoon of olive oil to the pan and heat to
-   medium. Add the shallots and saute until slightly translucent, 1 to 2
-   minutes. Add the garlic half way through.
-2. Add mushrooms and remaining olive oil and saute until they start to
-   release their liquid.
-3. Add sherry and reduce by half. 5-8 minutes.
-4. Add cream and reduce by half. 3-5 minutes.
-5. Whisk in mustard and reduce heat to low.
-6. On the grill cook steaks on high till desired doneness approximately
-   3 minutes per side for medium rare. (Alternate method use the frying
-   pan at high heat until almost done, then transfer to a rack and keep
-   warm in the oven, do not wash pan as this will add extra flavour.)
-7. Add tarragon to sauce and spoon over steaks and serve immediately.
+1. Add 1 tablespoon olive oil to the frying pan and heat to medium, then
+   add the shallots and saute until slightly translucent, 1 to 2
+   minutes, adding the garlic half way through. Add the mushrooms and
+   remaining olive oil and saute until they start to release their
+   liquid, then add the sherry and reduce by half, 5 to 8 minutes. Add
+   the cream and reduce by half, 3 to 5 minutes, then whisk in the
+   mustard and reduce heat to low.
+2. On the grill, cook the steaks on high until desired doneness,
+   approximately 3 minutes per side for medium rare. (Alternate method:
+   use the frying pan at high heat until almost done, then transfer to a
+   rack and keep warm in the oven; do not wash the pan as this will add
+   extra flavour.)
+3. Add the tarragon to the sauce, spoon over the steaks, and serve
+   immediately.

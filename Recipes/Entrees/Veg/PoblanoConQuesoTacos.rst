@@ -5,8 +5,6 @@ Poblano con queso - Tacos
 | Prep Time: 10 minutes | Cook Time: 15 minutes | Yield: 4 tacos |
 +-----------------------+-----------------------+----------------+
 
-Source: `Ethan Chlebowski <https://www.ethanchlebowski.com/cooking-techniques-recipes/poblano-con-queso-tacos>`__
-
 Ingredients
 -----------
 
@@ -17,14 +15,12 @@ Ingredients
 Directions
 ----------
 
-1. Cut the top off the poblano and remove the stem and insides. Add in a
+1. Cut the top off the poblano and remove the stem and insides; stuff with a
    large block of manchego cheese (don't skimp!).
-2. Over a charcoal grill, gas stove or under the broiler, roast the poblano
+2. Roast the poblano over a charcoal grill, gas stove or under the broiler
    until charred completely and slightly softened.
 3. Roughly dice the poblano and cheese.
-4. Heat a pan over medium heat, add the diced poblano and cheese. Cook until
-   completely melted and you get a beautiful string pull.
-5. Add the filling to fresh tortillas. Add `Salsa Roja <#salsa-roja>`__ or
-   `Chilli Tomatillo Salsa <#chilli-tomatillo-salsa>`__,
-   `Pickled Onions & Habaneros <#pickled-onions-habaneros>`__, and any
-   other desired toppings.
+4. Heat a pan over medium heat; add the diced poblano and cheese and cook
+   until completely melted and you get a beautiful string pull.
+5. Add the filling to fresh tortillas, then add `Salsa Roja <#salsa-roja>`__ or `Chilli Tomatillo Salsa <#chilli-tomatillo-salsa>`__, `Pickled Onions & Habaneros <#pickled-onions-habaneros>`__, and any other
+   desired toppings.

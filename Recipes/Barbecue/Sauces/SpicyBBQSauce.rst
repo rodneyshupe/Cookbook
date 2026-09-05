@@ -17,5 +17,4 @@ Ingredients
 Directions
 ----------
 
-1. Whisk ingredients together.
-
+1. Whisk everything together.

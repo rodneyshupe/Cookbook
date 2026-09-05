@@ -26,12 +26,10 @@ Ingredients
 Directions
 ----------
 
-1. In a medium saucepan, melt the butter over medium heat.
-2. Add the onion and cook for 5 minutes until softened.
-3. Add the garlic and cook for another minute.
-4. Add in the ketchup, molasses, worcestershire, liquid smoke, chipotle
-   chile pepper, cayenne (if using), honey, and vinegar.
-5. Simmer for 15 minutes, then taste and make any necessary seasoning
-   adjustments.
-6. If the BBQ sauce gets too thick, dilute with water until you get the
-   desired consistency.
+1. Melt the butter in a medium saucepan over medium heat. Add the onion
+   and cook until softened, about 5 minutes, then add the garlic and cook
+   another minute. Stir in the ketchup, molasses, worcestershire, liquid
+   smoke, chipotle chile pepper, cayenne (if using), honey, and vinegar,
+   then simmer 15 minutes; taste and adjust the seasoning as needed, and
+   if the sauce gets too thick, thin with water until it reaches the
+   consistency you want.

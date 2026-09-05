@@ -5,8 +5,6 @@ Pressure Cooker Chicken, Black Bean, and Rice Burrito Bowls
 | Prep Time: 10 minutes | Total Time: 20 minutes | Yield: 4 people |
 +-----------------------+------------------------+-----------------+
 
-Source: `Elizabeth <https://cookfasteatwell.com/pressure-cooker-chicken-black-bean-and-rice-burrito-bowls/>`__
-
 Equipment
 ---------
 Electric Pressure Cooker
@@ -16,7 +14,7 @@ Ingredients
 
 - 1 tablespoon olive oil
 - 1 small onion, diced
-- 1 clove garlic minced or put through a garlic press
+- 1 clove garlic, minced or put through a garlic press
 - 1 teaspoon chili powder (I used Penzey's Regular Chili Powder)
 - 1/2 teaspoon Kosher salt
 - 1 1/2 pounds (680 g) boneless, skinless chicken thighs, cut into 1-inch pieces
@@ -30,13 +28,12 @@ Ingredients
 Directions
 ----------
 
-1. Set electric pressure cooker to the saute setting. Heat olive oil until
-   it shimmers but doesn't smoke. Add the onion and cook until soft, about
-   two minutes. Add the garlic and cook an additional minute. Add chili
-   powder and salt. Stir to combine. Add the chicken, black beans, rice,
-   and salsa. Stir. Pour chicken broth over the mixture.
-2. Lock the lid in place. Set a 10-minute cook time on high pressure.
-3. Once the cook time completes, quickly release the pressure.
-4. Open the lid away from your face. Stir with a wooden spoon or rubber
-   spatula.
-5. Serve with chopped cilantro and grated cheddar.
+1. Set the pressure cooker to saute and heat the olive oil until it shimmers
+   but doesn't smoke. Cook the onion until soft, about two minutes, then add
+   the garlic and cook one minute more. Stir in the chili powder and salt,
+   then add the chicken, black beans, rice, and salsa and stir. Pour the
+   chicken broth over the mixture.
+2. Lock the lid in place and cook until done, 10 minutes on high pressure.
+3. Quickly release the pressure, then open the lid away from your face and
+   stir with a wooden spoon or rubber spatula.
+4. Serve with chopped cilantro and grated cheddar.

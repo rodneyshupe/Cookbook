@@ -24,9 +24,8 @@ Ingredients
 Directions
 ----------
 
-1. Saute onions and garlic in olive oil on low heat until soft and transparent.
-2. Whisk in remaining ingredients, cook on low heat for 30 minutes stirring
-   often. Thin sauce if necessary with additional water.
-3. Add more red pepper flakes if you want it spicier.
-4. Cool then refrigerate.
-
+1. Sauté the onions and garlic in the olive oil over low heat until soft and
+   transparent, then whisk in the remaining ingredients and cook over low heat,
+   stirring often, until thickened, about 30 minutes; thin with a splash more
+   water if it needs it, and add more red pepper flakes if you want it spicier.
+2. Cool, then refrigerate.

@@ -8,9 +8,9 @@ Teriyaki Sauce
 Ingredients
 -----------
 
-- 1 tablespoon of ginger, minced
-- 1 clove of garlic, minced
 - 1 tablespoon of oil
+- 1 clove of garlic, minced
+- 1 tablespoon of ginger, minced
 - 1/2 cup of sake
 - 1/2 cup of mirin
 - 1/2 cup of soy sauce
@@ -21,19 +21,17 @@ Ingredients
 Directions
 ----------
 
-1. Put 1/2 tablespoon of oil in a sauce pan over low heat then add garlic and
-   ginger. On low heat, let bloom and become fragrant.
+1. Put 1/2 tablespoon of oil in a sauce pan over low heat, then add garlic and
+   ginger and let them bloom until fragrant.
 2. After about 3 minutes, add in equal parts of sake, mirin, and soy sauce.
-   Bring to a boil and let the alcohol cook off. This will take about
-   3-5 minutes on medium heat.
+   Bring to a boil and let the alcohol cook off, about 3-5 minutes on medium
+   heat.
 3. Once the sauce has reduced by about 1/3, mix together the corn starch and
    water in a small bowl.
-4. Drizzle in your corn starch slurry and give it a mix. Your teriyaki sauce
-   should become nice and thick.
-5. Finally add in about sesame seeds. Stir to combine and once the sauce is
-   cooled store in an air tight jar.
-
-----
+4. Drizzle in the corn starch slurry and stir until the sauce becomes nice and
+   thick.
+5. Add in the sesame seeds and stir to combine. Once the sauce is cooled,
+   store in an air tight jar. ----
 
 Teriyaki Sauce (non sake version)
 =================================
@@ -55,11 +53,10 @@ Ingredients
 Directions
 ----------
 
-1. Combine soy sauce, sugar, ginger, and garlic in small saucepan
-2. Stir together mirin and cornstarch in small bowl until no lumps
-   remain, then stir mirin mixture into saucepan.
-3. Bring sauce to boil over medium-high heat, stirring occasionally;
-   reduce heat to medium-low and simmer, stirring occasionally, until
-   sauce is reduced to 3/4 cup and forms syrupy glaze, about 4 minutes.
-   Cover to keep warm.
-
+1. Combine soy sauce, sugar, ginger, and garlic in a small saucepan.
+2. Stir together mirin and cornstarch in a small bowl until no lumps remain,
+   then stir the mirin mixture into the saucepan.
+3. Bring to a boil over medium-high heat, stirring occasionally, then reduce
+   heat to medium-low and simmer, stirring occasionally, until the sauce is
+   reduced to 3/4 cup and forms a syrupy glaze, about 4 minutes. Cover to
+   keep warm.

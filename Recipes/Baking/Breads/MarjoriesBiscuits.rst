@@ -18,9 +18,9 @@ Directions
 ----------
 
 1. Preheat oven to 425F. Combine all ingredients in a medium size bowl until
-   all flour is absorbed and a rough dough forms. Knead dough at least 10
-   times.  Roll out dough into a disk approx. 1/2 inch thick.
-2. Place parchment on a rimmed baking sheet. Cut biscuits using a 2 1/2 inch
-   cutter and place on prepared sheet.
-3. Bake for 20 minutes. Removed from oven and transfer to a wire rack.
-
+   all flour is absorbed and a rough dough forms; knead at least 10 times,
+   then roll out into a disk approx. 1/2 inch thick.
+2. Place parchment on a rimmed baking sheet; cut biscuits using a 2 1/2 inch
+   cutter and place on the prepared sheet.
+3. Bake until done, about 20 minutes; remove from oven and transfer to a wire
+   rack.

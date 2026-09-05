@@ -10,21 +10,24 @@ Ingredients
 
 - 8 tiger prawns, de-veined
 - 1 tomato, diced
+- 1 tablespoon Butter
 - sea salt
 - fresh cracked pepper
+- 1 clove garlic, chopped
 - 5 tablespoons white wine
 - 1 tablespoon basil
-- 1 tablespoon Butter
 - 1 tablespoon flat leaf parsley, chopped
-- 1 clove garlic, chopped
 
 Directions
 ----------
 
-1. Clean prawns by removing shell
-2. Add a tomato to salted, boiling water, take out after 30 seconds, and place in ice water. Remove skin, cut around so that you just cut the meat of the tomato and not into the seeds. Dice into 1/4 ". Put aside.
-3. Heat a skillet, add butter and melt
-4. Add prawns, season, and sear for 1 minute
-5. Add garlic and stir for 1 minute
-6. Add white wine, and deglaze for 1 minute
-7. Add tomat concasse and fresh herbs
+1. Clean the prawns, removing the shell.
+2. Make the tomato concasse: drop the tomato into salted, boiling water, take
+   it out after 30 seconds, and place it in ice water; remove the skin, cut
+   around so you take only the meat and not into the seeds, then dice into 1/4
+   ". Set aside.
+3. Heat a skillet, add the butter, and melt it; add the prawns, season, and
+   sear, about 1 minute.
+4. Add the garlic and stir, about 1 minute; add the white wine and deglaze,
+   about 1 minute.
+5. Add the tomato concasse and fresh herbs.

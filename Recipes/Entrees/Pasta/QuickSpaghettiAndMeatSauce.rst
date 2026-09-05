@@ -28,19 +28,17 @@ Directions
 ----------
 
 1. Preheat oven to 425F.
-2. Add beef and sausage to a heavy bottom pan over medium high heat.
-   Break the meat apart as it cooks, and continue until the meat
-   is beginning to brown and are broken into pieces the size of lentils.
-3. Add onion garlic and a large pinch of salt, then stir to combine. As
-   the onions begin to release moisture, scrap up any fond beginning to
-   form on the bottom of the pan.  Cover and continue to cook for
-   5 minutes.  Scrape up the bottom of the pan.
-4. Add oregano, chili flakes, and tomato paste.  Stir to combine and
-   cook to allow flavours to bloom and cook the tomato paste.  Stir in
-   better than bouillon, crushed tomatoes, water, sugar and fresh basil.
-5. Add spaghetti and gentle stir to submerge.  Bring to a simmer for
-   1 minute to allow the spaghetti to soften and then stir the noodles
-   to combine.
-6. Add pot uncovered to the oven.  After 5 minutes stir and add back to
-   the oven for another 5 minutes. Continue to cook for 6-8 minutes more
-   until noodles are a little past al dente.  Stir in parmesan and serve.
+2. Add beef and sausage to a heavy bottom pan over medium high heat. Break the
+   meat apart as it cooks, continuing until the meat is beginning to brown and
+   broken into pieces the size of lentils.
+3. Add onion, garlic, and a large pinch of salt, then stir to combine. As the
+   onions release moisture, scrape up any fond forming on the bottom of the
+   pan. Cover and cook 5 minutes, then scrape up the bottom of the pan.
+4. Add oregano, chili flakes, and tomato paste. Stir to combine and cook to
+   bloom the flavours and cook the tomato paste. Stir in better than bouillon,
+   crushed tomatoes, water, sugar, and fresh basil.
+5. Add spaghetti and gently stir to submerge. Bring to a simmer for 1 minute
+   to soften the spaghetti, then stir the noodles to combine.
+6. Add the pot uncovered to the oven. After 5 minutes, stir and return to the
+   oven for another 5 minutes. Continue cooking until the noodles are a little
+   past al dente, 6-8 minutes more. Stir in parmesan and serve.

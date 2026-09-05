@@ -27,13 +27,13 @@ Ingredients
 Directions
 ----------
 
-1. Cook bacon until almost getting crispy, drain and set aside.
-2. Boil potatoes in salted water until fork-tender, drain and let cool
+1. Cook the bacon until almost crispy, then drain and set aside. Boil the
+   potatoes in salted water until fork-tender, then drain and let cool
    slightly.
-3. Put corn in a zippered bag, and microwave 5 minutes, then grill until
+2. Put the corn in a zippered bag and microwave 5 minutes, then grill until
    beautifully charred all over. Let cool, then cut off the kernels.
-4. In a big bowl stir together the mayo, sour cream, lime juice,
-   chili powder, paprika, and jalapeno - season with salt and pepper.
-5. Add the bacon, potatoes and corn - toss gently to coat, then fold in
-   the cotija and cilantro.
-6. Sprinkle with extra cotija, more chili powder and a squeeze of lime.
+3. Stir together the mayo, sour cream, lime juice, chili powder, paprika, and
+   jalapeno in a big bowl, then season with salt and pepper. Add the bacon,
+   potatoes, and corn and toss gently to coat, then fold in the cotija and
+   cilantro.
+4. Sprinkle with extra cotija, more chili powder, and a squeeze of lime.

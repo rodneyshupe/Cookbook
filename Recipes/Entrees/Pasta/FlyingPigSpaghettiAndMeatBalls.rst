@@ -5,8 +5,6 @@ Flying Pig Spaghetti and Meat Balls
 | Prep Time: 30 minutes | Cook Time: 1 hour | Yield: 6 servings |
 +-----------------------+-------------------+-------------------+
 
-Source: `Flying Pigs <https://bc.ctvnews.ca/recipe-flying-pig-tomato-sauce-and-meatballs-1.4915566>`__
-
 Ingredients
 -----------
 
@@ -18,11 +16,11 @@ Tomato Sauce
 - 3/4 cup peeled carrot, medium dice
 - 1/4 cup celery, medium dice
 - 3 cloves garlic, minced
-- 1/4 cup parsley, chopped
-- 1/4 cup basil, chopped
 - 1 teaspoon chili flakes
 - 1/2 cup red wine
 - 1.5 L canned tomatoes
+- 1/4 cup basil, chopped
+- 1/4 cup parsley, chopped
 - 1 tablespoon honey
 - 1 tablespoon cornstarch
 - 3 tablespoons water
@@ -49,20 +47,20 @@ Meatballs
 
 Directions
 ----------
-1. TOMATO SAUCE: Pre heat a large pot on medium heat. Add one fluid ounce
-   of olive oil to the pot. Ensure its not too hot or it will burn the oil.
-2. Saute the onion until soft and add the carrots. Continue to stir the
-   vegetables so they cook evenly. Add celery and continue to saute for two
-   more minutes. Add garlic and chili flakes and saute for one minute, then
-   deglaze with the wine. Reduce wine by 50 per cent.
+
+1. TOMATO SAUCE: Preheat a large pot on medium heat. Add one fluid ounce of
+   olive oil to the pot. Ensure it's not too hot or it will burn the oil.
+2. Saute the onion until soft, then add the carrots. Stir the vegetables so
+   they cook evenly. Add celery and continue to saute for two more minutes.
+   Add garlic and chili flakes and saute for one minute, then deglaze with the
+   wine. Reduce wine by 50 per cent.
 3. Add canned tomatoes, basil and parsley and stew for 45 minutes on medium
    heat.
-4. MEATBALLS: Preheat oven to 420F. Line a baking tray with
-   parchment paper. Mix all the ingredients by hand in a large mixing bowl
-   until well mixed.
+4. MEATBALLS: Preheat oven to 420F. Line a baking tray with parchment paper.
+   Mix all the ingredients by hand in a large mixing bowl until well mixed.
 5. Roll the meatball mix into 3 tablespoon balls and place on the baking
-   sheet. Do not crowd the meatballs. Bake the meatballs for 12 minutes.
-6. Add honey to the sauce. Puree the mixture using a hand blender or
-   blender. Mix the water and cornstarch together, add to your tomato sauce
-   and return to the heat for two minutes. This will stop the sauce from
-   separating. Season to taste with salt and pepper.
+   sheet. Do not crowd the meatballs. Bake for 12 minutes.
+6. Add honey to the sauce. Puree the mixture using a hand blender or blender.
+   Mix the water and cornstarch together, add to the tomato sauce and return
+   to the heat for two minutes. This will stop the sauce from separating.
+   Season to taste with salt and pepper.

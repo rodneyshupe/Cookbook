@@ -19,9 +19,8 @@ Ingredients
 
 Directions
 ----------
-1. Pulse onion, cilantro, jalapenos, lime juice, garlic, and salt in
+1. Pulse the onion, cilantro, jalapenos, lime juice, garlic, and salt in the
    food processor until coarsely chopped.
-2. Add tomatoes and pulse until combined, about three 1-second pulses.
-   Place salsa in fine-mesh strainer and drain briefly. Transfer to bowl.
-   Serve. (Salsa can be refrigerated in airtight container for 2 days.)
-
+2. Add the tomatoes and pulse until combined, about three 1-second pulses.
+   Scrape the salsa into a fine-mesh strainer and drain briefly, then transfer
+   to a bowl and serve. Keeps in an airtight container in the fridge for 2 days.

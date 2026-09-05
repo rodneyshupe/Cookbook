@@ -24,15 +24,14 @@ Directions
 ----------
 
 1. Place egg yolks in bowl.
-2. Place sugar into medium pot over medium heat.  As sugar melts swirl so
-   sugar melts evenly. Once sugar is melted add cream stirring with whisk.
-   Once the cream is added caramel will solidify.  Continue to stir until
-   Caramel remelts and is incorporated.  Add salt and vanilla and heat
-   till 160F.
-3. Carefully whisk the hot cream / caramel mixture into the eggs.
-4. Strain to remove any lumps. Allow to rest at room temp 20 minutes, so
-   that any bubbles in the mixture can rise to the top.
-5. Heat sous vide water bath to 175F / 80C.  Skim away any remaining
-   bubbles. Divide mixture among 6 sealable 4 ounce jars. Place jars into the
-   sous vide bath and cook for one hour.
-6. Remove the jars and place in an ice bath to chill.
+2. Melt sugar in medium pot over medium heat, swirling so it melts evenly; add
+   cream and stir with whisk, caramel will solidify, then continue to stir
+   until caramel remelts and is incorporated; add salt and vanilla and heat to
+   160F.
+3. Carefully whisk the hot cream / caramel mixture into the eggs, then strain
+   to remove any lumps and rest at room temp 20 minutes so any bubbles can
+   rise to the top.
+4. Heat sous vide water bath to 175F / 80C, skim away any remaining bubbles,
+   divide mixture among 6 sealable 4 ounce jars, then cook in the bath for one
+   hour.
+5. Remove the jars and chill in an ice bath.

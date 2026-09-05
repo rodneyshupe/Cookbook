@@ -20,5 +20,4 @@ Ingredients
 Directions
 ----------
 
-1. Combine all ingredients in bowl.
-
+1. Combine all the ingredients in a bowl.

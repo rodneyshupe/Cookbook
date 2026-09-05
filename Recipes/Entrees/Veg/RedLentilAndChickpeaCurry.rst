@@ -5,8 +5,6 @@ Red Lentil and Chickpea Curry
 | Prep Time: 15 minutes | Cook Time: 30 minutes | Yield: 4 servings |
 +-----------------------+-----------------------+-------------------+
 
-Source: `Vibrant Beat <https://www.vibrantbeat.com/red-lentil-and-chickpea-curry/>`__
-
 Ingredients
 -----------
 
@@ -23,29 +21,29 @@ Ingredients
 - 1 teaspoon sugar (optional, can also use honey, agave, maple syrup)
 - 1 1/2 cups crushed tomatoes (I like POM brand in a box)
 - 1 14 ounce (414 ml) can chickpeas, drained and rinsed (I usually rinse these in a small colander)
+- **Optional 2 cups fresh baby spinach leaves, sweet potato (orange or purple, cut into squares, and roasted for 30 minutes in oven)**
 - Cooked grain (quinoa, farro, black rice, brown rice) or cauliflower rice
 - Chopped fresh cilantro for garnish
-- **Optional 2 cups fresh baby spinach leaves, sweet potato (orange or purple, cut into squares, and roasted for 30 minutes in oven)**
 
 Directions
 ----------
 
-1. Rinse lentils, place in a small to medium saucepan, cover with 2.5-3 cups
-   of water. Bring to boil over medium to high heat, then reduce heat to low
-   to medium, cover, and simmer for 10-15 minutes until tender. Drain excess
+1. Rinse lentils, place in a small to medium saucepan, and cover with 2.5-3
+   cups of water. Bring to boil over medium to high heat, then reduce heat to
+   low to medium, cover, and simmer until tender, 10-15 minutes. Drain excess
    water.
-2. If adding sweet potato, cut into bite size squares and cook on baking
-   sheet with nonstick foil or parchment paper at 350F for 25 minutes.
-3. In a large skillet, heat oil over medium heat (you can omit oil and saute
-   in nonstick pan, adding water if needed to prevent sticking), add onion
-   and saute 3-5 minutes until soft and translucent. Add garlic and cook for
-   1 minute, then add ginger and cook another 1-2 minutes, stirring
-   frequently to prevent small pieces from burning.
-4. Stir in curry paste, curry powder, turmeric, cumin, salt, and sugar (I
-   get these ready in a small dish at the start so they are easy to add).
-   Cook over medium heat, stirring frequently for 1-2 minutes.
-5. Stir in tomatoes, chickpeas, and cooked red lentils. Reduce heat and
-   simmer until heated through.
-6. Add sweet potatoes and 2 cups of spinach if using. Mix in until spinach
+2. If adding sweet potato, cut into bite size squares and cook on baking sheet
+   with nonstick foil or parchment paper at 350F for 25 minutes.
+3. Heat oil in a large skillet over medium heat (you can omit oil and saute in
+   nonstick pan, adding water if needed to prevent sticking), then add onion
+   and saute until soft and translucent, 3-5 minutes. Add garlic and cook for
+   1 minute, then add ginger and cook another 1-2 minutes, stirring frequently
+   to prevent small pieces from burning.
+4. Stir in curry paste, curry powder, turmeric, cumin, salt, and sugar (I get
+   these ready in a small dish at the start so they are easy to add). Cook
+   over medium heat, stirring frequently, for 1-2 minutes.
+5. Stir in tomatoes, chickpeas, and cooked red lentils; reduce heat and simmer
+   until heated through.
+6. Add sweet potatoes and 2 cups of spinach if using, and mix in until spinach
    is wilted.
 7. Serve over a grain or cauliflower rice and top with cilantro.

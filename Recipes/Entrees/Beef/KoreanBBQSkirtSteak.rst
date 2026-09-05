@@ -23,10 +23,9 @@ Ingredients
 Directions
 ----------
 
-1. Make the marinade: In a blender, combine garlic, Asian pear, onion,
-   and ginger. Blend to a smooth paste.
-2. Stir in scallions, honey or syrup, soy sauce, sesame oil, and pepper.
-3. Transfer marinade to a dish that can hold all of the meat. Add steak
-   and marinate, covered, in the refrigerator for at least 45 minutes
-   and as long as 2 hours.
-4. Grill on high for 5 - 6 minutes.
+1. Make the marinade: combine garlic, Asian pear, onion, and ginger in a
+   blender and blend to a smooth paste, then stir in scallions, honey or syrup,
+   soy sauce, sesame oil, and pepper. Transfer to a dish that holds all the
+   meat, add the steak, and marinate, covered, in the refrigerator at least
+   45 minutes and up to 2 hours.
+2. Grill on high until charred and just cooked through, 5 to 6 minutes.

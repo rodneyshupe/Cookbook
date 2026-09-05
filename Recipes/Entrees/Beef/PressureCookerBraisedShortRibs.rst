@@ -28,10 +28,12 @@ Ingredients
 Directions
 ----------
 
-1. Heat oil in pressure cooker then brown short ribs (cut up) in the oil.
-   Remove ribs, pour off oil and put short ribs back in pressure cooker.
-2. Add red wine, beef broth, onion, garlic, honey, brown sugar, salt and
-   pepper. Bring to high pressure, then reduce heat to low. Cook at high
+1. Heat the oil in the pressure cooker, then cut up the short ribs and brown
+   them in the oil. Remove the ribs, pour off the oil, and return the short
+   ribs to the pressure cooker.
+2. Add the red wine, beef broth, onion, garlic, honey, brown sugar, salt, and
+   pepper. Bring to high pressure, then reduce the heat to low. Cook at high
    pressure for one hour.
-3. Remove from heat and let pressure come down naturally - do not manually
-   release steam and never open cooker until pressure is released.
+3. Pull off the heat and let the pressure come down naturally. Do not manually
+   release the steam, and never open the cooker until the pressure is
+   released.

@@ -25,26 +25,23 @@ Ingredients
 Directions
 ----------
 
-1. Trim tough ends from asparagus and cut spears into uniform lengths
-   about 3/4 inch (2 cm) shorter than the inside height of the jars you
-   are using. In a large shallow dish, cover asparagus with ice water
-   and refrigerate for 1 hour. Drain well.
+1. Trim tough ends from asparagus and cut spears into uniform lengths about
+   3/4 inch (2 cm) shorter than the inside height of your jars; cover with ice
+   water in a large shallow dish and refrigerate 1 hour, then drain well.
 2. Meanwhile, prepare canner, jars and lids.
-3. In a small bowl, combine red and green bell pepper, hot pepper and
-   garlic. Mix well and set aside.
-4. In a large stainless steel saucepan, combine vinegar, water, sugar
-   and salt. Stir well and bring to a boil over medium-high heat. Reduce
-   heat and boil gently for 5 minutes. Add asparagus and return to a
-   boil. Boil for 2 minutes or until asparagus is heated through.
-5. Place 2 tablespoons (30 mL) chopped pepper mixture, 1 teaspoon (5 mL) dill seeds
-   and 1 teaspoon (5 mL) mustard seeds into each hot jar. Pack asparagus,
-   tips down, into hot jars to within a generous 1/2 inch (1 cm) of top
-   of jar. Ladle hot pickling liquid into jar to cover asparagus,
-   leaving 1/2 inch (1 cm) headspace. Remove air bubbles and adjust
-   headspace, if necessary, by adding hot pickling liquid. Wipe rim.
-   Center lid on jar. Screwband down until resistance is met, then
-   increase to fingertip-tight.
-6. Place jars in canner, ensuring they are completely covered with
-   water. Bring to a boil and process for 10 minutes. Remove canner lid.
-   Wait 5 minutes, then remove jars, cool and store.
-
+3. Combine red and green bell pepper, hot pepper and garlic in a small bowl;
+   mix well and set aside.
+4. Combine vinegar, water, sugar and salt in a large stainless steel saucepan,
+   stir well and bring to a boil over medium-high heat; reduce heat and boil
+   gently 5 minutes, then add asparagus, return to a boil and boil until
+   heated through, 2 minutes.
+5. Place 2 tablespoons (30 mL) chopped pepper mixture, 1 teaspoon (5 mL) dill
+   seeds and 1 teaspoon (5 mL) mustard seeds into each hot jar; pack asparagus
+   tips down to within a generous 1/2 inch (1 cm) of the top, ladle hot
+   pickling liquid over to cover, leaving 1/2 inch (1 cm) headspace. Remove
+   air bubbles and adjust headspace if necessary by adding hot pickling
+   liquid, wipe rim, center lid, and screwband down until resistance is met,
+   then increase to fingertip-tight.
+6. Place jars in canner, ensuring they are completely covered with water;
+   bring to a boil and process 10 minutes. Remove canner lid, wait 5 minutes,
+   then remove jars, cool and store.

@@ -17,18 +17,14 @@ Ingredients
 Directions
 ----------
 
-1. Roughly chop the bell peppers, jalapenos and onions. Then place in a
-   food processor and pulse to mince until you have the desired
-   consistency.
-2. Transfer to a large bowl and add the garlic and salt. There should be
-   a fair amount of brine already created.
-3. Transfer the mixture into a quart or half gallon jar. Press the
-   mixture down with either your hand or a pestle to further extract the
-   brine from the veggies. If you are using a weighting system then
-   place the weight on top.
+1. Roughly chop the bell peppers, jalapenos and onions, then pulse in a food
+   processor to mince to the desired consistency.
+2. Transfer to a large bowl and add the garlic and salt; a fair amount of
+   brine should already form.
+3. Pack the mixture into a quart or half gallon jar, then press down with your
+   hand or a pestle to extract more brine from the veggies; if using a
+   weighting system, set the weight on top.
 4. Seal the jar with your fermenter lid.
-5. Wait 14-21 days for the ferment to complete. Begin to taste at the
-   two week mark. As long as the ferment is under the brine in the cold
-   storage this ferment can last upwards of a couple of years in the
-   fridge.
-
+5. Ferment 14-21 days until complete, tasting at the two week mark. As long as
+   it stays under the brine in cold storage, this ferment keeps upwards of a
+   couple of years in the fridge.

@@ -6,8 +6,6 @@ Silky Butternut Squash Soup
 | minutes          | minutes             | servings                   |
 +------------------+---------------------+----------------------------+
 
-Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/489-silky-butternut-squash-soup>`__
-
 Ingredients
 -----------
 
@@ -39,34 +37,34 @@ Directions
 Soup
 ^^^^
 
-1. Heat butter in large Dutch oven over medium-low heat until foaming;
-   add shallots and cook, stirring frequently, until softened and
-   translucent, about 3 minutes. Add squash scrapings and seeds and
-   cook, stirring occasionally, until fragrant and butter turns saffron
-   colour, about 4 minutes. Add 6 cups water and 1 1/2 teaspoons salt to
-   Dutch oven and bring to boil over high heat; reduce heat to
-   medium-low, place squash cut-side down in steamer basket, and lower
-   basket into pot. Cover and steam until squash is completely tender,
-   about 30 minutes. Off heat, use tongs to transfer squash to rimmed
-   baking sheet; reserve steaming liquid. When cool enough to handle,
-   use large spoon to scrape flesh from skin into medium bowl; discard
-   skin.
-2. Pour reserved steaming liquid through mesh strainer into second bowl;
-   discard solids in strainer. Rinse and dry Dutch oven.
-3. In blender, puree squash and reserved liquid in batches, pulsing on
-   low until smooth. Transfer puree to Dutch oven; stir in cream and
-   brown sugar and heat over medium-low heat until hot. Add salt to
-   taste; serve immediately.
+1. Heat the butter in a large Dutch oven over medium-low heat until
+   foaming. Add the shallots and cook, stirring frequently, until
+   softened and translucent, about 3 minutes. Add the squash scrapings
+   and seeds and cook, stirring occasionally, until fragrant and the
+   butter turns saffron colour, about 4 minutes. Add 6 cups water and
+   1 1/2 teaspoons salt and bring to a boil over high heat. Reduce the
+   heat to medium-low, place the squash cut-side down in a steamer
+   basket, and lower the basket into the pot. Cover and steam until the
+   squash is completely tender, about 30 minutes. Off heat, use tongs to
+   transfer the squash to a rimmed baking sheet; reserve the steaming
+   liquid. When cool enough to handle, use a large spoon to scrape the
+   flesh from the skin into a medium bowl; discard the skin.
+2. Pour the reserved steaming liquid through a mesh strainer into a
+   second bowl; discard the solids in the strainer. Rinse and dry the
+   Dutch oven.
+3. Puree the squash and reserved liquid in the blender in batches,
+   pulsing on low until smooth. Transfer the puree to the Dutch oven,
+   stir in the cream and brown sugar, and heat over medium-low heat
+   until hot. Add salt to taste and serve immediately.
 
 Cinnamon-Sugar Croutons
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-1. Adjust oven rack to the middle position and heat the oven to 350F.
-   Toss the bread cubes with melted butter in a medium bowl. In a small
-   bowl, combine cinnamon and sugar; sprinkle over the bread cubes and
-   toss to combine.
+1. Adjust the oven rack to the middle position and heat the oven to
+   350F. Toss the bread cubes with the melted butter in a medium bowl.
+   In a small bowl, combine the cinnamon and sugar; sprinkle over the
+   bread cubes and toss to combine.
 2. Spread the bread cubes in a single layer on a parchment-lined baking
-   sheet and bake until crisp, 8 to 10 minutes (The croutons can be
-   stored in an airtight container for several days.) Sprinkle over soup
-   just before serving.
-
+   sheet and bake until crisp, 8 to 10 minutes. (The croutons can be
+   stored in an airtight container for several days.) Sprinkle over the
+   soup just before serving.

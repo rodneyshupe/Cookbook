@@ -5,8 +5,6 @@ Red Wine-Mushroom Pan Sauce
 | Prep Time: 10 minutes | Cook Time: 15 minutes | Yield: about 1 cup |
 +-----------------------+-----------------------+--------------------+
 
-Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/3565-red-wine-mushroom-pan-sauce>`__
-
 Ingredients
 -----------
 
@@ -24,15 +22,16 @@ Ingredients
 Directions
 ----------
 
-Pour off any fat from skillet in which steaks were cooked. Heat oil over
-medium-high heat until just smoking. Add mushrooms and cook, stirring
-occasionally, until beginning to brown and liquid has evaporated, about
-5 minutes. Add shallot and cook, stirring frequently, until beginning to
-soften, about 1 minute. Increase heat to high; add red wine and broth,
-scraping bottom of skillet with wooden spoon to loosen any browned bits.
-Simmer rapidly until liquid and mushrooms are reduced to 1 cup, about 6
-minutes. Add vinegar, mustard, and any juices from resting steaks; cook
-until thickened, about 1 minute. Off heat, whisk in butter and thyme;
-season with salt and pepper to taste. Spoon sauce over steaks and serve
-immediately.
-
+1. Pour off any fat from the skillet in which the steaks were cooked. Heat the
+   oil over medium-high heat until just smoking, then add the mushrooms and
+   cook, stirring occasionally, until beginning to brown and the liquid has
+   evaporated, about 5 minutes. Add the shallot and cook, stirring frequently,
+   until beginning to soften, about 1 minute.
+2. Increase the heat to high, add the red wine and broth, and scrape the
+   bottom of the skillet with a wooden spoon to loosen any browned bits.
+   Simmer rapidly until the liquid and mushrooms are reduced to 1 cup, about 6
+   minutes.
+3. Add the vinegar, mustard, and any juices from the resting steaks and cook
+   until thickened, about 1 minute. Off heat, whisk in the butter and thyme,
+   then season with salt and pepper to taste.
+4. Spoon the sauce over the steaks and serve immediately.

@@ -5,8 +5,6 @@ Bringin' the Funk
 | Prep Time: 15 minutes | Yield: about 1 cup marinade |
 +-----------------------+-----------------------------+
 
-Source: Bon Appetit
-
 Ingredients
 -----------
 

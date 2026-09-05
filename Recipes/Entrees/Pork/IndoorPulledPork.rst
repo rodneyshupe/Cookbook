@@ -41,23 +41,21 @@ Pork
    in brine, cover with plastic wrap, and refrigerate for 2 hours.
 2. While pork brines, combine mustard and remaining 2 teaspoons liquid
    smoke in small bowl; set aside. Combine black pepper, paprika,
-   remaining 2 tablespoons sugar, remaining 2 teaspoons salt, and
-   cayenne in second small bowl; set aside. Adjust oven rack to
-   lower-middle position and heat oven to 325F.
+   remaining 2 tablespoons sugar, remaining 2 teaspoons salt, and cayenne
+   in second small bowl; set aside. Adjust oven rack to lower-middle
+   position and heat oven to 325F.
 3. Remove pork from brine and dry thoroughly with paper towels. Rub
    mustard mixture over entire surface of each piece of pork. Sprinkle
    entire surface of each piece with spice mixture. Place pork on wire
-   rack set inside foil-lined rimmed baking sheet. Place piece of
-   parchment paper over pork, then cover with sheet of aluminum foil,
-   sealing edges to prevent moisture from escaping. Roast pork for 3
-   hours.
-4. Remove pork from oven; remove and discard foil and parchment.
-   Carefully pour off liquid in bottom of baking sheet into fat
-   separator and reserve for sauce. Return pork to oven and cook,
-   uncovered, until well browned, tender, and internal temperature
-   registers 200F on instant-read thermometer, about 1 1/2 hours.
-   Transfer pork to serving dish, tent loosely with foil, and let rest
-   for 20 minutes.
+   rack set inside foil-lined rimmed baking sheet. Lay piece of parchment
+   paper over pork, then cover with sheet of aluminum foil, sealing edges
+   to prevent moisture from escaping. Roast pork for 3 hours.
+4. Remove pork from oven; discard foil and parchment. Carefully pour off
+   liquid in bottom of baking sheet into fat separator and reserve for
+   sauce. Return pork to oven and cook, uncovered, until well browned,
+   tender, and internal temperature registers 200F on instant-read
+   thermometer, about 1 1/2 hours. Transfer pork to serving dish, tent
+   loosely with foil, and let rest for 20 minutes.
 5. To serve: Using 2 forks, shred pork into bite-sized pieces. Toss with
    1 cup sauce and season with salt and pepper. Serve, passing remaining
    sauce separately.

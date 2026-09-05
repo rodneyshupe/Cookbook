@@ -10,6 +10,7 @@ Ingredients
 
 - 3 Snickers Bars
 - 50 grams quality Dark Chocolate (70% cocoa solids)
+- 4 eggs, separated
 - 1/4 cup caster sugar
 - 1 vanilla pod (may substitute a few drops of extract)
 - 2 cups of double cream
@@ -18,22 +19,15 @@ Ingredients
 Directions
 ----------
 
-1. Roughly chop up three Snickers bars. Place them (saving a few pieces) and
-   Dark Chocolate into a mixing bowl over hot water, and slowly melt, moving
-   it around with a whisk occasionally.
-2. Separate four eggs, placing the yolks in one bowl and the whites in
-   another. To the bowl with the yolks, add the caster sugar and all the
-   seeds from one vanilla pod. Beat the yolks, sugar, and vanilla together
-   until creamy and smooth. In another bowl, whip up the double cream until
-   stiff. Turning to the bowl with the whites, add a pinch of salt and whisk
-   the whites until they form firm peaks. Once the whites have been whisked
-   to peaks, fold them into the yolks and sugar, and then fold in the double
-   cream. Whisk the mixture gently, ensuring everything is thoroughly mixed
-   together.
-3. To mix the chocolate with the semifreddo, pour half of the liquid into the
-   chocolate bowl and fold together until mixed. Once the first half has been
-   folded in, pour in the rest and fold together once more. When all of the
-   chocolate has been mixed in, sprinkle the remaining chocolate bar over the
-   top, and place the semifreddo into the freezer for around two hours to
-   set.
-
+1. Roughly chop three Snickers bars; place them (saving a few pieces) and the
+   Dark Chocolate into a mixing bowl over hot water and slowly melt, moving it
+   around with a whisk occasionally.
+2. Separate four eggs, yolks in one bowl and whites in another; to the yolks
+   add the caster sugar and all the seeds from one vanilla pod, then beat
+   until creamy and smooth. In another bowl whip the double cream until stiff.
+   Add a pinch of salt to the whites and whisk until firm peaks form, then
+   fold the whites into the yolks and sugar and fold in the double cream;
+   whisk gently until everything is thoroughly mixed.
+3. Pour half the liquid into the chocolate bowl and fold together until mixed,
+   then pour in the rest and fold once more; sprinkle the remaining chocolate
+   bar over the top and freeze until set, about two hours.

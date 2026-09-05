@@ -25,14 +25,13 @@ Ingredients
 Directions
 ----------
 
-1. Toss shredded cabbage and 1 teaspoon salt in colander or large mesh
-   strainer set over medium bowl. Let stand until cabbage wilts, at
-   least 1 hour or up to 4 hours. Rinse cabbage under cold running
-   water. Press, but do not squeeze, to drain; pat dry with paper
-   towels. Place wilted cabbage and carrot in large bowl.
-2. Stir buttermilk, mayonnaise, sour cream, shallot, parsley, vinegar,
-   sugar, mustard, 1/4 teaspoon salt, and pepper together in small bowl.
-   Pour dressing over cabbage and toss to combine; refrigerate until
-   chilled, about 30 minutes. (Coleslaw can be refrigerated for up to 3
+1. Toss the shredded cabbage and 1 teaspoon salt in a colander or large mesh
+   strainer set over a medium bowl. Let stand until the cabbage wilts, at
+   least 1 hour or up to 4 hours. Rinse under cold running water, then press,
+   but do not squeeze, to drain and pat dry with paper towels. Place the
+   wilted cabbage and carrot in a large bowl.
+2. Stir the buttermilk, mayonnaise, sour cream, shallot, parsley, vinegar,
+   sugar, mustard, 1/4 teaspoon salt, and pepper together in a small bowl.
+   Pour the dressing over the cabbage and toss to combine, then refrigerate
+   until chilled, about 30 minutes. (Coleslaw can be refrigerated for up to 3
    days.)
-

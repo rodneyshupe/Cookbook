@@ -14,9 +14,9 @@ Ingredients
 -----------
 
 - 1 1/2 pounds (680 g) ground beef
-- 1 onion, diced
 - 1 1/2 teaspoon salt
 - 1 teaspoon pepper
+- 1 onion, diced
 - 2 garlic cloves, minced
 - 1/2 teaspoon chile flakes
 - 1 teaspoon dried oregano
@@ -33,11 +33,11 @@ Ingredients
 Directions
 ----------
 
-1. In a large pan, season ground beef with season with salt and pepper and
-   cook until mostly browned, about 5 minutes.
-2. Add onion and cook until softened about 3 minutes longer.  Add garlic
-   chile flakes and oregano and cook until fragrant, about 30 seconds.
+1. Season ground beef with salt and pepper; cook in a large pan until mostly
+   browned, about 5 minutes.
+2. Add onion and cook until softened, about 3 minutes longer. Add garlic,
+   chile flakes, and oregano; cook until fragrant, about 30 seconds.
 3. Transfer beef mixture to slow cooker and add tomatoes, beans, cabbage,
-   stocks, and water and soy sauce.  Stir together and cook on high for
-   6 hours, stirring occasionally.
+   stocks, water, and soy sauce. Stir together and cook on high for 6 hours,
+   stirring occasionally.
 4. Season to taste and optionally serve with grated parmesan cheese.

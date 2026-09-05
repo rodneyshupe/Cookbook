@@ -10,11 +10,11 @@ Ingredients
 
 - 6 pieces bacon, diced
 - 2 tablespoons neutral oil
-- 2.5 pounds (1.15 kg) beef chuck , boneless short rib or any other slow cooking beef, cut into approx 1 inch cubes
+- 2.5 pounds (1.15 kg) beef chuck, boneless short rib or any other slow cooking beef, cut into approx 1 inch cubes
 - Kosher salt and black pepper
 - 3 carrots, cut into 1 inch pieces
 - 14 ounces pearl onions, defrosted or 1 large yellow onion diced medium
-- 6 garlic cloves , minced
+- 6 garlic cloves, minced
 - 1/4 cup tomato paste
 - 3 tablespoons flour
 - 8 ounces crimini mushrooms, stem trimmed and halved
@@ -27,23 +27,22 @@ Directions
 ----------
 
 1. Preheat oven to 325F.
-2. Heat a heavy pot (that has a tight fitting lid) over medium heat and
-   cook bacon until just getting crispy, remove bacon and set aside. Leave
-   a couple tablespoons of bacon grease in the pot, and add beef in batches
-   (so you don't overcrowd) until good colour develops on all sides, remove
-   from pot and set aside while doing remaining batches.
-3. Add carrots and cook a couple minutes, then add in the onion, stir to
-   mix then put in the garlic, and when it's really fragrant add the tomato
-   paste. Mix really well and let cook a couple minutes.
+2. Heat a heavy pot (that has a tight fitting lid) over medium heat and cook
+   the bacon until just getting crispy, then remove and set aside. Leave a
+   couple tablespoons of bacon grease in the pot, and add the beef in batches
+   (so you don't overcrowd) until good colour develops on all sides, removing
+   each batch and setting aside while you finish the rest.
+3. Add the carrots and cook a couple minutes, then add the onion and stir to
+   mix. Add the garlic, and when it's really fragrant add the tomato paste.
+   Mix really well and let cook a couple minutes.
 4. Sprinkle the flour over the top of everything and mix it in really well
-   until everything things looks gross and super dry. Gradually whisk in
-   stock scraping brown bits from bottom of the pot. Put in the beer,
-   beef, bacon bits, mushrooms and mix well to combine. Add the thyme and
-   bay leaves if using, put on the lid and put in the oven for 2 hours.
-5. When it's done, remove the lid, take out the thyme and bay leaves, and
-   serve right away or place back into the over (uncovered) and cook
-   another 30 minutes to thicken then serve over mash potatoes or use in
-   `Steak and Guinness Pie <steak-and-guinness-pie>`__.
+   until everything looks gross and super dry. Gradually whisk in the stock,
+   scraping the brown bits from the bottom of the pot. Add the beer, beef,
+   bacon bits, and mushrooms, and mix well to combine. Add the thyme and bay
+   leaves if using, put on the lid, and put in the oven for 2 hours.
+5. When it's done, remove the lid and take out the thyme and bay leaves. Serve
+   right away, or place back into the oven (uncovered) and cook another 30
+   minutes to thicken, then serve over mashed potatoes or use in `Steak and Guinness Pie <steak-and-guinness-pie>`__.
 
 Variations
 ----------

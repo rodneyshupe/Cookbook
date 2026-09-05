@@ -20,9 +20,9 @@ Directions
 ----------
 
 1. Bring wine, shallots, garlic, parsley, and bay leaf to simmer in
-   large pot; continue to simmer to blend flavours, about 3 minutes.
-   Increase heat to high. Add mussels; cover and cook, stirring twice,
-   until mussels open, 4 to 8 minutes, depending on pot and mussel size.
+   large pot and continue simmering to blend flavours, about 3 minutes.
+   Increase heat to high. Add mussels, cover, and cook, stirring twice,
+   until mussels open, 4 to 8 minutes depending on pot and mussel size.
 2. Remove mussels from liquid, twist off and discard top shells, and put
    in large serving bowl. Meanwhile, swirl butter into pan liquid to
    make emulsified sauce. Pour broth over mussels and serve immediately

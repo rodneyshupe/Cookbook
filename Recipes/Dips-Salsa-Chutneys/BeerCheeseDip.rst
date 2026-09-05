@@ -18,7 +18,6 @@ Directions
 
 1. Pour half a bottle of beer into a saucepan and simmer for 2-3
    minutes.
-2. Add cream cheese and stir until combined. Add shredded cheese and
-   stir until combined.
+2. Stir in the cream cheese until combined, then add the shredded
+   cheese and stir until smooth.
 3. Garnish with sliced green onions if desired.
-

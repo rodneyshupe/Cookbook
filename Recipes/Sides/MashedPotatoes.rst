@@ -17,19 +17,16 @@ Ingredients
 Directions
 ----------
 
-1. Place metal colander or steamer insert in large pot or Dutch oven.
-   Add enough water for it to barely reach bottom of colander. Turn heat
-   to high and bring water to boil. Add potatoes, cover, and reduce heat
-   to medium-high. Cook potatoes 10 minutes. Transfer colander to sink
-   and rinse potatoes under cold water until no longer hot, 1 to 2
-   minutes. Return colander and potatoes to pot, cover, and continue to
-   cook until potatoes are soft and tip of paring knife inserted into
-   potato meets no resistance, 10 to 15 minutes longer. Pour off water
-   from Dutch oven.
-2. Set ricer or food mill over now-empty pot. Working in batches,
-   transfer potatoes to hopper of ricer or food mill and process,
-   removing any potatoes stuck to bottom. Using rubber spatula, stir in
-   melted butter and 1/2 teaspoon salt until incorporated. Stir in warm
-   milk until incorporated. Season to taste with salt and pepper; serve
-   immediately.
-
+1. Set a metal colander or steamer insert in a large pot or Dutch oven; add
+   enough water to barely reach the bottom of the colander. Turn heat to high
+   and bring to a boil, then add potatoes, cover, and reduce heat to
+   medium-high. Cook 10 minutes. Transfer colander to sink and rinse potatoes
+   under cold water until no longer hot, 1 to 2 minutes. Return colander and
+   potatoes to pot, cover, and cook until potatoes are soft and the tip of a
+   paring knife meets no resistance, 10 to 15 minutes longer. Pour off water
+   from the Dutch oven.
+2. Set a ricer or food mill over the now-empty pot. Working in batches,
+   process potatoes through the ricer or food mill, removing any stuck to the
+   bottom. With a rubber spatula, stir in melted butter and 1/2 teaspoon salt
+   until incorporated, then stir in warm milk until incorporated. Season to
+   taste with salt and pepper; serve immediately.

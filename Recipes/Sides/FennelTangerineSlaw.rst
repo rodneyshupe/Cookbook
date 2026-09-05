@@ -28,4 +28,3 @@ Directions
    dressing is smooth.
 3. Toss with fennel mixture and season to taste with salt and pepper (can be
    stored in airtight container and refrigerated up to 2 days).
-

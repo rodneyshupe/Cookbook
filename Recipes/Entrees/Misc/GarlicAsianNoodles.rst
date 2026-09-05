@@ -5,8 +5,6 @@ Garlic Asian Style Noodles
 | Prep Time: 5 minutes | Cook Time: 16 minutes | Yield: 3 servings |
 +----------------------+-----------------------+-------------------+
 
-Source: `Pressure Luck Cooking <https://pressureluckcooking.com/recipe/instant-pot-asian-garlic-noodles/>`__
-
 Certainly not authentic but has that familiar flavour.
 
 Equipment
@@ -16,8 +14,7 @@ Electric Pressure Cooker
 Ingredients
 -----------
 
-- 2 tablespoons peanut oil (or vegetable, corn, or canola oil)
-- 2 tablespoons sesame oil (any kind)
+- 2 tablespoons sesame oil (can substitute peanut, vegetable, corn, or canola oil)
 - 8 - 12 ounces shiitake or baby bella mushrooms, sliced
 - 1 large bell pepper, sliced into matchsticks
 - 5 cloves garlic, minced or pressed
@@ -37,17 +34,17 @@ Directions
 ----------
 
 1. Add the sesame oil to the Instant Pot, hit Saute and Adjust so it's on the
-   More or High setting. After 3 minutes of heating, add the mushrooms,
-   pepper and garlic and saute for 3 minutes.
-2. Pour in the broth and stir well, deglazing (scraping) the bottom of the
-   pot to remove any browned bits from the previous step.
+   More or High setting. Once heated, 3 minutes, add the mushrooms, pepper and
+   garlic and saute until softened, 3 minutes.
+2. Pour in the broth and stir well, deglazing (scraping) the bottom of the pot
+   to remove any browned bits from the previous step.
 3. Break the spaghetti in half and add it to the pot, making sure it's
-   submerged in the broth, but DO NOT STIR. Some of the spaghetti may stick
-   up above the broth and that's fine. Top with the butter and tarragon.
-4. Secure the lid and hit Manual or Pressure Cook on High Pressure for
-   8 minutes. Quick release when done.
+   submerged in the broth, but DO NOT STIR. Some of the spaghetti may stick up
+   above the broth and that's fine. Top with the butter and tarragon.
+4. Secure the lid and hit Manual or Pressure Cook on High Pressure for 8
+   minutes. Quick release when done.
 5. While the spaghetti's cooking, whisk together the oyster sauce, hoisin
    sauce, soy sauce, ginger and chili-garlic sauce (if using), and set aside.
 6. When done pressure cooking, remove the lid and stir in the sauce mixture.
-   Let sit in the pot for 5 minutes to allow the sauce to thicken. Toss
-   in the green onions and sesame seeds and serve.
+   Let sit in the pot until the sauce thickens, 5 minutes. Toss in the green
+   onions and sesame seeds and serve.

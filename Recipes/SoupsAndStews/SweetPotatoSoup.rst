@@ -12,8 +12,8 @@ Ingredients
 - 1 shallot, sliced thin
 - 4 sprigs fresh thyme
 - 4 1/4 cups water
-- 2 pounds sweet potatoes, peeled, halved lengthwise, and sliced 1/4
-  inch thick, 1/4 of peels reserved
+- 2 pounds sweet potatoes, peeled, halved lengthwise, and sliced 1/4-inch
+  thick, 1/4 of peels reserved
 - 1 tablespoon packed brown sugar
 - 1/2 teaspoon cider vinegar
 - Salt and pepper
@@ -22,20 +22,19 @@ Ingredients
 Directions
 ----------
 
-1. Melt butter in large saucepan over medium-low heat. Add shallot and
-   thyme and cook until shallot is softened but not browned, about 5
-   minutes. Add water, increase heat to high, and bring to simmer.
-   Remove pot from heat, add sweet potatoes and reserved peels, and let
-   stand uncovered for 20 minutes.
-2. Add sugar, vinegar, 1 1/2 teaspoons salt, and 1/4 teaspoon pepper.
-   Bring to simmer over high heat. Reduce heat to medium-low, cover, and
-   cook until potatoes are very soft, about 10 minutes.
-3. Discard thyme sprigs. Working in batches, process soup in blender
-   until smooth, 45 to 60 seconds. Return soup to clean pot. Bring to
-   simmer over medium heat, adjusting consistency if desired. Season
-   with salt and pepper to taste. Serve, topping each portion with
-   sprinkle of chives and optionally `Candied Bacon <#candied-bacon>`__
-   or `Maple Sour Cream <#maple-sour-cream>`__.
+1. Melt the butter in a large saucepan over medium-low heat. Add the shallot
+   and thyme and cook until the shallot is softened but not browned, about 5
+   minutes. Add the water, increase the heat to high, and bring to a simmer.
+   Remove the pot from the heat, add the sweet potatoes and reserved peels,
+   and let stand uncovered for 20 minutes.
+2. Add the sugar, vinegar, 1 1/2 teaspoons salt, and 1/4 teaspoon pepper.
+   Bring to a simmer over high heat. Reduce the heat to medium-low, cover, and
+   cook until the potatoes are very soft, about 10 minutes.
+3. Discard the thyme sprigs. Working in batches, process the soup in a blender
+   until smooth, 45 to 60 seconds. Return the soup to a clean pot. Bring to a
+   simmer over medium heat, adjusting the consistency if desired. Season with
+   salt and pepper to taste. Serve, topping each portion with a sprinkle of
+   chives and optionally `Candied Bacon <#candied-bacon>`__ or `Maple Sour Cream <#maple-sour-cream>`__.
 
 Toppings
 --------

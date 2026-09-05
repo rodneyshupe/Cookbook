@@ -5,8 +5,6 @@ Farmhouse Vegetable and Barley Soup
 | Prep Time: 30 minutes | Cook Time: 1 hours | Yield: 6-8 servings |
 +-----------------------+--------------------+---------------------+
 
-Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/6834-farmhouse-vegetable-and-barley-soup>`__
-
 Ingredients
 -----------
 
@@ -35,20 +33,19 @@ Ingredients
 Directions
 ----------
 
-1. Grind porcini with spice grinder until they resemble fine meal, 10 to
-   30 seconds. Measure out 2 teaspoons porcini powder; reserve remainder
-   for other use. Using kitchen twine, tie together parsley sprigs,
-   thyme, and bay leaf.
-2. Melt butter in large Dutch oven over medium heat. Add leeks, carrots,
-   celery, wine, soy sauce, and 2 teaspoons salt. Cook, stirring
-   occasionally, until liquid has evaporated and celery is softened,
+1. Grind the porcini in a spice grinder until they resemble fine meal, 10 to
+   30 seconds. Measure out 2 teaspoons porcini powder and reserve the
+   remainder for other use. Using kitchen twine, tie together the parsley
+   sprigs, thyme, and bay leaf.
+2. Melt the butter in a large Dutch oven over medium heat. Add the leeks,
+   carrots, celery, wine, soy sauce, and 2 teaspoons salt. Cook, stirring
+   occasionally, until the liquid has evaporated and the celery is softened,
    about 10 minutes.
-3. Add water, broth, barley, porcini powder, herb bundle, and garlic;
-   increase heat to high and bring to boil. Reduce heat to medium-low
-   and simmer, partially covered, for 25 minutes.
-4. Add potatoes, turnip, and cabbage; return to simmer and cook until
-   barley, potatoes, turnip, and cabbage are tender, 18 to 20 minutes.
-5. Remove pot from heat and remove herb bundle. Stir in peas, lemon
-   juice, and chopped parsley; season with salt and pepper to taste.
-   Serve, passing Lemon-Thyme Butter separately.
-
+3. Add the water, broth, barley, porcini powder, herb bundle, and garlic.
+   Increase the heat to high and bring to a boil. Reduce the heat to
+   medium-low and simmer, partially covered, for 25 minutes.
+4. Add the potatoes, turnip, and cabbage. Return to a simmer and cook until
+   the barley, potatoes, turnip, and cabbage are tender, 18 to 20 minutes.
+5. Remove the pot from the heat and remove the herb bundle. Stir in the peas,
+   lemon juice, and chopped parsley, then season with salt and pepper to
+   taste. Serve, passing Lemon-Thyme Butter separately.

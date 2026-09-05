@@ -25,21 +25,19 @@ Ingredients
 Directions
 ----------
 
-1. Heat oil in 12-inch skillet over medium-high heat until shimmering.
-   Add shallots and cook until softened, about 2 minutes. Stir in garlic
-   and cook until fragrant, about 30 seconds. Stir in flour and cook for
-   1 minute. Slowly whisk in broth, scraping up any browned bits. Bring
-   to simmer and cook until slightly thickened, about 1 minute. Off
-   heat, whisk in Boursin and Parmesan until smooth. Stir in peas; cover
-   to keep warm.
-2. Meanwhile, bring 4 quarts water to boil in large pot. Add asparagus
-   and 1 tablespoon salt and cook, stirring often, until asparagus is
-   crisp-tender, 2 to 4 minutes. Using slotted spoon, transfer asparagus
-   to paper towel-lined plate.
-3. Return water to boil, add pasta, and cook, stirring often, until al
-   dente. Reserve 1/2 cup cooking water, then drain pasta and return it
-   to pot.
+1. Heat oil in 12-inch skillet over medium-high heat until shimmering; add
+   shallots and cook until softened, about 2 minutes. Stir in garlic and cook
+   until fragrant, about 30 seconds. Stir in flour and cook for 1 minute, then
+   slowly whisk in broth, scraping up any browned bits. Bring to simmer and
+   cook until slightly thickened, about 1 minute. Off heat, whisk in Boursin
+   and Parmesan until smooth; stir in peas; cover to keep warm.
+2. Meanwhile, bring 4 quarts water to boil in large pot. Add asparagus and 1
+   tablespoon salt and cook, stirring often, until asparagus is crisp-tender,
+   2 to 4 minutes. Using slotted spoon, transfer asparagus to paper
+   towel-lined plate.
+3. Return water to boil, add pasta, and cook, stirring often, until al dente.
+   Reserve 1/2 cup cooking water, then drain pasta and return it to pot.
 4. Add sauce, asparagus, chives, lemon zest, 1/2 teaspoon salt, and 1/4
-   teaspoon pepper to pasta and toss to coat. Adjust consistency with
-   reserved cooking water as needed and season with salt and pepper to
-   taste. Serve with extra Parmesan.
+   teaspoon pepper to pasta and toss to coat. Adjust consistency with reserved
+   cooking water as needed and season with salt and pepper to taste. Serve
+   with extra Parmesan.

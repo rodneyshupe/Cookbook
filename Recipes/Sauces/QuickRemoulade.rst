@@ -5,8 +5,6 @@ Quick Remoulade
 | Prep Time: 10 minutes | Yield: about 1 1/2 cups |
 +-----------------------+-------------------------+
 
-Source: `Cook's Country <https://www.cookscountry.com/recipes/2288-quick-remoulade>`__
-
 Ingredients
 -----------
 
@@ -20,7 +18,6 @@ Ingredients
 Directions
 ----------
 
-1. Stir mayonnaise, mustard, pickles, scallion, lemon juice, cayenne, and
-   salt and pepper to taste together in small bowl. Refrigerate until
-   ready to use.
-
+1. Stir the mayonnaise, mustard, pickles, scallion, lemon juice, cayenne, and
+   salt and pepper to taste together in a small bowl. Refrigerate until ready
+   to use.

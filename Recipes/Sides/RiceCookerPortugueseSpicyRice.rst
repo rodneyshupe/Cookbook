@@ -13,7 +13,7 @@ Ingredients
 
 - 1 cup rice (I used long grain rice)
 - 2 1/4 cups low sodium chicken broth
-- 1/4 teaspoon chilli flakes
+- 1/4 teaspoon chili flakes
 - 1/2 teaspoon turmeric
 - 1/2 teaspoon smoked paprika
 - 1 garlic clove, minced (can substitute 1/2 teaspoon garlic powder)
@@ -24,9 +24,8 @@ Ingredients
 Directions
 ----------
 
-1. Combine all ingredients in rice cooker.
+1. Combine all ingredients in the rice cooker.
 2. Cook according to manufacturer instructions.
-3. When cooking time finished let it sit uncovered for 3 minutes or so to
+3. When cooking time is finished, let it sit uncovered for 3 minutes or so to
    thicken.
 4. Stir before serving.
-

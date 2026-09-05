@@ -22,4 +22,3 @@ Directions
 ----------
 
 1. Combine ingredients in a small bowl or jar. Rub into both sides of ribs.
-

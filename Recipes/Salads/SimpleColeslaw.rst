@@ -19,7 +19,7 @@ Ingredients
 Directions
 ----------
 
-1. Whisk mayonnaise, sugar, lemon juice, vinegar, pepper, and salt together
-   in a small bowl until smooth and creamy.
-2. Add coleslaw mix to medium bowl. Pour dressing mixture over mix and toss
+1. Whisk the mayonnaise, sugar, lemon juice, vinegar, pepper, and salt
+   together in a small bowl until smooth and creamy.
+2. Add the coleslaw mix to a medium bowl, pour the dressing over it, and toss
    to combine.

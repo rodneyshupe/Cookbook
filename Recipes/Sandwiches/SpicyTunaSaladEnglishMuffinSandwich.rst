@@ -23,9 +23,9 @@ Ingredients
 Directions
 ----------
 
-1. Whisk vinegar, soy sauce and honey together in a small bowl. Add cucumber
-   slices and toss to coat. Set aside.
-2. Combine mayonnaise, scallion, Sriracha (or other hot sauce), sesame oil
-   and crushed red pepper, if using, in another small bowl. Stir in tuna.
-3. Drain the cucumbers. Spoon the tuna mixture onto one muffin half; top with
-   the cucumbers. Cover with the other muffin half.
+1. Whisk vinegar, soy sauce and honey in a small bowl, then add cucumber
+   slices and toss to coat; set aside.
+2. Combine mayonnaise, scallion, Sriracha (or other hot sauce), sesame oil and
+   crushed red pepper, if using, in another small bowl, then stir in tuna.
+3. Drain the cucumbers, then spoon the tuna mixture onto one muffin half and
+   top with the cucumbers; cover with the other muffin half.

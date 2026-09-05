@@ -5,8 +5,6 @@ Roast Chicken with Warm Bread Salad
 | Prep Time: 15 minutes + 24 hours | Cook Time: 1 1/2 hours | Yield: 4-6 servings |
 +----------------------------------+------------------------+---------------------+
 
-Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/10920-roast-chicken-with-warm-bread-salad>`__
-
 Ingredients
 -----------
 
@@ -24,34 +22,33 @@ Ingredients
 Directions
 ----------
 
-1. Place chicken, breast side down, on cutting board. Using kitchen shears,
-   cut through bones on either side of backbone; discard backbone. Do not
-   trim off any excess fat or skin. Flip chicken over and press on breastbone
-   to flatten.
-2. Using your fingers, carefully loosen skin covering breast and legs. Rub
-   1/2 teaspoon salt under skin of each breast, 1/2 teaspoon under skin of
-   each leg, and 1 teaspoon salt onto bird's cavity. Tuck wings behind back
-   and turn legs so drumsticks face inward toward breasts. Place chicken on
-   wire rack set in rimmed baking sheet or on large plate and refrigerate,
-   uncovered, for 24 hours.
-3. Adjust oven rack to middle position and heat oven to 475F. Spray
-   12-inch skillet with vegetable oil spray. Toss bread with broth and
-   2 tablespoons oil until pieces are evenly moistened. Arrange bread in
-   skillet in single layer, with majority of crusted pieces near centre,
+1. Place the chicken breast side down on a cutting board. Using kitchen
+   shears, cut through the bones on either side of the backbone and discard
+   the backbone, leaving all excess fat and skin intact. Flip the chicken over
+   and press on the breastbone to flatten.
+2. Carefully loosen the skin covering the breast and legs with your fingers.
+   Rub 1/2 teaspoon salt under the skin of each breast, 1/2 teaspoon under the
+   skin of each leg, and 1 teaspoon salt into the cavity. Tuck the wings
+   behind the back and turn the legs so the drumsticks face inward toward the
+   breasts. Set the chicken on a wire rack in a rimmed baking sheet or on a
+   large plate and refrigerate, uncovered, for 24 hours.
+3. Adjust the oven rack to the middle position and heat the oven to 475F.
+   Spray a 12-inch skillet with vegetable oil spray. Toss the bread with the
+   broth and 2 tablespoons oil until evenly moistened, then arrange it in the
+   skillet in a single layer with most of the crusted pieces near the centre,
    crust side up.
-4. Pat chicken dry with paper towels and place, skin side up, on top of
-   bread. Brush 2 teaspoons oil over chicken skin and sprinkle with
-   1/4 teaspoon salt and 1/4 teaspoon pepper. Roast chicken until skin is
-   deep golden brown and thickest part of breast registers 160F
-   and thighs register 175F, 45 to 50 minutes, rotating skillet
-   halfway through roasting.
-5. While chicken roasts, whisk vinegar, mustard, 1/4 teaspoon salt, and
-   1/4 teaspoon pepper together in small bowl. Slowly whisk in remaining
-   1/4 cup oil. Stir in scallions and currants and set aside. Place arugula
-   in large bowl.
-6. Transfer chicken to carving board and let rest, uncovered, for 15 minutes.
-   Run thin metal spatula under bread to loosen from bottom of skillet.
-   (Bread should be mix of softened, golden-brown, and crunchy pieces.) Carve
-   chicken and whisk any accumulated juices into vinaigrette. Add bread and
-   vinaigrette to arugula and toss to evenly coat. Transfer salad to serving
-   platter and serve with chicken.
+4. Pat the chicken dry with paper towels and set it skin side up on top of the
+   bread. Brush 2 teaspoons oil over the skin and sprinkle with 1/4 teaspoon
+   salt and 1/4 teaspoon pepper. Roast until the skin is deep golden brown and
+   the thickest part of the breast registers 160F and the thighs register
+   175F, 45 to 50 minutes, rotating the skillet halfway through.
+5. While the chicken roasts, whisk the vinegar, mustard, 1/4 teaspoon salt,
+   and 1/4 teaspoon pepper together in a small bowl. Slowly whisk in the
+   remaining 1/4 cup oil, then stir in the scallions and currants and set
+   aside. Place the arugula in a large bowl.
+6. Transfer the chicken to a carving board and let rest, uncovered, for 15
+   minutes. Run a thin metal spatula under the bread to loosen it from the
+   skillet; it should be a mix of softened, golden-brown, and crunchy pieces.
+   Carve the chicken and whisk any accumulated juices into the vinaigrette.
+   Add the bread and vinaigrette to the arugula and toss to coat evenly, then
+   transfer the salad to a serving platter and serve with the chicken.

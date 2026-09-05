@@ -18,20 +18,20 @@ Ingredients
 - 2 tablespoons cooking oil
 - 2 large onions (peeled, thick sliced)
 - 3 cloves garlic (smashed)
-- thumb-sized nub of ginger
+- 1 inch piece ginger
 - soy sauce or salt (to taste)
 
 Directions
 ----------
 
-1. Bring a big stockpot filled with water to a boil. Add in the ribs and the
-   wings. Return to boil, let cook for 5-8 minutes at a hard boil on high
-   heat. Turn off heat and remove scum from top of water.
-2. Set Instant Port to saute, and add oil, then onions. Brown the onions,
-   about 8 minutes. Add in the garlic and the ginger into the pot, then add
-   ribs and wings. Fill pot with water from the "boil" pot up to the "MAX"
-   line. Close lid of pressure cooker, set to cook on high pressure for 90
-   minutes.
-3. After cooking, let pressure release naturally. Strain broth with fine
-   mesh strainer, discarding the solids. Skim any surface oils on the broth.
-   Season broth with soy sauce or salt, to taste.
+1. Bring a large stockpot of water to a boil. Add the ribs and the wings.
+   Return to a boil and cook for 5-8 minutes at a hard boil over high heat.
+   Turn off the heat and remove the scum from the surface.
+2. Set the Instant Pot to saute and add the oil, then the onions. Brown the
+   onions, about 8 minutes. Add the garlic and the ginger, then add the ribs
+   and wings. Fill the pot with water from the "boil" pot up to the "MAX"
+   line. Close the pressure cooker lid and set it to cook on high pressure for
+   90 minutes.
+3. After cooking, let the pressure release naturally. Strain the broth through
+   a fine mesh strainer, discarding the solids. Skim any surface oils from the
+   broth. Season the broth with soy sauce or salt, to taste.

@@ -5,8 +5,6 @@ Kalbi Korean-style short ribs (CI version)
 | Prep Time: 20 minutes | Cook Time: 30 minutes | Marinate Time: 4-12 hours | Yield: 4-6 servings |
 +-----------------------+-----------------------+---------------------------+---------------------+
 
-Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/3570-korean-grilled-short-ribs-for-gas-grill-kalbi>`__
-
 Ingredients
 -----------
 
@@ -24,22 +22,21 @@ Ingredients
 Directions
 ----------
 
-1. Process pear, garlic, ginger, soy sauce, oil, sugar, and vinegar in
-   food processor until smooth, 20 to 30 seconds, scraping down sides of
-   bowl as needed. Transfer to medium bowl and stir in scallions.
-2. Spread one-third of marinade in 13 by 9-inch pan or other suitable
-   container that will hold ribs in 2 layers. Place half of meat in
-   single layer over marinade. Pour half of remaining marinade over
-   meat, followed by remaining meat and marinade. Cover tightly with
-   plastic wrap and place in refrigerator. Marinate ribs for at least 4
-   hours and up to 12 hours, turning meat once or twice to ensure that
-   it marinates evenly.
-3. Turn all burners to high, close lid, and heat grill until very hot,
-   about 15 minutes. Scrape cooking grate clean with grill brush and
-   wipe with wad of oil-soaked paper towels, holding towels with tongs.
-4. Grill half of meat directly over burners, with lid down, turning 3 or
-   4 times, until well browned on both sides, 10 to 14 minutes. Move
-   first batch of meat off heat onto platter and keep warm while
-   repeating browning with second batch. Transfer second batch of meat
-   to platter. Return first batch of meat to grill and warm for 30
-   seconds; transfer to platter and serve immediately.
+1. Process pear, garlic, ginger, soy sauce, sesame oil, sugar, and vinegar in a
+   food processor until smooth, 20 to 30 seconds, scraping down the sides of the
+   bowl as needed. Transfer to a medium bowl and stir in scallions.
+2. Spread one-third of the marinade in a 13 by 9-inch pan or other container
+   that holds the ribs in 2 layers. Lay half of the meat in a single layer over
+   the marinade, pour half of the remaining marinade over it, then add the
+   remaining meat and marinade. Cover tightly with plastic wrap and refrigerate,
+   turning once or twice so the ribs marinate evenly, at least 4 hours and up to
+   12 hours.
+3. Turn all burners to high, close the lid, and heat until very hot, about 15
+   minutes. Scrape the cooking grate clean with a grill brush, then wipe with a
+   wad of oil-soaked paper towels held with tongs.
+4. Grill half of the meat directly over the burners, lid down, turning 3 or 4
+   times, until well browned on both sides, 10 to 14 minutes. Move the first
+   batch off heat onto a platter and keep warm while browning the second batch,
+   then transfer the second batch to the platter. Return the first batch to the
+   grill and warm for 30 seconds, then transfer to the platter and serve
+   immediately.

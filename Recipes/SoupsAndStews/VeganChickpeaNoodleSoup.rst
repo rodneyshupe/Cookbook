@@ -24,12 +24,13 @@ Ingredients
 Directions
 ----------
 
-1. Heat oil in Dutch oven over medium heat until shimmering. Add onion,
-   carrots, celery, and 1/4 teaspoon pepper and cook, stirring occasionally,
-   until softened, 5 to 7 minutes. Stir in nutritional yeast, thyme, and
-   bay leaves and cook until fragrant, about 30 seconds.
-2. Stir in broth and chickpeas and bring to boil. Reduce heat to medium-low
-   and simmer, partially covered, until flavours meld, about 10 minutes.
-3. Stir in pasta, increase heat to medium-high, and boil until just tender,
-   about 10 minutes. Off heat, discard bay leaves and stir in parsley.
-   Season with salt and pepper to taste, and serve.
+1. Heat the oil in a Dutch oven over medium heat until shimmering. Add the
+   onion, carrots, celery, and 1/4 teaspoon pepper and cook, stirring
+   occasionally, until softened, 5 to 7 minutes. Stir in the nutritional
+   yeast, thyme, and bay leaves and cook until fragrant, about 30 seconds.
+2. Stir in the broth and chickpeas and bring to a boil. Reduce the heat to
+   medium-low and simmer, partially covered, until the flavours meld, about 10
+   minutes.
+3. Stir in the pasta, increase the heat to medium-high, and boil until just
+   tender, about 10 minutes. Off heat, discard the bay leaves and stir in the
+   parsley. Season with salt and pepper to taste, and serve.

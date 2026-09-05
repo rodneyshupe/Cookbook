@@ -20,7 +20,7 @@ Ingredients
 Directions
 ----------
 
-1. Whisk together soy sauce, honey, and spices.
-2. Place steak in a nonreactive dish, and pour marinade over top. Cover, and
-   refrigerate for at least 4 hours (or overnight). Before grilling, remove
-   from marinade, and pat off excess with a paper towel.
+1. Whisk together the soy sauce, honey, and spices.
+2. Place the steak in a nonreactive dish and pour the marinade over top. Cover
+   and refrigerate at least 4 hours, or overnight. Before grilling, lift from
+   the marinade and pat off the excess with a paper towel.

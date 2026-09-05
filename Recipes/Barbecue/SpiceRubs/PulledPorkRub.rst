@@ -18,4 +18,3 @@ Ingredients
 - 4 teaspoons paprika
 - 1/2 teaspoon ground cumin
 - 1/2 teaspoon cayenne
-

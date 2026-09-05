@@ -24,21 +24,18 @@ Ingredients
 Directions
 ----------
 
-1. Bring a pot of water to a boil and add pasta, cook as per
-   instructions on package.  Strain and sprinkle with a bit of oil and
-   set aside.
-2. Heat oil in 12-inch saute pan over medium-high heat until shimmering.
-   Add bacon to pan and cook until crisp.  Remove bacon from pan using a
-   slotted spoon and reserve.
-3. Heat remaining bacon fat over high heat until smoking, and add
-   mushrooms. Cook, stirring frequently until mushrooms have given all
-   their liquid.  Remove from heat and add garlic and shallots. These
-   will cook in the residual heat.
-4. Return to medium high heat, add wine and reduce till wine is almost
-   gone.
-5. Add pasta and cream.  Continue to heat until cream has reduce until
-   sauce has thickened. Stir in lemon and herbs.  Top with arugula and
-   serve.
+1. Bring a pot of water to a boil and add pasta, cook as per instructions on
+   package. Strain, sprinkle with a bit of oil, and set aside.
+2. Heat oil in 12-inch saute pan over medium-high heat until shimmering. Add
+   bacon and cook until crisp. Remove with a slotted spoon and reserve.
+3. Heat remaining bacon fat over high heat until smoking, then add mushrooms.
+   Cook, stirring frequently, until mushrooms have given all their liquid.
+   Remove from heat and add garlic and shallots; they will cook in the
+   residual heat.
+4. Return to medium-high heat, add wine, and reduce until wine is almost gone.
+5. Add pasta and cream, along with the porcini powder if using. Continue to
+   heat until sauce has thickened. Stir in lemon and herbs. Top with arugula,
+   sprinkle with parmesan, and serve.
 
 Notes
 -----

@@ -23,20 +23,21 @@ Ingredients
 Directions
 ----------
 
-1. Combine bread and buttermilk in small bowl, mashing occasionally with fork,
-   until smooth paste forms, about 10 minutes.
-2. Mix all meatball ingredients, including bread mixture and pepper to taste
-   in medium bowl. Lightly form 3 tablespoons of mixture into 1 1/2-inch
-   round meatballs; repeat with remaining mixture to form approximately
-   14 meatballs. (Compacting them can make the meatballs dense and hard. Can
-   be placed on large plate, covered loosely with plastic wrap, and
-   refrigerated for several hours.)
-3. Meanwhile, heat 1/4 -inch vegetable oil over medium-high heat in
-   10- or 11-inch saute pan. When edge of meatball dipped in oil sizzles, add
-   meatballs in single layer. Fry, turning several times, until nicely
-   browned on all sides, about 10 minutes, regulating heat as needed to keep
-   oil sizzling but not smoking. Transfer browned meatballs to paper towel
-   lined plate; set aside. Repeat, if necessary, with remaining meatballs.
+1. Combine the bread and buttermilk in a small bowl, mashing occasionally
+   with a fork until it forms a smooth paste, about 10 minutes.
+2. Mix all the meatball ingredients, including the bread mixture and pepper
+   to taste, in a medium bowl. Lightly form 3 tablespoons of the mixture into
+   1 1/2-inch round meatballs; repeat with the remaining mixture to form
+   approximately 14 meatballs. (Compacting them can make the meatballs dense
+   and hard. They can be placed on a large plate, covered loosely with plastic
+   wrap, and refrigerated for several hours.)
+3. Meanwhile, heat 1/4-inch vegetable oil over medium-high heat in a 10- or
+   11-inch saute pan. When the edge of a meatball dipped in the oil sizzles,
+   add the meatballs in a single layer. Fry, turning several times, until
+   nicely browned on all sides, about 10 minutes, regulating the heat as
+   needed to keep the oil sizzling but not smoking. Transfer the browned
+   meatballs to a paper-towel-lined plate and set aside. Repeat, if necessary,
+   with the remaining meatballs.
 
 Notes
 -----

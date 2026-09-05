@@ -15,36 +15,35 @@ Ingredients
 Directions
 ----------
 
-1. Remove and discard the fat just inside the body cavities of the
-   chicken. Remove the package of giblets, and set aside for another
-   use. Rinse the chicken, inside and out, under cold running water,
-   then drain and blot dry, inside and out, with paper towels. Sprinkle
-   1 tablespoon of the rub inside the body and neck cavities, the rub
-   another 1 tablespoon all over the skin of the bird. If you wish, rub
-   another 1/2 tablespoon of the mixture between the flesh and the skin.
-   Cover and refrigerate the chicken while you preheat the grill.
-2. Set up the grill for indirect grilling placing a drip pan in the
-   centre. If using a charcoal grill, preheat it to medium. If using a
-   gas grill, place all the wood chips in the smoker box and preheat the
-   grill to high; then, when smoke appears, lower the heat to medium.
-3. Pop the tab on the beer can. Using a "church key" style can opener,
-   make 6 or 7 holes in the top of the can. Pour out the top inch of
-   beer, then spoon the remaining dry rub through the holes into the
-   beer. Holding the chicken upright, with the opening of the body
-   cavity down, insert the beer can into the cavity.
-4. When ready to cook, if using charcoal, toss half the wood chips on
-   the coals. Oil the grill grate. Stand the chicken up in the centre of
-   the hot grate, over the drip pan. Spread out the legs to form a sort
-   of tripod, to support the bird.
-5. Cover the grill and cook the chicken until fall-off-the-bone tender,
-   2 hours. If using charcoal, add 10 to 12Fresh coals per side and the
+1. Remove and discard the fat just inside the body cavities of the chicken.
+   Remove the package of giblets, and set aside for another use. Rinse the
+   chicken, inside and out, under cold running water, then drain and blot dry,
+   inside and out, with paper towels. Sprinkle 1 tablespoon of the rub inside
+   the body and neck cavities, then rub another 1 tablespoon all over the skin
+   of the bird. If you wish, rub another 1/2 tablespoon of the mixture between
+   the flesh and the skin. Cover and refrigerate the chicken while you preheat
+   the grill.
+2. Set up the grill for indirect grilling, placing a drip pan in the centre.
+   If using a charcoal grill, preheat it to medium. If using a gas grill,
+   place all the wood chips in the smoker box and preheat the grill to high,
+   then, when smoke appears, lower the heat to medium.
+3. Pop the tab on the beer can. Using a "church key" style can opener, make 6
+   or 7 holes in the top of the can. Pour out the top inch of beer, then spoon
+   the remaining dry rub through the holes into the beer. Holding the chicken
+   upright, with the opening of the body cavity down, insert the beer can into
+   the cavity.
+4. When ready to cook, if using charcoal, toss half the wood chips on the
+   coals. Oil the grill grate. Stand the chicken up in the centre of the hot
+   grate, over the drip pan. Spread out the legs to form a sort of tripod, to
+   support the bird.
+5. Cover the grill and cook the chicken until fall-off-the-bone tender, 2
+   hours. If using charcoal, add 10 to 12 fresh coals per side and the
    remaining wood chips after 1 hour.
-6. Using tongs, lift the bird to a cutting board or platter, holding the
-   metal spatula underneath the beer can for support. (Have the board or
-   platter right next to the bird to make the move shorter. Be careful
-   not to spill hot beer on yourself.) Let stand for 5 minutes before
-   carving the meat off the upright carcass. (Toss the beer can out
-   along with the carcass.)
+6. Using tongs, lift the bird to a cutting board or platter, holding the metal
+   spatula underneath the beer can for support. Have the board or platter
+   right next to the bird to make the move shorter, and be careful not to
+   spill hot beer on yourself. Let stand for 5 minutes before carving the meat
+   off the upright carcass, then toss the beer can out along with the carcass.
 
 Wet Rub Variation
 -----------------

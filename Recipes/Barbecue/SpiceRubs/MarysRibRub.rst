@@ -15,4 +15,3 @@ Ingredients
 - 2 teaspoon kosher salt
 - 2 teaspoon freshly ground black pepper
 - 1 teaspoon garlic powder
-

@@ -21,18 +21,19 @@ Ingredients
 Directions
 ----------
 
-1. Remove bone from pork chop and dice meat into bite size pieces, about
-   1/2 inch.  Heat oil in a medium size pot over medium-high heat. Season
-   meat with salt and pepper, then add meat and bone to the pot and spread
-   the meat out so all is in contact with the pots surface.  Cook,
-   undisturbed, until meat starts to brown, about 3-4 minutes.
-2. Turn meat over to brown other sides. At this point, add white part of
-   green onion and cook for until most of the pink has left the meat.
-3. Add Kimchi along with liquid and the gochujang.  Deglaze bottom of the
-   pan with a few tablespoons of water before adding the rest of the water.
-   Bring to a boil and then simmer for 15-20 minutes.
-4. Add green parts of the green onion to the top of the soup and serve with
-   rice.
+1. Remove the bone from the pork chop and dice the meat into bite-size pieces,
+   about 1/2 inch. Heat the vegetable and sesame oil in a medium size pot over
+   medium-high heat.
+   Season the meat with salt and pepper, then add the meat and bone to the pot
+   and spread the meat out so all of it is in contact with the pot's surface.
+   Cook, undisturbed, until the meat starts to brown, about 3-4 minutes.
+2. Turn the meat over to brown the other sides. Add the white part of the
+   green onion and cook until most of the pink has left the meat.
+3. Add the kimchi along with its liquid and the gochujang. Deglaze the bottom
+   of the pan with a few tablespoons of water before adding the rest of the
+   water. Bring to a boil, then simmer for 15-20 minutes.
+4. Add the green parts of the green onion to the top of the soup and serve
+   with rice.
 
 Notes
 -----

@@ -5,8 +5,6 @@ Best Lemon Bars
 | Prep Time: 25 minutes | Cook Time: 30 minutes | Total Time: 2 1/2 hours | Yield: 16 bars |
 +-----------------------+-----------------------+-------------------------+----------------+
 
-Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/10616-best-lemon-bars>`__
-
 Ingredients
 -----------
 
@@ -33,27 +31,26 @@ Filling
 Directions
 ----------
 
-1. FOR THE CRUST: Adjust oven rack to middle position and heat oven to
-   350F. Make foil sling for 8-inch square baking pan by folding
-   2 long sheets of aluminum foil so each is 8 inches wide. Lay sheets of
-   foil in pan perpendicular to each other, with extra foil hanging over
-   edges of pan. Push foil into corners and up sides of pan, smoothing
-   foil flush to pan.
-2. Whisk flour, sugar, and salt together in bowl. Add melted butter and
-   stir until combined. Transfer mixture to prepared pan and press into
-   even layer over entire bottom of pan (do not wash bowl). Bake crust
-   until dark golden brown, 19 to 24 minutes, rotating pan halfway
-   through baking.
-3. FOR THE FILLING: While crust bakes, whisk sugar, flour, cream of tartar,
-   and salt together in now-empty bowl. Whisk in eggs and yolks until no
-   streaks of egg remain. Whisk in lemon zest and juice. Transfer mixture
-   to saucepan and cook over medium-low heat, stirring constantly, until
-   mixture thickens and registers 160F, 5 to 8 minutes. Off heat,
-   stir in butter. Strain filling through fine-mesh strainer set over bowl.
-4. Pour filling over hot crust and tilt pan to spread evenly. Bake until
-   filling is set and barely jiggles when pan is shaken, 8 to 12 minutes.
-   (Filling around perimeter of pan may be slightly raised.) Let bars cool
-   completely, at least 1 1/2 hours. Using foil overhang, lift bars out of pan
-   and transfer to cutting board. Cut into bars, wiping knife clean between
-   cuts as necessary. Before serving, dust bars with confectioners' sugar,
-   if using.
+1. FOR THE CRUST: Adjust oven rack to middle position and heat oven to 350F.
+   Make a foil sling for an 8-inch square baking pan by folding 2 long sheets
+   of aluminum foil so each is 8 inches wide; lay them in the pan
+   perpendicular to each other, with extra foil hanging over the edges. Push
+   the foil into the corners and up the sides, smoothing it flush to the pan.
+2. Whisk flour, sugar, and salt together in a bowl, then add the melted butter
+   and stir until combined. Transfer to the prepared pan and press into an
+   even layer over the entire bottom (do not wash the bowl). Bake until dark
+   golden brown, 19 to 24 minutes, rotating the pan halfway through.
+3. FOR THE FILLING: While the crust bakes, whisk sugar, flour, cream of
+   tartar, and salt together in the now-empty bowl. Whisk in the eggs and
+   yolks until no streaks of egg remain, then whisk in the lemon zest and
+   juice. Transfer to a saucepan and cook over medium-low heat, stirring
+   constantly, until thickened and registering 160F, 5 to 8 minutes. Off heat,
+   stir in the butter, then strain through a fine-mesh strainer set over a
+   bowl.
+4. Pour the filling over the hot crust and tilt the pan to spread evenly. Bake
+   until set and barely jiggling when the pan is shaken, 8 to 12 minutes (the
+   filling around the perimeter may be slightly raised). Let cool completely,
+   at least 1 1/2 hours. Using the foil overhang, lift the bars out and
+   transfer to a cutting board; cut into bars, wiping the knife clean between
+   cuts as necessary. Before serving, dust with confectioners' sugar, if
+   using.

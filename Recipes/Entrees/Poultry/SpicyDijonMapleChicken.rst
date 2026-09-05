@@ -20,12 +20,11 @@ Ingredients
 Directions
 ----------
 
-1. Put syrup, Dijon, garlic chili sauce and soy in a bowl and mix well to
-   combine - set aside
-2. Heat grill to high, and set up for 2 zone cooking.  Rub chicken lightly
-   with oil, and season with the salt & pepper
-3. Grill chicken on indirect heat.  You're cooking the chicken to
-   approximately 180F, and will take approximately 30ish minutes.
-   Brush the chicken with the sauce often, starting in about the last
-   10 minutes of cooking
-4. Remove from grill, and give one final  brushing before serving
+1. Mix syrup, Dijon, garlic chili sauce and soy in a bowl until well combined,
+   then set aside.
+2. Heat grill to high and set up for 2 zone cooking. Rub chicken lightly with
+   oil and season with the salt and pepper.
+3. Grill chicken on indirect heat to approximately 180F, approximately 30ish
+   minutes, brushing often with the sauce starting in about the last 10
+   minutes of cooking.
+4. Remove from grill and give one final brushing before serving.

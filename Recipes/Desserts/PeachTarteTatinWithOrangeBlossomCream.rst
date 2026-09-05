@@ -5,12 +5,6 @@ Peach Tarte Tatin with Orange Blossom Cream
 | Yield: 6 servings |
 +-------------------+
 
-Source: `Clodagh McKenna <https://www.clodaghmckenna.com/blog/peach-tart-tatin-with-orange-blossom-cream>`__
-
-This dessert is the definition of low effort and high payoff. With
-caramelised peaches, a crisp pastry base and orange blossom cream, you only
-need a few simple ingredients to create this decadent and delicious dish!
-
 Ingredients
 -----------
 
@@ -27,25 +21,23 @@ Directions
 ----------
 
 1. Preheat the oven to 350F (180C).
-2. Place a cast-iron pan or an ovenproof frying pan over low heat and add
-   the caster sugar and 100 millilitres (3.5 ounces) of water. Stir until the
+2. Set a cast-iron pan or ovenproof frying pan over low heat, then add the
+   caster sugar and 100 millilitres (3.5 ounces) of water; stir until the
    sugar has dissolved.
-3. Once the sugar has dissolved, increase the heat to high and simmer for
-   12 to 14 minutes or until the syrup is a light golden-brown colour. Stir
-   in the butter and scrape in the seeds from the vanilla pod, then cook
-   for another two to three minutes or until you reach a caramel
-   consistency.
+3. Once dissolved, increase the heat to high and simmer until the syrup is a
+   light golden-brown colour, 12 to 14 minutes; stir in the butter and scrape
+   in the seeds from the vanilla pod, then cook until you reach a caramel
+   consistency, another two to three minutes.
 4. Arrange the halved peaches, cut-side up, over the caramel.
-5. Roll out the puff pastry so that it covers the peaches in the pan. Place
-   the pastry on top of the peaches and fold the edges down the sides so
-   that you're tucking in the peaches.
-6. Make three small slits in the centre of the pastry with a sharp knife
-   and bake for 45 minutes until the peaches are caramelised and the pastry
-   is golden.
-7. Meanwhile, to make the orange blossom cream, whisk the creme fraiche
-   with the orange blossom water and orange zest, and set aside.
-8. When the tarte tatin is cooked, carefully invert the tarte out onto a
-   serving dish. Slice and serve with a dollop of the orange blossom cream.
+5. Roll out the puff pastry to cover the peaches in the pan, lay it on top,
+   and fold the edges down the sides to tuck in the peaches.
+6. Make three small slits in the centre of the pastry with a sharp knife, then
+   bake until the peaches are caramelised and the pastry is golden, 45
+   minutes.
+7. Meanwhile, make the orange blossom cream: whisk the creme fraiche with the
+   orange blossom water and orange zest, then set aside.
+8. When the tarte tatin is cooked, carefully invert it onto a serving dish.
+   Slice and serve with a dollop of the orange blossom cream.
 
 Notes
 -----
@@ -54,4 +46,3 @@ Notes
 * You can make this a couple of hours before serving, and leave it to rest
   at room temperature (not in the fridge).
 * It's also delicious made with apples, pineapple or pears.
-

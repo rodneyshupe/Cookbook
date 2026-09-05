@@ -5,8 +5,6 @@ Sweet and Sour Chicken
 | Yield: Serves 4 |
 +-----------------+
 
-Source: `Sam the Cooking Guy (Sam Zien) <https://www.thecookingguy.com/cookbook/2021/4/21/old-school-sweet-amp-sour-chicken>`__
-
 Ingredients
 -----------
 
@@ -38,23 +36,21 @@ Chicken
 Directions
 ----------
 
-1. SAUCE: Heat a tablespoon of oil in a large skillet over medium high
-   heat, add the peppers & onions and cook over until softened, about
-   5 minutes - remove to a bowl
-2. Turn skillet down to medium and add the vinegar, ketchup, soy, sesame
-   oil, white & brown sugar and garlic - stir well to combine - let come to
-   a low simmer
-3. Combine 1 tablespoon cornstarch and 2 tablespoons water, mix well and
-   add about 1/2 into the sweet and sauce
-4. Stir in well until beginning to thicken (adding more to get it to your
-   preferred level of thickness) turn to low
-5. CHICKENL Put the chicken in a large bowl and add about 1/4 cup of
-   cornstarch, season with salt & pepper and mix to cover the chicken
-   really well with the cornstarch
-6. Heat oil to approximately 375 and cook chicken, 5-7 minutes until cooked
-   through and crispy
-7. Add vegetables and chicken to pan with sauce, turn to coat well, remove
-   to plates or a serving bowl and garnish with green onions and seeds
+1. Sauce: Heat a tablespoon of oil in a large skillet over medium high heat,
+   add the peppers and onions and cook until softened, about 5 minutes, then
+   remove to a bowl. Turn the skillet down to medium and add the vinegar,
+   ketchup, soy, sesame oil, white and brown sugar and garlic, stir well to
+   combine and let come to a low simmer.
+2. Combine 1 tablespoon cornstarch and 2 tablespoons water, mix well and add
+   about 1/2 into the sauce. Stir in until beginning to thicken, adding more
+   to reach your preferred thickness, then turn to low.
+3. Chicken: Put the chicken in a large bowl, add about 1/4 cup of cornstarch,
+   season with salt and pepper and mix to coat the chicken really well.
+4. Heat oil to approximately 375 and cook the chicken until cooked through and
+   crispy, 5-7 minutes.
+5. Add the vegetables and chicken to the pan with the sauce and turn to coat
+   well. Remove to plates or a serving bowl and garnish with green onions and
+   sesame seeds.
 
 Variations
 ----------

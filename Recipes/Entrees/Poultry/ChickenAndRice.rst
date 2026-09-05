@@ -13,8 +13,8 @@ Ingredients
 - 1/2 teaspoon of cumin seeds
 - 1 teaspoon of whole peppercorn
 - 2 cloves of garlic
-- 2 yellow potatoes, peeled
 - 2 -3 carrots
+- 2 yellow potatoes, peeled
 - 1 cup of cherry tomatoes
 - 1 jalapeno
 - 1 1/2 cups of rice
@@ -24,17 +24,16 @@ Ingredients
 Directions
 ----------
 
-1. In a pan, add in some oil and drop in your chicken legs that have been
-   seasoned with a touch of salt.
-2. While the chicken legs are cooking, add the salt, cumin seeds, peppercorn,
-   and garlic in a mortar and pestle & start pounding. Once you have your
-   paste, add in some water and mix to loosen everything up.
-3. Then get all your veggies prepped, peel & chop your carrots, potatoes,
-   cherry tomatoes & jalapenos. Set aside.
-4. Once the chicken legs are seared on all sides, take them out and set
-   aside. With the oil left in the pan, add in the rice and toast for
-   2 minutes.
-5. Then add in the cherry tomatoes to emulsifying them in before you add all
-   the veggies, seasoning mix, & chicken stock.
-6. Bring to a boil, then turn it down & and cover. In the meantime, chop up
-   some cilantro and top off your chicken & rice.
+1. Add some oil to a pan and drop in the chicken legs seasoned with a touch of
+   salt.
+2. While the chicken cooks, pound the salt, cumin seeds, peppercorn, and
+   garlic into a paste in a mortar and pestle, then add some water and mix to
+   loosen everything up.
+3. Prep all the veggies: peel and chop the carrots and potatoes, and chop the
+   cherry tomatoes and jalapenos. Set aside.
+4. Once the chicken legs are seared on all sides, remove and set aside. Add
+   the rice to the oil left in the pan and toast until fragrant, 2 minutes.
+5. Add the cherry tomatoes and emulsify them in, then add all the veggies,
+   seasoning mix, and chicken stock.
+6. Bring to a boil, then turn down and cover. Meanwhile, chop up some cilantro
+   and top off the chicken and rice.

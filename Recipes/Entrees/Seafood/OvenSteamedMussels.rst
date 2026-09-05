@@ -23,10 +23,10 @@ Directions
 ----------
 
 1. Adjust oven rack to lowest position and heat oven to 500F. Heat oil,
-   garlic, and pepper flakes in large roasting pan over medium heat;
-   cook, stirring constantly, until fragrant, about 30 seconds. Add
-   wine, thyme sprigs, and bay leaves and bring to boil. Cook until wine
-   is slightly reduced, about 1 minute. Add mussels and salt. Cover pan
+   garlic, and pepper flakes in large roasting pan over medium heat,
+   stirring constantly, until fragrant, about 30 seconds. Add wine,
+   thyme sprigs, and bay leaves and bring to boil. Cook until wine is
+   slightly reduced, about 1 minute. Add mussels and salt. Cover pan
    tightly with aluminum foil and transfer to oven. Cook until most
    mussels have opened (a few may remain closed), 15 to 18 minutes.
 2. Remove pan from oven. Push mussels to sides of pan. Add butter to

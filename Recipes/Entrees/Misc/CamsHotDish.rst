@@ -8,8 +8,8 @@ Cam's Hot Dish
 Ingredients
 -----------
 
-- 1 pound (450 g) ground beef
 - 1 onion, diced
+- 1 pound (450 g) ground beef
 - 2 cup celery chopped
 - 1 cup tomato soup
 - 1 cup mushroom soup
@@ -21,9 +21,10 @@ Directions
 ----------
 
 1. Preheat oven to 350F.
-2. In a medium high nonstick pan saute onions until transparent, add ground
-   beef and brown. Transfer to a large bowl.
-3. Cook celery for 7 minutes, save liquid and add to bowl with meat.
-4. Add tomato soup, mushroom soup, molasses, and soy sauce to bowl and
-   combine. Transfer to a casserole dish, top with uncooked noodles and
-   place in oven for approx. 1 hour.
+2. Sauté onions in a medium-high nonstick pan until transparent; add ground
+   beef and brown, then transfer to a large bowl.
+3. Cook celery, about 7 minutes; save the liquid and add it to the bowl with
+   the meat.
+4. Add tomato soup, mushroom soup, molasses, and soy sauce to the bowl and
+   combine; transfer to a casserole dish, top with uncooked noodles, and bake,
+   about 1 hour.

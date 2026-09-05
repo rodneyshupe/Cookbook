@@ -27,6 +27,5 @@ Ingredients
 Directions
 ----------
 
-1. Place the all the ingredients in a heavy nonreactive saucepan and
-   whisk to mix. Simmer over a low heat for 30 minutes.
-
+1. Put all the ingredients in a heavy nonreactive saucepan and whisk to
+   mix. Simmer over low heat until melded and thickened, 30 minutes.

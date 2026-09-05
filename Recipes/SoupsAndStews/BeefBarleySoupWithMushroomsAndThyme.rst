@@ -6,8 +6,6 @@ Beef Barley Soup with Mushrooms and Thyme
 |                        | Soup Time: 1 hours     |                    |
 +------------------------+------------------------+--------------------+
 
-Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/770-beef-barley-soup-with-mushrooms-and-thyme>`__
-
 Ingredients
 -----------
 
@@ -41,32 +39,29 @@ Directions
 Broth
 ^^^^^
 
-1. Heat 1 tablespoon oil in a large soup kettle or Dutch oven over
-   medium-high heat; brown meat, bones, and onion halves on all sides in
-   batches, making sure not to overcrowd the pan, and adding the
-   additional teaspoon and a half of oil to the pan if necessary. Remove
-   and set aside. Add red wine to the empty kettle; cook until reduced
-   to a syrup, 1 to 2 minutes. Return browned bones, meat, and onion to
-   kettle. Reduce heat to low, then cover and sweat meat and onions
-   until they have released about 3/4 cup dark, very intensely flavoured
-   liquid, about 20 minutes. Increase heat to medium-high, add 2 quarts
-   water and salt; bring to a simmer, reduce heat to very low, partially
-   cover, and barely simmer until meat is tender, 1 1/2 to 2 hours.
-2. Strain broth, discard bones and onions, and set meat aside, reserving
-   half of the meat for another use. (At this point broth and meat can
-   be cooled to room temperature and covered and refrigerated up to 5
-   days.) Let broth stand until fat rises to the top; skim and discard
-   fat. When the unreserved meat is cool enough to handle, shred into
-   bite-size pieces. Reserve 2 cups shredded meat for soup.
+1. Heat 1 tablespoon oil in a large soup kettle or Dutch oven over medium-high
+   heat; brown meat, bones, and onion halves on all sides in batches, don't
+   crowd the pan, adding the additional teaspoon and a half of oil if needed.
+   Remove and set aside. Add red wine to the empty kettle; cook until reduced
+   to a syrup, 1 to 2 minutes. Return browned bones, meat, and onion to the
+   kettle. Reduce heat to low; cover and sweat meat and onions until they
+   release about 3/4 cup dark, very intensely flavoured liquid, about 20
+   minutes. Increase heat to medium-high; add 2 quarts water and salt, bring
+   to a simmer, then reduce heat to very low, partially cover, and barely
+   simmer until meat is tender, 1 1/2 to 2 hours.
+2. Strain broth; discard bones and onions and set meat aside, reserving half
+   the meat for another use. (Broth and meat can be cooled to room
+   temperature, covered, and refrigerated up to 5 days.) Let broth stand until
+   fat rises to the top; skim and discard fat. When the unreserved meat is
+   cool enough to handle, shred into bite-size pieces. Reserve 2 cups shredded
+   meat for the soup.
 
 Soup
 ^^^^
 
-1. Heat oil over medium-high heat in a soup kettle or Dutch oven. Add
-   onion and carrots; saute until almost soft, 3 to 4 minutes. Add
-   mushrooms; saute until softened and liquid almost evaporates, 4 to 5
-   minutes longer. Add thyme and tomatoes, then beef broth, meat, and
-   barley; bring to simmer. Reduce heat to low; simmer until barley is
-   just tender, 45 to 50 minutes. Stir in parsley, adjust seasonings,
-   including salt and pepper to taste, and serve.
-
+1. Heat oil over medium-high heat in a soup kettle or Dutch oven. Add onion
+   and carrots; saute until almost soft, 3 to 4 minutes. Add mushrooms; saute
+   until softened and liquid almost evaporates, 4 to 5 minutes longer. Add
+   thyme and tomatoes, then beef broth, meat, and barley; bring to a simmer.
+   Reduce heat to low; simmer until barley is just tender, 45 to 50 minutes.
+   Stir in parsley, adjust seasonings, salt and pepper to taste, and serve.

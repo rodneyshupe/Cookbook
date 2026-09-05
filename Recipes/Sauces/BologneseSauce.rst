@@ -5,8 +5,6 @@ Bolognese Sauce
 | Prep Time: 15 minutes | Cook Time: 2 hours | Yield: 2 cups |
 +-----------------------+--------------------+---------------+
 
-Source: `Sam the Cooking Guy <https://www.thecookingguy.com/cookbook/2019/1/26/bolognese>`__
-
 Ingredients
 -----------
 
@@ -31,16 +29,16 @@ Ingredients
 Directions
 ----------
 
-1. Put onion, carrot & celery into a processor, and pulse until finely minced.
-2. Heat oil in a large pot over medium-high heat, heat oil and add the
-   vegetables - cook until soft about 5 minutes.
-3. Put in garlic and cook until fragrant, about a minute then add beef and
-   cook until no longer pink, breaking it up as you go.
-4. Add wine (or vermouth) and bring mixture to a simmer, and cook until wine
-   is mostly reduced.
-5. Stir in tomatoes, tomato paste, beef stock , bay leaf, oregano,
-   pepper flakes and balsamic vinegar - mix well, reduce heat and simmer for
-   about an hour.
-6. Remove the bay leaf and add milk - stir well, bring to a simmer stirring
-   occasionally, about 45 minutes.
-7. Season with salt and pepper and serve.
+1. Pulse the onion, carrot, and celery in a food processor until finely
+   minced.
+2. Heat the oil in a large pot over medium-high heat, add the vegetables, and
+   cook until soft, about 5 minutes.
+3. Add the garlic and cook until fragrant, about a minute, then add the beef
+   and cook until no longer pink, breaking it up as you go.
+4. Pour in the wine and bring to a simmer, cooking until mostly reduced.
+5. Stir in the tomatoes, tomato paste, beef broth, bay leaf, oregano, pepper
+   flakes, and balsamic vinegar, then reduce the heat and simmer about an
+   hour.
+6. Remove the bay leaf, stir in the milk, and bring to a simmer, stirring
+   occasionally, until thickened, about 45 minutes.
+7. Season with the salt and pepper and serve.

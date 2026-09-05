@@ -9,13 +9,13 @@ Ingredients
 -----------
 
 - 3 tablespoons vegetable oil
-- 1 in long piece of fresh ginger, peeled and cut into matchsticks
-- 3 large or 5 medium garlic cloves, minced
-- 1 red chilli, sliced, seeds removed
 - 1 pound (450 g) beef steak, sliced
+- 1 in long piece of fresh ginger, peeled and cut into matchsticks
+- 1 red chilli, sliced, seeds removed
+- 3 large or 5 medium garlic cloves, minced
+- 8 ounces mushrooms, sliced thickly
 - 4 tablespoons oyster sauce
 - 3 tablespoons soy sauce
-- 8 ounces mushrooms, sliced thickly
 - 2 cups/150g snow peas
 - 3-4 bundles of instant noodles
 - 2-3 green onions, trimmed and sliced diagonally
@@ -24,15 +24,14 @@ Ingredients
 Directions
 ----------
 
-1. In a large frying pan, heat 2 tablespoons oil over high heat.  Add beef
-   and sear on both sides, 2-3 minutes per side.  Remove beef from pan and
-   set aside.
-2. Heat additional 1 tablespoons oil over medium heat heat the oil. Add
-   ginger, chilli and garlic, cook over medium heat for 1 minute until
-   golden and fragrant.
-3. Add mushroom and cook until the mushrooms release there liquid. Add beef
-   back to the pan, along with oyster sauce and soy sauce, stir to coat.
-4. Add snow peas and noodles and stir fry for 2-3 minutes over high heat,
-   you might need to add a splash of water if your pan is getting too dry
-   The snow peas should be bright green and still crunchy but cooked.
+1. Heat 2 tablespoons oil in a large frying pan over high heat. Add beef and
+   sear on both sides, 2-3 minutes per side. Remove beef from pan and set
+   aside.
+2. Heat an additional 1 tablespoons oil over medium heat. Add ginger, chilli
+   and garlic and cook until golden and fragrant, 1 minute.
+3. Add mushrooms and cook until they release their liquid. Add beef back to
+   the pan along with oyster sauce and soy sauce, and stir to coat.
+4. Add snow peas and noodles and stir fry over high heat until the snow peas
+   are bright green and still crunchy but cooked, 2-3 minutes. Add a splash
+   of water if the pan is getting too dry.
 5. Garnish with sliced green onions and sesame seeds before serving.

@@ -20,4 +20,3 @@ Directions
 
 1. Place all vinaigrette ingredients in a sealed jar or container and shake
    aggressively.
-

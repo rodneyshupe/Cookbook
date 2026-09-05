@@ -5,8 +5,6 @@ Country-Style Ribs
 | Prep Time: 5 minutes | Cook Time: 65 minutes | Yield: 2-3 servings |
 +----------------------+-----------------------+---------------------+
 
-Source: `Fire Escape Griller <https://www.youtube.com/watch?v=dr9d94wDCG0>`__
-
 Ingredients
 -----------
 
@@ -19,12 +17,12 @@ Ingredients
 Directions
 ----------
 
-1. Place ribs in cast iron pan or disposable foil pan. Pour over BBQ sauce and
-   stir ribs around to coat.  Add beer and liquid smoke if using and mix ribs
-   around.  Top with onion.  Cover tightly with aluminum foil.
-2. Put on grill with heat at medium low and cook for 30 minutes.  Uncover and
-   stir/mix ribs around and replace foil cover. Cook for an additional
-   30 minutes.
-3. Adjust heat to high and remove ribs from pan and place on grill.  Grill
-   each side for 2 minutes.
-4. Serve with additional sauce from pan.
+1. Place ribs in a cast iron pan or disposable foil pan. Pour over BBQ sauce
+   and stir to coat. Add beer and liquid smoke if using, and mix. Top with
+   onion, then cover tightly with aluminum foil.
+2. Put on the grill over medium low heat and cook for 30 minutes. Uncover,
+   stir the ribs, and replace the foil cover. Cook for an additional 30
+   minutes.
+3. Adjust heat to high, remove ribs from the pan, and place on the grill.
+   Grill each side for 2 minutes.
+4. Serve with additional sauce from the pan.

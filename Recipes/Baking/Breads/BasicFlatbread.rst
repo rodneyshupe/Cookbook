@@ -17,34 +17,34 @@ Ingredients
 Directions
 ----------
 
-1. Add flour, baking powder, and salt to food processor and lock lid into
-   place. Turn on processor and process until combined, about 5 seconds. Stop
-   processor and remove lid. Add oil and lock lid back into place. Process
-   until no visible streaks of oil remain, about 10 seconds.
+1. Add flour, baking powder, and salt to food processor; lock lid into place
+   and process until combined, about 5 seconds. Remove lid, add oil, lock lid
+   back into place, and process until no visible streaks of oil remain, about
+   10 seconds.
 2. With processor running, slowly pour water through feed tube and process
-   until dough forms soft ball that clears sides of processor bowl, 30 to 60
-   seconds. Stop processor, remove lid, and carefully remove processor blade.
-3. Sprinkle clean counter with extra flour and coat your hands in flour.
-   Transfer dough to counter, knead for 30 seconds, then form dough into
-   smooth ball.
-4. Use bench scraper to divide dough into 4 equal pieces. Working with
-   1 piece of dough at a time, shape dough into ball (click here to learn
-   how to shape dough into balls). Repeat with remaining pieces of dough.
-   Cover dough balls loosely with plastic wrap. Let sit for 30 minutes.
-5. When dough is ready, sprinkle extra flour on clean counter. Use your
-   fingertips to gently pat 1 dough ball into 5-inch circle (keep remaining
-   dough balls covered). Use rolling pin to roll dough into 9-inch circle,
-   flouring counter as needed to prevent sticking. Repeat rolling with
-   remaining dough balls.
-6. Heat 12-inch cast-iron skillet over medium heat for 3 minutes (skillet
-   should be hot but not smoking).
-7. Gently prick 1 dough round all over with fork, then carefully place in
-   skillet (ask an adult for help). Cook until underside is spotty brown,
-   1 to 2 minutes. Use spatula to carefully flip dough round and cook until
-   second side is spotty brown, 1 to 2 minutes.
-8. Use spatula to carefully transfer flatbread to plate and cover with clean
-   dish towel to keep warm. Repeat with remaining dough rounds, stacking
-   flatbreads and re-covering with towel as they finish. Serve warm.
+   until dough forms a soft ball that clears the sides of the bowl, 30 to 60
+   seconds; then stop processor, remove lid, and carefully remove the blade.
+3. Sprinkle a clean counter with extra flour and coat your hands in flour;
+   transfer dough to counter, knead for 30 seconds, then form into a smooth
+   ball.
+4. Use bench scraper to divide dough into 4 equal pieces. Working with 1 piece
+   at a time, shape dough into a ball (click here to learn how to shape dough
+   into balls), then repeat with remaining pieces. Cover dough balls loosely
+   with plastic wrap and let sit for 30 minutes.
+5. When dough is ready, sprinkle extra flour on a clean counter. Using your
+   fingertips, gently pat 1 dough ball into a 5-inch circle (keep remaining
+   balls covered), then use a rolling pin to roll it into a 9-inch circle,
+   flouring the counter as needed to prevent sticking. Repeat with remaining
+   dough balls.
+6. Heat 12-inch cast-iron skillet over medium heat for 3 minutes; it should be
+   hot but not smoking.
+7. Gently prick 1 dough round all over with a fork, then carefully place in
+   skillet (ask an adult for help). Cook until underside is spotty brown, 1 to
+   2 minutes; flip with a spatula and cook until second side is spotty brown,
+   1 to 2 minutes.
+8. Transfer flatbread to a plate with the spatula and cover with a clean dish
+   towel to keep warm. Repeat with remaining dough rounds, stacking flatbreads
+   and re-covering with the towel as they finish. Serve warm.
 
 Variations
 ----------
@@ -60,4 +60,3 @@ Variations
   sesame seeds. Place the sesame seed side of the naan onto the cooking
   surface for just a few seconds to seal the sesame seeds into the surface
   of the naan.
-

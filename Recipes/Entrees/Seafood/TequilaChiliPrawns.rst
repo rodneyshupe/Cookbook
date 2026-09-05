@@ -18,7 +18,7 @@ Ingredients
 Directions
 ----------
 
-1. Heat oil in a pan over medium high heat.  Add prawns, and jalapeno and
-   cook for 1 minute, stirring often.  Add green onions cook until prawns are
+1. Heat oil in pan over medium high heat. Add prawns and jalapeno and cook
+   for 1 minute, stirring often. Add green onions and cook until prawns are
    fully cooked, approximately 1 additional minute.
-2. Remove from heat and stir in compound butter.  Serve over rice.
+2. Remove from heat and stir in compound butter. Serve over rice.

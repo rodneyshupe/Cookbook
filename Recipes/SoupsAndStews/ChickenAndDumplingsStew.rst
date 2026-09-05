@@ -37,35 +37,35 @@ Dumplings
 Directions
 ----------
 
-1. FOR THE STEW Pat chicken thighs dry with paper towels and season with
-   1 teaspoon salt and 1/4 teaspoon pepper. Heat oil in large Dutch oven over
-   medium-high heat until shimmering. Add chicken thighs, skin-side down, and
-   cook until skin is crisp and well browned, 5 to 7 minutes. Using tongs,
-   turn chicken pieces and brown on second side, 5 to 7 minutes longer;
-   transfer to large plate. Discard all but 1 teaspoon fat from pot.
+1. FOR THE STEW Pat chicken thighs dry and season with 1 teaspoon salt and 1/4
+   teaspoon pepper. Heat oil in large Dutch oven over medium-high heat until
+   shimmering. Add chicken thighs skin-side down; cook until skin is crisp and
+   well browned, 5 to 7 minutes. Turn with tongs and brown second side, 5 to 7
+   minutes longer; transfer to large plate. Discard all but 1 teaspoon fat
+   from pot.
 2. Add onions, carrots, and celery to now-empty pot; cook, stirring
    occasionally, until caramelised, 7 to 9 minutes. Stir in sherry, scraping
-   up any browned bits. Stir in broth and thyme. Return chicken thighs, with
-   any accumulated juices, to pot and add chicken wings. Bring to simmer,
+   up any browned bits, then stir in broth and thyme. Return chicken thighs
+   with any accumulated juices to pot and add chicken wings. Bring to simmer,
    cover, and cook until thigh meat offers no resistance when poked with tip
    of paring knife but still clings to bones, 45 to 55 minutes.
-3. Remove pot from heat and transfer chicken to cutting board. Allow broth to
-   settle 5 minutes, then skim fat from surface using wide spoon or ladle.
-   When cool enough to handle, remove and discard skin from chicken. Using
-   fingers or fork, pull meat from chicken thighs (and wings, if desired) and
-   cut into 1-inch pieces. Return meat to pot.
+3. Remove pot from heat and transfer chicken to cutting board. Let broth
+   settle 5 minutes, then skim fat from surface with wide spoon or ladle. When
+   cool enough to handle, remove and discard skin. Pull meat from thighs (and
+   wings, if desired) with fingers or fork and cut into 1-inch pieces; return
+   meat to pot.
 4. FOR THE DUMPLINGS Whisk flour, baking soda, sugar, and salt in large bowl.
    Combine buttermilk and melted butter in medium bowl, stirring until butter
    forms small clumps; whisk in egg white. Add buttermilk mixture to dry
-   ingredients and stir with rubber spatula until just incorporated and
-   batter pulls away from sides of bowl.
+   ingredients and stir with rubber spatula until just incorporated and batter
+   pulls away from sides of bowl.
 5. Return stew to simmer; stir in parsley and season with salt and pepper to
-   taste. Using greased tablespoon measure (or #60 portion scoop), scoop
-   level amount of batter and drop over top of stew, spacing about 1/4 inch
-   apart (you should have about 24 dumplings). Wrap lid of Dutch oven with
-   clean kitchen towel (keeping towel away from heat source) and cover pot.
-   Simmer gently until dumplings have doubled in size and toothpick inserted
-   into center comes out clean, 13 to 16 minutes. Serve immediately.
+   taste. Using greased tablespoon measure (or #60 portion scoop), scoop level
+   batter and drop over top of stew, spacing about 1/4 inch apart (you should
+   have about 24 dumplings). Wrap lid of Dutch oven with clean kitchen towel,
+   keeping towel away from heat source, and cover pot. Simmer gently until
+   dumplings have doubled in size and toothpick inserted into center comes out
+   clean, 13 to 16 minutes. Serve immediately.
 
 Notes
 -----
@@ -81,4 +81,3 @@ stew; do not omit or substitute. Since the wings yield only about 1 cup of
 meat, using their meat is optional. The stew can be prepared through
 step 3 up to 2 days in advance; bring the stew back to a simmer before
 proceeding with the recipe.
-

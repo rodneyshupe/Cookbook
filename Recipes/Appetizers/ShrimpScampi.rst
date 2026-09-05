@@ -26,28 +26,25 @@ Ingredients
 Directions
 ----------
 
-1. Dissolve salt and sugar in 1 quart cold water in large container.
-   Submerge shrimp in brine, cover, and refrigerate for 15 minutes.
-   Remove shrimp from brine and pat dry with paper towels.
-2. Heat 1 tablespoon oil in 12-inch skillet over high heat until
-   shimmering. Add shrimp shells and cook, stirring frequently, until
-   they begin to turn spotty brown and skillet starts to brown, 2 to 4
-   minutes. Remove skillet from heat and carefully add wine and thyme
-   sprigs. When bubbling subsides, return skillet to medium heat and
-   simmer gently, stirring occasionally, for 5 minutes. Strain mixture
-   through colander set over large bowl. Discard shells and reserve
-   liquid (you should have about 2/3 cup). Wipe out skillet with paper
-   towels.
+1. Dissolve salt and sugar in 1 quart cold water in large container; submerge
+   shrimp in brine, cover, and refrigerate for 15 minutes, then remove shrimp
+   from brine and pat dry with paper towels.
+2. Heat 1 tablespoon oil in 12-inch skillet over high heat until shimmering;
+   add shrimp shells and cook, stirring frequently, until spotty brown and
+   skillet starts to brown, 2 to 4 minutes. Off heat, carefully add wine and
+   thyme sprigs, and when bubbling subsides, return to medium heat and simmer
+   gently, stirring occasionally, for 5 minutes. Strain through colander set
+   over large bowl; discard shells and reserve liquid (you should have about
+   2/3 cup), then wipe out skillet with paper towels.
 3. Combine lemon juice and cornstarch in small bowl. Heat remaining 1
-   tablespoon oil, garlic, pepper flakes, and pepper in now-empty
-   skillet over medium-low heat, stirring occasionally, until garlic is
-   fragrant and just beginning to brown at edges, 3 to 5 minutes. Add
-   reserved wine mixture, increase heat to high, and bring to simmer.
-   Reduce heat to medium, add shrimp, cover, and cook, stirring
-   occasionally, until shrimp are just opaque, 5 to 7 minutes. Remove
-   skillet from heat and, using slotted spoon, transfer shrimp to bowl.
-4. Return skillet to medium heat, add lemon juice-cornstarch mixture,
-   and cook until slightly thickened, 1 minute. Remove from heat and
-   whisk in butter and parsley until combined. Return shrimp and any
-   accumulated juices to skillet and toss to combine. Serve, passing
-   lemon wedges separately.
+   tablespoon oil, garlic, pepper flakes, and pepper in now-empty skillet over
+   medium-low heat, stirring occasionally, until garlic is fragrant and just
+   beginning to brown at edges, 3 to 5 minutes. Add reserved wine mixture,
+   increase heat to high, and bring to simmer; reduce heat to medium, add
+   shrimp, cover, and cook, stirring occasionally, until just opaque, 5 to 7
+   minutes, then remove from heat and, using slotted spoon, transfer shrimp to
+   bowl.
+4. Return skillet to medium heat, add lemon juice-cornstarch mixture, and cook
+   until slightly thickened, 1 minute; off heat, whisk in butter and parsley
+   until combined, then return shrimp and any accumulated juices to skillet
+   and toss to combine. Serve, passing lemon wedges separately.

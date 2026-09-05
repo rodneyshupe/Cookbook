@@ -30,26 +30,25 @@ Pan Sauce
 Directions
 ----------
 
-1. Adjust oven rack to middle position, place 12-inch ovensafe skillet
-   on rack, and heat oven to 450F. Combine salt and pepper in bowl. Pat
-   chicken dry with paper towels. Rub entire surface with oil. Sprinkle
-   evenly all over with salt mixture and rub in mixture with hands to
-   coat evenly. Tie legs together with twine and tuck wing tips behind
-   back.
-2. Transfer chicken, breast side up, to preheated skillet in oven. Roast
-   chicken until breasts register 120F and thighs register 135F,
-   25 to 35 minutes. Turn off oven and leave chicken in oven until
-   breasts register 160F and thighs register 175F, 25 to 35 minutes.
-3. Transfer chicken to carving board and let rest, uncovered, for 20
-   minutes before carving.
-4. While chicken rests, remove all but 1 tablespoon of fat from
-   now-empty skillet using large kitchen spoon, leaving any fond and jus
-   in skillet. Place skillet over medium-high heat, add shallot, and
-   cook until softened, about 2 minutes.
-5. Stir in broth and mustard, scraping skillet bottom with wooden spoon
-   to loosen fond. Simmer until reduced to 3/4 cup, about 3 minutes.
-6. Off heat, whisk in butter, tarragon, and lemon juice. Season with
-   pepper to taste; cover and keep warm.
+1. Adjust oven rack to middle position, place 12-inch ovensafe skillet on
+   rack, and heat oven to 450F. Combine salt and pepper in bowl. Pat chicken
+   dry with paper towels, then rub entire surface with oil. Sprinkle evenly
+   all over with salt mixture and rub in with hands to coat evenly. Tie legs
+   together with twine and tuck wing tips behind back.
+2. Transfer chicken, breast side up, to preheated skillet in oven. Roast until
+   breasts register 120F and thighs register 135F, 25 to 35 minutes. Turn off
+   oven and leave chicken inside until breasts register 160F and thighs
+   register 175F, 25 to 35 minutes.
+3. Transfer chicken to carving board and let rest, uncovered, for 20 minutes
+   before carving.
+4. While chicken rests, remove all but 1 tablespoon of fat from the now-empty
+   skillet using a large kitchen spoon, leaving any fond and jus behind. Place
+   skillet over medium-high heat, add shallot, and cook until softened, about
+   2 minutes.
+5. Stir in broth and mustard, scraping skillet bottom with wooden spoon to
+   loosen fond. Simmer until reduced to 3/4 cup, about 3 minutes.
+6. Off heat, whisk in butter, tarragon, and lemon juice. Season with pepper to
+   taste, then cover and keep warm.
 
 Variation
 ---------

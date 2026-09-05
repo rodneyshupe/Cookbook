@@ -33,8 +33,8 @@ Directions
    Remove skillet from heat and carefully add 1 cup water. When bubbling
    subsides, return skillet to medium heat and simmer gently, stirring
    occasionally, for 5 minutes. Strain mixture through colander set over
-   large bowl. Discard shells and reserve liquid (you should have about
-   1/4 cup). Wipe skillet clean with paper towels.
+   large bowl. Discard shells and reserve liquid (about 1/4 cup). Wipe
+   skillet clean with paper towels.
 3. Heat 2 tablespoons oil, onion, garlic, anchovies, pepper flakes,
    1/4 teaspoon salt, and 1/8 teaspoon pepper in now-empty skillet over
    medium-low heat. Cook, stirring occasionally, until onion is softened,

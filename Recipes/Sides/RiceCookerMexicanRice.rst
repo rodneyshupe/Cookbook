@@ -26,7 +26,6 @@ Directions
 
 1. Combine all ingredients in rice cooker.
 2. Cook according to manufacturer instructions.
-3. When cooking time finished let it sit uncovered for 3 minutes or so to
+3. When cooking time is finished, let it sit uncovered for 3 minutes or so to
    thicken.
 4. Stir before serving.
-

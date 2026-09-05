@@ -5,8 +5,6 @@ Basic Brownies
 | Yield: 16 brownies  |
 +---------------------+
 
-Source: `Cook's Country <https://www.cookscountry.com/recipes/2108-basic-brownies>`__
-
 Ingredients
 -----------
 
@@ -22,18 +20,17 @@ Ingredients
 Directions
 ----------
 
-1. Adjust oven rack to middle position and heat oven to 350F. Line
-   8-inch baking dish with foil and coat foil with cooking spray.
-2. Melt chocolate and butter in small bowl in microwave or in heatproof
-   bowl set over pan of simmering water, stirring occasionally to combine.
-   Cool mixture for several minutes.
-3. Whisk sugar, baking powder, salt, eggs, and vanilla together in medium
-   bowl until combined, about 15 seconds. Whisk in chocolate mixture until
-   smooth. Stir in flour until no streaks of flour remain. Scrape batter
-   evenly into prepared pan.
-4. Bake until toothpick inserted halfway between edge and center of pan
-   comes out clean, 22 to 27 minutes. Cool brownies on wire rack to room
-   temperature, about 2 hours. Using foil, lift brownies from pan to
-   cutting board. Slide foil out from under brownies and cut brownies into
-   2-inch squares. (Brownies can be stored in airtight container for
-   several days.)
+1. Adjust oven rack to middle position and heat oven to 350F. Line 8-inch
+   baking dish with foil and coat foil with cooking spray.
+2. Melt chocolate and butter in a small bowl in the microwave, or in a
+   heatproof bowl set over a pan of simmering water, stirring occasionally to
+   combine; cool for several minutes.
+3. Whisk sugar, baking powder, salt, eggs, and vanilla together in a medium
+   bowl until combined, about 15 seconds; whisk in the chocolate mixture until
+   smooth, then stir in flour until no streaks remain. Scrape batter evenly
+   into the prepared pan.
+4. Bake until a toothpick inserted halfway between the edge and center comes
+   out clean, 22 to 27 minutes. Cool on a wire rack to room temperature, about
+   2 hours; using the foil, lift brownies to a cutting board, slide the foil
+   out, and cut into 2-inch squares. (Brownies can be stored in an airtight
+   container for several days.)

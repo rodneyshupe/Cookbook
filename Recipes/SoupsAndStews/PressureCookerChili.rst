@@ -5,11 +5,6 @@ Pressure Cooker (or Slow Cooker) Chili
 | Prep Time: 15 minutes | Total Time: 1 hour | Yield: Makes around 7 cups of chili |
 +-----------------------+--------------------+-------------------------------------+
 
-Source: `365 Days of Slow and Pressure Cooking <https://www.365daysofcrockpot.com/down-home-instant-pot-chili/>`__
-
-A fast and easy chili recipe that has lots of flavour but isn't too spicy!
-Perfect for any night of the week or for the chili cook-off contest.
-
 Equipment
 ---------
 
@@ -18,7 +13,7 @@ Electric Pressure Cooker
 Ingredients
 -----------
 
-- 1 rasher bacon chopped
+- 1 rasher bacon, chopped
 - 1 cup diced yellow onion
 - 2 pounds (900 g) lean ground beef
 - 2 teaspoons kosher salt
@@ -31,7 +26,7 @@ Ingredients
 - 1 cup water
 - 2 (15.5 ounce / 458 ml) cans chili beans
 - 1 (28 ounce / 828 ml) can crushed tomatoes
-- 1 (6 ounces / approximately 156 ml) can tomato paste
+- 1 (6 ounce / approximately 156 ml) can tomato paste
 - 1/2 teaspoon cinnamon
 - 1 teaspoon cocoa powder
 - Toppings: Fritos, grated cheese, sour cream, diced green or red onions
@@ -39,42 +34,40 @@ Ingredients
 Directions
 ----------
 
-1. Turn your Instant Pot to the saute setting. When the display says HOT
-   add in the piece of bacon and the onion. The onion will cook in the
-   bacon grease. Stir for a couple of minutes and then add in the beef.
-   Break up the beef and brown it for 5-10 minutes. If there is excess
-   grease spoon it off and discard. Leave the bacon in there for added
-   flavour.
-2. Add in the kosher salt, pepper, chili powder, cumin, garlic powder,
-   Better than Bouillon and adobo. Stir to really coat the beef in all the
-   seasonings.
-3. Pour the water into the pot and scrape the bottom of the pot so that
-   it's clean. Turn off the saute setting.
-4. Next layer the following ingredients on top of the beef and do not stir:
-   chili beans and juices, crushed tomatoes, tomato paste (in dollops).
-   Lastly sprinkle in the cinnamon and cocoa powder.
-5. Cover the Instant Pot and secure the lid. Make sure the valve is set to
-   sealing. Set the manual/pressure cook button to 20 minutes on high
-   pressure. When the time is up let the pot sit for 15 minutes and then
-   move the valve to venting. Remove the lid.
-6. Stir the chili really well. Then ladle into bowls and serve with
-   toppings. If desired refrigerate the chili and warm up the next day and
-   serve for even better flavour.
+1. Turn the Instant Pot to the saute setting. When the display says HOT, add
+   the piece of bacon and the onion, letting the onion cook in the bacon
+   grease. Stir for a couple of minutes, then add the beef. Break up the beef
+   and brown it for 5-10 minutes. Spoon off and discard any excess grease.
+   Leave the bacon in for added flavour.
+2. Add the kosher salt, pepper, chili powder, cumin, garlic powder, Better
+   than Bouillon and adobo. Stir to coat the beef in all the seasonings.
+3. Pour the water into the pot and scrape the bottom until it is clean. Turn
+   off the saute setting.
+4. Layer the following on top of the beef without stirring: chili beans and
+   juices, crushed tomatoes, and tomato paste in dollops. Sprinkle in the
+   cinnamon and cocoa powder.
+5. Cover the Instant Pot and secure the lid. Set the valve to sealing. Set the
+   manual/pressure cook button to 20 minutes on high pressure. When the time
+   is up, let the pot sit for 15 minutes, then move the valve to venting.
+   Remove the lid.
+6. Stir the chili well, then ladle into bowls and serve with toppings. If
+   desired, refrigerate the chili and warm it the next day to serve for even
+   better flavour.
 
 Notes
 -----
 
 Slow Cooker Directions:
 
-1. Heat a pan over medium high heat. Add in the bacon and onion. Saute the
-   onion in the bacon grease. Then add in the ground beef and brown for
-   about 5-10 minutes. Spoon off any excess grease.
-2. Add the beef into the slow cooker. Add in the kosher salt, pepper,
-   chili powder, cumin, garlic powder, Better than Bouillon and adobo.
-   Stir to really coat the beef in all the seasonings.
-3. Add in the water, chili beans with juices, crushed tomatoes, tomato
-   paste, cinnamon and cocoa powder, Stir well.
+1. Heat a pan over medium high heat. Add the bacon and onion. Saute the
+   onion in the bacon grease, then add the ground beef and brown for about
+   5-10 minutes. Spoon off any excess grease.
+2. Add the beef to the slow cooker. Add the kosher salt, pepper, chili
+   powder, cumin, garlic powder, Better than Bouillon and adobo. Stir to
+   coat the beef in all the seasonings.
+3. Add the water, chili beans with juices, crushed tomatoes, tomato paste,
+   cinnamon and cocoa powder. Stir well.
 4. Cover the slow cooker and cook on low for 6-8 hours.
-5. Remove the lid. Stir the chili really well. Then ladle into bowls and
-   serve with toppings. If desired refrigerate the chili and warm up the
-   next day and serve for even better flavour.
+5. Remove the lid. Stir the chili well, then ladle into bowls and serve
+   with toppings. If desired, refrigerate the chili and warm it the next
+   day to serve for even better flavour.

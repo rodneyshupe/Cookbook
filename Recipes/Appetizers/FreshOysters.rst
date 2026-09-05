@@ -8,20 +8,23 @@ Fresh Oysters on the Half Shell
 Ingredients
 -----------
 
-- 12 oysters, half shell
 - 1/4 cup  red wine vinegar
-- 3 shallot, minced
-- red chili flakes
-- lemon, wedges
 - sea salt
 - fresh cracked pepper
+- red chili flakes
 - 1 tablespoon Flat leaf parsley, chopped
+- 3 shallot, minced
 - crushed ice
+- 12 oysters, half shell
+- lemon, wedges
 
 Directions
 ----------
-1. Prepare the vinegar; in a small bowl place vinegar, salt, pepper, chillies, parsley, and shallots. Whisk. Put aside.
-2. Set 2 plates; place crushed ice on the plates.
-3. Place 6 half shelled oysters on the ice.
-4. Place the vinegar in small ramekins and in the centre of the plate.
-5. Serve with lemon wedge
+
+1. Make the vinegar: whisk together the vinegar, salt, pepper, chillies,
+   parsley, and shallots in a small bowl; set aside.
+2. Set out 2 plates and mound crushed ice on each, then arrange 6 half shelled
+   oysters on the ice.
+3. Spoon the vinegar into small ramekins and set one in the centre of each
+   plate.
+4. Serve with a lemon wedge.

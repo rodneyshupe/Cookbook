@@ -5,8 +5,6 @@ Salsa Roja
 | Prep Time: 10 minutes | Cook Time: 5 minutes | Yield: about 1 1/2 cups |
 +-----------------------+----------------------+-------------------------+
 
-Source: `Cook's Country <https://www.cookscountry.com/recipes/9411-salsa-roja>`__
-
 Ingredients
 -----------
 
@@ -21,17 +19,14 @@ Ingredients
 Directions
 ----------
 
-1. Combine tomatoes and garlic in bowl and microwave, uncovered, until
-   steaming and liquid begins to pool in bottom of bowl, about 4 minutes.
-   Transfer tomato mixture to fine-mesh strainer set over bowl and let drain
-   for 5 minutes.
+1. Combine tomatoes and garlic in a bowl and microwave uncovered until
+   steaming and liquid pools in the bottom, about 4 minutes. Transfer to a
+   fine-mesh strainer set over a bowl and drain for 5 minutes.
 2. Combine jalapeno, cilantro, lime juice, 1 teaspoon salt, pepper flakes,
-   and drained tomato mixture in blender. Process until smooth, about
-   45 seconds. Season with salt to taste. Serve warm. (Salsa can be
-   refrigerated for up to 3 days. Cover and microwave briefly to rewarm
-   before serving.)
+   and the drained tomatoes in a blender. Process until smooth, about
+   45 seconds. Season with salt to taste. Serve warm. (Keeps refrigerated
+   up to 3 days. Cover and microwave briefly to rewarm before serving.)
 
 Notes
 -----
 To make this salsa spicier, reserve and add the jalapeno seeds to the blender before processing
-

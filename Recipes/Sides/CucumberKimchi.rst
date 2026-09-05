@@ -20,11 +20,10 @@ Ingredients
 Directions
 ----------
 
-1. Cut the cucumbers lengthwise twice, almost into quarters, leaving
-   about 1/2 inch at one end to keep the pieces attached. Rub well,
-   inside and out, with salt. Set aside for 20 minutes.
-2. In a bowl, combine the onion, carrot, scallions, fish sauce, sugar,
-   and gochugaru. Rinse off most of the salt from the cucumbers. Stuff
-   each cucumber with the onion mixture and pack snugly into a
-   container. Let sit for 30 minutes, or refrigerate for up to a week.
-
+1. Cut the cucumbers lengthwise twice, almost into quarters, leaving about 1/2
+   inch at one end to keep the pieces attached. Rub well inside and out with
+   salt, then set aside for 20 minutes.
+2. Combine the onion, carrot, scallions, fish sauce, sugar, and gochugaru in a
+   bowl. Rinse most of the salt off the cucumbers, then stuff each with the
+   onion mixture and pack snugly into a container. Let sit for 30 minutes, or
+   refrigerate for up to a week.

@@ -5,8 +5,6 @@ Gourmet BBQ Brined Spatchcock Chicken
 | Prep Time: 5 minutes | Brine Time: 4-5 hours + overnight drying | Cook Time: 45-60 minutes | Yield: 4 servings |
 +----------------------+------------------------------------------+--------------------------+-------------------+
 
-Source: `Aussie BBQ Forum - Captain Cook <https://www.aussiebbq.info/forum/viewtopic.php?f=7&t=65>`__
-
 Ingredients
 -----------
 
@@ -23,18 +21,18 @@ Ingredients
 Directions
 ----------
 
-1. Mix brine ingredients together in a glass bowl Place chicken in a Ziploc
-   bag and pour in brine solution. Seal and place in the fridge for 4-5 hours.
-2. Remove, rinse with fresh water, pat dry and stand upright over a dish or
-   tray in the fridge overnight to let the skin dry.
-3. `Spatchcock <https://www.marthastewart.com/1035187/how-spatchcock-chicken>`__
-   (or butterfly) the chicken by removing the back bone and flatten.
-4. Spread olive oil over chicken and then sprinkle liberally with lemon peppers
-   and and herbs de provence.
-5. Preheat the grill on high for 10 minutes. Roast the chicken indirectly on
-   a roasting rack for about 15 minutes per pound until the internal meat
-   temperature is 165F.
-6. Serve with fresh buttered rolls, salad and a bottle of bubbly.
+1. Mix the brine ingredients together in a glass bowl. Place the chicken in a
+   Ziploc bag, pour in the brine solution, seal, and refrigerate for 4-5
+   hours.
+2. Remove and rinse with fresh water, pat dry, then stand upright over a dish
+   or tray in the fridge overnight to let the skin dry.
+3. `Spatchcock <https://www.marthastewart.com/1035187/how-spatchcock-chicken>`__ (or butterfly) the chicken by removing the back bone, then flatten.
+4. Spread olive oil over the chicken and sprinkle liberally with lemon pepper
+   and herbs de provence.
+5. Preheat the grill on high for 10 minutes. Roast the chicken indirectly on a
+   roasting rack until the internal meat temperature is 165F, about 15 minutes
+   per pound.
+6. Serve with fresh buttered rolls, salad, and a bottle of bubbly.
 
 Notes
 -----

@@ -23,4 +23,3 @@ Notes
 -----
 
 Enough for one rack of ribs on both sides. Use liberally, none should be left over.
-

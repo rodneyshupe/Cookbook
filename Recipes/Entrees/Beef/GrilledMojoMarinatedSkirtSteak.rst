@@ -5,8 +5,6 @@ Grilled Mojo-Marinated Skirt Steak
 | Prep Time: 15 minutes + 1 hour | Cook Time: 20 minutes | Yield: 4-6 servings |
 +--------------------------------+-----------------------+---------------------+
 
-Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/10924-grilled-mojo-marinated-skirt-steak>`__
-
 Ingredients
 -----------
 
@@ -26,25 +24,26 @@ Directions
 ----------
 
 1. Combine garlic, soy sauce, 2 tablespoons lime juice, cumin, oregano,
-   3/4 teaspoon salt, orange juice, and pepper flakes in 13 by 9-inch baking
-   dish. Place steaks in dish. Flip steaks to coat both sides with marinade.
-   Cover and refrigerate for 1 hour, flipping steaks halfway through
-   refrigerating.
-2. Remove steaks from marinade and transfer marinade to small saucepan. Pat
-   steaks dry with paper towels. Combine 1 tablespoon oil and baking soda in
-   small bowl. Rub oil mixture evenly onto both sides of each steak.
-3. Bring marinade to boil over high heat and boil for 30 seconds. Transfer to
-   bowl and stir in lime zest, orange zest, remaining 2 tablespoons lime
-   juice, and remaining 1 tablespoon oil. Set aside sauce.
-4. Turn all burners to high, cover, and heat grill until hot, about
-   15 minutes. Turn off 1 burner (if using grill with more than 2 burners,
-   turn off burner farthest from primary burner) and leave other burner(s)
-   on high.
-5. Clean and oil cooking grate. Cook steaks on hotter side of grill until
-   well browned and meat registers 130 to 135F (for medium),
-   2 to 4 minutes per side. (Move steaks to cooler side of grill before
-   taking temperature to prevent them from overcooking.) Transfer steaks to
-   cutting board, tent with aluminum foil, and let rest for 10 minutes. Cut
-   steaks on bias against grain into 1/2-inch-thick slices. Arrange slices on
-   serving platter, drizzle with 2 tablespoons sauce, and serve, passing
-   extra sauce separately.
+   3/4 teaspoon salt, orange juice, and pepper flakes in a 13 by 9-inch baking
+   dish. Add the steaks and flip to coat both sides. Cover and refrigerate for
+   1 hour, flipping the steaks halfway through.
+2. Pull the steaks from the marinade and transfer the marinade to a small
+   saucepan. Pat the steaks dry with paper towels. Stir together 1 tablespoon
+   oil and the baking soda in a small bowl, then rub the mixture evenly onto
+   both sides of each steak.
+3. Bring the marinade to a boil over high heat and boil for 30 seconds.
+   Transfer to a bowl and stir in the lime zest, orange zest, remaining
+   2 tablespoons lime juice, and remaining 1 tablespoon oil. Set the sauce
+   aside.
+4. Turn all burners to high, cover, and heat the grill until hot, about
+   15 minutes. Turn off 1 burner (if using a grill with more than 2 burners,
+   turn off the burner farthest from the primary burner) and leave the other
+   burner(s) on high.
+5. Clean and oil the cooking grate. Cook the steaks on the hotter side of the
+   grill until well browned and the meat registers 130 to 135F for medium,
+   2 to 4 minutes per side. (Move the steaks to the cooler side before taking
+   the temperature so they don't overcook.) Transfer the steaks to a cutting
+   board, tent with aluminum foil, and let rest for 10 minutes. Cut on the bias
+   against the grain into 1/2-inch-thick slices. Arrange the slices on a serving
+   platter, drizzle with 2 tablespoons sauce, and serve, passing extra sauce
+   separately.

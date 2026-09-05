@@ -17,4 +17,3 @@ Ingredients
 - 1/2 teaspoon Old Bay Seasoning
 - 1/2 teaspoon rubbed thyme
 - 1/2 teaspoon onion powder
-

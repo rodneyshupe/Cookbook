@@ -5,8 +5,6 @@ Oven-Fried Chicken
 | Prep Time: 15 minutes | Marinate Time: 1 hour + | Cook Time: 45 minutes | Yield: 8 |
 +-----------------------+-------------------------+-----------------------+----------+
 
-Source: `Cook's Country <https://www.cookscountry.com/recipes/2320-oven-fried-chicken>`__
-
 Ingredients
 -----------
 
@@ -35,23 +33,21 @@ Seasoned flour
 Directions
 ----------
 
-1. Whisk buttermilk, mustard, 2 teaspoons salt, 1 teaspoon garlic
-   powder, 1 teaspoon black pepper, and hot sauce together in large
-   bowl. Add chicken, turn to coat well, cover, and refrigerate at least
-   1 hour or overnight.
-2. Adjust oven rack to upper-middle position and heat oven to 400F.
-   Line rimmed baking sheet with foil, set wire rack on sheet, and coat
+1. Whisk buttermilk, mustard, 2 teaspoons salt, 1 teaspoon garlic powder, 1
+   teaspoon black pepper, and hot sauce together in a large bowl. Add chicken,
+   turn to coat well, then cover and refrigerate at least 1 hour or overnight.
+2. Adjust oven rack to upper-middle position and heat oven to 400F. Line a
+   rimmed baking sheet with foil, set a wire rack on the sheet, and coat the
    rack with nonstick cooking spray.
 3. Gently toss corn flakes, bread crumbs, remaining 1/2 teaspoon garlic
-   powder, remaining 1/2 teaspoon black pepper, remaining 1/4 teaspoon
-   salt, poultry seasoning, paprika, and cayenne in shallow dish until
-   combined. Drizzle oil over crumbs and toss until well coated. Working
-   with one piece at a time, remove chicken from marinade and dredge in
-   crumb mixture, firmly pressing crumbs onto all sides of chicken.
-   Place chicken on prepared rack, leaving 1/2 inch of space between
-   each piece.
-4. Bake until chicken is deep golden brown, juices run clear, and
-   instant-read thermometer inserted deep into breast away from bone
+   powder, remaining 1/2 teaspoon black pepper, remaining 1/4 teaspoon salt,
+   poultry seasoning, paprika, and cayenne in a shallow dish until combined,
+   then drizzle oil over the crumbs and toss until well coated. Working with
+   one piece at a time, remove chicken from marinade and dredge in the crumb
+   mixture, firmly pressing crumbs onto all sides. Place chicken on the
+   prepared rack, leaving 1/2 inch of space between each piece.
+4. Bake until chicken is deep golden brown, juices run clear, and an
+   instant-read thermometer inserted deep into the breast away from bone
    registers 160F, 35 to 45 minutes.
 
 Variation

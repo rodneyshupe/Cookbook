@@ -8,20 +8,19 @@ Gourmet Rice Krispy Squares
 Ingredients
 -----------
 
+- 4 cups rice krispys cereal
 - 4 tablespoons butter
 - 3 cups mini marshmallows
-- 4 cups rice krispys cereal
 
 Directions
 ----------
 
-1. In a wide saucepan or skillet, toast rice crispy cereal over medium-low
-   stirring constantly until nutty, about 5 minutes.  Remove from skillet
-   and set aside in bowl medium bowl. In the now empty skillet melt
-   4 tablespoons butter over low heat, until starting to brown. Add the
-   marshmallows, and stir for about 5 minutes, until the marshmallows
-   have completely melted. Stir in the toasted cereal, and stir to coat.
-2. Scrape the marshmallow cereal out into an 8x8 square pan, and press it
-   down with a spatula to really compact the marshmallow squares.
-3. Let cool before cutting into 9 squares.
-
+1. Toast rice crispy cereal in a wide saucepan or skillet over medium-low,
+   stirring constantly, until nutty, about 5 minutes; remove from skillet and
+   set aside in a medium bowl.
+2. In the now empty skillet, melt 4 tablespoons butter over low heat until
+   starting to brown, then add the marshmallows and stir until completely
+   melted, about 5 minutes; stir in the toasted cereal and stir to coat.
+3. Scrape the marshmallow cereal out into an 8x8 square pan and press it down
+   with a spatula to really compact the marshmallow squares.
+4. Let cool before cutting into 9 squares.

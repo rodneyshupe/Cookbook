@@ -8,20 +8,18 @@ Baked Brie
 Ingredients
 -----------
 
-- 1 small wheel brie
 - 1 medium clove garlic , minced
 - 1/4 teaspoon table salt
 - 2-3 sun-dried tomatoes (in oil) , minced
 - 2 tablespoons minced fresh cilantro leaves
+- 1 small wheel brie
 
 Directions
 ----------
 
 1. Preheat oven to 350F.
-2. Place garlic and salt into a small bowl. Mash garlic into a paste
-   using the back of a spoon. Add sun-dried tomatoes and cilantro. Mix
-   until combined.
-3. Unwrap cheese wheel and score the rind with a fork. Place cheese
-   wheel on a foil lined cooking sheet.
-4. Top cheese wheel with sun-dried tomato mixture and place in oven for
-   10 minutes.
+2. Mash garlic and salt into a paste in a small bowl using the back of a
+   spoon. Mix in sun-dried tomatoes and cilantro until combined.
+3. Unwrap the cheese wheel, score the rind with a fork, and set it on a foil
+   lined cooking sheet. Top with the sun-dried tomato mixture and bake until
+   melted, 10 minutes.

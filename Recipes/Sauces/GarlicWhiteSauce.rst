@@ -21,5 +21,5 @@ Ingredients
 Directions
 ----------
 
-- Put all ingredients except milk in a bowl and mix well to combine
-- Stir in as much milk as needed to make it as thick or thin as you like
+1. Put all ingredients except the milk in a bowl and mix well to combine.
+2. Stir in as much milk as needed to make it as thick or thin as you like.

@@ -20,9 +20,9 @@ Ingredients
 Directions
 ----------
 
-1. Combine all ingredients except corn starch and water in a medium sauce
-   pan over medium high heat and bring to a boil.  Reduce heat to a simmer
-   and reduce for 2 minutes.
-2. Combine corn starch and water in small bowl until it forms a slurry.  Add
-   half to sauce mixture in pot to start to thicken.  Add more till desired
-   thickness is produced.
+1. Combine everything except the corn starch and water in a medium sauce pan
+   over medium high heat and bring to a boil. Reduce to a simmer and reduce
+   for 2 minutes.
+2. Stir the corn starch and water together in a small bowl until they form a
+   slurry. Add half to the sauce to start thickening it, then add more until
+   it's as thick as you want.

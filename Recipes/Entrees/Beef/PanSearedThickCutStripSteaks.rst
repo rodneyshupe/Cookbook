@@ -5,8 +5,6 @@ Pan-Seared Thick-Cut Strip Steaks
 | Prep Time: 5 minutes | Cook Time: 35 minutes | Yield: 4 servings |
 +----------------------+-----------------------+-------------------+
 
-Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/3564-pan-seared-thick-cut-strip-steaks>`__
-
 Ingredients
 -----------
 
@@ -19,26 +17,24 @@ Directions
 
 1. Adjust oven rack to middle position and heat oven to 275F. Pat
    steaks dry with paper towel. Cut each steak in half vertically to
-   create four 8-ounce steaks. Season entire surface of steaks liberally
-   with salt and pepper; gently press sides of steaks until uniform 1
-   1/2 inches thick. Place steaks on wire rack set in rimmed baking
-   sheet; transfer baking sheet to oven. Cook until instant-read
-   thermometer inserted in centre of steak registers 90 to 95F
-   for rare to medium-rare, 20 to 25 minutes, or 100 to 105F for
-   medium, 25 to 30 minutes.
-2. Heat oil in 12-inch heavy-bottomed skillet over high heat until
-   smoking. Place steaks in skillet and sear steaks until well-browned
-   and crusty, about 1 1/2 to 2 minutes, lifting once halfway through to
-   redistribute fat underneath each steak. (Reduce heat if fond begins
-   to burn.) Using tongs, turn steaks and cook until well browned on
-   second side, 2 to 2 1/2 minutes. Transfer all steaks to wire cooling
-   rack and reduce heat under pan to medium. Use tongs to stand 2 steaks
-   on their sides. Holding steaks together, return to skillet and sear
-   on all sides until browned, about 1 1/2 minutes. Repeat with
-   remaining 2 steaks.
-3. Transfer steaks to wire cooling rack and let rest, loosely tented
-   with foil, for 10 minutes while preparing pan sauce. Arrange steaks
-   on individual plates and spoon sauce over steaks; serve immediately.
+   make four 8-ounce steaks. Season the entire surface liberally with
+   salt and pepper, then gently press the sides until uniform at 1 1/2
+   inches thick. Set steaks on a wire rack in a rimmed baking sheet and
+   transfer to the oven. Cook until an instant-read thermometer in the
+   centre registers 90 to 95F for rare to medium-rare, 20 to 25 minutes,
+   or 100 to 105F for medium, 25 to 30 minutes.
+2. Heat oil in a 12-inch heavy-bottomed skillet over high heat until
+   smoking. Add steaks and sear until well-browned and crusty, about
+   1 1/2 to 2 minutes, lifting once halfway through to redistribute the
+   fat underneath. Reduce heat if the fond begins to burn. Turn with
+   tongs and cook until well browned on the second side, 2 to 2 1/2
+   minutes. Move steaks to a wire cooling rack and drop the heat under
+   the pan to medium. Stand 2 steaks on their sides with tongs, hold
+   them together, return to the skillet, and sear on all sides until
+   browned, about 1 1/2 minutes. Repeat with the remaining 2 steaks.
+3. Move steaks to a wire cooling rack and let rest, loosely tented with
+   foil, for 10 minutes while you make the pan sauce. Arrange on plates,
+   spoon sauce over top, and serve immediately.
 
 Notes
 -----

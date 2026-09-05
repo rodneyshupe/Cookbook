@@ -16,32 +16,32 @@ Ingredients
 Directions
 ----------
 
-1. In a large bowl whisk together flour, yeast and salt. Add liquids, and
-   stir until blended; dough will be shaggy and sticky. Cover bowl with
-   plastic wrap. Let dough rest at least 10 - 12 hours, at warm room
-   temperature, about 70F.
-2. You can continue with step 3 immediately, but for a better flavour
-   and texture, I strongly recommend letting this risen dough rest in the
-   refrigerator for at least 12 hours and up to 3 days. Then getting ready
-   to back take out of the refrigerator and let warm at room temperature
-   for 1 1/2 - 2 hours.
+1. In a large bowl, whisk together flour, yeast and salt; add liquids and stir
+   until blended. Dough will be shaggy and sticky. Cover the bowl with plastic
+   wrap and let rest at warm room temperature, about 70F, at least 10 - 12
+   hours.
+2. You can continue with step 3 immediately, but for better flavour and
+   texture, I strongly recommend resting this risen dough in the refrigerator
+   for at least 12 hours and up to 3 days. When getting ready to bake, take it
+   out of the refrigerator and let warm at room temperature for 1 1/2 - 2
+   hours.
 3. Dough is ready when its surface is dotted with bubbles. Lightly flour a
-   work surface and place dough on it; sprinkle it with a little more flour
-   and fold it over on itself once or twice. Cover loosely with plastic
-   wrap and let rest about 15 minutes. Using just enough flour to keep dough
-   from sticking to work surface or to your fingers, gently and quickly
-   shape dough into a ball. Generously coat a square of parchment paper with
-   flour, wheat bran or cornmeal; transfer dough to parchment and dust with
-   more flour, bran or cornmeal. Cover with cotton towel and let rise for
-   about 2 hours. When it is ready, dough will be more than double in size
-   and will not readily spring back when poked with a finger.
-4. At least a half-hour before dough is ready, heat oven to 450F. Put
-   a 6 to 8 quart dutch oven (or heavy covered pot, enamel, Pyrex or ceramic)
-   in oven as it heats. When dough is ready, carefully remove pot from oven.
-   Pick up parchment and dough and lower into the pot.  Using a sharp knife
-   or razor, create a slit across the top.  Cover with lid and bake
-   30 minutes, then remove lid and bake another 15 to 30 minutes, until loaf
-   is beautifully browned. Cool on a rack.
+   work surface, place the dough on it, sprinkle with a little more flour and
+   fold it over on itself once or twice; cover loosely with plastic wrap and
+   let rest about 15 minutes. Using just enough flour to keep the dough from
+   sticking to the surface or your fingers, gently and quickly shape it into a
+   ball. Generously coat a square of parchment paper with flour, wheat bran or
+   cornmeal, transfer the dough to the parchment and dust with more flour,
+   bran or cornmeal; cover with a cotton towel and let rise about 2 hours.
+   When ready, the dough will be more than double in size and will not readily
+   spring back when poked with a finger.
+4. At least a half-hour before the dough is ready, heat the oven to 450F and
+   put a 6 to 8 quart dutch oven (or heavy covered pot, enamel, Pyrex or
+   ceramic) in the oven as it heats. When the dough is ready, carefully remove
+   the pot from the oven, pick up the parchment and dough and lower into the
+   pot; using a sharp knife or razor, create a slit across the top. Cover with
+   the lid and bake 30 minutes, then remove the lid and bake until the loaf is
+   beautifully browned, another 15 to 30 minutes. Cool on a rack.
 
 Variations
 ----------
@@ -103,4 +103,3 @@ References
 ----------
 * `Jim Lahey and Mark Bittman <https://cooking.nytimes.com/recipes/11376-no-knead-bread>`__
 * `Sally's Baking Addiction <https://sallysbakingaddiction.com/homemade-artisan-bread/>`__
-

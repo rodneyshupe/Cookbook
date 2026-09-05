@@ -5,8 +5,6 @@ Paella Party Packs
 | Prep Time: 15 minutes | Cook Time: 25 minutes | Yield: 4 servings |
 +-----------------------+-----------------------+-------------------+
 
-Source: `Delish <https://www.delish.com/cooking/recipe-ideas/recipes/a47872/paella-party-packs-recipe/>`__
-
 Ingredients
 -----------
 
@@ -28,8 +26,8 @@ Directions
 3. To each packet, add 1/4 cup rice, 1/4 cup chicken broth, 1 tablespoon wine.
    Carefully toss the rice. Add a chicken thigh to each packet over the rice,
    then divide chorizo, peas and red pepper between the 4 packets.
-4. Fold the foil packets crosswise over the paella mixture to completely
-   cover the food. Fold the edges to seal closed.
-5. Place packets on hot grill and cook until the chicken is cooked through
-   and the rice is tender, about 25 minutes, flipping once halfway through.
-   (Alternatively, you can bake in oven at 425F for about 20-25 minutes.)
+4. Fold the foil packets crosswise over the paella mixture to completely cover
+   the food. Fold the edges to seal closed.
+5. Place packets on hot grill and cook until the chicken is cooked through and
+   the rice is tender, about 25 minutes, flipping once halfway through.
+   (Alternatively, bake in oven at 425F for about 20-25 minutes.)

@@ -5,8 +5,6 @@ Pesto Chicken Garlic Knot Sliders
 | Prep Time: 30 minutes | Cook Time: 35 minutes | Yield: 16 sliders |
 +-----------------------+-----------------------+-------------------+
 
-Source: `Tasty <https://tasty.co/recipe/pesto-chicken-garlic-knot-sliders>`__
-
 Ingredients
 -----------
 
@@ -21,28 +19,22 @@ Ingredients
 Directions
 ----------
 
-1. Cut pizza dough into eighths. (Each ball of dough should yield 8 even-sized
-   pieces of dough, for a total of 16).
-2. Using your hands, roll each piece of dough into a thin strip about
-   7 inches (18cm) long. Then carefully tie them into a knot, tucking the
-   loose ends of dough underneath.
-3. Place each tied knot on a baking sheet or casserole dish with high sides,
-   nestling them close together in a 4x4 in (10x10-cm) grid. Once all the
-   knots are placed in the dish, cover and let rest for 10 minutes.
-4. Preheat oven to 400F (200C).
-5. Uncover and bake for 12 minutes or until the slider buns are golden brown
-   and no doughy grey bits remain.
-6. Once the knots are out of the oven, lower the oven temperature to 350F.
-7. Allow the knots to cool, carefully remove them from the baking dish and
-   cut the grid horizontally, creating both a top and bottom piece.
-   NOTE: It's helpful to hold the knots together with a towel on top while
-   cutting them horizontally, as the motion of the knife might cause some of
-   them to pull apart.
-8. Return the bottom half of the knot-grid to the original baking dish. Evenly
-   layer the bread with cooked chicken, followed by the pesto and mozzarella
-   cheese. Place the top half of the garlic knots on top.
-9. Mix together melted butter, garlic, and parsley. Brush mixture liberally
-   over the top of the knots.
-10. Bake at 350F (180C) for an additional 10 minutes until the tops of the
-    knots are golden brown and cheese is melted.
-11. Pull apart for individual sliders.
+1. Cut the pizza dough into eighths, each ball yielding 8 even-sized pieces
+   for a total of 16. Roll each piece by hand into a thin strip about 7
+   inches (18cm) long, then tie into a knot, tucking the loose ends
+   underneath.
+2. Place each tied knot on a baking sheet or high-sided casserole dish,
+   nestling them close together in a 4x4 in (10x10-cm) grid. Cover and rest 10
+   minutes.
+3. Preheat the oven to 400F (200C). Uncover and bake until golden brown and no
+   doughy grey bits remain, 12 minutes. Lower the oven temperature to 350F.
+4. Cool the knots, then carefully lift them from the dish and cut the grid
+   horizontally into a top and bottom piece. Holding the knots together with a
+   towel on top helps, as the knife may pull some apart.
+5. Return the bottom half to the baking dish and layer evenly with the
+   chicken, then the pesto and mozzarella. Set the top half of the knots in
+   place.
+6. Mix the melted butter, garlic, and parsley, then brush liberally over the
+   tops.
+7. Bake at 350F (180C) until the tops are golden brown and the cheese is
+   melted, 10 minutes. Pull apart into individual sliders.

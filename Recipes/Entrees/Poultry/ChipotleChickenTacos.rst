@@ -23,9 +23,9 @@ Ingredients
 Directions
 ----------
 
-1. Combine ingredients and let sit for at least 10 minutes or refrigerate up
-   to 24 hours.
-2. Heat non-stick pan over medium high heat. Add chicken to pan and saute for
-   2-5 minutes until fully cooked.  Heat tortilla shells.
-3. Assemble tacos: To the tortilla add avocado cream, adobo sauce, cabbage
-   (if using), cooked chicken, onion (if using), and cilantro.
+1. Combine the ingredients and let sit for at least 10 minutes, or refrigerate
+   up to 24 hours.
+2. Heat a non-stick pan over medium high heat. Add the chicken and saute until
+   fully cooked, 2-5 minutes. Heat the tortilla shells.
+3. Assemble the tacos: to each tortilla add avocado cream, adobo sauce,
+   cabbage (if using), cooked chicken, onion (if using), and cilantro.

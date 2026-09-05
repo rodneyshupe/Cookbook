@@ -14,5 +14,5 @@ Ingredients
 
 Directions
 ----------
-- Combine all ingredients in small bowl.
 
+1. Combine all ingredients in a small bowl.

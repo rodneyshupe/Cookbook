@@ -5,8 +5,6 @@ Slow Cooker Mongolian Beef
 | Prep Time: 10 minutes | Total Time: 3-5 hours | Yield: 6 servings |
 +-----------------------+-----------------------+-------------------+
 
-Source: `The Chunky Chef <https://www.thechunkychef.com/easy-slow-cooker-mongolian-beef-recipe/>`__
-
 The easiest way you can make a Mongolian beef recipe! The beef gets
 meltingly tender in the slow cooker and the sauce becomes incredibly silky,
 with great spicy/sweet flavors!
@@ -34,13 +32,12 @@ Ingredients
 Directions
 ----------
 
-1. Add sliced flank steak and cornstarch to a large resealable plastic
-   bag, close and shake to coat well.
-2. To the bottom of slow cooker add vegetable oil, garlic, ginger, water,
-   soy sauce, brown sugar and Sriracha sauce. Stir to combine.
-3. Add in coated flank steak and carrots and stir again until everything
-   is coated in the sauce.
-4. Cover and cook on HIGH for 2-3 hours or on LOW for about 4-5 hours,
-   until steak is cooked and tender.
-5. Serve over white rice and garnished with green onions and sesame seeds
-   if desired.
+1. Add the sliced flank steak and cornstarch to a large resealable plastic
+   bag, then close and shake to coat well.
+2. Add the vegetable oil, garlic, ginger, water, soy sauce, brown sugar and
+   Sriracha sauce to the bottom of the slow cooker and stir to combine; add
+   the coated flank steak and carrots and stir again until everything is
+   coated in the sauce, then cover and cook until the steak is cooked and
+   tender, on HIGH for 2-3 hours or on LOW for about 4-5 hours.
+3. Serve over white rice, garnished with green onions and sesame seeds if
+   desired.

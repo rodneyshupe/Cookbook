@@ -16,4 +16,3 @@ Ingredients
 - 8 teaspoons dried thyme
 - 4 tablespoons garlic powder
 - 6 teaspoons kosher salt
-

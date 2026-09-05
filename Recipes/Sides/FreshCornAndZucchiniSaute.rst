@@ -22,5 +22,3 @@ Directions
    lightly browned, 1 to 2 minutes. Cook and stir onion in the melted butter
    until translucent, about 5 minutes. Add zucchini and corn; cook and stir
    until zucchini is tender, about 8 minutes. Season with sea salt and pepper.
-
-

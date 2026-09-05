@@ -40,24 +40,21 @@ For Serving
 Directions
 ----------
 
-1. Combine 1 1/2 teaspoons paprika, 1 1/2 teaspoons garlic powder,
-   cayenne, cumin, onion powder and 1 teaspoon of the salt in a small
-   bowl, mix well.
-2. Put chicken in a large zippered bag, and flatten chicken to a wide,
-   even thickness.
-3. Heat a cast iron pan to high. Lightly oil both sides of chicken, season
-   really well with mix, (turn on your stove fan) and put into the pan.
-   Let cook until dark on both sides, and cooked to 160F - remove,
-   set aside and when cool, dice up.
-4. Heat a tablespoon of oil in a medium pot, and add the onions and
-   jalapenos, stir a couple minutes until just beginning to soften.
-   Stir in the garlic, and when fragrant, add the chili powder, remaining
-   paprika and garlic powder - mix in well.
-5. Add the tomatoes, enchilada sauce and broth - stir well and bring to a
-   boil.
-6. Combine masa harina with water in a bowl and stir until smooth, then
-   slowly pour into the bubbling soup - mix well, bring to a simmer and let
-   thicken.
-7. Season to taste with salt & pepper, and serve. Put some into a bowl, add
-   a little shredded cheese, some of the chicken diced, avocado, tomatoes,
-   squeeze of lime and finally some crushed tortilla chips for texture.
+1. Mix 1 1/2 teaspoons paprika, 1 1/2 teaspoons garlic powder, cayenne, cumin,
+   onion powder and 1 teaspoon salt in a small bowl until well combined.
+2. Put the chicken in a large zippered bag and flatten to a wide, even
+   thickness.
+3. Heat a cast iron pan to high; lightly oil both sides of the chicken and
+   season really well with the mix. Turn on your stove fan, then lay it in the
+   pan and cook until dark on both sides and up to 160F. Remove, set aside,
+   and dice once cool.
+4. Heat a tablespoon of oil in a medium pot; add the onions and jalapenos and
+   stir a couple minutes until just softening. Stir in the garlic and, when
+   fragrant, add the chili powder, remaining paprika and remaining garlic
+   powder; mix in well.
+5. Add the tomatoes, enchilada sauce and broth; stir well and bring to a boil.
+6. Stir the masa harina with the water in a bowl until smooth, then slowly
+   pour into the bubbling soup; mix well, bring to a simmer and let thicken.
+7. Season to taste with salt and pepper, then serve. Ladle into a bowl and top
+   with a little shredded cheese, some diced chicken, avocado, tomatoes, a
+   squeeze of lime, and finally crushed tortilla chips for texture.

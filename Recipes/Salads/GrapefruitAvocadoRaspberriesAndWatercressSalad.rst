@@ -23,7 +23,6 @@ Ingredients
 Directions
 ----------
 
-1. Simply place all ingredients in a bowl, season, and add 2 parts extra
-   virgin olive oil and 1 part balsamic vinegar.
+1. Place all ingredients in a bowl, season, and add 2 parts extra virgin olive
+   oil and 1 part balsamic vinegar.
 2. Toss gently, and serve on a platter or individually.
-

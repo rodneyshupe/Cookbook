@@ -19,11 +19,11 @@ Directions
 ----------
 
 1. Toast pistachios in a dry small skillet over medium heat, tossing
-   occasionally, until golden brown, 5-8 minutes. Let cool slightly, then
+   occasionally, until golden brown, 5-8 minutes; let cool slightly, then
    finely chop.
 2. Mix goat cheese, salami, and lemon zest in a medium bowl.
-3. Slice dates in half lengthwise, taking care not to cut all the way
-   through, and open like a book. Stuff each date with a small scoop of
-   goat cheese mixture.
-4. Arrange dates, filling side up, on a large plate or platter. Drizzle
+3. Slice dates in half lengthwise, taking care not to cut all the way through,
+   and open like a book; stuff each with a small scoop of the goat cheese
+   mixture.
+4. Arrange dates filling side up on a large plate or platter, then drizzle
    honey over and top with pistachios.

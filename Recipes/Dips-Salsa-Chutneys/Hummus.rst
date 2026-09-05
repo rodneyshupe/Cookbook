@@ -5,8 +5,6 @@ Hummus
 | Prep Time: 5 minutes | Total Time: 35 minutes | Yield: 2 cups |
 +----------------------+------------------------+---------------+
 
-Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/4234-restaurant-style-hummus?incode=MCSCD00L0&ref=new_search_experience_12>`__
-
 Ingredients
 -----------
 
@@ -25,22 +23,22 @@ Ingredients
 Directions
 ----------
 
-1. Combine lemon juice and water in small bowl or measuring cup. Whisk
-   together tahini and 2 tablespoons oil in second small bowl or
+1. Combine lemon juice and water in a small bowl or measuring cup. Whisk
+   tahini and 2 tablespoons oil together in a second small bowl or
    measuring cup. If desired, set aside 2 tablespoons chickpeas for
    garnish.
-2. Process remaining chickpeas, garlic, salt, cumin, and cayenne in food
-   processor until almost fully ground, about 15 seconds. Scrape down
-   bowl with rubber spatula. With machine running, add lemon juice-water
-   mixture in steady stream through feed tube. Scrape down bowl and
-   continue to process for 1 minute. With machine running, add
-   oil-tahini mixture in steady stream through feed tube; continue to
-   process until hummus is smooth and creamy, about 15 seconds, scraping
-   down bowl as needed.
-3. Transfer hummus to serving bowl, sprinkle reserved chickpeas (if
-   using) and cilantro over surface, cover with plastic wrap, and let
-   stand until flavours meld, at least 30 minutes. Drizzle with olive oil
-   and serve.
+2. Process the remaining chickpeas, garlic, salt, cumin, and cayenne in a
+   food processor until almost fully ground, about 15 seconds. Scrape
+   down the bowl with a rubber spatula. With the machine running, add the
+   lemon juice-water mixture in a steady stream through the feed tube.
+   Scrape down the bowl and continue to process for 1 minute. With the
+   machine running, add the oil-tahini mixture in a steady stream through
+   the feed tube; continue to process until the hummus is smooth and
+   creamy, about 15 seconds, scraping down the bowl as needed.
+3. Transfer the hummus to a serving bowl, sprinkle the reserved chickpeas
+   (if using) and cilantro over the surface, cover with plastic wrap, and
+   let stand until the flavours meld, at least 30 minutes. Drizzle with
+   olive oil and serve.
 
 Variations
 ----------
@@ -54,13 +52,13 @@ Ultimate Humus
    -  2 quarts water
    -  1/8 teaspoon baking soda
 
-- Day before: Pick through and rinse dried chickpeas. Place beans in
-   large bowl, cover with 1 quart water, and soak overnight. Drain.
-   Bring beans, baking soda, and 1 quart water to boil in large saucepan
-   over high heat. Reduce heat to low and simmer gently, stirring
-   occasionally, until beans are tender, about 1 hour. Drain, reserving
-   1/4 cup bean cooking water, and cool.
-- In step 1, combine lemon juice with 1/4 cup reserved bean cooking
+- Day before: Pick through and rinse the dried chickpeas. Place the beans
+   in a large bowl, cover with 1 quart water, and soak overnight. Drain.
+   Bring the beans, baking soda, and 1 quart water to a boil in a large
+   saucepan over high heat. Reduce heat to low and simmer gently, stirring
+   occasionally, until the beans are tender, about 1 hour. Drain,
+   reserving 1/4 cup bean cooking water, and cool.
+- In step 1, combine the lemon juice with 1/4 cup reserved bean cooking
    water.
 
 Hummus with Smoked Paprika
@@ -72,9 +70,9 @@ Hummus with Smoked Paprika
    -  replace cilantro with 1 tablespoon thinly sliced scallion greens
    -  and 2 tablespoons pine nuts, toasted
 
-- In step 2, replace cumin with smoked paprika.
-- In step 3, instead of sprinkling with chickpeas and cilantro, use
-   scallion greens, and pine nuts.
+- In step 2, replace the cumin with smoked paprika.
+- In step 3, instead of sprinkling with chickpeas and cilantro, use the
+   scallion greens and pine nuts.
 
 .. raw:: pdf
 
@@ -91,10 +89,11 @@ Roasted Red Pepper Hummus
    -  Replace cilantro with 2 teaspoons chopped fresh flat leaf parsley
    -  Remove water and cumin
 
-- In step 1, we will not be using the water so no need to whisk
-   together with lemon juice.
-- In step 2, remove cumin and add red peppers to food processor.
-- In step 3, sprinkle with sliced almonds and parsley instead of
+- In step 1, skip the water, so there is no need to whisk it together
+   with the lemon juice.
+- In step 2, remove the cumin and add the red peppers to the food
+   processor.
+- In step 3, sprinkle with the sliced almonds and parsley instead of
    chickpeas and cilantro.
 
 Artichoke-Lemon Hummus
@@ -107,13 +106,12 @@ Artichoke-Lemon Hummus
    -  Replace cumin with 1/4 teaspoon grated lemon zest
    -  Replace cilantro with 2 tablespoons parsley or mint
 
-- Before Step 1, chop 1/4 cup artichoke hearts and set aside for
-   garnish.
-- In step 1 increase lemon juice to 4 tablespoons
-- In step 2, process remaining 3/4 cup artichokes, and replace cumin
-   with lemon zest.
-- In step three instead of chick peas, sprinkle with reserved
-   artichokes and replace cilantro with parsley or mint.
+- Before step 1, chop 1/4 cup artichoke hearts and set aside for garnish.
+- In step 1, increase the lemon juice to 4 tablespoons.
+- In step 2, process the remaining 3/4 cup artichokes, and replace the
+   cumin with lemon zest.
+- In step 3, instead of chickpeas, sprinkle with the reserved artichokes
+   and replace the cilantro with parsley or mint.
 
 Roasted Garlic Hummus
 ^^^^^^^^^^^^^^^^^^^^^
@@ -125,15 +123,14 @@ Roasted Garlic Hummus
    -  Remove cumin
    -  Replace cilantro with 2 teaspoons chopped fresh flat leaf parsley
 
-- Before Step 1, remove outer papery skins from 2 heads garlic; cut top
-   quarters off heads and discard. Wrap garlic in foil and roast in
-   350F oven until browned and very tender, about 1 hour. Meanwhile,
-   heat olive oil and sliced garlic in small skillet over medium-low
-   heat. Cook, stirring occasionally, until golden brown, about 15
-   minutes. Using slotted spoon, transfer sliced garlic to paper
-   towel-lined plate and set aside; reserve oil. Once roasted garlic is
-   cool, squeeze cloves from their skins (you should have about 1/4
-   cup).
-- In step 2, remove cumin and use garlic puree when processing.
-- In step 3, sprinkle with toasted garlic slices and parsley.
-
+- Before step 1, remove the outer papery skins from 2 heads garlic; cut
+   the top quarters off the heads and discard. Wrap the garlic in foil and
+   roast in a 350F oven until browned and very tender, about 1 hour.
+   Meanwhile, heat the olive oil and sliced garlic in a small skillet over
+   medium-low heat. Cook, stirring occasionally, until golden brown, about
+   15 minutes. Using a slotted spoon, transfer the sliced garlic to a
+   paper towel-lined plate and set aside; reserve the oil. Once the
+   roasted garlic is cool, squeeze the cloves from their skins (you should
+   have about 1/4 cup).
+- In step 2, remove the cumin and use the garlic puree when processing.
+- In step 3, sprinkle with the toasted garlic slices and parsley.

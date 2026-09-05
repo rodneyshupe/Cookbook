@@ -14,4 +14,4 @@ Ingredients
 Directions
 ----------
 
-1. In a small pot over low heat combine butter and hot sauce.
+1. Combine the butter and hot sauce in a small pot over low heat.

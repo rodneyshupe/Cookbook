@@ -23,14 +23,14 @@ Directions
 
 1. Adjust oven rack to middle position and heat oven to 275F.
 2. Melt butter in 10-inch skillet over medium heat. Add panko and cook,
-   stirring frequently, until golden brown, 3 to 5 minutes. Transfer to
-   bowl and sprinkle with 1/8 teaspoon salt. Stir Dijon, sugar, dry mustard,
+   stirring frequently, until golden brown, 3 to 5 minutes. Transfer to bowl
+   and sprinkle with 1/8 teaspoon salt. Stir Dijon, sugar, dry mustard,
    garlic, cayenne, 1 teaspoon salt, and 1 teaspoon pepper in second bowl
    until smooth.
 3. Set wire rack in rimmed baking sheet and spray with vegetable oil spray.
    Pat chops dry with paper towels. Transfer chops to prepared wire rack,
-   spacing them 1 inch apart. Brush 1 tablespoon mustard mixture over top
-   and sides of each chop (leave bottoms uncoated). Spoon 2 tablespoons
-   toasted panko evenly over top of each chop and press lightly to adhere.
-4. Roast until meat registers 140F, 40 to 50 minutes. Remove from
-   oven and let rest on rack for 10 minutes before serving.
+   spacing them 1 inch apart. Brush 1 tablespoon mustard mixture over top and
+   sides of each chop (leave bottoms uncoated). Spoon 2 tablespoons toasted
+   panko evenly over top of each chop and press lightly to adhere.
+4. Roast until meat registers 140F, 40 to 50 minutes. Remove from oven and let
+   rest on rack for 10 minutes before serving.

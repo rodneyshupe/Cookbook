@@ -5,8 +5,6 @@ Cajun Shrimp Boil
 | Total Time: 1 Hour 15 minutes | Yield: 10 to 12 servings |
 +-------------------------------+--------------------------+
 
-Source: `New York Times Samin Nosrat <https://cooking.nytimes.com/recipes/1019530-cajun-shrimp-boil>`__
-
 Ingredients
 -----------
 
@@ -26,19 +24,8 @@ Ingredients
 Directions
 ----------
 
-1. Fill a very large (12-quart) pot with 4 quarts of water set over high
-   heat. Cajun and Old bay spices, cayenne, salt, onions and celery. Squeeze
-   lemon juice, then add wedges. Break garlic into cloves, and discard
-   excess skin, then add unpeeled cloves. Cover the pot, and bring to a
-   rolling boil.
-2. Lay corn on a baking sheet in a single layer, then place in freezer.
-3. Taste the water after it comes to a boil. It should be very heavily
-   salted and spiced, with a bright orange foam (when standing near the
-   boiling pot causes you to cough, it's spicy enough).
-4. Add potatoes and sausage to the pot, and let the water return to a
-   boil. Turn off heat, and allow to soak for 10 minutes or until
-   potatoes are barely tender when pierced with a knife. Bring the water
-   to a boil, and add prawns. Cook for 3 minutes, then turn off heat, add
-   corn and allow to soak for 7 minutes. Drain, and serve immediately
-   with `remoulade <#quick-remoulade>`__ (preferably on a newspaper-lined table).
+1. Fill a very large (12-quart) pot with 4 quarts of water and set over high heat. Add Cajun and Old Bay spices, cayenne, salt, onions, and celery. Squeeze lemon juice, then add wedges. Break garlic into cloves, discard excess skin, and add unpeeled cloves. Cover the pot and bring to a rolling boil.
+2. Lay corn on a baking sheet in a single layer and place in freezer.
+3. Taste the water after it comes to a boil. It should be very heavily salted and spiced, with a bright orange foam; when standing near the boiling pot causes you to cough, it's spicy enough.
+4. Add potatoes and sausage to the pot and let the water return to a boil. Turn off heat and allow to soak for 10 minutes or until potatoes are barely tender when pierced with a knife. Bring the water to a boil and add prawns. Cook for 3 minutes, turn off heat, add corn, and allow to soak for 7 minutes. Drain and serve immediately with remoulade (preferably on a newspaper-lined table).
 

@@ -5,8 +5,6 @@ Oven-Fried Onion Rings
 | Prep Time: 10 minutes | Cook Time: 25 minutes | Yield: 4-6 |
 +-----------------------+-----------------------+------------+
 
-Source: `Cook's Country <https://www.americastestkitchen.com/recipes/2938-oven-fried-onion-rings>`__
-
 Ingredients
 -----------
 
@@ -17,39 +15,31 @@ Ingredients
 - Salt and pepper
 - 30 saltines
 - 4 cups kettle-cooked potato chips
-- 2 large yellow onions cut into 24 large rings (see note)
+- 2 large yellow onions, cut into 24 large rings (see note)
 - 6 tablespoons vegetable oil
 
 Directions
 ----------
 
-1. Adjust oven racks to lower-middle and upper-middle positions and heat
-   oven to 450F. Place 1/4 cup flour in shallow baking dish. Beat egg
-   and buttermilk together in medium bowl. Whisk remaining 1/4 cup
-   flour, cayenne, 1/2 teaspoon salt, and 1/4 teaspoon pepper into
-   buttermilk mixture. Pulse saltines and chips together in food
-   processor until finely ground and place in separate shallow baking
-   dish.
-2. Pull apart the rings in each round, discarding any that are less than
-   2 inches in diameter. Working one at a time, dredge each onion ring
-   in flour, shaking off excess. Dip in buttermilk mixture, allowing
-   excess to drip back into bowl, then drop into crumb coating, turning
-   ring to coat evenly. Transfer to large plate and repeat with
-   remaining onion rings.
-3. Pour 3 tablespoons oil onto each of two rimmed baking sheets. Place
-   in oven and heat until just smoking, about 8 minutes. Carefully tilt
-   heated sheets to coat evenly with oil, then arrange onion rings on
-   sheets. Bake, flipping onion rings over and switching and rotating
-   position of baking sheets halfway through baking, until golden brown
-   on both sides, about 15 minutes. Transfer onion rings to plates lined
-   with paper towels to drain briefly. Serve immediately.
-
+1. Set oven racks to lower-middle and upper-middle; heat oven to 450F. Put 1/4
+   cup flour in a shallow baking dish. Beat egg and buttermilk in a medium
+   bowl, then whisk in remaining 1/4 cup flour, cayenne, 1/2 teaspoon salt,
+   and 1/4 teaspoon pepper. Pulse saltines and chips in a food processor until
+   finely ground; tip into a separate shallow baking dish.
+2. Pull the rings apart, tossing any under 2 inches across. One at a time,
+   dredge each ring in flour and shake off the excess; dip in the buttermilk
+   mixture, letting excess drip back into the bowl, then drop into the crumbs
+   and turn to coat evenly. Set on a large plate and repeat with the rest.
+3. Pour 3 tablespoons oil onto each of two rimmed baking sheets. Heat in the
+   oven until just smoking, about 8 minutes. Carefully tilt the hot sheets to
+   coat with oil, then arrange the rings on them. Bake, flipping the rings and
+   switching and rotating the sheets halfway through, until golden brown on
+   both sides, about 15 minutes. Move to paper-towel-lined plates to drain
+   briefly. Serve immediately.
 
 Make Ahead
 ----------
 
-Oven-Fried Onion Rings can be breaded in advance and refrigerated for up
-to an hour. Let them sit at room temperature for 30 minutes before
-baking; if baked straight from the fridge, the onions will not soften
-properly and will remain crunchy.
-
+Bread the rings ahead and refrigerate up to an hour. Let them sit at room
+temperature for 30 minutes before baking; straight from the fridge the
+onions will not soften and will stay crunchy.

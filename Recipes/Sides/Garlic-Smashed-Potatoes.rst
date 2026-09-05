@@ -21,16 +21,13 @@ Directions
 ----------
 
 1. Set the Anova Sous Vide Precision Cooker to 190F.
-2. Combine all ingredients in a large zipper lock or vacuum seal bag.
-   Seal the bag using the water immersion technique or a vacuum sealer
-   on the moist setting. Place the bag in the water bath and set the
-   timer for 1 hour.
-3. When the timer goes off, remove the bag from the water bath. Remove
-   the potatoes from the bag and place on a foil-lined baking sheet.
-   Heat broiler to high.
-4. Use the flat side of a drinking glass or measuring cup to smash
-   potatoes into flat rounds about 1/4- to 1/2-inch thick. Drizzle
-   potatoes with some of the infused garlic oil from the cooking bag.
-5. Broil potatoes until golden brown and crisp, about 5 minutes. Flip
-   potatoes and broil until golden brown on second side, about 5
-   minutes. Serve.
+2. Combine all ingredients in a large zipper lock or vacuum seal bag; seal
+   using the water immersion technique or a vacuum sealer on the moist
+   setting. Place in the water bath and set the timer for 1 hour.
+3. When the timer goes off, remove the bag from the water bath, then pull the
+   potatoes out and place on a foil-lined baking sheet. Heat broiler to high.
+4. Smash potatoes into flat rounds about 1/4- to 1/2-inch thick with the flat
+   side of a drinking glass or measuring cup; drizzle with some of the infused
+   garlic oil from the cooking bag.
+5. Broil until golden brown and crisp, about 5 minutes. Flip and broil until
+   golden brown on the second side, about 5 minutes. Serve.

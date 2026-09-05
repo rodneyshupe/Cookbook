@@ -5,8 +5,6 @@ Jalapeno and Cilantro Sauce
 | Prep Time: 10 minutes | Yield: about 1 cup |
 +-----------------------+--------------------+
 
-Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/8713-jalape-o-and-cilantro-sauce>`__
-
 Ingredients
 -----------
 - 1 cup fresh cilantro leaves and stems, trimmed and chopped coarse
@@ -19,8 +17,9 @@ Ingredients
 
 Directions
 ----------
-- Process cilantro, jalapenos, mayonnaise, lime juice, garlic, and salt in
-  blender for 1 minute. Scrape down sides of blender jar and continue to
-  process until smooth, about 1 minute longer. With blender running, slowly
-  add oil until incorporated. Transfer to bowl.
 
+1. Process cilantro, jalapenos, mayonnaise, lime juice, garlic, and salt in
+   blender for 1 minute. Scrape down sides of the jar and continue until
+   smooth, about 1 minute longer.
+2. With the blender running, slowly add oil until incorporated, then transfer
+   to a bowl.

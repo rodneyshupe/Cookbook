@@ -22,24 +22,23 @@ Marinade
 Gyro
 ^^^^
 
-- 1/4 red onions sliced
-- 1 tomato, cored, seeded, and sliced
+- 1/4 red onion, sliced
 - diced cucumber
-- 4 large lettuce leafs
+- 1 tomato, cored, seeded, and sliced
+- 4 large lettuce leaves
 - 4 pitas
 - `Tzatziki Sauce <#tzatziki-sauce>`__
 
 Directions
 ----------
 
-1. Mix marinade ingredients in small bowl. Place chicken in ziplock bag and
-   pour the marinade over and make sure it is coated.  Seal and put in the
-   refrigerator over night.
+1. Mix marinade ingredients in a small bowl. Place chicken in a ziplock bag,
+   pour the marinade over, and coat well. Seal and refrigerate overnight.
 2. Preheat oven to 400F.
-3. Place Chicken on a parchment lined baking sheet. Bake for 10 minutes,
-   check if the chicken is cooked or 165F and if not flip and cook for an
-   additional 10 minutes. Let the chicken cool and then sslice.
-4. Turn the oven off and wrap pita in aluminum foil and place in hot oven
-   for 2 minutes to warm.
-5. Assemble the gyro, by adding onions, cucumber, tomato, letuce and Tzatziki Sauce
-   to pitas.
+3. Place chicken on a parchment lined baking sheet and bake for 10 minutes.
+   Check that the chicken is cooked to 165F; if not, flip and cook an
+   additional 10 minutes. Let cool, then slice.
+4. Turn the oven off, wrap pita in aluminum foil, and warm in the hot oven, 2
+   minutes.
+5. Assemble the gyro, adding onions, cucumber, tomato, lettuce, and Tzatziki
+   Sauce to pitas.

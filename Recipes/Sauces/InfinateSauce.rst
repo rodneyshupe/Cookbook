@@ -5,8 +5,6 @@ Infinate Sauce
 | Prep Time: 2 minutes | Cook Time: 10 minutes | Yield: 1/4 cup sauce |
 +----------------------+-----------------------+----------------------+
 
-Source: `America's Test Kitchen <https://www.americastestkitchen.com/articles/3923-infinity-sauce-the-brown-butter-soy-sauce-you-ll-put-on-everything>`__
-
 Ingredients
 -----------
 
@@ -17,12 +15,12 @@ Ingredients
 Directions
 ----------
 
-1. Melt butter in 10-inch skillet over medium-high heat. Reduce heat to
-   low and continue to cook, swirling skillet constantly, until butter is
-   dark golden brown and has nutty aroma, 6 to 8 minutes longer.
-2. Off heat, stir in soy sauce. Transfer sauce to heatproof bowl, making
-   sure to scrape out butter solids with rubber spatula.
-3. Stir in lemon juice and serve.
+1. Melt the butter in a 10-inch skillet over medium-high heat, then reduce to
+   low and cook, swirling the skillet constantly, until the butter is dark
+   golden brown and smells nutty, 6 to 8 minutes longer.
+2. Off heat, stir in the soy sauce, then transfer to a heatproof bowl,
+   scraping out the butter solids with a rubber spatula.
+3. Stir in the lemon juice and serve.
 
 Notes
 -----

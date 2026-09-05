@@ -5,8 +5,6 @@ Cubanos (Cuban Sandwiches)
 | Prep Time: 15 minutes | Cook Time: 10 minutes | Yield: 4 sandwiches |
 +-----------------------+-----------------------+---------------------+
 
-Source: `Cook's Country <https://www.cookscountry.com/recipes/2924-cuban-sandwiches>`__
-
 Ingredients
 -----------
 
@@ -24,15 +22,13 @@ Directions
 ----------
 
 1. Combine pickles and peppers in small bowl. Split rolls in half; spread top
-   half with mayonnaise and bottom half with mustard. Layer ham, roast pork,
-   pickle mixture, and cheese onto bottom half, finishing with cheese on top.
-   Set tops of rolls in place and press down to flatten sandwiches.
-2. Heat large nonstick skillet over medium-low heat for 4 minutes. Meanwhile,
-   heat large pot or Dutch oven over medium-low heat for 4 minutes. Brush
-   tops of sandwiches with melted butter and place in skillet buttered side
-   down. Brush bottoms of rolls with remaining butter and use preheated pot
-   to compress sandwiches for 15 to 20 seconds. Cook (keeping pot on
-   sandwiches but not pressing down) until first side is golden brown, 3 to
-   5 minutes. Remove pot, flip sandwiches over, replace pot on top of
-   sandwiches, and cook until golden brown, 3 to 4 minutes.
-   Serve immediately.
+   half with mayonnaise and bottom half with mustard, then layer ham, roast
+   pork, pickle mixture, and cheese onto bottom half, finishing with cheese on
+   top. Set tops in place and press down to flatten.
+2. Heat large nonstick skillet over medium-low heat for 4 minutes; meanwhile,
+   heat large pot or Dutch oven over medium-low heat for 4 minutes. Brush tops
+   of sandwiches with melted butter and place in skillet buttered side down,
+   then brush bottoms with remaining butter and use the preheated pot to
+   compress for 15 to 20 seconds. Keeping the pot on but not pressing, cook
+   until first side is golden brown, 3 to 5 minutes; remove pot, flip, replace
+   pot on top, and cook until golden brown, 3 to 4 minutes. Serve immediately.

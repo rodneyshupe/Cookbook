@@ -24,13 +24,12 @@ Directions
    Toss potatoes, melted butter, garlic, minced thyme, 1/2 teaspoon
    salt, and 1/4 teaspoon pepper together in bowl.
 2. Shingle potatoes into four 6 by 4-inch rectangular piles in parchment
-   paper-lined rimmed baking sheet. Roast potatoes until spotty brown
-   and just tender, 30 to 35 minutes, rotating sheet halfway through
-   roasting.
+   paper-lined rimmed baking sheet. Roast until spotty brown and just
+   tender, 30 to 35 minutes, rotating sheet halfway through.
 3. Pat cod dry with paper towels and season with salt and pepper. Lay 1
    cod fillet, skinned side down, on top of each potato pile and top
    evenly with butter pieces, thyme sprigs, and lemon slices. Bake until
    cod flakes apart when gently prodded with paring knife and registers
    140F, about 15 minutes.
-4. To serve, slide spatula underneath potatoes and cod and gently
-   transfer to individual plates.
+4. Slide spatula underneath potatoes and cod and gently transfer to
+   individual plates.

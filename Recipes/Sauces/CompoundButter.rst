@@ -14,11 +14,11 @@ Ingredients
 Directions
 ----------
 
-1. Once the butter is soft, blend in the sweet or savory ingredients.
-2. Put mixture in the middle of a large piece of saran or wax paper, roll
-   into a tube and twist ends to make tight.
-3. You could use right away, or refrigerate for up to a month or freeze for
-   up to 3 months
+1. Once the butter is soft, blend in the sweet or savoury ingredients. Put the
+   mixture in the middle of a large piece of saran or wax paper, roll into a
+   tube and twist the ends to make it tight.
+2. Use right away, or refrigerate for up to a month or freeze for up to 3
+   months.
 
 Variations
 ----------
@@ -48,7 +48,7 @@ Alton Brown's Herb Butter
 - 1/4 tablespoon sage, chopped
 - 1/4 tablespoon rosemary, chopped
 
-1. Blend ingredients in a food processor until smooth.
+1. Blend the ingredients in a food processor until smooth.
 
 Chipotle Butter
 ^^^^^^^^^^^^^^^
@@ -77,18 +77,20 @@ Cinnamon Maple Butter
 
 Jalapeno Lime Butter
 ^^^^^^^^^^^^^^^^^^^^
+
 - 1/2 jalapeno pepper, seeded and minced very finely
 - juice of 1/2 lime
 - 1/2 teaspoon salt
 
 Orange Honey Butter
 ^^^^^^^^^^^^^^^^^^^
+
 - 1 tablespoon honey
 - 2 teaspoons finely grated orange zest
 
 Gorgonzola Sage Butter
 ^^^^^^^^^^^^^^^^^^^^^^
+
 - 2 ounces crumbled Gorgonzola cheese
 - 1 tablespoon minced fresh sage
 - 1/2 teaspoon salt
-

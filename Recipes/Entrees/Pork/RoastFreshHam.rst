@@ -64,35 +64,32 @@ Apple Cider and Brown Sugar Glaze
 Directions
 ----------
 
-1. Carefully slice through skin and fat with serrated knife, making
-   1-inch diamond pattern. Be careful not to cut into meat.
-2. In large (about 16-quart) bucket or stockpot, dissolve salt and brown
-   sugar in 1 gallon hot tap water. Add garlic, bay leaves, black
-   pepper, and 1 gallon cold water. Submerge ham in brine and
-   refrigerate 8 to 24 hours.
-3. Set large disposable roasting pan on baking sheet for extra support;
-   place flat wire rack in roasting pan. Remove ham from brine; rinse
-   under cold water and dry thoroughly with paper towels. Place ham,
-   wide cut-side down, on rack. (If using sirloin end, place ham
-   skin-side up.) Let ham stand, uncovered, at room temperature 1 hour.
-4. Meanwhile, adjust oven rack to lowest position and heat oven to
-   500F. In work bowl of food processor fitted with steel blade,
-   process sage, parsley, garlic, salt, pepper, and oil until mixture
-   forms smooth paste, about 30 seconds. Rub all sides of ham with
-   paste.
-5. Roast ham at 500F for 20 minutes. While ham is roasting make the
-   glaze. Bring all glaze ingredients to boil in small nonreactive
-   saucepan over high heat; reduce heat to medium-low and simmer until
-   syrupy and reduced to about 1 1/3 cups, 5 to 7 minutes. (Glaze will
-   thicken as it cools between bastings; cook over medium heat about 1
-   minute, stirring once or twice, before using.)
-6. Reduce oven temperature to 350F and continue to roast, brushing ham
-   with glaze every 45 minutes, until center of ham registers 145F to
-   150F on instant-read thermometer (see illustration below for
-   thermometer placement), about 2 1/2 hours longer. Tent ham loosely
-   with foil and let stand until center of ham registers 155F to 160F
-   on thermometer, 30 to 40 minutes. Carve, following instructions
-   below, and serve.
+1. Slice carefully through skin and fat with a serrated knife, making a 1-inch
+   diamond pattern. Take care not to cut into the meat.
+2. In a large (about 16-quart) bucket or stockpot, dissolve salt and brown
+   sugar in 1 gallon hot tap water. Add garlic, bay leaves, black pepper, and
+   1 gallon cold water. Submerge ham in brine and refrigerate 8 to 24 hours.
+3. Set a large disposable roasting pan on a baking sheet for extra support,
+   then place a flat wire rack in the pan. Remove ham from brine, rinse under
+   cold water, and dry thoroughly with paper towels. Place ham, wide cut-side
+   down, on rack. (If using sirloin end, place ham skin-side up.) Let ham
+   stand, uncovered, at room temperature 1 hour.
+4. Meanwhile, adjust oven rack to lowest position and heat oven to 500F. In
+   the work bowl of a food processor fitted with steel blade, process sage,
+   parsley, garlic, salt, pepper, and oil until mixture forms a smooth paste,
+   about 30 seconds. Rub all sides of ham with paste.
+5. Roast ham at 500F for 20 minutes. While ham roasts, make the glaze. Bring
+   all glaze ingredients to a boil in a small nonreactive saucepan over high
+   heat, then reduce heat to medium-low and simmer until syrupy and reduced to
+   about 1 1/3 cups, 5 to 7 minutes. (Glaze will thicken as it cools between
+   bastings; cook over medium heat about 1 minute, stirring once or twice,
+   before using.)
+6. Reduce oven temperature to 350F and continue to roast, brushing ham with
+   glaze every 45 minutes, until center of ham registers 145F to 150F on an
+   instant-read thermometer (see illustration below for thermometer
+   placement), about 2 1/2 hours longer. Tent ham loosely with foil and let
+   stand until center of ham registers 155F to 160F on thermometer, 30 to 40
+   minutes. Carve, following instructions below, and serve.
 
 Variations
 ----------
@@ -106,5 +103,5 @@ Coca Cola Brine
 - 10 bay leaves
 - 1/2 cup whole black peppercorns, crushed
 
-1. Dissolve salt and coca-cola. Add garlic, bay leaves and black pepper.
+1. Dissolve salt and coca-cola. Add garlic, bay leaves, and black pepper.
 2. Use Apple Cider and Brown Sugar Glaze.

@@ -5,8 +5,6 @@ Asian Beef and Noodle Soup
 | Prep Time: 15 minutes | Cook Time: 15 minutes | Yield: 4 servings |
 +-----------------------+-----------------------+-------------------+
 
-Source: `Cook's Country <https://www.cookscountry.com/recipes/5833-asian-beef-and-noodle-soup>`__
-
 Ingredients
 -----------
 
@@ -24,11 +22,10 @@ Ingredients
 Directions
 ----------
 
-1. Bring broth, ginger, garlic, fish sauce, and five-spice powder to
-   boil in Dutch oven. Reduce heat to medium-low and simmer until
-   flavours meld, about 10 minutes.
-2. Add noodles to simmering broth and cook, stirring occasionally, until
-   nearly tender, about 2 minutes. Stir in beef and cabbage and simmer
-   until cabbage is wilted and beef is cooked through, about 2 minutes.
-   Add cilantro. Serve.
-
+1. Bring broth, ginger, garlic, fish sauce, and five-spice powder to a boil in
+   a Dutch oven; reduce heat to medium-low and simmer until flavours meld,
+   about 10 minutes.
+2. Add noodles to the simmering broth and cook, stirring occasionally, until
+   nearly tender, about 2 minutes. Stir in beef and cabbage and simmer until
+   cabbage is wilted and beef is cooked through, about 2 minutes. Add cilantro
+   and serve.

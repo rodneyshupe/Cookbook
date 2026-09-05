@@ -5,8 +5,6 @@ Quick Sticky Soy Chicken Meatballs
 | Prep Time: 10 minutes | Cook Time: 30 minutes | Yield: 4 |
 +-----------------------+-----------------------+----------+
 
-Source: `Mary Berg <https://more.ctv.ca/food/recipes/2024/the-good-stuff/quick-sticky-soy-chicken-meatballs-2.html>`__
-
 Ingredients
 -----------
 
@@ -15,7 +13,7 @@ Chicken Balls
 
 - 1 pound (450 g) ground chicken
 - 2 green onions finely chopped
-- 2 garlic gloves finely minced
+- 2 garlic cloves finely minced
 - 1 tablespoon finely grated ginger
 - 1 tablespoon soy sauce
 - 2 teaspoons sesame oil
@@ -25,7 +23,7 @@ Chicken Balls
 Sauce
 ^^^^^
 
-- 1/4 soy sauce
+- 1/4 cup soy sauce
 - 1 tablespoon rice wine vinegar
 - 1 clove garlic
 - 1 tablespoon finely grated ginger
@@ -36,24 +34,21 @@ Sauce
 Directions
 ----------
 
-1. Heat your oven to 400F and line a sheet pan with parchment paper or
-   lightly grease with non-stick cooking spray.
-2. Add the ground chicken, green onions, garlic, ginger, soy sauce,
-   sesame oil, panko, and egg to a large bowl. Using two forks, stir and
-   toss together until well combined.
-3. Scoop 1 tablespoon portions of the chicken mixture onto the prepared
-   sheet pan and roll into small meatballs. If the mixture is sticking to
-   your hands, lightly dampen your hands with a little water.
-4. Bake the meatballs for 12 to 14 minutes or until cooked through and
-   lightly golden brown. If desired, you can broil the meatballs on high
-   for 1 minute to get a little extra colour on the top.
-5. Meanwhile, prepare the sauce by combining the soy sauce, rice wine
-   vinegar, garlic, ginger, and pepper flakes in a small pan or pot.
-   Place over medium heat and bring to a simmer. Cook for 5 minutes until
-   slightly reduced. Add in the hoisin and honey and continue to simmer
-   for 2 to 3 minutes until thickened.
-6. Serve the meatballs with the sauce spooned over top with rice, thinly
-   sliced veggies, and cilantro or mint.
+1. Heat the oven to 400F and line a sheet pan with parchment paper or lightly
+   grease with non-stick cooking spray.
+2. Add the ground chicken, green onions, garlic, ginger, soy sauce, sesame
+   oil, panko, and egg to a large bowl. Using two forks, stir and toss
+   together until well combined.
+3. Scoop 1 tablespoon portions onto the prepared sheet pan and roll into small
+   meatballs, dampening your hands with a little water if the mixture sticks.
+4. Bake until cooked through and lightly golden brown, 12 to 14 minutes. For a
+   little extra colour on top, broil on high for 1 minute.
+5. Meanwhile, combine the soy sauce, rice wine vinegar, garlic, ginger, and
+   pepper flakes in a small pan or pot. Set over medium heat and bring to a
+   simmer, then cook until slightly reduced, 5 minutes. Stir in the hoisin and
+   honey and simmer until thickened, 2 to 3 minutes.
+6. Spoon the sauce over the meatballs and serve with rice, thinly sliced
+   veggies, and cilantro or mint.
 
 Variations
 ----------

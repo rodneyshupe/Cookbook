@@ -18,5 +18,5 @@ Ingredients
 Directions
 ----------
 
-1. Combine all ingredients in a blender and puree for 30 seconds.
-
+1. Combine all ingredients in a blender and puree until smooth, about 30
+   seconds.

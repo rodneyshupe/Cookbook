@@ -5,8 +5,6 @@ Brown Butter Blondies
 | Prep Time: 20 minutes | Total Time: 1 hour 40 minutes | Yield: 12 |
 +-----------------------+-------------------------------+-----------+
 
-Source: `Tastemade <https://www.tastemade.com/shows/marys-kitchen-crush/marys-kitchen-crush-s-1-e25/recipes/brown-butter-blondies>`__
-
 Ingredients
 -----------
 
@@ -25,21 +23,17 @@ Ingredients
 Directions
 ----------
 
-1. Preheat oven to 350F (176C). Spray a 9x13-inch (23x33cm) baking pan with
+1. Preheat oven to 350F (176C) and spray a 9x13-inch (23x33cm) baking pan with
    cooking spray.
-2. Melt butter in a small saucepan over medium heat, swirling pan
-   occasionally. Once the butter foams, stir occasionally. Continue to cook
-   until bubbles appear on the surface and the butter appears golden brown
-   when stirred.
-3. Immediately transfer to a large, heat-proof bowl and set aside to cool
-   for 10 minutes.
-4. Whisk together flour, baking powder and salt in a medium bowl. Stir in
+2. Melt butter in a small saucepan over medium heat, swirling occasionally;
+   once it foams, stir occasionally and keep cooking until bubbles appear on
+   the surface and the butter is golden brown when stirred. Transfer
+   immediately to a large heat-proof bowl and set aside to cool, 10 minutes.
+3. Whisk together flour, baking powder and salt in a medium bowl, then stir in
    chocolate, walnuts and marshmallows.
-5. Beat sugars into the cooled butter with a hand mixer until well combined
-   in a large bowl.
-6. Add eggs, one at a time along with vanilla into sugar mixture.
-7. Stir in the flour mixture until combined.
-8. Spoon the batter into the prepared baking pan and spread evenly into
-   pan.
-9. Bake until the edges are golden and the middle is set, about 30 to 35
-   minutes. Cool and cut to serve.
+4. Beat the sugars into the cooled butter with a hand mixer in a large bowl
+   until well combined, then add eggs one at a time along with the vanilla.
+   Stir in the flour mixture until combined.
+5. Spoon the batter into the prepared pan and spread evenly, then bake until
+   the edges are golden and the middle is set, 30 to 35 minutes. Cool and cut
+   to serve.

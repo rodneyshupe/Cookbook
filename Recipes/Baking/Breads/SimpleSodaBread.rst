@@ -5,8 +5,6 @@ Simple Soda Bread
 | Prep Time: 10 minutes | Cook Time: 30 minutes | Yield: 4-6 servings |
 +-----------------------+-----------------------+---------------------+
 
-Source: `Budget Bytes <https://www.budgetbytes.com/easy-soda-bread/>`__
-
 Ingredients
 -----------
 
@@ -18,19 +16,17 @@ Ingredients
 Directions
 ----------
 
-1. Set a rack in the middle of your oven and preheat it to 450F. Mix the
-   flour, baking soda, and salt in a large bowl until they are fully
-   incorporated.
-2. Form a well in the center of the flour mixture and fill the well with
-   the buttermilk.
-3. Use a fork to incorporate the flour into the buttermilk little by little
-   until a thick batter forms. Use your hands to incorporate the final bits
-   of flour and gently shape the batter into a dough. Do not overwork the
-   dough.
-4. Transfer the dough to a floured work surface and gently shape it into a
-   round 6 inches in diameter and about 1 1/2 inches thick.
-5. Place the dough in a Dutch oven or cast iron skillet. Use a sharp knife
-   to cut a large x into the top of the dough.
-6. Bake for 10 minutes at 450F. Then lower the oven temperature to 400F
-   and continue baking until the bread is golden brown and crusty on the
-   outside, about 20 minutes. Transfer to a rack and cool.
+1. Set a rack in the middle of the oven and preheat to 450F. Mix the flour,
+   baking soda, and salt in a large bowl until fully incorporated.
+2. Form a well in the center of the flour mixture and fill it with the
+   buttermilk.
+3. Using a fork, work the flour into the buttermilk little by little until a
+   thick batter forms; then bring in the final bits of flour by hand and
+   gently shape into a dough. Do not overwork.
+4. Transfer to a floured work surface and gently shape into a round 6 inches
+   in diameter and about 1 1/2 inches thick.
+5. Set the dough in a Dutch oven or cast iron skillet, then cut a large x into
+   the top with a sharp knife.
+6. Bake at 450F for 10 minutes; then lower the oven to 400F and continue
+   baking until golden brown and crusty on the outside, about 20 minutes.
+   Transfer to a rack and cool.

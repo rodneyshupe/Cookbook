@@ -5,8 +5,6 @@ Simple Cornbread Recipe
 | Prep Time: 10 minutes | Total Time: 1 hour | Yield: 9 servings |
 +-----------------------+--------------------+-------------------+
 
-Source: `Sally <https://sallysbakingaddiction.com/my-favorite-cornbread/>`__
-
 Ingredients
 -----------
 
@@ -24,20 +22,19 @@ Ingredients
 Directions
 ----------
 
-1. Preheat oven to 400F (204C). Grease and lightly flour an 8 or 9-inch
-   square baking pan. Set aside.
-2. Whisk the cornmeal, flour, baking powder, baking soda, and salt together
-   in a large bowl. Set aside. In a medium bowl, whisk the melted butter,
-   brown sugar, and honey together until completely smooth and thick. Then,
-   whisk in the egg until combined. Finally, whisk in the buttermilk. Pour
-   the wet ingredients into the dry ingredients and whisk until combined.
-   Avoid over-mixing.
-3. Pour batter into prepared baking pan. Bake for 20 minutes or until
-   golden brown on top and the center is cooked through. Use a toothpick to
-   test. Edges should be crispy at this point. Allow to slightly cool
-   before slicing and serving. Serve cornbread with butter, honey, jam, or
-   whatever you like.
-4. Wrap leftovers up tightly and store at room temperature for up to 1 week.
+1. Preheat oven to 400F (204C). Grease and lightly flour an 8 or 9-inch square
+   baking pan; set aside.
+2. Whisk the cornmeal, flour, baking powder, baking soda, and salt together in
+   a large bowl and set aside. In a medium bowl, whisk the melted butter,
+   brown sugar, and honey together until completely smooth and thick, then
+   whisk in the egg until combined, and finally whisk in the buttermilk. Pour
+   the wet ingredients into the dry and whisk just until combined; avoid
+   over-mixing.
+3. Pour the batter into the prepared pan and bake until golden brown on top
+   and cooked through in the centre, about 20 minutes. Test with a toothpick;
+   the edges should be crispy. Cool slightly before slicing. Serve with
+   butter, honey, jam, or whatever you like.
+4. Wrap leftovers tightly and store at room temperature for up to 1 week.
 
 Notes
 -----
@@ -63,4 +60,3 @@ Notes
     to 350F (177C) and continue baking for another 16-17 minutes. The total
     time these muffins should be in the oven is around 21-23 minutes. Use a
     toothpick to test. If it comes out clean, the muffins are done.
-

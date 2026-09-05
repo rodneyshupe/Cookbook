@@ -19,10 +19,10 @@ Directions
 ----------
 
 1. Adjust oven rack to middle position and heat oven to 350F.
-2. Spoon 1/2 teaspoon jelly into each filo cup. Place 1 piece of Brie in
-   each cup and sprinkle with 1/4 teaspoon almonds. Place phyllo cups on
-   parchment-lined baking sheet. Bake until cheese is melted and jelly
-   is bubbly, about 15 minutes. Cool slightly and serve warm.
+2. Spoon 1/2 teaspoon jelly into each phyllo cup. Set 1 piece of Brie in
+   each and sprinkle with 1/4 teaspoon almonds. Arrange the cups on a
+   parchment-lined baking sheet. Bake until the cheese is melted and the
+   jelly is bubbly, about 15 minutes. Cool slightly and serve warm.
 
 Make Ahead
 ----------
@@ -37,11 +37,10 @@ If you can not find frozen phyllo cups you can make them as follows
 using 6 frozen phyllo sheets and 1/8 cup melted butter.
 
 1. Lightly grease 24 mini muffin or tart tins; set aside.
-2. Place 1 sheet of phyllo on work surface. Brush sheet lightly with
-   butter. Top with second sheet; brush with butter. Top with third
-   sheet; brush with butter. Cut lengthwise into 4 strips and crosswise
-   into 6 strips to make 24 squares.
-3. Press each square into prepared cup. Bake in centre of 400F oven for
-   about 5 minutes or until golden. Let cool in pan on rack. Repeat with
+2. Place 1 sheet of phyllo on work surface. Brush lightly with butter.
+   Top with a second sheet and brush with butter. Top with a third sheet
+   and brush with butter. Cut lengthwise into 4 strips and crosswise into
+   6 strips to make 24 squares.
+3. Press each square into a prepared cup. Bake in centre of 400F oven
+   until golden, about 5 minutes. Let cool in pan on rack. Repeat with
    remaining phyllo.
-

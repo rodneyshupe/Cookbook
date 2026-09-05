@@ -5,8 +5,6 @@ Chicken and Sausage Gumbo
 | Prep Time: 20 minutes | Cook Time: 1 hour 45 minutes | Yield: 6 servings |
 +-----------------------+------------------------------+-------------------+
 
-Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/9384-chicken-and-sausage-gumbo#>`__
-
 Ingredients
 -----------
 
@@ -31,29 +29,28 @@ Ingredients
 Directions
 ----------
 
-1. Adjust oven rack to middle position and heat oven to 425F.
-   Place flour in 12-inch skillet and bake, stirring occasionally, until
-   colour of ground cinnamon, 40 to 55 minutes. (As flour approaches
-   desired colour, it will take on very nutty aroma that will smell
-   faintly of burnt popcorn, and it will need to be stirred more
-   frequently.) Transfer flour to medium bowl and let cool. (Toasted
-   flour can be stored in airtight container in cool, dark place for up
+1. Adjust the oven rack to the middle position and heat the oven to 425F.
+   Place the flour in a 12-inch skillet and bake, stirring occasionally, until
+   the colour of ground cinnamon, 40 to 55 minutes. As the flour approaches
+   the desired colour it takes on a nutty aroma faintly of burnt popcorn and
+   needs stirring more frequently. Transfer to a medium bowl and let cool.
+   (Toasted flour keeps in an airtight container in a cool, dark place for up
    to 6 months.)
-2. Heat oil in Dutch oven over medium heat until shimmering. Add onion,
-   bell pepper, and celery and cook, stirring frequently, until
-   softened, 5 to 7 minutes. Stir in thyme, garlic, paprika, bay leaves,
+2. Heat the oil in a Dutch oven over medium heat until shimmering. Add the
+   onion, bell pepper, and celery and cook, stirring frequently, until
+   softened, 5 to 7 minutes. Stir in the thyme, garlic, paprika, bay leaves,
    cayenne, 1/4 teaspoon salt, and 1/4 teaspoon pepper and cook until
-   fragrant, about 1 minute. Stir in 2 cups broth. Add chicken in single
-   layer (chicken will not be completely submerged in liquid) and bring
-   to simmer. Reduce heat to medium-low, cover, and simmer until chicken
-   is fork-tender, 15 to 17 minutes. Transfer chicken to plate.
-3. Slowly whisk remaining 2 cups broth in small increments into toasted
-   flour until thick, smooth, batter-like paste forms. Increase heat to
-   medium and slowly whisk paste into gumbo, making sure each addition
-   is incorporated before adding next. Stir in andouille. Simmer,
-   uncovered, until gumbo thickens slightly, 20 to 25 minutes.
-4. Once cool enough to handle, shred chicken into bite-size pieces. Stir
-   chicken and scallions into gumbo. Remove pot from heat, stir in
-   vinegar, and season with salt to taste. Discard bay leaves. Serve,
-   passing hot sauce separately. (Gumbo can be refrigerated in airtight
+   fragrant, about 1 minute. Stir in 2 cups broth, add the chicken in a single
+   layer, and bring to a simmer; the chicken will not be completely submerged.
+   Reduce the heat to medium-low, cover, and simmer until the chicken is
+   fork-tender, 15 to 17 minutes. Transfer the chicken to a plate.
+3. Slowly whisk the remaining 2 cups broth in small increments into the
+   toasted flour until a thick, smooth, batter-like paste forms. Increase the
+   heat to medium and slowly whisk the paste into the gumbo, making sure each
+   addition is incorporated before adding the next. Stir in the andouille and
+   simmer, uncovered, until the gumbo thickens slightly, 20 to 25 minutes.
+4. Once cool enough to handle, shred the chicken into bite-size pieces and
+   stir it and the scallions into the gumbo. Remove the pot from the heat,
+   stir in the vinegar, and season with salt to taste. Discard the bay leaves
+   and serve, passing hot sauce separately. (Gumbo keeps in an airtight
    container for up to 3 days.)

@@ -5,8 +5,6 @@ Red Lentil Soup with North African Spices
 | Prep Time: 30 minutes | Cook Time: 1 hour | Yield: 4-6 |
 +-----------------------+-------------------+------------+
 
-Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/8661-red-lentil-soup-with-north-african-spices>`__
-
 Ingredients
 -----------
 
@@ -31,20 +29,19 @@ Ingredients
 Directions
 ----------
 
-1. Melt 2 tablespoons butter in large saucepan over medium heat. Add
-   onion and 1 teaspoon salt and cook, stirring occasionally, until
-   softened but not browned, about 5 minutes. Add coriander, cumin,
-   ginger, cinnamon, cayenne, and 1/4 teaspoon pepper and cook until
-   fragrant, about 2 minutes. Stir in tomato paste and garlic and cook
-   for 1 minute. Stir in broth, water, and lentils and bring to simmer.
-   Simmer vigorously, stirring occasionally, until lentils are soft and
-   about half are broken down, about 15 minutes.
-2. Whisk soup vigorously until it is coarsely pureed, about 30 seconds.
-   Stir in lemon juice and season with salt and extra lemon juice to
-   taste. Cover and keep warm. (Soup can be refrigerated for up to 3
-   days. Thin soup with water, if desired, when reheating.)
-3. Melt remaining 2 tablespoons butter in small skillet. Remove from
-   heat and stir in mint and paprika. Ladle soup into individual bowls,
-   drizzle each portion with 1 teaspoon spiced butter, sprinkle with
+1. Melt 2 tablespoons butter in a large saucepan over medium heat. Add the
+   onion and 1 teaspoon salt and cook, stirring occasionally, until softened
+   but not browned, about 5 minutes. Add the coriander, cumin, ginger,
+   cinnamon, cayenne, and 1/4 teaspoon pepper and cook until fragrant, about 2
+   minutes. Stir in the tomato paste and garlic and cook for 1 minute. Stir in
+   the broth, water, and lentils and bring to a simmer. Simmer vigorously,
+   stirring occasionally, until the lentils are soft and about half are broken
+   down, about 15 minutes.
+2. Whisk the soup vigorously until coarsely pureed, about 30 seconds. Stir in
+   the lemon juice and season with salt and extra lemon juice to taste. Cover
+   and keep warm. (Soup can be refrigerated for up to 3 days. Thin the soup
+   with water, if desired, when reheating.)
+3. Melt the remaining 2 tablespoons butter in a small skillet. Remove from
+   heat and stir in the mint and paprika. Ladle the soup into individual
+   bowls, drizzle each portion with 1 teaspoon spiced butter, sprinkle with
    cilantro, and serve.
-

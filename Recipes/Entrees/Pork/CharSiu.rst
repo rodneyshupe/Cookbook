@@ -5,12 +5,9 @@ Char Siu
 | Total Time: 25 minutes | Yield: 12 servings |
 +------------------------+--------------------+
 
-Source: `Seonkyoung Longest <https://seonkyounglongest.com/best-char-siu/>`__
-
-This can be enjoyed by it self, or on top of warm bowl of rice, ramen
-noodle soup, or in between `steamed buns (bao) <#bao-buns>`__. Leftovers
-would be perfect to make fried rice or fried noodles! It also can be a
-protein for your salad.
+Enjoy it by itself, over a warm bowl of rice, in ramen noodle soup, or
+tucked into `steamed buns (bao) <#bao-buns>`__. Leftovers are perfect for
+fried rice or fried noodles, and it makes a great salad protein too.
 
 Ingredients
 -----------
@@ -29,21 +26,20 @@ Ingredients
 Directions
 ----------
 
-1. Cut the pork loin in half lengthwise and place in a baking dish or
-   plastic bag. Combine all ingredients for marinade and whisk until
-   honey is completely dissolved. Pour the 3/4 of the marinade into the
-   pork and move the pork around so it will sit in marinade evenly, reserve
-   remaining for glaze. Let it marinade at least 6 hours to 48 hours.
-2. Preheat the oven to high broil (500F to 550F) for 10 to 15 minutes.
-   Place a parchment paper or aluminum foil and a rack on a large baking
-   sheet. Place the marinated pork on top of the prepared rack. Broil
-   the pork on the lowest rack of the oven for 10 to 12 minutes.
-3. Meanwhile combine remaining marinade and honey to make a glaze. Brush
-   the glaze on the pork and flip it over. Glaze the other side too and
-   broil another 10 to 12 minutes. Brush the glaze once again and place
-   the pork on the highest rack of the oven (closest to the broil) and let
-   it caramelise for 2 to 3 minutes or until the inner temperature of the
-   pork reaches to 145F.
-4. Remove from the oven and let it rest for 3 minutes. Brush with only
-   honey for the extra shiny.
+1. Cut the pork loin in half lengthwise and place in a baking dish or plastic
+   bag. Combine all ingredients for marinade and whisk until honey is
+   completely dissolved. Pour 3/4 of the marinade over the pork and move it
+   around so it sits evenly, reserving the rest for glaze. Marinate at least 6
+   hours to 48 hours.
+2. Preheat the oven to high broil (500F to 550F) for 10 to 15 minutes. Line a
+   large baking sheet with parchment paper or aluminum foil and set a rack on
+   top. Place the marinated pork on the rack and broil on the lowest rack of
+   the oven for 10 to 12 minutes.
+3. Meanwhile, combine the remaining marinade and honey to make a glaze. Brush
+   the glaze on the pork, flip it over, and glaze the other side too, then
+   broil another 10 to 12 minutes. Brush the glaze once more, move the pork to
+   the highest rack (closest to the broiler), and caramelise, 2 to 3 minutes,
+   until the inner temperature reaches 145F.
+4. Remove from the oven and rest, 3 minutes. Brush with only honey for extra
+   shine.
 5. Slice as you desire and enjoy.

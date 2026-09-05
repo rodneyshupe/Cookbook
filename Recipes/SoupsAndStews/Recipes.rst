@@ -298,10 +298,6 @@ Soups and Stews
 
 .. include:: ../../includes/recipePageBreak.rst
 
-.. include:: StraciatellaSoupWithButternutSquashRavioli.rst
-
-.. include:: ../../includes/recipePageBreak.rst
-
 .. include:: TuscanMinestraSoup.rst
 
 .. include:: ../../includes/recipePageBreak.rst

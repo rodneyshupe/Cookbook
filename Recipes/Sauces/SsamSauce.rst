@@ -20,5 +20,5 @@ Directions
 
 Notes
 -----
-Ssam sauce will keep in the fridge for weeks.
 
+Ssam sauce will keep in the fridge for weeks.

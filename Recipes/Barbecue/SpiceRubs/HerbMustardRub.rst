@@ -25,4 +25,3 @@ Directions
 1. Combine the parsley or basil, rosemary, lemon zest, garlic,
    peppercorns, mustard seeds, olive oil and salt in a small food
    processor (or mortar and pestle) and process to a smooth paste.
-

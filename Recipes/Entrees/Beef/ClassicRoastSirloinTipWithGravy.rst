@@ -5,8 +5,6 @@ Classic Roast Sirloin Tip with Gravy
 | Prep Time: 20 minutes | Cook Time: 1 hours 45 minutes | Yield: 8 servings |
 +-----------------------+-------------------------------+-------------------+
 
-Source: `Canadian Living <https://www.canadianliving.com/food/lunch-and-dinner/recipe/classic-roast-beef-with-gravy>`__
-
 Ingredients
 -----------
 
@@ -25,16 +23,18 @@ Ingredients
 Directions
 ----------
 
-1. Rub beef all over with oil, garlic, thyme, salt and half of the pepper.
-   Place on greased rack in roasting pan. Roast in 450F oven until beginning
-   to brown, about 19 minutes. Reduce heat to 275F and roast, basting
-   occasionally, until instant-read thermometer inserted in centre reads
-   140F for medium-rare, about 1 hour. Transfer to cutting board; tent with
-   foil. Let rest for 15 minutes before thinly slicing across the grain.
-2. While roast is resting, drain all but 2 tablespoons fat from pan. Sprinkle in
-   flour; cook over medium-high heat, stirring, until golden, about 3 minutes.
-   Stir in wine, scraping up browned bits with wooden spoon. Whisk in broth
-   and remaining pepper; bring to boil over medium heat. Cook, whisking
-   occasionally, until thickened, about 5 minutes. Strain through fine-mesh
-   sieve; stir in parsley, mustard and any accumulated juices from cutting
-   board. Serve with beef.
+1. Rub the beef all over with the oil, garlic, thyme, salt and half of the
+   pepper. Set it on a greased rack in a roasting pan. Roast in a 450F oven
+   until beginning to brown, about 19 minutes. Reduce the heat to 275F and
+   keep roasting, basting occasionally, until an instant-read thermometer in
+   the centre reads 140F for medium-rare, about 1 hour. Transfer to a cutting
+   board and tent with foil. Rest 15 minutes, then slice thinly across the
+   grain.
+2. While the roast rests, drain all but 2 tablespoons of fat from the pan.
+   Sprinkle in the flour and cook over medium-high heat, stirring, until
+   golden, about 3 minutes. Stir in the wine, scraping up the browned bits
+   with a wooden spoon. Whisk in the broth and remaining pepper, then bring to
+   a boil over medium heat. Cook, whisking occasionally, until thickened,
+   about 5 minutes. Strain through a fine-mesh sieve, then stir in the
+   parsley, mustard and any juices from the cutting board. Serve with the
+   beef.

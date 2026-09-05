@@ -9,20 +9,19 @@ Ingredients
 -----------
 
 - 2 pounds sweet potatoes
-- 2 tablespoon butter
+- 1-2 limes, juiced
+- 1 tablespoon ginger, minced
+- 4 tablespoons honey
+- 2 tablespoons butter
 - sea salt
 - fresh cracked pepper
-- 2 tablespoon flat leaf parsley, chopped
-- 4 tablespoon honey
-- 1-2 lime, juiced
-- 1 tablespoon ginger, minced
+- 2 tablespoons flat leaf parsley, chopped
 
 Directions
 ----------
 
-1. Preheat oven to 375F. Place sweet potatoes on a baking sheet. Cook
-   until fork tender. Split the potatoes with a knife and remove the
-   "meat". Place the meat in a bowl. Add lime juice, ginger, honey,
-   butter, and seasoning, blend.
-2. Place in the oven for 10 minutes. Garnish with chopped parsley.
-
+1. Preheat oven to 375F. Place sweet potatoes on a baking sheet and cook until
+   fork tender. Split the potatoes with a knife and remove the "meat"; place
+   it in a bowl. Add lime juice, ginger, honey, butter, and seasoning, then
+   blend.
+2. Return to the oven for 10 minutes. Garnish with chopped parsley.

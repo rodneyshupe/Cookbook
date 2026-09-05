@@ -21,7 +21,7 @@ Ingredients
 Directions
 ----------
 
-1. In a medium bowl, whisk all of the ingredients together until smooth.
-   Transfer to a jar with a tight lid and refrigerate until ready to use, up
-   to 1 week.  Brush on chicken while grilling, or use with fish or other
-   meat, or as a salad dressing or dip for fries.
+1. Whisk all the ingredients together in a medium bowl until smooth. Transfer
+   to a jar with a tight lid and refrigerate until ready to use, up to 1 week.
+   Brush on chicken while grilling, or use with fish or other meat, or as a
+   salad dressing or dip for fries.

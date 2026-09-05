@@ -18,21 +18,21 @@ Ingredients
 
 Directions
 ----------
-1. Bring large sauce pan (or dutch oven) to temperature over medium high heat.
-   Add ground beef and italian sausage, using a wooden spoon break it apart
-   until meat is in small pieces. Once meat is browned, remove using slotted
+
+1. Bring a large sauce pan (or dutch oven) to temperature over medium high
+   heat. Add ground beef and italian sausage, breaking apart with a wooden
+   spoon until the meat is in small pieces. Remove browned meat with a slotted
    spoon and set aside.
-2. Remove all but 1 tablespoon of fat from the pan and add onion.  Cook until
-   softened (2 - 3 minutes) then add garlic, oregano and red pepper flakes,
-   cook for 30 seconds.
-3. Add red wine to pan and scrape up any brown bits from the bottom of the pan.
-4. Add crushed tomatoes and bring to a boil. Reduce heat and let simmer for at
+2. Remove all but 1 tablespoon of fat from the pan and add onion. Cook until
+   softened, 2 - 3 minutes, then add garlic, oregano and red pepper flakes
+   and cook for 30 seconds. Add red wine and scrape up any brown bits from the
+   bottom of the pan.
+3. Add crushed tomatoes and bring to a boil. Reduce heat and simmer for at
    least 30 minutes but preferably 1 hour.
-5. Serve over freshly cooked pasta.
+4. Serve over freshly cooked pasta.
 
 Notes
 -----
-* Recipe can be doubled.  Increase simmer time to at least 1 hour but preferably
+* Recipe can be doubled. Increase simmer time to at least 1 hour but preferably
   90+ minutes.
 * Leftovers can be refrigerated for 4-5 days or frozen for up to 3 months.
-

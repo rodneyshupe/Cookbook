@@ -5,8 +5,6 @@ One Pot Tomato Orzo
 | Prep Time: 10 minutes | Cook Time: 20 minutes | Yield: 4 servings |
 +-----------------------+-----------------------+-------------------+
 
-Source: `Mary Berg <https://more.ctv.ca/food/recipes/2024/the-good-stuff/one-pot-tomato-orzo.html>`__
-
 Ingredients
 -----------
 - 2 tablespoons olive oil
@@ -26,14 +24,14 @@ Ingredients
 Directions
 ----------
 
-1. Place a Dutch oven or a pot paired with a tight-fitting lid over medium
-   heat. Add the oil and cherry tomatoes, season with salt and pepper, and
-   cook down until jammy, about five to six minutes.
-2. Add in the garlic and cook for one minute to soften. Stir through the
-   tomato paste, Italian seasoning, crushed red pepper flakes, orzo and
-   toast for one to two minutes.
-3. Add in the broth, turn up the heat to medium-high, and bring to a boil.
-   Once boiling, cover the pot with a lid and cook for eight to 10 minutes,
-   stirring occasionally, or until the orzo is tender.
-4. Stir through the Parmigiano Reggiano, chickpeas, spinach, and any fresh
-   herbs. Season to taste with more salt and pepper, if needed, and serve.
+1. Set a Dutch oven or a pot with a tight-fitting lid over medium heat. Add
+   the oil and cherry tomatoes, season with salt and pepper, and cook down
+   until jammy, about five to six minutes.
+2. Add the garlic and cook to soften, one minute. Stir in the tomato paste,
+   Italian seasoning, crushed red pepper flakes, and orzo, and toast one to
+   two minutes.
+3. Add the broth, turn the heat up to medium-high, and bring to a boil. Cover
+   and cook until the orzo is tender, eight to 10 minutes, stirring
+   occasionally.
+4. Stir in the Parmigiano Reggiano, chickpeas, spinach, and any fresh herbs.
+   Season to taste with more salt and pepper if needed, and serve.

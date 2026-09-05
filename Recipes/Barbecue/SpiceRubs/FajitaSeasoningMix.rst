@@ -16,4 +16,3 @@ Ingredients
 - 1 1/2 tablespoon smoked paprika
 - 1 1/2 tablespoon chipotle chili powder
 - 1 1/2 tablespoon kosher salt
-

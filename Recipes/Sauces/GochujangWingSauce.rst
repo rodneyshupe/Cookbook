@@ -17,6 +17,7 @@ Ingredients
 
 Directions
 ----------
-1. In a small sauce pot, combine all the ingredients and cook down for
-   1-2 minutes.
-2. Let it cool and then pour into a bottle to save for your chicken wings.
+
+1. Combine all the ingredients in a small sauce pot and cook down until
+   thickened, 1-2 minutes.
+2. Let it cool, then pour into a bottle to save for your chicken wings.

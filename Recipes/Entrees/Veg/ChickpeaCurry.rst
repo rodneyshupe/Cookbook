@@ -5,8 +5,6 @@ Chickpea Curry
 | Total Time: 30 minutes | Yield: 4 servings |
 +------------------------+-------------------+
 
-Source: `Cook's Country <https://www.cookscountry.com/recipes/11291-chickpea-curry>`__
-
 Ingredients
 -----------
 
@@ -25,11 +23,11 @@ Ingredients
 Directions
 ----------
 
-1. Heat oil in Dutch oven over medium-high heat until shimmering. Add bell
-   peppers, 1 1/2 teaspoons salt, and 1/2 teaspoon pepper and cook until
-   bell peppers are beginning to brown, 5 to 7 minutes. Add jalapeno,
-   garlic, ginger, and curry powder and cook until fragrant, about 30 seconds.
+1. Heat oil in Dutch oven over medium-high heat until shimmering, then add
+   bell peppers, 1 1/2 teaspoons salt, and 1/2 teaspoon pepper and cook until
+   beginning to brown, 5 to 7 minutes; add jalapeno, garlic, ginger, and curry
+   powder and cook until fragrant, about 30 seconds.
 2. Add chickpeas, tomatoes and their juice, and coconut milk and bring to
-   boil. Cover, reduce heat to medium-low, and simmer until bell peppers
+   boil, then cover, reduce heat to medium-low, and simmer until bell peppers
    are tender and flavours have melded, about 20 minutes, stirring
    occasionally. Serve with rice and chopped fresh cilantro.

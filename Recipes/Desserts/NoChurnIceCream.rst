@@ -5,11 +5,6 @@ No-Churn Ice Cream
 | Prep Time: 5 hours | Total Time: 5 hours 15 minutes | Yield: 12 servings (6 cups total) |
 +--------------------+--------------------------------+-----------------------------------+
 
-Source: `Cook's Country <https://www.americastestkitchen.com/cookscountry/recipes/11749-vanilla-no-churn-ice-cream>`__
-
-No special equipment is needed to make this ultra-creamy ice cream. Eat
-it plain or add some of our fun suggested stir-ins.
-
 Ingredients
 -----------
 
@@ -17,22 +12,21 @@ Ingredients
 - 1 cup sweetened condensed milk
 - 1/4 cup whole milk
 - 1/4 cup liquid sugar (light corn syrup or agave syrup)
-- 1 tablespoon pure vanilla extract
 - 2 tablespoons sugar
+- 1 tablespoon pure vanilla extract
 - 1/4 teaspoon fine salt
 
 Directions
 ----------
 
-1. Process cream in blender until soft peaks form, 20 to 30 seconds.
-   Scrape down sides of blender jar and continue to process until
-   stiff peaks form, about 10 seconds longer. Using rubber spatula,
-   stir in condensed milk, whole milk, corn syrup, sugar, vanilla,
-   and salt. Process until thoroughly combined, about 20 seconds,
-   scraping down sides of blender jar as needed.
-2. Pour cream mixture into 8 1/2 by 4 1/2-inch loaf pan. Press
-   plastic wrap flush against surface of cream mixture. Freeze until
-   firm, at least 6 hours. Serve.
+1. Process cream in blender until soft peaks form, 20 to 30 seconds; scrape
+   down sides of blender jar and continue to process until stiff peaks form,
+   about 10 seconds longer. Using rubber spatula, stir in condensed milk,
+   whole milk, corn syrup, sugar, vanilla, and salt, then process until
+   thoroughly combined, about 20 seconds, scraping down sides of blender jar
+   as needed.
+2. Pour cream mixture into 8 1/2 by 4 1/2-inch loaf pan and press plastic wrap
+   flush against surface. Freeze until firm, at least 6 hours. Serve.
 
 Variations
 ----------
@@ -79,4 +73,3 @@ Notes
 The cream mixture freezes more quickly in a loaf pan than in a taller,
 narrower container. If you don't have a loaf pan, use an 8-inch square
 baking pan.
-

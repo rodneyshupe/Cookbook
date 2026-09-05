@@ -15,6 +15,6 @@ Ingredients
 Directions
 ----------
 
-1. Place all ingredients a medium sized pot and bring to a simmer for 1 hour.
-2. Strain out solids and reserve in fridge till ready to use.
-
+1. Place all ingredients in a medium sized pot and bring to a simmer for 1
+   hour.
+2. Strain out solids and reserve in fridge until ready to use.

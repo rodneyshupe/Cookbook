@@ -5,8 +5,6 @@ Hosin Chicken Lettuce Cups
 | Prep Time: 15 minutes | Cook Time: 10 minutes | Yield: 4 servings |
 +-----------------------+-----------------------+-------------------+
 
-Source: `Sam the Cooking Guy <https://www.thecookingguy.com/cookbook/hoisin-chicken-lettuce-cups>`__
-
 Ingredients
 -----------
 
@@ -26,11 +24,12 @@ Ingredients
 Directions
 ----------
 
-1. Combine hoisin, chili sauce, soy & sesame oil - mix well and set aside.
-2. Heat wok or pan until almost smoking, add 1 tablespoon of  neutral oil
-   and then the onion and red pepper - cook about a minute.
-3. Ddd the chicken and stir fry until just about cooked through - about
-   3 minutes, then add ginger & garlic - cook another minute or 2 until
-   chicken is done.
+1. Combine the hoisin, chili sauce, soy and sesame oil, mixing well, and set
+   aside.
+2. Heat a wok or pan until almost smoking, add 1 tablespoon of neutral oil,
+   then the onion and red pepper, and cook about a minute.
+3. Add the chicken and stir fry until just about cooked through, about 3
+   minutes, then add the ginger and garlic and cook until the chicken is done,
+   another minute or 2.
 4. Add the hoisin combo and stir through well to coat.
-5. Serve chicken in the leaf cups and garnish with peanut & green onion.
+5. Serve the chicken in the leaf cups and garnish with peanut and green onion.

@@ -9,7 +9,7 @@ Ingredients
 -----------
 
 - 1 lemon, zest and juice
-- 1/ 340 ml mixed beans, (canned)
+- 1 (340 ml) can mixed beans
 - 1 lime, juiced
 - 2 tablespoons cilantro, fresh, chopped
 - 2 tablespoons flat leaf parsley, chopped
@@ -27,19 +27,18 @@ Ingredients
 - sea salt
 - fresh cracked pepper
 - 20 ml raspberry vinegar
-- 5 ml grainy dijon mustard, mustard
+- 5 ml grainy Dijon mustard
 - 2 tablespoons extra virgin olive oil
 - raspberries, optional for garnish
 
 Directions
 ----------
 
-1. In a bowl add all the ingredients together for the exception of the endive, raspberry vinegar, Dijon, and oil.
-2. Blend and season well. Put aside.
-3. Meanwhile prepare the vinaigrette for the curly endive.
-4. In a small bowl add the raspberry vinegar, olive oil, Dijon and seasoning.
-5. Place endive in a separate bowl, and add vinaigrette, toss ,
-6. Prepare 4 plates and evenly place the curly endive on each plate
-7. Place a portion of the fava salad over top of the endive.
-8. Garnish with fresh raspberries if desired.
-
+1. Combine all the ingredients in a bowl with the exception of the endive,
+   raspberry vinegar, Dijon, and oil. Blend and season well, then set aside.
+2. Meanwhile, prepare the vinaigrette for the curly endive: add the raspberry
+   vinegar, olive oil, Dijon, and seasoning to a small bowl.
+3. Place the endive in a separate bowl, add the vinaigrette, and toss.
+4. Prepare 4 plates and evenly place the curly endive on each plate, then set
+   a portion of the fava salad over top of the endive.
+5. Garnish with fresh raspberries if desired.

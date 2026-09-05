@@ -8,34 +8,40 @@ Sea Scallop Salad with Avocado Dressing
 Ingredients
 -----------
 
-- 12 large calico scallops
-- 1 bunch watercress
-- 2 tablespoon White wine
-- 1 lemon, juiced
-- 1 lime, juiced
-- sea salt
-- fresh cracked pepper
-- 4 spear Belgian endive
-- 12 cherry tomatoes, halved
+- 1 avocado, mashed
 - 3 tablespoon honey
 - 1 orange, juiced/ rind
 - 4 tablespoon mayonnaise
-- 1 avocado, mashed
-- 1 yellow pepper, julienne
+- 1 tablespoon white wine vinegar
+- 1 lime, juiced
+- 12 large calico scallops
+- 1 lemon, juiced
+- 2 tablespoon White wine
+- 2 tablespoon extra virgin olive oil
+- sea salt
+- fresh cracked pepper
+- 1 bunch watercress
 - 1 cup dandelion greens
 - 2 cup arugula
-- 1 tablespoon white wine vinegar
-- 2 tablespoon extra virgin olive oil
+- 12 cherry tomatoes, halved
+- 1 yellow pepper, julienne
+- 4 spear Belgian endive
 
 Directions
 ----------
 
-1. Prepare the dressing; in a bowl mash the avocado. Add honey, the juice and rind from the orange, salt, pepper, mayo, vinegar, and lime juice. Blend, cover, and put aside
-2. Meanwhile preheat and season grill (when grill is hot rub oil over).
-3. Place scallops in a bowl with salt, pepper, lemon juice, white wine and olive oil, toss and let sit for 15 minutes before placing onto grill.
-4. Grill each side for 1-2 minutes. Place on a plate and let rest
-5. Wash and dry the greens. Place in a bowl, add tomatoes, peppers, and season. Add the dressing, and toss.
-6. Arrange the greens onto four plates. Garnish with endive. Place 3 scallops on each salad
+1. Make the dressing: mash the avocado in a bowl, then add honey, the juice
+   and rind from the orange, salt, pepper, mayo, vinegar, and lime juice.
+   Blend, cover, and set aside.
+2. Meanwhile, preheat and season the grill, rubbing oil over it once hot.
+3. Combine the scallops in a bowl with salt, pepper, lemon juice, white wine,
+   and olive oil, then toss and let sit for 15 minutes before grilling.
+4. Grill until cooked through, 1-2 minutes each side, then set on a plate and
+   let rest.
+5. Wash and dry the greens, place in a bowl, add tomatoes and peppers, and
+   season. Add the dressing and toss.
+6. Arrange the greens onto four plates, garnish with endive, and place 3
+   scallops on each salad.
 
 Notes
 -----

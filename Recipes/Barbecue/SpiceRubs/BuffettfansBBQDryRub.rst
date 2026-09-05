@@ -5,8 +5,6 @@ Buffettfan's BBQ Dry Rub
 | Prep Time: 5 minutes | Yield: about 1 cup |
 +----------------------+--------------------+
 
-Source: `BuffettFan @ BBQ Brethren <https://www.bbq-brethren.com/forum/showthread.php?t=275551>`__
-
 Great on pork, chicken and seafood.
 
 Ingredients
@@ -23,4 +21,3 @@ Ingredients
 - 1 tablespoon onion powder
 - 3/4 teaspoons cumin
 - 1/2 teaspoons cayenne pepper (More or less to taste)
-

@@ -19,6 +19,5 @@ Ingredients
 Directions
 ----------
 
-1. Layer Chorizo on top, olive in the middle, and cheese on the bottom.
+1. Thread each skewer with cheese on the bottom, olive in the middle, and chorizo on top.
 2. Drizzle with honey and sprinkle with slivered almonds.
-

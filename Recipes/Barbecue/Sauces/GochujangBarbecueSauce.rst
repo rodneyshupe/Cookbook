@@ -18,4 +18,3 @@ Directions
 
 1. Whisk vinegar, brown sugar, gochujang, and adobo in a medium bowl until
    sugar is dissolved.
-

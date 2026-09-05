@@ -5,8 +5,6 @@ Pecan Bars
 | Prep Time: 25 minutes | Cook Time: 25 minutes | Total Time: 2 1/2 hours | Yield: 24 bars |
 +-----------------------+-----------------------+-------------------------+----------------+
 
-Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/8571-ultranutty-pecan-bars?incode=MCSCD00L0>`__
-
 Ingredients
 -----------
 
@@ -32,32 +30,31 @@ Topping
 Directions
 ----------
 
-1. FOR THE CRUST: Adjust oven rack to lowest position and heat oven to
-   350F. Make foil sling for 13 by 9-inch baking pan by folding 2 long
-   sheets of aluminum foil; first sheet should be 13 inches wide and
-   second sheet should be 9 inches wide. Lay sheets of foil in pan
-   perpendicular to each other, with extra foil hanging over edges of
-   pan. Push foil into corners and up sides of pan, smoothing foil flush
-   to pan. Lightly spray foil with vegetable oil spray.
-2. Whisk flour, sugar, and salt together in medium bowl. Add melted
-   butter and stir with wooden spoon until dough begins to form. Using
-   your hands, continue to combine until no dry flour remains and small
-   portion of dough holds together when squeezed in palm of your hand.
-   evenly scatter tablespoon-size pieces of dough over surface of pan.
-   Using your fingertips and palm of your hand, press and smooth dough
-   into even thickness in bottom of pan.
-3. FOR THE TOPPING: Whisk sugar, corn syrup, melted butter, vanilla, and
-   salt together in medium bowl until smooth (mixture will look
-   separated at first but will become homogeneous), about 20 seconds.
-   Fold pecans into sugar mixture until nuts are evenly coated.
-4. Pour topping over crust. Using spatula, spread topping over crust,
-   pushing to edges and into corners (there will be bare patches). Bake
-   until topping is evenly distributed and rapidly bubbling across
-   entire surface, 23 to 25 minutes.
-5. Transfer pan to wire rack and lightly sprinkle with flake sea salt,
-   if using. Let bars cool completely in pan on rack, about 1 1/2 hours.
-   Using foil overhang, lift bars out of pan and transfer to cutting
-   board. Cut into 24 bars. (Bars can be stored at room temperature for
+1. For the crust: adjust oven rack to lowest position and heat oven to 350F.
+   Make a foil sling for a 13 by 9-inch baking pan by folding 2 long sheets of
+   aluminum foil; first sheet should be 13 inches wide and second sheet should
+   be 9 inches wide. Lay the sheets in the pan perpendicular to each other,
+   with extra foil hanging over the edges, then push the foil into the corners
+   and up the sides, smoothing it flush to the pan. Lightly spray the foil
+   with vegetable oil spray.
+2. Whisk the flour, sugar, and salt together in a medium bowl. Add the melted
+   butter and stir with a wooden spoon until the dough begins to form; using
+   your hands, keep combining until no dry flour remains and a small portion
+   holds together when squeezed in your palm. Evenly scatter tablespoon-size
+   pieces of dough over the pan, then press and smooth it into an even
+   thickness in the bottom with your fingertips and palm.
+3. For the topping: whisk the brown sugar, corn syrup, melted butter, vanilla,
+   and salt together in a medium bowl until smooth (the mixture will look
+   separated at first but will become homogeneous), about 20 seconds. Fold in
+   the pecans until the nuts are evenly coated.
+4. Pour the topping over the crust and spread it with a spatula, pushing to
+   the edges and into the corners (there will be bare patches). Bake until the
+   topping is evenly distributed and rapidly bubbling across the entire
+   surface, 23 to 25 minutes.
+5. Transfer the pan to a wire rack and lightly sprinkle with flake sea salt,
+   if using. Let the bars cool completely in the pan on the rack, about 1 1/2
+   hours. Using the foil overhang, lift the bars out and transfer to a cutting
+   board, then cut into 24 bars. (Bars can be stored at room temperature for
    up to 5 days.)
 
 Notes

@@ -16,9 +16,8 @@ Ingredients
 Directions
 ----------
 
-1. Pre-heat oven to 350F. Pat dry ling cod with paper towel. Lay one slice of
-   prosciutto down, place lingcod on top, and place other slice of prosciutto
-   on top of cod. Wrap and roll tightly. Place on baking sheet and place in
-   oven for 8 minutes.
-2. Once baked, turn on the broil function and broil until top prosciutto
-   becomes slightly crispy.
+1. Preheat oven to 350F. Pat ling cod dry with paper towel. Lay one slice of
+   prosciutto down, place lingcod on top, and place other slice on top of
+   cod. Wrap and roll tightly. Place on baking sheet and bake for 8 minutes.
+2. Once baked, turn on broil function and broil until top prosciutto becomes
+   slightly crispy.

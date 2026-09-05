@@ -5,8 +5,6 @@ Lacquered Bacon
 | Prep Time: 5 minutes | Cook Time: 30 minutes | Yield: 4 servings |
 +----------------------+-----------------------+-------------------+
 
-Source: `Alton Brown <https://altonbrown.com/roasted-bacon-recipe/>`__
-
 Ingredients
 -----------
 - 1 pound (450 g) thick-cut bacon
@@ -17,18 +15,14 @@ Ingredients
 Directions
 ----------
 
-1. Set the oven temperature to 400F.
-2. Line a half sheet pan with parchment paper and lay the bacon in a single
-   layer so that there's little or no space between the pieces on a cooling
-   rack set in the pan.
-3. Liberally sprinkle one side of the bacon slices with the
-   1/4 teaspoon black pepper, 4 tablespoons sugar and red pepper flakes.
-4. Set the sheet pan in the oven and roast for 15 minutes. Remove the pan
-   and use the back of a spoon to spread the dissolved sugar/pepper mixture
-   evenly across the slices of bacon. Wait one minute.
-5. Flip the bacon over and liberally sprinkle the other side of the bacon
-   with remaining black pepper and 3 tablespoons sugar.
-6. Return the sheet pan to the oven and roast until desired doneness:
-   15 minutes for chewy, 18 minutes for crisp. Cool completely before
-   devouring.
-
+1. Heat the oven to 400F. Line a half sheet pan with parchment paper, set a
+   cooling rack in it, and lay the bacon out in a single layer with little or
+   no space between the pieces.
+2. Sprinkle one side liberally with the 1/4 teaspoon black pepper,
+   4 tablespoons sugar and red pepper flakes, then roast 15 minutes. Pull the
+   pan and use the back of a spoon to spread the dissolved sugar and pepper
+   mixture evenly over the slices; wait one minute.
+3. Flip the bacon and sprinkle the other side liberally with the remaining
+   black pepper and 3 tablespoons sugar. Return to the oven and roast until it
+   hits the doneness you want: chewy at 15 minutes, crisp at 18. Cool
+   completely before devouring.

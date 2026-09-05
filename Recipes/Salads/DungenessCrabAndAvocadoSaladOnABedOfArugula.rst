@@ -8,30 +8,31 @@ Dungeness Crab and Avocado Salad on a bed of arugula
 Ingredients
 -----------
 
-- 2 cup arugula
+- 1 pound (450 g) Dungeness crab meat
 - sea salt
 - fresh cracked pepper
-- 2 stalk celery, diced
-- 2 tablespoon Mayonnaise
-- 1 lemon, juiced
-- 1 avocado, diced
-- 1 tablespoon Ginger, chopped
 - 1 tablespoon Mint, chopped
+- 1 avocado, diced
+- 2 tablespoon Mayonnaise
+- 1 tablespoon Ginger, chopped
+- 1 lemon, juiced
+- 2 stalk celery, diced
 - 4 tablespoon grapeseed oil
 - 2 tablespoon Red wine vinegar
 - 1 teaspoon grainy dijon mustard
-- 1 pound (450 g) Dungeness crab meat
+- 2 cup arugula
 
 Directions
 ----------
 
-1. In a bowl place crab meat, seasoning, mint, avocado, mayonnaise, ginger, lemon juice, and celery. Blend
-2. In a small bowl whisk grapeseed oil, vinegar, salt, pepper, and Dijon
-3. Season the arugula, add the vinaigrette and toss.
-4. Place the salad onto 4 plates and top with the crab mixture
+1. In a bowl combine the crab meat, seasoning, mint, avocado, mayonnaise,
+   ginger, lemon juice, and celery, and blend.
+2. In a small bowl whisk the grapeseed oil, vinegar, salt, pepper, and Dijon
+   until combined.
+3. Season the arugula, add the vinaigrette, and toss.
+4. Divide the salad onto 4 plates and top with the crab mixture.
 
 Notes
 -----
 
 Carb count 7g per serving
-

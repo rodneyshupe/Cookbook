@@ -30,26 +30,24 @@ Ingredients
 - 1 cup brown sugar
 - 1/2 teaspoon cinnamon
 - 2 tablespoons banana liqueur (optional)
-- 1/4 cup rum or brandy
 - 4 bananas, cut in half lengthwise, then halved
+- 1/4 cup rum or brandy
 - 4 scoops vanilla ice cream
 
 Directions
 ----------
 
-1. Combine the butter, sugar, and cinnamon in a flambe pan or skillet.
-   Place the pan over low heat either on an alcohol burner or on top of
-   the stove, and cook, stirring, until the sugar dissolves.
-2. Stir in the banana liqueur, then place the bananas in the pan. When
-   the banana sections soften and begin to brown, carefully add the rum.
-3. Continue to cook the sauce until the rum is hot, then tip the pan
-   slightly to ignite the rum.
-4. When the flames subside, lift the bananas out of the pan and place
-   four pieces over each portion of ice cream. Generously spoon warm
-   sauce over the top of the ice cream and serve immediately.
+1. Combine butter, sugar, and cinnamon in a flambe pan or skillet; place over
+   low heat on an alcohol burner or the stove and cook, stirring, until the
+   sugar dissolves.
+2. Stir in the banana liqueur, then place the bananas in the pan; when the
+   sections soften and begin to brown, carefully add the rum.
+3. Cook until the rum is hot, then tip the pan slightly to ignite it.
+4. When the flames subside, lift the bananas out and place four pieces over
+   each portion of ice cream; spoon warm sauce generously over the top and
+   serve immediately.
 
 Variations
 ----------
 
 Substitute brandy for rum (and even banana liqueur.)
-

@@ -5,8 +5,6 @@ Soy and Sesame Short Ribs
 | Prep Time: 15 minutes | Cook Time: 4 minutes | Marinate Time: 10 minutes - 1 hour | Yield: 4 servings |
 +-----------------------+----------------------+------------------------------------+-------------------+
 
-Source: `Bon Appetit <https://www.bonappetit.com/recipe/soy-and-sesame-short-ribs>`__
-
 Ingredients
 -----------
 
@@ -26,12 +24,13 @@ Ingredients
 Directions
 ----------
 
-1. Pulse apple, garlic, marmalade, brown sugar, sesame oil, sesame
-   seeds, sake, gochugaru, and pepper in a food processor or blender
-   until garlic and apple are finely chopped.
-2. Transfer to a large dish and mix in soy sauce. Add ribs and turn to
-   coat. Let sit, massaging meat and turning occasionally, at least 10
-   minutes up to 1 hour in the fridge.
-3. Prepare grill for medium-high heat; oil grate with vegetable oil.
-   Remove ribs from marinade and grill, turning once, until lightly
-   charred and cooked through, about 2 minutes per side for medium-rare.
+1. Pulse apple, garlic, marmalade, brown sugar, sesame oil, sesame seeds,
+   sake, gochugaru, and pepper in a food processor or blender until the
+   garlic and apple are finely chopped.
+2. Transfer to a large dish and mix in soy sauce. Add the ribs and turn to
+   coat. Let sit in the fridge, massaging and turning occasionally, at least
+   10 minutes and up to 1 hour.
+3. Prepare the grill for medium-high heat and oil the grate with vegetable
+   oil. Pull the ribs from the marinade and grill, turning once, until
+   lightly charred and cooked through, about 2 minutes per side for
+   medium-rare.

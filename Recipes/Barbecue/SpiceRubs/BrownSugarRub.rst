@@ -6,7 +6,7 @@ Brown Sugar Rub
 +----------------------+-------------------------+-------------------------+
 
 A sweet rub that goes well on brisket. Adjust the heat by adding more or
-less of the chili powder or by using hot or mild.
+less of the chili powder, or by using hot or mild.
 
 Ingredients
 -----------
@@ -20,6 +20,5 @@ Ingredients
 Directions
 ----------
 
-1. Combine ingredients and pack firmly around brisket 12-24 hours before
-   smoking. Wrap in plastic wrap or place in a large plastic bag.
-
+1. Combine the ingredients and pack firmly around the brisket 12-24 hours
+   before smoking. Wrap in plastic wrap or drop into a large plastic bag.

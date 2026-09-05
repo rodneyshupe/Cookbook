@@ -23,18 +23,16 @@ Ingredients
 Directions
 ----------
 
-1. Marinate the lamb and onions: Season the lamb all over with salt and
-   pepper in a large baking dish. Add half each of the oil, Dijon, garlic,
-   vinegar, and chili flakes. Squeeze over half of the lemon and toss
-   everything to combine.
-2. In a medium baking dish, toss the onions with the remaining ingredients,
-   plus the whole grain mustard, salt, and pepper. Cover both the lamb and
-   onions and refrigerate overnight.
-3. Grill the lamb and onions: Light a grill. Grill the lamb until charred
-   on the outside and cooked to your liking. If grilling inside, you may
-   need to finish the lamb in a 400F oven.
-4. Grill the onions until soft and lightly charred, 7 to 8 minutes.
-   Transfer the lamb to a cutting board to rest for 10 minutes, then thinly
-   slice.
-5. Serve with the mustard sauce and baguette, plus the collard greens and
-   rice, if using.
+1. Marinate the lamb: season the lamb all over with salt and pepper in a large
+   baking dish, then add half each of the oil, Dijon, garlic, vinegar, and
+   chili flakes; squeeze over half of the lemon and toss to combine.
+2. Marinate the onions: in a medium baking dish, toss the onions with the
+   remaining ingredients plus the whole grain mustard, salt, and pepper, then
+   cover both the lamb and onions and refrigerate overnight.
+3. Grill the lamb: light a grill and grill the lamb until charred on the
+   outside and cooked to your liking; if grilling inside, you may need to
+   finish it in a 400F oven.
+4. Grill the onions until soft and lightly charred, 7 to 8 minutes; transfer
+   the lamb to a cutting board to rest 10 minutes, then thinly slice. Serve
+   with the mustard sauce and baguette, plus the collard greens and rice, if
+   using.

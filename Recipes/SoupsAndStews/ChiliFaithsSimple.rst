@@ -26,7 +26,6 @@ Ingredients
 Directions
 ----------
 
-1. In a medium high pan, fry beef and onions until meat is browned.
-2. Add beef and onions to slow cooker, stir in all other ingredients and set
-   slow cooker to med and cook for at least 8 hours.
-
+1. Fry beef and onions in a medium-high pan until the meat is browned.
+2. Add beef and onions to the slow cooker, stir in all other ingredients, set
+   to medium, and cook for at least 8 hours.

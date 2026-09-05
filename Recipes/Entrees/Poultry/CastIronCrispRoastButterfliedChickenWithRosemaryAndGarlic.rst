@@ -5,8 +5,6 @@ Cast Iron Crisp Roast Butterflied Chicken with Rosemary and Garlic
 | Prep Time: 15 minutes | Cook Time: 1 hour | Yield: 4 servings |
 +-----------------------+-------------------+-------------------+
 
-Source: `Americas Test Kitchen <https://www.americastestkitchen.com/recipes/9459-cast-iron-crisp-roast-butterflied-chicken-with-rosemary-and-garlic>`__
-
 Ingredients
 -----------
 
@@ -20,19 +18,19 @@ Directions
 ----------
 
 1. Adjust oven rack to lowest position, place 12-inch cast-iron skillet on
-   rack, and heat oven to 500F. Meanwhile, combine 1 tablespoon oil,
-   rosemary, and garlic in bowl; set aside.
-2. With chicken breast side down, use kitchen shears to cut through bones on
-   either side of backbone; discard backbone. Flip chicken over, tuck wingtips
-   behind back, and press firmly on breastbone to flatten. Pat chicken dry
-   with paper towels, then rub with remaining 1 tablespoon oil and season with
-   salt and pepper.
-3. When oven reaches 500F, place chicken breast side down in hot
-   skillet. Reduce oven temperature to 450F and roast chicken until
-   well browned, about 30 minutes.
-4. Using potholders, remove skillet from oven. Being careful of hot skillet
-   handle, gently flip chicken breast side up. Brush chicken with oil mixture,
-   return skillet to oven, and continue to roast chicken until breast
-   registers 160F and thighs register 175F, about 10 minutes.
-   Transfer chicken to carving board, tent loosely with aluminum foil, and
-   let rest for 15 minutes. Carve chicken and serve.
+   rack, and heat oven to 500F. Combine 1 tablespoon oil, rosemary, and garlic
+   in a bowl and set aside.
+2. With chicken breast side down, cut through the bones on either side of the
+   backbone with kitchen shears and discard the backbone. Flip the chicken
+   over, tuck the wingtips behind the back, and press firmly on the breastbone
+   to flatten. Pat dry with paper towels, then rub with the remaining 1
+   tablespoon oil and season with salt and pepper.
+3. When the oven reaches 500F, place the chicken breast side down in the hot
+   skillet. Reduce oven temperature to 450F and roast until well browned,
+   about 30 minutes.
+4. Remove the skillet from the oven with potholders and, being careful of the
+   hot handle, gently flip the chicken breast side up. Brush with the oil
+   mixture, return the skillet to the oven, and continue roasting until the
+   breast registers 160F and the thighs register 175F, about 10 minutes.
+   Transfer to a carving board, tent loosely with aluminum foil, and let rest
+   15 minutes. Carve and serve.

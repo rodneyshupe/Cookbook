@@ -19,4 +19,3 @@ Ingredients
 - 2 tablespoons ground cumin
 - 4 teaspoons kosher salt
 - 4 teaspoons black pepper
-

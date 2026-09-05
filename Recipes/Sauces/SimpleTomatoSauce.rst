@@ -22,10 +22,11 @@ Ingredients
 Directions
 ----------
 
-1. Heat oil in large saucepan over medium heat and add onion, cook about
-   5 minutes
-2. Add garlic and cook another minute or so, just until fragrant
-3. Add tomatoes, squishing each one with your hand to break it up as you add
-   it. Next put in tomato paste, balsamic vinegar, red pepper, sugar and
-   oregano. Stir to combine. Add salt and pepper to taste.
-4. Bring sauce to a boil, then turn down heat and let simmer about 30 minutes
+1. Heat the oil in a large saucepan over medium heat, then add the onion and
+   cook about 5 minutes. Add the garlic and cook until fragrant, another
+   minute or so.
+2. Add the tomatoes, squishing each one with your hand to break it up as you
+   add it. Stir in the tomato paste, balsamic vinegar, red pepper, sugar and
+   oregano to combine, then season with salt and pepper to taste.
+3. Bring the sauce to a boil, then turn down the heat and simmer about 30
+   minutes.

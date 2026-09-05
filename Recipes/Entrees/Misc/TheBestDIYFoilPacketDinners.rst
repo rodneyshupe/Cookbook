@@ -5,8 +5,8 @@ The Best DIY Foil Packet Dinners
 | Prep Time: 15 minutes | Total Time: 45 minutes | Yield: 4 packets |
 +-----------------------+------------------------+------------------+
 
-When making these foil packet dinners, you can choose your ingredients, you
-can cook in the oven or on the grill, and there is minimal clean-up afterward.
+Choose your own ingredients for these foil packet dinners, cook them in the
+oven or on the grill, and enjoy minimal clean-up afterward.
 
 Ingredients
 -----------
@@ -28,18 +28,17 @@ Directions
 ----------
 
 1. Prepare 4 sheets of Heavy Duty Aluminum Foil into 12-inch sheets.
-2. Divide the ingredients among the four pieces of foil and place the food
-   in the center of each piece, layering the butter, hamburger and or
-   sausage with the vegetables spices, herbs and flavourings of your choice.
-   Fold the two long edges toward one another and fold over once or twice
-   then crimp tightly. Fold and crimp each short end of the foil toward the
-   middle so that the edges are all tightly sealed.
-3. For cooking in the oven, bake on a baking sheet at 350F for about 30
-   minutes.
-4. For cooking on a grill, cook on medium high for about 10-15 minutes each
-   side, turning occasionally.
-5. Let the packets cool slightly before serving. Carefully open the packets
-   and serve.
+2. Divide the ingredients among the four pieces of foil and place the food in
+   the center of each piece, layering the butter, hamburger and or sausage
+   with the vegetables, spices, herbs and flavourings of your choice. Fold the
+   two long edges toward one another and fold over once or twice, then crimp
+   tightly. Fold and crimp each short end toward the middle so the edges are
+   all tightly sealed.
+3. To cook in the oven, bake on a baking sheet at 350F for about 30 minutes.
+4. To cook on a grill, cook on medium high for about 10-15 minutes each side,
+   turning occasionally.
+5. Let the packets cool slightly before serving, then carefully open and
+   serve.
 
 Notes
 -----

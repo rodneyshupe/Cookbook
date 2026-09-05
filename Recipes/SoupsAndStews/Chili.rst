@@ -33,69 +33,62 @@ Ingredients
 Directions
 ----------
 
-1. In a large Dutch oven, combine 4 tablespoons of salt, 4 quarts of
-   water, and the beans and bring to boil over high heat. Remove the pot
-   from heat, cover, and allow the beans to stand for 1 hour. Drain and
-   rinse the beans well.
-2. Adjust an oven rack to the lower-middle position and pre-heat the
-   oven to 300F.
-3. Place the ancho chiles in 12-inch skillet set over medium-high heat;
-   toast them, stirring frequently, until flesh is fragrant, 4 to 6
-   minutes - reducing the heat if chiles begin to smoke. Transfer the
-   toasted chiles to the bowl of food processor and allow them to cool.
-   Do not wash out the skillet.
-4. To the food processor containing the toasted ancho chiles, add the
-   arbol chiles, cornmeal, oregano, cumin, cocoa, and 3/4 teaspoon salt.
-   Process until finely ground - about 2 minutes. With the processor
-   running, very slowly add 1/2 cup of the broth through the feed tube,
-   until a smooth paste forms - about 45 seconds, scraping down the sides
-   of the bowl as necessary. Transfer the paste to a small bowl and set
-   aside. Place the onions in the now-empty processor bowl and pulse
-   until roughly chopped - about four 1-second pulses. Add the jalapenos
-   and pulse until the mixture has the consistency of chunky salsa -
-   about four 1-second pulses - scraping down the bowl as necessary.
-5. In a large Dutch oven, heat 1 tablespoon oil over medium-high heat.
-   Add the onion mixture and cook, stirring occasionally, until moisture
-   has evaporated and vegetables are softened - 7 to 9 minutes. Add the
-   garlic and cook until fragrant - about 1 minute. Add the reserved
-   chili paste, the tomatoes, and the molasses. Stir until the chili
-   paste is thoroughly combined with the other ingredients. Add the
-   remaining 2 cups broth and the drained beans; bring to a boil, then
-   reduce the heat to simmer.
-6. Meanwhile, in the 12-inch skillet over medium-high heat, heat 1
-   tablespoon oil until it is shimmering. Pat the pieces of beef dry
-   with paper towels and sprinkle them with 1 1/2 teaspoons of salt.
-7. To the skillet, add half of the beef and cook until browned on all
-   sides - about 10 minutes. Transfer the meat to the Dutch oven. Add 1/2
-   of the bottle of lager to the skillet, scraping bottom of pan to
-   loosen any browned bits, and bring to a simmer. Transfer the lager to
-   the Dutch oven. Repeat with the remaining tablespoon oil, beef
-   pieces, and lager. (Heat the oil, brown the beef, transfer the beef
-   to the Dutch oven, add lager to the skillet, bring it to a simmer,
-   and add the simmering beer to the Dutch oven.) Once the last addition
-   of lager has been added to the Dutch oven, stir to combine the
-   ingredients and return the mixture to a simmer.
-8. Cover the pot and transfer to the preheated oven. Cook until the meat
-   and beans are fully tender - 1 1/2 to 2 hours. Allow the chili to
-   stand uncovered for 10 minutes. Stir well and season to taste with
-   salt before serving.
+1. In a large Dutch oven, combine 4 tablespoons of salt, 4 quarts of water,
+   and the beans; bring to a boil over high heat. Pull the pot off heat,
+   cover, and let the beans stand for 1 hour. Drain and rinse them well.
+2. Adjust an oven rack to the lower-middle position and preheat the oven to
+   300F.
+3. Set the ancho chiles in a 12-inch skillet over medium-high heat and toast,
+   stirring often, until fragrant, 4 to 6 minutes; drop the heat if they start
+   to smoke. Transfer the toasted chiles to a food processor and let them
+   cool. Do not wash out the skillet.
+4. To the food processor with the toasted anchos, add the arbol chiles,
+   cornmeal, oregano, cumin, cocoa, and 3/4 teaspoon salt. Process until
+   finely ground, about 2 minutes. With the processor running, very slowly add
+   1/2 cup of the broth through the feed tube until a smooth paste forms,
+   about 45 seconds, scraping down the bowl as needed. Transfer the paste to a
+   small bowl and set aside. Add the onions to the now-empty processor bowl
+   and pulse until roughly chopped, about four 1-second pulses. Add the
+   jalapenos and pulse until the mixture looks like chunky salsa, about four
+   1-second pulses, scraping down the bowl as needed.
+5. In a large Dutch oven, heat 1 tablespoon oil over medium-high heat. Add the
+   onion mixture and cook, stirring occasionally, until the moisture has
+   evaporated and the vegetables are softened, 7 to 9 minutes. Add the garlic
+   and cook until fragrant, about 1 minute. Stir in the reserved chili paste,
+   the tomatoes, and the molasses until the paste is thoroughly combined. Add
+   the remaining 2 cups broth and the drained beans; bring to a boil, then
+   reduce the heat to a simmer.
+6. Meanwhile, in the 12-inch skillet over medium-high heat, heat 1 tablespoon
+   oil until shimmering. Pat the beef dry with paper towels and sprinkle with
+   1 1/2 teaspoons of salt.
+7. Add half of the beef to the skillet and cook until browned on all sides,
+   about 10 minutes. Transfer the meat to the Dutch oven. Add 1/2 of the
+   bottle of lager to the skillet, scraping the bottom to loosen any browned
+   bits, and bring to a simmer. Transfer the lager to the Dutch oven. Repeat
+   with the remaining tablespoon oil, beef pieces, and lager: heat the oil,
+   brown the beef, transfer it to the Dutch oven, add lager to the skillet,
+   bring it to a simmer, and add the simmering beer to the Dutch oven. Once
+   the last of the lager is in, stir to combine and return the mixture to a
+   simmer.
+8. Cover the pot and transfer to the preheated oven. Cook until the meat and
+   beans are fully tender, 1 1/2 to 2 hours. Let the chili stand uncovered for
+   10 minutes. Stir well and season to taste with salt before serving.
 
 Notes
 -----
 
-- A 4-pound chuck-eye roast, well trimmed of fat, can be substituted
-  for the steak.
-- Because much of the chili flavour is held in the fat of this dish,
-  refrain from skimming fat from the surface.
+- A 4-pound chuck-eye roast, well trimmed of fat, can be substituted for
+  the steak.
+- Because much of this dish's flavour is held in the fat, don't skim fat
+  from the surface.
 - Wear gloves when working with both dried and fresh chiles.
 - Dried New Mexican or guajillo chiles make a good substitute for the
-  anchos; each dried arbol may be substituted with 1/8 teaspoon
-  cayenne. If you prefer not to work with any whole dried chiles, the
-  anchos and arbols can be replaced with 1/2 cup commercial chili
-  powder and 1/4 to 1/2 teaspoon cayenne pepper, though the texture of
-  the chili will be slightly compromised.
-- Good choices for condiments include diced avocado, chopped red onion,
-  chopped cilantro leaves, lime wedges, sour cream, and shredded
-  Monterey Jack or cheddar cheese.
+  anchos; each dried arbol may be substituted with 1/8 teaspoon cayenne.
+  If you'd rather not work with whole dried chiles, replace the anchos
+  and arbols with 1/2 cup commercial chili powder and 1/4 to 1/2 teaspoon
+  cayenne pepper, though the texture of the chili will be slightly
+  compromised.
+- Good condiments include diced avocado, chopped red onion, chopped
+  cilantro leaves, lime wedges, sour cream, and shredded Monterey Jack or
+  cheddar cheese.
 - The chili can be made up to 3 days in advance.
-

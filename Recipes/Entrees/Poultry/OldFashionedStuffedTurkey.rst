@@ -35,57 +35,52 @@ Stuffing
 Directions
 ----------
 
-1. FOR THe TURKeY: Using fingers or handle of wooden spoon, separate
-   turkey skin from meat on breast, legs, thighs, and back; avoid
-   breaking skin. Rub 1 tablespoon salt evenly inside cavity of turkey,
-   1 1/2 teaspoons salt under skin of each breast, and 1 1/2 teaspoons
-   salt under skin of each leg. Wrap turkey tightly with plastic wrap;
-   refrigerate 24 to 48 hours.
-2. FOR THe STUFFING: Adjust oven rack to lowest position and heat oven
-   to 250F. Spread bread cubes in single layer on baking sheet; bake
-   until edges have dried but centres are slightly moist (cubes should
-   yield to pressure), about 45 minutes, stirring several times during
-   baking. Transfer to large bowl and increase oven temperature to
-   325F.
+1. For the turkey: using fingers or handle of wooden spoon, separate turkey
+   skin from meat on breast, legs, thighs, and back, avoiding breaking skin.
+   Rub 1 tablespoon salt evenly inside cavity of turkey, 1 1/2 teaspoons salt
+   under skin of each breast, and 1 1/2 teaspoons salt under skin of each leg.
+   Wrap turkey tightly with plastic wrap and refrigerate 24 to 48 hours.
+2. For the stuffing: adjust oven rack to lowest position and heat oven to
+   250F. Spread bread cubes in single layer on baking sheet and bake until
+   edges have dried but centres are slightly moist (cubes should yield to
+   pressure), about 45 minutes, stirring several times during baking. Transfer
+   to large bowl and increase oven temperature to 325F.
 3. While bread dries, heat 4 tablespoons butter in 12-inch skillet over
-   medium-high heat; when foaming subsides, add onion, celery, 2
-   teaspoons salt, and 1 teaspoon pepper; cook, stirring occasionally,
-   until vegetables begin to soften and brown slightly, 7 to 10 minutes.
-   Stir in herbs; cook until fragrant, about 1 minute. Add vegetables to
-   bowl with dried bread; add 1 cup broth and toss until evenly
-   moistened.
-
-4. TO ROAST THe TURKeY: Combine remaining 2 teaspoons kosher salt and
-   baking powder in small bowl. Remove turkey from refrigerator and
-   unwrap. Thoroughly dry inside and out with paper towels. Using
-   skewer, poke 15 to 20 holes in fat deposits on top of breast halves
-   and thighs, 4 to 5 holes in each deposit. Sprinkle surface of turkey
-   with salt-baking powder mixture and rub in mixture with hands,
-   coating skin evenly. Tuck wings underneath turkey. Line turkey cavity
-   with cheesecloth, pack with 4 to 5 cups stuffing, tie ends of
-   cheesecloth together. Cover remaining stuffing with plastic wrap and
-   refrigerate. Using twine, loosely tie turkey legs together. Place
-   turkey breast-side down in V-rack set in roasting pan and drape salt
-   pork slices over back.
-5. Roast turkey breast-side down until thickest part of breast registers
-   130F on instant-read thermometer, 2 to 2 1/2 hours. Remove roasting
-   pan from oven (close oven door) and increase oven temperature to
-   450F. Transfer turkey in V-rack to rimmed baking sheet. Remove and
-   discard salt pork. Using clean potholders or kitchen towels, rotate
-   turkey breast-side up. Cut twine binding legs and remove stuffing
-   bag; empty into reserved stuffing in bowl. Pour drippings from
-   roasting pan into fat separator and reserve for gravy, if making.
-6. Once oven has come to temperature, return turkey in V-rack to
-   roasting pan and roast until skin is golden brown and crisp, thickest
-   part of breast registers 160F, and thickest part of thigh registers
-   175F, about 45 minutes, rotating pan halfway through. Transfer
-   turkey to carving board and let rest, uncovered, 30 minutes.
+   medium-high heat; when foaming subsides, add onion, celery, 2 teaspoons
+   salt, and 1 teaspoon pepper and cook, stirring occasionally, until
+   vegetables begin to soften and brown slightly, 7 to 10 minutes. Stir in
+   herbs and cook until fragrant, about 1 minute. Add vegetables to bowl with
+   dried bread, add 1 cup broth, and toss until evenly moistened.
+4. To roast the turkey: combine remaining 2 teaspoons kosher salt and baking
+   powder in small bowl. Remove turkey from refrigerator and unwrap, then
+   thoroughly dry inside and out with paper towels. Using skewer, poke 15 to
+   20 holes in fat deposits on top of breast halves and thighs, 4 to 5 holes
+   in each deposit. Sprinkle surface of turkey with salt-baking powder mixture
+   and rub in with hands, coating skin evenly. Tuck wings underneath turkey.
+   Line turkey cavity with cheesecloth, pack with 4 to 5 cups stuffing, and
+   tie ends of cheesecloth together. Cover remaining stuffing with plastic
+   wrap and refrigerate. Using twine, loosely tie turkey legs together. Place
+   turkey breast-side down in V-rack set in roasting pan and drape salt pork
+   slices over back.
+5. Roast turkey breast-side down until thickest part of breast registers 130F
+   on instant-read thermometer, 2 to 2 1/2 hours. Remove roasting pan from
+   oven (close oven door) and increase oven temperature to 450F. Transfer
+   turkey in V-rack to rimmed baking sheet, remove and discard salt pork,
+   then, using clean potholders or kitchen towels, rotate turkey breast-side
+   up. Cut twine binding legs and remove stuffing bag, emptying into reserved
+   stuffing in bowl. Pour drippings from roasting pan into fat separator and
+   reserve for gravy, if making.
+6. Once oven has come to temperature, return turkey in V-rack to roasting pan
+   and roast until skin is golden brown and crisp, thickest part of breast
+   registers 160F, and thickest part of thigh registers 175F, about 45
+   minutes, rotating pan halfway through. Transfer turkey to carving board and
+   let rest, uncovered, 30 minutes.
 7. While turkey rests, reduce oven temperature to 400F. Whisk eggs and
    remaining 1/2 cup broth together in small bowl. Pour egg mixture over
-   stuffing and toss to combine, breaking up any large chunks; spread in
-   buttered 13- by 9-inch baking dish. Bake until stuffing registers
-   165F and top is golden brown, about 15 minutes. Carve turkey and
-   serve with stuffing and `Turkey Gravy <#turkey-gravy>`__.
+   stuffing and toss to combine, breaking up any large chunks, then spread in
+   buttered 13- by 9-inch baking dish. Bake until stuffing registers 165F and
+   top is golden brown, about 15 minutes. Carve turkey and serve with stuffing
+   and `Turkey Gravy <#turkey-gravy>`__.
 
 Notes
 -----

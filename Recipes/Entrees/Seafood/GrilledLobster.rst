@@ -19,30 +19,11 @@ Ingredients
 Directions
 ----------
 
-1. Turn all burners on grill to high, close lid, and heat until grill is
-   very hot, about 15 minutes. Use grill brush to scrape cooking grate
-   clean. Leave burners on high.
-2. Meanwhile, mix butter and garlic together in small bowl. Split lobsters
-   in half lengthwise, according to illustrations below, removing stomach
-   sac and intestinal tract. Scoop out green tomalley and place in medium
-   bowl. Using back of chef's knife, whack one side of each claw, just to
-   make opening (this will help accelerate cooking). Add breadcrumbs,
-   parsley, and 2 tablespoons of melted garlic butter to bowl with
-   tomalley. Use fork to mix together, breaking up tomalley at same time.
-   Season lightly with salt and pepper to taste.
-3. Season tail meat with salt and pepper to taste. Brush cut side of
-   lobster halves with some of remaining garlic butter. Take lobsters to
-   grill on large tray. Lightly dip small wad of paper towels in vegetable
-   oil; holding wad with long-handled tongs, wipe cooking grate.
-4. Place lobsters on grill flesh side down. Grill, with lid down, for
-   2 minutes. Transfer lobsters to tray, turning them shell side down.
-   Spoon tomalley mixture evenly into open cavities of all four lobster
-   halves. Place lobsters back onto grill, shell-side down. Baste lobsters
-   with remaining garlic butter. Grill, covered, until tail meat turns
-   opaque creamy white color and tomalley mixture is bubbly and has begun
-   to brown on top, 5 to 7 minutes.
-5. Serve lobsters immediately with lemon wedges. Use lobster picks to get
-   meat from inside claws and knuckles.
+1. Turn all burners on grill to high, close lid, and heat until grill is very hot, about 15 minutes. Use grill brush to scrape cooking grate clean. Leave burners on high.
+2. Mix butter and garlic together in a small bowl. Split lobsters in half lengthwise, removing stomach sac and intestinal tract. Scoop out green tomalley and place in a medium bowl. Using the back of chef's knife, whack one side of each claw to make an opening (this will help accelerate cooking). Add breadcrumbs, parsley, and 2 tablespoons of melted garlic butter to the bowl with tomalley. Use a fork to mix together, breaking up tomalley at the same time. Season lightly with salt and pepper to taste.
+3. Season tail meat with salt and pepper to taste. Brush cut side of lobster halves with some of the remaining garlic butter. Take lobsters to grill on a large tray. Lightly dip a small wad of paper towels in vegetable oil; holding the wad with long-handled tongs, wipe the cooking grate.
+4. Place lobsters on grill flesh side down. Grill, lid down, for 2 minutes. Transfer lobsters to tray, turning shell side down. Spoon tomalley mixture evenly into open cavities of all four lobster halves. Place lobsters back onto grill, shell side down. Baste lobsters with remaining garlic butter. Grill, covered, until tail meat turns opaque creamy white and tomalley mixture is bubbly and has begun to brown on top, 5 to 7 minutes.
+5. Serve lobsters immediately with lemon wedges. Use lobster picks to extract meat from inside claws and knuckles.
 
 Variations
 ----------

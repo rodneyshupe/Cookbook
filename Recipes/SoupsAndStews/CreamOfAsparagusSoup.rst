@@ -18,24 +18,18 @@ Ingredients
 Directions
 ----------
 
-1. Cut tips from 12 asparagus 1 1/2 inches from top and halve tips
-   lengthwise if thick. Reserve for garnish. Cut stalks and all
-   remaining asparagus into 1/2-inch pieces.
-
-2. Cook onion in 2 tablespoons butter in a 4-quart heavy pot over
-   moderately low heat, stirring, until softened. Add asparagus pieces
-   and salt and pepper to taste, then cook, stirring, 5 minutes. Add 5
-   cups broth and simmer, covered, until asparagus is very tender, 15 to
-   20 minutes.
-
-3. While soup simmers, cook reserved asparagus tips in boiling salted
+1. Cut the tips from 12 asparagus 1 1/2 inches from the top and halve the tips
+   lengthwise if thick. Reserve for garnish. Cut the stalks and all remaining
+   asparagus into 1/2-inch pieces.
+2. Cook the onion in 2 tablespoons butter in a 4-quart heavy pot over
+   moderately low heat, stirring, until softened. Add the asparagus pieces and
+   salt and pepper to taste, then cook, stirring, 5 minutes. Add 5 cups broth
+   and simmer, covered, until the asparagus is very tender, 15 to 20 minutes.
+3. While the soup simmers, cook the reserved asparagus tips in boiling salted
    water until just tender, 3 to 4 minutes, then drain.
-
-4. Puree soup in batches in a blender until smooth, transferring to a
-   bowl (use caution when blending hot liquids), and return to pan. Stir
-   in creme fraiche, then add more broth to thin soup to desired
-   consistency. Season with salt and pepper. Bring soup to a boil and
-   whisk in remaining tablespoon butter.
-
-5. Add lemon juice and garnish with asparagus tips.
-
+4. Puree the soup in batches in a blender until smooth, transferring it to a
+   bowl (use caution when blending hot liquids), and return it to the pan.
+   Stir in the creme fraiche, then add more broth to thin the soup to the
+   desired consistency. Season with salt and pepper. Bring the soup to a boil
+   and whisk in the remaining tablespoon butter.
+5. Add the lemon juice and garnish with the asparagus tips.

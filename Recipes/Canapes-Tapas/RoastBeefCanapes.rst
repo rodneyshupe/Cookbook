@@ -5,8 +5,6 @@ Roast Beef Canapes
 | Prep Time: 15 minutes | Yield: 12 pieces |
 +-----------------------+------------------+
 
-Source: `Cook's Country <https://www.cookscountry.com/recipes/2362-roast-beef-canapes>`__
-
 Ingredients
 -----------
 
@@ -19,8 +17,8 @@ Ingredients
 Directions
 ----------
 
-1. Cut bread slices into quarters. Spread each piece with 2 teaspoons
-   cheese and top with 1 piece roast beef. Top with 2 pepper strips and
+1. Cut the bread slices into quarters. Spread each piece with 2 teaspoons
+   cheese, then lay on 1 piece roast beef. Top with 2 pepper strips and
    sprinkle with dill or tarragon. Serve.
 
 Make Ahead
@@ -28,4 +26,3 @@ Make Ahead
 
 The canapes can be refrigerated for up to 4 hours. Bring to room
 temperature before serving.
-

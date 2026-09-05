@@ -18,5 +18,5 @@ Ingredients
 
 Directions
 ----------
-Mix all ingredients together.
 
+1. Mix all ingredients together.

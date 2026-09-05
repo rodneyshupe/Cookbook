@@ -26,9 +26,9 @@ Stew
 ^^^^
 
 - 200 g SPAM (thinly sliced)
-- 2 hot dogs (150g) thinly and diagonally sliced)
+- 2 hot dogs (150 g), thinly and diagonally sliced
 - 250 g tofu, sliced (about 1.5cm, 1/2 inch thickness) (optional)
-- 200 g enoki mushrooms (base stem removed & stems separated,)
+- 200 g enoki mushrooms (base stem removed & stems separated)
 - 200 g king oyster mushrooms (thinly sliced lengthways)
 - 100 g shiitake mushroom caps (thinly sliced)
 - 1/2 cup Kimchi (ripened bite-sized)
@@ -37,22 +37,23 @@ Stew
 - 50 g Korean rice cakes for soup (soaked in cold water for 15 mins if it was frozen)
 - 4 cups stock (see note)
 - 30 g green onion (thinly & diagonally sliced)
-- 1 to 2 american cheese slice
+- 1 to 2 American cheese slices
 
 Directions
 ----------
 
-1. Combine sauce ingredients in a small bowl, stir till fully combined.
+1. Combine the sauce ingredients in a small bowl and stir until fully
+   combined.
 2. Assemble the main ingredients (except for instant ramen noodles, rice
    cakes, green onion and cheese) in a shallow pot. Add the sauce in the
    middle. Pour the stock into the corner of the pot. Close the lid and boil
-   it on medium high heat until the stock starts to boil (about 8 mins).
+   on medium high heat until the stock starts to boil (about 8 mins).
 3. Add the remaining ingredients - instant ramen noodles, rice cakes, green
-   onion and cheese on top of the pot and boil uncovered until the noodles
-   are cooked (about 2 to 3 mins). Reduce the heat to low (if you're
-   cooking on a portable burner and sharing the food at the dinning table).
-4. Start dishing out soup, protein and vegetables onto your own soup bowl.
-   Serve with steamed rice (and with other Korean side dishes).
+   onion and cheese on top of the pot and boil uncovered until the noodles are
+   cooked (about 2 to 3 mins). Reduce the heat to low (if you're cooking on a
+   portable burner and sharing the food at the dining table).
+4. Dish out soup, protein and vegetables into your own soup bowl. Serve with
+   steamed rice (and with other Korean side dishes).
 
 Notes
 -----

@@ -18,4 +18,4 @@ Ingredients
 Directions
 ----------
 
-1. Mix ingredients in a small bowl. Cover and chill until ready to serve.
+1. Mix the ingredients in a small bowl. Cover and chill until ready to serve.

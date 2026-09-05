@@ -24,7 +24,7 @@ Ingredients
 
 Directions
 ----------
-1. Put all ingredients in a small pot over low heat, and melt into a
+1. Put all ingredients in a small pot over low heat and melt into a
    glorious combination.
 
 Variation
@@ -46,5 +46,5 @@ Cowboy Butter
 Notes
 -----
 
-Good as a dipping sauce for steak or use for basting chicken, prawns or
+Good as a dipping sauce for steak, or use for basting chicken, prawns or
 grilled corn.

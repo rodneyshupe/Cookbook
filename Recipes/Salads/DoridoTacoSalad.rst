@@ -20,8 +20,7 @@ Directions
 ----------
 
 1. Brown the ground beef in a skillet over medium heat, breaking it up into
-   pieces with a wooden spoon. Add the packet of taco seasoning and stir
-   until well coated. Set aside.
-2. In a large serving bowl, combine the lettuce, tomatoes, cheese and ground
-   beef. When ready to serve, add the Doritos and dressing and toss to coat.
-
+   pieces with a wooden spoon. Stir in the taco seasoning until well coated,
+   then set aside.
+2. Combine the lettuce, tomatoes, cheese and ground beef in a large serving
+   bowl. When ready to serve, add the Doritos and dressing and toss to coat.

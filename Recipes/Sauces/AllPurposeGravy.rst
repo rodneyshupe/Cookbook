@@ -25,20 +25,17 @@ Ingredients
 Directions
 ----------
 
-1. In food processor, pulse carrot until broken into rough 1/4-inch
-   pieces, about five 1-second pulses. Add celery and onion; pulse until
-   all vegetables are broken into 1/8-inch pieces, about five 1-second
-   pulses.
-2. Heat butter in large heavy-bottomed saucepan over medium-high heat;
-   when foaming subsides, add vegetables and cook, stirring frequently,
-   until softened and well browned, about 7 minutes. Reduce heat to
-   medium; stir in flour and cook, stirring constantly, until thoroughly
-   browned and fragrant, about 5 minutes. Whisking constantly, gradually
-   add broths; bring to boil, skimming off any foam that forms on
-   surface. Reduce heat to medium-low and add bay leaf, thyme, and
-   peppercorns; simmer, stirring occasionally, until thickened and
-   reduced to 3 cups, 20 to 25 minutes.
-3. Strain gravy through fine-mesh strainer into clean saucepan, pressing
-   on solids to extract as much liquid as possible; discard solids.
-   Adjust seasonings with salt and pepper. Serve hot.
-
+1. Pulse carrot in food processor until broken into rough 1/4-inch pieces,
+   about five 1-second pulses. Add celery and onion and pulse until all
+   vegetables are broken into 1/8-inch pieces, about five 1-second pulses.
+2. Heat butter in large heavy-bottomed saucepan over medium-high heat. When
+   foaming subsides, add vegetables and cook, stirring frequently, until
+   softened and well browned, about 7 minutes. Reduce heat to medium, stir in
+   flour, and cook, stirring constantly, until thoroughly browned and
+   fragrant, about 5 minutes. Whisking constantly, gradually add broths, then
+   bring to boil, skimming off any foam that forms on surface. Reduce heat to
+   medium-low and add bay leaf, thyme, and peppercorns, then simmer, stirring
+   occasionally, until thickened and reduced to 3 cups, 20 to 25 minutes.
+3. Strain gravy through fine-mesh strainer into clean saucepan, pressing on
+   solids to extract as much liquid as possible, and discard solids. Adjust
+   seasonings with salt and pepper. Serve hot.

@@ -25,22 +25,21 @@ Ingredients
 Directions
 ----------
 
-1. Preheat oven to 375F. Line a small rimmed baking sheet with parchment
-   paper; set aside.
-2. Stir together cream cheese, Cheddar cheese, mayonnaise, Worcestershire,
-   cayenne pepper, garlic powder, and 1/4 cup of the chives in a large bowl
-   until thoroughly blended. Spoon mixture onto a work surface covered with
-   plastic wrap; gather plastic around cheese, using your hands shape into
-   a ball. Chill in plastic wrap until firm, about 2 hours.
-3. Meanwhile, stir together pecans, maple syrup, oil, smoked paprika, and
-   salt in a small bowl until evenly coated; spread in an even layer on
-   prepared baking sheet.
-4. Bake until browned, about 9-12 minutes, stirring every 3 minutes. Place
-   baking sheet on a wire rack, and cool completely, about 30 minutes.
-   Finely chop pecans.
-5. Stir together chopped pecans and remaining 1 tablespoon chives in a
-   medium bowl. Roll cheese ball in pecan mixture to coat; pressing lightly
-   to adhere. Serve with crackers.
+1. Preheat oven to 375F. Line a small rimmed baking sheet with parchment paper
+   and set aside.
+2. Blend the cheese ball: stir cream cheese, Cheddar cheese, mayonnaise,
+   Worcestershire, cayenne pepper, garlic powder, and 1/4 cup of the chives in
+   a large bowl until thoroughly blended. Spoon onto a work surface covered
+   with plastic wrap, gather the plastic around the cheese, and shape into a
+   ball with your hands. Chill in the plastic wrap until firm, about 2 hours.
+3. Meanwhile, coat the pecans: stir pecans, maple syrup, oil, smoked paprika,
+   and salt in a small bowl until evenly coated, then spread in an even layer
+   on the prepared baking sheet. Bake until browned, about 9-12 minutes,
+   stirring every 3 minutes. Cool completely on a wire rack, about 30 minutes,
+   then finely chop.
+4. Finish: stir the chopped pecans with the remaining 1 tablespoon chives in a
+   medium bowl. Roll the cheese ball in the pecan mixture to coat, pressing
+   lightly to adhere. Serve with crackers.
 
 Notes
 -----

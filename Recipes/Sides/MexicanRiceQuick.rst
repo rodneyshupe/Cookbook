@@ -13,7 +13,7 @@ Ingredients
 - 1 medium onion, diced
 - 1 cup long-grain white rice
 - 1/2 teaspoon oregano
-- 1/2 teaspoon cumin,
+- 1/2 teaspoon cumin
 - 1/2 teaspoon onion powder
 - 1/2 teaspoon garlic powder
 - 1/2 teaspoon chilli powder
@@ -23,14 +23,14 @@ Ingredients
 Directions
 ----------
 
-1. In a medium size pot over Medium high heat, add 1 tablespoon oil and
-   1 tablespoon butter and cook until butter is melted and foaming has
-   subsided. Add onions and cook until softened, about 5 minutes.
-2. Add rice and stir to coat, cook for 60 seconds.  Stir in oregano, cumin,
-   onion powder, garlic powder and chilli powder, and cook for 30 seconds.
-3. Add chicken broth and tomato sauce and bring to a boil.  Reduce heat and
+1. Add 1 tablespoon oil and 1 tablespoon butter to a medium pot over
+   medium-high heat; cook until butter is melted and foaming has subsided. Add
+   onions and cook until softened, about 5 minutes.
+2. Add rice and stir to coat; cook for 60 seconds. Stir in oregano, cumin,
+   onion powder, garlic powder and chilli powder; cook for 30 seconds.
+3. Add chicken broth and tomato sauce and bring to a boil. Reduce heat and
    simmer, covered, until all liquid is absorbed, about 15 minutes.
-4. Remove from heat and "fluff" rice.  Serve.
+4. Remove from heat and fluff rice. Serve.
 
 Variation
 ---------

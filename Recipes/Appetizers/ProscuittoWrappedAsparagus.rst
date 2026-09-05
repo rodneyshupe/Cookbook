@@ -9,37 +9,41 @@ Ingredients
 -----------
 
 - 16 spears asparagus
-- 4 proscuitto, long thin slices
-- 4 sprig rosemary
 - sea salt
 - fresh cracked pepper
 - 1 tablespoon extra virgin olive oil
-- 7 ounces goats cheese
 - 1/2 lemon, juiced
+- 4 sprig rosemary
+- 4 proscuitto, long thin slices
+- 7 ounces goats cheese
 
 Red pepper Coulis/ or drizzled 20 year old Balsamic Vinegar
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- 300 ml red pepper, roasted
+- 1 tablespoon extra virgin olive oil
+- 1 shallot, chopped
+- 1 clove garlic, chopped
 - sea salt
 - fresh cracked pepper
-- 100 ml whipping cream
-- 1 shallot, chopped
 - 50 ml white wine
-- 1 tablespoon extra virgin olive oil
-- 1 clove garlic, chopped
+- 100 ml whipping cream
+- 300 ml red pepper, roasted
 
 Directions
 ----------
 
-1. Preheat broiler to 400F
-2. Place asparagus in a shallow baking dish; season, add oil and lemon juice. Toss gently not to break the spears
-3. Take 4 spears and place a sprig of rosemary in the middle. Wrap in the centre with proscuitto to make a bow (make 4 bundles).
-4. Place onto a baking sheet
-5. Crumble goats cheese onto each bundle.
-6. Place in oven for approx. 7-10 minutes
-7. Meanwhile prepare the coulis; in a sauce pan heat oil, add shallots, garlic, season, and sear for 1 minute.
-8. Add white wine and reduce until most of the liquid is gone.
-9. Add whipping cream, season, and reduce for 3-4 minutes
-10. Place roasted red peppers, and cream mixture in blender. Puree. Keep warm.
-11. Place bundles on a serving platter and spoon roasted red pepper coulis over asparagus bundles
+1. Preheat broiler to 400F.
+2. Place asparagus in a shallow baking dish; season, add oil and lemon juice,
+   then toss gently so the spears do not break.
+3. Take 4 spears, tuck a sprig of rosemary in the middle, and wrap the centre
+   with proscuitto to make a bow; make 4 bundles.
+4. Place onto a baking sheet, then crumble goats cheese onto each bundle.
+5. Bake until set, about 7 to 10 minutes.
+6. Meanwhile prepare the coulis: heat oil in a sauce pan, add shallots and
+   garlic, season, and sear for 1 minute; add white wine and reduce until most
+   of the liquid is gone.
+7. Add whipping cream, season, and reduce until thickened, 3 to 4 minutes.
+8. Place roasted red peppers and cream mixture in a blender, puree, and keep
+   warm.
+9. Place bundles on a serving platter and spoon roasted red pepper coulis over
+   the asparagus bundles.

@@ -5,10 +5,6 @@ Chocolate Truffle Cheese Cake
 | Prep Time: 10 minutes | Cook Time: 60 minutes | Yield: 12 servings |
 +-----------------------+-----------------------+--------------------+
 
-If you are a chocolate fan it does not get any better than this cheese
-cake and is the best chocolate cheese cake I have had. It is one of the
-richest desserts out there and goes nicely with an ice wine.
-
 Equipment
 ---------
 
@@ -31,9 +27,9 @@ Cheese Cake Filling
 - 1 pound of cream cheese, softened
 - 1 cup sugar
 - 3 large eggs
+- 1/2 cup sour cream
 - 2 tablespoons amaretto
 - 8 ounces bitter sweet chocolate, melted
-- 1/2 cup sour cream
 
 Chocolate Ganache Topping
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -47,28 +43,25 @@ Directions
 Crust
 ^^^^^
 
-1. Combine wafer crumbs, melted butter, and nuts.
-2. Press mixture evenly into bottom of a 9 inch spring form pan and bake
-   at 350F for 10 min.
+1. Combine wafer crumbs, melted butter, and nuts; press evenly into
+   bottom of a 9 inch spring form pan.
+2. Bake at 350F for 10 min.
 
 Cheese Cake Filling
 ^^^^^^^^^^^^^^^^^^^
 
 1. Beat softened cream cheese with sugar until blended and smooth.
-2. Beat in eggs one at a time. Fold in sour cream.
+2. Beat in eggs one at a time, then fold in sour cream.
 3. Beat in amaretto, then melted chocolate.
 4. Pour into pan and smooth top.
-5. Back at 350F for 40 or 50 minutes. You can test to see if the cake
-   is done by inserting a tooth pick and if it comes out clean.
-6. Cool then refrigerate overnight.
+5. Bake at 350F until a toothpick inserted comes out clean, 40 or 50
+   minutes.
+6. Cool, then refrigerate overnight.
 
 Chocolate Ganache Topping
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1. Bring whipping cream to a boil in a double boiler. If you do not have
-   a double boiler a pot with boiling water with a bowl that rests on
-   top works well.
+1. Bring whipping cream to a boil in a double boiler (a pot of boiling
+   water with a bowl resting on top works well if you do not have one).
 2. Add chocolate and melt until smooth.
 3. Spoon over cake.
-
-

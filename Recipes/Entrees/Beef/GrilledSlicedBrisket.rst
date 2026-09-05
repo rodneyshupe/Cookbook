@@ -5,8 +5,6 @@ Grilled Sliced Brisket
 | Prep Time: 15 minutes | Cook Time: 3 minutes | Total Time: 10 hours | Yield: 4 servings |
 +-----------------------+----------------------+----------------------+-------------------+
 
-Source: `Bon Appetit <https://www.bonappetit.com/recipe/grilled-sliced-brisket>`__
-
 Ingredients
 -----------
 
@@ -16,8 +14,7 @@ Ingredients
 Directions
 ----------
 
-1. Freeze brisket until frozen solid in the centre, at least 8 hours.
-2. Let brisket stand at room temperature 2 hours. Slice brisket 1/8"
-   thick.
-3. Meanwhile, prepare grill for high heat; oil grate. Grill brisket
+1. Freeze the brisket until frozen solid in the centre, at least 8 hours.
+2. Let it stand at room temperature 2 hours, then slice 1/8" thick.
+3. Meanwhile, prepare the grill for high heat and oil the grate. Grill
    until lightly charred, about 1 minute per side for medium-rare.

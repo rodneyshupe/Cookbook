@@ -22,9 +22,8 @@ Ingredients
 Directions
 ----------
 
-1. In a small glass or stainless steel bowl, combine cinnamon stick
-   pieces, bay leaves, mustard seeds, allspice, coriander seeds,
-   peppercorns, ginger, dill seeds, cardamom seeds, hot pepper flakes
-   and cloves. Stir well. Store in 4-ounce (125 mL) jars or an 8-ounce
+1. Combine the cinnamon stick pieces, bay leaves, mustard seeds,
+   allspice, coriander seeds, peppercorns, ginger, dill seeds, cardamom
+   seeds, hot pepper flakes and cloves in a small glass or stainless
+   steel bowl. Stir well. Store in 4-ounce (125 mL) jars or an 8-ounce
    (250 mL) jar, or another airtight container, for up to 1 year.
-

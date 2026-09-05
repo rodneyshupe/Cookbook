@@ -25,22 +25,20 @@ Ingredients
 Directions
 ----------
 
-1. Adjust oven rack to upper-middle position and heat oven to 500F. Set
-   wire rack in rimmed baking sheet. Cook bacon in 12-inch nonstick skillet
-   over medium heat until crispy, 7 to 9 minutes. Transfer to paper towel-lined
-   plate. When bacon is cool enough to handle, chop fine and set aside.
-2. Season jalapenos with salt and place cut side down on wire rack. Bake until
-   just beginning to soften, about 5 minutes. Remove jalapenos from oven and
-   reduce oven temperature to 450F. When cool enough to handle, flip
-   jalapenos cut side up.
-3. Mix cheddar, Monterey Jack, cream cheese, scallions, cilantro, panko,
-   egg yolk, lime juice, cumin, and bacon together in bowl until thoroughly
-   combined. Divide cheese mixture among jalapenos, pressing into cavities.
-   Bake until jalapenos are tender and filling is lightly browned,
-   9 to 11 minutes. Let cool for 5 minutes. Serve.
+1. Adjust oven rack to upper-middle position and heat oven to 500F. Set a
+   wire rack in a rimmed baking sheet. Cook bacon in a 12-inch nonstick
+   skillet over medium heat until crispy, 7 to 9 minutes. Transfer to a paper
+   towel-lined plate. Once cool enough to handle, chop fine and set aside.
+2. Season jalapenos with salt and set cut side down on the wire rack. Bake
+   until just beginning to soften, about 5 minutes. Pull them out and drop the
+   oven to 450F. Once cool enough to handle, flip cut side up.
+3. Mix cheddar, Monterey Jack, cream cheese, scallions, cilantro, panko, egg
+   yolk, lime juice, cumin, and bacon in a bowl until thoroughly combined.
+   Divide the mixture among the jalapenos, pressing into the cavities. Bake
+   until tender and lightly browned, 9 to 11 minutes. Let cool 5 minutes, then
+   serve.
 
 Notes
 -----
 TO MAKE AHEAD: The filled and unbaked jalapenos can be covered and
 refrigerated for up to 1 day. Add 3 minutes to the baking time.
-

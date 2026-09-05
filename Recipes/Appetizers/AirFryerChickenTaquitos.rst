@@ -23,12 +23,12 @@ Directions
 ----------
 
 1. In a medium bowl, combine the shredded chicken, salsa verde, chipotle
-   peppers, and shredded cheese. Mix well.
-2. Warm the tortillas briefly so they are pliable. Place a spoonful of the
-   chicken mixture along the centre of each tortilla and roll tightly.
-3. Lightly brush or spray each taquito with vegetable oil. Place seam side
-   down in the air fryer basket in a single layer (work in batches if
-   needed).
-4. Air fry at 400F for 8-10 minutes, flipping halfway through, until
-   golden and crispy.
-5. Serve with sour cream, guacamole, or additional salsa verde for dipping.
+   peppers, and shredded cheese. Mix well. Warm the tortillas briefly so they
+   are pliable, then spoon the chicken mixture along the centre of each and
+   roll tightly.
+2. Lightly brush or spray each taquito with vegetable oil and set seam side
+   down in the air fryer basket in a single layer, working in batches if
+   needed.
+3. Air fry at 400F, flipping halfway through, until golden and crispy, 8-10
+   minutes. Serve with sour cream, guacamole, or additional salsa verde for
+   dipping.

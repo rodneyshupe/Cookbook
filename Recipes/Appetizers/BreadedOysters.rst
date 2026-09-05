@@ -8,31 +8,38 @@ Breaded Oysters
 Ingredients
 -----------
 
-- 8 oysters, shucked
-- 1 cup frisee lettuce
-- 1 cup assorted greens
-- 1 lime, juiced
-- 1 teaspoon Ginger, minced
-- sea salt
-- fresh cracked pepper
-- 1-2 teaspoon Sweet chilli sauce
 - 1/4 cup  mayonnaise, (4 tablespoons)
-- extra virgin olive oil
-- aged balsamic vinegar
+- 1 teaspoon Ginger, minced
+- 1-2 teaspoon Sweet chilli sauce
+- 1 lime, juiced
+- sea salt
 - 1/4 cup all purpose flour
+- fresh cracked pepper
 - 2 egg, beaten
 - 1 cup bread crumbs
 - 1 tablespoon Flat leaf parsley, chopped
+- 8 oysters, shucked
+- extra virgin olive oil
+- 1 cup assorted greens
+- aged balsamic vinegar
+- 1 cup frisee lettuce
 
 Directions
 ----------
 
-1. Prepare the dressing; in a small bowl add mayo, ginger, sweet chilli, lime juice and a pinch of salt, combine. Put aside.
-2. Prepare a breading station; place flour, salt, pepper in a plate. Beat eggs in a bowl. Combine bread crumbs and parsley in a plate.
-3. Season the oysters; dredge in flour and pat off excess. Put oysters in egg mixture, then in bread crumb mixture. Press firmly but not too hard into bread crumb mixture to cover all of the oysters properly.
-4. Transfer breaded oysters on to a plate.
-5. Heat a skillet, add 2-3 tablespoons Extra virgin olive oil. Add the oysters and cook each side for approx. 1-2 minutes or until golden brown.
-6. Put finish oyster onto a paper towel and let sit while you prepare the salad.
-7. In a bowl place assorted greens, season, and add 3 tablespoons Extra virgin olive oil, and 2 tablespoons Balsamic vinegar, toss.
-8. Place greens in the centre of the plate.
-9. Place 4 oysters around the salad. Top breaded oysters with dressing. You can enhance the salad by adding peppers, cherry tomatoes, avocado, artichokes, etc.
+1. Make the dressing first. In a small bowl combine mayo, ginger, sweet
+   chilli, lime juice and a pinch of salt, then set aside. Set up a breading
+   station: flour, salt and pepper on a plate, beaten eggs in a bowl, and
+   bread crumbs mixed with parsley on another plate.
+2. Season the oysters, then dredge in flour and pat off the excess. Dip into
+   the egg, then into the bread crumbs. Press firmly but not too hard so all
+   the oysters are properly covered, then transfer to a plate.
+3. Heat a skillet and add 2-3 tablespoons extra virgin olive oil. Add the
+   oysters and cook each side golden brown, about 1-2 minutes. Set finished
+   oysters on a paper towel to rest while you build the salad.
+4. In a bowl add assorted greens, season, then add 3 tablespoons extra virgin
+   olive oil and 2 tablespoons balsamic vinegar, and toss. Pile the greens in
+   the centre of the plate.
+5. Arrange 4 oysters around the salad and top them with the dressing. Enhance
+   the salad if you like by adding peppers, cherry tomatoes, avocado,
+   artichokes, etc.

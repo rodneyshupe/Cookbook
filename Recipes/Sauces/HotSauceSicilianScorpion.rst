@@ -5,8 +5,6 @@ Grilled Pineapple and Jalapeno Hot Sauce
 | Prep Time: 5 minutes | Total Time: 5 minutes | Yield: 1 3/4 cups |
 +----------------------+-----------------------+-------------------+
 
-Source: `Queen Majesty <https://www.youtube.com/watch?v=rACiVUJW0mc>`__
-
 Ingredients
 -----------
 
@@ -25,5 +23,4 @@ Ingredients
 Directions
 ----------
 
-1. Add all ingredients into a blender and puree until sauce forms.
-
+1. Combine all ingredients in a blender and puree until a smooth sauce forms.

@@ -23,14 +23,12 @@ Ingredients
 Directions
 ----------
 
-1. Prepare cauliflower, by breaking off the florets into small bit size
-   pieces. Blanch cauliflower in boiling water till al dente (2 minutes)
-   remove and cool down under cold water.
+1. Break cauliflower into small bite-size florets; blanch in boiling water
+   until al dente, about 2 minutes, then remove and cool under cold water.
 2. In a large stainless steel saucepan, add cauliflower, olives, onions,
-   ketchup, peppers, oil and vinegar, simmer gently for 10min. Add Tuna,
-   mushrooms and shrimp and simmer gently for 30min.
+   ketchup, peppers, oil and vinegar; simmer gently 10min. Add tuna, mushrooms
+   and shrimp and simmer gently 30min.
 3. Prepare canner, jars and lids.
-4. Place jars in canner, ensuring they are completely covered with
-   water. Bring to a boil and process for 10 minutes. Remove canner lid.
-   Wait 5 minutes, then remove jars, cool and store.
-
+4. Place jars in canner, ensuring they are completely covered with water;
+   bring to a boil and process 10 minutes. Remove canner lid, wait 5 minutes,
+   then remove jars, cool and store.

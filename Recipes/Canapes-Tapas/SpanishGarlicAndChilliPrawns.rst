@@ -5,8 +5,6 @@ Spanish Garlic and Chilli Prawns
 | Total Time: 10 minutes | Yield: 2 servings |
 +------------------------+-------------------+
 
-Source: `Bart van Olphen <https://www.jamieoliver.com/recipes/seafood-recipes/patsy-s-garlic-chilli-prawns/>`__
-
 Ingredients
 -----------
 
@@ -21,18 +19,16 @@ Ingredients
 Directions
 ----------
 
-1. Peel the prawns, removing the heads and leaving the tails on. Run the
-   tip of a knife down the backs of the peeled prawns and pull out and
-   discard the dark vein.
-2. Peel the garlic and finely chop with the chilli (deseed if you like).
-   Pick and finely chop the parsley leaves.
-3. Drizzle the oil into a shallow heatproof a small frying pan over a
-   medium-high heat, add the garlic and chilli and fry for 30 seconds to
-   flavour the oil, before stirring in the paprika.
-4. Add the prawns and fry for 2 minutes on each side, or until cooked
-   through, adding most of the parsley when you turn the prawns.
-5. Squeeze half the lemon juice into the dish, then remove from the heat
-   and sprinkle over the remaining parsley and a pinch of sea salt.
-6. Serve sizzling with warm crusty bread, the remaining lemon cut wedges
-   for squeezing over, and a glass of good Spanish wine.
-
+1. Peel the prawns, taking off the heads but leaving the tails on. Run a
+   knife tip down their backs and pull out the dark vein.
+2. Peel and finely chop the garlic with the chilli (deseed it if you
+   like). Pick and finely chop the parsley leaves.
+3. Drizzle the oil into a small heatproof frying pan over medium-high
+   heat. Add the garlic and chilli and fry until the oil is fragrant,
+   about 30 seconds, then stir in the paprika.
+4. Add the prawns and fry until cooked through, about 2 minutes each
+   side, tossing in most of the parsley when you turn them.
+5. Squeeze half the lemon over, then pull off the heat and scatter on the
+   rest of the parsley and a pinch of sea salt.
+6. Serve sizzling with warm crusty bread, the remaining lemon in wedges
+   for squeezing, and a glass of good Spanish wine.

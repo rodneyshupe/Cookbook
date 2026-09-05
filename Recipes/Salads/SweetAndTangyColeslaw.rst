@@ -22,20 +22,20 @@ Ingredients
 Directions
 ----------
 
-1. Combine 1/4 cup vinegar, oil, celery seed, and pepper in medium glass
-   or metal bowl. Place bowl in freezer until vinegar mixture is well
-   chilled, at least 15 minutes and up to 30 minutes.
-2. While mixture chills, toss cabbage with 1/4 cup sugar and 1 teaspoon
-   salt in large microwave-safe bowl. Cover with large plate and
-   microwave on high power for 1 minute. Stir briefly, re-cover, and
-   continue to microwave on high power until cabbage is partially wilted
-   and has reduced in volume by one-third, 30 to 60 seconds longer.
-3. Transfer cabbage to salad spinner and spin cabbage until excess water
-   is removed, 10 to 20 seconds. Remove bowl from freezer, add cabbage,
-   carrot, and parsley to cold vinegar mixture, and toss to combine. If
-   desired, adjust flavour with sugar or vinegar. Season with salt to
-   taste. Refrigerate until chilled, about 15 minutes. Toss again before
-   serving.
+1. Combine 1/4 cup vinegar, oil, celery seed, and pepper in a medium glass or
+   metal bowl. Chill in the freezer until the vinegar mixture is well chilled,
+   at least 15 minutes and up to 30 minutes.
+2. While the mixture chills, toss the cabbage with 1/4 cup sugar and 1
+   teaspoon salt in a large microwave-safe bowl. Cover with a large plate and
+   microwave on high power for 1 minute. Stir briefly, re-cover, and continue
+   to microwave on high power until the cabbage is partially wilted and
+   reduced in volume by one-third, 30 to 60 seconds longer.
+3. Transfer the cabbage to a salad spinner and spin until the excess water is
+   removed, 10 to 20 seconds. Remove the bowl from the freezer, add the
+   cabbage, carrot, and parsley to the cold vinegar mixture, and toss to
+   combine. Adjust the flavour with sugar or vinegar if desired, then season
+   with salt to taste. Refrigerate until chilled, about 15 minutes, and toss
+   again before serving.
 
 Variations
 ----------
@@ -60,7 +60,6 @@ tarragon.
 Red Bell Pepper and Jalapeno
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Replace celery seed with 2 tablespoons lime juice in step 1. In Step 3
+Replace celery seed with 2 tablespoons lime juice in Step 1. In Step 3
 replace Carrot and Parsley with 1/2 red bell pepper, thinly sliced 1-2
 seeded and minced jalapeno chiles, 1 scallion, thinly sliced.
-

@@ -19,15 +19,15 @@ Ingredients
 Directions
 ----------
 
-1. Preheat Sous-Vide to 125F
-2. Season beef thoroughly with the salt and pepper, and seal in vacuum
-   seal bag using the vacuum sealer. Let cook for at least 18 hours
-3. Place cast iron skillet over high heat. Carefully remove the roast
-   from the water bath. When skillet is smoking, cut open the bag and
-   place the roast in the skillet. Cook for 2 minutes before flipping
-   over and cooking on the other side for 2 more minutes. Remove from
-   heat. If you're using the blow torch, just graze the roast with the
-   flame until browned. Slice and serve.
+1. Preheat the sous-vide to 125F.
+2. Season the beef all over with the salt and pepper, then seal in a
+   vacuum bag with the vacuum sealer. Cook for at least 18 hours.
+3. Set a cast iron skillet over high heat. Carefully lift the roast from
+   the water bath. Once the skillet is smoking, cut open the bag and lay
+   the roast in the pan. Cook for 2 minutes, then flip and cook the other
+   side for 2 more minutes. Pull from the heat. If you're using the blow
+   torch, just graze the roast with the flame until browned. Slice and
+   serve.
 
 Notes
 -----

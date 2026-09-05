@@ -21,20 +21,18 @@ Directions
 ----------
 
 1. Prepare canner, jars and lids.
-2. In a large stainless steel saucepan, combine vinegar, water and salt.
-   Stir well and bring to a boil over medium-high heat, stirring to
-   dissolve salt.
+2. Combine vinegar, water and salt in a large stainless steel saucepan; stir
+   well and bring to a boil over medium-high heat, stirring to dissolve salt.
 3. Place 1/2 clove of garlic, 1 head of dill and 1/2 teaspoon of hot pepper
-   flakes, if using, in each hot jar. Pack carrot sticks into hot jars
-   to within a generous 1/2 inch of top of jar. Top with second head of
-   dill. Ladle hot pickling liquid into jar to cover carrots, leaving
-   1/2 inch headspace. Remove air bubbles and adjust headspace, if
-   necessary, by adding hot pickling liquid. Wipe rim. Center lid on
-   jar. Screw band down until resistance is met, then increase to
-   fingertip-tight.
-4. Place jars in canner, ensuring they are completely covered with
-   water. Bring to a boil and process for 10 minutes. Remove canner lid.
-   Wait 5 minutes, then remove jars, cool and store.
+   flakes, if using, in each hot jar, then pack carrot sticks into hot jars to
+   within a generous 1/2 inch of top of jar and top with second head of dill.
+   Ladle hot pickling liquid into jar to cover carrots, leaving 1/2 inch
+   headspace; remove air bubbles and adjust headspace, if necessary, by adding
+   hot pickling liquid. Wipe rim, center lid on jar and screw band down until
+   resistance is met, then increase to fingertip-tight.
+4. Place jars in canner, ensuring they are completely covered with water, then
+   bring to a boil and process for 10 minutes. Remove canner lid, wait 5
+   minutes, then remove jars, cool and store.
 
 Notes
 -----
@@ -44,4 +42,3 @@ Notes
 - If fresh dill is not available, use 1/2 teaspoon of dill seeds per jar.
 - For quick and easy dilled carrots, use baby carrots, available in
   bags in the produce department of grocery stores.
-

@@ -23,11 +23,11 @@ Directions
 ----------
 
 1. Add all ingredients except chicken into a food processor and process until
-   combined. Taste marinade now and adjust spicyness as desired. (Remember, it
-   is a marinade - you need to make it hotter and saltier than what you would
-   normally feel comfortable with)
-2. Massage the marinade into the chicken. Leave to marinade for 8 hours.
+   combined. Taste the marinade and adjust spiciness as desired, keeping in
+   mind it should be hotter and saltier than what you would normally feel
+   comfortable with.
+2. Massage the marinade into the chicken and leave to marinade for 8 hours.
 3. After 8 hours, remove the chicken from the fridge and allow to come to room
-   temperature. Cook over direct heat at medium grill tempurture until the
-   pieces register 165F (about 30 minutes) flipping ocationally to prevent
-   burning. Optinally you can also use smoke.
+   temperature. Cook over direct heat at medium grill temperature, flipping
+   occasionally to prevent burning, until the pieces register 165F, about 30
+   minutes. Optionally use smoke.

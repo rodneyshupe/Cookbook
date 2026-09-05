@@ -19,15 +19,14 @@ Ingredients
 Directions
 ----------
 
-1. If using diced tomatoes, go to step 2. If using whole tomatoes, drain
-   and reserve liquid. Dice tomatoes either by hand or in work bowl of
-   food processor fitted with metal blade (three or four pulses at 1/2
-   second). Tomatoes should be coarse, with 1/4-inch pieces visible. If
-   necessary, add enough reserved liquid to tomatoes to total 2 cups.
-2. Process garlic through garlic press into small bowl; stir in 1
-   teaspoon water. Heat oil and garlic in 10-inch saute pan over medium
-   heat until fragrant but not brown, about 2 minutes. Stir in tomatoes;
-   simmer until thickened slightly, about 10 minutes. Stir in basil,
-   sugar, and salt, and cook, stirring constantly, for 1 minute. Serve
-   over pasta.
-
+1. If using diced tomatoes, go to step 2. If using whole tomatoes, drain and
+   reserve the liquid. Dice the tomatoes by hand or in the work bowl of a food
+   processor fitted with a metal blade (three or four pulses at 1/2 second).
+   Aim for coarse tomatoes, with 1/4-inch pieces visible. If necessary, add
+   enough reserved liquid to total 2 cups.
+2. Process the garlic through a garlic press into a small bowl and stir in 1
+   teaspoon water. Heat the oil and garlic in a 10-inch saute pan over medium
+   heat until fragrant but not brown, about 2 minutes. Stir in the tomatoes
+   and simmer until thickened slightly, about 10 minutes. Stir in the basil,
+   sugar, and salt and cook, stirring constantly, for 1 minute. Serve over
+   pasta.

@@ -21,18 +21,18 @@ Ingredients
 Directions
 ----------
 
-1. Preheat sous-vide cooker to 135F.
-2. Combine salt, pepper, and instacure. Mix thoroughly. Rub brisket
-   liberally with seasoning.
-3. Place in vacuum bag, add liquid smoke if desired, and drop into
-   pre-heated water bath. Cook for 50 hours.
-4. After 50 hours, remove brisket from water bath and place in a bowl of
-   ice water for 30 minutes, changing ice once if necessary.
-5. While brisket is in ice bath, pre-heat smoker or oven to 225F
-6. Remove brisket from bag, pat dry, and add additional rub as
-   necessary.
-7. Place in smoker or oven for 3 hours until exterior has nice colour.
-8. Slice against the grain, and enjoy!
+1. Preheat the sous-vide cooker to 135F; meanwhile combine the salt,
+   pepper, and instacure and mix thoroughly, then rub the brisket
+   liberally with the seasoning. Seal in a vacuum bag, adding liquid
+   smoke if you like, and drop into the pre-heated water bath; cook for
+   50 hours.
+2. After 50 hours, pull the brisket from the water bath and settle it in
+   a bowl of ice water for 30 minutes, changing the ice once if needed;
+   while it chills, pre-heat the smoker or oven to 225F.
+3. Take the brisket from the bag, pat it dry, and add more rub as needed,
+   then place in the smoker or oven until the exterior has a nice colour,
+   about 3 hours.
+4. Slice against the grain and enjoy!
 
 Variations
 ----------

@@ -23,4 +23,3 @@ Ingredients
 - 1/2 teaspoon Garlic powder
 - 1/2 teaspoon ground Coriander
 - 1/2 teaspoon ground Cloves
-

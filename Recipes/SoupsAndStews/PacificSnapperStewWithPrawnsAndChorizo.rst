@@ -16,7 +16,7 @@ Ingredients
 - 1 fennel bulb, diced
 - 1/2 teaspoon dried thyme
 - 1/4 teaspoon saffron threads (substitute a pinch of turmeric)
-- 1 tablespoon of tomato paste
+- 1 tablespoon tomato paste
 - 1 cup dry white wine
 - 4 cups low-sodium chicken broth
 - 1 (13.5 fluid ounces / 400 ml) can diced tomatoes (with juices)
@@ -25,23 +25,23 @@ Ingredients
 - 1 pound (450 g) large prawns, peeled and deveined (deveining optional)
 - 1/2 cup chopped fresh parsley
 - Salt and freshly ground black pepper, to taste
-- crusty bread for serving.
+- Crusty bread for serving
 
 Directions
 ----------
 
-1. Heat olive oil in a large pot or Dutch oven over medium heat. Add chorizo
-   sausage and cook until lightly browned, about 5 minutes. Remove chorizo
-   with a slotted spoon and set aside.
-2. Add onion, garlic, leek, and fennel to the pot. Saute for 5-7 minutes, or
-   until softened and translucent. Stir in thyme saffron and tomato paste,
-   cook for an additional minute to release the flavours.
-3. Pour in white wine and cook for a few minutes, scraping up any browned
-   bits from the bottom of the pot. Add chicken broth, diced tomatoes, and
+1. Heat the olive oil in a large pot or Dutch oven over medium heat. Add the
+   chorizo sausage and cook until lightly browned, about 5 minutes. Remove the
+   chorizo with a slotted spoon and set aside.
+2. Add the onion, garlic, leek, and fennel to the pot. Saute for 5-7 minutes,
+   until softened and translucent. Stir in the thyme, saffron, and tomato
+   paste, and cook for an additional minute to release the flavours.
+3. Pour in the white wine and cook for a few minutes, scraping up any browned
+   bits from the bottom of the pot. Add the chicken broth, diced tomatoes, and
    water. Bring to a simmer.
-4. Reduce heat to low and add the Pacific snapper pieces. Simmer gently for
-   5 minutes.
-5. Add the prawns and cook for an additional 3-5 minutes, or until the
-   prawns are pink and opaque.
-6. Season the stew with salt and pepper to taste. Stir in the reserved
-   chorizo and chopped parsley. Serve hot with crusty bread for dipping.
+4. Reduce the heat to low and add the Pacific snapper pieces. Simmer gently
+   for 5 minutes.
+5. Add the prawns and cook for an additional 3-5 minutes, until the prawns are
+   pink and opaque.
+6. Season the stew with salt and pepper to taste. Stir in the reserved chorizo
+   and chopped parsley. Serve hot with crusty bread for dipping.

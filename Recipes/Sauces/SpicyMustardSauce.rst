@@ -19,5 +19,4 @@ Ingredients
 Directions
 ----------
 
-1. Whisk all ingredients together in bowl.
-
+1. Whisk all the ingredients together in a bowl.

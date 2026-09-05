@@ -7,10 +7,10 @@ Dips for Crudites
 
 Each combination makes 1 1/2 cups
 
-- Combine all ingredients in medium bowl until smooth and creamy. Transfer
-  dip to serving bowl, cover with plastic wrap, and refrigerate until flavours
-  are blended, at least 1 hour; serve cold with crudites. (Can be
-  refrigerated in airtight container for up to 2 days.)
+- Combine all ingredients in a medium bowl until smooth and creamy. Transfer to
+  a serving bowl, cover with plastic wrap, and refrigerate until the flavours
+  blend, at least 1 hour. Serve cold with crudites. (Keeps in an airtight
+  container up to 2 days.)
 
 Caesar Dip with Parmesan and Anchovies
 --------------------------------------

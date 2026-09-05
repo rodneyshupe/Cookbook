@@ -5,8 +5,6 @@ Pan-Seared Flank Steak with Mustard-Chive Butter
 | Prep Time: 15 minutes | Cook Time: 45 minutes | Yield: 4 servings |
 +-----------------------+-----------------------+-------------------+
 
-Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/8495-pan-seared-flank-steak-with-mustard-chive-butter>`__
-
 Ingredients
 -----------
 
@@ -23,22 +21,22 @@ Ingredients
 Directions
 ----------
 
-1. Adjust oven rack to middle position and heat oven to 225F. Pat steak
-   dry with paper towels. Cut steak in half lengthwise. Cut each piece
-   in half crosswise to create 4 steaks. Combine salt, sugar, and pepper
-   in small bowl. Sprinkle half of salt mixture on 1 side of steaks and
-   press gently to adhere. Flip steaks and repeat with remaining salt
-   mixture. Place steaks on wire rack set in rimmed baking sheet;
-   transfer sheet to oven. Cook until thermometer inserted through side
-   into centre of thickest steak registers 120F, 30 to 40 minutes.
-2. Meanwhile, combine butter, 1 tablespoon chives, mustard, and lemon
-   zest and juice in small bowl.
-3. Heat oil in 12-inch skillet over medium-high heat until just smoking.
-   Sear steaks, flipping every 1 minute, until brown crust forms on both
-   sides, 4 minutes total. (Do not move steaks between flips.) Return
-   steaks to wire rack and let rest for 10 minutes.
-4. Transfer steaks to cutting board with grain running from left to
-   right. Spread 1 1/2 teaspoons butter mixture on top of each steak.
-   Slice steak as thin as possible against grain. Transfer sliced steak
-   to warm platter, dot with remaining butter mixture, sprinkle with
-   remaining 2 tablespoons chives, and serve.
+1. Set an oven rack to the middle and heat the oven to 225F. Pat the
+   steak dry with paper towels. Cut it in half lengthwise, then cut each
+   piece in half crosswise for 4 steaks. Combine the salt, sugar, and
+   pepper in a small bowl. Sprinkle half the salt mixture over 1 side
+   of the steaks and press gently to adhere. Flip and repeat with the
+   rest. Set the steaks on a wire rack in a rimmed baking sheet and slide
+   it into the oven. Cook until a thermometer inserted through the side
+   into the centre of the thickest steak reads 120F, 30 to 40 minutes.
+2. Meanwhile, combine the butter, 1 tablespoon chives, mustard, and the
+   lemon zest and juice in a small bowl.
+3. Heat the oil in a 12-inch skillet over medium-high until just
+   smoking. Sear the steaks, flipping every 1 minute, until a brown
+   crust forms on both sides, 4 minutes total. Don't move them between
+   flips. Return the steaks to the wire rack and let rest 10 minutes.
+4. Move the steaks to a cutting board with the grain running left to
+   right. Spread 1 1/2 teaspoons butter mixture on top of each. Slice as
+   thin as possible against the grain. Transfer to a warm platter, dot
+   with the remaining butter mixture, sprinkle with the remaining 2
+   tablespoons chives, and serve.

@@ -18,15 +18,15 @@ Ingredients
 Directions
 ----------
 
-1. Scoop 8 cups ice into a large bowl; set aside. Combine salt, sugar, and
-   6 cups water in a large saucepan. Cut lemons in half, squeeze juice
-   into pot, and toss in lemon halves. Bring liquid to a boil, stirring to
-   dissolve salt and sugar, then remove pot from heat. Add shrimp and
-   poach, uncovered, 3 1/2 minutes.
-2. Immediately add reserved ice to saucepan to rapidly chill the liquid and
-   stop the cooking. Let shrimp sit in ice bath 10 minutes. Drain, pat dry,
-   and peel. Pat dry again. Cover and chill until ready to serve.
-3. Serve shrimp on cracked ice with lemon wedges and cocktail sauce
+1. Scoop 8 cups ice into a large bowl and set aside. Combine salt, sugar, and
+   6 cups water in a large saucepan; cut lemons in half, squeeze the juice
+   into the pot, and toss in the halves. Bring to a boil, stirring to dissolve
+   the salt and sugar, then pull from the heat. Add shrimp and poach uncovered
+   until opaque and curled, about 3 1/2 minutes.
+2. Add the reserved ice to the saucepan to chill the liquid fast and stop the
+   cooking; let the shrimp sit in the ice bath 10 minutes. Drain, pat dry, and
+   peel, then pat dry again. Cover and chill until ready to serve.
+3. Serve the shrimp on cracked ice with lemon wedges and cocktail sauce
    alongside.
 
 Notes

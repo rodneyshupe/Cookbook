@@ -20,8 +20,6 @@ Ingredients
 Directions
 ----------
 
-1. Combine the orange juice, lime juice, honey, ground cumin, salt, garlic,
-   and diced jalapenos in a blender until jalapenos are cut small and the
-   honey is evenly mixed.
-2. Add to a bowl or ziplock bag.
-
+1. Blend the orange juice, lime juice, honey, ground cumin, salt, garlic, and
+   diced jalapenos until the jalapenos are cut small and the honey is evenly
+   mixed, then transfer to a bowl or ziplock bag.

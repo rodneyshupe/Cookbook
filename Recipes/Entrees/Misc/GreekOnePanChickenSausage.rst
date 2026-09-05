@@ -34,11 +34,11 @@ Chicken & Sausage
 Directions
 ----------
 
-1. Combine all marinade ingredients in a small bowl - mix well to combine.
-2. Preheat oven to 400F
-3. Put chicken, sausage and vegetables (not the parsley) into a large bowl
-   and add marinade - mix well to make sure everything is covered
-4. Arrange on a baking sheet or put in a large oven-proof bowl and bake about
-   an hour, or until chicken registers 180F
-5. Put on a serving platter, and drizzle with a little more olive oil and
-   sprinkle with parsley
+1. Combine all marinade ingredients in a small bowl and mix well. Preheat oven
+   to 400F.
+2. Put chicken, sausage and vegetables (not the parsley) into a large bowl and
+   add the marinade, mixing well to make sure everything is covered.
+3. Arrange on a baking sheet or put in a large oven-proof bowl and bake until
+   chicken registers 180F, about an hour.
+4. Put on a serving platter, drizzle with a little more olive oil, and
+   sprinkle with parsley.

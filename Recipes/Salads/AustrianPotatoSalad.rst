@@ -30,22 +30,21 @@ Ingredients
 Directions
 ----------
 
-1. Bring potatoes, broth, water, 1 teaspoon salt, sugar, and 1
-   tablespoon vinegar to boil in 12-inch heavy-bottomed skillet over
-   high heat. Reduce heat to medium-low, cover, and cook until potatoes
-   offer no resistance when pierced with paring knife, 15 to 17 minutes.
-   Remove cover, increase heat to high (so cooking liquid will reduce),
-   and cook 2 minutes.
-2. Drain potatoes in colander set over large bowl, reserving cooking
-   liquid. Set drained potatoes aside. Pour off and discard all but 1/2
-   cup cooking liquid (if 1/2 cup liquid does not remain, add water to
-   make 1/2 cup). Whisk remaining tablespoon vinegar, mustard, and oil
-   into cooking liquid.
-3. Add 1/2 cup cooked potatoes to bowl with cooking liquid mixture and
-   mash with potato masher or fork until thick sauce forms (mixture will
-   be slightly chunky). Add remaining potatoes, onion, cornichons, and
-   chives, folding gently with rubber spatula to combine. Season to
-   taste with salt and black pepper. Serve warm or at room temperature.
+1. Bring potatoes, broth, water, 1 teaspoon salt, sugar, and 1 tablespoon
+   vinegar to boil in 12-inch heavy-bottomed skillet over high heat. Reduce
+   heat to medium-low, cover, and cook until potatoes offer no resistance when
+   pierced with paring knife, 15 to 17 minutes. Remove cover, increase heat to
+   high so cooking liquid will reduce, and cook 2 minutes.
+2. Drain potatoes in colander set over large bowl, reserving cooking liquid,
+   and set drained potatoes aside. Pour off and discard all but 1/2 cup
+   cooking liquid (if 1/2 cup liquid does not remain, add water to make 1/2
+   cup). Whisk remaining tablespoon vinegar, mustard, and oil into cooking
+   liquid.
+3. Add 1/2 cup cooked potatoes to bowl with cooking liquid mixture and mash
+   with potato masher or fork until thick sauce forms; the mixture will be
+   slightly chunky. Add remaining potatoes, onion, cornichons, and chives,
+   folding gently with rubber spatula to combine. Season to taste with salt
+   and black pepper. Serve warm or at room temperature.
 
 Notes
 -----
@@ -55,4 +54,3 @@ their place.
 
 To maintain its consistency, don't refrigerate the salad; it should be
 served within 4 hours of preparation.
-

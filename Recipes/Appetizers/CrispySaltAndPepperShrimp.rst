@@ -27,32 +27,28 @@ Ingredients
 Directions
 ----------
 
-1. Adjust oven rack to upper-middle position and heat oven to 225F.
-   Toss shrimp, rice wine, and 1 teaspoon salt together in large bowl
-   and set aside for 10 to 15 minutes.
-2. Grind black peppercorns and Sichuan peppercorns in spice grinder or
-   mortar and pestle until coarsely ground. Transfer peppercorns to
-   small bowl and stir in sugar and cayenne.
-3. Heat oil in large Dutch oven over medium heat until oil registers
-   385F. While oil is heating, drain shrimp and pat dry with paper
-   towels. Transfer shrimp to bowl, add 3 tablespoons cornstarch and 1
-   tablespoon peppercorn mixture, and toss until well combined.
-4. Carefully add half of shrimp to oil and fry, stirring occasionally to
-   keep shrimp from sticking together, until light brown, 2 to 3
-   minutes. Using wire skimmer or slotted spoon, transfer shrimp to
-   paper towel-lined plate. Once paper towels absorb any excess oil,
-   transfer shrimp to wire rack set in rimmed baking sheet and place in
-   oven. Return oil to 385F and repeat in 2 more batches, tossing each
-   batch thoroughly with coating mixture before frying.
-5. Toss jalapeno rings and remaining 2 tablespoons cornstarch in medium
-   bowl. Shaking off excess cornstarch, carefully add jalapeno rings to
-   oil and fry until crispy, 1 to 2 minutes. Using wire skimmer or
-   slotted spoon, transfer jalapeno rings to paper towel-lined plate.
-   After frying, reserve 2 tablespoons frying oil.
-6. Heat reserved oil in 12-inch skillet over medium-high heat until
-   shimmering. Add garlic, ginger, and remaining peppercorn mixture and
-   cook, stirring occasionally, until mixture is fragrant and just
-   beginning to brown, about 45 seconds. Add shrimp, scallions, and 1/2
-   teaspoon salt and toss to coat. Line platter with lettuce. Transfer
-   shrimp to platter, sprinkle with jalapeno rings, and serve
-   immediately.
+1. Set oven rack to upper-middle position and heat oven to 225F. Toss shrimp,
+   rice wine, and 1 teaspoon salt together in large bowl; set aside 10 to 15
+   minutes. Meanwhile, grind black peppercorns and Sichuan peppercorns
+   coarsely in spice grinder or mortar and pestle, transfer to small bowl, and
+   stir in sugar and cayenne.
+2. Heat oil in large Dutch oven over medium heat until it registers 385F.
+   While it heats, drain shrimp and pat dry with paper towels, then toss in
+   bowl with 3 tablespoons cornstarch and 1 tablespoon peppercorn mixture
+   until well combined.
+3. Carefully add half the shrimp to oil and fry, stirring occasionally so they
+   don't stick, until light brown, 2 to 3 minutes. Lift out with wire skimmer
+   or slotted spoon to paper towel-lined plate; once excess oil is absorbed,
+   move to wire rack set in rimmed baking sheet and place in oven. Return oil
+   to 385F and repeat in 2 more batches, tossing each batch thoroughly with
+   coating mixture before frying.
+4. Toss jalapeno rings with remaining 2 tablespoons cornstarch in medium bowl.
+   Shaking off excess, carefully add rings to oil and fry until crispy, 1 to 2
+   minutes. Lift out with wire skimmer or slotted spoon to paper towel-lined
+   plate, then reserve 2 tablespoons frying oil.
+5. Heat reserved oil in 12-inch skillet over medium-high heat until
+   shimmering. Add garlic, ginger, and remaining peppercorn mixture and cook,
+   stirring occasionally, until fragrant and just beginning to brown, about 45
+   seconds. Add shrimp, scallions, and 1/2 teaspoon salt and toss to coat.
+   Line platter with lettuce, transfer shrimp on top, sprinkle with jalapeno
+   rings, and serve immediately.

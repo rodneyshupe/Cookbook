@@ -23,13 +23,11 @@ Ingredients
 Directions
 ----------
 
-1. In a large stock pot, cover peas with 2 quarts cold water and soak
-   overnight. If you need a faster method, simmer the peas gently for 2
-   minutes, and then soak for 1 hour.
-2. Once peas are soaked, add ham bone, onion, salt, pepper and marjoram.
-   Cover, bring to boil and then simmer for 1 1/2 hours, stirring
-   occasionally.
-3. Remove bone; cut off meat, dice and return meat to soup. Add celery,
-   carrots and potatoes. Cook slowly, uncovered for 30 to 40 minutes, or
-   until vegetables are tender.
-
+1. In a large stock pot, cover the peas with 2 quarts cold water and soak
+   overnight. For a faster method, simmer the peas gently for 2 minutes, then
+   soak for 1 hour.
+2. Add the ham bone, onion, salt, pepper, and marjoram to the soaked peas.
+   Cover, bring to a boil, then simmer for 1 1/2 hours, stirring occasionally.
+3. Remove the bone; cut off the meat, dice it, and return it to the soup. Add
+   the celery, carrots, and potatoes. Cook slowly, uncovered, for 30 to 40
+   minutes, until the vegetables are tender.

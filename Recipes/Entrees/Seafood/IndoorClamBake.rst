@@ -20,15 +20,15 @@ Directions
 ----------
 
 1. Place clams and mussels on large piece of cheesecloth and tie ends
-   together to secure; set aside. In heavy-bottomed 12-quart stockpot,
-   layer sliced kielbasa, sack of clams-mussels, potatoes, corn, and
-   prawns and crab on top of one another. Cover with lid and place over
-   high heat. Cook until potatoes are tender (paring knife can be
-   slipped into and out of potato centers with little resistance), and
-   crabs are bright red, 17 to 20 minutes.
+   together to secure, then set aside. In heavy-bottomed 12-quart
+   stockpot, layer sliced kielbasa, sack of clams-mussels, potatoes,
+   corn, and prawns and crab on top of one another. Cover with lid and
+   place over high heat. Cook until potatoes are tender (paring knife
+   can be slipped into and out of potato centers with little resistance)
+   and crabs are bright red, 17 to 20 minutes.
 2. Remove pot from heat and remove lid (watch out for scalding steam).
    Remove prawns and crab and set aside until cool enough to handle.
-   Remove corn from pot and peel off husks; arrange ears on large
+   Remove corn from pot and peel off husks, then arrange ears on large
    platter. Using slotted spoon, remove potatoes and arrange them on
    platter with corn. Transfer clams and mussels to large bowl and cut
    open cheesecloth with scissors. Using slotted spoon, remove kielbasa

@@ -20,7 +20,7 @@ Ingredients
 Directions
 ----------
 
-Combine all ingredients in small bowl. Cover with plastic wrap and refrigerate
-until flavours meld, about 15 minutes.
+Combine all ingredients in a small bowl. Cover with plastic wrap and
+refrigerate until flavours meld, about 15 minutes.
 
 Tartar Sauce with Dill

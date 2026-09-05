@@ -27,13 +27,13 @@ Ingredients
 Directions
 ----------
 
-1. Pat dry prawns and scallops and season with salt and pepper. In a medium
-   hot pan saute prawns and scallops in olive oil until golden brown, then
+1. Pat prawns and scallops dry and season with salt and pepper. In medium
+   hot pan, saute prawns and scallops in olive oil until golden brown, then
    set aside.
-2. Add sausage to now empty pan and fry until browned, about 3 min. Add
-   carrot, and celery and cook for about 3 minutes.  Add mushrooms, red pepper
-   and ginger, cook until vegetables just beginning to soften, about
+2. Add sausage to now-empty pan and fry until browned, about 3 min. Add
+   carrot and celery and cook for about 3 minutes. Add mushrooms, red pepper,
+   and ginger and cook until vegetables just begin to soften, about
    3-5 minutes.
-3. Add paprika, turmeric, cayenne pepper, and thyme, and cook for 30 seconds.
-   Add orange juice, bring to a boil and simmer for 2 minutes, add prawns and
-   scallops back to the pan along with peanuts and reheat. Serve over rice.
+3. Add paprika, turmeric, cayenne pepper, and thyme and cook for 30 seconds.
+   Add orange juice, bring to boil, and simmer for 2 minutes. Add prawns and
+   scallops back to pan along with peanuts and reheat. Serve over rice.

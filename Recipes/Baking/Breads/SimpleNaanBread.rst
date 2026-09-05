@@ -20,17 +20,16 @@ Ingredients
 Directions
 ----------
 
-1. Combine yeast, water and sugar - give a quick mix and set aside until
-   foamy, about 10 minutes. (If using instant yeast just add these ingredients
-   to flour in step 2)
-2. Add to flour, yogurt, oil & salt in a mixer - and using dough hook mix
-   about 10 minutes or until smooth and pulled away from the sides and in a
-   ball
-3. Put into a lightly oil bowl, cover with a damp towel and set aside in a
-   warm place for 60 minutes
-4. Put on a floured surface and roll into an even log - cut into 8 pieces,
-   then turn each into a round ball
-5. Flatten with a rolling pin into a 6-8 inch circle, and cook in a medium
-   hot, lightly oiled pan a couple minutes a side until bubbly
-6. Remove and brush with garlic butter if using
-
+1. Combine yeast, water and sugar; give a quick mix and set aside until foamy,
+   about 10 minutes. (If using instant yeast, just add these ingredients to
+   flour in step 2.)
+2. Add to flour, yogurt, oil and salt in a mixer, then using the dough hook
+   mix about 10 minutes or until smooth and pulled away from the sides and in
+   a ball.
+3. Put into a lightly oiled bowl, cover with a damp towel, and set aside in a
+   warm place for 60 minutes.
+4. Put on a floured surface and roll into an even log; cut into 8 pieces, then
+   turn each into a round ball.
+5. Flatten with a rolling pin into a 6-8 inch circle, then cook in a
+   medium-hot, lightly oiled pan until bubbly, a couple minutes a side.
+6. Remove and brush with garlic butter if using.

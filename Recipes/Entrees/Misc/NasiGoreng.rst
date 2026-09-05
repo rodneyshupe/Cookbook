@@ -31,18 +31,19 @@ Rice
 Directions
 ----------
 
-1. Mix together all ingredients needed for the sauce. Mix until everything is
-   well combined.
-2. In a cast iron skillet or non-stick pan, heat up a tablespoon or so of
-   neutral tasting oil over medium high heat. Once pan is heated, add in
-   onion and saute until translucent, about 3-4 minutes.
-3. Next, stir in garlic and cook for another minute or so until fragrant.
-4. Season meat with salt and pepper and add to onions.  Cook until meat is
+1. Mix together all the sauce ingredients until well combined.
+2. In a cast iron skillet or non-stick pan, heat a tablespoon or so of neutral
+   tasting oil over medium high heat. Once the pan is hot, add the onion and
+   saute until translucent, about 3-4 minutes.
+3. Stir in the garlic and cook until fragrant, about another minute.
+4. Season the meat with salt and pepper, add to the onions, and cook until
    browned on all sides.
-5. Add in carrot cubes (or cabbage) and cook for another 3-4 minutes, or until
-   they have softened slightly.
-6. Now, add in cooked rice along with sauce. Saute for 3-4 minutes, or until rice is warmed
-7. Remove from heat and stir in chopped green onion. Add some salt to taste, if needed.
+5. Add the carrot cubes (or cabbage) and cook until softened slightly, about
+   3-4 minutes.
+6. Add the cooked rice along with the sauce and saute until the rice is
+   warmed, about 3-4 minutes.
+7. Remove from heat and stir in the chopped green onion. Add salt to taste, if
+   needed.
 
 Variations
 ----------

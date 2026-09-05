@@ -15,12 +15,12 @@ Ingredients
 Directions
 ----------
 
-1. Preheat oven to 400F.
-2. Put stew into a baking dish. Roll out the puff pastry to fit the dish,
-   and place on the top, crimp or seal around the edges, then use a knife
-   to make 4 or 5 vent holes
-3. Place in oven and bake approximately 30-40 minutes or until top is
-   golden brown and stew is starting to bubble out the vent holes.
-4. Let cool a bit for 5-10 minutes before serving.
+1. Heat oven to 400F.
+2. Spoon the stew into a baking dish. Roll out the puff pastry to fit,
+   lay it over the top, crimp or seal the edges, then cut 4 or 5 vent
+   holes with a knife.
+3. Bake until the top is golden brown and the stew is bubbling out the
+   vent holes, about 30 to 40 minutes.
+4. Let it rest a few minutes before serving, 5 to 10 minutes.
 
 .. note:: Stew can be made a day ahead and brought up to room tempurature before starting.

@@ -31,10 +31,10 @@ Steak
 Directions
 ----------
 
-1. Combine all ingredients for the marinade in a non-reactive bowl.
-2. Add meat and mix together unlit meat is fully coated. Let marinade
-   for 30 minutes at room temperature.
-3. Cook for 2 minutes per side.
-4. Let rest for 5 minutes and then slice against the grain.
-5. Serve on tortillas with some hot sauce and cilantro and optionally
-   sliced avocado.
+1. Combine all the marinade ingredients in a non-reactive bowl. Add the meat
+   and toss until fully coated, then let it marinate at room temperature,
+   30 minutes.
+2. Cook 2 minutes per side, then let rest 5 minutes and slice against the
+   grain.
+3. Serve on tortillas with hot sauce and cilantro, and sliced avocado if
+   you like.

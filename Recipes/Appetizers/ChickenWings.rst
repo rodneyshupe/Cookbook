@@ -20,15 +20,12 @@ Ingredients
 Directions
 ----------
 
-1. In a large bowl, add in the chicken wings. Sprinkle over the seasoning
-   mix and ap flour. Toss to combine and well coat each chicken wing.
-2. Spray the air fryer basket with a little bit of oil and then place in
-   your chicken wings. Air fry at 250 or 20 minutes.
-3. Once done, take them out and place them in the fridge for 30 minutes to
-   cool. Then place them back in the air fryer and give them a quick spray
-   of oil.
-4. Crank up the temp to 400F for 8 minutes. Take out of the fryer and coat
-   with sauce.
+1. Toss the wings in a large bowl with the seasoning mix and ap flour until
+   each one is well coated. Spray the air fryer basket with a little oil, add
+   the wings, and air fry at 250 or 20 minutes.
+2. Once done, chill them in the fridge for 30 minutes until cooled, then
+   return them to the air fryer and give them a quick spray of oil. Crank the
+   temp to 400F for 8 minutes, until crisp, then take out and coat with sauce.
 
 Sauces Suggestions
 ------------------
@@ -39,8 +36,8 @@ Sauces Suggestions
 * `Honey Garlic Wing Sauce <#honey-garlic-wing-sauce>`__
 * `Infinate Sauce <#infinate-sauce>`__
 
-Variation
----------
+Variations
+----------
 
 * Prepare the same as in step 1 but cook in a single layer at 380 for
   15 minutes, then sauce.

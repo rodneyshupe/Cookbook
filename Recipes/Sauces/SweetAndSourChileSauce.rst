@@ -5,8 +5,6 @@ Sweet and Sour Chile Sauce
 | Total Time: 20 minutes, plus cooling | Yield: Serves 8 to 10 (Makes about 1 cup) |
 +--------------------------------------+-------------------------------------------+
 
-Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/8126-sweet-and-sour-chile-sauce>`__
-
 Ingredients
 -----------
 
@@ -20,7 +18,6 @@ Ingredients
 Directions
 ----------
 
-1. Bring all ingredients to boil in small saucepan over medium-high heat.
-   Cook, stirring occasionally, until mixture thickens to thin syrup, 4 to
-   6 minutes. Let cool completely before serving.
-
+1. Bring all ingredients to a boil in a small saucepan over medium-high heat.
+   Cook, stirring occasionally, until the mixture thickens to a thin syrup, 4
+   to 6 minutes. Let cool completely before serving.

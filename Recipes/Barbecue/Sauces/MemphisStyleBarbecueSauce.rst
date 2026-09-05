@@ -40,7 +40,7 @@ Ingredients
 Directions
 ----------
 
-1. Melt butter in medium saucepan over medium heat. Add onion and cook
+1. Melt butter in a medium saucepan over medium heat. Add onion and cook
    until softened, about 5 minutes. Add garlic and cook until fragrant,
    about 30 seconds.
 2. Add tomato sauce, cider vinegar, rice vinegar, molasses,
@@ -49,6 +49,5 @@ Directions
    heat to low and simmer until slightly thickened, about 15-20 minutes,
    stirring occasionally.
 3. Transfer sauce to the jar of a blender and blend until smooth. Let
-   cool to room temperature, transfer to a jar and store in refrigerator
-   for up to a month.
-
+   cool to room temperature, transfer to a jar and store in the
+   refrigerator for up to a month.

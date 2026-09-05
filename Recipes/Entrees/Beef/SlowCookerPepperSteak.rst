@@ -35,13 +35,11 @@ Ingredients
 Directions
 ----------
 
-1. Add sliced flank steak and cornstarch to a large resealable plastic
-   bag. Close and shake to coat well.
-2. To the bottom of slow cooker, add vegetable oil, garlic, water, soy
-   sauce, brown sugar. Stir to combine.
-3. Add in coated flank steak and stir again until everything is coated in
-   the sauce.
-4. Cover and cook on HIGH for 3 hours (or Low for 5 hours) until steak is
-   cooked and tender. With 1 1/2 hours remaining add in sliced onion and
-   peppers.
-5. Serve over white rice.
+1. Toss the sliced steak and cornstarch in a large resealable bag, then
+   close and shake to coat well.
+2. Add the vegetable oil, garlic, water, soy sauce, and brown sugar to the
+   bottom of the slow cooker and stir to combine; add the coated steak and
+   stir again until everything is coated in the sauce.
+3. Cover and cook until the steak is cooked and tender, 3 hours on HIGH (or
+   5 hours on Low), stirring in the sliced onion and peppers with 1 1/2 hours
+   remaining; serve over white rice.

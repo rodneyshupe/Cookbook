@@ -5,8 +5,6 @@ Skillet Beef Stroganoff
 | Prep Time: 15 minutes | Cook Time: 1 hour | Yield: 4-6 servings |
 +-----------------------+-------------------+---------------------+
 
-Source: `Americas Test Kitchen <https://www.americastestkitchen.com/recipes/3543-skillet-beef-stroganoff>`__
-
 Ingredients
 -----------
 
@@ -26,21 +24,23 @@ Ingredients
 Directions
 ----------
 
-1. Use a meat pounder to pound the meat to an even 1/2-inch thickness.
-   Cutting with the grain, slice the pounded meat into strips about 2 inches
-   wide.  Slice each strip of meat against the grain into 1/2-inch pieces.
-2. Pat beef dry with paper towels and season with salt and pepper. Heat
-   1 tablespoon oil in large skillet over medium-high heat until just
-   smoking. Cook half of beef until well browned, 3 to 4 minutes per side.
-   Transfer to medium bowl and repeat with 1 tablespoon more oil and
+1. Pound the meat to an even 1/2-inch thickness with a meat pounder. Cutting
+   with the grain, slice it into strips about 2 inches wide, then slice each
+   strip against the grain into 1/2-inch pieces.
+2. Pat the beef dry with paper towels and season with salt and pepper. Heat
+   1 tablespoon oil in a large skillet over medium-high heat until just
+   smoking. Cook half the beef until well browned, 3 to 4 minutes per side,
+   then transfer to a medium bowl. Repeat with 1 tablespoon more oil and the
    remaining beef.
-3. Heat remaining 2 tablespoons oil in now-empty skillet until shimmering.
-   Cook mushrooms, onion, and 1/2 teaspoon salt until liquid from mushrooms
-   has evaporated, about 8 minutes. (If pan becomes too brown, pour
-   accumulated beef juices into skillet.) Stir in flour and cook for
-   30 seconds. Gradually stir in broths, then brandy, and return beef and
-   accumulated juices to pan. Bring to simmer, cover, and cook over low heat
-   until beef is tender, 30 to 35 minutes.
-4. Stir noodles into beef mixture, cover, and cook, stirring occasionally,
-   until noodles are tender, 10 to 12 minutes. Off heat, stir in sour cream
-   and lemon juice. Season with salt and pepper. Serve.
+3. Heat the remaining 2 tablespoons oil in the now-empty skillet until
+   shimmering. Cook the mushrooms, onion, and 1/2 teaspoon salt until the
+   liquid from the mushrooms has evaporated, about 8 minutes. (If the pan
+   gets too brown, pour the accumulated beef juices into the skillet.) Stir
+   in the flour and cook 30 seconds. Gradually stir in the broths, then the
+   brandy, and return the beef and accumulated juices to the pan. Bring to a
+   simmer, cover, and cook over low heat until the beef is tender, 30 to
+   35 minutes.
+4. Stir the noodles into the beef mixture, cover, and cook, stirring
+   occasionally, until the noodles are tender, 10 to 12 minutes. Off heat,
+   stir in the sour cream and lemon juice. Season with salt and pepper.
+   Serve.

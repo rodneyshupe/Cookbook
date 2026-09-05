@@ -31,8 +31,8 @@ Ingredients for salad
 Directions
 ----------
 
-1. Prepare the dressing by combining all the ingredients in a bowl
-2. Put the vegetables in a large bowl
-3. Pour the dressing into the main ingredients, and toss
-4. Chill and serve cold (can be served on a bed of crisp greens)
-
+1. Combine the honey, yogurt, mayonnaise, salt, and pepper in a bowl for the
+   dressing.
+2. Put the vegetables in a large bowl, pour the dressing over top, and toss to
+   coat.
+3. Chill, then serve cold on a bed of crisp greens.

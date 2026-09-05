@@ -5,8 +5,6 @@ Spiced Pork Lettuce Wraps
 | Prep Time: 15 minutes | Cook Time: 10 minutes | Yield: 4 servings |
 +-----------------------+-----------------------+-------------------+
 
-Source: `Cook's Country <https://www.cookscountry.com/recipes/9802-spiced-pork-lettuce-wraps>`__
-
 Ingredients
 -----------
 
@@ -25,11 +23,11 @@ Ingredients
 Directions
 ----------
 
-1. Whisk sour cream, mint, water, and 1/4 teaspoon cumin together in bowl;
+1. Whisk sour cream, mint, water, and 1/4 teaspoon cumin together in a bowl;
    season with salt and pepper to taste. Set aside.
-2. Cook pork in 12-inch nonstick skillet over medium-high heat until no
-   longer pink, about 4 minutes, breaking up meat with spoon. Stir in
-   Sriracha, garlic, remaining 3/4 teaspoon cumin, 1 teaspoon salt, and
-   1/2 teaspoon pepper and cook until fragrant, about 2 minutes. Transfer
-   to 1 side of large serving platter. Arrange lettuce, avocado, and mango
-   on empty side of platter. Serve, passing sour cream mixture separately.
+2. Cook pork in 12-inch nonstick skillet over medium-high heat until no longer
+   pink, about 4 minutes, breaking up meat with spoon. Stir in Sriracha,
+   garlic, remaining 3/4 teaspoon cumin, 1 teaspoon salt, and 1/2 teaspoon
+   pepper; cook until fragrant, about 2 minutes. Transfer to 1 side of large
+   serving platter. Arrange lettuce, avocado, and mango on empty side of
+   platter. Serve, passing sour cream mixture separately.

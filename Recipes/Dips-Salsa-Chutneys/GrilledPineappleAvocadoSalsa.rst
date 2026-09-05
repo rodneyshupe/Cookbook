@@ -19,7 +19,6 @@ Ingredients
 Directions
 ----------
 
-1. Place the pineapple spears on the grill for 1-2 minutes until they
-   slightly char. Remove from the grill and chop and add to a medium sized
-   bowl. Add the tomatoes, red onion, avocados, cilantro and lime juice.
-
+1. Grill the pineapple spears until slightly charred, 1-2 minutes. Chop and
+   add to a medium bowl. Stir in the tomatoes, red onion, avocados, cilantro
+   and lime juice.

@@ -21,15 +21,13 @@ Ingredients
 Directions
 ----------
 
-1. Using your hands, mix all ingredients into the ground meat evenly and
-   thoroughly.
-2. Place in refrigerator overnight.
-3. Next morning, using a jerky gun or rolling the meat into strips no more
+1. Mix all ingredients into the ground meat evenly and thoroughly using your
+   hands, then place in refrigerator overnight.
+2. Next morning, form with a jerky gun or roll the meat into strips no more
    than 3/16" thick and lay onto greased smoker trays.
-4. Dehydrate as above.
+3. Dehydrate as above.
 
 Notes
 -----
 
 Substitute any ground red meat, such as beef or buffalo for the venison.
-

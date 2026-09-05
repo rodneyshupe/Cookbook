@@ -5,8 +5,6 @@ Oven Baked Baby Back Ribs
 | Prep Time: 15 minutes | Cook Time: 3 hours | Marinate Time: overnight | Yield: 4 servings |
 +-----------------------+--------------------+--------------------------+-------------------+
 
-Source: `Alton Brown <https://www.foodnetwork.com/recipes/alton-brown/who-loves-ya-baby-back-recipe-1937448>`__
-
 Ingredients
 -----------
 
@@ -23,17 +21,16 @@ Directions
 
 1. Preheat oven to 250F.
 2. Place each slab of baby back ribs on a piece of heavy-duty aluminum foil,
-   shiny side down. Sprinkle each side generously with the dry rub. Pat the
-   dry rub into the meat. Refrigerate the ribs for a minimum of 1 hour but
-   preferably overnight.
-3. In a microwavable container, combine wine, vinegar, worcestershire, honey
+   shiny side down. Sprinkle each side generously with the dry rub and pat it
+   into the meat. Refrigerate for a minimum of 1 hour, preferably overnight.
+3. In a microwavable container, combine wine, vinegar, Worcestershire, honey
    and garlic for the braising liquid. Microwave on high for 1 minute.
-4. Place the ribs on a baking sheet. Open one end of the foil on each slab
-   and pour half of the braising liquid into each foil packet. Tilt the
-   baking sheet in order to equally distribute the braising liquid. Braise
-   the ribs in the oven for 2 1/2 hours.
-5. Transfer the braising liquid into a medium saucepot. Bring the liquid to
-   a simmer and reduce by half or until of a thick syrup consistency. Brush
-   the glaze onto the ribs. Place under the broiler just until the glaze
-   caramelises lightly. Slice each slab into 2 rib bone portions. Place the
-   remaining hot glaze into a bowl and toss the rib portions in the glaze.
+4. Place the ribs on a baking sheet. Open one end of the foil on each slab and
+   pour half of the braising liquid into each foil packet. Tilt the baking
+   sheet to distribute the braising liquid equally. Braise in the oven for 2
+   1/2 hours.
+5. Transfer the braising liquid to a medium saucepot. Bring to a simmer and
+   reduce by half, or until a thick syrup consistency. Brush the glaze onto
+   the ribs. Broil just until the glaze caramelises lightly. Slice each slab
+   into 2 rib bone portions. Toss the rib portions in the remaining hot glaze
+   in a bowl.

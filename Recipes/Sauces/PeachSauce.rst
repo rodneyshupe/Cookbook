@@ -18,10 +18,10 @@ Ingredients
 
 Directions
 ----------
-1. Bring peaches, wine, sugar, vinegar, thyme sprigs, and salt to simmer in
-   medium saucepan over medium-high heat. Reduce heat to medium and cook at
-   strong simmer, stirring occasionally, until reduced to about 2 cups and
-   spatula leaves trail when dragged through sauce, about 30 minutes.
-   Remove from heat and discard thyme sprigs.
-2. When ready to serve, stir mustard into sauce and rewarm over low heat.
 
+1. Bring peaches, wine, sugar, vinegar, thyme sprigs, and salt to a simmer in
+   a medium saucepan over medium-high heat. Reduce heat to medium and cook at
+   a strong simmer, stirring occasionally, until reduced to about 2 cups and
+   the spatula leaves a trail when dragged through the sauce, about 30
+   minutes. Remove from heat and discard the thyme sprigs.
+2. Stir mustard into the sauce and rewarm over low heat when ready to serve.

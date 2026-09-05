@@ -15,7 +15,7 @@ Ingredients
 - 2 cups clam/seafood juices
 - 1 cup vegetable broth (or water)
 - 1/2 pound potatoes (can be left overs)
-- 1 medium ears corn cooked
+- 1 medium ear corn, cooked
 - 1 cup heavy cream
 - 1 1/2 pounds (680 g) left over mussels, clams, prawns, and/or crab shells
   removed
@@ -23,15 +23,13 @@ Ingredients
 Directions
 ----------
 
-1. Place bacon in stock pot and saute until almost crisp (3 minutes) Add
-   onion and saute until soft 3 minutes. Add garlic and cook till
-   fragrant 30 seconds.
-2. Stir in flour and cook for 30 seconds. Add some of the seafood juices
-   into the pot and scrape up any of the bits from the bottom of the pan.
-   Add remaining juices and broth. Simmer for 15 minutes.
-3. Add potatoes corn and simmer for an additional 5 minutes. (If
-   potatoes are not cooked add them prior to simmering in previous
-   step.)
-4. Add cream and cooked seafood and simmer for 5 more minutes.
-5. Serve with crusty bread or oyster crackers
-
+1. Place the bacon in a stock pot and saute until almost crisp (3 minutes).
+   Add the onion and saute until soft, 3 minutes. Add the garlic and cook
+   until fragrant, 30 seconds.
+2. Stir in the flour and cook for 30 seconds. Add some of the seafood juices
+   to the pot and scrape up any bits from the bottom of the pan. Add the
+   remaining juices and broth. Simmer for 15 minutes.
+3. Add the potatoes and corn and simmer for an additional 5 minutes. (If the
+   potatoes are not cooked, add them prior to simmering in the previous step.)
+4. Add the cream and cooked seafood and simmer for 5 more minutes.
+5. Serve with crusty bread or oyster crackers.

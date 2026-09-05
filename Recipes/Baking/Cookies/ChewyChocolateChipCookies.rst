@@ -5,8 +5,6 @@ Chewy Chocolate Chip Cookies
 | Prep Time: 20 minutes | Cook Time: 20 minutes | Yield: 24 cookies |
 +-----------------------+-----------------------+-------------------+
 
-Source: `Cook's Country <https://www.cookscountry.com/recipes/7847-thick-and-chewy-chocolate-chip-cookies>`__
-
 Ingredients
 -----------
 
@@ -23,19 +21,19 @@ Ingredients
 Directions
 ----------
 
-1. Adjust oven rack to lower-middle position and heat oven to 325F.
-   Line 2 baking sheets with parchment paper. Combine flour, baking soda, and
-   salt in bowl.
-2. Using stand mixer fitted with paddle, beat melted butter, brown sugar, and
-   granulated sugar on medium speed until smooth, about 2 minutes. Add egg
-   and yolk and vanilla and beat until combined. Reduce speed to low and add
-   flour mixture in 3 additions until just combined, scraping down bowl as
-   needed. Stir in chocolate chips by hand.
+1. Adjust oven rack to lower-middle position and heat oven to 325F; line 2
+   baking sheets with parchment paper. Combine flour, baking soda, and salt in
+   a bowl.
+2. Using a stand mixer fitted with the paddle, beat melted butter, brown
+   sugar, and granulated sugar on medium until smooth, about 2 minutes. Add
+   egg, yolk, and vanilla and beat until combined; reduce speed to low and add
+   the flour mixture in 3 additions until just combined, scraping down the
+   bowl as needed. Stir in chocolate chips by hand.
 3. Working with 2 tablespoons dough at a time, roll into balls and space them
-   2 inches apart on prepared sheets. Bake cookies, 1 sheet at a time, until
-   edges are set and beginning to brown but centers are still soft and puffy,
-   15 to 20 minutes, rotating sheet halfway through baking. Let cookies cool
-   on sheets for 10 minutes before serving.
+   2 inches apart on the prepared sheets. Bake, 1 sheet at a time, until edges
+   are set and beginning to brown but centers are still soft and puffy, 15 to
+   20 minutes, rotating the sheet halfway through. Cool on the sheets, 10
+   minutes, before serving.
 
 Notes
 -----

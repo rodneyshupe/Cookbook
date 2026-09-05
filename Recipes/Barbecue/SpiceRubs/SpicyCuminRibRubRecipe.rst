@@ -26,4 +26,3 @@ Directions
 ----------
 
 1. Mix. Rub into ribs, marinate, and cook as desired.
-

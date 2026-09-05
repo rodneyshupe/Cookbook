@@ -16,8 +16,7 @@ Ingredients
 Directions
 ----------
 
-1. In medium bowl whisk together all ingredients ensuring cocoa powder
-   and sugar are dissolved and there are no lumps.
-2. Pour mixture into whipping siphon and use 1 NO2 cartridge. Shake
-   14-16 times.
-
+1. Whisk together all ingredients in a medium bowl until the cocoa powder and
+   sugar dissolve and no lumps remain.
+2. Pour the mixture into a whipping siphon and charge with 1 NO2 cartridge;
+   shake 14-16 times.

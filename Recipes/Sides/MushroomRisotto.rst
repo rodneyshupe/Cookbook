@@ -5,8 +5,6 @@ Mushroom Risotto
 | Prep Time: 20 minutes | Cook Time: 45 minutes | Yield: 6 servings |
 +-----------------------+-----------------------+-------------------+
 
-Source: `Cook's Illustrated <https://www.cooksillustrated.com/recipes/922-mushroom-risotto>`__
-
 Ingredients
 -----------
 
@@ -30,34 +28,33 @@ Ingredients
 Directions
 ----------
 
-1. Tie together bay leaves, thyme sprigs, and parsley sprigs with kitchen
-   twine. Bring bundled herbs, porcini mushrooms, chicken broth, soy sauce,
-   and 3 1/2 cups water to boil in medium saucepan over medium-high heat;
-   reduce to medium-low and simmer until dried mushrooms are softened and
-   fully hydrated, about 15 minutes. Remove and discard herb bundle and
-   strain broth through fine-mesh strainer set over medium bowl (you should
-   have about 6 1/2 cups strained liquid); return liquid to saucepan and
-   keep warm over low heat. Finely mince porcini and set aside.
-2. Adjust oven rack to middle position and heat oven to 200F. Heat
-   2 tablespoons butter in 12-inch nonstick skillet over medium-high heat.
-   When foaming subsides, add cremini mushrooms, 1 cup onions, and
-   1/2 teaspoon salt; cook, stirring occasionally, until moisture released
-   by mushrooms evaporates and mushrooms are well browned, about 7 minutes.
-   Stir in garlic until fragrant, about 1 minute, then transfer mushrooms
-   to oven-safe bowl and keep warm in oven. Off heat, add 1/4 cup water to
-   now-empty skillet and scrape with wooden spoon to loosen any browned
-   bits; pour liquid from skillet into saucepan with broth.
-3. Heat 3 tablespoons butter in large saucepan over medium heat. When
-   foaming subsides, add remaining 1 cup onions and 1/4 teaspoon salt; cook,
-   stirring occasionally, until onions are softened and translucent, about
-   9 minutes. Add rice and cook, stirring frequently, until grains' edges
-   are transparent, about 4 minutes. Add wine and cook, stirring frequently,
-   until rice absorbs wine. Add minced porcini and 3 1/2 cups broth and cook,
-   stirring every 2 to 3 minutes, until liquid is absorbed, 9 to 11 minutes.
-   Stir in additional 1/2 cup broth every 2 to 3 minutes until rice is
-   cooked through but grains are still somewhat firm at center,
-   10 to 12 minutes (rice may not require all of broth). Stir in remaining
-   1 tablespoon butter, then stir in mushrooms (and any accumulated juices),
-   Parmesan, and chopped parsley. Adjust seasoning with salt and pepper;
-   serve immediately in warmed bowls.
-
+1. Tie bay leaves, thyme, and parsley sprigs together with kitchen twine.
+   Bring the herb bundle, porcini, chicken broth, soy sauce, and 3 1/2 cups
+   water to a boil in a medium saucepan over medium-high heat; reduce to
+   medium-low and simmer until the dried mushrooms soften and fully hydrate,
+   about 15 minutes. Discard the herb bundle and strain the broth through a
+   fine-mesh strainer set over a medium bowl (you should have about 6 1/2 cups
+   strained liquid); return the liquid to the saucepan and keep warm over low
+   heat. Finely mince the porcini and set aside.
+2. Adjust an oven rack to the middle position and heat the oven to 200F. Heat
+   2 tablespoons butter in a 12-inch nonstick skillet over medium-high heat.
+   When the foaming subsides, add the cremini, 1 cup onions, and 1/2 teaspoon
+   salt; cook, stirring occasionally, until the moisture evaporates and the
+   mushrooms are well browned, about 7 minutes. Stir in the garlic until
+   fragrant, about 1 minute, then transfer the mushrooms to an oven-safe bowl
+   and keep warm in the oven. Off heat, add 1/4 cup water to the now-empty
+   skillet and scrape up any browned bits with a wooden spoon; pour the liquid
+   into the saucepan with the broth.
+3. Heat 3 tablespoons butter in a large saucepan over medium heat. When the
+   foaming subsides, add the remaining 1 cup onions and 1/4 teaspoon salt;
+   cook, stirring occasionally, until the onions soften and turn translucent,
+   about 9 minutes. Add the rice and cook, stirring frequently, until the
+   grains' edges turn transparent, about 4 minutes. Add the wine and cook,
+   stirring frequently, until the rice absorbs it. Add the minced porcini and
+   3 1/2 cups broth and cook, stirring every 2 to 3 minutes, until the liquid
+   is absorbed, 9 to 11 minutes. Stir in an additional 1/2 cup broth every 2
+   to 3 minutes until the rice is cooked through but the grains are still
+   somewhat firm at the center, 10 to 12 minutes (the rice may not need all
+   the broth). Stir in the remaining 1 tablespoon butter, then stir in the
+   mushrooms and any accumulated juices, the Parmesan, and the chopped
+   parsley. Season with salt and pepper; serve immediately in warmed bowls.

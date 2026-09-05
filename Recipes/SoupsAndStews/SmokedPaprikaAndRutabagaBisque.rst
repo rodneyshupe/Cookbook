@@ -20,15 +20,14 @@ Ingredients
 Directions
 ----------
 
-1. Melt butter in a large pot over medium heat. Once butter foams, add
-   onion and celery, and season generously with salt. Cook, stirring
-   occasionally, until vegetables are tender but not browned, about 5
+1. Melt the butter in a large pot over medium heat. When the butter foams, add
+   the onion and celery and season generously with salt. Cook, stirring
+   occasionally, until the vegetables are tender but not browned, about 5
    minutes.
-2. Add rutabaga and broth, bring to a boil, then reduce heat to low and
-   simmer until rutabaga is tender when pierced with a fork, about 30
-   minutes. Add half-and-half, paprika, and white pepper and stir to
+2. Add the rutabaga and broth and bring to a boil, then reduce the heat to low
+   and simmer until the rutabaga is tender when pierced with a fork, about 30
+   minutes. Add the half-and-half, paprika, and white pepper and stir to
    combine.
-3. Allow soup to cool slightly, then puree in a blender until smooth.
-   (You will have to do this in batches.) Taste and season with more
-   salt and white pepper as needed.
-
+3. Let the soup cool slightly, then puree it in a blender until smooth. (You
+   will have to do this in batches.) Taste and season with more salt and white
+   pepper as needed.

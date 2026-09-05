@@ -20,15 +20,14 @@ Ingredients
 Directions
 ----------
 
-1. Quarter lemons removing the ends.
-2. Combine the rest of the ingredients in a bowl and add 2 cups of
-   boiling water to dissolve the sugar. When the Sugar has dissolved,
-   add the lemons and add more hot water until they are just covered.
-   Cover with cheesecloth and put into the fridge for 1 week.
-3. Cook in the liquid for about 45 minutes or until the rind softens and
-   becomes opaque. Let cool in the liquid.
-4. Remove the pulp and some of the pith leaving only the skin. Put the
-   skins into a mason jar with the liquid reserved that has been
-   reboiled. Store in the fridge.
-5. Finely julienne for Service.
-
+1. Quarter lemons, removing the ends.
+2. Combine the rest of the ingredients in a bowl and add 2 cups of boiling
+   water to dissolve the sugar; when the sugar has dissolved, add the lemons
+   and more hot water until they are just covered, then cover with cheesecloth
+   and refrigerate for 1 week.
+3. Cook in the liquid until the rind softens and becomes opaque, about 45
+   minutes; let cool in the liquid.
+4. Remove the pulp and some of the pith, leaving only the skin, then put the
+   skins into a mason jar with the reserved liquid that has been reboiled;
+   store in the fridge.
+5. Finely julienne for service.

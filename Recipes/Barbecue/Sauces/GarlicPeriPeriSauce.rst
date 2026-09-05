@@ -19,8 +19,8 @@ Ingredients
 Directions
 ----------
 
-1. Mix up the above and put into a blender. Blend until completely
-   liquidized. Pour into a bottle and refrigerate.
+1. Combine everything in a blender and blend until completely
+   liquidized, smooth and pourable. Pour into a bottle and refrigerate.
 
 Notes
 -----

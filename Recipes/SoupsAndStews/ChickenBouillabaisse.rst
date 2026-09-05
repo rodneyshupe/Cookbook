@@ -54,53 +54,47 @@ Rouille and Croutons
 Directions
 ----------
 
-1. *For the Bouillabaisse:* Adjust oven racks to middle and lower
-   positions and heat oven to 375F. Pat chicken dry with paper
-   towels and season with salt and pepper. Heat oil in large Dutch oven
-   over medium-high heat until just smoking. Add chicken pieces,
-   skin-side down, and cook without moving until well browned, 5 to 8
-   minutes. Using tongs, flip chicken and brown other side, about 3
-   minutes. Transfer chicken to large plate.
-2. Add leek and fennel; cook, stirring often, until vegetables begin to
-   soften and turn translucent, about 4 minutes. Add saffron, cayenne,
-   flour, garlic, and tomato paste and cook until fragrant, about 30
-   seconds. Add tomatoes, wine, broth, orange zest, pastis, and
-   potatoes; bring to simmer. Reduce heat to medium-low and simmer 10
-   minutes.
-3. Nestle chicken thighs and drumsticks into simmering liquid with skin
-   above surface of liquid; cook, uncovered, 5 minutes. Nestle breast
-   pieces into simmering liquid, adjusting pieces as necessary to ensure
-   skin stays above surface of liquid. Bake on middle rack, uncovered,
-   until instant-read thermometer inserted into thickest part of chicken
-   registers 145F for breasts and 160F for drumsticks and thighs,
-   10 to 20 minutes.
-4. *For the Rouille:* While chicken cooks, microwave water and saffron
-   in medium microwave-safe bowl on high power until water is steaming,
-   10 to 20 seconds. Allow to sit 5 minutes. Cut 3-inch piece off of
-   baguette; remove and discard crust. Tear crustless bread into 1-inch
-   chunks (you should have about 1 cup). Stir bread pieces and lemon
-   juice into saffron-infused water; soak 5 minutes. Using whisk, mash
-   soaked bread mixture until uniform paste forms, 1 to 2 minutes. Whisk
-   in mustard, egg yolk, cayenne, and garlic until smooth, about 15
-   seconds. Whisking constantly, slowly drizzle in vegetable oil in
-   steady stream until smooth mayonnaise-like consistency is reached,
-   scraping down bowl as necessary. Slowly whisk in 1/2 cup olive oil in
-   steady stream until smooth. Season to taste with salt and pepper.
-5. *For the Croutons:* Cut remaining baguette into 3/4-inch-thick
-   slices. Arrange slices in single layer on rimmed baking sheet.
-   Drizzle with remaining 2 tablespoons olive oil and season with salt
-   and pepper. Bake on lower rack until light golden brown (can be
-   toasted while bouillabaisse is in oven), 10 to 15 minutes.
-6. Remove bouillabaisse and croutons from oven and set oven to broil.
-   Once heated, return bouillabaisse to oven and cook until chicken skin
-   is crisp and instant-read thermometer inserted into thickest part of
-   chicken registers 160F for breasts and 175F for drumsticks and
-   thighs, 5 to 10 minutes (smaller pieces may cook faster than larger
-   pieces; remove individual pieces as they reach temperature).
-7. Transfer chicken pieces to large plate. Skim excess fat from broth.
-   Stir tarragon into broth and season with salt and pepper. Transfer
-   broth and potatoes to large shallow serving bowls and top with
-   chicken pieces. Drizzle 1 tablespoon rouille over each portion and
-   spread 1 teaspoon rouille on each crouton. Serve, floating 2 croutons
-   in each bowl and passing remaining croutons and rouille separately.
-
+1. *For the Bouillabaisse:* Set oven racks to middle and lower positions and
+   heat oven to 375F. Pat chicken dry and season with salt and pepper. Heat
+   oil in a large Dutch oven over medium-high until just smoking. Add chicken
+   skin-side down and cook without moving until well browned, 5 to 8 minutes;
+   flip with tongs and brown the other side, about 3 minutes. Transfer to a
+   large plate.
+2. Add leek and fennel; cook, stirring often, until softened and translucent,
+   about 4 minutes. Stir in saffron, cayenne, flour, garlic, and tomato paste;
+   cook until fragrant, about 30 seconds. Add tomatoes, wine, broth, orange
+   zest, pastis, and potatoes and bring to a simmer. Reduce heat to medium-low
+   and simmer 10 minutes.
+3. Nestle thighs and drumsticks into the liquid with skin above the surface;
+   cook uncovered 5 minutes. Nestle in breast pieces, adjusting as needed to
+   keep skin above the surface. Bake uncovered on the middle rack until an
+   instant-read thermometer in the thickest part registers 145F for breasts
+   and 160F for drumsticks and thighs, 10 to 20 minutes.
+4. *For the Rouille:* While the chicken cooks, microwave water and saffron in
+   a medium microwave-safe bowl on high until steaming, 10 to 20 seconds; let
+   sit 5 minutes. Cut a 3-inch piece off the baguette; remove and discard the
+   crust, then tear the bread into 1-inch chunks (about 1 cup). Stir the bread
+   and lemon juice into the saffron water and soak 5 minutes. Mash with a
+   whisk until a uniform paste forms, 1 to 2 minutes. Whisk in mustard, egg
+   yolk, cayenne, and garlic until smooth, about 15 seconds. Whisking
+   constantly, slowly drizzle in the vegetable oil in a steady stream until
+   smooth and mayonnaise-like, scraping down the bowl as needed. Slowly whisk
+   in 1/2 cup olive oil in a steady stream until smooth. Season to taste with
+   salt and pepper.
+5. *For the Croutons:* Cut the remaining baguette into 3/4-inch-thick slices
+   and arrange in a single layer on a rimmed baking sheet. Drizzle with the
+   remaining 2 tablespoons olive oil and season with salt and pepper. Bake on
+   the lower rack until light golden brown (toast it while the bouillabaisse
+   is in the oven), 10 to 15 minutes.
+6. Remove the bouillabaisse and croutons from the oven and set the oven to
+   broil. Once heated, return the bouillabaisse and cook until the skin is
+   crisp and an instant-read thermometer in the thickest part registers 160F
+   for breasts and 175F for drumsticks and thighs, 5 to 10 minutes (smaller
+   pieces may cook faster; remove individual pieces as they reach
+   temperature).
+7. Transfer the chicken to a large plate. Skim excess fat from the broth, then
+   stir in the tarragon and season with salt and pepper. Ladle the broth and
+   potatoes into large shallow serving bowls and top with the chicken. Drizzle
+   1 tablespoon rouille over each portion and spread 1 teaspoon rouille on
+   each crouton. Serve, floating 2 croutons in each bowl and passing the
+   remaining croutons and rouille separately.

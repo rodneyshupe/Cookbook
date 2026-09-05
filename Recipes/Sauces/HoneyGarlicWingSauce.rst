@@ -13,12 +13,12 @@ Ingredients
 - 1 large garlic clove crushed
 - 3/4 teaspoon ginger finely diced
 - 1/8 teaspoon chili flakes
-- 4 teaspoons cup water
+- 4 teaspoons water
 - 1/4 teaspoon corn starch
 
 Directions
 ----------
 
-1. Combine sauce ingredients in a small pan. Bring to a boil, reduce heat
-   and simmer about 10 minutes or until slightly thickened and sauce
-   coats the back of a spoon.
+1. Combine the sauce ingredients in a small pan. Bring to a boil, reduce heat,
+   and simmer until slightly thickened and the sauce coats the back of a
+   spoon, about 10 minutes.

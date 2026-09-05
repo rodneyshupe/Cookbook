@@ -5,20 +5,18 @@ Creamy Red Pepper Pasta Sauce
 | Prep Time: 15 minutes | Cook Time: 30 minutes | Yield: 4 cups |
 +-----------------------+-----------------------+---------------+
 
-Source: `Steve Cusato - Not Another Cooking Show <https://www.notanothercookingshow.tv/post/spicy-red-pepper-pasta>`__
-
 Ingredients
 -----------
 
 Sauce
 ^^^^^
 
-- 2 Red peppers, roasted, skins removed and sliced thin
-- 1 Onion, sliced Thin
 - 3 tablespoons olive oil
-- 5 jarred calabrian chilli, seeded, plus 1 tablespoon of the liquid they are packed in (these are optional or you can substitute 2 red seronos)
-- 1/2 teaspoon Red Pepper Flake
+- 1 Onion, sliced Thin
+- 2 Red peppers, roasted, skins removed and sliced thin
 - 2 cloves of Garlic, Sliced Thin
+- 1/2 teaspoon Red Pepper Flake
+- 5 jarred calabrian chilli, seeded, plus 1 tablespoon of the liquid they are packed in (these are optional or you can substitute 2 red seronos)
 - 2 Tablespoons Tomato Paste
 - 500ml of Heavy Cream
 
@@ -26,9 +24,9 @@ To Serve
 ^^^^^^^^
 
 - 1 pound pasta
-- Pecorino Romano To Taste
 - Salt to taste
 - 1 Tablespoon of Cold Butter
+- Pecorino Romano To Taste
 
 Directions
 ----------
@@ -36,29 +34,28 @@ Directions
 Sauce
 ^^^^^
 
-1. Preheat a large saute pan, add a few tablespoons of olive oil and then
-   get the onions in first to get them going. Season with salt and once
-   softened and begins to turn translucent, add the peppers. Cook for a few
-   minutes until the onions are fully translucent and soft and starting to
-   brown slightly.
-2. Add the garlic, chili flake, Calabrian chilis and cook until the garlic
-   softens and begins to slightly brown around the edges.
-3. Add two tablespoons of tomato paste and then incorporate that into the
-   vegetables and cook for 2-3 minutes.
-4. Add cream, lower the heat to medium and cook for about 5 minutes or until
-   the cream has thickened. Let cool slightly and then blend until smooth.
+1. Preheat a large saute pan, add a few tablespoons of olive oil and get the
+   onions in first. Season with salt and cook until they soften and begin to
+   turn translucent, then add the peppers. Cook until the onions are fully
+   translucent and soft and starting to brown slightly, a few minutes.
+2. Add the garlic, chili flake, and Calabrian chilis and cook until the garlic
+   softens and begins to brown slightly around the edges.
+3. Stir in two tablespoons of tomato paste, incorporate it into the vegetables,
+   and cook for 2-3 minutes.
+4. Add the cream, lower the heat to medium, and cook until the cream has
+   thickened, about 5 minutes. Let cool slightly, then blend until smooth.
 
 Serving
 ^^^^^^^
 
-1. Get a pot of salted water up to a boil add 1 pound pasta (tube based basta
-   works best here such as Cavatappi, Penne or Rigatoni) to the water and
-   start to cook the pasta.
-2. Add the sauce back to the pan and get it on a lower heat until the pasta
-   is cooked. Slowly melt in a tablespoon of cold butter and adjust the
-   seasoning before adding the pasta.
-3. 1-2 minutes before the pasta is perfectly cooked, add it to the sauce with
-   a tablespoon or two of the pasta water, marry the sauce and the pasta
+1. Bring a pot of salted water to a boil and add 1 pound pasta (tube-based
+   pasta works best here, such as Cavatappi, Penne, or Rigatoni), then start
+   cooking the pasta.
+2. Add the sauce back to the pan over low heat until the pasta is cooked.
+   Slowly melt in a tablespoon of cold butter and adjust the seasoning before
+   adding the pasta.
+3. Add the pasta to the sauce 1-2 minutes before it is perfectly cooked, along
+   with a tablespoon or two of the pasta water, and marry the sauce and pasta
    until the pasta becomes perfectly al dente.
-4. Turn the heat off, toss in some pecorino Romano until creamy and thickened
-   and then plate with a bit more pecorino cheese and enjoy.
+4. Turn the heat off and toss in some pecorino Romano until creamy and
+   thickened, then plate with a bit more pecorino cheese and enjoy.
