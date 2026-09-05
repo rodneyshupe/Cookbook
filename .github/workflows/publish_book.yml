@@ -123,6 +123,17 @@ jobs:
           echo "extra=" >> "$GITHUB_OUTPUT"
         fi
 
+    - name: Compute published output name
+      id: out
+      run: |
+        # Published files are prefixed with "TheMessyChef-" — except the main
+        # TheMessyChef book, which keeps its bare name.
+        if [ "${{ matrix.book }}" = "TheMessyChef" ]; then
+          echo "name=TheMessyChef" >> "$GITHUB_OUTPUT"
+        else
+          echo "name=TheMessyChef-${{ matrix.book }}" >> "$GITHUB_OUTPUT"
+        fi
+
     - name: Build pdf
       run: |
         rm -fR *.build_temp
@@ -134,7 +145,7 @@ jobs:
           --fit-literal-mode=shrink \
           --repeat-table-rows \
           --stylesheets=${{ steps.style.outputs.sheet }},cover_overlay.yaml \
-          --output="${{ matrix.book }}.pdf" \
+          --output="${{ steps.out.outputs.name }}.pdf" \
           --strip-elements-with-class=handout \
           --extension-module=preprocess \
           ${{ steps.ext.outputs.extra }}
@@ -145,7 +156,7 @@ jobs:
       with:
         name: published-files-pdf-${{ matrix.book }}
         path: |
-          ${{ matrix.book }}.pdf
+          ${{ steps.out.outputs.name }}.pdf
         if-no-files-found: error
 
   build_html:
@@ -260,9 +271,20 @@ jobs:
           echo "cover=assets/Cover.png" >> "$GITHUB_OUTPUT"
         fi
 
+    - name: Compute published output name
+      id: out
+      run: |
+        # Published files are prefixed with "TheMessyChef-" — except the main
+        # TheMessyChef book, which keeps its bare name.
+        if [ "${{ matrix.book }}" = "TheMessyChef" ]; then
+          echo "name=TheMessyChef" >> "$GITHUB_OUTPUT"
+        else
+          echo "name=TheMessyChef-${{ matrix.book }}" >> "$GITHUB_OUTPUT"
+        fi
+
     - name: Build epub
       run: |
-        ebook-convert "${{ matrix.book }}.html" "${{ matrix.book }}.epub" \
+        ebook-convert "${{ matrix.book }}.html" "${{ steps.out.outputs.name }}.epub" \
           --title "${{ steps.meta.outputs.title }}" \
           --authors "Rodney Shupe" \
           --author-sort "Shupe Rodney" \
@@ -278,7 +300,7 @@ jobs:
       with:
         name: published-files-epub-${{ matrix.book }}
         path: |
-          ${{ matrix.book }}.epub
+          ${{ steps.out.outputs.name }}.epub
         if-no-files-found: error
 
   build_website:
@@ -296,6 +318,17 @@ jobs:
     - name: Set some Environment Variables.
       run: |
         echo "OUT_DIR=www" >> $GITHUB_ENV
+
+    - name: Compute published output name
+      id: out
+      run: |
+        # Published files are prefixed with "TheMessyChef-" — except the main
+        # TheMessyChef book, which keeps its bare name.
+        if [ "${{ matrix.book }}" = "TheMessyChef" ]; then
+          echo "name=TheMessyChef" >> "$GITHUB_OUTPUT"
+        else
+          echo "name=TheMessyChef-${{ matrix.book }}" >> "$GITHUB_OUTPUT"
+        fi
 
     - name: Download latest html output files.
       uses: actions/download-artifact@v4
@@ -368,14 +401,14 @@ jobs:
 
     - name: Bundle into tar file.
       run: |
-        tar --create --file="${{ matrix.book }}.www.tar" www
+        tar --create --file="${{ steps.out.outputs.name }}.www.tar" www
 
     - name: Save Published www files
       uses: actions/upload-artifact@v4
       with:
         name: published-files-www-${{ matrix.book }}
         path: |
-          ${{ matrix.book }}.www.tar
+          ${{ steps.out.outputs.name }}.www.tar
         if-no-files-found: error
 
   upload_website:
@@ -385,6 +418,17 @@ jobs:
     strategy:
       matrix: ${{ fromJson(needs.detect_changes.outputs.matrix) }}
     steps:
+    - name: Compute published output name
+      id: out
+      run: |
+        # Published files are prefixed with "TheMessyChef-" — except the main
+        # TheMessyChef book, which keeps its bare name.
+        if [ "${{ matrix.book }}" = "TheMessyChef" ]; then
+          echo "name=TheMessyChef" >> "$GITHUB_OUTPUT"
+        else
+          echo "name=TheMessyChef-${{ matrix.book }}" >> "$GITHUB_OUTPUT"
+        fi
+
     - name: Download latest www output files.
       uses: actions/download-artifact@v4
       with:
@@ -395,7 +439,7 @@ jobs:
       env:
         RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
       with:
-        args: copy ${{ matrix.book }}.www.tar gdrive:Cooking
+        args: copy ${{ steps.out.outputs.name }}.www.tar gdrive:Cooking
 
   # One release per book, tagged <Book>-v<major.minor>. Creates the tag and
   # attaches that book's PDF/EPUB/website assets.
@@ -419,6 +463,17 @@ jobs:
         VERSION=$(bash scripts/next_version.sh "${{ matrix.book }}")
         echo "version=$VERSION" >> "$GITHUB_OUTPUT"
         echo "tag=${{ matrix.book }}-v$VERSION" >> "$GITHUB_OUTPUT"
+
+    - name: Compute published output name
+      id: out
+      run: |
+        # Published files are prefixed with "TheMessyChef-" — except the main
+        # TheMessyChef book, which keeps its bare name.
+        if [ "${{ matrix.book }}" = "TheMessyChef" ]; then
+          echo "name=TheMessyChef" >> "$GITHUB_OUTPUT"
+        else
+          echo "name=TheMessyChef-${{ matrix.book }}" >> "$GITHUB_OUTPUT"
+        fi
 
     - name: Download this book's pdf
       uses: actions/download-artifact@v4
@@ -447,9 +502,9 @@ jobs:
         draft: false
         prerelease: false
         files: |
-          ${{ matrix.book }}.pdf
-          ${{ matrix.book }}.epub
-          ${{ matrix.book }}.www.tar
+          ${{ steps.out.outputs.name }}.pdf
+          ${{ steps.out.outputs.name }}.epub
+          ${{ steps.out.outputs.name }}.www.tar
 
   publish_to_google:
     needs: [detect_changes, build_pdf, build_epub]
@@ -458,6 +513,17 @@ jobs:
     strategy:
       matrix: ${{ fromJson(needs.detect_changes.outputs.matrix) }}
     steps:
+    - name: Compute published output name
+      id: out
+      run: |
+        # Published files are prefixed with "TheMessyChef-" — except the main
+        # TheMessyChef book, which keeps its bare name.
+        if [ "${{ matrix.book }}" = "TheMessyChef" ]; then
+          echo "name=TheMessyChef" >> "$GITHUB_OUTPUT"
+        else
+          echo "name=TheMessyChef-${{ matrix.book }}" >> "$GITHUB_OUTPUT"
+        fi
+
     - name: Download latest output pdf files.
       uses: actions/download-artifact@v4
       with:
@@ -468,7 +534,7 @@ jobs:
       env:
         RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
       with:
-        args: copy ${{ matrix.book }}.pdf gdrive:Cooking
+        args: copy ${{ steps.out.outputs.name }}.pdf gdrive:Cooking
 
     - name: Download latest output epub files.
       uses: actions/download-artifact@v4
@@ -480,7 +546,7 @@ jobs:
       env:
         RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
       with:
-        args: copy ${{ matrix.book }}.epub gdrive:Cooking
+        args: copy ${{ steps.out.outputs.name }}.epub gdrive:Cooking
 
   publish_to_dropbox:
     needs: [detect_changes, build_epub]
@@ -489,6 +555,17 @@ jobs:
     strategy:
       matrix: ${{ fromJson(needs.detect_changes.outputs.matrix) }}
     steps:
+    - name: Compute published output name
+      id: out
+      run: |
+        # Published files are prefixed with "TheMessyChef-" — except the main
+        # TheMessyChef book, which keeps its bare name.
+        if [ "${{ matrix.book }}" = "TheMessyChef" ]; then
+          echo "name=TheMessyChef" >> "$GITHUB_OUTPUT"
+        else
+          echo "name=TheMessyChef-${{ matrix.book }}" >> "$GITHUB_OUTPUT"
+        fi
+
     - name: Download latest output epub files.
       uses: actions/download-artifact@v4
       with:
@@ -501,6 +578,6 @@ jobs:
         dropbox-app-key: ${{ secrets.DROPBOX_APP_KEY }}
         dropbox-app-secret: ${{ secrets.DROPBOX_APP_SECRET }}
         dropbox-refresh-token: ${{ secrets.DROPBOX_REFRESH_TOKEN }}
-        source-path: ${{ matrix.book }}.epub
-        target-path: "/Apps/Rakuten Kobo/${{ matrix.book }}.epub" # <--- Fixed target path with filename included
+        source-path: ${{ steps.out.outputs.name }}.epub
+        target-path: "/Apps/Rakuten Kobo/${{ steps.out.outputs.name }}.epub" # <--- Fixed target path with filename included
         write-mode: overwrite
