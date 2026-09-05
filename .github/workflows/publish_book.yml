@@ -22,12 +22,12 @@ jobs:
       books: ${{ steps.detect.outputs.books }}
       all_books: ${{ steps.detect.outputs.all_books }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           fetch-depth: 0
 
       - name: Set up Python 3.x
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v6
         with:
           python-version: '3.x'
 
@@ -67,12 +67,12 @@ jobs:
     strategy:
       matrix: ${{ fromJson(needs.detect_changes.outputs.matrix) }}
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v5
       with:
         fetch-depth: 0
 
     - name: Set up Python 3.x
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v6
       with:
         python-version: '3.x'
 
@@ -167,7 +167,7 @@ jobs:
         rm -fR *.build_temp
 
     - name: Save Published pdf files
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v5
       with:
         name: published-files-pdf-${{ matrix.book }}
         path: |
@@ -181,12 +181,12 @@ jobs:
     strategy:
       matrix: ${{ fromJson(needs.detect_changes.outputs.matrix) }}
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v5
       with:
         fetch-depth: 0
 
     - name: Set up Python 3.x
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v6
       with:
         python-version: '3.x'
 
@@ -233,7 +233,7 @@ jobs:
         rm -fR *.build_temp
 
     - name: Save Published html files
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v5
       with:
         name: published-files-html-${{ matrix.book }}
         path: |
@@ -251,7 +251,7 @@ jobs:
       run: |
         sudo apt-get update && sudo apt-get -y install calibre
 
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v5
 
     - name: Book metadata
       id: meta
@@ -278,7 +278,7 @@ jobs:
         esac
 
     - name: Download latest html output files.
-      uses: actions/download-artifact@v4
+      uses: actions/download-artifact@v5
       with:
         name: published-files-html-${{ matrix.book }}
 
@@ -316,7 +316,7 @@ jobs:
           --embed-all-fonts > /dev/null
 
     - name: Save Published epub files
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v5
       with:
         name: published-files-epub-${{ matrix.book }}
         path: |
@@ -351,7 +351,7 @@ jobs:
         fi
 
     - name: Download latest html output files.
-      uses: actions/download-artifact@v4
+      uses: actions/download-artifact@v5
       with:
         name: published-files-html-${{ matrix.book }}
 
@@ -424,7 +424,7 @@ jobs:
         tar --create --file="${{ steps.out.outputs.name }}.www.tar" www
 
     - name: Save Published www files
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v5
       with:
         name: published-files-www-${{ matrix.book }}
         path: |
@@ -450,7 +450,7 @@ jobs:
         fi
 
     - name: Download latest www output files.
-      uses: actions/download-artifact@v4
+      uses: actions/download-artifact@v5
       with:
         name: published-files-www-${{ matrix.book }}
 
@@ -473,17 +473,17 @@ jobs:
     permissions:
       contents: write
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v5
       with:
         fetch-depth: 0
 
     - name: Set up Python 3.x
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v6
       with:
         python-version: '3.x'
 
     - name: Download this run's built artifacts
-      uses: actions/download-artifact@v4
+      uses: actions/download-artifact@v5
       with:
         pattern: published-files-*
         path: fresh
@@ -606,7 +606,7 @@ jobs:
         fi
 
     - name: Download latest output pdf files.
-      uses: actions/download-artifact@v4
+      uses: actions/download-artifact@v5
       with:
         name: published-files-pdf-${{ matrix.book }}
 
@@ -618,7 +618,7 @@ jobs:
         args: copy ${{ steps.out.outputs.name }}.pdf gdrive:Cooking
 
     - name: Download latest output epub files.
-      uses: actions/download-artifact@v4
+      uses: actions/download-artifact@v5
       with:
         name: published-files-epub-${{ matrix.book }}
 
@@ -648,7 +648,7 @@ jobs:
         fi
 
     - name: Download latest output epub files.
-      uses: actions/download-artifact@v4
+      uses: actions/download-artifact@v5
       with:
         name: published-files-epub-${{ matrix.book }}
 
