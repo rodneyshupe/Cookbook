@@ -502,5 +502,5 @@ jobs:
         dropbox-app-secret: ${{ secrets.DROPBOX_APP_SECRET }}
         dropbox-refresh-token: ${{ secrets.DROPBOX_REFRESH_TOKEN }}
         source-path: ${{ matrix.book }}.epub
-        target-path: "/Apps/Rakuten Kobo/"
+        target-path: "/Apps/Rakuten Kobo/${{ matrix.book }}.epub" # <--- Fixed target path with filename included
         write-mode: overwrite
