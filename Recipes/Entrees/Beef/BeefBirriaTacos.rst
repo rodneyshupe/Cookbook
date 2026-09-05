@@ -20,7 +20,7 @@ Ingredients
 - 1 teaspoon cumin
 - 2 teaspoons coriander
 - 2 chipotle chiles in adobo sauce
-- 13.5 fluid ounces (400 ml) can diced fire roasted tomatoes
+- 13.5 ounces (400 ml) can diced fire roasted tomatoes
 - Corn tortillas
 - Monterey Jack cheese, shredded
 - Diced white onion
