@@ -19,6 +19,8 @@ jobs:
     outputs:
       matrix: ${{ steps.detect.outputs.matrix }}
       has_books: ${{ steps.detect.outputs.has_books }}
+      books: ${{ steps.detect.outputs.books }}
+      all_books: ${{ steps.detect.outputs.all_books }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -48,7 +50,15 @@ jobs:
           echo "matrix=$MATRIX" >> "$GITHUB_OUTPUT"
           COUNT=$(echo "$MATRIX" | python -c "import sys,json; print(len(json.load(sys.stdin)['include']))")
           if [ "$COUNT" -gt 0 ]; then echo "has_books=true" >> "$GITHUB_OUTPUT"; else echo "has_books=false" >> "$GITHUB_OUTPUT"; fi
+          # Space-separated list of the books built this run (for the release job).
+          BOOKS=$(echo "$MATRIX" | python -c "import sys,json; print(' '.join(e['book'] for e in json.load(sys.stdin)['include']))")
+          echo "books=$BOOKS" >> "$GITHUB_OUTPUT"
+          # Space-separated list of ALL books that exist (the complete release set).
+          ALL_BOOKS=$(python scripts/book_deps.py list | tr '\n' ' ' | sed 's/ *$//')
+          echo "all_books=$ALL_BOOKS" >> "$GITHUB_OUTPUT"
           echo "Resulting matrix: $MATRIX"
+          echo "Books this run: $BOOKS"
+          echo "All books: $ALL_BOOKS"
 
   build_pdf:
     needs: detect_changes
@@ -76,9 +86,14 @@ jobs:
         python -m pip install --upgrade rst2pdf
 
     - name: Compute version and build substitution file
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         set -euo pipefail
-        VERSION=$(bash scripts/next_version.sh "${{ matrix.book }}")
+        # Pull the current version manifest from the rolling `latest` release
+        # (absent on first run -> treated as empty, books get seeded).
+        gh release download latest --pattern manifest.json --output manifest.json 2>/dev/null || echo '{}' > manifest.json
+        VERSION=$(python scripts/book_versions.py next manifest.json "${{ matrix.book }}")
         echo "Version for ${{ matrix.book }}: $VERSION"
         echo ".. |Date| replace:: $(date +%B\ %d\,\ %Y)" > temp_substitutions.rst
         echo "  " >> temp_substitutions.rst
@@ -185,9 +200,14 @@ jobs:
         python -m pip install --upgrade rst2html5
 
     - name: Compute version and build substitution file
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         set -euo pipefail
-        VERSION=$(bash scripts/next_version.sh "${{ matrix.book }}")
+        # Pull the current version manifest from the rolling `latest` release
+        # (absent on first run -> treated as empty, books get seeded).
+        gh release download latest --pattern manifest.json --output manifest.json 2>/dev/null || echo '{}' > manifest.json
+        VERSION=$(python scripts/book_versions.py next manifest.json "${{ matrix.book }}")
         echo ".. |Date| replace:: $(date +%B\ %d\,\ %Y)" > temp_substitutions.rst
         echo "  " >> temp_substitutions.rst
         echo ".. |Revision| replace:: $VERSION" >> temp_substitutions.rst
@@ -441,70 +461,131 @@ jobs:
       with:
         args: copy ${{ steps.out.outputs.name }}.www.tar gdrive:Cooking
 
-  # One release per book, tagged <Book>-v<major.minor>. Creates the tag and
-  # attaches that book's PDF/EPUB/website assets.
+  # Single rolling release, tagged `latest`, that always holds the complete set
+  # of book assets (PDF/EPUB/website) for EVERY book — even the ones not rebuilt
+  # this run. Books built this run use their fresh artifacts; the rest are
+  # carried forward from the previous `latest` release. Per-book versions and
+  # last-updated dates are tracked in manifest.json (an asset on the release).
   release:
     needs: [detect_changes, build_pdf, build_epub, build_website]
     if: needs.detect_changes.outputs.has_books == 'true'
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    strategy:
-      matrix: ${{ fromJson(needs.detect_changes.outputs.matrix) }}
     steps:
     - uses: actions/checkout@v4
       with:
         fetch-depth: 0
 
-    - name: Compute version
-      id: ver
+    - name: Set up Python 3.x
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Download this run's built artifacts
+      uses: actions/download-artifact@v4
+      with:
+        pattern: published-files-*
+        path: fresh
+        merge-multiple: true
+
+    - name: Assemble complete release asset set + manifest + notes
+      id: assemble
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        CHANGED_BOOKS: ${{ needs.detect_changes.outputs.books }}
+        ALL_BOOKS: ${{ needs.detect_changes.outputs.all_books }}
       run: |
         set -euo pipefail
-        VERSION=$(bash scripts/next_version.sh "${{ matrix.book }}")
-        echo "version=$VERSION" >> "$GITHUB_OUTPUT"
-        echo "tag=${{ matrix.book }}-v$VERSION" >> "$GITHUB_OUTPUT"
+        TODAY=$(date +%F)
+        mkdir -p assets_out prev
 
-    - name: Compute published output name
-      id: out
-      run: |
-        # Published files are prefixed with "TheMessyChef-" — except the main
-        # TheMessyChef book, which keeps its bare name.
-        if [ "${{ matrix.book }}" = "TheMessyChef" ]; then
-          echo "name=TheMessyChef" >> "$GITHUB_OUTPUT"
+        # Published filename for a book: TheMessyChef- prefix except the main book.
+        pubname() {
+          if [ "$1" = "TheMessyChef" ]; then echo "TheMessyChef"; else echo "TheMessyChef-$1"; fi
+        }
+
+        # Pull the previous rolling release: its manifest + all carried-forward
+        # assets. Absent on the very first run -> seed an empty manifest.
+        if gh release download latest --dir prev 2>/dev/null; then
+          echo "Downloaded previous 'latest' release assets."
         else
-          echo "name=TheMessyChef-${{ matrix.book }}" >> "$GITHUB_OUTPUT"
+          echo "No previous 'latest' release; starting fresh."
+        fi
+        if [ -f prev/manifest.json ]; then
+          cp prev/manifest.json manifest.json
+        else
+          echo '{}' > manifest.json
         fi
 
-    - name: Download this book's pdf
-      uses: actions/download-artifact@v4
-      with:
-        name: published-files-pdf-${{ matrix.book }}
+        # Build the complete asset set. For each book+ext, prefer this run's
+        # freshly-built file; otherwise carry forward the previous release's.
+        CHANGED=" ${CHANGED_BOOKS} "
+        NOTES_CHANGED=""
+        NOTES_UNCHANGED=""
+        for BOOK in ${ALL_BOOKS}; do
+          NAME=$(pubname "$BOOK")
+          for EXT in pdf epub www.tar; do
+            if [ -f "fresh/${NAME}.${EXT}" ]; then
+              cp "fresh/${NAME}.${EXT}" "assets_out/${NAME}.${EXT}"
+            elif [ -f "prev/${NAME}.${EXT}" ]; then
+              cp "prev/${NAME}.${EXT}" "assets_out/${NAME}.${EXT}"
+            else
+              echo "WARNING: no ${EXT} for ${BOOK} (neither fresh nor previous)."
+            fi
+          done
 
-    - name: Download this book's epub
-      uses: actions/download-artifact@v4
-      with:
-        name: published-files-epub-${{ matrix.book }}
+          if [ "$CHANGED" != "${CHANGED/ $BOOK / }" ]; then
+            # Changed this run: bump to the next version, stamp today's date.
+            VER=$(python scripts/book_versions.py next manifest.json "$BOOK")
+            python scripts/book_versions.py set manifest.json "$BOOK" "$VER" "$TODAY" >/dev/null
+            NOTES_CHANGED="${NOTES_CHANGED}- ${BOOK} — v${VER} (updated ${TODAY})"$'\n'
+          else
+            # Unchanged: carry forward version + last-updated date for the notes.
+            VER=$(python scripts/book_versions.py current manifest.json "$BOOK")
+            UPD=$(python scripts/book_versions.py updated manifest.json "$BOOK")
+            if [ -n "$UPD" ]; then
+              NOTES_UNCHANGED="${NOTES_UNCHANGED}- ${BOOK} — v${VER} (last updated ${UPD})"$'\n'
+            else
+              NOTES_UNCHANGED="${NOTES_UNCHANGED}- ${BOOK} — v${VER}"$'\n'
+            fi
+          fi
+        done
 
-    - name: Download this book's www
-      uses: actions/download-artifact@v4
-      with:
-        name: published-files-www-${{ matrix.book }}
+        cp manifest.json assets_out/manifest.json
 
-    - name: Create per-book release and upload assets
+        # Compose the release notes body.
+        {
+          echo "Cookbook release — ${TODAY}"
+          echo ""
+          if [ -n "$NOTES_CHANGED" ]; then
+            echo "Updated this release:"
+            printf '%s' "$NOTES_CHANGED"
+            echo ""
+          fi
+          if [ -n "$NOTES_UNCHANGED" ]; then
+            echo "Unchanged:"
+            printf '%s' "$NOTES_UNCHANGED"
+          fi
+        } > release_notes.md
+
+        echo "--- release_notes.md ---"; cat release_notes.md
+        echo "--- manifest.json ---"; cat manifest.json
+        echo "--- assets_out ---"; ls -la assets_out
+
+    - name: Publish rolling 'latest' release
       uses: softprops/action-gh-release@v2
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        tag_name: ${{ steps.ver.outputs.tag }}
-        name: ${{ steps.ver.outputs.tag }}
-        body: |
-          ${{ matrix.book }} version ${{ steps.ver.outputs.version }}
+        tag_name: latest
+        name: Cookbook (latest)
+        body_path: release_notes.md
         draft: false
         prerelease: false
+        # Replace the release's asset set with the freshly assembled complete set.
         files: |
-          ${{ steps.out.outputs.name }}.pdf
-          ${{ steps.out.outputs.name }}.epub
-          ${{ steps.out.outputs.name }}.www.tar
+          assets_out/*
 
   publish_to_google:
     needs: [detect_changes, build_pdf, build_epub]

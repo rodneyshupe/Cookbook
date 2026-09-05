@@ -1,0 +1,66 @@
+name: "Migrate Releases (one-time)"
+
+# Manual, one-time migration from the old per-book release/tag scheme to the
+# new rolling `latest` release + manifest.json scheme. Run the actions in
+# order: seed_publish first (safe), then optionally the destructive cleanups.
+#
+# Actions:
+#   seed          - build manifest.json from existing per-book tags and print it
+#                   (no release changes; safe dry run to review the versions)
+#   seed_publish  - seed, then create/update the rolling `latest` release with
+#                   manifest.json attached
+#   cleanup_books - DELETE the old per-book releases and their tags (destructive)
+#   cleanup_legacy- DELETE the legacy global vMAJOR.MINOR tags (destructive)
+
+on:
+  workflow_dispatch:
+    inputs:
+      action:
+        description: "Which migration step to run"
+        required: true
+        default: "seed"
+        type: choice
+        options:
+          - seed
+          - seed_publish
+          - cleanup_books
+          - cleanup_legacy
+      confirm:
+        description: "Type 'yes' to confirm destructive cleanup_* actions"
+        required: false
+        default: "no"
+        type: string
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python 3.x
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Guard destructive actions
+        if: ${{ startsWith(inputs.action, 'cleanup') && inputs.confirm != 'yes' }}
+        run: |
+          echo "::error::'${{ inputs.action }}' is destructive. Re-run with confirm set to 'yes'."
+          exit 1
+
+      - name: Run migration step
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          case "${{ inputs.action }}" in
+            seed)           bash scripts/migrate_releases.sh seed ;;
+            seed_publish)   bash scripts/migrate_releases.sh publish ;;
+            cleanup_books)  bash scripts/migrate_releases.sh cleanup-books ;;
+            cleanup_legacy) bash scripts/migrate_releases.sh cleanup-legacy ;;
+            *) echo "::error::Unknown action '${{ inputs.action }}'"; exit 2 ;;
+          esac

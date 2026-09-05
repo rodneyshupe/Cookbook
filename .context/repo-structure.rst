@@ -154,9 +154,11 @@ scripts/
   of changed files. Commands: ``list``, ``deps <Book>``, ``changed`` (with
   ``--matrix`` / ``--stdin``). A book name is derived purely from its
   ``Books/<Book>.rst`` filename.
-- ``next_version.sh`` — prints the next ``<Book>-vMAJOR.MINOR`` version from
-  existing git tags (bumps MINOR; seeds new books at ``1.0``; TheMessyChef is
-  seeded to continue its legacy series).
+- ``book_versions.py`` — manifest-based version bookkeeping (replaces the old
+  tag-based ``next_version.sh``). Reads/writes a ``manifest.json`` that records
+  each book's ``version`` and last-updated ``date``. Commands: ``current``,
+  ``next`` (bumps MINOR), ``updated``, ``set``. Seeds new books at ``1.0``
+  (TheMessyChef at ``4.0`` to continue its legacy series).
 - ``mealplanner_toc.py`` — a MealPlanner-only rst2pdf extension (docutils
   transform) that nests each recipe under its week in the PDF ToC. Loaded via
   ``--extension-module`` only for the MealPlanner PDF build.
@@ -187,19 +189,30 @@ Pipeline (per book, driven by a build matrix):
 4. **build_epub** — ``calibre`` (``ebook-convert``) from the HTML output, with
    per-book title/comments metadata and the per-book (or shared) cover.
 5. **build_website** — splits the HTML into a multi-page site.
-6. **release** — one GitHub release per book, tagged ``<Book>-v<version>``,
-   with the PDF/EPUB/website assets attached.
-7. **publish_to_google / publish_to_dropbox / upload_website** — push
-   artifacts to external storage.
+6. **release** — a single rolling GitHub release tagged ``latest`` that always
+   holds the complete set of book assets. Books built this run use their fresh
+   artifacts; every other book's assets are carried forward from the previous
+   ``latest`` release. Per-book versions and last-updated dates live in
+   ``manifest.json`` (an asset on the release), and the release notes list the
+   books updated this run (with new version) and the unchanged books (with the
+   date they were last updated).
+7. **publish_to_google / publish_to_dropbox / upload_website** — push the
+   rebuilt books' artifacts to external storage.
+
+Published output files are prefixed with ``TheMessyChef-`` (e.g.
+``TheMessyChef-AirFryerRecipes.pdf``) except the main ``TheMessyChef`` book,
+which keeps its bare name.
 
 Versioning
 ==========
 
-Releases are tagged ``<Book>-vMAJOR.MINOR``. ``next_version.sh`` takes the
-highest existing tag for a book and increments MINOR; a book with no tag is
-seeded (TheMessyChef continues its legacy series; others start at ``1.0``).
-The first release after a bump therefore comes from the seed logic, and normal
-MINOR bumps follow.
+There are no per-book git tags. Versions and last-updated dates are tracked in
+``manifest.json``, stored as an asset on the rolling ``latest`` release and
+maintained by ``book_versions.py``. On each run, books that were rebuilt get
+their MINOR bumped and the date set to today; unchanged books carry their entry
+forward. A book absent from the manifest is seeded (TheMessyChef at ``4.0`` to
+continue its legacy series; every other book at ``1.0``). The version is also
+injected into each book as the ``|Revision|`` substitution at build time.
 
 Authoring workflow (quick reference)
 ====================================
