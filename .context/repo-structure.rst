@@ -4,10 +4,10 @@ Cookbook Repository Structure & Publishing
 
 .. note::
 
-   This is a context/reference document for humans and AI assistants
-   (Claude, Gemini/Antigravity, Copilot, etc.). It is **not** part of any
-   published book and is not included by any book's ``.. include::`` graph.
-   Keep it up to date when the structure or build process changes.
+   This is a context/reference document for humans and AI coding assistants
+   (whichever editor or agent is in use). It is **not** part of any published
+   book and is not included by any book's ``.. include::`` graph. Keep it up to
+   date when the structure or build process changes.
 
 Purpose
 =======

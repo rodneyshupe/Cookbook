@@ -4,8 +4,8 @@ Recipe Style & Format Guide
 
 .. note::
 
-   This is a context/reference document for humans and AI assistants
-   (Claude, Gemini/Antigravity, Copilot, etc.). Its purpose is to define the
+   This is a context/reference document for humans and AI coding assistants
+   (whichever editor or agent is in use). Its purpose is to define the
    **canonical, consistent format, tone, and voice** for recipe files so that
    existing recipes can be rewritten to match and new ones authored to fit.
    It is not part of any published book.
