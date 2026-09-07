@@ -30,12 +30,15 @@ h3 {
   font-family: 'Arial', 'Helvetica', sans-serif;
   font-size: 150%;
   color: #21618C;
-  /* Each recipe title renders as an <h3>. Putting the page break on the
-     heading itself makes the break, the heading's anchor, and the visible
+  /* Each recipe title renders as an h3 heading. Putting the page break on the
+     heading itself makes the break, the heading anchor, and the visible
      heading the SAME element, so epub readers (notably Kobo) land TOC jumps
      on the recipe heading instead of the trailing edge of the previous
-     recipe. `break-before` is the modern CSS property; `page-break-before`
-     is kept for older rendering engines. */
+     recipe. break-before is the modern CSS property; page-break-before is
+     kept for older rendering engines.
+     NOTE: keep angle-bracket tag names out of this comment -- the stylesheet
+     is inlined into a style element and the website build parses it with
+     html-xml-utils, which misreads a literal tag here as real markup. */
   page-break-before: always;
   break-before: page;
 }
