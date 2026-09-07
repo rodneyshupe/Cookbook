@@ -302,32 +302,32 @@ jobs:
           echo "name=TheMessyChef-${{ matrix.book }}" >> "$GITHUB_OUTPUT"
         fi
 
+    - name: Prepare HTML for epub (fix Kobo TOC landing)
+      run: |
+        # Kobo TOC mis-landing root cause (verified against real Calibre output):
+        # recipes are separated by a standalone `<p style="page-break-before:
+        # always"/>` that docutils emits as the LAST child of the PREVIOUS
+        # recipe's <section>. When Calibre splits the epub, that trailing break
+        # makes it migrate the previous section's id anchors into zero-height
+        # ghost <div>s at the TOP of the next recipe's file, so a TOC tap lands
+        # on the tail of the previous recipe.
+        #
+        # Removing those standalone paragraphs makes Calibre split cleanly at
+        # each section boundary: no ghost anchors, and every recipe/category
+        # becomes its own spine item that starts on a fresh page (so the visual
+        # break is preserved by the file split). Only the epub's HTML copy is
+        # rewritten; the PDF and website builds are untouched.
+        python scripts/prep_epub_html.py "${{ matrix.book }}.html" "${{ matrix.book }}.epub-src.html"
+
     - name: Build epub
       run: |
-        # Kobo TOC landing fix.
-        #
-        # In the assembled HTML, category titles render as <h2> and individual
-        # recipe titles as <h3>, each wrapped in a docutils <section id="..">.
-        #
-        # The problem: when the epub nav anchor (what a TOC tap jumps to) and
-        # the file SPLIT boundary are different DOM nodes, Kobo lands on the tail
-        # of the PREVIOUS file. Calibre's `--levelN-toc` XPath anchors on the
-        # heading, while the split happened elsewhere -> mis-landing.
-        #
-        # The fix (per Calibre's own nested-TOC guidance): detect chapters at
-        # BOTH heading levels and build the TOC from those SAME levels, so the
-        # page-break/split boundary and the nav anchor are the same node.
-        #   --chapter "//h:h2|//h:h3"  : every category (h2) and recipe (h3) is a
-        #                                chapter -> split + anchor at that node.
-        #   --chapter-mark pagebreak   : insert a real page break at each chapter
-        #                                start (restores the visual break before
-        #                                each category, which the recipes lost).
-        #   --level1-toc / --level2-toc: nested TOC (category > recipe) pointing
-        #                                at the same h2/h3 chapter nodes.
-        # Because the TOC entry, the page break, and the split boundary now all
-        # resolve to the same heading node, Kobo lands the jump on the target
-        # heading instead of the tail of the previous section.
-        ebook-convert "${{ matrix.book }}.html" "${{ steps.out.outputs.name }}.epub" \
+        # Convert the prepped HTML. --chapter selects every category (h2) and
+        # recipe (h3) as a chapter so each starts its own file; --level1/2-toc
+        # build the nested category > recipe TOC. With the stray page-break
+        # paragraphs gone (prep step above), the TOC target file now starts with
+        # its own heading, so Kobo lands on the recipe instead of the previous
+        # one.
+        ebook-convert "${{ matrix.book }}.epub-src.html" "${{ steps.out.outputs.name }}.epub" \
           --title "${{ steps.meta.outputs.title }}" \
           --authors "Rodney Shupe" \
           --author-sort "Shupe Rodney" \
