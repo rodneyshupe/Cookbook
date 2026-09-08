@@ -21,7 +21,11 @@ The docutils output has two problems for this:
 
 What this script does
 ---------------------
-  1. Remove the stray standalone page-break paragraphs (fixes the ghost anchors).
+  1. Remove the stray standalone page-break paragraphs that appear WITHIN the
+     recipe/category content (i.e. from the first <section> onward), which fixes
+     the ghost anchors. The front-matter page breaks BEFORE the first <section>
+     (they separate the title page, the Author/Revision/Date block, and the main
+     Table of Contents into their own pages) are PRESERVED.
   2. Insert a clean ``<div class="pagebreak"></div>`` immediately BEFORE each
      ``<section>`` that wraps a recipe (h3) or category (h2) heading. This gives
      Calibre a clean, correctly-placed break so it splits into one file per
@@ -57,9 +61,19 @@ BREAK_DIV = '<div class="pagebreak"></div>'
 
 
 def prepare(html: str):
-    removed_before = html.count("page-break-before")
-    html = PAGE_BREAK_P.sub("", html)
-    removed = removed_before - html.count("page-break-before")
+    # Split the document at the first <section ...> so we only touch the recipe
+    # body. Everything before it is front matter (title, Author/Revision/Date
+    # field list, main TOC) whose page breaks must be preserved so each stays on
+    # its own page.
+    first = re.search(r'<section\b', html)
+    if first:
+        head, tail = html[: first.start()], html[first.start():]
+    else:
+        head, tail = "", html
+
+    removed_before = tail.count("page-break-before")
+    tail = PAGE_BREAK_P.sub("", tail)
+    removed = removed_before - tail.count("page-break-before")
 
     inserted = 0
 
@@ -68,8 +82,8 @@ def prepare(html: str):
         inserted += 1
         return BREAK_DIV + m.group(1)
 
-    html = SECTION_BEFORE_HEADING.sub(repl, html)
-    return html, removed, inserted
+    tail = SECTION_BEFORE_HEADING.sub(repl, tail)
+    return head + tail, removed, inserted
 
 
 def main(argv):
