@@ -153,12 +153,25 @@ scripts/
   graph plus shared assets, and decides which books to rebuild for a given set
   of changed files. Commands: ``list``, ``deps <Book>``, ``changed`` (with
   ``--matrix`` / ``--stdin``). A book name is derived purely from its
-  ``Books/<Book>.rst`` filename.
+  ``Books/<Book>.rst`` filename. Its ``SHARED_ASSETS`` list names files whose
+  change forces **every** book to rebuild — this includes the build-pipeline
+  scripts (``book_deps.py``, ``prep_epub_html.py``, ``fix_epub_nav.py``,
+  ``book_versions.py``) and the shared CSS/YAML/cover/workflow. If you add a
+  script that changes output for all books, add it here, or a push that only
+  touches it will rebuild nothing and the release will carry forward stale
+  assets.
 - ``book_versions.py`` — manifest-based version bookkeeping (replaces the old
   tag-based ``next_version.sh``). Reads/writes a ``manifest.json`` that records
   each book's ``version`` and last-updated ``date``. Commands: ``current``,
   ``next`` (bumps MINOR), ``updated``, ``set``. Seeds new books at ``1.0``
   (TheMessyChef at ``4.0`` to continue its legacy series).
+- ``prep_epub_html.py`` — rewrites the epub's HTML copy for a Kobo-friendly
+  build: strips stray in-body page-break paragraphs and inserts a
+  ``<div class="pagebreak">`` before each recipe/category so Calibre splits one
+  file per recipe (see "EPUB / Kobo pipeline"). Only used by ``build_epub``.
+- ``fix_epub_nav.py`` — post-processes an unzipped split epub, appending each
+  file's first-heading ``#id`` to the ``toc.ncx`` / nav targets so Kobo TOC
+  jumps land on the heading instead of the previous file's tail.
 - ``mealplanner_toc.py`` — a MealPlanner-only rst2pdf extension (docutils
   transform) that nests each recipe under its week in the PDF ToC. Loaded via
   ``--extension-module`` only for the MealPlanner PDF build.
@@ -186,8 +199,11 @@ Pipeline (per book, driven by a build matrix):
    the per-book cover (else shared cover); for MealPlanner, adds the
    ``mealplanner_toc.py`` extension. Loads the ``preprocess`` extension.
 3. **build_html** — ``rst2html5`` on ``Books/<Book>.html.rst``.
-4. **build_epub** — ``calibre`` (``ebook-convert``) from the HTML output, with
-   per-book title/comments metadata and the per-book (or shared) cover.
+4. **build_epub** — produces both a plain ``.epub`` and a Kobo ``.kepub.epub``
+   from the HTML output (see "EPUB / Kobo pipeline" below for the why). Steps:
+   ``prep_epub_html.py`` → ``ebook-convert`` (split per recipe/category) →
+   ``fix_epub_nav.py`` (repackaged) → ``kepubify``. Per-book title/comments
+   metadata and the per-book (or shared) cover are applied here.
 5. **build_website** — splits the HTML into a multi-page site.
 6. **release** — a single rolling GitHub release tagged ``latest`` that always
    holds the complete set of book assets. Books built this run use their fresh
@@ -197,11 +213,78 @@ Pipeline (per book, driven by a build matrix):
    books updated this run (with new version) and the unchanged books (with the
    date they were last updated).
 7. **publish_to_google / publish_to_dropbox / upload_website** — push the
-   rebuilt books' artifacts to external storage.
+   rebuilt books' artifacts to external storage. Google Drive and the GitHub
+   ``release`` get the plain ``.epub``; **Dropbox (the Rakuten Kobo folder)
+   gets the ``.kepub.epub``** because Kobo renders kepub with its native
+   viewer.
 
 Published output files are prefixed with ``TheMessyChef-`` (e.g.
 ``TheMessyChef-AirFryerRecipes.pdf``) except the main ``TheMessyChef`` book,
 which keeps its bare name.
+
+EPUB / Kobo pipeline (hard-won; read before touching build_epub)
+================================================================
+
+The epub build is more involved than a single ``ebook-convert`` call because
+of how the **Kobo eReader** renders epubs. The behaviours below were verified
+against real Calibre + kepubify output and on a physical Kobo; do not "simplify"
+this pipeline without re-testing on a Kobo.
+
+Facts about Kobo:
+
+- Kobo only inserts a page break at **spine-file boundaries**. It ignores
+  in-file CSS page breaks (``page-break-before`` / ``break-before``) and
+  standalone break paragraphs. So to get a visual page break before every
+  recipe/category, **each must be its own epub file** (Calibre ``--chapter``).
+- When a chapter is a whole file, Calibre writes a **bare-file nav target**
+  (no ``#fragment``). Kobo lands a bare-file target on the **previous** file's
+  last page (an off-by-one). The nav must point at a ``#fragment`` on the
+  first heading **inside** the file so Kobo scrolls to the heading.
+
+The pipeline that satisfies both (in ``build_epub``):
+
+1. ``scripts/prep_epub_html.py`` — on the epub's HTML copy only: strips the
+   stray ``<p style="page-break-before">`` paragraphs **within the recipe body**
+   (from the first ``<section>`` on; they corrupt anchors when Calibre splits),
+   **preserves the front-matter breaks** (title / author-block / TOC page
+   separators), and inserts a clean ``<div class="pagebreak">`` before each
+   recipe (h3) and category (h2) section so Calibre splits one file per recipe.
+2. ``ebook-convert`` — ``--chapter "//h:h2|//h:h3"`` (split per file),
+   ``--chapter-mark none``, nested ``--level1-toc "//h:h2"`` /
+   ``--level2-toc "//h:h3"``, and ``--extra-css`` for the ``.pagebreak`` class.
+3. ``scripts/fix_epub_nav.py`` — on the **unzipped** epub: appends each file's
+   first-heading ``#id`` to the ``toc.ncx`` / nav targets, then the workflow
+   repackages (mimetype first and **stored**, per the epub spec).
+4. ``kepubify`` (static Linux binary, downloaded in the step) — emits
+   ``<name>.kepub.epub`` for Kobo.
+
+Front-matter (Author / Revision / Date) gotcha
+-----------------------------------------------
+
+The HTML books are built with the **PyPI ``rst2html5`` (v2.x)**, which is a
+different tool from the Docutils-bundled ``rst2html5``. v2.x treats a docutils
+**bibliographic field list** (``:Author:`` / ``:Revision:`` / ``:Date:``) as
+document metadata and emits it as ``<meta>`` tags in ``<head>`` — so it never
+renders as a visible page. Therefore the ``*.html.rst`` front matter uses
+**plain centered paragraphs**, not a field list and not an RST line block
+(a line block becomes ``<pre class="line_block">``, which is monospace in Apple
+Books). Keep front matter as::
+
+   .. class:: center
+
+   **Author:** Rodney Shupe <messychef@shupe.ca>
+
+   .. class:: center
+
+   **Revision:** |Revision|
+
+   .. class:: center
+
+   **Date:** |Date|
+
+When validating an epub change locally you must use the **PyPI ``rst2html5``**
+(``pip install rst2html5``), not the Docutils default, or the front-matter
+behaviour will not reproduce.
 
 Versioning
 ==========
