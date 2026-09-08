@@ -85,3 +85,9 @@ li {
 p {
   font-family: 'Verdana', 'Arial', 'San Francisco', 'Helvetica', sans-serif;
 }
+/* The front-matter Author/Revision/Date uses an RST line block, which the
+   default docutils stylesheet renders in a monospace (Courier) font. Force the
+   same sans-serif stack as the rest of the page. */
+.line-block, .line {
+  font-family: 'Verdana', 'Arial', 'San Francisco', 'Helvetica', sans-serif;
+}
