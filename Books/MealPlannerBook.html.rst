@@ -18,9 +18,15 @@ A 5-Week Curated Meal Planner, Shopping Guide, and No-Repeat Modular Recipes
 
 .. class:: center
 
-| **Author:** Rodney Shupe <messychef@shupe.ca>
-| **Revision:** |Revision|
-| **Date:** |Date|
+**Author:** Rodney Shupe <messychef@shupe.ca>
+
+.. class:: center
+
+**Revision:** |Revision|
+
+.. class:: center
+
+**Date:** |Date|
 
 .. raw:: html
 

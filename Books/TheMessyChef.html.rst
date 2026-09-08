@@ -18,9 +18,15 @@ a collection of recipes containing the favorites of Rodney Shupe and family
 
 .. class:: center
 
-| **Author:** Rodney Shupe <messychef@shupe.ca>
-| **Revision:** |Revision|
-| **Date:** |Date|
+**Author:** Rodney Shupe <messychef@shupe.ca>
+
+.. class:: center
+
+**Revision:** |Revision|
+
+.. class:: center
+
+**Date:** |Date|
 
 .. raw:: html
 
