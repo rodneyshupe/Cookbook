@@ -16,9 +16,11 @@ a collection of sous-vide recipes from Rodney Shupe and family
 
    <p style="page-break-before: always"/>
 
-:Author: Rodney Shupe <messychef@shupe.ca>
-:Revision: |Revision|
-:Date: |Date|
+.. class:: center
+
+| **Author:** Rodney Shupe <messychef@shupe.ca>
+| **Revision:** |Revision|
+| **Date:** |Date|
 
 .. raw:: html
 
