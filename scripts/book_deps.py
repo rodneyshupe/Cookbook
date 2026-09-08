@@ -35,12 +35,19 @@ BOOKS_DIR = os.path.join(REPO_ROOT, "Books")
 INCLUDE_RE = re.compile(r"^\s*\.\.\s+include::\s+(.+?)\s*$")
 
 # Assets whose change forces every book to rebuild. Paths are repo-relative.
+# Includes the build-pipeline scripts that affect output for every book: the
+# dependency resolver itself, the epub HTML prep, the epub nav fixer, and the
+# version bookkeeping. A change to any of these must rebuild all books,
+# otherwise the release job carries forward stale assets built by the old code.
 SHARED_ASSETS = [
     "assets/Cookbook.yaml",
     "assets/Cookbook.css",
     "assets/Cover.png",
     ".github/workflows/publish_book.yml",
     "scripts/book_deps.py",
+    "scripts/prep_epub_html.py",
+    "scripts/fix_epub_nav.py",
+    "scripts/book_versions.py",
 ]
 
 
